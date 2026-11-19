@@ -106,14 +106,10 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.157 — Shimazaki mentioned in passing
-[scene] (p.157) Named in the context of the Task site.
-[note] (p.157) Passing mention; not a distinct scene presence.
-[mentioned] (p.157) Passing mention only.
+### y2v3 p.157–158 — Shimazaki at the fish grill
+[scene] (p.157–158) Travels with Class 2-A's trio (Karuizawa Kei, Fukuyama Shinobu); at the river camp; acad skill; they follow the smell of Ike's fish grill.
 
-<!-- walk: y2v3 Ch.4 → p.157 -->
-
-
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v12
 

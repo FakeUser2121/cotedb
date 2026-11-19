@@ -630,26 +630,27 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.130–132 — Nagumo's beach warning and hidden strategy
-[scene] (p.130) In the ocean near the Task site with Asahina and other third-years, having rented swimsuits and a beach ball; beckons Ayanokōji over.
-[says] (p.130) "I'll say it again just to be sure: Don't get in my way, got it?"
-[says] (p.130) "How about you come take a swim with us?"
-[says] (p.131) "the real event starts tomorrow."
-[says] (p.131) "First and second-years have no right to stand on the winners' podium. You're no exception either, so keep that in mind."
-[says] (p.131) "Horikita-senpai would probably be fairly disappointed if you self-destructed and got yourself expelled."
-[says] (p.131) "In that case, you'd better group up with someone as soon as possible."
-[trait] (p.130–132) Confident and calculating — plays relaxed on the beach while hiding a strategy to keep first/second-years off the podium (to be used if they threaten the top); warns Ayanokōji pointedly, references Horikita, and walks off with Masuwaka to discuss something privately (away from Ayanokōji).
-[rel:ayanokouji-kiyotaka] (p.130–132) Warns him not to get in his way; hints he has a strategy against lower years — Ayanokōji suspects it's real.
-[rel:asahina-nazuna] (p.131–132) Class 2-C's Mii-chan playing in the ocean; tries to warn Ayanokōji about Nagumo.
-[rel:horikita-suzune] (p.131) References her — knows of their connection.
-[rel:masuwaka] (p.131) Third-year who calls Nagumo away for a private talk.
+### y2v3 p.128–132 — Nagumo: the sandbar heads-up; the real event starts tomorrow
+[scene] (p.128–130) On the sandbar with his third-year friends, swimming and lounging in rented swimsuits and a beach ball; he beckons Ayanokōji over.
+[says] (p.130) “I’ll say it again just to be sure: Don’t get in my way, got it?”
+[says] (p.130) “From what I saw, it didn’t look like you were able to participate in that Task.”
+[says] (p.130) “Aren’t we the same in that regard? Or did you just come here because of a nearby designated area?”
+[says] (p.130) “Hmm, who knows?”
+[says] (p.130) “How about you come take a swim with us?”
+[says] (p.130) “You seem awfully composed, playing on the beach like this. I thought you’d be fighting tooth and nail to rack up points like the rest of us.”
+[says] (p.130) “Well it’s important to take breaks, right? Besides… the real event starts tomorrow.”
+[scene] (p.131–132) His warning about first/second-years; the 4th day promise; the Masuwaka pull-away; Asahina's aborted whisper.
+[says] (p.131) “If it turns out that a first or second-year group has managed to sneak into the top three, I’ll take action accordingly. First and second-years have no right to stand on the winners’ podium. You’re no exception either, so keep that in mind.”
+[says] (p.131) “Thank you very much for your considerate advice.” — no wait, that's AK's line.
+[says] (p.131) “In that case, you’d better group up with someone as soon as possible. Horikita-senpai would probably be fairly disappointed if you self-destructed and got yourself expelled.”
+[says:masuwaka] (p.131) “Nagumo. Come over here for a sec?”
+[says] (p.132) “Asahina, it’s time. Let’s get going.”
+[trait] (p.128–132) President of the student council; leader of Class 3-A; the beach frolic is a façade; the first/second-year rule is his intended trap; his strategy unrevealed; his calm is total.
+[rel:ayanokouji-kiyotaka] (p.128–132) Warns him; hints at action.
+[rel:kiriyama-ikuto] (p.128–132) His VP on the front lines; they stage the run.
+[rel:asahina-nazuna] (p.131–132) Interrupts her mid-sentence.
 
-
-### y2v3 p.130–132 — Nagumo appears at the Beach Flags Task
-[scene] (p.130–132) He appears at the Beach Flags Task and talks with Ayanokōji; he suggests Ayanokōji should group up with someone.
-[trait] (p.130–132) Calculating and observant.
-
-<!-- walk: y2v3 Ch.4 → p.132 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ### y2v3 p.51–52 — Nagumo searched for at 3-B's disembarkation
 [mentioned] (p.51–52) “From the numbers, it seemed like students from Class 3-B had just about finished disembarking, so I took a moment to try and catch a glimpse of Nagumo. However, I couldn’t find him anywhere. … As I continued to look for him, the third-year students who were walking toward me eventually caught up and began to pass by. … I continued to linger around the area for a little bit longer, but ultimately never caught sight of Nagumo.” — named as Ayanokōji's target to spot; not seen; POV Ayanokōji.

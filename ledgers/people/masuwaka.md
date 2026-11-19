@@ -9,14 +9,8 @@ char_id: masuwaka · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.131 — Masuwaka mentioned in passing
-[scene] (p.131) Named in the context of Nagumo's strategy.
-[note] (p.131) Passing mention; not a distinct scene presence.
-[mentioned] (p.131) Passing mention only.
+### y2v3 p.131 — Masuwaka pulls Nagumo aside
+[scene] (p.131) A third-year who calls Nagumo away just as he finishes his sentence to Ayanokōji; the pair talk out of earshot.
+[says] (p.131) “Nagumo. Come over here for a sec?”
 
-<!-- walk: y2v3 Ch.4 → p.131 -->
-
-
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->

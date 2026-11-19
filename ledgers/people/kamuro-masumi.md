@@ -328,12 +328,12 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.120–126 — Kamuro at the Beach Flags Task
-[scene] (p.120–126) She participates in the Beach Flags Task and arrives late; she is surprised Ayanokōji is there.
-[says] (p.123) "Oh shut it. Don't talk to me… It's hot and I'm all sweaty now, this"
-[trait] (p.120–126) Blunt and competitive.
+### y2v3 p.142 — Kamuro steams ahead of Ninomiya
+[scene] (p.142) His trio reaches the History Test site together; the lagging Ninomiya misses the lock; Ayanokōji claims the second-to-last spot; she shrugs at the whole thing.
+[says:hashimoto-masayoshi] (p.142) “In any case, good work getting here, Masumi-chan.”
+[says] (p.142) “Oh shut it. Don’t talk to me… It’s hot and I’m all sweaty now, this sucks…!”
 
-<!-- walk: y2v3 Ch.4 → p.126 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v4.5
 

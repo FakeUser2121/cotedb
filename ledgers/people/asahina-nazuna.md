@@ -118,12 +118,17 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.130–132 — Asahina with Nagumo
-[scene] (p.130–132) She is with Nagumo at the Beach Flags Task; she says goodbye to Ayanokōji.
-[says] (p.132) "W-well, good luck."
-[trait] (p.130–132) Present with Nagumo.
+### y2v3 p.131–132 — Asahina's aborted warning
+[scene] (p.131–132) She stops playing in the ocean and sidles up to Ayanokōji once Nagumo steps away; her whispered advice is swallowed by Nagumo's return.
+[says] (p.132) “Heyo. Word is that you’re working alone?”
+[says:ayanokouji-kiyotaka] (p.132) “Well. You probably heard me earlier, but I’ve got a tough fight ahead of me.”
+[says] (p.132) “That so…? Maybe that’s for the best though. If Miyabi were to start goin’ after you… things’d prolly get pretty dicey for ya, yeah? So here’s some advice. While you’ve got the chance, go meet up with as many groups as possible and───”
+[says:nagumo-miyabi] (p.132) “Asahina, it’s time. Let’s get going.”
+[says] (p.132) “W-well, good luck.”
+[trait] (p.131–132) Opportunistic warner; her advice cuts off halfway; the rest he infers himself.
+[rel:nagumo-miyabi] (p.131–132) Her leader; she keeps playing along.
 
-<!-- walk: y2v3 Ch.4 → p.132 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v7
 

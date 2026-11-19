@@ -250,12 +250,18 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.150–151, 193–201 — Sakagami (teacher) at Tasks
-[scene] (p.150–151) He is the teacher at the Task site; Ayanokōji registers for a Task.
-[scene] (p.193–201) He is present at the Task site where Ayanokōji and Nanase participate.
-[note] (p.150–151, 193–201) Sakagami is a teacher, not a student; passing mentions.
+### y2v3 p.150–151 — Sakagami at the water-race Task
+[scene] (p.150–151) A teacher (Class 2-B homeroom) caught early while setting up a Task site near the H4 center; Ayanokōji calls out to sign up for the first/second spots; the water-race Task; his delivery of 2L/1.5L and the points.
+[says:ayanokouji-kiyotaka] (p.150) “Hello.”
+[says] (p.150) “Oh… Ayanokōji?”
+[says:ayanokouji-kiyotaka] (p.150) “Is it alright if we’re the first ones to sign up, Sakagami-sensei?”
+[says] (p.150) “Yes.”
+[says] (p.151) “This is a Task where you earn water according to the order in which you arrive, a race, essentially. Ayanokōji, having come in first, will receive 2 liters of water and three points. As you came in second, Nanase, you’ll receive 1.5 liters of water and two points.”
+[says] (p.151) “Well then, you can register for the Task now.”
+[says] (p.151) “Luck is also an extension of your abilities, you two. Be proud.”
+[note] (p.150–151) Task registration paperwork handled before the clock struck 3:30; his Task: order-of-arrival water race — AK first (2L/3 points), Nanase second (1.5L/2 points).
 
-<!-- walk: y2v3 Ch.4 → p.201 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v5
 

@@ -9,15 +9,7 @@ char_id: tokunaga · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.125–126, 365–366 — Tokunaga mentioned in passing
-[scene] (p.125–126) Named in the Beach Flags Task context.
-[scene] (p.365–366) Named in the short stories context.
-[note] (p.125–126, 365–366) Passing mentions; not a distinct scene presence.
-[mentioned] (p.125–126, 365–366) Passing mention only.
+### y2v3 p.125–126 — Tokunaga vs Nanase: the final
+[scene] (p.125–126) A third-year girl with an identical B+ Physical Ability rating; wins her last two matches decisively; the final is a proper showdown — even start, then Nanase's stronger pull; her smile bitter; the handshake offered to the victor two years her junior.
 
-<!-- walk: y2v3 Ch.4 → p.366 -->
-
-
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->

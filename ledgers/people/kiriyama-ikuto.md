@@ -145,20 +145,17 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.120–130 — Kiriyama at the Beach Flags Task
-[scene] (p.120–125) He is present at the Beach Flags Task; Ayanokōji notes his presence and Kiriyama warns him.
-[scene] (p.127) He warns Ayanokōji not to get in his way.
-[scene] (p.130) He is mentioned in the context of Nagumo's strategy.
-[note] (p.120–130) Kiriyama is present in these scenes; see the y2v2 block for his full entry.
+### y2v3 p.120–128 — Kiriyama rushes the last boys' slot; the Beach Flags bracket
+[scene] (p.120–121) At the Beach Flags registration, the moment he spots Ayanokōji and Nanase, he rushes to the staff to claim the last boys' spot; Ayanokōji is locked out; girls' side, seven of eight slots taken; his whole cohort is third-years; he competes and wins decisively.
+[scene] (p.123) His first match vs his own classmate — neck-and-neck, an arm-length flag pull; he seizes it by a point of pure physicality; every other match equally fierce; no throwing.
+[scene] (p.127) After his victory, he approaches Ayanokōji at the beach for the first time since his sprint.
+[says] (p.127) “Ayanokōji, don’t say anything unnecessary.”
+[scene] (p.128) Kiriyama and the other third-years pull out toward the forest; the finish-fix reading; his honesty policy per Nagumo's rankings plan.
+[trait] (p.120–128) The student council VP (B+ physical); fiercely secures his spot; openly hostile toward outside eyes on Nagumo; fights dirty only with words.
+[rel:ayanokouji-kiyotaka] (p.120–128) Warns him twice.
+[rel:nagumo-miyabi] (p.120–128) His president; he's working the fix (if it exists) to keep the first/second-years off the podium.
 
-<!-- walk: y2v3 Ch.4 → p.130 -->
-
-### y2v3 p.127 — Kiriyama warns Ayanokōji
-[scene] (p.127) He approaches Ayanokōji at the Beach Flags Task and warns him not to get in his way.
-[says] (p.127) "I'll say it again just to be sure: Don't get in my way, got it?"
-[trait] (p.127) Hostile and on guard.
-
-<!-- walk: y2v3 Ch.4 → p.127 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v4
 

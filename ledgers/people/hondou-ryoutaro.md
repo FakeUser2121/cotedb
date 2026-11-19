@@ -90,6 +90,7 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.90) The group tops the quiz; his energy stands out against Ike's flat high-five.
 [says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
 
+
 ### y2v3 p.97–108 — The tremulous tent-neighbor; Ike's support
 [scene] (p.97) Follows Ike into the clearing; gasping after the replacement-Task day; says nothing about it.
 [scene] (p.98–99) Watches for dinner; eyes the unused fishing rod.
@@ -117,11 +118,13 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
-### y2v3 p.113–114 — Hondō with Sudō's group
-[scene] (p.113–114) He is with Sudō's group; he seems disinterested but participates.
-[trait] (p.113–114) Present but not very engaged.
 
-<!-- walk: y2v3 Ch.4 → p.114 -->
+### y2v3 p.113 — Hondō at the joint trek
+[scene] (p.113) His group takes the same route to I8; splits off for the I9 Task with Sudō and Ike once they arrive.
+[note] (p.154–157) He rejoins at the riverside camp after dinner prep; not much quoted in this volume segment.
+[mentioned] (p.113) “Sure thing. You down, Kanji?” — Sudō's invite to Ike in the trek conversation.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v4.5
 

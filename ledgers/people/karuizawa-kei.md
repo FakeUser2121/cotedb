@@ -2025,11 +2025,55 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
+
 ### y2v3 p.48–49 — Kei mentioned at the start
 [scene] (p.48–49) She is mentioned in passing; Nishino and Tsube are seen heading out; Ayanokōji notes Kei's group situation.
 [trait] (p.48–49) Part of the class's group dynamics.
 
 <!-- walk: y2v3 Ch.2 → p.49 -->
+
+### y2v3 p.157–158 — The fish grill; the coincidental matchup
+[scene] (p.157–158) Her trio (Shimazaki Ikkei, Fukuyama Shinobu) wanders toward the fish-grill smell; she freezes on seeing him; her stifled “Ah-!”; the cover story; the fish invitation; his reluctant cooking for five extra people.
+[says] (p.157) “Ah-!”
+[says:sudou-ken] (p.157) “What wrong, Karuizawa-san?”
+[says] (p.157) “Oh, nothing. I was just, like, shocked ‘bout them grilling fish is all.”
+[says] (p.157) “Hey, why don’t we camp here too? I think Ike-kun’d be willing to treat us.”
+[says:ike-kanji] (p.157) “Haah!? Why should I treat you!?”
+[says] (p.157) “C’mon, it’s not like you’ll run outta fish.”
+[says:ike-kanji] (p.157) “There’ll be less for us if you guys eat them! No way!”
+[says:sudou-ken] (p.158) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.”
+[says:ike-kanji] (p.158) “I-it can’t be helped! I guess I’ll just have to prepare for three more people!”
+[says] (p.158) “For real? Sweet! It’s a good thing I tried asking.”
+
+### y2v3 p.159–163 — Under the big tree: 37 points; the Nanase question; the first kiss
+[scene] (p.159–160) He slips away with a forest errand; she follows not long after; they meet at a large tree; her group's tally (37 points); eleven days remain; his White Room check on her (nothing); her tablet of everyone she's interacted with.
+[says] (p.160) “You seem to be doing alright.”
+[says] (p.160) “I’m just relying on the other two, mostly. How about you, Kiyotaka?”
+[says:ayanokouji-kiyotaka] (p.160) “I’m doing well, all things considered.”
+[says] (p.160) “Well, since it’s you we’re talking about, you’ll be fine for sure.”
+[says] (p.160) “Anywho, I just wish this exam would end already… I can’t believe we’ve still got 11 more days of this.”
+[says:ayanokouji-kiyotaka] (p.160) “By the way, has anything happened these past few days?”
+[says] (p.160) “You mean『that person』you told me about, right? Hmm, nope, nothing comes to mind.”
+[says] (p.160) “Just in case, I’ve noted down everybody I’ve come in contact with on my tablet.”
+[scene] (p.161–163) The “first-year girl” question; her discomfort; his pressed lips; the under-a-second kiss; she dazed; she's sent back to the camp.
+[says] (p.161) “By. The. Way.”
+[says:ayanokouji-kiyotaka] (p.161) “Hm?”
+[says] (p.161) “I heard that first-year girl back at the campsite has been traveling around with you, Kiyotaka.”
+[says:ayanokouji-kiyotaka] (p.161) “Word travels fast, it seems.”
+[says] (p.161) “When I asked Ike-kun, he told me immediately though? Wait, that’s not the point here!”
+[says:ayanokouji-kiyotaka] (p.161) “Are you worried? That I’m spending all this time alone with another girl?”
+[says] (p.161) “Wait wait wait, w-what? I’m not, like, worried or a… Of course I’m worried!”
+[says:ayanokouji-kiyotaka] (p.162) “I’m just traveling together with Nanase in order to successfully get through the special exam. That’s it.”
+[says] (p.162) “…Really?”
+[says:ayanokouji-kiyotaka] (p.162) “Yeah. It goes without saying that I have no other intentions with her.”
+[says] (p.162) “I believe you, but, but still like, when I think of you being alone with another girl… I hate it.”
+[says:ayanokouji-kiyotaka] (p.162) “Kei.”
+[says] (p.162) “Wa? Huh? I, J-just now… a k-kiss? …Eh? Eh!?”
+[says:ayanokouji-kiyotaka] (p.162) “Have faith in me and wait for now, okay?”
+[says:ayanokouji-kiyotaka] (p.162) “The others may start to suspect something if we’re gone too long. You should head back.”
+[note] (p.162) His first kiss, under a second; she is sent back alone; she never learns of the Nanase plan.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v4
 

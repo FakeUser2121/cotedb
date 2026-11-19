@@ -1856,12 +1856,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.87) “If she was givin’ you a hard time, I was gonna have her buzz off, but if yer sayin’ it’s fine, then I guess I’ll leave it be.”
 [says] (p.87) “We can talk more afterward. A Task is a Task, just like you said, so let’s do our best.”
 
+
 ### y2v3 p.88–90 — Anime quiz: 95%, first place
 [scene] (p.88) The genre lands: 『Quiz Genre・Anime』; Question 1 — the Mobile Samurai Bombdam question; his group digs it; Question 2 — Dashu Sea Chicken.
 [says:hondou-ryoutaro] (p.88) “Forreal!? This is uber-mega-easy!”
 [scene] (p.90) Sudō’s group tops the quiz (95%, ~19/20); he calls it in with a high-five — Ike’s is barely there.
 [says] (p.90) “We freakin’ did it Kanji!”
 [trait] (p.84–90) His anime knowledge quietly carries the team; physical strength and knowledge, not just academics; deadly serious about threats to friends.
+
 
 ### y2v3 p.94–99 — The G9 beach plan; the clearing camp
 [scene] (p.94–96) Overhears the H9 camp plan; proposes a meet-up after; sets it for 5:30 on the G9 beach; a chance to scheme for practice.
@@ -1877,6 +1879,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.98) “Welp, let’s get these tents set up pronto and get some grub. I’m starving.”
 [says] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
 [says] (p.98) “Well, I guess it can’t be helped then.”
+
 
 ### y2v3 p.100–109 — The tent-fire: Ike's Shinohara confession
 [scene] (p.100–103) Mosquitos; the mesh-tent council; he warns Hondō that Nanase is not to be trusted; she owns her past; the talk pivots to Ike; he pushes Ike to speak.
@@ -1905,13 +1908,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.84–109) The referral for strategy; the G9 meetup.
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
-### y2v3 p.113–114 — Sudō joins Ayanokōji's group
-[scene] (p.113–114) He meets Ayanokōji and Nanase; they discuss designated areas and travel together.
-[trait] (p.113–114) Friendly and casual — he joins their group willingly.
 
-<!-- walk: y2v3 Ch.4 → p.114 -->
+### y2v3 p.113 — Sudō's I8 ticket
+[scene] (p.113) South-east to northeast trek with Ayanokōji and Nanase; the I8 designation; the I9 Task pull once the area clears.
+[says] (p.113) “We got I8 so if you two are goin’ the same way we can head out together. I’m fired up so let’s get this done!”
+[says] (p.113) “Sure thing. You down, Kanji?”
+[says] (p.114) “There’s no use worryin’ ‘bout that. Ayanokōji’s always got that sorta look on his face.”
 
+### y2v3 p.154–158 — The river camp; the fish negotiation
+[scene] (p.154–158) Meets them at the river; the group's cumulative 4th C; the fish dinner; the class 2-A trio joins; the Kei/Ichinose probe talk.
+[says] (p.154) “Hold up, what was your last designated area today, you two…?”
+[says] (p.155) “Man, what’re the odds!”
+[says] (p.157) “What wrong, Karuizawa-san?”
+[says] (p.158) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.”
+[rel:ayanokouji-kiyotaka] (p.113–158) The trek/route twin; the beach; the grill.
+[rel:ike-kanji] (p.157–158) Reconnects him with his route.
 
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ### y2v3 p.164–186 — Sudō helps in the emergency
 [scene] (p.164–186) He helps carry Komiya and Kinoshita; he is worried about Shinohara.
@@ -1919,6 +1932,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:komiya-kyogo] (p.169–176) He helps carry Komiya.
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
+
 
 
 ### y2v3 p.65–67 — Sudō's first-place grip at C6
