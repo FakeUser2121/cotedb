@@ -639,6 +639,43 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ayanokouji-kiyotaka] (p.46–52) An enemy whose file he refuses to close.
 
 <!-- walk: y2v2 Ch.1 → p.53 -->
+
+### y2v2 p.295–297 — Kanzaki at the convenience store
+[scene] (p.295) He bumps into Ayanokōji near the convenience store with two 2-liter bottles; he approaches him directly for help.
+[says] (p.295) “Going to Keyaki mall at this time?”
+[says] (p.296) “I won’t have any time to relax after the exam starts, after all.”
+[says] (p.296) “It seems like most of the people in Class D have formed groups, but you’re still on your own?”
+[says] (p.296) “Unlike the others, I don’t have many friends, so.”
+[says] (p.296) “You and Horikita, are both of you going to act as reinforcements for your class’s groups? After all, excellent students could leave their mark in any group during the exam.”
+[says] (p.296) “Ayanokouji, Ichinose seems to trust you a lot, but can ‘we’ really trust you?”
+[says] (p.296) “I’d consider it, at least.”
+[says] (p.297) “Although we’ve broken off the alliance, I don’t consider Ichinose to be an enemy.”
+[says] (p.297) “That statement leaves a lot of room for interpretation. Are you saying you don’t consider Class C to be an enemy?”
+[says] (p.297) “Are you trying to get some sort of statement from me and have Ichinose to listen to it?”
+[says] (p.297) “You… Ichinose…no, we underestimated your perceptiveness. When we first met, I had this weird feeling, but I couldn’t quite put my finger on it. Finally, I can clearly see what it was. You’re the reason Class D is making such great progress.”
+[says] (p.297) “Who knows?”
+[says] (p.297) “I’m simply going to come out and ask you for help. Ichinose trusts you a lot. That is why I want you to tell her yourself: the way she is right now, she isn’t good enough.”
+[says] (p.297) “So you’re expecting that to change the way Ichinose thinks?”
+[says] (p.297) “That’s right.”
+[says] (p.297) “Sorry, but I can’t help you. I’d like to keep seeing her own way of dealing with things.”
+[says] (p.297) “So you want to see us, your enemy, fall?”
+[says] (p.297) “Well, fundamentally speaking, one has to care of their own class by themselves. Isn’t that right?”
+[says] (p.297) “…Yeah. I might have been too childish.”
+[says] (p.297) “I was going to come up with a solution on my own. But I thought there was a way to fix the problem without doing that, that there was an easy way out, so I tried to take it.”
+[trait] (p.295–297) He swallows his pride and asks for a favor; he accepts the refusal with grace; the desperation of a man who has run out of plans.
+[note] (p.295–297) He's not teamed up with anyone yet either; his worry is Ichinose's endgame.
+[rel:ayanokouji-kiyotaka] (p.295–297) He's measured him as the source of Class D's turnaround.
+[rel:ichinose-honami] (p.295–297) She is the reason he asked.
+
+<!-- walk: y2v2 Ch.5 → p.297 -->
+
+### y2v2 p.204–305 — Coverage note: passing mentions
+[mentioned] (p.204) “Depending on the occasion, she might even ask a classmate like Kanzaki for help.”
+[mentioned] (p.215) “From Class B, there are you and Kanzaki-kun, as well as Shibata-kun, right?” — said by Sakayanagi; she names him as Class B’s main force.
+[mentioned] (p.305) “Besides, if we need three classes, Kanzaki from Class C is still alone, and he should’ve priority over Ayanokouji.” — Katsuragi’s advice.
+
+<!-- walk: y2v2 Coverage note → p.305 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

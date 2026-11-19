@@ -525,6 +525,20 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ryuuen-kakeru] (p.165–166) She rules him necessary.
 
 <!-- walk: y2v2 Ch.3 → p.167 -->
+
+### y2v2 p.342–344 — SS: An excuse (Shiina Hiyori POV)
+[scene] (p.342) She waits with Albert-kun by the corner; Ishizaki and Ayanokōji approach; the invitation.
+[narrates] (p.342) “Me and Albert-kun were waiting quietly on standby right around the corner.”
+[narrates] (p.343) “If you want to know why, I only wanted to…”
+[narrates] (p.343) “Yes, I only wanted… to meet Ayanokouji-kun.”
+[narrates] (p.343) “I decided to cooperate since I wanted an excuse.”
+[narrates] (p.344) “I was looking forward to the time we would spend together, even for just a second longer—”
+[note] (p.342–344) Her interior monologue in first person; she accurately predicts Ayanokōji will join a Class D group or go solo.
+[rel:ayanokouji-kiyotaka] (p.342–344) Her true motive; she almost embraces him deliberately.
+[rel:ishizaki-daichi] (p.342–344) The plan she consented to run.
+[rel:yamada-albert] (p.342–344) Her partner in the capture.
+
+<!-- walk: y2v2 Short Stories → p.344 -->
 ## y2v4
 
 <!-- walk: y2v4 → start -->

@@ -1509,6 +1509,30 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.117–137) She briefed him on the end; he watched every word.
 
 <!-- walk: y2v2 Ch.3 → p.137 -->
+
+### y2v2 p.329 — Chabashira's last blessing
+[scene] (p.329) The final briefing; all 39 students present; no sick ones.
+[says] (p.329) “It’s the start of summer vacation today, but you guys look like you’re having a tough time. Well, I suppose that can’t be helped.”
+[says] (p.329) “Then we’ll start with the final check. If you’re not feeling well now, you have to report it.”
+[says] (p.329) “No problems, that’s great.”
+[says] (p.329) “This is not your first time taking a special exam. You have been fighting in this school for more than a year, and have overcome all manner of hardships. Nonetheless, this special exam will not be easy to pass.”
+[says] (p.329) “I’ve only got one wish for all of you. If you can, don’t let a single one of your classmates disappear, and return to this classroom once again.”
+[says] (p.329) “We’ll gather in the court in 10 minutes for a roll call. Remember to go to the bathroom first, if you need to.”
+[rel:ayanokouji-kiyotaka] (p.329) Her wish is aimed straight at him.
+
+<!-- walk: y2v2 Epilogue → p.329 -->
+
+### y2v2 p.12–139 — Coverage note: passing mentions
+[mentioned] (p.12) “Chabashira had called him away and he had gone off somewhere, so he resorted to waiting in the classroom for him to return.”
+[mentioned] (p.27) “In stark contrast to the overjoyed Chabashira, his expression was somewhat resentful.”
+[mentioned] (p.70) “Yes. Although I tried to confirm it with Chabashira-sensei tactfully, she didn’t show signs she knew about it.”
+[mentioned] (p.138) “Shortly after, I could hear Chabashira and Kouenji from around the corner.”
+[mentioned] (p.138) “Chabashira, presumably standing face to face with Kouenji, waited for his question.”
+[mentioned] (p.139) “Chabashira to leave. In a bit, the sound of her footsteps disappeared.”
+[mentioned] (p.328) “As she entered the classroom, Chabashira’s natural expression turned serious, and the atmosphere grew heavy.”
+
+<!-- walk: y2v2 Coverage note → p.328 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

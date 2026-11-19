@@ -338,6 +338,25 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.241) She will be standing in the island exam against him.
 
 <!-- walk: y2v2 Ch.4 → p.242 -->
+
+### y2v2 p.336–337 — Nanase renews her vow
+[scene] (p.336) The bus lot; she stands before Tsukishiro; his back is turned to her.
+[says] (p.336) “Yes, you are right.”
+[says] (p.336) “You’re saying I should— expel Ayanokouji Kiyotaka?”
+[says] (p.336) “It’s confirmed that he isn’t an easy opponent to beat. No, it’s something we’ve known from the very beginning.”
+[says] (p.337) “You mean you’ve been forced to be unreasonable?”
+[says] (p.337) “—Yes. I won’t hesitate anymore.”
+[note] (p.337) Her left hand is tightly clenched as if brimming with natural power; Tsukishiro smiles at the sight of it.
+[rel:tsukishiro] (p.336–337) The handler promises to free her.
+[rel:ayanokouji-kiyotaka] (p.337) She swears to get him.
+
+<!-- walk: y2v2 Epilogue → p.337 -->
+
+### y2v2 p.254 — Coverage note: passing mentions
+[mentioned] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students.”
+
+<!-- walk: y2v2 Coverage note → p.254 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

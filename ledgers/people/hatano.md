@@ -15,3 +15,10 @@ char_id: hatano · class: unknown · status: unknown
 [mentioned] (p.267) Hatano was expelled from school; Utomiya believes Housen had something to do with it; the class lost 100 points.
 
 <!-- walk: y2v2 Ch.4 → p.267 -->
+
+### y2v2 p.229, 270 — Coverage note: passing mentions
+[mentioned] (p.229) “I remember clearly the look on his face when he got expelled. He had been tricked by someone.”
+[mentioned] (p.270) “Utomiya only realised this after his friend Hatano had been forced to drop out due to Housen’s actions.”
+
+<!-- walk: y2v2 Coverage note → p.270 -->
+

@@ -1172,6 +1172,12 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.243) Akito is at his club and missed the gathering.
 
 <!-- walk: y2v2 Ch.4 → p.245 -->
+
+### y2v2 p.27 — Coverage note: passing mentions
+[mentioned] (p.27) “Haruka and Airi, who were also from the Ayanokouji group, gathered around him.”
+
+<!-- walk: y2v2 Coverage note → p.27 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

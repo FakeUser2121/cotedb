@@ -1859,7 +1859,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.62) “Good. Wait, no, that’s not oー! …k, but, no, that’s fine.”
 [says] (p.62) “It might be cold coming from a friend of Haruki, but I’m glad you didn’t get expelled during the class vote. There’s no doubt that you’re someone we need to rise up to Class A. See you later, Ayanokouji.”
 [trait] (p.54–63) Competitive, warm, loud, and precise about his lane — basketball stays his; the fight with Housen haunts him but does not own him.
-[rel:ayanokouji-kiyotaka] (p.19–63) He is the one who calls AK “seriously powerful” to his face.
+[rel:ayanokouji-kiyotaka] (p.19–63) He is the one who calls AK seriously powerful to his face.
 [rel:hirata-yousuke] (p.21–22) Hirata keeps him moving.
 [rel:ike-kanji] (p.19–22) Old friends on the same fight.
 
@@ -1877,6 +1877,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.169–170) His name is the reason his corner of the class forms its own gravity.
 
 <!-- walk: y2v2 Ch.3 → p.170 -->
+
+### y2v2 p.66–320 — Coverage note: passing mentions
+[mentioned] (p.66) “as said before, the one with the most significant increase was Sudou.”
+[mentioned] (p.66) Second-year OAA print-out — Academics C (54), Physical A+ (96), Adaptability C- (42), Social Contribution C+ (60), Overall B- (63).
+[mentioned] (p.67) “later, if Sudo lived a serious life for the past six months, his social contribution number would rise at the very least.”
+[mentioned] (p.67) “Leaving beside Sudo, the overall strength of the other students had also improved from the first year.”
+[mentioned] (p.69) “Although we’re indebted to her since she teamed up with Sudo, she definitely joined Housen-kun, right?”
+[mentioned] (p.95) “The thing about teaming up with Sudou-senpai, you haven’t forgotten about that have you?”
+[mentioned] (p.129) “the trio of Hirata, Sudo, and Hondou challenges the exam till the end.”
+[mentioned] (p.172) “By the way, I heard from Sudo-kun that you’re gonna be a regular on the basketball team?”
+[mentioned] (p.207) “along with Sudo-kun, who’s the only one to get an A+ rating in physical ability in the entire 2nd year.”
+[mentioned] (p.320) “He was similar to Sudou in terms of enthusiasm, but Ishizaki was different in his own way.”
+
+<!-- walk: y2v2 Coverage note → p.320 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

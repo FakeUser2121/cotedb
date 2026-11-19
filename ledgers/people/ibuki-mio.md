@@ -988,13 +988,43 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.163, 188, 315–325 — Ibuki mentioned in passing
-[scene] (p.163) Named in the Ryūen alliance meeting context.
-[scene] (p.315–325) Named in the Ryūen-Katsuragi negotiation.
-[note] (p.163, 188, 315–325) Passing mentions; not a distinct scene presence.
-[mentioned] (p.163, 188, 315–325) Passing mention only.
+### y2v2 p.315–325 — Ibuki, the lone wolf
+[scene] (p.315–316) Ishizaki's alarm: almost everyone has grouped; Ibuki still hasn't; she wants to fight alone.
+[says] (p.320) “That’s my choice.”
+[says] (p.320) “I don’t need it.”
+[says] (p.320) “Well, you say that but the fact is there’s no one who wants to team up with you.”
+[scene] (p.320–321) He tries to push Horikita onto her; she bristles; Ishizaki blinks.
+[says] (p.321) “Huh? What’s wrong, Ayanokouji?”
+[says] (p.322) “Ayanokouji, she doesn’t seem to like you very much.”
+[says] (p.322) “Don’t tell me you want me to group up with Horikita?”
+[says] (p.322) “Ha? Who died and made you boss?”
+[says] (p.322) “Apart from your physical ability… You’re not much good at anything else.”
+[says] (p.322) “Hey, you too, don’t say whatever you want”
+[says] (p.322) “You too, you want me to group up with Horikita to help them out, don’t you?”
+[says] (p.322) “I’m honored.”
+[says] (p.322) “I already hate this guy a lot, but my hatred for Horikita is even higher than that.”
+[scene] (p.322–325) She rejects the deal; she's at war with Horikita (island loss + sports-festival loss); one win one loss each.
+[says] (p.323) “I’m also on my own because I want to be. Anyway, you say you want to go it alone, that’s perfect. It’s a challenge, Horikita!”
+[says] (p.324) “You’re the only one who thinks that.”
+[says] (p.324) “It seems like this was a waste of time.”
+[says] (p.325) “Wait. Do you accept? Or no?”
+[says] (p.325) “I am going in alone, but I’m not choosing to work alone throughout. When the special exams start, I’ll merge with another group if necessary.”
+[says] (p.325) “Lame!”
+[says] (p.325) “If you insist on fighting alone, then even if I form a group, try not to lose. If you win, then I’ll recognise you a bit.”
+[says] (p.325) “…Not better.”
+[trait] (p.315–325) Proud warrior with a grudge; she needs the duel more than the safety; her hatred of Horikita is the engine; she'll go it alone on her own terms.
+[note] (p.324) Their duel history: uninhabited island (Ibuki won) and 100m race at the sports festival (Horikita won); both ~evenly matched.
+[rel:horikita-suzune] (p.315–325) The rival she seeks to beat.
+[rel:ishizaki-daichi] (p.315–325) The classmate who keeps failing to recruit her.
+[rel:ayanokouji-kiyotaka] (p.315–325) The one she hates politely; she wants a rematch elsewhere.
 
 <!-- walk: y2v2 Ch.5 → p.325 -->
+
+### y2v2 p.163, 188 — Coverage note: passing mentions
+[mentioned] (p.163) “Although I had speculated this would be the case, this really was reckless. Now, I could understand why Ibuki who normally hung around Ishizaki wasn’t present here.”
+[mentioned] (p.188) “Ibuki was also a lone wolf, and Nishino seemed to belong to the same category.”
+
+<!-- walk: y2v2 Coverage note → p.188 -->
 
 ## y2v3
 

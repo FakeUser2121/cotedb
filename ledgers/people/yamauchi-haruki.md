@@ -842,6 +842,12 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 <!-- walk: y2v2 Ch.1 → p.62 -->
 
 
+
+### y2v2 p.33, 62 — Coverage note: passing mentions
+[mentioned] (p.33) “In order to avoid getting expelled, Yamauchi would have been more careful when making his moves, and Sakayanagi-san’s strategy would have been more complex and harder to see through.”
+[mentioned] (p.62) “It might be cold coming from a friend of Haruki, but I’m glad you didn’t get expelled during the class vote.” — the page does not disambiguate whether “Haruki” here is Yamauchi Haruki; unresolved, kept as printed.
+
+<!-- walk: y2v2 Coverage note → p.62 -->
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -254,6 +254,33 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:nanase-tsubasa] (p.237–242) The equal footing.
 
 <!-- walk: y2v2 Ch.4 → p.242 -->
+
+### y2v2 p.345–347 — SS: What is Reflected in Her Eyes (Amasawa POV)
+[scene] (p.345) She stakes out Karuizawa for two weeks — café, karaoke, mall; today the dorm; the elevator; the emergency stairs.
+[narrates] (p.345) “Will he think I’m cute?”
+[narrates] (p.346) “Hmm, perfect!”
+[narrates] (p.346) “Ah, yes yes! Can’t forget this.”
+[narrates] (p.347) “Okay! All preparations are done!”
+[narrates] (p.347) “Se~npai.”
+[narrates] (p.347) “It’s me!”
+[note] (p.346–347) She buys the small amorous box; she tails Nomura Shuuji through the auto-lock; room 401; she hides the bag near the door.
+[rel:ayanokouji-kiyotaka] (p.346–347) The object of her surveillance.
+[rel:karuizawa-kei] (p.345–346) Two weeks of café and karaoke.
+[rel:nomura-shuuji] (p.346) She tails him through the auto-lock.
+
+<!-- walk: y2v2 Short Stories → p.347 -->
+
+### y2v2 p.69–335 — Coverage note: passing mentions
+[mentioned] (p.69) “Class A’s Amasawa-san… Although we’re indebted to her since she teamed up with Sudo, she definitely joined Housen-kun, right?”
+[mentioned] (p.85) Ayanokōji cites the precedent set by Amasawa for U-locking the door — the strategy adopted against her earlier visit (see the Amasawa room scene, Ch.2 p.83–108).
+[mentioned] (p.89) “Everything was a defense strategy carried out based on Amasawa.”
+[mentioned] (p.110) “Up to now, the only thing that had affected me was the time when Amasawa came to my room, and the major crisis concerning whether or not I would get expelled hadn’t happened at all.”
+[mentioned] (p.112) “Like Amasawa, if it were a normal person, feeling that it was hard to approach me would not be surprising at all.”
+[mentioned] (p.254) “What was most intriguing though, was that Amasawa’s name didn’t appear on that list.”
+[mentioned] (p.335) The first-year threat on the page is “the up and coming group of the first years consisting of Housen and Amasawa.”
+
+<!-- walk: y2v2 Coverage note → p.335 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

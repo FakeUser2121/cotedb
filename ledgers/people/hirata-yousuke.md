@@ -1949,6 +1949,22 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.177–186) He trusts his read of the room over his own hunches.
 
 <!-- walk: y2v2 Ch.3 → p.186 -->
+
+### y2v2 p.29–252 — Coverage note: passing mentions
+[mentioned] (p.29) “Starting with Keisei and Yosuke, the students who had the best grades were discussing the extremely difficult questions.”
+[mentioned] (p.39) “I’ll thank Horikita and Yosuke another day.”
+[mentioned] (p.55) “I heard about it from Yousuke afterwards. You put in a good word for me, didn’t you?”
+[mentioned] (p.66) “If he could improve his academics and social contribution in the future, he might even be able to stand shoulder to shoulder with Yosuke and Kushida.”
+[mentioned] (p.129) Chabashira’s example member — “the trio of Hirata, Sudo, and Hondou” — used to illustrate the single-survivor rule.
+[mentioned] (p.144) “In order to decide on the groupings, Horikita used Yosuke’s words as a basis to speak to everyone.”
+[mentioned] (p.177) “Yousuke had seen the whole scene, and after Ike left he approached me.”
+[mentioned] (p.187) “After leaving Yosuke, I gave Ishizaki, from Komiya’s class, a call, and asked him out.” — Ayanokōji’s narration on the page; he is present through the Ishizaki briefing.
+[mentioned] (p.197) “Let’s discuss this with Yosuke as well. He’s thinking about the best group for Ike right now.”
+[mentioned] (p.207) “Headed by Hirata-kun and Kushida-san, who have strong communication skills, and have well-balanced grades…”
+[mentioned] (p.252) “Even though his grandfather mentioned something about being bad at studying, he got an A in the OAA evaluation for Academic Ability. He was an honor student who wasn’t obnoxious, and he gave me the same sort of feeling as Yosuke did.”
+
+<!-- walk: y2v2 Coverage note → p.252 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

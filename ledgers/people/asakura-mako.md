@@ -14,6 +14,11 @@ char_id: asakura-mako · class: unknown · status: unknown
 [mentioned] (p.168) Asakura Mako — Class C; named at p.168 as the holder of the More People card (special card, one per year).
 
 <!-- walk: y2v2 Ch.3 → p.168 -->
+
+### y2v2 p.300 — Coverage note: passing mentions
+[mentioned] (p.300) “This couldn’t be a mere coincidence.” — the ‘More People’ special card that Asakura was supposed to have had, now with Hashimoto from Class A.
+
+<!-- walk: y2v2 Coverage note → p.300 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->

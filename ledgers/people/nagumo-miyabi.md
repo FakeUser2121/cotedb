@@ -657,6 +657,49 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.289–291) His predecessor's antics linger.
 
 <!-- walk: y2v2 Ch.4 → p.292 -->
+
+### y2v2 p.71–350 — Coverage note: passing mentions
+[mentioned] (p.71) “Could it be that President Nagumo might have something to do with this?”
+[mentioned] (p.72) “Without realizing it, maybe you aroused Nagumo’s jealousy. President Nagumo had always been interested in brother’s affairs, because he had always been only interested in your affairs.”
+[mentioned] (p.72) “the issue of Nagumo that Manabu was worried about.”
+[mentioned] (p.73) “could spy on President Nagumo, but actually, that’s not the only reason, right?”
+[mentioned] (p.73) “different from what Nagumo thinks.”
+[mentioned] (p.73) “If Nagumo is going in the wrong direction, there’s a need to stop him.”
+[mentioned] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
+[mentioned] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
+[mentioned] (p.83) “Kiriyama was someone who had struggled to overthrow Nagumo… the battle between Kiriyama and Nagumo had already been settled.”
+[mentioned] (p.116) “But as long as Nagumo continues to pursue his policies, we would definitely compete with each other sooner or later.”
+[mentioned] (p.250) “President Nagumo about the uninhabited island survival exam held two years ago, and he kindly told me.”
+[mentioned] (p.254) “It all started when I was contacted by President Nagumo of the student council.”
+[mentioned] (p.255) “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
+[mentioned] (p.256) “President Nagumo said that the student was selected at random from the 2nd years’. It was a simple game of chance, 1 in 157.”
+[mentioned] (p.257) “It was now confirmed that Tsukishiro and Nagumo were the ones behind the 20 million points.”
+[mentioned] (p.271) “Putting aside personal opinions of Nagumo, the student council operated smoothly.”
+[mentioned] (p.271) “If he wanted to keep this a secret from Nagumo, he could have chose to meet late at night or early in the morning.”
+[mentioned] (p.272) “I wanted to personally battle Nagumo in this special exam.”
+[mentioned] (p.273) “After which, Nagumo became the student council president, and took control over the entire 3rd year, and eventually the entire school.”
+[mentioned] (p.273) “However, Nagumo’s overall strength was even higher than his, so you could say that Nagumo’s boisterous attitude was in line with his strength.”
+[mentioned] (p.273) “In that aspect, I don’t think I can lose to Nagumo.”
+[mentioned] (p.274) “You wanted Horikita Manabu’s sister to join the student council to monitor Nagumo, right?”
+[mentioned] (p.274) “That means she won’t get in Nagumo’s way, right?”
+[mentioned] (p.275) “Unless Horikita thinks Nagumo’s an obstacle.”
+[mentioned] (p.275) “That won’t work. Forget all thoughts about dealing with Nagumo.”
+[mentioned] (p.275) “Nagumo was more or less aware of what I’d been doing with Horikitasenpai.”
+[mentioned] (p.276) “I didn’t want to interfere in the relationship between Nagumo and Kiriyama, in which the winner and the loser had already been decided.”
+[mentioned] (p.276) “Nagumo’s idea, the one in which anyone can graduate from Class A.”
+[mentioned] (p.277) “He wasn’t really going to challenge Nagumo.”
+[mentioned] (p.279) “She doesn’t even have a single friend.” — Kiriyama speaking to Ayanokōji about Kiryūin, noting she lacks Nagumo’s supporters.
+[mentioned] (p.280) “She’s just a good student, but Kiryuuin doesn’t have anyone supporting her, unlike Nagumo. She doesn’t even have a single friend.”
+[mentioned] (p.281) “If she had been someone Nagumo or Manabu-senpai would pay attention to, it wouldn’t have been strange to hear about her.”
+[mentioned] (p.284) “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right?”
+[mentioned] (p.285) “And it might prove to be even more troublesome than defeating Nagumo and Kiriyama.”
+[mentioned] (p.335) “there were the elites of the 3rd year- Nagumo, Kiriyama and Kiryuuin.”
+[mentioned] (p.348) “When I told him I wanted to join the council, president Nagumo looked surprised at me.”
+[mentioned] (p.349) “President Nagumo who was speaking in front of me and acknowledged by my brother is certainly an amazing student, no doubt about that… but if compared to Ayanokouji-kun that impressions strangely changes everything.”
+[mentioned] (p.350) “I had to enter the student council and confirm President Nagumo’s movements.”
+
+<!-- walk: y2v2 Coverage note → p.350 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

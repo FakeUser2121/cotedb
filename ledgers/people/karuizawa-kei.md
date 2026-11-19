@@ -2044,6 +2044,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.198–202) She asks him for protection, then accepts him paying for it.
 
 <!-- walk: y2v2 Ch.3 → p.202 -->
+
+### y2v2 p.110–346 — Coverage note: passing mentions
+[mentioned] (p.110) “Over time, Kei would be able to slowly remove that wall herself, moving onto the next stage naturally.”
+[mentioned] (p.313) “at least I can get some money for Kei.”
+[mentioned] (p.345) “I’ve been keeping an eye on Karuizawa Kei from Class 2-D for almost 2 weeks.”
+[mentioned] (p.346) “Karuizawa was returning straight to the 2nd year dorm today, a bit unusual.”
+
+<!-- walk: y2v2 Coverage note → p.346 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

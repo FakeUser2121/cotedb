@@ -1908,6 +1908,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.243–263) She runs interference for both sides; she means to manage the fallout.
 
 <!-- walk: y2v2 Ch.4 → p.263 -->
+
+### y2v2 p.66–264 — Coverage note: passing mentions
+[mentioned] (p.66) “If he could improve his academics and social contribution in the future, he might even be able to stand shoulder to shoulder with Yosuke and Kushida.”
+[mentioned] (p.172) “here, Ike left together with Kushida with a spring in his step.”
+[mentioned] (p.207) “Headed by Hirata-kun and Kushida-san, who have strong communication skills, and have well-balanced grades…”
+[mentioned] (p.264) “After Kushida and Yagami left, I approached the convenience store.”
+
+<!-- walk: y2v2 Coverage note → p.264 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

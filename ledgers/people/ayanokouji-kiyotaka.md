@@ -7871,7 +7871,7 @@ walk: y1v1 → DONE
 [says:nagumo-miyabi] (p.82) “Then, Suzune, I want to introduce you to the student council members outside of Kiriyama. You stay right here.”
 [says:horikita-suzune] (p.82) “I understand.”
 [note] (p.81–82) Nagumo has evidently already read 2nd-year results; he voices no suspicion of Ayanokōji's interest — he simply extends the invitation and then dismisses it with one look.
-[trait] (p.75–82) Declines the council; reads Nagumo's “play with you” as an order, not a joke.
+[trait] (p.75–82) Declines the council; reads Nagumo's play-with-him line as an order, not a joke.
 [rel:nagumo-miyabi] (p.75–82) He invites him, then dismisses the answer in one breath.
 [rel:kiriyama-ikuto] (p.75–82) He studies him; he is shaken by the vice-president's attendance.
 
@@ -8591,6 +8591,269 @@ walk: y1v1 → DONE
 [note] (p.286–292) Ayanokōji leaves before this scene; it belongs to Kiryūin and Nagumo; recorded in their ledgers.
 
 <!-- walk: y2v2 Ch.4 → p.292 -->
+
+### y2v2 p.294–297 — Kanzaki at the convenience store
+[scene] (p.294) On the morning of the meeting (Saturday, 09:30), Ishizaki's email summons him to the café; on the way he meets Kanzaki with two 2-liter bottles.
+[says:kanzaki-ryuuji] (p.295) “Going to Keyaki mall at this time?”
+[says] (p.296) “It seems like most of the people in Class D have formed groups, but you’re still on your own?”
+[says:kanzaki-ryuuji] (p.296) “Unlike the others, I don’t have many friends, so.”
+[says:kanzaki-ryuuji] (p.296) “You and Horikita, are both of you going to act as reinforcements for your class’s groups? After all, excellent students could leave their mark in any group during the exam.”
+[says:kanzaki-ryuuji] (p.296) “Ayanokouji, Ichinose seems to trust you a lot, but can ‘we’ really trust you?”
+[says] (p.296) “If I said you could trust me, would you, Kanzaki?”
+[says:kanzaki-ryuuji] (p.296) “I’d consider it, at least.”
+[says] (p.297) “Although we’ve broken off the alliance, I don’t consider Ichinose to be an enemy.”
+[says:kanzaki-ryuuji] (p.297) “That statement leaves a lot of room for interpretation. Are you saying you don’t consider Class C to be an enemy?”
+[says] (p.297) “Kanazki, what do you want from me?”
+[says:kanzaki-ryuuji] (p.297) “Are you trying to get some sort of statement from me and have Ichinose to listen to it?”
+[says:kanzaki-ryuuji] (p.297) “You… Ichinose…no, we underestimated your perceptiveness. When we first met, I had this weird feeling, but I couldn’t quite put my finger on it. Finally, I can clearly see what it was. You’re the reason Class D is making such great progress.”
+[says] (p.297) “Who knows?”
+[says:kanzaki-ryuuji] (p.297) “I’m simply going to come out and ask you for help. Ichinose trusts you a lot. That is why I want you to tell her yourself: the way she is right now, she isn’t good enough.”
+[says] (p.297) “So you’re expecting that to change the way Ichinose thinks?”
+[says:kanzaki-ryuuji] (p.297) “That’s right.”
+[says] (p.297) “Sorry, but I can’t help you. I’d like to keep seeing her own way of dealing with things.”
+[says:kanzaki-ryuuji] (p.297) “So you want to see us, your enemy, fall?”
+[says] (p.297) “Well, fundamentally speaking, one has to care of their own class by themselves. Isn’t that right?”
+[says:kanzaki-ryuuji] (p.297) “…Yeah. I might have been too childish.”
+[says:kanzaki-ryuuji] (p.297) “I was going to come up with a solution on my own. But I thought there was a way to fix the problem without doing that, that there was an easy way out, so I tried to take it.”
+[note] (p.295–297) He reads Kanzaki head-to-toe; ending Ichinose's next fall would be her last — he keeps the thought to himself.
+[rel:kanzaki-ryuuji] (p.295–297) The cornered rat who bites the cat.
+[rel:ichinose-honami] (p.295–297) She is the reason he has to see this through himself.
+
+### y2v2 p.298–314 — The café with Ryuuen and Katsuragi
+[scene] (p.298) He arrives before the appointed time; pays; Katsuragi is already there, stiff; Ryuuen plays host.
+[says:katsuragi-kouhei] (p.298) “You said there was someone else, were you talking about Ayanokouji?”
+[says:ryuuen-kakeru] (p.298) “What, do you want to stand while we talk? Sit down.”
+[says:ryuuen-kakeru] (p.298) “Kuku, don’t admire him too much, Katsuragi– that’s in the past.”
+[says:ryuuen-kakeru] (p.299) “Fuck off. Ichinose was off sinking on her own, she was never even on my radar.”
+[says:katsuragi-kouhei] (p.299) “…So? Tell me why you called me.”
+[says:ryuuen-kakeru] (p.299) “What is Class A aiming for in the next exam?”
+[says:ryuuen-kakeru] (p.299) “Are you aiming to monopolize the class points? Or is it something else? I’ve checked the group composition using the OAA, and while you guys seem to have formed groups with Class C and D, Kitou seems to be alone. And then, no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy. Are you working together?”
+[says:katsuragi-kouhei] (p.300) “You’re free to interpret it however you want, but I cannot confirm anything.”
+[says:ryuuen-kakeru] (p.300) “I don’t want any of that diplomatic crap, I want just straight answers.”
+[says:katsuragi-kouhei] (p.300) “Then, let me make this simple for you. I’m not going to tell you anything about this, you bastard.”
+[says:ryuuen-kakeru] (p.300) “Oh, so you don’t know just because she doesn’t trust you?”
+[says:katsuragi-kouhei] (p.300) “Well, that might be true.”
+[says:ryuuen-kakeru] (p.300) “This is really sad, Katsuragi. This time last year, I considered you a worthy opponent in my strategies. However not a single trace of that person remains. It looks like it’s the end of the road for the loser of the faction war, eh?”
+[says:katsuragi-kouhei] (p.301) “Didn’t you also lose to Ishizaki that one time?”
+[says:ryuuen-kakeru] (p.301) “Don’t you want to crawl back to the top again? That Totsuka who was holding you back, he is gone now, right?”
+[says:katsuragi-kouhei] (p.301) “If you wanted to make me angry, then you’ve succeeded, Ryuuen. Are you satisfied now?”
+[says:ryuuen-kakeru] (p.301) “Don’t you think it’ll be an interesting development if we manage to get Sakayanagi expelled from the next special exam?”
+[says:katsuragi-kouhei] (p.301) “I don’t know what you’re planning to do, but that’s impossible. Even if you trap her on the island, she has plenty of private points for relief. Also if by chance, something does incapacitate her, she still has protection points to fall back on.”
+[says:ryuuen-kakeru] (p.301) “That’s true, if you want her gone, you’ll have to stab her at least twice. Well, getting her expelled in the next exam was a joke. The objective for the uninhabited island exam isn’t to kick your enemies down, but to climb up.”
+[says:ryuuen-kakeru] (p.303) “The reward for getting 1st to 3rd place is enough to get within shooting distance of Class A, but the rules seem to be a bit troublesome. So, I wanted to prepare in advance.”
+[says:katsuragi-kouhei] (p.303) “Is this why you called me and Ayanokouji here?”
+[says:ryuuen-kakeru] (p.303) “Even so, Ichinose really did agree to team up with that woman. Did you guys butter her up well, or was it because she’s so incompetent that she thought that was all she could do? Right?”
+[says:katsuragi-kouhei] (p.303) “I don’t know. And if Sakayanagi heard that question, she’d ask you the same thing. Not many people would like being on your team. You’re a delinquent, after all.”
+[says:ryuuen-kakeru] (p.303) “In that case, everyone here’s that kind of delinquent.”
+[says:ryuuen-kakeru] (p.303) “Good for you, Katsuragi. Obnoxiously righteous as always. Not bad.”
+[says:katsuragi-kouhei] (p.303) “Flattering me won’t work, Ryuuen.”
+[says:ryuuen-kakeru] (p.304) “The most important thing about this special exam is to not lose any points from the 2nd year. I don’t want the 1st and 3rd years filling their pockets with my money. For that, we need to at least form an alliance, right? If you rely only on your own class, you’ll lack combat power.”
+[says:ryuuen-kakeru] (p.304) “If the small fry in Class B were added into this group, then I’d be better off fighting alone, but if I can draw in some firepower from elsewhere, then it’d be a different story.”
+[says:ryuuen-kakeru] (p.304) “No way, are you asking me to work with you?”
+[says:katsuragi-kouhei] (p.304) “Not just you. Ayanokouji as well, who’s spaced out over there just listening to us talk.”
+[says] (p.304) “… me too?”
+[says:ryuuen-kakeru] (p.304) “Why would I call you here if you weren’t.”
+[says] (p.304) “I refuse. Although Class A would get the rewards too, I don’t want to be on a team with someone like you.”
+[says:ryuuen-kakeru] (p.304) “What a rash decision. You’ve gotta hear me out till the end.”
+[says:katsuragi-kouhei] (p.304) “That’s not necessary. But– Why did you call Ayanokouji? I want to know that first.”
+[says:katsuragi-kouhei] (p.305) “It was surprising that he got a perfect score in math in the special exam at the end of April. I agree that he has a high ability in academics. But can you really say that he’s the right person to choose if you want to win?”
+[says:katsuragi-kouhei] (p.305) “That’s right. If you get Ayanokouji in, it’ll reduce the class point reward to one thirds each. Since you’re inviting me from Class A anyway, wouldn’t it be better to invite Kitou to the group? Besides, if we need three classes, Kanzaki from Class C is still alone, and he should’ve priority over Ayanokouji.”
+[says:ryuuen-kakeru] (p.305) “Someone who doesn’t know about him wouldn’t understand, but I made the right choice. Right, Ayanokouji?”
+[says] (p.305) “I don’t know what you’re talking about.”
+[says:ryuuen-kakeru] (p.305) “Stop with that poor acting. You’re the man who beat me and shut me up.”
+[says:katsuragi-kouhei] (p.306) “To shut you up?… Is that true?”
+[says:ryuuen-kakeru] (p.306) “Ah, I got my ass handed to me. Thanks to that, I almost decided to quit school.”
+[says:ryuuen-kakeru] (p.306) “Come on, admit it, Ayanokouji. Even if you continue to hide it from Katsuragi like that, I’ll just keep talking, yeah?”
+[says] (p.306) “Even if I do admit it, do you think I’ll help you?”
+[says:ryuuen-kakeru] (p.306) “Well, like with Katsuragi, it won’t be that simple.”
+[says:katsuragi-kouhei] (p.306) “No, I can’t accept this after all. I can’t believe that Ayanokouji beat you. Coming back to what I said earlier, if you have three classes working together, even if you come in first place, you’ll only get an average of 100 points. The gap between you and Class A will be impossible to close.”
+[says:ryuuen-kakeru] (p.306) “Yeah yeah, completely forgot about that. As an advisor, you’re certainty qualified.”
+[says:ryuuen-kakeru] (p.307) “A serious negotiation? You knew that was impossible from the start, didn’t you? But you still came. Were you asked to spy for Class A?”
+[says:ryuuen-kakeru] (p.307) “You’re a dead man, and you’re looking for a chance to come back to life. Am I right?”
+[says:katsuragi-kouhei] (p.308) “Whether or not that’s true, it has nothing to do with you.”
+[says:katsuragi-kouhei] (p.308) “It was a fair contract, we got 200 points from your class, and in return Class-A pays off the loan. All of my actions were only to lead Class-A along a better path.”
+[says:ryuuen-kakeru] (p.308) “Sure, if you only look at the numbers. However, what about the psychological impact that your class suffers every month? Why should all of you have to share your private points with us for so long?”
+[says:ryuuen-kakeru] (p.308) “Come to Class B, Katsuragi.”
+[says:katsuragi-kouhei] (p.308) “Of course, we’ll pay for the points you don’t have.”
+[says:ryuuen-kakeru] (p.309) “I’ll soon defeat Sakayanagi, and then the entire Class A will fall. In other words, remaining in Class A is worthless, right?”
+[says:ryuuen-kakeru] (p.309) “What, you’ve been saving up after all! Even if you’re rotten, you’re still in Class A, eh?”
+[says:ryuuen-kakeru] (p.309) “You’ve seen this before, yeah? It’s the contract I sighed with you last year.”
+[says:ryuuen-kakeru] (p.309) “After negotiating with Sakayanagi, I’m giving this thing up for 5 million points.”
+[says:ryuuen-kakeru] (p.310) “Did you tell her that the points would be used for stealing me?”
+[says:ryuuen-kakeru] (p.310) “You’re not going to get a chance like this again, Katsuragi.”
+[says:ryuuen-kakeru] (p.310) “Heh, Katsuragi, you have a surprisingly low opinion of yourself. Though, to be honest, you’re not going cheap.”
+[says:ryuuen-kakeru] (p.311) “The 5 million for nullifying the contract plus your current balance. The remaining points have been collected from the class. I’ve forced them into poverty to welcome you to our class!”
+[says:ryuuen-kakeru] (p.311) “Come on, sign it. Using 20 million points to change classes requires several conditions. You can’t force a person to change classes. In the end, the person must agree, and then use his or her funds to transfer to any class of their choosing.”
+[says:ryuuen-kakeru] (p.311) “You seem to be serious.”
+[says:ryuuen-kakeru] (p.312) “It all worked out, right, Katsuragi? You’ve been on your own until now, which makes it easier to invite you into our class.”
+[says:ryuuen-kakeru] (p.312) “This is your fate. Accept it.”
+[says:katsuragi-kouhei] (p.312) “Although I don’t really care that you brought me into your ranks, what exactly are you looking for? You won’t mind it if I speak my mind?”
+[says:ryuuen-kakeru] (p.313) “Why, it’s the Trial card he received.”
+[says:ryuuen-kakeru] (p.313) “Sell it to me.”
+[says:ryuuen-kakeru] (p.313) “I’ll be able to get 500,000 points or so. That should be enough.”
+[says] (p.313) “I have one condition. Make a student in your class that has a Half Off card exchange their card with one of our students that has the Free Ride card. If you accept that, I’ll sell the trial card to you.”
+[says:ryuuen-kakeru] (p.313) “Kuku, I guess it’s settled then. Half Off card, eh? It just so happens that Katsuragi has it, right?”
+[note] (p.298–314) He plays dumb throughout — diluted coffee, shrugging answers; the meeting buys Katsuragi for 20 million; the Trial card costs 500,000; the Half Off card lands on Class D; Sakayanagi's contract money is burned.
+[trait] (p.298–314) The spider at the center; he wires Class A/B/C/D without ever joining a group.
+[rel:ryuuen-kakeru] (p.294–314) Ally-ish nemesis; negotiates through Ishizaki's email; he buys his Trial card for 500k.
+[rel:katsuragi-kouhei] (p.301–312) He watches him sign; the play is over before it began.
+[rel:horikita-suzune] (p.294) She doesn't know this meeting happened in her seat's shadow.
+
+### y2v2 p.315–318 — The July 16 deadline; Horikita and Ibuki
+[scene] (p.315–316) Ishizaki calls him on the morning of the deadline; Ibuki still hasn't grouped; he spots Horikita in the lobby.
+[says] (p.316) “What are you going to do about your group?”
+[says:horikita-suzune] (p.316) “It’s too late to bring that up. Anyway, I’m not going to group up with anyone this time. If you consider that the maximum number of people in a group is 6, it’s not a bad idea to go alone.”
+[says:horikita-suzune] (p.316) “I am aware that I’ll have to bear that amount of risk. Isn’t that why you’re not in a group as well?”
+[says:horikita-suzune] (p.316) “What’s the difference?”
+[says:horikita-suzune] (p.317) “You had a problem with your health during the uninhabited island exam last year.”
+[says:horikita-suzune] (p.317) “I can’t believe you’re bringing up something which happened a year ago. Anyone can get sick.”
+[says:horikita-suzune] (p.317) “Yeah. However, you also took a break in the winter due to a fever. That makes it twice in one year.”
+[says:horikita-suzune] (p.317) “You just happened to spend the year without taking a leave of absence. Do you think that means you won’t get sick this time?”
+[says:horikita-suzune] (p.317) “In terms of taking care of myself, I’m more confident than you are.”
+[says:horikita-suzune] (p.317) “I see. It’s true that I’m not as good as you at taking care of myself. I admit that. But even if that’s the case, making it out as something to be worried about–“
+[says] (p.317) “It’s enough that you know. I had no intention of opposing you.”
+[says:horikita-suzune] (p.317) “Yeah.”
+[says:horikita-suzune] (p.317) “In our class, only you, I, and Koenji haven’t formed a group yet, us three. The rest of our classmates have formed a small group of at least two people. It’s safer to form a group of two, if possible.”
+[says] (p.317) “That’s only in our class.”
+[says:horikita-suzune] (p.318) “Are there any girls left who haven’t formed a group?”
+[says:horikita-suzune] (p.318) “Ah, there’s one person I can think of.”
+[says:horikita-suzune] (p.318) “Who are you talking about?”
+[says] (p.318) “Ishizaki is worried because Ibuki doesn’t have anyone to group up with. How about grouping up with her for the special exam, Horikita?”
+[says:horikita-suzune] (p.318) “Me and Ibuki?”
+[says] (p.318) “If it’s two girls, you can merge with any other small group later. Why don’t we just hear them out?”
+[says:horikita-suzune] (p.318) “That’s true, having some kind of insurance would be better… All right, I’ll hear her out.”
+[scene] (p.319–325) The summit with Ibuki; the deal fails; Horikita provokes the grudge.
+[says:ishizaki-daichi] (p.319) “Hey, Ayanokouji! Over here!”
+[says:ishizaki-daichi] (p.319) “Hurry up and come over!”
+[says:ibuki-mio] (p.320) “Why are Ayanokouji and Horikita here?”
+[says] (p.320) “Actually, there’s something we wanted to discuss, so I asked Ishizaki to call you, Ibuki.”
+[says:ibuki-mio] (p.320) “That’s my choice.”
+[says:ibuki-mio] (p.320) “I don’t need it.”
+[says:ibuki-mio] (p.320) “Well, you say that but the fact is there’s no one who wants to team up with you.”
+[says] (p.320) “Huh? What’s wrong, Ayanokouji?”
+[says:ibuki-mio] (p.321) “Huh? What’s wrong, Ayanokouji?”
+[says] (p.321) “It’s nothing. By the way, Horikita here is the same as Ibuki, she hasn’t teamed up with anyone yet.”
+[says:ibuki-mio] (p.322) “So?”
+[says] (p.322) “Next exam, if you don’t form a group, you’ll be at a disadvantage. Even if it’s not three people, if at least the two of you form a group, then even in the worst case scenario, if one of you gets eliminated, you’ll be able to continue.”
+[says:ibuki-mio] (p.322) “Don’t tell me you want me to group up with Horikita?”
+[says] (p.322) “Well, that’s about right.”
+[says:ibuki-mio] (p.322) “Ha? Who died and made you boss?”
+[says:ibuki-mio] (p.322) “Apart from your physical ability… You’re not much good at anything else.”
+[says:ibuki-mio] (p.322) “Hey, you too, don’t say whatever you want”
+[says:ibuki-mio] (p.322) “You too, you want me to group up with Horikita to help them out, don’t you?”
+[says:horikita-suzune] (p.322) “I’m honored.”
+[says:ibuki-mio] (p.322) “I already hate this guy a lot, but my hatred for Horikita is even higher than that.”
+[says:horikita-suzune] (p.322) “Ah, but I don’t remember saying I wanted to be in a group with you.”
+[says:ibuki-mio] (p.322) “Huh? What do you mean?”
+[says:horikita-suzune] (p.323) “Looks like you’ve got things mixed up. You’ve been left behind because nobody wanted to be with you, and I didn’t group up with anyone because I wanted to fight alone. Although we’re both lone wolves, our situations are not the same.”
+[says:ibuki-mio] (p.323) “I’m also on my own because I want to be. Anyway, you say you want to go it alone, that’s perfect. It’s a challenge, Horikita!”
+[says:horikita-suzune] (p.324) “Can I ask you something? Why do you want to fight me? It’s true that we competed at the uninhabited island exam and during the sports festival, but that wasn’t anything special right?”
+[says:ibuki-mio] (p.324) “You’re the only one who thinks that.”
+[says:horikita-suzune] (p.324) “It seems like this was a waste of time.”
+[says:ibuki-mio] (p.325) “Wait. Do you accept? Or no?”
+[says:horikita-suzune] (p.325) “I am going in alone, but I’m not choosing to work alone throughout. When the special exams start, I’ll merge with another group if necessary.”
+[says:ibuki-mio] (p.325) “Lame!”
+[says:horikita-suzune] (p.325) “Lameness Isn’t a reason to change the way I take the test.”
+[says:horikita-suzune] (p.325) “If you insist on fighting alone, then even if I form a group, try not to lose. If you win, then I’ll recognise you a bit.”
+[says:ibuki-mio] (p.325) “…Not better.”
+[note] (p.315–325) Nobody went alone except him, Horikita, Kouenji, and Ibuki — and now Horikita may hear no more mergers.
+[rel:ibuki-mio] (p.315–325) The rival at the table.
+[rel:ishizaki-daichi] (p.315–325) He dumped the Ibuki problem on him.
+[rel:tsube-hitomi] (p.315) She pairs with Nishino through Ichinose.
+[rel:kanzaki-ryuuji] (p.295–297) He shows up at the store; the gap between him and the others widens.
+
+<!-- walk: y2v2 Ch.5 → p.325 -->
+
+### y2v2 p.327–335 — The eve of the island exam
+[scene] (p.327) Tomorrow the special exams begin; Keisei comes to his seat, grim, mid-checklist.
+[says:yukimura-teruhiko] (p.327) “Honestly, surviving on an uninhabited island isn’t something very good at. You might as well ask me to catch a cloud.”
+[says] (p.327) “It’s no wonder, given it’s so far from the norm.”
+[says:yukimura-teruhiko] (p.327) “But it’s even harder on the girls, so I can’t really complain.”
+[says:yukimura-teruhiko] (p.328) “Although we’re competing in different groups, I still want to do what I can to help out.”
+[says] (p.328) “Yeah. There should be some way we can cooperate, so I’ll lend a hand when the time comes.”
+[says:yukimura-teruhiko] (p.328) “But, are you alright going alone? If you get sick, it’s over. If by any chance you receive the penalty, you’d have to pay 6 million points… It’d all be over in an instant.”
+[says] (p.328) “My perfect attendance record at least until now is one of the few things that I’m proud of.”
+[says:yukimura-teruhiko] (p.328) “You’re starting to sound a bit sarcastic lately, you know?”
+[scene] (p.329) The last briefing; Chabashira's wishes are plain; all 39 students take their seats.
+[says:chabashira-sae] (p.329) “It’s the start of summer vacation today, but you guys look like you’re having a tough time. Well, I suppose that can’t be helped.”
+[says:chabashira-sae] (p.329) “Then we’ll start with the final check. If you’re not feeling well now, you have to report it.”
+[says:chabashira-sae] (p.329) “No problems, that’s great.”
+[says:chabashira-sae] (p.329) “This is not your first time taking a special exam. You have been fighting in this school for more than a year, and have overcome all manner of hardships. Nonetheless, this special exam will not be easy to pass.”
+[says:chabashira-sae] (p.329) “I’ve only got one wish for all of you. If you can, don’t let a single one of your classmates disappear, and return to this classroom once again.”
+[says:chabashira-sae] (p.329) “We’ll gather in the court in 10 minutes for a roll call. Remember to go to the bathroom first, if you need to.”
+[scene] (p.330–335) Kouenji pulls Horikita into the corner; the full-freedom negotiation; Horikita closes her deal.
+[says:kouenji-rokusuke] (p.330) “Can I talk to you for a minute, okay? Horikita girl.”
+[says:horikita-suzune] (p.330) “It’s rare for you to come to talk to me of your own volition.”
+[says:kouenji-rokusuke] (p.330) “There’s something I’d like to talk about regarding the special exam that’s about to begin.”
+[says:horikita-suzune] (p.330) “Oh my, you finally feel like helping us, right?”
+[says:kouenji-rokusuke] (p.330) “Let’s just say that you’re half right.”
+[says:horikita-suzune] (p.330) “What’s your objective? Can you tell me the other half of what you mean to say?”
+[says:kouenji-rokusuke] (p.330) “The class points for the top three groups. You have an EXTREME DESIRE for them, right?”
+[says:horikita-suzune] (p.330) “Of course. Depending on how many points we can get, the order of the classes could change by a great magnitude.”
+[says:kouenji-rokusuke] (p.330) “Then let me make a suggestion, alright? If I get a good result on the uninhabited island exam, I want you to promise me full FREEDOM.”
+[says:kouenji-rokusuke] (p.331) “Exactement! Not only should I be allowed that, but you should also work hard to remove every obstacle in my way like a dray horse, you know?”
+[says:horikita-suzune] (p.331) “That’s not something I can easily agree to. Everyone else in the class probably feels the same”
+[says:kouenji-rokusuke] (p.331) “Consider it to be an advance payment before graduation.”
+[says:horikita-suzune] (p.331) “Looks like you too can feel the crisis looming over your head. Your classmates won’t just forgive your carefree speech and antics forever. If a special exam like the class vote is held again, you’d be made into their scapegoat.”
+[says:horikita-suzune] (p.331) “There’s no need for such drastic proposals. Can’t you just be like everyone else?”
+[says:horikita-suzune] (p.332) “Sorry Kouenji-kun, I put too much value on your talent to let you do “just alright” on this exam and be a spectator later on. It just doesn’t sit right with me.”
+[says:kouenji-rokusuke] (p.332) “I see. In other words, negotiations have broken down, right?”
+[says:horikita-suzune] (p.332) “—-Not exactly. If I can add some conditions to it, it’d be an acceptable proposal.”
+[says:horikita-suzune] (p.332) “A vague answer like getting a good result won’t do. The school has prepared a reward for the group that finishes in 1st place in this exam. If you get first place on your own, that might be reason enough for us to consider this an advance payment till graduation.”
+[says:kouenji-rokusuke] (p.333) “No problem, let’s consider this a done deal!”
+[says:horikita-suzune] (p.333) “No, that’s not enough.”
+[says:horikita-suzune] (p.333) “I haven’t finished telling you my conditions yet. I’ll have to work with you because of your big talk, but if we don’t get first place in the end, it’s a problem for us too.”
+[says:kouenji-rokusuke] (p.333) “In other words?’”
+[says:horikita-suzune] (p.333) “If you don’t get first place, then you will have to help the class in the future, such as the next special exam, and get results. You have to make this promise to me.”
+[says:kouenji-rokusuke] (p.333) “I see that you’ve given a confident ORDER, Horikita girl.”
+[says:horikita-suzune] (p.333) “If you agree to the aforementioned conditions, I’ll accept your proposal.”
+[says:kouenji-rokusuke] (p.333) “Then it’s a deal. Horikita girl, please don’t forget the conditions I mentioned.”
+[says:kouenji-rokusuke] (p.333) “After all, there is nothing I can’t doooo.”
+[says:horikita-suzune] (p.334) “I have no idea how serious Kouenji will get this time…”
+[says] (p.334) “Well, that’s true.”
+[says:horikita-suzune] (p.334) “But this is a rare opportunity. I have managed to get him to promise us his future commitment in the end.”
+[says:horikita-suzune] (p.335) “If he actually could get a rank in the top spots, it would be great, we could surpass the other classes like that.”
+[says:horikita-suzune] (p.335) “We come in first, and Kouenji comes in 2nd or 3rd. If we can do that, our class will gain a huge advantage, and we’ll be able to redeem ourselves after falling behind up to now.”
+[says:horikita-suzune] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate what Kouenji is going to do.”
+[says:horikita-suzune] (p.335) “That’s true, but to easily take the top spot is a completely different matter altogether.”
+[note] (p.333–335) The first-place race: Sakayanagi, Ichinose, Ryuuen, Housen, Amasawa, Nagumo, Kiriyama, Kiryūin — and him. He aims for a high spot.
+[rel:yukimura-teruhiko] (p.327–328) The private exchange before the storm.
+[rel:kouenji-rokusuke] (p.330–334) The full-freedom deal is struck with conditions.
+[rel:horikita-suzune] (p.330–334) She plays chess before the first move.
+[rel:chabashira-sae] (p.329) The last blessing.
+
+### y2v2 p.336–337 — Tsukishiro's final push
+[scene] (p.336) The bus lot; the buses enter; he keeps his back turned to Nanase; he never reveals his face.
+[says:tsukishiro] (p.336) “We’re in late July already. It’s certainly getting hotter, right?”
+[says:nanase-tsubasa] (p.336) “Yes, you are right.”
+[says:tsukishiro] (p.336) “Please, are you done with your analysis yet? Prolonging it anymore won’t help you.”
+[says:nanase-tsubasa] (p.336) “You’re saying I should— expel Ayanokouji Kiyotaka?”
+[says:tsukishiro] (p.336) “Is that too much for you?”
+[says:nanase-tsubasa] (p.336) “It’s confirmed that he isn’t an easy opponent to beat. No, it’s something we’ve known from the very beginning.”
+[says:tsukishiro] (p.337) “I’ll cooperate as much as I can. That being said, I can’t possibly provide any more support than this.”
+[says:nanase-tsubasa] (p.337) “You mean you’ve been forced to be unreasonable?”
+[says:tsukishiro] (p.337) “Yes. I’ve been quite unreasonable with pressuring for an increase in the budget for this special exam. More importantly, I’ve also been forced to silence the school authorities about the strict rules I placed for the exam, after all.”
+[says:tsukishiro] (p.337) “Probably. The allegations against Chairman Sakayanagi should have cleared by now. I can see my role here ending soon. That’s why I’ve prepared some splendid fireworks for the end. I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?”
+[says:nanase-tsubasa] (p.337) “—Yes. I won’t hesitate anymore.”
+[says:tsukishiro] (p.337) “That’s good to hear. In that case, you’re free to go berserk during this… special exam. Once everything is taken care of, you will also return to your previous life. We will both return to the ‘place’ we are supposed to be.”
+[says:tsukishiro] (p.337) “I’m expecting great things from you— Nanase Tsubasa-san.”
+[note] (p.337) Nanase's left hand tightly clenches as if brimming with natural power.
+[rel:tsukishiro] (p.336–337) The temporary chairman lights the fireworks.
+[rel:nanase-tsubasa] (p.336–337) The enforcer goes all-in.
+
+<!-- walk: y2v2 Epilogue → p.337 -->
+
+
+### y2v2 p.12–352 — Coverage note: passing mentions
+[mentioned] (p.12) His name invoked in the classroom speculation (“Ayanokouji Kiyotaka”); not on the page.
+[mentioned] (p.13) “The only one in the class that had achieved a perfect score was Ayanokouji himself.”
+[mentioned] (p.14) “Ayanokouji got a perfect score, which should be impossible.”
+[mentioned] (p.342–344) Ishizaki’s goal on page: to invite Ayanokouji-kun before anyone else could.
+[mentioned] (p.346–347) His name is invoked in Amasawa’s monologue; she tails Karuizawa in hopes of getting him to let her in the room.
+[mentioned] (p.349) “The fact he wasn’t a normal student was something I knew even before he got that perfect score in maths.”
+[mentioned] (p.351–353) Tsubaki’s interior monologue: she tails him to the convenience store.
+
+<!-- walk: y2v2 Coverage note → p.353 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

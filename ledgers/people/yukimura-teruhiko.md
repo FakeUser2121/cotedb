@@ -964,8 +964,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:miyake-akito] (p.12–22) Sits with him; heads to club.
 [rel:karuizawa-kei] (p.16–22) Battles of wits begin and grow.
 
-<!-- walk: y2v2 Ch.1 → p.22 -->
-
 ### y2v2 p.23–45 — The fight for his trust
 [scene] (p.23–26) After Chabashira's exchange with Ayanokōji (unseen by him), the classroom empties of club students; he waits through the whole thirty minutes.
 [scene] (p.27–29) Ayanokōji returns; he leads the charge with Haruka and Airi behind him; he confronts the perfect score head-on.
@@ -1015,6 +1013,24 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.179) His name is floated as the “left out” scout — the classes want his mind; his own small group is not settled yet on this page.
 
 <!-- walk: y2v2 Ch.3 → p.179 -->
+
+### y2v2 p.327–328 — Keisei's pre-exam fear
+[scene] (p.327) He comes to his seat, grim mid-checklist.
+[says] (p.327) “Honestly, surviving on an uninhabited island isn’t something very good at. You might as well ask me to catch a cloud.”
+[says] (p.327) “But it’s even harder on the girls, so I can’t really complain.”
+[says] (p.328) “Although we’re competing in different groups, I still want to do what I can to help out.”
+[says] (p.328) “But, are you alright going alone? If you get sick, it’s over. If by any chance you receive the penalty, you’d have to pay 6 million points… It’d all be over in an instant.”
+[says] (p.328) “You’re starting to sound a bit sarcastic lately, you know?”
+[rel:ayanokouji-kiyotaka] (p.327–328) He promises to help his comrades regardless of their groups.
+
+<!-- walk: y2v2 Epilogue → p.328 -->
+
+### y2v2 p.59 — Coverage note: passing mentions
+[mentioned] (p.59) “Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel good to know that someone by my side was hiding his powers and is actually more powerful than me.”
+[mentioned] (p.59) “Sudou, just like Keisei, had started to digest things by himself.”
+
+<!-- walk: y2v2 Coverage note → p.59 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -890,6 +890,33 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v2 → start -->
 
+
+### y2v2 p.56–348 — Coverage note: passing mentions (Manabu)
+[mentioned] (p.56) Sudō names him as one who studied martial arts and still could not beat Hōsen.
+[mentioned] (p.72) “As I told you before, the president won’t reject anyone who comes to him.” — Nagumo at Manabu’s graduation; the sister who followed him wherever he went.
+[mentioned] (p.73) Horikita Manabu’s sister, Horikita Suzune, is the one to stop Nagumo if Nagumo is going in the wrong direction.
+[mentioned] (p.75) Unlike Manabu, opening the door to anyone is how Nagumo operates.
+[mentioned] (p.76) Nagumo asks why Manabu’s sister wants to join the student council.
+[mentioned] (p.77) “awareness to pursue Manabu.” — the narration over Horikita’s stated purpose for joining the council as a path toward Manabu.
+[mentioned] (p.80) “This system had completely deviated from what Manabu once defended” (and “I guess that the area where I could interrupt them had already passed”).
+[mentioned] (p.83) Kiriyama supported Manabu and schemed; he discovers Manabu’s sister Horikita was going to join the student council, so he might have wanted to act.
+[mentioned] (p.271) “the student council president who graduated last year” — Kiriyama on Manabu; Nagumo’s rival tradition.
+[mentioned] (p.274) “I sent Horikita Suzune to the student council on the wish of her brother, the former student council president.” — Kiriyama on Horikita’s mandate.
+[mentioned] (p.276) “It was the policy of the former student council president Horikita Manabu to continue on with the school’s premise of winning by class.”
+[mentioned] (p.277) “If Manabu-senpai had heard those words, he would be disappointed.”
+[mentioned] (p.281) She is “someone Nagumo or Manabu-senpai would pay attention to.”
+[mentioned] (p.288) “There was a time when I was interested in you and Horikita Manabu.”
+[mentioned] (p.289) “I don’t have the leadership skills that you or Horikita Manabu possessed.”
+[mentioned] (p.291) Nagumo: “You seem to be bored ever since Horikita Manabu left.”
+[mentioned] (p.291) “If I had to say, it’s his aura. I feel that he has a different aura from you and Horikita Manabu.”
+[mentioned] (p.348) “As Horikita Manabu’s sister, it seems it was necessary for me to complete some kind of task.”
+
+<!-- walk: y2v2 Coverage note → p.348 -->
+
+### y2v2 p.12–350 — Coverage note: passing mentions (shared token)
+[note] (p.12–350) Every page in this range contains the token "Horikita", most often referring to Horikita Suzune (the sister). Manabu himself, identified by name on pages 56, 72, 73, 75, 76, 77, 80, 83, 271, 274, 276, 277, 281, 288, 289, 291, 348, carries his own rows above; every other page hit is Suzune's name and is recorded on horikita-suzune.md. The locator's hit set is not a name-disambiguation tool; the triage is line-by-line.
+
+<!-- walk: y2v2 Coverage note → p.350 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

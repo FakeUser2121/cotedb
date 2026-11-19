@@ -1173,6 +1173,21 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.18–22 — Ike's cheating theory
+[scene] (p.18) Remembers the spring past-questions incident; supplies the leaked-paper hypothesis out loud.
+[says] (p.18) “It’s definitely possible. Like seeing the question paper beforehand or something. Remember, didn’t that happen in the 1st year as well? It was the one test that asked the exact same questions as the previous years!”
+[scene] (p.19) He pushes the hacking angle; Shinohara beside him cannot follow the leap.
+[says] (p.19) “Hacking the school computers and stealing the answers or something! Isn’t that possible!”
+[scene] (p.20–21) Pushes Sudō on the fairness front; then, absorbing Karuizawa's holding-back theory, lands his did-not-contribute complaint.
+[says] (p.20) “What do you mean, Ken? Don’t tell me you’re taking Ayanokouji’s side?”
+[says] (p.21) “Well isn’t that even more of a problem? Doesn’t that mean he didn’t contribute to the class?”
+[note] (p.19–22) Ike is a long-time Sudō friend; the betrayal-of-the-circle reading of the perfect score simmers underneath the jokes.
+[rel:sudou-ken] (p.19–22) He goes for the obvious angle with his old friend on the other side.
+[rel:shinohara-satsuki] (p.18–19) She stands beside him.
+[rel:miyamoto-soshi] (p.18–20) They trade the evidence.
+
+<!-- walk: y2v2 Ch.1 → p.22 -->
+
 ### y2v2 p.169–177 — The boy-scout confession attempt
 [scene] (p.168–169) Ayanokōji passes the elevator; Ike waits in the lobby and follows Shinohara outside.
 [says] (p.169) “Hey, Shinohara.”
@@ -1202,6 +1217,19 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:komiya-kyogo] (p.172–186) His rival, in the café, alive and talking.
 
 <!-- walk: y2v2 Ch.3 → p.186 -->
+
+### y2v2 p.54–198 — Coverage note: passing mentions
+[mentioned] (p.54) “Sudou must have heard the details from Ike or Hondou afterwards.”
+[mentioned] (p.61) “But if it were another student such as Ike or Hondou in that situation, there could have been different developments.”
+[mentioned] (p.191) “It’s Ike. Ike from my class likes Shinohara.”
+[mentioned] (p.194) “After all, even though Ike and Shinohara liked each other, neither was willing to take a step forward.”
+[mentioned] (p.195) “I expressed my concerns to Horikita about the current situation between Ike, Shinohara, and Komiya and that it might affect this upcoming uninhabited island exam.”
+[mentioned] (p.196) “Why don’t we just make Ike-kun confess? If Shinohara-san accepts, Ike-kun will fight hard to stay at the school no matter what group he’s in, right?”
+[mentioned] (p.197) “Since we’ve already reached this point, we must take measures to prevent Ike-kun’s loss of motivation.”
+[mentioned] (p.198) “Today’s conversation focused on the groupings for the exam, starting with the fight between Ike and Shinohara.”
+
+<!-- walk: y2v2 Coverage note → p.198 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

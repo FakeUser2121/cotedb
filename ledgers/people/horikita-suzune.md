@@ -5059,6 +5059,149 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.142–186) She leans on his calm in the strategy circle.
 
 <!-- walk: y2v2 Ch.3 → p.197 -->
+
+### y2v2 p.316–325 — The Horikita–Ibuki summit
+[scene] (p.316–317) He corners her in the lobby; she agrees to hear Ibuki out.
+[says:ayanokouji-kiyotaka] (p.316) “What are you going to do about your group?”
+[says] (p.316) “It’s too late to bring that up. Anyway, I’m not going to group up with anyone this time. If you consider that the maximum number of people in a group is 6, it’s not a bad idea to go alone.”
+[says] (p.316) “I am aware that I’ll have to bear that amount of risk. Isn’t that why you’re not in a group as well?”
+[says] (p.316) “What’s the difference?”
+[says:ayanokouji-kiyotaka] (p.317) “You had a problem with your health during the uninhabited island exam last year.”
+[says] (p.317) “I can’t believe you’re bringing up something which happened a year ago. Anyone can get sick.”
+[says] (p.317) “Yeah. However, you also took a break in the winter due to a fever. That makes it twice in one year.”
+[says] (p.317) “You just happened to spend the year without taking a leave of absence. Do you think that means you won’t get sick this time?”
+[says] (p.317) “In terms of taking care of myself, I’m more confident than you are.”
+[says] (p.317) “I see. It’s true that I’m not as good as you at taking care of myself. I admit that. But even if that’s the case, making it out as something to be worried about–“
+[says] (p.317) “It’s enough that you know. I had no intention of opposing you.”
+[says] (p.317) “Yeah.”
+[says:ayanokouji-kiyotaka] (p.317) “In our class, only you, I, and Koenji haven’t formed a group yet, us three. The rest of our classmates have formed a small group of at least two people. It’s safer to form a group of two, if possible.”
+[says] (p.317) “That’s only in our class.”
+[says:ayanokouji-kiyotaka] (p.318) “Are there any girls left who haven’t formed a group?”
+[says] (p.318) “Ah, there’s one person I can think of.”
+[says] (p.318) “Who are you talking about?”
+[says] (p.318) “Ibuki from Class 2-B. Didn’t you check the OAA?”
+[says:ayanokouji-kiyotaka] (p.318) “Well, last I checked I did notice that she was alone.”
+[says:ayanokouji-kiyotaka] (p.318) “Ishizaki is worried because Ibuki doesn’t have anyone to group up with. How about grouping up with her for the special exam, Horikita?”
+[says] (p.318) “Me and Ibuki?”
+[says:ayanokouji-kiyotaka] (p.318) “If it’s two girls, you can merge with any other small group later. Why don’t we just hear them out?”
+[says] (p.318) “That’s true, having some kind of insurance would be better… All right, I’ll hear her out.”
+[scene] (p.319–325) The summit collapses beautifully; her grudge match with Ibuki resumes.
+[says] (p.320) “You seem to be close friends.”
+[says:ayanokouji-kiyotaka] (p.320) “He’s a nice guy.”
+[says] (p.320) “Even so, I wouldn’t get too close to him.”
+[says] (p.322) “Ah, but I don’t remember saying I wanted to be in a group with you.”
+[says:ibuki-mio] (p.322) “Huh? What do you mean?”
+[says] (p.323) “Looks like you’ve got things mixed up. You’ve been left behind because nobody wanted to be with you, and I didn’t group up with anyone because I wanted to fight alone. Although we’re both lone wolves, our situations are not the same.”
+[says] (p.323) “Can I ask you something? Why do you want to fight me? It’s true that we competed at the uninhabited island exam and during the sports festival, but that wasn’t anything special right?”
+[says:ibuki-mio] (p.323) “You’re the only one who thinks that.”
+[says] (p.324) “It seems like this was a waste of time.”
+[says:ibuki-mio] (p.325) “Wait. Do you accept? Or no?”
+[says] (p.325) “I am going in alone, but I’m not choosing to work alone throughout. When the special exams start, I’ll merge with another group if necessary.”
+[says:ibuki-mio] (p.325) “Lame!”
+[says] (p.325) “Lameness Isn’t a reason to change the way I take the test.”
+[says] (p.325) “If you insist on fighting alone, then even if I form a group, try not to lose. If you win, then I’ll recognise you a bit.”
+[says:ibuki-mio] (p.325) “…Not better.”
+[note] (p.323–325) Her own loss record against Ibuki (island 1-1, sports festival 1-1) is the reason she wants no group; she provokes Ibuki to make her reckless.
+[rel:ibuki-mio] (p.316–325) The rival at the far end of the table; she wants to see her try.
+[rel:ayanokouji-kiyotaka] (p.316–325) He sends Ishizaki with the proposal; she accepts after the 100m-loss joke.
+[rel:ishizaki-daichi] (p.319–325) She shoots down every word he says.
+
+<!-- walk: y2v2 Ch.5 → p.325 -->
+
+### y2v2 p.330–335 — Horikita's deal with Kouenji
+[scene] (p.330) Kouenji approaches at the roll call; the class hushes; she negotiates.
+[says] (p.330) “It’s rare for you to come to talk to me of your own volition.”
+[says] (p.330) “Oh my, you finally feel like helping us, right?”
+[says] (p.330) “What’s your objective? Can you tell me the other half of what you mean to say?”
+[says] (p.330) “Of course. Depending on how many points we can get, the order of the classes could change by a great magnitude.”
+[says] (p.331) “That’s not something I can easily agree to. Everyone else in the class probably feels the same”
+[says] (p.331) “Looks like you too can feel the crisis looming over your head. Your classmates won’t just forgive your carefree speech and antics forever. If a special exam like the class vote is held again, you’d be made into their scapegoat.”
+[says] (p.331) “There’s no need for such drastic proposals. Can’t you just be like everyone else?”
+[says] (p.332) “Sorry Kouenji-kun, I put too much value on your talent to let you do “just alright” on this exam and be a spectator later on. It just doesn’t sit right with me.”
+[says] (p.332) “—-Not exactly. If I can add some conditions to it, it’d be an acceptable proposal.”
+[says] (p.332) “A vague answer like getting a good result won’t do. The school has prepared a reward for the group that finishes in 1st place in this exam. If you get first place on your own, that might be reason enough for us to consider this an advance payment till graduation.”
+[says] (p.333) “No, that’s not enough.”
+[says] (p.333) “I haven’t finished telling you my conditions yet. I’ll have to work with you because of your big talk, but if we don’t get first place in the end, it’s a problem for us too.”
+[says] (p.333) “If you don’t get first place, then you will have to help the class in the future, such as the next special exam, and get results. You have to make this promise to me.”
+[says] (p.333) “If you agree to the aforementioned conditions, I’ll accept your proposal.”
+[says] (p.334) “I have no idea how serious Kouenji will get this time…”
+[says] (p.334) “Well, that’s true.”
+[says] (p.334) “But this is a rare opportunity. I have managed to get him to promise us his future commitment in the end.”
+[says] (p.335) “If he actually could get a rank in the top spots, it would be great, we could surpass the other classes like that.”
+[says] (p.335) “We come in first, and Kouenji comes in 2nd or 3rd. If we can do that, our class will gain a huge advantage, and we’ll be able to redeem ourselves after falling behind up to now.”
+[says] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate what Kouenji is going to do.”
+[says] (p.335) “That’s true, but to easily take the top spot is a completely different matter altogether.”
+[rel:kouenji-rokusuke] (p.330–335) The deal closes; she paints him into a corner he keeps smiling through.
+[rel:ayanokouji-kiyotaka] (p.334–335) Her wildest allies are both watching.
+
+<!-- walk: y2v2 Epilogue → p.335 -->
+
+### y2v2 p.348–350 — SS: He Who Stands Beside Me (Horikita POV)
+[scene] (p.348) She requests the student council; Nagumo accepts her with a condition.
+[narrates] (p.348) “As Horikita Manabu’s sister, it seems it was necessary for me to complete some kind of task.”
+[narrates] (p.349) “I want to avoid that at all costs.”
+[narrates] (p.349) “Disappointed? I? Did I want to avoid disappointing him?”
+[narrates] (p.349) “My heart was rocked by this feeling I hadn’t realised.”
+[narrates] (p.349) “I was a bit interested in that.”
+[narrates] (p.350) “I took the reins of the feelings that started deviating, and waved away these idle thoughts I had.”
+[narrates] (p.350) “I will take that experience and once again grow.”
+[narrates] (p.350) “By doing so, Ayanokouji-kun will surely acknowledge me.”
+[narrates] (p.350) “That was a premonition I couldn’t shake away.”
+[note] (p.348–350) Her inner monologue in close third person; she analyzes why she's actually there — to prove she's worth his acknowledgment; the premonition of Class A; the distance to the class he and she both must climb.
+[rel:ayanokouji-kiyotaka] (p.348–350) The acknowledgment she wants.
+[rel:nagumo-miyabi] (p.348–350) The president who accepts her ambition quietly.
+[rel:horikita-manabu] (p.348) The brother's path she follows.
+
+<!-- walk: y2v2 Short Stories → p.350 -->
+
+### y2v2 p.12–342 — Coverage note: passing mentions (Suzune)
+[mentioned] (p.12) Yukimura gave up waiting for Ayanokōji after school because of Horikita’s appearance.
+[mentioned] (p.26) “After that, I tried to call Horikita… Right now, Horikita seemed like the most helpful person to resolve the situation” — Ayanokōji’s narration.
+[mentioned] (p.39) “I’ll thank Horikita and Yosuke another day. They might have understood what I intended, as Horikita was the first to leave.”
+[mentioned] (p.40) “Why didn’t you tell us before?… If it’s to hide information as Horikita said… The easy way to get this over with was to put all the blame on Horikita.”
+[mentioned] (p.41) “And based on what Horikita said, you’ll continue to hold back after this, right?”
+[mentioned] (p.42) “Yeah, I’m serious. Until I heard Horikita’s explanation, I was determined to leave because I didn’t think Kiyotaka could be trusted at all.”
+[mentioned] (p.54) Suzune’s name — “because of Suzune’s strategy, right?” — Sudō’s question.
+[mentioned] (p.55) “Well, you two have been close ever since school started.” — Sudō’s assumption.
+[mentioned] (p.56) “Even carefully selected people such as Horikita’s older brother, Horikita Manabu, who had studied martial arts…”
+[mentioned] (p.57) “And there were things he could see only because of his fondness for Horikita.”
+[mentioned] (p.61) “I thought about asking Horikita to force his mouth shut about it… I’d even go so far as to request Horikita to tell you to keep quiet.”
+[mentioned] (p.62) “You and Suzune… We’re not dating.” — Sudō’s question.
+[mentioned] (p.83) “supported Manabu and had been scheming… he discovered that Manabu’s sister Horikita was going to join the student council, so he might have wanted to take some kind of action.”
+[mentioned] (p.92) “Horikita? Or is it one of the boys? As I thought of this, I confirmed who the visitor was through the peephole.”
+[mentioned] (p.139) “Horikita told me to keep an eye out on your actions. We don’t know how Kouenji will act, she said.”
+[mentioned] (p.207) “Horikita-san and her class are also rapidly gaining strength. In terms of individual strength, some of them wouldn’t lose to anyone in the other classes…”
+[mentioned] (p.207) “And then, the leader who brought them together and led them forward, Horikita-san. She has both excellent academic and physical abilities, and has recently joined the student council.”
+[mentioned] (p.210) “That’s right… partnerships can’t last forever.”
+[mentioned] (p.209) “A cooperative relationship between classes isn’t a bad thing. In fact, didn’t you have a similar relationship with Horikita-san of Class D when you were 1st years?” — Sakayanagi.
+[mentioned] (p.210) “In fact, the reason why Ichinose and Horikita’s class ceased their hostility towards each other, was because of the huge difference in class points.”
+[mentioned] (p.214) “But if you and I group up, Horikita-san and Ryuuen-kun might also group up…”
+[mentioned] (p.218) “However, both Ryuuen-kun and Horikita-san are formidable opponents.”
+[mentioned] (p.218) “Considering Horikita had Ayanokouji behind her, the battle was never going to be easy.”
+[mentioned] (p.246) “graduated from the same junior high school as Horikita and Kushida.”
+[mentioned] (p.262) “It would be harder to eliminate an underclassman compared to Horikita and I.”
+[mentioned] (p.262) “Horikita-san and youself are no exception to this.”
+[mentioned] (p.271) “Horikita had already joined the student council, but even after that, she couldn’t provide me with any new information.”
+[mentioned] (p.274) “I’m referring to Horikita Suzune, who just joined the student council.”
+[mentioned] (p.274) “You wanted Horikita Manabu’s sister to join the student council to monitor Nagumo, right?” — Kiriyama.
+[mentioned] (p.275) “Unless Horikita thinks Nagumo’s an obstacle.”
+[mentioned] (p.275) “Nagumo was more or less aware of what I’d been doing with Horikitasenpai.”
+[mentioned] (p.277) “It was just a prettier excuse to keep Horikita and I out of his way.”
+[mentioned] (p.277) “He was worried that Horikita and I would say something unnecessary.”
+[mentioned] (p.277) “When Horikita joined the student council, she was supposed to be introduced to the other members later on, but you came early, Vice President. I know the reason for that.”
+[mentioned] (p.288) “someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji.”
+[mentioned] (p.295) “You and Horikita, are both of you going to act as reinforcements for your class’s groups?”
+[mentioned] (p.342) “our first choice of student to invite wasn’t Sakayanagi-san, Ichinose-san or even Horikita-san. I and Ishizaki-kun both shared this sentiment.”
+
+<!-- walk: y2v2 Coverage note → p.342 -->
+
+### y2v2 p.255, 276, 289, 291 — Coverage note: passing mentions
+[mentioned] (p.255) “gives Horikita a clear direction to proceed.” — Horikita's consideration of Nagumo/Tsukishiro, tracked in Yagami's briefing context (the line names Horikita).
+[mentioned] (p.276) “Horikita Manabu” — the hit on this page names her brother; see horikita-manabu.md, p.276.
+[mentioned] (p.289) “you or Horikita Manabu” — her brother, on this page; see horikita-manabu.md, p.289.
+[mentioned] (p.291) “Horikita Manabu.” — her brother left; see horikita-manabu.md, p.291.
+
+<!-- walk: y2v2 Coverage note → p.291 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

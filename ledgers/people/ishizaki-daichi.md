@@ -741,6 +741,44 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:komiya-kyogo] (p.193–194) He extracts the planned confession.
 
 <!-- walk: y2v2 Ch.3 → p.194 -->
+
+### y2v2 p.294 — Ishizaki's email
+[note] (p.294) His email summons Ayanokōji to the café on Ryuuen's behalf — an unusual tone for them.
+
+### y2v2 p.315–321 — The Ibuki problem
+[scene] (p.315–316) He calls him as the deadline day arrives; Ibuki still hasn't grouped.
+[says] (p.315) “Yo, Ayanokouji. Morning.”
+[says] (p.315) “Today’s the last day for forming small groups, right? I have something important to talk to you about.”
+[says] (p.315) “Is it about Nishino? Last I checked, she hadn’t formed a group.”
+[says] (p.315) “In the end, she couldn’t find anyone in her class to team up with, so she asked Ichinose to help her. Now, Tsube from Class C will help her out.”
+[says] (p.316) “Ibuki, right?”
+[says] (p.316) “Yeah. Ibuki’s on her own. Is there anyone who would group up with her?”
+[says] (p.316) “It’s risky to take the special exam by yourself. I understand how you feel.”
+[says] (p.316) “Give me some time. I think I have an idea.”
+[says] (p.316) “Seriously? Sorry about dumping this on you so early in the morning!”
+[scene] (p.319–321) He gathers Horikita and Ibuki; the negotiation fails spectacularly.
+[says] (p.319) “Hey, Ayanokouji! Over here!”
+[says] (p.319) “Hurry up and come over!”
+[says:ibuki-mio] (p.320) “Why are Ayanokouji and Horikita here?”
+[says] (p.320) “Huh? What’s wrong, Ayanokouji?”
+[says] (p.320) “It’s nothing. By the way, Horikita here is the same as Ibuki, she hasn’t teamed up with anyone yet.”
+[says] (p.321) “You too, you want me to group up with Horikita to help them out, don’t you?”
+[says] (p.322) “I didn’t know it would be Horikita, but wouldn’t it be great if you formed a group?”
+[says] (p.322) “I’m honored.”
+[note] (p.319–325) He pitches Horikita to Ibuki with a smile; the grudge prevents any chance of a group.
+[rel:ibuki-mio] (p.315–325) The lone wolf he wants saved.
+[rel:tsube-hitomi] (p.315) He brokers Tsube's help for Nishino.
+[rel:ayanokouji-kiyotaka] (p.315–325) He dumps the problem on him without a second thought.
+
+<!-- walk: y2v2 Ch.5 → p.325 -->
+
+### y2v2 p.300–344 — Coverage note: passing mentions
+[mentioned] (p.300) “Didn’t you also lose to Ishizaki that one time?”
+[mentioned] (p.342) “Ishizaki-kun’s idea to call out to Ayanokouji and invite him before anyone could was probably right.” — Hiyori’s POV.
+[mentioned] (p.343) “I could easily have said something to him, but I decided to not advise him on anything.”
+[mentioned] (p.344) “We are attracting to much attention here so let’s move on Ishizaki-kun.” — Hiyori’s abort move; he is part of the capture.
+
+<!-- walk: y2v2 Coverage note → p.344 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

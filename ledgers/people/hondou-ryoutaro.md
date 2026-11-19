@@ -77,6 +77,14 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v2 Ch.3 → p.168 -->
+
+### y2v2 p.54–129 — Coverage note: passing mentions
+[mentioned] (p.54) “Sudou… must have heard the details from Ike or Hondou afterwards.”
+[mentioned] (p.61) “But if it were another student such as Ike or Hondou in that situation, there could have been different developments.”
+[mentioned] (p.129) Chabashira’s example member — “the trio of Hirata, Sudo, and Hondou.”
+
+<!-- walk: y2v2 Coverage note → p.129 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

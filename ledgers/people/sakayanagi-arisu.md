@@ -1360,6 +1360,44 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:shibata-sou] (p.215) She names him as a Class B main force.
 
 <!-- walk: y2v2 Ch.3 → p.218 -->
+
+### y2v2 p.15–342 — Coverage note: passing mentions
+[mentioned] (p.15) “Not a single student, not even Ichinose or Sakayanagi, got a perfect score.”
+[mentioned] (p.17) “Sakayanagi and Ichinose couldn’t get full marks.”
+[mentioned] (p.27) “I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get”
+[mentioned] (p.32) “by May, Sakayanagi-san, Ichinose-san, and Ryuuen-kun would definitely have learned of his name.”
+[mentioned] (p.33) “In order to avoid getting expelled, Yamauchi would have been more careful when making his moves, and Sakayanagi-san’s strategy would have been more complex and harder to see through.”
+[mentioned] (p.33) “And in fact, at that time, Ayanokouji-kun was at risk of dropping out due to Sakayanagi-san’s strategy. Although that was when he was completely average and was coincidentally chosen as a patsy, it’s possible that it really was aimed at him.”
+[mentioned] (p.44) “Speaking of Sakayanagi-san, she got similar scores in all her subjects, right?”
+[mentioned] (p.45) “I know she was smart, but ever since the introduction of the OAA, her strength has become more apparent.”
+[mentioned] (p.49) “there’s a limit to test scores… the second in the year.” — Sakayanagi-san named on this page.
+[mentioned] (p.67) “Class A’s Sakayanagi knew about me from before, and Ryuuen had the experience of being beaten down by me, so he would naturally know that I wasn’t only good at math.”
+[mentioned] (p.81) “Sakayanagi, Ichinose, Ryuuen. Those people would probably cry from the joy.”
+[mentioned] (p.104) “Or maybe she was the same as Sakayanagi, honing her abilities in a place that had nothing to do with the White Room.”
+[mentioned] (p.144) “How will Sakayanagi, Ryuuen, and Ichinose act?”
+[mentioned] (p.145) “But, as Yosuke said, Sakayanagi tended never to let the prey she decided on escape.”
+[mentioned] (p.145) “Allowing the other proposers to accept Sakayanagi’s hostility.”
+[mentioned] (p.145) “If Sakayanagi became aware of this information, she would naturally make her move as well.”
+[mentioned] (p.164) “Sakayanagi’s.”
+[mentioned] (p.299) “no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy.”
+[mentioned] (p.300) “Only on the day of the exam shall we know how Sakayanagi will act, and no one will know before she says so.”
+[mentioned] (p.301) “That’s true, if you want her gone, you’ll have to stab her at least twice.”
+[mentioned] (p.303) “It was extremely difficult to get Sakayanagi, who had both enough private and protection points, expelled.”
+[mentioned] (p.307) “Totsuka Yahiko, a great admirer of Katsuragi, was expelled from the school because of Sakayanagi.”
+[mentioned] (p.308) “the contract wasn’t signed by Sakayanagi, their current leader, but by Katsuragi, who had receded into the shadows by now.”
+[mentioned] (p.309) “I’ll soon defeat Sakayanagi, and then the entire Class A will fall.”
+[mentioned] (p.309) “Without Sakayanagi, their head, it would be difficult for Class A to continue fighting on the front lines.”
+[mentioned] (p.309) “After negotiating with Sakayanagi, I’m giving this thing up for 5 million points.”
+[mentioned] (p.309) “albeit half the original value, Sakayanagi would be able to predict what Ryuuen would do with the money.”
+[mentioned] (p.309) “However, Sakayanagi accepted such a favourable proposal despite knowing the risks.”
+[mentioned] (p.310) “If I were Sakayanagi, I would have agreed to Ryuuen’s proposal as well.”
+[mentioned] (p.312) “Katsuragi had buried his desire for vengeance against Sakayanagi in his heart.”
+[mentioned] (p.335) “The fierce competitors and representatives of the other classes, Sakayanagi, Ichinose, and Ryuuen, were also aiming for that very same goal.”
+[mentioned] (p.337) “Sakayanagi” — the chairman’s allegations; see Tsukishiro’s ledger.
+[mentioned] (p.342) “Our first choice of student to invite wasn’t Sakayanagi-san, Ichinose-san or even Horikita-san.”
+
+<!-- walk: y2v2 Coverage note → p.342 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

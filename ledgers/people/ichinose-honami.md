@@ -1843,6 +1843,28 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.207–218) Her value to Sakayanagi and Ichinose alike.
 
 <!-- walk: y2v2 Ch.3 → p.218 -->
+
+### y2v2 p.15–350 — Coverage note: passing mentions
+[mentioned] (p.15) “Not a single student, not even Ichinose or Sakayanagi, got a perfect score.”
+[mentioned] (p.17) “The question was such that even Sakayanagi and Ichinose couldn’t get full marks.”
+[mentioned] (p.27) “I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get”
+[mentioned] (p.32) “by May, Sakayanagi-san, Ichinose-san, and Ryuuen-kun would definitely have learned of his name.”
+[mentioned] (p.295) “Ayanokouji, Ichinose seems to trust you a lot, but can ‘we’ really trust you?” — Kanzaki’s probe, named in his speech.
+[mentioned] (p.296) “Although we’ve broken off the alliance, I don’t consider Ichinose to be an enemy.”
+[mentioned] (p.296) “Are you trying to get some sort of statement from me and have Ichinose to listen to it?”
+[mentioned] (p.296) “You… Ichinose…no, we underestimated your perceptiveness.”
+[mentioned] (p.296) “I’m simply going to come out and ask you for help. Ichinose trusts you a lot.”
+[mentioned] (p.297) “So you’re expecting that to change the way Ichinose thinks?”
+[mentioned] (p.297) “Ichinose trusts you a lot. That is why I want you to tell her yourself: the way she is right now, she isn’t good enough.”
+[mentioned] (p.299) “no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy.”
+[mentioned] (p.303) “Even so, Ichinose really did agree to team up with that woman.”
+[mentioned] (p.315) “she asked Ichinose to help her. Now, Tsube from Class C will help her out.”
+[mentioned] (p.335) “Sakayanagi, Ichinose, and Ryuuen, were also aiming for that very same goal.”
+[mentioned] (p.342) “Our first choice of student to invite wasn’t Sakayanagi-san, Ichinose-san or even Horikita-san.”
+[mentioned] (p.350) “There are no other student council members from the 2nd grade aside for Honami right now so we’ve been troubled by that.” — Nagumo on his second-year prospect.
+
+<!-- walk: y2v2 Coverage note → p.350 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

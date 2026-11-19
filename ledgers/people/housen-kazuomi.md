@@ -181,6 +181,12 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:takahashi-osamu] (p.225–226) He shoves him down.
 
 <!-- walk: y2v2 Ch.4 → p.242 -->
+
+### y2v2 p.23 — Coverage note: passing mentions
+[mentioned] (p.23) “Although I injured my left hand in the conflict against Hosen, I managed to eliminate my risk of getting expelled.”
+
+<!-- walk: y2v2 Coverage note → p.23 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -193,6 +193,17 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:takahashi-osamu] (p.254) He's on it too.
 
 <!-- walk: y2v2 Ch.4 → p.262 -->
+
+### y2v2 p.220–269 — Coverage note: passing mentions
+[mentioned] (p.220) “Takuya Yagami from Class 1-B stood up and calmed those voices.”
+[mentioned] (p.240) “both of you women are bolder than Yagami and Takahashi.”
+[mentioned] (p.264) “After Kushida and Yagami left, I approached the convenience store.”
+[mentioned] (p.266) “Was it about Yagami, or the special exam?”
+[mentioned] (p.269) “Even though Yagami had already informed me on this matter, I pretended not to know about it.”
+[mentioned] (p.269) “On the other hand, Tsubaki also didn’t mention my contact with Yagami.”
+
+<!-- walk: y2v2 Coverage note → p.269 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

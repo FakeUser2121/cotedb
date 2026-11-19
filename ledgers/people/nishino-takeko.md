@@ -63,6 +63,14 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 [rel:ayanokouji-kiyotaka] (p.187–192) She tags him onto the investigation.
 
 <!-- walk: y2v2 Ch.3 → p.192 -->
+
+### y2v2 p.193–315 — Coverage note: passing mentions
+[mentioned] (p.193) “Ishizaki, who had little material to use as a motive for asking, immediately accepted Nishino’s suggestion.”
+[mentioned] (p.194) “If Nishino’s having trouble forming a group, you can talk to me. I might be able to help in some way.”
+[mentioned] (p.315) “Is it about Nishino? Last I checked, she hadn’t formed a group.”
+
+<!-- walk: y2v2 Coverage note → p.315 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

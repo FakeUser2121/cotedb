@@ -6,6 +6,10 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.299 — Ninomiya (referenced)
+[mentioned] (p.299) Ryuuen names the “More People” card holder trade: Class A's Hashimoto and Kamuro had formed a group with one of “Class C's best students, Ninomiya.” The corpus prints no class and no surname on this page; the roster's only Ninomiya is Class 2-D's Ninomiya Yui — the class attribution printed in this volume does not fit her file; recorded as printed, unresolved.
+
+<!-- walk: y2v2 Ch.5 → p.299 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

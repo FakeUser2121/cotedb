@@ -40,6 +40,14 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [rel:yagami-takuya] (p.223–235) He joins him in the cooperation camp.
 
 <!-- walk: y2v2 Ch.4 → p.235 -->
+
+### y2v2 p.240, 254 — Coverage note: passing mentions
+[mentioned] (p.224) “Osamu-kun, did you come because you were given this troublesome task again?”
+[mentioned] (p.240) “both of you women are bolder than Yagami and Takahashi.” — Amasawa.
+[mentioned] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A…”
+
+<!-- walk: y2v2 Coverage note → p.254 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

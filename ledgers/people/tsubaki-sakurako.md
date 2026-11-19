@@ -93,6 +93,27 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:yagami-takuya] (p.258) She observed his café meet with Ayanokōji.
 
 <!-- walk: y2v2 Ch.4 → p.270 -->
+
+### y2v2 p.351–353 — SS: What Could Be Seen From That Back (Tsubaki POV)
+[scene] (p.351) She tails him to the convenience store; she grabs a lollipop as cover; she calls for Utomiya.
+[narrates] (p.351) “If I was asked about what I was best at, I would without hesitation say it was my insight and intuition.”
+[narrates] (p.351) “On the way back to the dorms from the Keyaki mall.”
+[narrates] (p.351) “But, he had definitely noticed me.”
+[narrates] (p.351) “I had been silently trailing him until now, but he hadn’t shown any signs of having noticed me.”
+[narrates] (p.351) “But, he had definitely noticed me.”
+[narrates] (p.352) “There’s something I want to speak to you about, so could you wait outside for a moment?”
+[narrates] (p.352) “Buying at least a lollipop was the least I could do to show courtesy towards the shop and not just window shopping.”
+[narrates] (p.352) “Thanks for waiting for me.”
+[narrates] (p.352) “So what did you want to talk about?”
+[narrates] (p.352) “There was something he had to tell you if I happen to meet you now Ayanokouji-senpai.”
+[narrates] (p.352) “Utoumiya-kun did?”
+[narrates] (p.353) “Guess I was right.”
+[narrates] (p.353) “He said he would head over here, at once.”
+[note] (p.351–353) Her interior monologue; she's the lollipop-holder who isn't good at conversation; she buys time for Utomiya; she doesn't yet understand what he's planning.
+[rel:utomiya-riku] (p.351–353) The friend she is stalling for.
+[rel:ayanokouji-kiyotaka] (p.351–353) The prey she's learned to read.
+
+<!-- walk: y2v2 Short Stories → p.353 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

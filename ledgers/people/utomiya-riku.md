@@ -110,6 +110,13 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 [rel:housen-kazuomi] (p.264–270) The target.
 
 <!-- walk: y2v2 Ch.4 → p.270 -->
+
+### y2v2 p.254–255 — Coverage note: passing mentions
+[mentioned] (p.254) “Utomiya Riku-kun from Class C” — the Yagami summon list.
+[mentioned] (p.255) “Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
+
+<!-- walk: y2v2 Coverage note → p.255 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

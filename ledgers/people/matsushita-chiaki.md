@@ -276,6 +276,12 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.179–185) She wants to sign him; he defers; she keeps the line open.
 
 <!-- walk: y2v2 Ch.3 → p.185 -->
+
+### y2v2 p.294 — Coverage note: passing mentions
+[mentioned] (p.294) “Ishizaki, Matsushita, and the others who had invited me to join their groups had gradually given up on trying to do so.”
+
+<!-- walk: y2v2 Coverage note → p.294 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

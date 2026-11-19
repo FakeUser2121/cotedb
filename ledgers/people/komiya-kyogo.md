@@ -153,6 +153,15 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ishizaki-daichi] (p.193) He unknowingly briefs him via the pact question.
 
 <!-- walk: y2v2 Ch.3 → p.193 -->
+
+### y2v2 p.194–197 — Coverage note: passing mentions
+[mentioned] (p.194) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
+[mentioned] (p.195) “I expressed my concerns to Horikita about the current situation between Ike, Shinohara, and Komiya and that it might affect this upcoming uninhabited island exam.”
+[mentioned] (p.196) “It seems like Komiya and Shinohara have already agreed to form a group, but because of your orders, they haven’t confirmed yet.”
+[mentioned] (p.197) “The prospect of forming groups for the uninhabited island exam would be difficult.”
+
+<!-- walk: y2v2 Coverage note → p.197 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

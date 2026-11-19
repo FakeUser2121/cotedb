@@ -173,6 +173,23 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [rel:kiryuin-fuuka] (p.278–285) He cannot stand her.
 
 <!-- walk: y2v2 Ch.4 → p.285 -->
+
+### y2v2 p.83–335 — Coverage note: passing mentions
+[mentioned] (p.83) “Well… If Kiriyama hasn’t given up yet, eventually he might act.”
+[mentioned] (p.286) “Next to him stood Kiriyama, the vice president of the student council, who had just left.”
+[mentioned] (p.286) “Because the one who left and as returned is you, Kiriyama, and so that fits the image of a loyal dog.”
+[mentioned] (p.286) “You’ve got a dirty mouth, Kiriyama, it doesn’t suit the image of a serious vice president.”
+[mentioned] (p.287) “Nagumo tapped Kiriyama on the shoulder and interrupted him. He forced Kiriyama to move away a little, and stood in front of Kiryuuin.”
+[mentioned] (p.288) “I heard something from Kiriyama. I would have never thought that someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji.”
+[mentioned] (p.289) “Up till now, Nagumo had competed with Kiriyama’s class many times in the past special exams.”
+[mentioned] (p.290) “Kiriyama simply glared at Kiryuuin, who was merrily talking, but didn’t interfere with their conversation.”
+[mentioned] (p.290) “After he said that, Nagumo turned his attention to Kiriyama, who was waiting for him.”
+[mentioned] (p.291) “Or maybe it’ll be Kiriyama, who’s been dying to fight me.”
+[mentioned] (p.292) “Nagumo gave instructions to withdraw and headed over to Kiriyama.”
+[mentioned] (p.335) “then there were the elites of the 3rd year- Nagumo, Kiriyama and Kiryuuin.”
+
+<!-- walk: y2v2 Coverage note → p.335 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->
