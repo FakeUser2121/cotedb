@@ -1239,6 +1239,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:wang-mei-yu] (p.102, 110) Wang's absence — "diligent students like Wang and Kushida" — a reprieve.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.212–212 — Ch.4: Chabashira-sensei — to witness the alliance contract
+[mentioned] (p.212) “I intend to have Chabashira-sensei and Sakagami-sensei get involved in this as well.” — Horikita's line; the karaoke deal will be formalized with Chabashira and Sakagami as witnesses; stipulations for breach of contract will be included; “Naturally, there would be stipulations for breach of contract included in it. Even Ryuuen couldn’t do anything if he were bound by unbreakable rules.”
+[note] (p.212) The paperwork route is open — Sakagami-sensei is named in the same breath; nothing is signed on these pages; the alliance exists only as an agreement in the karaoke parlor.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -297,9 +297,20 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [note] (p.11) Passing mentions on pages: p.242.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.226–233 — Ch.4: Albert Yamada — Ryuuen's shadow in the mall (AK POV)
+[scene] (p.226) Near the rice cooker and kettle corner — he appears beside Ishizaki, holding a large branded pot that looks small in his large hands; the 20th is Ryuuen-san's birthday — they are shopping for him; he looks a little happy about the coincidence; his large hands.
+[says:yamada-albert] (p.226) “Oh, this? The 20th of this month is Ryuuen-san’s birthday. We’re just picking something out for him.”
+[says:yamada-albert] (p.227) “… ah, that’s, right…”
+[says:yamada-albert] (p.227) “Who has the same birthday?”
+[note] (p.230) “Can we return to the store now?” — untagged; recorded without assignment (Ishizaki or Albert).
+[says:ishizaki-daichi] (p.232) “Done! First, let’s go look for Ryuuen-san’s birthday present!”
+[scene] (p.231) He watches Kei's flustered agreement — Ishizaki's proposed double-birthday celebration; he nods happily and goes with Ishizaki toward the mega mart before AK and Kei; he and Ishizaki are clearly unwelcome together.
+[rel:ishizaki-daichi] (p.226–233) His partner-in-crime; they shop for Ryuuen's gift together.
+[rel:ryuuen-kakeru] (p.226) The 20th is his birthday — they are picking a present.
+[rel:ayanokouji-kiyotaka] (p.226, 230–233) October 20 is his birthday too — the coincidence — Albert is quietly pleased.
+[note] (p.226) The corpus prints “Albert” — the roster row yamada-albert carries this given name; tagged by it.
 
-
-
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

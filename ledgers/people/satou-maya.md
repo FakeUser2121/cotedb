@@ -354,6 +354,28 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.49) Kei fled to her lunch table after the interruption.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.225–237 — Ch.4: Satou Maya — the cafe overheard; the first-year's offer
+[scene] (p.225) Near the home-electronics corner — she bumps into AK and Kei arm in arm; their eyes glue to the linked arms; she panics and bolts at full speed; she facepalms; she stops in front of the girls' restroom; hugging her knees: “I’ll have to try not to panic next time…”
+[says:satou-maya] (p.225) “Lo, Lovey dovey aren’t you. Sorry for bothering yooouuu.”
+[says:satou-maya] (p.234) “Ughh, why did I run off!”
+[says:satou-maya] (p.234) “I’ll have to try not to panic next time…”
+[scene] (p.234–237) A first-year student appears behind her — an unfamiliar voice; does she want to meet? — it is about Ayanokouji-senpai and Karuizawa Kei-senpai; “Can you please come with me, so we can go somewhere else and discuss this comfortably, just the two of us?”; they draw so close their lips are almost at her ear — “If Karuizawa-senpai were expelled─don’t you think you’d have a chance, Satou-senpai?”; if she refuses, she will regret it for the rest of her life; a dorm room number is spoken; the student walks away; the words “You’d have a chance.” crawl into her and won't leave; she is confused and terrified; her feelings for AK are revealed.
+[note] (p.234) The unnamed first-year opens: “Excuse me for butting in, but are you Satou Maya-senpai?” — the corpus prints no speaker name for them.
+[says:satou-maya] (p.235) “Yes, I am, but… Erm, who are you? You must be a first-year, right?”
+[note] (p.235) The first-year’s opening words — “Excuse me for butting in, but are you Satou Maya-senpai?” — are theirs; tagged here: the speaker is the unnamed first-year, not Satou.
+[says:satou-maya] (p.235) “E-eh? What do you mean?”
+[says:satou-maya] (p.235) “That’s…”
+[says:satou-maya] (p.235) “… Ayanokouji-kun?”
+[note] (p.236) The first-year’s ultimatum — “If Karuizawa-senpai were expelled─don’t you think you’d have a chance, Satou-senpai?” — is untagged in the corpus; the asker is the unnamed first-year; recorded without attribution to a named character.
+[note] (p.237) The first-year offers only a dorm room number and vanishes; the corpus prints no name for them; their identity is not resolved on these pages.
+[note] (p.237) Satou's closing interior — “I─” — the corpus cuts off mid-word; kept as printed.
+[trait] (p.225–237) Jealous, insecure, hung up — she knows her dear friend is in love with the same boy; she can't stand seeing them arm in arm; the stranger's words lodge themselves — “You’d have a chance.”
+[rel:karuizawa-kei] (p.225) The girl who has AK; her best friend; the reason she fled at full speed.
+[rel:ayanokouji-kiyotaka] (p.225, 235–237) AK — the boy she likes — the boy her best friend is with; the stranger's words plant a seed in her.
+[note] (p.234) POV note: third-person narration focusing on her; not her first person; lines tagged by printed adjacency/alternation and by printed speaker tags; the first-year's lines are printed without speaker names.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

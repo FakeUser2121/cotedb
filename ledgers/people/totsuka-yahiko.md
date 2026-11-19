@@ -274,9 +274,11 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [note] (p.11) Passing mentions on pages: p.213.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.213–213 — Ch.4: Totsuka — absent — the arithmetic of loss
+[mentioned] (p.213) Ryuuen: “In Sakayanagi’s class, there’s 38 people after Totsuka’s expulsion and your transfer. Sakayanagi is definitely not going to participate, so that makes 37 people. Ichinose’s class is 40 people. The three-person difference is surprisingly big.” — Totsuka-yahiko's expulsion is the reason Class A is down to 37 participants.
+[note] (p.213) Katsuragi confirms the arithmetic — “after Totsuka’s expulsion and your transfer” — the first-year expulsion from the Uninhabited Island Exam era.
 
-
-
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

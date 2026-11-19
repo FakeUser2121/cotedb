@@ -848,6 +848,22 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.11) Passing mentions on pages: p.219-222, p.261-267, p.305, p.319.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.219–222 — Ch.4: Hashimoto Masayoshi — the cafe strategist (third-person)
+[scene] (p.219) Three second-year Class A students — Sakayanagi, Kamuro, Hashimoto — gather at the café in Keyaki Mall just before 7 PM; he is animated; he asks the sharp questions; his eyes change when he hears the news.
+[says:hashimoto-masayoshi] (p.219) “I’m not even surprised when you summon me out of the blue anymore, it’s become so common. What is it today, Princess?”
+[says:hashimoto-masayoshi] (p.220) “Who approached whom? Was it from Ryuuen?”
+[says:hashimoto-masayoshi] (p.220) “Are you saying that by ourselves, we’ll lose?” asked Hashimoto.
+[says:hashimoto-masayoshi] (p.221) “There’s no doubt that they’re on a roll right now. I thought it would be impossible for any class other than Ryuuen’s to throw away a small fry and grab those 100 points. Has Horikita grown?… Or has Ayanokouji been making some moves in secret?”
+[says:hashimoto-masayoshi] (p.221) “…No, not especially. I do think he’s hiding abilities beyond what’s on his OAA, though. Well, it’s not like Ayanokouji’s the only student like that.”
+[says:hashimoto-masayoshi] (p.222) “I think it’s enough if we just don’t come last,” said Hashimoto.
+[says:hashimoto-masayoshi] (p.222) “I guess I can feel relieved, huh. But you sure picked up that information quickly, Princess. It’s not like you went out and got it yourself when your legs are like that, right?”
+[trait] (p.219–222) Sharp, fast-talking, oblivious to being used as a radar — he raises the issue of Ayanokouji's growing reputation; “Princess”; his worry that Sakayanagi's non-participation is a throw; he wants Class A to not come last.
+[rel:sakayanagi-arisu] (p.219–222) His leader — “Princess”; he tracks her decisions for the alliance's weak spots.
+[rel:ayanokouji-kiyotaka] (p.221) “Or has Ayanokouji been making some moves in secret?” — he suspects AK is behind Horikita's growth.
+[rel:horikita-suzune] (p.221) “Has Horikita grown?” — he credits her jump in leadership.
+[rel:ryuuen-kakeru] (p.219) His suspicion: “Who approached whom? Was it from Ryuuen?”
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

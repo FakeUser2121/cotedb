@@ -9784,6 +9784,199 @@ walk: y1v1 → DONE
 [note] (p.193) Haruka's withdrawal order — she leaves her drink on the table — the exit is the message.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.194–218 — Ch.4: The karaoke meeting — Horikita's proposal to Ryuuen (AK POV)
+[scene] (p.194–195) The karaoke parlor in Keyaki Mall — the chosen venue; Horikita's reservation — other people will join; they both sit out on singing — she studies her notebook, he his reference book; 5:10 PM passes; Ryuuen and Katsuragi are late; finally the door opens.
+[says] (p.194) “If we were just going to talk, we didn’t need to come all the way to the karaoke parlor?”
+[says] (p.194) “We have some time until our appointment…will you sing something?”
+[says] (p.194) “Nah, I’ll pass. How about you sing? I’ll at least clap along for you.”
+[says] (p.194) “No way.”
+[says] (p.195) “Because I am going to study,”
+[says] (p.195) “I’m sorry. This might get drawn out longer than I thought.”
+[scene] (p.196–200) Katsuragi Kohei — second-year Class D — arrives first, then Ryuuen Kakeru behind him — “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.”; Horikita's proposal: “In order to defeat Sakayanagi-san’s class, I propose we form a cooperative relationship for the upcoming Sports Festival.”; Katsuragi asks what she means — common ground; Ryuuen smirks throughout; she rules Class A out; she chooses Ryuuen's class by process of elimination; Ryuuen-kun: “So you’re saying you chose us by process of elimination, huh.” — “Since the only person more untrustworthy than someone from Sakayanagi-san’s class is Ryuuen-kun, your class’s leader.”
+[says:katsuragi-kouhei] (p.195) “Sorry for being late.”
+[says] (p.196) “No, I don’t mind. It must’ve been a lot of trouble for you too, Katsuragi-kun.”
+[says:katsuragi-kouhei] (p.196) “…More or less.”
+[says:ryuuen-kakeru] (p.196) “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.”
+[says:horikita-suzune] (p.196) “Were you trying to gain a mental advantage by intentionally coming late?”
+[says:ryuuen-kakeru] (p.196) “Who knows?”
+[note] (p.196) The line “There was something you wanted to talk to us about… let’s hear the details, shall we.” is untagged — the translation does not identify the speaker; recorded without assignment.
+[says] (p.197) “Can you sit down? If this was something that would only take a minute or two, I wouldn’t have bothered calling you out here.”
+[says:ryuuen-kakeru] (p.198) “Lying to me, acting all big, ain’tcha?”
+[says:horikita-suzune] (p.198) “If you think I’m lying, then so be it. You are not the kind of person who would easily believe anything I say in the first place, are you?”
+[says:ryuuen-kakeru] (p.198) “Hmm, I wonder? I might trust you more than you think, y’know?”
+[says:horikita-suzune] (p.198) “Whether you’re being serious or joking, that isn’t very funny.”
+[says:ryuuen-kakeru] (p.198) “Rather, what were you trying? I was sure that you would expel someone.”
+[says:ryuuen-kakeru] (p.198) “You getting worried ’cause you’re all alone? After all, you were the only one who made the wrong choice.”
+[says:horikita-suzune] (p.199) “It’s too bad that we were the only ones who chose the correct answer. You didn’t take even one step forward in the fight for Class A.”
+[says:katsuragi-kouhei] (p.199) “Now that we have our drinks, shall we get down to business? What’s the meaning of this get-together?”
+[says:horikita-suzune] (p.199) “In order to defeat Sakayanagi-san’s class, I propose we form a cooperative relationship for the upcoming Sports Festival.”
+[says:katsuragi-kouhei] (p.199) “… What do you mean by cooperative relationship?”
+[says:horikita-suzune] (p.199) “In this special exam, there are both mixed grade level and grade-specific aspects to the competition. I want to make the most of the system where if we win in a group competition with multiple people taking part, everyone will score equally.”
+[says:ryuuen-kakeru] (p.199) “Why our class? Would you mind if I ask your reasoning?”
+[says:horikita-suzune] (p.199) “First of all, it goes without saying that Class A is out of the question. Sharing the points we obtain with the class we are trying to catch up to would be like putting the cart before the horse. The two remaining options are Ichinose-san’s class or your class. In my analysis, even if Ichinose-san is by far and away the best in terms of trust, it’s hard to say she has many classmates who are physically gifted.”
+[says:ryuuen-kakeru] (p.200) “So you’re saying you chose us by process of elimination, huh.”
+[says:horikita-suzune] (p.200) “If it were through a simple process of elimination, I wouldn’t have teamed up with any class to begin with. Since the only person more untrustworthy than someone from Sakayanagi-san’s class is Ryuuen-kun, your class’s leader.”
+[says:katsuragi-kouhei] (p.200) “That’s true. Even I, now a fellow classmate, think so. There is no one I’d be more afraid of trusting my back to. That being the case, why did you propose a cooperative relationship that poses such a great risk to you?”
+[says:horikita-suzune] (p.200) “To win, of course. We can’t advance without bringing an end to Class A’s overwhelming lead.”
+[says:katsuragi-kouhei] (p.200) “But it would be pointless if those hopes aren’t met, wouldn’t it? This guy will use any means available, that’s who he is. I know it well, since I have my own painful experiences. I can’t recommend it.”
+[says:horikita-suzune] (p.200) “I didn’t intend to cut right to the chase during today’s discussion. I haven’t spoken to Ryuuen-kun like this for a while, and I just can’t trust someone who is so unabashedly late. However, when I saw you apologize for being late, Katsuragi-kun, I changed my mind. At the very least, I can trust you.”
+[says:katsuragi-kouhei] (p.200) “That’s very simplistic. Did you not consider that this attitude of mine may also be one of Ryuuen’s schemes?”
+[says:horikita-suzune] (p.200) “If I’m not able to discern whether or not I can trust you, sooner or later, I’ll just be swallowed up, right?”
+[scene] (p.201–203) Katsuragi: “You seem a little different from before, Horikita. So I guess that means you’re growing, too, huh.”; he admits he too had planned to join forces with them; he is of two minds; the numbers: their class first and Ryuuen's class second most likely; he asks Ryuuen for his opinion — “If you want us to help you out, then there has to be a suitable reward, right?”; Horikita refuses concessions — “Can you really trust me?” — “The enemy of my enemy is my friend. I’ll believe in that convenient saying our predecessors came up with,” she answers.
+[says:katsuragi-kouhei] (p.201) “You seem a little different from before, Horikita. So I guess that means you’re growing, too, huh.”
+[says:katsuragi-kouhei] (p.201) “I understand the situation on your side. From here on out, I’ll give you my personal opinion.”
+[says:katsuragi-kouhei] (p.201) “I, too, had a plan in mind to join forces with your class this time and defeat Class A.”
+[says:katsuragi-kouhei] (p.201) “That’s right. Your class has strong individuals like Sudou and Kouenji who can compete across grade levels. Among the four second-year classes, you have the students with the highest physical abilities, and the depth of your roster is the very best. We don’t need to worry about being dragged down if we team up with you. You’re not someone I can trust unconditionally, but the fact that your class won’t easily betray us is worth noting.”
+[says:katsuragi-kouhei] (p.202) “But, to tell you the truth, I was of two minds on whether I should propose working together with your class to Ryuuen-kun.”
+[says:katsuragi-kouhei] (p.202) “If we were to form a cooperative relationship, our classes would naturally take first and second place. If that happens, the deciding factor would inevitably be the total strength of our classes. Roughly speaking, I’d say that we’d have to resign ourselves to the possibility that your class would get first and we’d get second,” said Katsuragi.
+[note] (p.202) “So you mean your class sees our class as a threat, right?” — untagged; recorded without assignment.
+[says:katsuragi-kouhei] (p.203) “Absolutely. The circumstances are very different from what they were a year ago. Unlike when you were mocked for being a bundle of defective goods, you are now Class B. And that’s after your class points fell all the way down to zero once. Most recently, you had Kouenji’s solo victory and gained a hundred points from making the difficult decision of kicking out a classmate in the Unanimous Consent Special Test. There is no doubt that you certainly are a formidable enemy.”
+[says:horikita-suzune] (p.203) “It doesn’t feel bad to be evaluated like that, even if it isn’t due to my own achievements. But if we don’t form a pact and face the Sports Festival without any coordination, won’t the worst-case scenario of Sakayanagi-san’s class taking first place become entirely likely? The important thing right now is to defeat Sakayanagi-san’s class. Am I wrong?”
+[says:katsuragi-kouhei] (p.203) “No. You’re right. Ryuuen, what do you think?”
+[says:ryuuen-kakeru] (p.203) “If you want us to help you out, then there has to be a suitable reward, right?”
+[says:horikita-suzune] (p.203) “I think you’ve got this mixed up? Sure, the one who brought this proposal to you was me, but that doesn’t mean I must make some sort of concession to you. In fact, you should realize that you’re in the position to form a partnership with the class that’s in the running to get first place.”
+[says:ryuuen-kakeru] (p.203) “Don’t make me laugh. Even if we don’t cooperate, we’ll win, but if you guys are gonna beg us, I guess it wouldn’t hurt us to help out. That’s our position. If you don’t like it, feel free to run back home.”
+[says:horikita-suzune] (p.204) “Do you know the way back? Just exit from that door and turn left, you’ll be outside.”
+[says:ryuuen-kakeru] (p.204) “You’ve finally got the balls to make a bluff, huh.”
+[says:horikita-suzune] (p.204) “What are you saying? Just as Katsuragi-kun said, our class has plenty of firepower for the Sports Festival. Or perhaps you think you can take Sudou-kun or Kouenji-kun head on and place better than them?”
+[says:ryuuen-kakeru] (p.204) “Mano a mano, fair and square, maybe not. But there are many other ways. You haven’t forgotten about last year, have you?”
+[says:horikita-suzune] (p.204) “It looks like we’ll have guests this year, so they’ll be watching over the spirit of the Sports Festival’s rules more strictly, right? I’d like to see just how far you can take your despicable moves.”
+[says:ryuuen-kakeru] (p.204) “There’s plen’y of blind spots, and it doesn’t only need to be during the events.”
+[says:horikita-suzune] (p.204) “You haven’t changed a bit. Certainly, the thought of that is terrifying, but… looks like we’re done here.”
+[scene] (p.205–208) Horikita snaps her notebook shut, starts packing — AK notes her bluff balls; Katsuragi steps in and analyzes — Horikita is different; Ryuuen demands to know if AK made the proposal; Horikita: “It was me. This time I asked Ayanokouji-kun to only be present, and even he hadn’t heard anything until we talked about it here.” — Ryuuen laughs and takes her up on it; the 100-point compensation condition from him — Horikita refuses; Katsuragi softens; Ryuuen accepts the alliance.
+[says:horikita-suzune] (p.204) “Thank you for coming along with me today, Ayanokouji-kun. Unfortunately, it seems like this case is so risky that I don’t even have to ask for your opinion on it. I’m thinking of wrapping this up here.”
+[says] (p.204) “If you’re fine with that, then I have no problems.”
+[says:katsuragi-kouhei] (p.205) “Ryuuen. It looks like Horikita is different from how she used to be, far more than we could imagine. If we don’t take this negotiation seriously, we will be the ones losing out.”
+[says:ryuuen-kakeru] (p.205) “Weren’t you the one who decided not to bring this to me because you thought the drawbacks of forming an alliance were worse?”
+[says:katsuragi-kouhei] (p.205) “We didn’t propose this idea. But, now that Horikita has started the conversation, the situation has changed. Not to mention, I’m getting the feeling it will be better than I expected.”
+[says:ryuuen-kakeru] (p.205) “She’s putting on a good show, but from my perspective it’s nothing but a front. When you’re at an advantage, it’s natural to try and set things up in your favor. Sure, she seems to have gotten somewhat more persuasive, but the only reason it looks like it’s working is because Ayanokouji is by her side.”
+[note] (p.206) Untagged line to AK about the orange juice — the translation does not identify the speaker; recorded without assignment.
+[says] (p.206) “Don’t be ridiculous. Even I don’t want to take a glass of juice to the face.”
+[note] (p.206) “… No, that would be impossible.” — untagged reply in the juice exchange; recorded without assignment.
+[note] (p.206) One voice in the juice exchange — “So, are you finally gonna realize just how abnormal this guy is? You think you could dodge that?” — untagged; recorded without assignment.
+[says:ryuuen-kakeru] (p.206) “Don’t you get it? Let me break it down for you: Ayanokouji is Suzune’s Lethal Weapon. Of course she’s talking big after flashing her pistol at an unarmed enemy.”
+[says] (p.206) “If their identity was revealed unexpectedly, you would be the first to be suspected. How would that end?”
+[says:ryuuen-kakeru] (p.207) “If you want to have a serious discussion, get Ayanokouji out of here. Then we’ll talk.”
+[says:horikita-suzune] (p.207) “How very like you. But I refuse. He is my classmate. Not only does he have a right to be here, I also have the right to invite him here. I have no … idea what’s wrong with using every weapon in my arsenal during a negotiation.”
+[says:horikita-suzune] (p.207) “Our class is in a better position than yours, and yet we brought this proposal for a cooperative relationship to you. If that isn’t enough for you to agree, then I’d rather we pretend this didn’t happen at all.”
+[says:horikita-suzune] (p.208) “Depending on how our discussions go, I think it’ll be good to join hands with your class. So, let me know your answer. Do you accept or do you not?” Horikita asked.
+[says:ryuuen-kakeru] (p.208) “Fine. We’ll take you up on that.”
+[says:ryuuen-kakeru] (p.208) “But I will add one condition. Once we have a cooperative relationship, our relationship should be stronger and more equal. Between us, whichever classes in whatever order take first and second place, we’ll end up with a difference of 100 class points. Whoever takes first place will pay private points to make up for that gap until March 1st, the year we graduate. I’m adding that condition.”
+[says:horikita-suzune] (p.208) “Sure, that condition itself is very fair. But I refuse. We’ll fight tooth and nail to see who gets first and who gets second. It’ll be the result of a fair fight, and that’s all.”
+[says:ryuuen-kakeru] (p.208) “No free lunch here, huh. But, in that case, there’s little meat on the bone for us.”
+[says:katsuragi-kouhei] (p.208) “It’ll be difficult to get any concessions out of Horikita. But I think we’ll get a solid partnership out of this.”
+[says:ryuuen-kakeru] (p.209) “Not enough. If you want to ask me for help, you’ve gotta show more sincerity.”
+[says:horikita-suzune] (p.209) “Sincerity? Don’t I get to ask the same of you? If the plan works out and we’re able to push Sakayanagi-san’s Class A to last place, that’s minus 150 points for them. There’s plenty for you to think about in this strategy of working together. But at the same time, we’re also taking a risk,” Horikita rebutted, continuing, “The forever lingering doubt—can we trust you, or can we not? If we focus on team competitions so we can team up, we will have to neglect the individual events.”
+[says:horikita-suzune] (p.209) “You’re not trustworthy, but we have to trust you. The fact that we’re bearing that risk is the biggest compromise I can make in working with you. I am not going to yield even an inch more than that.”
+[says:ryuuen-kakeru] (p.210) “That’s fair. We had no faith in the way you do things. We have no choice but to agree.”
+[says:ryuuen-kakeru] (p.210) “I didn’t expect you to trust me in the first place.”
+[says:ryuuen-kakeru] (p.210) “Can you really trust me?”
+[says:horikita-suzune] (p.210) “The enemy of my enemy is my friend. I’ll believe in that convenient saying our predecessors came up with,” Horikita replied.
+[says:katsuragi-kouhei] (p.210) “I don’t accept everything you’re saying, but one thing’s for sure—it ain’t a good idea to let Sakayanagi’s class keep running on ahead.”
+[says:horikita-suzune] (p.211) “Even if you say that you’re gonna hold off a direct confrontation with her until the end of the school year, you can’t overturn the difference in class points with just that.”
+[says:horikita-suzune] (p.211) “You’ve been listening in silence, but it’s about time you let us hear your opinion, Ayanokouji-kun.”
+[says] (p.211) “Regarding the pros and cons, cooperation isn’t a bad idea. There may be some objections, but everyone understands that Sakayanagi is the target we need to take down. Yousuke and Kei will surely back you up here as well.”
+[says:ryuuen-kakeru] (p.211) “You want to move onto the contract, but not yet.”
+[says:ryuuen-kakeru] (p.211) “Not yet? Are you saying that you want to drag out more concessions?”
+[says:ryuuen-kakeru] (p.211) “Let me confirm one last thing. Are you the one who came up with this proposal, Suzune? Or, was it Ayanokouji, the guy who’s calmly observing the situation? Which is it?”
+[says:horikita-suzune] (p.211) “Will you not go along with it if it’s not from Ayanokouji? You and Ayanokouji-kun seem to have a relationship that you can’t let others hear about, after all.” Horikita replied in a way that left a lot between the lines.
+[says:ryuuen-kakeru] (p.211) “I can tell that the two of you have recognized each other as strong enemies —and the fact that I am out of place as well.”
+[says:ryuuen-kakeru] (p.211) “Did I say anything about that? I’m just telling you to answer who it is.”
+[says:horikita-suzune] (p.211) “It was me. This time I asked Ayanokouji-kun to only be present, and even he hadn’t heard anything until we talked about it here.”
+[says:ryuuen-kakeru] (p.211) “I see. I’m glad I asked. If that’s the case, I’ll take you up on your proposal.”
+[says:ryuuen-kakeru] (p.212) “… Why?”
+[says:ryuuen-kakeru] (p.212) “Why, you ask? Well, dunno. Figure it out by yourself.”
+[says:ryuuen-kakeru] (p.212) “It would be better for both of us to have a proper contract in place, just to be sure. No, for your own sake in particular.”
+[says:horikita-suzune] (p.212) “Of course we will. I intend to have Chabashira-sensei and Sakagami-sensei get involved in this as well.”
+[says:ryuuen-kakeru] (p.212) “Well then, I’ll leave the paperwork up to you, Horikita. Is that fine?”
+[says:horikita-suzune] (p.212) “Yes. Would you perhaps let me bounce ideas off you for a bit, Katsuragi-kun?”
+[says:katsuragi-kouhei] (p.212) “Alright then. After we’ve officially settled the contract, let’s take on the Sports Festival.”
+[scene] (p.213–218) Katsuragi raises the Sakayanagi-participation problem — the numbers (37 vs 40); Ryuuen and Katsuragi bicker over the 90% / 70–80% / 95% estimates; the mock-Sakayanagi threat is rejected on ethics; AK interjects — he will make sure Sakayanagi does not participate, no points expected of him — Katsuragi, Horikita and Ryuuen are surprised; Ryuuen accepts AK’s proposal; “Katsuragi, get things dealt with on your end.” — “I’ll do that.”
+[says:katsuragi-kouhei] (p.213) “It’s great that we’ve finished our discussion regarding working together, but there’s now something that we must think about. One can easily think that Sakayanagi and Ichinose will join hands, so what do you plan to do about that?”
+[says:ryuuen-kakeru] (p.213) “That ain’t a problem. Even if Sakayanagi and Ichinose worked together for this Sports Festival, we still have the advantage. On top of that, Sakayanagi will have to throw away even third place. Just as you had doubts about second place if we joined with Suzune, if they team up, then Ichinose will have the advantage. In Sakayanagi’s class, there’s 38 people after Totsuka’s expulsion and your transfer. Sakayanagi is definitely not going to participate, so that makes 37 people. Ichinose’s class is 40 people. The three-person difference is surprisingly big.”
+[says:katsuragi-kouhei] (p.213) “However, it’s Sakayanagi we’re talking about. She will have established a strategy to make up for her lack of people.”
+[says:katsuragi-kouhei] (p.214) “Have you not seen the rules for this time around? If you don’t participate in the Sports Festival, you have to stand by in your dorm. As they can’t use their phones, Class A’s head won’t work at all.”
+[says:katsuragi-kouhei] (p.214) “Have you grasped the rules? Sure, Sakayanagi can’t move her body to its fullest. However, if she officially joins, gains her five points, then gains the five-point reward for participating, then she can obtain a total of 10 points. If she fulfills the minimum requirements, she can continue to sit from the outside and give out orders.”
+[says:ryuuen-kakeru] (p.214) “There ain’t no way that prideful Sakayanagi would show us a powerless, unsightly display.”
+[says:katsuragi-kouhei] (p.214) “Things won’t line up so conveniently. We are given the right to resign from a competition. If she participates and then forfeits, then she can avoid … embarrassing herself.”
+[says:katsuragi-kouhei] (p.214) “Would it count as a compelling reason? If she participates knowing the condition of her body, then they’ll want justification. After everyone finishes running in the 100-Meter Race, she has to run all the way till the end with her cane. You think she’s gonna make a spectacle of herself like that?”
+[says:katsuragi-kouhei] (p.214) “Indeed, if things were normal, then she would pass on participating given her personality. However, if she knows that we’ve joined up, then Sakayanagi would consider the risks of losing. I’m saying it’s wrong to assume that it’s certain. I was just speaking thoughtlessly, but what do you see the percentage of her not participating being? Answer seriously.”
+[says:ryuuen-kakeru] (p.214) “Maybe 90%.”
+[says:katsuragi-kouhei] (p.214) “So from your unsubstantiated and carefree view it’s 90%? If that’s the case, then the actual value is even lower. I’d say 70-80% at best.”
+[says:ryuuen-kakeru] (p.214) “Be happy with that number.”
+[says:katsuragi-kouhei] (p.214) “I can’t do that. If you want to talk certainty, then shoot for 95%.”
+[says:ryuuen-kakeru] (p.214) “Bullshit. But, if we want to be more certain, there’s a way. From now until the Sports Festival, we can thoroughly mock Sakayanagi. We’ll say that if she participates, then we’ll show up as a whole class during the competition and shame her. If we do that, then we’ll reach the 95% you mentioned.”
+[says:horikita-suzune] (p.214) “From an ethical point of view, that’s unacceptable.”
+[says:katsuragi-kouhei] (p.214) “I agree. The school probably wouldn’t watch quietly either.”
+[says:ryuuen-kakeru] (p.215) “In the off chance Sakayanagi does show up, we’ll crush her completely.”
+[says:katsuragi-kouhei] (p.215) “It’s not that simple, don’t forget that we’re sinking to the bottom class.”
+[says] (p.215) “Horikita. Are you factoring my contribution into our class’s victory?” I interjected.
+[says:horikita-suzune] (p.215) “For the most part, I’m not considering it. I’m leaving you, and only you, with a special status.”
+[says] (p.215) “That’s good to hear. If whether or not Sakayanagi participates is threatening our cooperation, then I may be able to be of help.”
+[says:katsuragi-kouhei] (p.215) “What do you mean?”
+[says] (p.216) “If you leave everything to me, I’ll make sure Sakayanagi doesn’t participate.”
+[says] (p.216) “However, in exchange for making Sakayanagi not participate, I don’t want you to expect even a single point from me at the Sports Festival. That goes not just for Horikita, but you too, Ryuuen.”
+[says:ryuuen-kakeru] (p.216) “You haven’t been in my plans from the start. If you say you can hold back Sakayanagi, then that spares us some effort,” Ryuuen answered.
+[says:katsuragi-kouhei] (p.216) “I can’t even imagine what kind of plan you have, but if Horikita and Ryuuen believe in you, then I more or less don’t plan to say anything more than this on the matter. If Sakayanagi doesn’t participate, then pushing Class A to last place shouldn’t be that hard.”
+[says:katsuragi-kouhei] (p.216) “But can you really do it?”
+[says] (p.216) “Yeah. There’s a high chance that she’ll sit out even if I don’t do anything, but you can leave it to me anyway. Also, I thought of this while listening to your conversation, but there aren’t many opportunities for the two of you to get together and cooperate like this, right? There’s a different matter I want to talk about, is that alright?”
+[note] (p.216) “What is it?”, Horikita asked. — narrator names her as the speaker for that line.
+[says:katsuragi-kouhei] (p.217) “That’s an interesting idea, but…”
+[says:ryuuen-kakeru] (p.217) “That certainly ain’t impossible going by the rules, but—”
+[says:ryuuen-kakeru] (p.217) “Yeah, I’m not. Rejected.”
+[says:katsuragi-kouhei] (p.217) “You can deal with your personal feelings later. But frankly, it’s not a bad proposal. We might need to discuss the details, and check the rules again but—no, it’s Ayanokouji we’re talking about. You’ve probably proposed this after confirming the rules properly.”
+[says] (p.217) “There’s no problem as far as rules go. Instead of our class going alone, we could cooperate with the students in Ryuuen’s class to lead to a more powerful outcome. Isn’t that right?” I asked Horikita.
+[says:horikita-suzune] (p.217) “Yes, that’s right. That would certainly…”
+[says:katsuragi-kouhei] (p.217) “Accept it, Ryuuen. We should be advancing our preparations right now for a direct confrontation with Sakayanagi.”
+[says:ryuuen-kakeru] (p.217) “You hear me, Ayanokouji? After I crush Sakayanagi, you’re next.”
+[says] (p.217) “If you’re making your way up, then that’ll be inevitable.”
+[says:ryuuen-kakeru] (p.217) “Katsuragi, get things dealt with on your end.”
+[says:katsuragi-kouhei] (p.217) “I’ll do that.”
+[says] (p.218) “Truly, a siege on Class A… huh.”
+[says:katsuragi-kouhei] (p.218) “However, before that, making Sakayanagi not participate in the Sports Festival is top priority. For both our cooperation at the Sports Festival and Ayanokouji’s proposal, if we don’t clear that first step, then the ball can’t get rolling.”
+[says] (p.218) “I understand. As for that, leave it to me.”
+[rel:horikita-suzune] (p.194–218) The karaoke bargain — the cooperative relationship; his presence; “It was me” — she takes full credit and zero help for the plan; she refuses the 100-point equalizer; “enemy of my enemy is my friend.”
+[rel:ryuuen-kakeru] (p.194–218) The enemy of my enemy — cold alliance; the orange juice incident; his grudging respect for her plan and for her “balls” to make a bluff.
+[rel:katsuragi-kouhei] (p.195–218) The new diplomat — oolong tea; his analysis: Horikita is different now; he stops Ryuuen from refusing AK's proposal — “we might need to discuss the details, and check the rules”; he takes point for the Class A siege.
+[rel:ichinose-honami] (p.199, 202–203) Named as the fallback ally — trustworthy but not physically gifted; discussed as a joining partner for A; the 40-vs-37 arithmetic.
+[rel:totsuka-yahiko] (p.213) “after Totsuka’s expulsion and your transfer. Sakayanagi is definitely not going to participate, so that makes 37 people.”
+[rel:sakayanagi-arisu] (p.199–218) The target — she is going to be crushed; he will keep her from participating somehow.
+[rel:chabashira-sae] (p.212) The contract will involve Chabashira-sensei as school-side witness.
+[rel:sudou-ken] (p.201, 204) His name is named as a strong individual — "Sudou and Kouenji who can compete across grade levels."
+[rel:kouenji-rokusuke] (p.201, 204) Kouenji's name is named — same reason; "Sudou-kun or Kouenji-kun" — better than them head on.
+
+### y2v6 p.223–240 — Ch.4: The birthday date; the sitting-out plan (AK POV)
+[scene] (p.223–233) October; Keyaki Mall after school; Kei comes along — private points and the birthday hunt; they bump into Ishizaki and Albert; the 20th is Ryuuen's birthday and AK's too; Ishizaki proposes a double birthday; Kei seems oddly content with Ishizaki's offer — “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.” — the group is in pieces; she half-agrees: “Also? Ishizaki-kun did say he would once again apologize…” — real or fake, it does not matter much right now; the mall day closes with “That’s enough. Right now, you are Kiyotaka’s friend, right?” — the day inches forward to the festival eve.
+[scene] (p.234–237) The Satou incident — she bolts past them near the electronics corner; the restroom stall; the first-year's approach; the whispered proposition; recorded in Satou's own person record — not AK's story, but he does not know it happened.
+[scene] (p.238–240) The Sports Festival eve — 9:30 PM — AK calls Horikita — “Surprisingly late for you to call, isn’t it? I was just about to go to bed.” — “I’ve got something important to say regarding the Sports Festival.” — she turns off the hair dryer quickly; he says Sakayanagi is set on participating tomorrow, you know? — “I’m thinking of sitting out the Sports Festival tomorrow.” — she drops the hair dryer; ten points painful; “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.” — “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…” — she realizes she cannot understand; she agrees to trust him at this point; “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.” — he ends the call and now he has one more person to call.
+[says] (p.238) “I’ve got something important to say regarding the Sports Festival.”
+[says] (p.238) “You have something important to say? I better take this somewhat seriously, then.” — wait, that's Horikita's line.
+[says:horikita-suzune] (p.238) “Surprisingly late for you to call, isn’t it? I was just about to go to bed.”
+[says:horikita-suzune] (p.238) “You have something important to say? I better take this somewhat seriously, then.” She said, and she must’ve quickly turned off the hair dryer because the earpiece went quiet.
+[says:horikita-suzune] (p.239) “Ah, before that, I had something I wanted to say. Sakayanagi-san is set on participating in the Sports Festival tomorrow, you know? Didn’t you say you could stop her?”
+[says] (p.239) “What I have to say has to do with that, too. I’m thinking of sitting out the Sports Festival tomorrow.”
+[says:horikita-suzune] (p.239) “…Sitting out? Wait just a moment, what do you mean?”
+[says] (p.239) “Are you alright?”
+[says:horikita-suzune] (p.239) “Sorry, I just dropped the hair dryer…”
+[says:horikita-suzune] (p.239) “So, what do you mean by sitting out? You’re not unwell or anything, right?”
+[says] (p.240) “Ah, no, there’s no problems with my health. Rather, it’s like I feel better than I usually do.”
+[says:horikita-suzune] (p.240) “Then why? If you sit it out, we’ll lose ten points, you know? Even though I wasn’t banking on the points you win in my calculations, losing those ten points will be painful.”
+[says] (p.240) “I’m not going to say those ten points aren’t worth much. But this is my strategy, it’s essential.”
+[says:horikita-suzune] (p.240) “… Your strategy?”
+[says] (p.240) “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.”
+[says:horikita-suzune] (p.240) “Attack on Sakayanagi…?”
+[says] (p.240) “I told you. That I have a way to keep Sakayanagi from participating in the Sports Festival.”
+[says:horikita-suzune] (p.240) “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…”
+[says:horikita-suzune] (p.240) “I see. I won’t be able to understand what you’re planning, not as I am right now. And I suppose you won’t change your mind about skipping the Sports Festival even if I try to persuade you otherwise?”
+[says] (p.240) “Yeah. First thing tomorrow morning, I’ll tell the school that I’m sick.”
+[says:horikita-suzune] (p.240) “If that’s the case, I guess I have no choice but to trust you at this point.”
+[says:horikita-suzune] (p.240) “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.”
+[says] (p.240) “Thanks for your support.”
+[rel:horikita-suzune] (p.238–240) She drops the hair dryer at his news; she is furious but cannot argue without breaking trust; she must score ten points herself now.
+[rel:sakayanagi-arisu] (p.239–240) “Attack on Sakayanagi” — the plan is in motion.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

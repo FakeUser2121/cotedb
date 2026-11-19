@@ -4116,6 +4116,52 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hasebe-haruka] (p.140) “especially Hasebe-san must resent me” — the deepest resenter to watch.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.194–218 — Ch.4: The karaoke bargain — Horikita proposes the alliance (AK POV)
+[scene] (p.194) She stresses that this venue choice forces the issue — other people will join; they both study; 5:10 PM passes; the appointment passes; Katsuragi Kohei shows up first, then Ryuuen behind him — “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.”
+[says:horikita-suzune] (p.194) “If we were just going to talk, we didn’t need to come all the way to the karaoke parlor?”
+[says:horikita-suzune] (p.194) “We have some time until our appointment…will you sing something?”
+[says:horikita-suzune] (p.194) “Because I am going to study,”
+[says:horikita-suzune] (p.195) “I’m sorry. This might get drawn out longer than I thought.”
+[says:horikita-suzune] (p.196) “No, I don’t mind. It must’ve been a lot of trouble for you too, Katsuragi-kun.”
+[says:horikita-suzune] (p.196) “Were you trying to gain a mental advantage by intentionally coming late?”
+[says:horikita-suzune] (p.197) “How about you, Katsuragi-kun?”
+[says:horikita-suzune] (p.197) “I’ll tell you why I called you here—”
+[says:horikita-suzune] (p.198) “If you think I’m lying, then so be it. You are not the kind of person who would easily believe anything I say in the first place, are you?”
+[says:horikita-suzune] (p.198) “Whether you’re being serious or joking, that isn’t very funny.”
+[says:horikita-suzune] (p.199) “It’s too bad that we were the only ones who chose the correct answer. You didn’t take even one step forward in the fight for Class A.”
+[says:horikita-suzune] (p.199) “In order to defeat Sakayanagi-san’s class, I propose we form a cooperative relationship for the upcoming Sports Festival.”
+[says:horikita-suzune] (p.199) “In this special exam, there are both mixed grade level and grade-specific aspects to the competition. I want to make the most of the system where if we win in a group competition with multiple people taking part, everyone will score equally.”
+[says:horikita-suzune] (p.199) “First of all, it goes without saying that Class A is out of the question. Sharing the points we obtain with the class we are trying to catch up to would be like putting the cart before the horse. The two remaining options are Ichinose-san’s class or your class. In my analysis, even if Ichinose-san is by far and away the best in terms of trust, it’s hard to say she has many classmates who are physically gifted.”
+[says:horikita-suzune] (p.200) “If it were through a simple process of elimination, I wouldn’t have teamed up with any class to begin with. Since the only person more untrustworthy than someone from Sakayanagi-san’s class is Ryuuen-kun, your class’s leader.”
+[says:horikita-suzune] (p.200) “To win, of course. We can’t advance without bringing an end to Class A’s overwhelming lead.”
+[says:horikita-suzune] (p.200) “I didn’t intend to cut right to the chase during today’s discussion. I haven’t spoken to Ryuuen-kun like this for a while, and I just can’t trust someone who is so unabashedly late. However, when I saw you apologize for being late, Katsuragi-kun, I changed my mind. At the very least, I can trust you.”
+[says:horikita-suzune] (p.200) “If I’m not able to discern whether or not I can trust you, sooner or later, I’ll just be swallowed up, right?”
+[says:horikita-suzune] (p.203) “It doesn’t feel bad to be evaluated like that, even if it isn’t due to my own achievements. But if we don’t form a pact and face the Sports Festival without any coordination, won’t the worst-case scenario of Sakayanagi-san’s class taking first place become entirely likely? The important thing right now is to defeat Sakayanagi-san’s class. Am I wrong?”
+[says:horikita-suzune] (p.204) “Do you know the way back? Just exit from that door and turn left, you’ll be outside.”
+[says:horikita-suzune] (p.204) “What are you saying? Just as Katsuragi-kun said, our class has plenty of firepower for the Sports Festival. Or perhaps you think you can take Sudou-kun or Kouenji-kun head on and place better than them?”
+[says:horikita-suzune] (p.204) “Thank you for coming along with me today, Ayanokouji-kun. Unfortunately, it seems like this case is so risky that I don’t even have to ask for your opinion on it. I’m thinking of wrapping this up here.”
+[says:horikita-suzune] (p.207) “How very like you. But I refuse. He is my classmate. Not only does he have a right to be here, I also have the right to invite him here. I have no … idea what’s wrong with using every weapon in my arsenal during a negotiation.”
+[says:horikita-suzune] (p.207) “Our class is in a better position than yours, and yet we brought this proposal for a cooperative relationship to you. If that isn’t enough for you to agree, then I’d rather we pretend this didn’t happen at all.”
+[says:horikita-suzune] (p.208) “Depending on how our discussions go, I think it’ll be good to join hands with your class. So, let me know your answer. Do you accept or do you not?” Horikita asked.
+[says:horikita-suzune] (p.208) “Sure, that condition itself is very fair. But I refuse. We’ll fight tooth and nail to see who gets first and who gets second. It’ll be the result of a fair fight, and that’s all.”
+[says:horikita-suzune] (p.209) “Sincerity? Don’t I get to ask the same of you? If the plan works out and we’re able to push Sakayanagi-san’s Class A to last place, that’s minus 150 points for them. There’s plenty for you to think about in this strategy of working together. But at the same time, we’re also taking a risk,” Horikita rebutted, continuing, “The forever lingering doubt—can we trust you, or can we not? If we focus on team competitions so we can team up, we will have to neglect the individual events.”
+[says:horikita-suzune] (p.209) “You’re not trustworthy, but we have to trust you. The fact that we’re bearing that risk is the biggest compromise I can make in working with you. I am not going to yield even an inch more than that.”
+[says:horikita-suzune] (p.210) “The enemy of my enemy is my friend. I’ll believe in that convenient saying our predecessors came up with,” Horikita replied.
+[says:horikita-suzune] (p.211) “Even if you say that you’re gonna hold off a direct confrontation with her until the end of the school year, you can’t overturn the difference in class points with just that.”
+[says:horikita-suzune] (p.211) “You’ve been listening in silence, but it’s about time you let us hear your opinion, Ayanokouji-kun.”
+[says:horikita-suzune] (p.211) “Will you not go along with it if it’s not from Ayanokouji? You and Ayanokouji-kun seem to have a relationship that you can’t let others hear about, after all.” Horikita replied in a way that left a lot between the lines.
+[says:horikita-suzune] (p.211) “It was me. This time I asked Ayanokouji-kun to only be present, and even he hadn’t heard anything until we talked about it here.”
+[says:horikita-suzune] (p.212) “Of course we will. I intend to have Chabashira-sensei and Sakagami-sensei get involved in this as well.”
+[says:horikita-suzune] (p.212) “Yes. Would you perhaps let me bounce ideas off you for a bit, Katsuragi-kun?”
+[says:horikita-suzune] (p.217) “Yes, that’s right. That would certainly…”
+[scene] (p.215–218) AK takes a position on the plan — she accepts Sakayanagi will not participate and leaves AK with a “special status”; 15 minutes then passes in silence; Ryuuen reflects; the alliance is set; the last word goes to the manga trio this time — she heads to the paperwork.
+[rel:ayanokouji-kiyotaka] (p.194–218) She drags him in as her “weapon” — he will keep Sakayanagi out, “You and Ayanokouji-kun seem to have a relationship that you can’t let others hear about.”
+[rel:ryuuen-kakeru] (p.194–218) The enemy of her enemy — cold alliance; she refuses his 100-point equalizer; he grimly gives her credit for the bluff.
+[rel:katsuragi-kouhei] (p.195–218) The straight man — his arrival calms her; the oolong tea; the go-between she trusts.
+[rel:ichinose-honami] (p.199–203) The other way she could have gone — trustworthy but not gifted; the process of elimination.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

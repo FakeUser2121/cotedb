@@ -830,6 +830,37 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [trait] (p.258–266) Follows Ryūen's script — fakes injury, demands an apology, refuses to accept the first grudging one, then magnanimously forgives them just as a teacher arrives; Ryūen praises his growth (he dedicated himself fully for the festival) — he's matured into a capable, if unscrupulous, operative.
 [rel:ryuuen-kakeru] (p.260–266) His leader — they run the trap together; he defers to Ryūen's final call.
 [rel:hashimoto-masayoshi] (p.262–265) Hashimoto tries to reason with him; he holds out until the "apology."
+
+### y2v6 p.226–233 — Ch.4: Ishizaki Daichi — the double-birthday idea (AK POV)
+[scene] (p.226) He appears with Albert near the rice cooker and kettle corner — “On a date with Karuizawa? You guys are even linking arms… such normies…”; his birthday is the same as AK's — the 20th — a coincidence; he shocks Kei; Ryuuen's birthday — he looks guilty — he is the rooftop bully; his awareness of Ryuuen's loyalty; thumps his head; “I’m… sorry. I think I should have said it earlier… I, on the rooftop───” — he can't complete it in the mall.
+[says:ishizaki-daichi] (p.226) “Oh, this? The 20th of this month is Ryuuen-san’s birthday. We’re just picking something out for him.”
+[says:ishizaki-daichi] (p.226) “On a date with Karuizawa? You guys are even linking arms… such normies…”
+[says:ayanokouji-kiyotaka] (p.226) “This is the first I’ve heard of it.”
+[says:ishizaki-daichi] (p.226) “Who has the same birthday?”
+[says:ishizaki-daichi] (p.227) “What’s wrong, I’m asking you to tell me───”
+[says:ishizaki-daichi] (p.228) “… ah, that’s, right…”
+[says:ishizaki-daichi] (p.227) “Damn it.”
+[says:ishizaki-daichi] (p.227) “I’m… sorry. I think I should have said it earlier… I, on the rooftop───”
+[note] (p.228) “I’m very sorry! And for not apologizing for all this time!” — untagged (Ishizaki or Albert); recorded without assignment.
+[says:ishizaki-daichi] (p.229) “Is- is that alright?”
+[says:ishizaki-daichi] (p.229) “Y, yes!”
+[says:ishizaki-daichi] (p.229) “Umm… So about that. Earlier, whose birthday was it?”
+[says:ishizaki-daichi] (p.230) “Eh? Really? Ayanokouji’s birthday is also October 20th!?”
+[says:ishizaki-daichi] (p.230) “This is fate, isn’t it!?”
+[says:ishizaki-daichi] (p.230) “But, isn’t it amazing that it’s Ayanokouji and Ryuuen?”
+[says:ishizaki-daichi] (p.231) “Ryuuen won’t apologize to me, right?
+[says:ishizaki-daichi] (p.231) “If both of you agree, then I will suggest it to him!”
+[says:ishizaki-daichi] (p.232) “I’ll do something about it! If I can get the promise of an apology, it’ll be a birthday party!”
+[says:ishizaki-daichi] (p.232) “If Ryuuen says he will apologize, it’s fine right?”
+[says:ishizaki-daichi] (p.232) “But ───”
+[says:ishizaki-daichi] (p.233) “I understand! On top of that, let me apologize again. I’ll get you something that I put even more effort into than I put into Ryuuen-san’s present!”
+[trait] (p.226–233) Energy-overflowing, repentant but tone-deaf — the rooftop bully trying to atone without quite knowing how; obsessed with the double-birthday party idea; he will "do something about it" and get Ryuuen to apologize to Kei for the rooftop incident; willing to bet everything on it.
+[rel:yamada-albert] (p.226–233) His partner — they shop for Ryuuen's birthday present together.
+[rel:ryuuen-kakeru] (p.226) His birthday on the 20th — Ryuuen's loyal dog.
+[rel:karuizawa-kei] (p.226–233) The rooftop bully whose apology Kei refuses — “I've already said it, haven't I? It's over, got it?” — she tolerates the apology “The strong being on top is natural.”
+[rel:ayanokouji-kiyotaka] (p.226) His birthday too — the "fate" idea comes from him.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

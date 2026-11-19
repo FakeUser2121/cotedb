@@ -1791,6 +1791,62 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ichinose-honami] (p.106) Cited as a leader benchmark by Chabashira.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.196–218 — Ch.4: The karaoke negotiation — Ryuuen lets it happen (AK POV)
+[scene] (p.196–198) He arrives late — second day of me; “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.” — he fires a probing shot at Horikita about expelling someone; “Rather, what were you trying? I was sure that you would expel someone.” — “You getting worried ’cause you’re all alone? After all, you were the only one who made the wrong choice.” — his tone lands on her but she is unperturbed.
+[says:ryuuen-kakeru] (p.196) “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.”
+[says:ryuuen-kakeru] (p.196) “Who knows?”
+[says:ryuuen-kakeru] (p.198) “Lying to me, acting all big, ain’tcha?”
+[says:ryuuen-kakeru] (p.198) “Hmm, I wonder? I might trust you more than you think, y’know?”
+[says:ryuuen-kakeru] (p.198) “Rather, what were you trying? I was sure that you would expel someone.”
+[says:ryuuen-kakeru] (p.198) “You getting worried ’cause you’re all alone? After all, you were the only one who made the wrong choice.”
+[says:ryuuen-kakeru] (p.199) “So you’re saying you chose us by process of elimination, huh.”
+[says:ryuuen-kakeru] (p.199) “Why our class? Would you mind if I ask your reasoning?”
+[says:ryuuen-kakeru] (p.203) “If you want us to help you out, then there has to be a suitable reward, right?”
+[says:ryuuen-kakeru] (p.203) “Don’t make me laugh. Even if we don’t cooperate, we’ll win, but if you guys are gonna beg us, I guess it wouldn’t hurt us to help out. That’s our position. If you don’t like it, feel free to run back home.”
+[says:ryuuen-kakeru] (p.204) “You’ve finally got the balls to make a bluff, huh.”
+[says:ryuuen-kakeru] (p.204) “Mano a mano, fair and square, maybe not. But there are many other ways. You haven’t forgotten about last year, have you?”
+[says:ryuuen-kakeru] (p.204) “There’s plen’y of blind spots, and it doesn’t only need to be during the events.”
+[says:ryuuen-kakeru] (p.205) “She’s putting on a good show, but from my perspective it’s nothing but a front. When you’re at an advantage, it’s natural to try and set things up in your favor. Sure, she seems to have gotten somewhat more persuasive, but the only reason it looks like it’s working is because Ayanokouji is by her side.”
+[says:ryuuen-kakeru] (p.205) “Weren’t you the one who decided not to bring this to me because you thought the drawbacks of forming an alliance were worse?”
+[note] (p.206) “So, are you finally gonna realize just how abnormal this guy is? You think you could dodge that?” — untagged; recorded without assignment.
+[note] (p.206) “Why did you dodge it? If you just took it on the chin, you could’ve kept him from getting back at you.” — untagged; recorded without assignment.
+[says:ryuuen-kakeru] (p.206) “Don’t you get it? Let me break it down for you: Ayanokouji is Suzune’s Lethal Weapon. Of course she’s talking big after flashing her pistol at an unarmed enemy.”
+[says:ryuuen-kakeru] (p.207) “If you want to have a serious discussion, get Ayanokouji out of here. Then we’ll talk.”
+[says:ryuuen-kakeru] (p.208) “Fine. We’ll take you up on that.”
+[says:ryuuen-kakeru] (p.208) “But I will add one condition. Once we have a cooperative relationship, our relationship should be stronger and more equal. Between us, whichever classes in whatever order take first and second place, we’ll end up with a difference of 100 class points. Whoever takes first place will pay private points to make up for that gap until March 1st, the year we graduate. I’m adding that condition.”
+[says:ryuuen-kakeru] (p.208) “No free lunch here, huh. But, in that case, there’s little meat on the bone for us.”
+[says:ryuuen-kakeru] (p.208) “That’s fair. We had no faith in the way you do things. We have no choice but to agree.”
+[says:ryuuen-kakeru] (p.210) “I didn’t expect you to trust me in the first place.”
+[says:ryuuen-kakeru] (p.210) “Can you really trust me?”
+[says:ryuuen-kakeru] (p.211) “Did I say anything about that? I’m just telling you to answer who it is.”
+[says:ryuuen-kakeru] (p.211) “You want to move onto the contract, but not yet.”
+[says:ryuuen-kakeru] (p.211) “Let me confirm one last thing. Are you the one who came up with this proposal, Suzune? Or, was it Ayanokouji, the guy who’s calmly observing the situation? Which is it?”
+[says:ryuuen-kakeru] (p.211) “I can tell that the two of you have recognized each other as strong enemies —and the fact that I am out of place as well.”
+[says:ryuuen-kakeru] (p.211) “I see. I’m glad I asked. If that’s the case, I’ll take you up on your proposal.”
+[says:horikita-suzune] (p.212) “… Why?”
+[says:ryuuen-kakeru] (p.212) “Why, you ask? Well, dunno. Figure it out by yourself.”
+[says:ryuuen-kakeru] (p.212) “It would be better for both of us to have a proper contract in place, just to be sure. No, for your own sake in particular.”
+[says:ryuuen-kakeru] (p.212) “Well then, I’ll leave the paperwork up to you, Horikita. Is that fine?”
+[says:ryuuen-kakeru] (p.213) “That ain’t a problem. Even if Sakayanagi and Ichinose worked together for this Sports Festival, we still have the advantage. On top of that, Sakayanagi will have to throw away even third place. Just as you had doubts about second place if we joined with Suzune, if they team up, then Ichinose will have the advantage. In Sakayanagi’s class, there’s 38 people after Totsuka’s expulsion and your transfer. Sakayanagi is definitely not going to participate, so that makes 37 people. Ichinose’s class is 40 people. The three-person difference is surprisingly big.”
+[says:ryuuen-kakeru] (p.214) “There ain’t no way that prideful Sakayanagi would show us a powerless, unsightly display.”
+[says:ryuuen-kakeru] (p.214) “Maybe 90%.”
+[says:ryuuen-kakeru] (p.214) “Be happy with that number.”
+[says:ryuuen-kakeru] (p.214) “Bullshit. But, if we want to be more certain, there’s a way. From now until the Sports Festival, we can thoroughly mock Sakayanagi. We’ll say that if she participates, then we’ll show up as a whole class during the competition and shame her. If we do that, then we’ll reach the 95% you mentioned.”
+[says:ryuuen-kakeru] (p.215) “In the off chance Sakayanagi does show up, we’ll crush her completely.”
+[says:ryuuen-kakeru] (p.216) “You haven’t been in my plans from the start. If you say you can hold back Sakayanagi, then that spares us some effort,” Ryuuen answered.
+[says:ryuuen-kakeru] (p.217) “Yeah, I’m not. Rejected.”
+[says:ryuuen-kakeru] (p.217) “That certainly ain’t impossible going by the rules, but—”
+[says:ryuuen-kakeru] (p.217) “You hear me, Ayanokouji? After I crush Sakayanagi, you’re next.”
+[says:ryuuen-kakeru] (p.217) “Katsuragi, get things dealt with on your end.”
+[trait] (p.196–218) Coldly opportunistic — he tests Horikita with the expulsion provocation; demands 100-point compensation; tosses orange juice at AK (“Suzune’s Lethal Weapon”); threatens to shame Sakayanagi; refuses AK's proposal on personal grounds — “You hear me, Ayanokouji? After I crush Sakayanagi, you’re next.”
+[rel:horikita-suzune] (p.196–218) The enemy of his enemy — barely restsrains himself for Sakayanagi; she respects his role as avenger.
+[rel:katsuragi-kouhei] (p.196–218) The one he actually trusts — “Katsuragi, get things dealt with on your end.”
+[rel:ayanokouji-kiyotaka] (p.196–218) The Lethal Weapon — the juice incident; he demands AK's exclusion before accepting the deal; “After I crush Sakayanagi, you’re next.”
+[rel:sakayanagi-arisu] (p.199–218) The target — she has no viable allies; she will be crushed; he would welcome her betrayal of her alliance.
+[note] (p.206) “… No, that would be impossible.” / “That’s right. An Average Joe would’ve been dripping wet before he even had time to react. No ordinary guy could dodge that, but this dude pulled it off like it was no big deal.” / “I admit he has insane reflexes but… what does that have to do with this discussion?” / “You ordered an orange juice just to test that? …Spare me, please.” — all four untagged; recorded without assignment.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

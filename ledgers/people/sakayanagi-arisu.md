@@ -929,6 +929,40 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:horikita-suzune] (p.183) She is named as the chess-setter to study.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.219–222 — Ch.4: Sakayanagi's side — the cafe (third-person, her circle)
+[scene] (p.219) Three second-year Class A students — Sakayanagi, Kamuro and Hashimoto — gather at the café in Keyaki Mall just before 7 PM; the announcement to Tsugumi: Ryuuen and Horikita have made contact; Sakayanagi expects a hard fight; she declares she will also participate in the Sports Festival despite everything against her.
+[says:hashimoto-masayoshi] (p.219) “I’m not even surprised when you summon me out of the blue anymore, it’s become so common. What is it today, Princess?”
+[says:sakayanagi-arisu] (p.219) “It is about what will happen at the upcoming Sports Festival. About what we must do.”
+[says:sakayanagi-arisu] (p.219) “The situation changes from moment to moment. And today, there has been another new development,”
+[note] (p.219) “Haven’t you already decided on a plan?” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.219) “Ryuuen-kun and Horikita-san’s classes have made contact.”
+[says:hashimoto-masayoshi] (p.220) “Who approached whom? Was it from Ryuuen?”
+[says:sakayanagi-arisu] (p.220) “That is unclear. But either way, there is no doubt that the two have joined hands.”
+[note] (p.220) “Hang on a sec. I find it hard to believe that it worked out that easily. It’s hard to imagine Horikita simply trusting Ryuuen. He’s not the kinda guy you can collude with!” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.220) “They say the enemy of my enemy is my friend, right? We hold a firm lead over the rest. Even if they do not have a relationship of mutual trust, so long as they have the same objective in mind, they can work well together.”
+[says:sakayanagi-arisu] (p.220) “We’re going to be in trouble if this continues, right?” said Sakayanagi.
+[says:hashimoto-masayoshi] (p.220) “Are you saying that by ourselves, we’ll lose?” asked Hashimoto.
+[says:sakayanagi-arisu] (p.220) “We will lose. If the other three classes were disorganized and fought each other, it would have still been possible for us to take any of the positions, but now we have an unexpected partnership to deal with.”
+[says:kamuro-masumi] (p.221) “I wouldn’t join hands with Ryuuen if it were me, though. You never know when he’ll catch you off guard and betray you.” said Kamuro.
+[says:sakayanagi-arisu] (p.221) “I’d rather he did betray them, in fact. Ryuuen-kun’s class takes first, and Horikita-san’s class comes second. I would welcome it if the results were that straightforward, but it will be somewhat troublesome if it is the other way around.”
+[says:hashimoto-masayoshi] (p.221) “There’s no doubt that they’re on a roll right now. I thought it would be impossible for any class other than Ryuuen’s to throw away a small fry and grab those 100 points. Has Horikita grown?… Or has Ayanokouji been making some moves in secret?”
+[says:sakayanagi-arisu] (p.221) “Your impression of him has been rising considerably of late. Did something happen?”
+[says:hashimoto-masayoshi] (p.221) “…No, not especially. I do think he’s hiding abilities beyond what’s on his OAA, though. Well, it’s not like Ayanokouji’s the only student like that.”
+[says:kamuro-masumi] (p.221) “But what are you gonna do? You say we’ll lose without you, but you’ll be absent, won’t you? So you’re saying you’re gonna throw the competition?” asked Kamuro.
+[says:sakayanagi-arisu] (p.221) “There is only one answer.” Sakayanagi smiled and continued. “I will also participate in the Sports Festival. Even if they really do join hands, they have calculated that with my nonparticipation and their cooperation, they can finally win. Let’s show them that that is an illusion.”
+[note] (p.222) “For real? Will you be alright?” — untagged; recorded without assignment.
+[note] (p.222) “It’s good that you’re so willing, but—are you sure?” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.222) “Is this about me being made into a spectacle? As for that, there are numerous ways to get around such a problem.”
+[note] (p.222) “Well, considering it’s you, I’m sure you’ll do fine. If you say you’ll show, then that’s all we need.” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.222) “However, this nevertheless does not improve our overall athletic ability. The most I can do is to pick up competitions that we might end up losing. In other words, it will be a tough battle to usurp first place even if I participate.”
+[says:hashimoto-masayoshi] (p.222) “I think it’s enough if we just don’t come last,” said Hashimoto.
+[says:sakayanagi-arisu] (p.222) “It won’t be so difficult to crack the fragile relationship between Horikita-san and Ryuuen-kun. Let’s get in their way when they are desperately trying to cooperate on the day.”
+[says:hashimoto-masayoshi] (p.222) “I guess I can feel relieved, huh. But you sure picked up that information quickly, Princess. It’s not like you went out and got it yourself when your legs are like that, right?”
+[note] (p.219–222) Speaker naming follows the corpus's own split — the narration focuses on Sakayanagi's circle; lines tagged by her name where the text names her as the subject (“said Sakayanagi”, “Sakayanagi smiled and continued”); alternating lines within the exchange are assigned by printed adjacency/alternation; Hashimoto's and Kamuro's lines carry their own names where printed; the POV here is third-person sideways on Sakayanagi, not her first-person.
+[note] (p.221) The Sakayanagi decision is now final — she will participate, despite the cane, despite Ryuuen and Katsuragi’s 70–80% estimates.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

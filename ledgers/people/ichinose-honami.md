@@ -1507,6 +1507,15 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ibuki-mio] (p.120, 123, 130) “Not even Ichinose.”
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.199–213 — Ch.4: Ichinose — the alternative that wasn't chosen
+[mentioned] (p.199) “The two remaining options are Ichinose-san’s class or your class. In my analysis, even if Ichinose-san is by far and away the best in terms of trust, it’s hard to say she has many classmates who are physically gifted.” — Sakayanagi as the target forces the choice between Ichinose and Ryuuen; Ichinose is the best in terms of trust but weak in physical gifts.
+[mentioned] (p.202–203) Katsuragi reasons Class A is out of reach — the rugby-less analysis — his alternative to Horikita's plan would have been Ichinose's class; the arithmetic 40 vs 37 turns on her class.
+[mentioned] (p.213–214) Ryuuen analyzes her class freely — 40 people; if she joins forces with Sakayanagi, Ichinose's class has the advantage; the three-person difference is decisive.
+[rel:horikita-suzune] (p.199) She named Ichinose as the but-for option; she chose Ryuuen's class by the physical-abilities reading.
+[rel:ryuuen-kakeru] (p.213) He reads her class as the strongest fallback alliance — the three-person gap.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

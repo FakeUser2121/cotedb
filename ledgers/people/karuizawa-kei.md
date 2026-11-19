@@ -1571,6 +1571,81 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:shinohara-satsuki] (p.81–84) She is not thinking about the competition; she is consumed by making up with Shinohara.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.223–233 — Ch.4: The birthday shopping date — the mall meet-cute with Ishizaki (AK POV)
+[scene] (p.223–224) October; after school; Keyaki Mall; the linked arms; Ishizaki-Albert run-in; Ryuuen and AK share October 20 as a birthday — this is news to AK; Ishizaki's double-birthday idea; Kei pushes for the celebration anyway because she feels Ishizaki's friendliness toward AK is real and the group is broken.
+[says] (p.223) “What do you intend to buy?”
+[says:karuizawa-kei] (p.223) “Eh? I don’t really want anything though? Ah, well, it’s not that I don’t want anything, but we didn’t come here for my sake today.”
+[says:karuizawa-kei] (p.223) “Isn’t it gonna be your birthday soon? I was thinking of surprising you, but then I thought getting you something you really want would be good.”
+[says:karuizawa-kei] (p.223) “I was thinking we could walk around and find something you want.”
+[says] (p.223) “I see.”
+[says] (p.223) “You’ll have to spend private points, you know?”
+[says:karuizawa-kei] (p.223) “I know what you mean, but I think it’s alright for your birthday. Just get what you like!”
+[says:karuizawa-kei] (p.224) “I know exactly what you’re thinking, you knooow?”
+[says:karuizawa-kei] (p.224) “I’ll buy what, you, want! Got it?”
+[says] (p.224) “… yes.”
+[says:karuizawa-kei] (p.224) “Ehehe. I’m so happy.”
+[says:karuizawa-kei] (p.224) “There’s nothing I’m hiding from you anymore. I’ve let you know anything and everything about me. I never thought that there would be someone more important to me than my mom and dad.”
+[says:karuizawa-kei] (p.224) “Kiyotaka, you hiding anything from me is a no-no too, you got that?”
+[says] (p.224) “Uh huh.”
+[says:satou-maya] (p.225) “Lo, Lovey dovey aren’t you. Sorry for bothering yooouuu.”
+[says:karuizawa-kei] (p.225) “Ah, wai- wait a minute!?”
+[says:karuizawa-kei] (p.225) “Ah, damn…”
+[says] (p.225) “You’re still being considerate to Satou?”
+[says:karuizawa-kei] (p.225) “It’s not really that… but it really isn’t a nice feeling, you know…”
+[says:karuizawa-kei] (p.225) “Nope.”
+[says:ishizaki-daichi] (p.226) “On a date with Karuizawa? You guys are even linking arms… such normies…”
+[says:ishizaki-daichi] (p.226) “Oh, this? The 20th of this month is Ryuuen-san’s birthday. We’re just picking something out for him.”
+[says:karuizawa-kei] (p.226) “Eh? The 20th… you guys have the same birthday?”
+[says] (p.226) “This is the first I’ve heard of it.”
+[says:ishizaki-daichi] (p.226) “Who has the same birthday?”
+[says:ishizaki-daichi] (p.227) “What’s wrong, I’m asking you to tell me───”
+[says:ishizaki-daichi] (p.227) “… ah, that’s, right…”
+[says:ishizaki-daichi] (p.227) “Damn it.”
+[says:ishizaki-daichi] (p.227) “I’m… sorry. I think I should have said it earlier… I, on the rooftop───”
+[says] (p.227) “Don’t talk about that here.”
+[says] (p.227) “Let’s go someplace else.”
+[says:karuizawa-kei] (p.228) “… you don’t have to. It would be troubling even if you did. In fact, it just makes me more irritated.”
+[says:karuizawa-kei] (p.228) “You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize.”
+[says:karuizawa-kei] (p.228) “If Kiyotaka didn’t come to the rooftop… or if he lost to you guys, you wouldn’t apologize like this. Am I wrong? You guys are just annoying me.”
+[says:karuizawa-kei] (p.228) “I’m not really blaming you. The strong being on top is natural. I hated being at the bottom too, so in order to be on top I took this high and mighty attitude. Isn’t that right?”
+[says:karuizawa-kei] (p.229) “I get what you’re trying to say. But – since we’ve also started to interact, there is something I do understand, if only a little: Ishizaki has definitely matured in a good way.”
+[says:ishizaki-daichi] (p.229) “What’s this good way? It seems to me like he hasn’t changed at all?”
+[says:karuizawa-kei] (p.229) “Well, at the end of the day it’s just how I feel, but I think that if Ryuuen right now asked Ishizaki to do to someone else the same thing they did to you, Ishizaki would not simply obey.”
+[says:ishizaki-daichi] (p.229) “Really? I don’t think he would go against Ryuuen, though.”
+[says:karuizawa-kei] (p.229) “That’s enough. Right now, you are Kiyotaka’s friend, right? I won’t forgive you but I will stop blaming you.”
+[says:ishizaki-daichi] (p.229) “Is- is that alright?”
+[says:karuizawa-kei] (p.229) “I’ve already said it, haven’t I? It’s over, got it?”
+[says:ishizaki-daichi] (p.229) “Y, yes!”
+[says:ishizaki-daichi] (p.229) “Umm… So about that. Earlier, whose birthday was it?”
+[says:ishizaki-daichi] (p.230) “Eh? Really? Ayanokouji’s birthday is also October 20th!?”
+[says:ishizaki-daichi] (p.230) “This is fate, isn’t it!?”
+[says:karuizawa-kei] (p.230) “What fate, there’s more than 400 people in this school, it’s not strange that there are some people with the same birthday.”
+[says:ishizaki-daichi] (p.230) “But, isn’t it amazing that it’s Ayanokouji and Ryuuen?”
+[note] (p.230) “Can we return to the store now?” — untagged (Ishizaki or Albert); recorded without assignment.
+[says:ishizaki-daichi] (p.230) “Ah! Right! Wait a sec!”
+[says:ishizaki-daichi] (p.230) “I have a suggestion – if it’s okay with you, why don’t we celebrate both their birthdays together? Ryuuen-san’s and Ayanokouji’s double birthday party, won’t it be amazing?”
+[says:karuizawa-kei] (p.230) “If he apologizes, I’m okay?”
+[says:ishizaki-daichi] (p.230) “Eh?”
+[says:karuizawa-kei] (p.231) “I said if that guy, Ryuuen lowers his head then I accept.”
+[says:ishizaki-daichi] (p.231) “Ryuuen won’t apologize to me, right?”
+[says:ishizaki-daichi] (p.231) “If both of you agree, then I will suggest it to him!”
+[note] (p.231) “You probably shouldn’t?” — untagged (Kei or AK); recorded without assignment.
+[says:ishizaki-daichi] (p.231) “I’ll do something about it! If I can get the promise of an apology, it’ll be a birthday party!”
+[says:karuizawa-kei] (p.231) “Well… if you can really make it happen I’ll think about it…”
+[says:karuizawa-kei] (p.233) “I mean, for me, being together on your birthday, just the two of us would be great… but……”
+[says] (p.233) “Are you betting on the chance that Ryuuen will apologize?”
+[says:karuizawa-kei] (p.233) “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.”
+[says:karuizawa-kei] (p.233) “Also? Ishizaki-kun did say he would once again apologize, and I just thought it wouldn’t be a bad thing to accept that.”
+[note] (p.225) Satou fled at full speed upon seeing them — recorded in her own person record.
+[note] (p.226) The corpus prints “Ohh? Ayanokouji!” — an untagged call-out from someone approaching — recorded without assignment.
+[note] (p.230) “Can we return to the store now?” — untagged (Ishizaki or Albert).
+[rel:ayanokouji-kiyotaka] (p.223–233) Her boyfriend; her birthday gift hunt; the mall date; "This is the first I've heard of it."
+[rel:satou-maya] (p.225) She fled when she saw them arm in arm; Kei feels bad but won't give up linking arms.
+[rel:ishizaki-daichi] (p.226–233) The rooftop bully begging forgiveness; she is willing to try because he likes being AK's friend; she accepts his second apology "Also?"
+[rel:yamada-albert] (p.226–233) Ishizaki's partner; the three are unwelcome together; "such normies" — he says nothing but is visibly pleased.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

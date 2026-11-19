@@ -281,6 +281,11 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.11) Passing mentions on pages: p.212.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.212–212 — Ch.4: Sakagami-sensei — to witness the alliance contract
+[mentioned] (p.212) Horikita: “I intend to have Chabashira-sensei and Sakagami-sensei get involved in this as well.” — the karaoke deal will be formalized with Sakagami-sensei as a witness; the corpus prints only the surname “Sakagami-sensei” — which Sakagami is not resolved on these pages.
+[note] (p.212) The corpus prints only “Sakagami-sensei” — not resolved to a given name here; both a student-council SAKAGAMI and the chess-club coach Sakagami are plausible in-world possibilities; no assignment is made.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->
