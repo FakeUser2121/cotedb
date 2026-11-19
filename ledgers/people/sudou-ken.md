@@ -1608,6 +1608,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:kouenji-rokusuke] (p.247) He wants to fight Kouenji — she warns him off.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.323–323 — Ch.6: Sudou — Class Change Ticket vs 2M
+[mentioned] (p.323) “the Sudou-Onodera pair took first place in each individual ranking.” — Sudou and Onodera won every individual event; “And while Sudou and Onodera won the right to change classes, both of them picked private points without hesitation.”
+[rel:onodera-kayano] (p.323) The doubles pact paid off; they won every individual ranking.
+[rel:horikita-suzune] (p.323) The class heads into Class A.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

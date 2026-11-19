@@ -1522,6 +1522,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.258) Her own class's fortunes in the festival are not detailed on these pages; recorded as present and working.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.323–323 — Ch.6: Ichinose — third place
+[mentioned] (p.323) “The rankings in the sports festival were: Horikita’s class in first place, Ryuuen’s class in second place, Ichinose’s class in third place and Sakayanagi’s class in fourth place.”
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

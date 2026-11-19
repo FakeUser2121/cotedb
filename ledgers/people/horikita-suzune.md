@@ -4276,6 +4276,40 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:horikita-suzune] (p.243–249) The fated rematch pair — 1-1; the balance beam is her next target; Horikita's narrow 100m win; her 2cm long jump win.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.323–326 — Ch.6: After the results — Horikita's call (AK POV)
+[scene] (p.323–326) A few days after — October 15th has passed; the Sports Festival results are final: Horikita's class finished first, Ryuuen's second, Ichinose's third, and Sakayanagi's fourth — the class's will and strength; the Sudou-Onodera pair took first in each individual ranking; Kouenji also took first place in ten events but finished second overall; Sudou and Onodera won the Class Change Ticket (or 2M private points) and chose private points without hesitation; the class had amassed Class A points via the Uninhabited Island Test, the Unanimous Consent test and now the Sports Festival — the gap had shrunk; Horikita calls out to him on the way back from Keyaki mall — she deliberately timed it so no one overhears — “There’s something I wanted to talk to you about. Is that alright?”
+[says] (p.323) “There’s something I wanted to talk to you about. Is that alright?”
+[says:ayanokouji-kiyotaka] (p.323) “It would be better if we could do it on the way back.”
+[says] (p.323) “That’s good enough for me.”
+[scene] (p.324–326) Horikita processes the Unanimous test and reaffirms her choice — “I did not make a mistake. I was able to recognize once again that I chose to keep Kushida-san, and that that choice was correct.”; the Sports Festival out: Kushida contributed strongly — her Social Contribution in the OAA has gone down at the start of October, but will recover; Hasebe-san — honestly, he doesn't know what to do; “During that test, I made a poorly thought out promise so we could achieve unanimity... Deep down, I knew that Kushida-san was the traitor. And I made that decision before I was even clear on whether I wanted to expel her. That was a mistake.”; “I’m just a second year high school student. I’m a child. Isn’t it okay for me to mess up?”; “But we have Hirata-kun, Karuizawa-san, Sudou-san, Onodera-san, Kushida-san and Kouenji-san. I will move forward with their support. Class A waits for us. That is what I now believe.”; “you are, both to the class and to me, absolutely essential.”
+[says] (p.324) “I have learned a very important lesson from the Unanimous Consent test.”
+[says:ayanokouji-kiyotaka] (p.324) “Let’s hear it.”
+[says] (p.324) “I did not make a mistake. I was able to recognize once again that I chose to keep Kushida-san, and that that choice was correct.”
+[says] (p.324) “I know. There are still reasons for us to be worried. Especially when it comes to Hasebe-san; honestly, I still don’t know what I should do about her. But, if we face a similar test once again, I think I will be able to handle it much better next time.”
+[says:ayanokouji-kiyotaka] (p.324) “And why do you think so?”
+[says] (p.324) “During that test, I made a poorly thought out promise so we could achieve unanimity. I said that we would expel the traitor, and I had to go back on my word. It was a good shortcut to achieving unanimity, but I didn’t understand how risky it was. Deep down, I knew that Kushida-san was the traitor. And I made that decision before I was even clear on whether I wanted to expel her. That was a mistake.”
+[says:ayanokouji-kiyotaka] (p.325) “If it was possible to keep her, then it is true that making an unnecessary promise was equivalent to tying your own noose.”
+[says] (p.325) “We got class points. However, we had to pay dearly for it. That special test has taught me a lot. It showed me both victory and defeat.”
+[says:ayanokouji-kiyotaka] (p.325) “It’s not certain that you haven’t failed, however.”
+[says] (p.325) “I’m just a second year high school student. I’m a child. Isn’t it okay for me to mess up?”
+[says:ayanokouji-kiyotaka] (p.325) “You’re fighting back now, huh.”
+[says] (p.325) “It’s not like me to waver about it forever. I am—I’m going to keep being as I am. Maybe I’m not as good as the other leaders. But we have Hirata-kun, Karuizawa-san, Sudou-san, Onodera-san, Kushida-san and Kouenjisan. I will move forward with their support. Class A waits for us. That is what I now believe.”
+[says:ayanokouji-kiyotaka] (p.325) “Oh.”
+[says] (p.325) “Of course, you are one of those people, too. I never know what you’re thinking, and you can be uncooperative, but… you are, both to the class and to me, absolutely essential.”
+[rel:ayanokouji-kiyotaka] (p.323–326) She told him — he must keep growing — she calls him essential; he will teach her what winning feels like until she learns it.
+[rel:kushida-kikyou] (p.324) Her anchor — “I chose to keep Kushida-san, and that that choice was correct.”
+[rel:hasebe-haruka] (p.324) Still unresolved — “I still don’t know what I should do about her.”
+[rel:sudou-ken] (p.323) Three consecutive victories — the Class Change Ticket vs 2M — both picked private points.
+[rel:onodera-kayano] (p.323) First in each individual ranking — the doubles pact works.
+[rel:kouenji-rokusuke] (p.323) Ten individual firsts but second overall — the sports festival is not about one person anymore.
+[rel:ichinose-honami] (p.323) Third place.
+[rel:ryuuen-kakeru] (p.323) Second place.
+[rel:sakayanagi-arisu] (p.323) Fourth place.
+[note] (p.326) “After I’ve seen you grow a bit more—— I will leave your class. I won’t tell her now, but someday, Horikita, too, will know why.” — his private plan to leave once she's grown — recorded as his own narration; not shared with her on these pages.
+[note] (p.326) “There is a future where I wish and hope that it will not be certain. I know the answer, but paradoxically, I hope I am wrong.” — his hope to be defeated; his private contradiction — recorded.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

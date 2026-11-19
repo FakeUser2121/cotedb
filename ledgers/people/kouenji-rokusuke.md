@@ -727,6 +727,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:sudou-ken] (p.94) Sudou would admit Kōenji is better; Onodera won't pair with him.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.323–323 — Ch.6: Kouenji — ten wins, second place
+[mentioned] (p.323) “Kouenji also took first place in ten events, but because they were all individual events he finished second. He seemed satisfied with that and didn’t stir up any trouble.” — ten individual wins; second overall behind the Sudou-Onodera pair.
+[rel:sudou-ken] (p.323) He finished behind the Sudou-Onodera pair; he was satisfied with that.
+[rel:onodera-kayano] (p.323) He finished behind the Sudou-Onodera pair.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

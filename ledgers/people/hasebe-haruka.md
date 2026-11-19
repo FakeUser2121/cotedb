@@ -581,6 +581,12 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ishigami-kyou] (p.171, 193) His awkward hello: “Speak of the devil thingy”; his final honest verdict.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.324–324 — Ch.6: Haruka — still unresolved
+[mentioned] (p.324) “Especially when it comes to Hasebe-san; honestly, I still don’t know what I should do about her.” — Horikita still does not know what to do about her; the resolution hangs.
+[rel:horikita-suzune] (p.324) Unexplained; Horikita does not know what to do with her.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -1847,6 +1847,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.206) “… No, that would be impossible.” / “That’s right. An Average Joe would’ve been dripping wet before he even had time to react. No ordinary guy could dodge that, but this dude pulled it off like it was no big deal.” / “I admit he has insane reflexes but… what does that have to do with this discussion?” / “You ordered an orange juice just to test that? …Spare me, please.” — all four untagged; recorded without assignment.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.323–323 — Ch.6: Ryuuen — second place
+[mentioned] (p.323) “The rankings in the sports festival were: Horikita’s class in first place, Ryuuen’s class in second place, Ichinose’s class in third place and Sakayanagi’s class in fourth place.” — the alliance worked — second place, Class A pushed to fourth.
+[rel:horikita-suzune] (p.323) The alliance paid off — second place with Horikita's class first.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

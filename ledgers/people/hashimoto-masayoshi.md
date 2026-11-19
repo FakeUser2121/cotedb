@@ -889,6 +889,13 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:matoba-shinji] (p.262–267) He brokers the peace; he leaves them both bewildered.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.305–319 — Ch.6: Hashimoto — Sakayanagi's surmise
+[mentioned] (p.305) Sakayanagi: “And while we have promising students such as Kitou-kun and Hashimoto-kun, on average we aren’t as good as Horikita-san’s class.” — Class A's hopes are Kitou and Hashimoto.
+[mentioned] (p.319) “It could’ve been Hashimoto, who I had noticed following me earlier, or it could’ve been someone else I couldn’t identify.” — Sakayanagi suspects him of shadowing AK by accident — no, she can't identify either — recorded as printed.
+[rel:sakayanagi-arisu] (p.305–319) She names him as promising; she was unable to identify her tail.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

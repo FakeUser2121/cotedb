@@ -10009,6 +10009,178 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.239–240) “Attack on Sakayanagi” — the plan is in motion.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.302–317 — Ch.6: Sakayanagi comes to his room — the “special lesson” (AK POV)
+[scene] (p.302–303) 11 AM festival day — cheers outside; “Director Sakayanagi’s hands”; the plan — keep her out via Director Sakayanagi's hint that the White Room people prevent contact; his room is prohibited; Ak never expected her to come — but she does: “Hello, Ayanokouji-kun.” — Sakayanagi at the door in casual clothes; she smiles.
+[says:sakayanagi-arisu] (p.303) “Hello, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.303) “If you don’t mind, may I bother you for a moment? Even though the only thing I’m prohibited from doing is leaving the dorms, calling on a guy’s room during the sports festival is a bit questionable.”
+[says] (p.303) “Coming inside my room would be even more questionable, I’d say.”
+[says:sakayanagi-arisu] (p.303) “My apologies for bothering you.”
+[says] (p.303) “Come to think of it, this is the first time you’ve come to my room, Sakayanagi.”
+[says:sakayanagi-arisu] (p.303) “I don’t usually get a chance to visit. Have you had lunch yet?”
+[says] (p.303) “I was just about to get started making it.”
+[says:sakayanagi-arisu] (p.303) “Is that so? That’s great. Here, I have a present for you.”
+[says:sakayanagi-arisu] (p.304) “I bought this at the convenience store early this morning. It seems to be a new product, so I thought we might as well try it together.”
+[says] (p.304) “Feel free to sit on the bed, it would be better than sitting on the floor.”
+[says:sakayanagi-arisu] (p.304) “Thank you for your consideration.”
+[says] (p.304) “I don’t suppose you came here on a whim.”
+[says:sakayanagi-arisu] (p.304) “Normally, one never knows who is in the dorm. Being the leader of Class A, I couldn’t possibly just visit your room by myself, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.304) “You really are a terrible person, Ayanokouji-kun. This was part of your strategy, wasn’t it?”
+[says] (p.304) “Strategy? What do you mean?”
+[says:sakayanagi-arisu] (p.304) “Fufu, you don’t need to play dumb, Ayanokouji-kun. You were almost sure —no, let me correct myself. You were sure I’d come here today, weren’t you?”
+[scene] (p.305–307) She breaks down the plan — his supposed prediction; Director Sakayanagi's hint (White Room security); her being told so she'd skip the festival; instead she came to his room — exactly as he predicted; 11 AM — before noon; her own information network; the bodyguards — “It wasn’t just at this dorm, and they were stationed across the whole school, so it didn’t appear unnatural.”; “This was part of your strategy, wasn’t it?” — “This time, I paid 150 points to enjoy some time with Ayanokouji-kun.” — she pays 150 points in class points for this conversation; “The systems of this school are, to me, just an extension of playtime. To some extent, so long as I keep our status at Class A, there’s no problem.” — her price is rank and game, nothing else.
+[says:sakayanagi-arisu] (p.305) “During this sports festival, our Class A is starting with a disadvantage because of our smaller numbers. And while we have promising students such as Kitou-kun and Hashimoto-kun, on average we aren’t as good as Horikita-san’s class. In that case, what we need to do in order to win is to determine who participates in what competition, and to adjust the schedule moment to moment while observing where our rivals are participating during the actual event.”
+[says:sakayanagi-arisu] (p.305) “You wouldn’t know how it would play out if I were to participate.”
+[says:sakayanagi-arisu] (p.305) “You have a very high opinion of yourself, as usual.”
+[says:sakayanagi-arisu] (p.305) “Last night, I heard from my father that he had requested you to take a leave, Ayanokouji-kun, so that he could arrange for security at the dormitory and prevent any contact with the people sent from the White Room.”
+[says] (p.305) “It’s true that I’m sitting out the Sports Festival because Director Sakayanagi asked me to do so, but I never imagined he would tell his daughter about that.”
+[says:sakayanagi-arisu] (p.305) “How funny! Didn’t you ask him to tell me about this, Ayanokouji-kun?”
+[says:sakayanagi-arisu] (p.306) “So you decided to come just before 12 only to make me worry?”
+[says:sakayanagi-arisu] (p.306) “Oh, I see.”
+[says:sakayanagi-arisu] (p.306) “By the way, except me and you, everyone is participating in the Sports Festival.”
+[says:sakayanagi-arisu] (p.307) “I wanted to be mean, but to be honest, I also wanted to visit just a little sooner,” she said.
+[says:sakayanagi-arisu] (p.307) “There were three people there, seemingly bodyguards. It wasn’t just at this dorm, and they were stationed across the whole school, so it didn’t appear unnatural.”
+[says:sakayanagi-arisu] (p.307) “The most valuable player of this Sports Festival isn’t Horikita san, for her proposal to cooperate with Ryuuen-kun, nor is it Ryuuen for accepting it. It was you, for authoritatively saying that you could definitely keep me from participating. Congratulations, with just that one thing you sealed your victory.”
+[says] (p.307) “But we don’t know what the results will be yet.”
+[says:sakayanagi-arisu] (p.307) “While a late surprise is certainly possible, it is highly unlikely. Right now, with Horikita’s class taking them head on, and Ryuuen’s class taking every measure possible, Class A must be at their mercy. Even if one has great arms or legs, without a head one won’t get anywhere. That is because I’ve built up the class that way.”
+[says:sakayanagi-arisu] (p.308) “Well, that’s fine. This time, I paid 150 points to enjoy some time with Ayanokouji-kun.”
+[says] (p.308) “You sure have no objection to losing class points.”
+[says:sakayanagi-arisu] (p.308) “The systems of this school are, to me, just an extension of playtime. To some extent, so long as I keep our status at Class A, there’s no problem.”
+[scene] (p.308–310) The mont blancs; coffee; the White Room veil drops for a second — “In the first term of the first year, Class D had lost all their points. However, after a point, they started to gain points...” — her private exegesis of him — “you were acting behind the scenes, Ayanokouji-kun.”; she feeds him a mont blanc; she is not interested in rank — her interest is him; “you were acting behind the scenes” — she was there at the start of it all.
+[says:sakayanagi-arisu] (p.308) “You seem used to this by now.”
+[says] (p.308) “It’s not a big deal, something like this .”
+[says:sakayanagi-arisu] (p.308) “Is every step of preparing something like this fresh and fun for you, Ayanokouji-kun?”
+[says] (p.308) “Everything in this school is like that. I just wanted to do normal things, that’s all.”
+[says] (p.308) “So you do have the desire to remain as Class A. Is it just your pride?”
+[says:sakayanagi-arisu] (p.308) “Initially, I was not obsessed about Class A or anything like that. But after finding out that you were in this school, it became my goal. Because maybe, after you lead your class to Class B, you’d seriously fight me.”
+[says:sakayanagi-arisu] (p.309) “Let’s eat it together, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.309) “Here.”
+[says] (p.309) “… What do you mean, ‘here’?”
+[says:sakayanagi-arisu] (p.309) “Isn’t it obvious? Eat it!”
+[says] (p.309) “No, I get it, but…”
+[says:sakayanagi-arisu] (p.309) “There’s nothing to worry about. It’s just you and me here, Ayanokouji-kun, and nobody will get in our way.”
+[says] (p.309) “Is it good?”
+[says:sakayanagi-arisu] (p.310) “Yeah.”
+[says:sakayanagi-arisu] (p.310) “Then I’ll have some too.”
+[says:sakayanagi-arisu] (p.310) “It doesn’t stand a chance against the sweets at the café, but for a sweet from a convenience store it makes the grade.”
+[says:sakayanagi-arisu] (p.310) “Next time, I’ll bring a different cake.”
+[says] (p.310) “… Hm, but I just normally said it was good.”
+[says:sakayanagi-arisu] (p.310) “I’m very proud of how perceptive I am, especially when it comes to you, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.310) “In a real battle of wits, you’d never show such a weakness, but when it comes to an everyday thing like this you’re surprisingly open, aren’t you?”
+[says] (p.310) “Maybe it’s because I’m not used to it, after all.”
+[says:sakayanagi-arisu] (p.310) “Fufu. That sort of thing has its own appeal, you know?”
+[says:sakayanagi-arisu] (p.310) “Please let me try again sometime. If I see a delicious cake, I’ll bring it with me.”
+[says:sakayanagi-arisu] (p.311) “It’d be nice if a situation like this, where we’re certain nobody can see us, comes by again.”
+[scene] (p.311–313) Sakayanagi prods at his plan — “your change of heart” — why is he aiming for Class A; his answer — “I am trying to do the same thing you are, Sakayanagi. By defeating me, you want to answer the question of what it means to be a genius. I am, in my own way, thinking of proving that the white room is by no means perfect.” — that's the White Room line that exists — and what she already predicted; “So that means that you are trying to build up the strongest class with your own hands, Ayanokouji-kun?” — she closes in on him.
+[says:sakayanagi-arisu] (p.311) “But what I find mysterious is your change of heart, Ayanokouji-kun. You’re not helping out from time to time while you stand on the sidelines as you were supposed to. Now you have started to seriously aim for Class A. Why?”
+[says] (p.311) “Oh, so there’s things even you don’t know.”
+[says:sakayanagi-arisu] (p.311) “I’m not a god. Moreover, I know your background, Ayanokouji-kun, and consequently there are things I don’t understand or can’t think of. Can you tell me, please?”
+[says:sakayanagi-arisu] (p.312) “I don’t suppose you are trying to amass a fortune in private points and make merry, like Kouenji-kun?”
+[says] (p.312) “He definitely is in a similar position as the two of us.”
+[says] (p.312) “I think you at least have the right to hear why I decided to contribute to my class, Sakayanagi. After all, you walked into an obvious trap and almost threw away a chance at winning the Sports Festival.”
+[says] (p.312) “If you answer my question, then I’ll come here if this happens again.”
+[says:sakayanagi-arisu] (p.312) “Don’t say the very thing I’m thinking at the moment!”
+[says:sakayanagi-arisu] (p.312) “Fufufu.”
+[says] (p.312) “Fundamentally, I am trying to do the same thing you are, Sakayanagi. By defeating me, you want to answer the question of what it means to be a genius. I am, in my own way, thinking of proving that the white room is by no means perfect.”
+[says:sakayanagi-arisu] (p.312) “So that means that you are trying to build up the strongest class with your own hands, Ayanokouji-kun?”
+[says:sakayanagi-arisu] (p.313) “Like this Sports Festival. Despite the circumstances, you should have been able to participate anyway. Your odds of winning would have been much higher if you were on the ground giving orders, and wouldn’t that have made your position more solid? It’s not like you were worried about whether or not I would participate, after all.”
+[says] (p.313) “There is a theme to how I have spent this Sports Festival.”
+[says:sakayanagi-arisu] (p.313) “How interesting! What was this theme?”
+[says] (p.313) “Observation. I decided that it was a good opportunity for me to determine how well the other students would be able to fight when I don’t directly participate in the Sports Festival. Getting you to sit it out was just a side effect, I’d say.”
+[says:sakayanagi-arisu] (p.313) “The fact that I came to meet you because you were observing from the sidelines doesn’t mean you directly affected the Sports Festival itself, right. … Oh, I see.”
+[says:sakayanagi-arisu] (p.313) “That mean—”
+[scene] (p.313–317) The light goes — the shadow — “Let’s begin a special lesson, shall we?” — YES — the special lesson — the lesson ends at p.317 — the page jumps to an hour later; his phone launched the camera; she has no way out — her disability — the question; her eyes close bold; “You think you’ll win?” — she says he will eventually catch up and pass her; the “special lesson”; no, wait — that's wrong — let me re-read the exact lines:
+[note] (p.313–317) At the pivotal moment, she says “That mean—” and he stands up and closes her back, tilting the world to the mattress; before she understands, he is hanging over her; “If you told others about what we talked about today, it would get in the way of my plan.” — she hesitates; the special lesson.
+[says:sakayanagi-arisu] (p.314) “I see, yes… that’s right. However, if I ever wanted to coerce you into a showdown… couldn’t I just use the existence of the White Room instead?”
+[says] (p.314) “No, that wouldn’t be effective. Even if you made the existence of that institute widely known, other people wouldn’t be able to comprehend it. And it wouldn’t be any risk to me personally.”
+[says] (p.315) “But the plan I’m trying to pull off is not at a stage where I can let it be widely known. It is entirely possible that you use it as material for blackmail.”
+[says] (p.315) “… So what are you going to do?”
+[says:sakayanagi-arisu] (p.315) “A secret for a secret, and a threat for a threat. Right now, you and I are the only ones left in this dorm. So no matter what happens, nobody will come to help you. Even if you scream at the top of your voice, at best it’ll be barely audible at the end of the hallway.”
+[says] (p.315) “Are you seriously going to commit a crime to protect that plan?”
+[says:sakayanagi-arisu] (p.316) “Crime? You and I are going to agree to share a secret.”
+[says] (p.315) “If you want to refuse, your only choice is to use your own strength to run away.”
+[says:sakayanagi-arisu] (p.316) “—You think you’ll win?”
+[says] (p.315) “Win?”
+[says:sakayanagi-arisu] (p.316) “Even if things go as you plan right now, will it actually put you at an advantage? … That’s what I mean.”
+[says] (p.316) “I’m sorry, but you have no chance of winning.”
+[says:sakayanagi-arisu] (p.316) “The small difference in our level of experience, I will use one way of learning to catch up and then leave you behind. In fact, you might even find out that your way of learning has been wrong all along?”
+[says] (p.316) “Let’s begin a special lesson, shall we?”
+[note] (p.317) Sakayanagi smiled boldly and quietly closed her eyes, showing no signs of resistance — narration, not speech.
+[note] (p.317–318) The corpus cuts from her eyes closing bold to her smile — the “special lesson” itself is NOT depicted on these pages; the meaning of the lesson is never stated; recorded as printed, without inference.
+[trait] (p.302–317) The White Room problem — he is not a gentleman, he is not a predator by design; he is entirely a predator by design — “special lesson” as a power move; the cold game: she has no chance of winning — her disability; his control; the camera phone left on the bed.
+[rel:sakayanagi-arisu] (p.302–318) The mont blancs exchange — she has been hunting him; he lets her have the sweets; “special lesson” — her eyes closed; “It had been about an hour since Sakayanagi came to my room.”
+[rel:tsukishiro] (p.302–317) “Tsukishiro” is spoken of as part of the White Room problem — referenced elsewhere; not faced in this scene.
+
+### y2v6 p.318–322 — Ch.6: Afterwards — the phone; the voice at the door (AK POV)
+[scene] (p.318–319) An hour later — “You really are a terrible person.” — “Perhaps.”; “With this, we now share a secret we can’t tell anyone else about.” — he shows her the phone, selecting what to keep and deleting the rest — a photo of him and Kei comes up by accident (Keyaki mall); her eyes sharp; she explains she could trace her tail on him — “It could’ve been Hashimoto, who I had noticed following me earlier, or it could’ve been someone else I couldn’t identify.” — “The strong trust and love she shows for you—I could go so far as to call it blind faith.” — “Perhaps you are planning to use her for some experiment down the line, or you are trying to save her.” — she knows so much about Kei anyway.
+[says:sakayanagi-arisu] (p.318) “You really are a terrible person.”
+[says] (p.318) “Perhaps.”
+[says:sakayanagi-arisu] (p.318) “Setting that aside, this was my first time on a boy’s bed.”
+[says] (p.318) “You left in ten seconds, so I think it shouldn’t count.”
+[says:sakayanagi-arisu] (p.318) “You’re not taking a girl’s memories seriously.”
+[says:sakayanagi-arisu] (p.318) “It looks like your relationship with Karuizawa-san is going well.”
+[says] (p.318) “I suppose.”
+[says:sakayanagi-arisu] (p.319) “At some point, Ayanokouji-kun was attracted by her appearance, voice, or personality… Ordinarily, that’s what I would’ve thought, but there are a few things that I don’t understand.”
+[says:sakayanagi-arisu] (p.319) “I looked into her, as much as I could. From what she does after school to what she does on her weekends. The way things are right now, it is easy to put a tail on you, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.319) “I could not fully ascertain why you chose to date her, Ayanokouji-kun, but there is something I could figure out. The strong trust and love she shows for you—I could go so far as to call it blind faith. Perhaps you are planning to use her for some experiment down the line, or you are trying to save her. I deduced that it must be something of that nature.”
+[says:sakayanagi-arisu] (p.319) “The special lesson you had for me, it is also related, isn’t it?”
+[says] (p.319) “I’m getting somewhat tired of saying this now, but well done. You’re right.”
+[scene] (p.320–322) 12:30 PM — the doorbell rings — a slow, relaxed tone; nobody should be in the dorm at this time; both Sakayanagi and AK look at the doorway together — three bodyguards in the lobby; the bell rings again; “Who is it?” — a boy's young voice — “I remember your voice.” — after his father's visit, this voice — “You’ve called me once before.” — the boy doesn't keep his tone long — “After eliminating Tsukishiro, peace will return if you eliminate the White Room student. I was concerned that you might be laboring under that misapprehension, so I have come to give you advice.” — Sakayanagi: “Fufu. What an interesting conversation! Do you mind if I join in?” — “Oh, Sakayanagi Arisu.” — the boy was not surprised — “Anyway, stay on your guard if you want to enjoy your school life until graduation.” — he leaves — both try to place the voice — she hears it from somewhere — “five, maybe ten years ago… an old memory” — he knows her, or something like knowing her — not the White Room (if he was a child then, he'd be young) — this puzzle is not what he cares about.
+[says] (p.320) “Who is it?”
+[note] (p.320) The boy’s opening line — “Remain as you are and listen to me.” — speaker untagged in the corpus; recorded without assignment.
+[says] (p.320) “I remember your voice.”
+[says] (p.320) “You’ve called me once before.”
+[says:sakayanagi-arisu] (p.320) “Fufu. What an interesting conversation! Do you mind if I join in?”
+[note] (p.320) The boy answers her name — “Oh, Sakayanagi Arisu.” — speaker untagged; “he answered, his voice growing fainter as he walked away” — recorded without assignment.
+[note] (p.321) The boy’s explanation — “I was happy to get in touch with you, but immediately after that something put me in a bad spot. I couldn’t contact you again… I’m sure you’re interested in it, but who I am is irrelevant right now. That is because to you, I am neither an enemy nor an ally.” — speaker untagged in the corpus; recorded without assignment.
+[says] (p.321) “Then why did you come here?”
+[note] (p.321) The boy’s reason for coming — “After eliminating Tsukishiro, peace will return if you eliminate the White Room student. I was concerned that you might be laboring under that misapprehension, so I have come to give you advice.” — speaker untagged in the corpus; recorded without assignment.
+[note] (p.320–321) The boy’s advice — “Anyway, stay on your guard if you want to enjoy your school life until graduation.” — speaker untagged in the corpus; recorded without assignment.
+[says] (p.321) “You claim to be neutral, but you’ve come to support me.”
+[note] (p.321) The boy’s warning — “Your existence is a bad influence. I want to prevent anything more from happening, that’s it.” — speaker untagged in the corpus; recorded without assignment.
+[says:sakayanagi-arisu] (p.322) “That voice… I remember it from somewhere…”
+[says] (p.322) “You have some idea of who it could be?”
+[says:sakayanagi-arisu] (p.322) “Just like yourself, Ayanokouji-kun, I can’t say for sure. But I get the feeling that somewhere, I have heard that voice from behind a door once.”
+[says:sakayanagi-arisu] (p.322) “It wasn’t recent. Five, maybe ten years ago… At any rate, it was an old memory.”
+[says] (p.322) “If that’s true, then it is close to impossible that he is a white room student.”
+[says:sakayanagi-arisu] (p.322) “Indeed. If I had met him as a child, then that would be the case.”
+[note] (p.318–322) The boy's identity is never resolved on these pages; Sakayanagi and AK both recall a voice from behind a door from five to ten years ago; he is not a White Room student; he knows Sakayanagi's voice and is unsurprised by her presence; not assigned to a named character.
+[rel:sakayanagi-arisu] (p.318–322) She and he share a secret now; she'd said she knows things — “I deduced that it must be something of that nature.”; she hears the boy's voice from somewhere behind a door.
+[rel:tsukishiro] (p.321) Named by the boy — “After eliminating Tsukishiro, peace will return.”
+
+### y2v6 p.323–326 — Ch.6: After the results — Horikita's call (AK POV)
+[scene] (p.323–326) A few days after — October 15th has passed; the Sports Festival results are final: Horikita's class finished first, Ryuuen's second, Ichinose's third, and Sakayanagi's fourth — the class's will and strength; the Sudou-Onodera pair took first in each individual ranking; Kouenji also took first place in ten events but finished second overall; Sudou and Onodera won the Class Change Ticket (or 2M private points) and chose private points without hesitation; the class had amassed Class A points via the Uninhabited Island Test, the Unanimous Consent test and now the Sports Festival — the gap had shrunk; Horikita calls out to him on the way back from Keyaki mall — she deliberately timed it so no one overhears — “There’s something I wanted to talk to you about. Is that alright?”
+[says:horikita-suzune] (p.323) “There’s something I wanted to talk to you about. Is that alright?”
+[says] (p.323) “It would be better if we could do it on the way back.”
+[says:horikita-suzune] (p.323) “That’s good enough for me.”
+[scene] (p.324–326) Horikita processes the Unanimous test and reaffirms her choice — “I did not make a mistake. I was able to recognize once again that I chose to keep Kushida-san, and that that choice was correct.”; the Sports Festival out: Kushida contributed strongly — her Social Contribution in the OAA has gone down at the start of October, but will recover; Hasebe-san — honestly, he doesn't know what to do; “During that test, I made a poorly thought out promise so we could achieve unanimity... Deep down, I knew that Kushida-san was the traitor. And I made that decision before I was even clear on whether I wanted to expel her. That was a mistake.”; “I’m just a second year high school student. I’m a child. Isn’t it okay for me to mess up?”; “But we have Hirata-kun, Karuizawa-san, Sudou-san, Onodera-san, Kushida-san and Kouenji-san. I will move forward with their support. Class A waits for us. That is what I now believe.”; “you are, both to the class and to me, absolutely essential.”
+[says:horikita-suzune] (p.324) “I have learned a very important lesson from the Unanimous Consent test.”
+[says] (p.324) “Let’s hear it.”
+[says:horikita-suzune] (p.324) “I did not make a mistake. I was able to recognize once again that I chose to keep Kushida-san, and that that choice was correct.”
+[says:horikita-suzune] (p.324) “I know. There are still reasons for us to be worried. Especially when it comes to Hasebe-san; honestly, I still don’t know what I should do about her. But, if we face a similar test once again, I think I will be able to handle it much better next time.”
+[says] (p.324) “And why do you think so?”
+[says:horikita-suzune] (p.324) “During that test, I made a poorly thought out promise so we could achieve unanimity. I said that we would expel the traitor, and I had to go back on my word. It was a good shortcut to achieving unanimity, but I didn’t understand how risky it was. Deep down, I knew that Kushida-san was the traitor. And I made that decision before I was even clear on whether I wanted to expel her. That was a mistake.”
+[says] (p.325) “If it was possible to keep her, then it is true that making an unnecessary promise was equivalent to tying your own noose.”
+[says:horikita-suzune] (p.325) “We got class points. However, we had to pay dearly for it. That special test has taught me a lot. It showed me both victory and defeat.”
+[says] (p.325) “It’s not certain that you haven’t failed, however.”
+[says:horikita-suzune] (p.325) “I’m just a second year high school student. I’m a child. Isn’t it okay for me to mess up?”
+[says] (p.325) “You’re fighting back now, huh.”
+[says:horikita-suzune] (p.325) “It’s not like me to waver about it forever. I am—I’m going to keep being as I am. Maybe I’m not as good as the other leaders. But we have Hirata-kun, Karuizawa-san, Sudou-san, Onodera-san, Kushida-san and Kouenjisan. I will move forward with their support. Class A waits for us. That is what I now believe.”
+[says] (p.325) “Oh.”
+[says:horikita-suzune] (p.325) “Of course, you are one of those people, too. I never know what you’re thinking, and you can be uncooperative, but… you are, both to the class and to me, absolutely essential.”
+[rel:horikita-suzune] (p.323–326) She told him — he must keep growing — she calls him essential; he will teach her what winning feels like until she learns it.
+[rel:kushida-kikyou] (p.324) Her anchor — “I chose to keep Kushida-san, and that that choice was correct.”
+[rel:hasebe-haruka] (p.324) Still unresolved — “I still don’t know what I should do about her.”
+[rel:sudou-ken] (p.323) Three consecutive victories — the Class Change Ticket vs 2M — both picked private points.
+[rel:onodera-kayano] (p.323) First in each individual ranking — the doubles pact works.
+[rel:kouenji-rokusuke] (p.323) Ten individual firsts but second overall — the sports festival is not about one person anymore.
+[rel:ichinose-honami] (p.323) Third place.
+[rel:ryuuen-kakeru] (p.323) Second place.
+[rel:sakayanagi-arisu] (p.323) Fourth place.
+[note] (p.326) “After I’ve seen you grow a bit more—— I will leave your class. I won’t tell her now, but someday, Horikita, too, will know why.” — his private plan to leave once she's grown — recorded as his own narration; not shared with her on these pages.
+[note] (p.326) “There is a future where I wish and hope that it will not be certain. I know the answer, but paradoxically, I hope I am wrong.” — his hope to be defeated; his private contradiction — recorded.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -196,6 +196,12 @@ char_id: onodera-kayano · status: minor
 [note] (p.298) The “Yeah!” Sudou's victorious hug — she squeals in pain as he crushes her — he apologizes fast.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.323–323 — Ch.6: Onodera — Class Change Ticket vs 2M
+[mentioned] (p.323) “the Sudou-Onodera pair took first place in each individual ranking.” — she won every individual event with him; “And while Sudou and Onodera won the right to change classes, both of them picked private points without hesitation.”
+[rel:sudou-ken] (p.323) Her doubles partner — first in every individual ranking.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

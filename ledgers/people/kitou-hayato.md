@@ -194,9 +194,10 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.11) Passing mentions on pages: p.22-23, p.44, p.168, p.170-171, p.176-177.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.305–305 — Ch.6: Kitou — the other Class A promise
+[mentioned] (p.305) Sakayanagi: “And while we have promising students such as Kitou-kun and Hashimoto-kun, on average we aren’t as good as Horikita-san’s class.” — Kitou is named as one of Class A's promising athletes.
 
-
-
+<!-- walk: y2v6 Ch.6 → p.326 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->
