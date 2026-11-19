@@ -9317,6 +9317,168 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.60) She is not bringing up teams either.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.64–66 — Ch.2: Yousuke seeks him out — class problems
+[scene] (p.64) Monday after school, right after some students leave for fun, Hirata Yōsuke hurried to catch up with him; AK expected this — Hirata was frustrated by the class's problems and would reach out sooner or later; he keeps his surroundings in mind and makes the request in a low voice.
+[says:hirata-yousuke] (p.64) “Hey, Kiyotaka-kun. Can you make some time this evening? I need your advice on a few things.”
+[says] (p.65) “I have plans with Kei this evening. How about right now, would that work?”
+[says] (p.65) “Just kidding. I’ll speak to Kei. We’ll have our date sometime later.”
+[says] (p.65) “Just to confirm again, you need my advice?”
+[says] (p.65) “Hmm. Anyway, if you’re fine with my room, the evening is yours.”
+[says:hirata-yousuke] (p.65) “If possible, could you ask Karuizawa-san to attend as well? It would be a great help.”
+[says] (p.66) “Then… how about 7:30?”
+[scene] (p.66) AK lies that he has plans with Kei to feel him out; Hirata can't accept right now — his club activities leave no time — but AK concedes to 7:30 in his room; Hirata wants Kei along for her information network on the girls — Kushida, Shinohara, Haruka and the rest; AK mentally logs it as “Class Problem no. 2, indeed.”
+[says:hirata-yousuke] (p.66) “That’ll be fine. I’ll be there on the dot.”
+[thinks] (p.66) “Class Problem no. 2, indeed.”
+[rel:hirata-yousuke] (p.64–66) He is desperate about the class's problems and comes first to AK; he asks Kei to attend as well.
+[rel:karuizawa-kei] (p.66) He wants her information network on the girls; “It would be a great help.”
+
+### y2v6 p.67–81 — Ch.2: Kei comes early — omurice; the girls' gossip; the Yousuke talk
+[scene] (p.67–69) She arrives at 5:30 — far earlier than 7:30 — with a cat sticker and dinner plans; AK gives up cooking for the moment; she curls up next to him; the girls accept the relationship “pretty smoothly,” but everyone is all about “the Hirata Yousuke brand” — girls call it a waste; some wonder if Yousuke dumped her; AK's reputation rose exponentially after the expulsion; he makes omurice with ketchup.
+[says:karuizawa-kei] (p.68) “Maybe it’s because I’m always in your room lately, Kiyotaka, but I’m getting used to it—like it’s my own room.”
+[says:karuizawa-kei] (p.68) “E-ehh? It’s a bit embarrassing and…w-well, maybe one day if I feel like it!”
+[says:karuizawa-kei] (p.68) “The girls? Surprisingly, they’re accepting it pretty smoothly, I guess? Or like… nevermind.”
+[says:karuizawa-kei] (p.68) “Well, y’know? It’s that, for now, everyone’s all about the Hirata Yousuke brand. There are quite a lot of girls saying it’s a waste.”
+[says:karuizawa-kei] (p.69) “In a way, I’m taking hits because of it too. Even though it’s supposed to be that I broke things off with Yousuke-kun, people are wondering if, actually,…he dumped me.”
+[says:karuizawa-kei] (p.69) “But like, that’s only some of them. These days, your reputation has also been going up expotentially.”
+[says:karuizawa-kei] (p.69) “I’d like the ketchup to be a bit thicker please, chef.”
+[scene] (p.70–73) She hugs him from behind while he cooks onion squares; won't let go; he prods her about the drop in efficiency; she mutters she is happier than ever; he tells her there must be “more amazing sources of happiness out there”; she lies across his lap; the talk turns to Shinohara — Kei and the others made fun of Ike and Shinohara; Shinohara won't even talk to Kei; Kei has tried talking it out “but it's kinda like she's disapproachable right now”; AK tells her the one thing to avoid is the target overhearing; he tells her he'll think about it.
+[says] (p.73) “Do you and the others hate Shinohara?”
+[says:karuizawa-kei] (p.73) “I don’t hate her at all. Shinohara-san’s a fun girl, like, she’s well known for brightening the mood.”
+[says] (p.73) “And? You aren’t stopping at just feeling bad, right? Did you do anything about it?”
+[says:karuizawa-kei] (p.73) “I tried talking it out, about all the misunderstandings… no, about how I hurt her, but it’s kinda like she’s disapproachable right now.”
+[says:karuizawa-kei] (p.73) “That, yeah that… th-that was on purpose, ’kay?”
+[says:karuizawa-kei] (p.73) “You’re asking me?”
+[says:karuizawa-kei] (p.73) “Isn’t it obvious? If it’s you, Kiyotaka, I’m sure you’ll come up with a clever plan.”
+[says] (p.73) “I’m still thinking about that now. Give me a little more time.”
+[scene] (p.74–78) She asks a weird question — “You know how you chose to expel Sakura-san… If—” then chokes on her words; he preempts her: “Are you curious about what I would’ve done if you had the lowest score in the OAA?”; she asks whether, had she been completely different and friendless, he would have expelled her — he admits he would have; she poured out her anxiety — his answers about why Horikita was wrong yet meaningful, the hurdle scenario (“just go for it”), the empty theory of Kushida as an “important piece in awakening Horikita Suzune as a leader”; by 7PM he washes the dishes; she begs him to sit with her.
+[says] (p.74) “Are you curious about what I would’ve done if you had the lowest score in the OAA?”
+[says] (p.74) “I said it at that time with Ike; even if you had similar scores, the difference between the number of friends you have would be overwhelming. I wouldn’t expel you.”
+[says] (p.75) “That argument is meaningless. In that hypothetical, Karuizawa Kei would be a completely different person. If that were the case, you and I wouldn’t have developed our relationship to what we have right now.”
+[says] (p.75) “If your abilities were like you just said, then I guess you would’ve.”
+[says] (p.75) “It’s not like I don’t understand why you’d feel hurt, but that person isn’t you. It really is a different person. You were bullied and hurt, and established your position amongst the girls in order to reverse the situation once you became a high schooler. You used Yousuke, and met and went out with me. That’s Karuizawa Kei, right?”
+[says] (p.76) “Do you know what Kushida has that Airi doesn’t?”
+[says] (p.76) “It’s the possibility that she becomes an important piece in awakening Horikita Suzune as a leader. She might become something to Horikita that neither you nor Yousuke could; someone she could call a partner.”
+[says] (p.76) “Horikita herself probably hasn’t understood that fully just yet. She just trusted her instincts in a tight situation where she had no time to spare.”
+[says] (p.76) “That’s right when it comes to the superficial reasons. But what’s most important isn’t that.”
+[says] (p.77) “A perspective that only Kushida has. Thoughts that only Kushida has. Statements that only Kushida can make. Those are things she could do regardless of her popularity. And those will support Horikita.”
+[says] (p.78) “What do you think you should do to ensure you get over that hurdle?”
+[scene] (p.79–81) Kei drags him onto the bed; by the doorbell they kiss; “I love you…”; the tranquility is broken by the doorbell — Hirata arrives still in his uniform (Keyaki Mall with his seniors after club activities); AK brings him tea; Hirata asks him for advice on the class — “going into the Sports Festival would be dangerous. I’m sure Karuizawa-san also understands.”
+[says:hirata-yousuke] (p.81) “I went to Keyaki mall with my seniors after our club activities, you see.”
+[says] (p.81) “Welcome, make yourself home~”
+[says] (p.81) “So, what did you want my advice on?”
+[says:hirata-yousuke] (p.81) “Yeah, it’s about the class. As we are right now, going into the Sports Festival would be dangerous. I’m sure Karuizawa-san also understands. I feel like the girls would find it especially hard to work together.”
+[rel:karuizawa-kei] (p.67–81) Girlfriend; early-bird dinner; the gossip pipeline; her Anxiety about the exam; he kisses her and holds her until the doorbell breaks the spell.
+[rel:shinohara-satsuki] (p.72–74) Shinohara won't talk to Kei; Kei wants a plan to fix it; AK takes time to think.
+[rel:kushida-kikyou] (p.76–78) Kei doubts Horikita's decision to keep her; AK argues Kushida is Horikita's possible key to her leadership.
+[rel:hasebe-haruka] (p.77) Kei notes Hasebe-san is “more resentful of you, Kiyotaka.”
+[rel:hirata-yousuke] (p.64–66, 80–81) The advice-seeker; arrives after their Keyaki Mall senior outing; the Sports Festival talk begins.
+[rel:sakura-airi] (p.74–75) The exam's first theme of the night: what if Kei had scored lowest.
+
+### y2v6 p.82–89 — Ch.2: Yousuke's honest confession — take it to Horikita
+[scene] (p.82–84) AK tells him: don't come to AK, take the conversations to Horikita, the class leader — even if you think she has her hands full with Kushida; Yousuke honestly admits he would still come to AK; AK warns relying on him forever will never grow her into a true leader — as a leader like Ryūen, Sakayanagi or Ichinose would be treated; he must come to AK only after Horikita says her hands are full; Yousuke protests it's not a test — the class's mental state is critical.
+[says] (p.82) “Then, moving forward I want you to take these conversations not to me, but to Horikita, the leader of the class.”
+[says] (p.82) “So, if I was taking care of Kushida, would you guys go to Horikita?”
+[says:hirata-yousuke] (p.82) “Horikita-san is doing a great job, but Kiyotaka-kun would be able to see the big picture, and make the right call. That’s what I thought.”
+[says:karuizawa-kei] (p.82) “Me too, y’know? Like, if I left it to you, you’d come up with the perfect answer.”
+[says] (p.82) “I think I told you this in the last Special Exam as well. You won’t be able to rely on me forever. Even if you’re not sure, you should take these conversations to Horikita first. If you don’t follow that process, it would be wrong.”
+[says] (p.82) “It will be a burden on her. I’m not sure if she’ll come up with a solution. So I can’t rely on her, won’t rely on her. If you do that, do you think Horikita will ever become a true leader? What if it was a leader like Ryuuen, Sakayanagi or Ichinose? Even if you’re already handling it, if you had any concerns, would you not take it to them first?”
+[says] (p.83) “Even a failure is a learning opportunity. Everybody starts at 1 + 1. Of course, Horikita is already well beyond that stage, but she still overwhelmingly lacks experience.”
+[says] (p.83) “I’d rather you came to me with this only after she tells you that she has her hands full with Kushida.”
+[says] (p.83) “Kei. Is your feud with Shinohara at such a dangerous stage?”
+[says:hirata-yousuke] (p.84) “Of course not. I am going to do everything I can,”
+[says] (p.84) “That’s good. If both of you handle this well with Horikita at the lead, I reckon you could make it through most of the problems.”
+[says] (p.84) “Of course, there are bound to be things you won’t be able to fix even if you work with her. I’ll help you out with those.”
+[scene] (p.84–89) Around 8PM, Kei leaves; Yousuke stays behind; AK tells him plainly he has no immediate solution for Haruka and Kushida — but Mii-chan is different; the crude method: meet her, accept her feelings, date her — she'd come back tomorrow; Yousuke recoils (“I don't want to recommend this option” — she will only end up deeply hurt; he feels it doesn't sit right); AK tells him that denying many rejected students is its own cruelty — he could either date her honestly or lie he likes her; Yousuke's guilt: his hands remember pressing the Support button; his doubt — stronger or broken; his fear of the next time; his declaration — “I believe in you”; his resentment only over Airi — but he wants to believe in AK.
+[says:hirata-yousuke] (p.84) “Umm… if you’re okay with it, can we talk? Just the two of us?”
+[says:hirata-yousuke] (p.85) “Kiyotaka-kun. I will go to Horikita-san tomorrow. But—as of now—do you have a clear way to solve this in mind?”
+[says] (p.85) “In all honesty, I don’t have any ideas for an immediate solution for Haruka and Kushida. I’m hoping you guys will discuss and show me a good way.”
+[says:hirata-yousuke] (p.85) “So… that isn’t the case with Mii-chan?”
+[says] (p.85) “Well, you should meet Mii-chan and accept her feelings, Yousuke.”
+[says] (p.85) “If it wasn’t you, Yousuke, I wouldn’t even talk about such an absurd method. But, you have experience with being in a fake relationship, when Kei asked you to. So I thought it could be possible.”
+[says] (p.86) “I don’t want to recommend this option, but that’s wrong. I don’t know when exactly Mii-chan fell in love with you, but you can’t deny that many students did so not long after you entered the school. So, the price of you protecting Kei from bullying by going out with her is that, quite possibly, there are girls who you indirectly rejected and therefore hurt by that lie.”
+[says] (p.86) “If, right now, Mii-chan hugged you while crying, and said she’d never go to school again if you didn’t go out with her, what would you do? Would you shoot her down, saying you just couldn’t pretend?”
+[says] (p.86) “If you can’t reject her, you would have two choices. You could tell her you don’t like her but still date her, or you could lie to her that you do like her and date her.”
+[says] (p.87) “I know what you felt at that time, Yousuke. I knew you weren’t on board with expelling Airi, as she hadn’t done any harm in that exam. But you still went along with us. At the very end, you could’ve said you would never accept it, but you refrained from doing so.”
+[says] (p.87) “Hasebe-san, Kushida-san and Mii-chan are absent from school. How long will that continue? Our classmates are terrified of the new reality, that they could get down for their lack of ability. The class that was cheerful until just last week is becoming quiet again, as if it was all a lie.”
+[says] (p.87) “I understand very well that you don’t agree with the choice Horikita and I made. But, you have no choice but to accept it. You just have to think about and reflect on the strength of this class. And that is why Horikita needs all the help she can get. She could pick the right path or the wrong one, or maybe even an uncertain path.”
+[says] (p.88) “That’s alright. You helped Horikita and me out so many times during the Special Exam. I can tell that we’ll have tougher battles ahead of us. I want you to remain as you are and keep helping the class.”
+[says:hirata-yousuke] (p.89) “… Thank you for everything today.”
+[says] (p.89) “Well then, good night.”
+[says] (p.89) “Do you resent me for expelling Airi?”
+[note] (p.84) Yousuke's line “Of course not. I am going to do everything I can,” is printed in the corpus with a trailing comma and closing quotation — kept as printed.
+[rel:hirata-yousuke] (p.82–89) Hirata breaks down in front of him: his hands remember the Support button; AK points him at Horikita, and tells him the only crude path for Mii-chan; “I want you to remain as you are and keep helping the class.”
+[rel:horikita-suzune] (p.82–84) AK redirects Hirata's help to Horikita — the only way she grows into a leader.
+[rel:wang-mei-yu] (p.85–86) The “crude” Mii-chan option is laid out for Hirata — accept her feelings and date her — he recoils.
+[rel:hasebe-haruka] (p.85, 87) No immediate solution for Haruka.
+[rel:kushida-kikyou] (p.85, 87) No immediate solution for Kushida.
+[rel:sakura-airi] (p.74–75, 85–89) The expulsion's weight — his direct question to Hirata: does he resent him for expelling Airi? Hirata: “… For just that, yes. But I believe in you. … No. I want to believe in you.”
+
+### y2v6 p.90–100 — Ch.2: Sudō's bathroom call; Onodera's doubles pact; gym scouting
+[scene] (p.90–91) The next day the three vacant seats remain; during a break, Sudō calls him out to the bathroom — a serious expression, the toilet is an excuse; on the way, Onodera catches them — she was waiting for Sudō to leave; she asks about his ambitions — he obviously aims first on the boys' side; she is also betting on the festival — first place girls' side would be one step closer to Class A.
+[says:sudou-ken] (p.90) “Yo. Wanna go to the toilet with me?”
+[says:onodera-kayano] (p.91) “Sudou-kun. Can we talk about something?”
+[says:onodera-kayano] (p.91) “Ah… you were with Ayanokouji-kun. I see, you guys were talking about something?”
+[says:onodera-kayano] (p.91) “Um, what should I do?”
+[says:onodera-kayano] (p.91) “Is it fine if I wait here? I wanted to talk about this as soon as possible.”
+[says:sudou-ken] (p.91) “Alright, let’s hear it. I’ll make Ayanokouji wait.”
+[says:sudou-ken] (p.92) “Of course. This sports festival is my biggest chance to shine after all. You didn’t even have to ask,”
+[says:sudou-ken] (p.92) “Thanks. But, let’s say I managed to win a bunch of individual competitions, there’s still no guarantee I’ll take first place, right?”
+[says:sudou-ken] (p.92) “If it’s you, you might get first place. I’m seriously rooting for you.”
+[scene] (p.92–95) Onodera's pitch: team events hold most of the points; doubles events where they'd surely win; some allow mixed pairs; she wants to pair with him — she'd choose the best possible partner; Kōenji is better in ability but she can't trust him — she hates him more than anything; if Sudou refuses she'd have to go it alone; Sudou shaken by Horikita's name, then regains composure — “… Alright then, Onodera. Let’s pair up?” — arm extended, firm handshake — “Let’s get both first places at all costs.”
+[says:onodera-kayano] (p.93) “Yeah. I wasn’t thinking of large team events either. But—what about doubles events we would surely win? And, on top of that, a few of those events allow participation from mixed pairs.”
+[says:onodera-kayano] (p.93) “If you and I worked together, Sudou-kun, there’d be nothing to be worried about. I’m thinking, if I have to join with someone, I want to choose the best possible partner, you know?”
+[says] (p.93) “Am I not good enough?”
+[says] (p.93) “It ain’t that. As if I could complain about your abilities, Onodera.”
+[says:sudou-ken] (p.94) “Eh? N-no, that’s not…”
+[says:sudou-ken] (p.94) “There’s also Kouenji, right? I don’t wanna admit it, but that dude is better than me.”
+[says:onodera-kayano] (p.94) “In terms of ability, sure. However, I can’t trust Kouenji-kun. I hate him more than anything, after all.”
+[says:sudou-ken] (p.94) “If I said no… what would you do?”
+[says:onodera-kayano] (p.94) “That’s why, if you reject me, Sudou-kun, I think I’d just have to do whatever I can on my own?”
+[says:sudou-ken] (p.95) “… Alright then, Onodera. Let’s pair up?”
+[says:onodera-kayano] (p.95) “Really?”
+[says:sudou-ken] (p.95) “Yeah. With our power, let’s support our class!”
+[says:onodera-kayano] (p.95) “Nice to be working with you, Sudou-kun. Let’s get both first places at all costs.”
+[scene] (p.95–97) Sudou admits AK he was about to turn Onodera down for wanting to pair with Horikita; AK tells him it was better without feelings distracting; Sudou asks for advice on Shinohara and Kanji — their relationship is awkward since Kushida's leak; AK probes — it's funnier to see them break up? Sudou says he wants it to go well; AK says they need someone on the scene to control it — someone to lend an ear and hear both out, and calm the situation if it goes south; “Hirata?” Sudou figures it out; AK tells him he thought of it himself.
+[says:sudou-ken] (p.95) “Didn’t expect it to turn out this way, but it’s for the best, right?”
+[says] (p.95) “I think so. You may have wanted to pair up with Horikita, but it’s better to pair up with Onodera, so you can exert 100% of your power without your feelings distracting you.”
+[says:sudou-ken] (p.95) “Anyway, the thing I wanted to talk about… it’s the stuff with Shinohara and Kanji.”
+[says:sudou-ken] (p.96) “Honestly, their relationship is kinda awkward right now. I don’t think that’s good.”
+[says:sudou-ken] (p.96) “I was only messing around when I said that. I want their relationship to go well. I mean it.”
+[says:sudou-ken] (p.96) “Unfortunately though, I don’t have much of a relationship with them. There’s nothing in particular I can really do.”
+[says] (p.96) “If I said no… what would you do?”
+[says:sudou-ken] (p.96) “Can you at least give me some advice?”
+[says] (p.96) “I can’t come up with a plan without talking to them. For the moment, if I can set aside whether what Kushida said was true or not, I’d say they need to lay their feelings bare to one another.”
+[says:sudou-ken] (p.96) “Ain’t that dangerous? It might make the situation worse than it is now.”
+[says] (p.96) “I suppose. That’s why you need to have someone on the scene to control the situation. They need someone to lend an ear and hear both of them out, and in case the conversation goes south, calm down the situation.”
+[says:sudou-ken] (p.96) “I… I can’t do that, you know?”
+[says] (p.97) “If that’s the case, you have no choice but to get someone who can.”
+[says:sudou-ken] (p.97) “If Kushida was genuine, wouldn’t she have filled this kind of role?”
+[says] (p.97) “Yeah. Right now she’s no good. If you can’t rely on Kushida, you’ll just have to find someone else.”
+[says:sudou-ken] (p.97) “So, Hirata?”
+[says:sudou-ken] (p.97) “Right. I’ll bow my head and make him help me.”
+[says:sudou-ken] (p.97) “Thanks, Ayanokouji.”
+[says] (p.97) “I haven’t done anything. You thought about it and came up with the answer yourself.”
+[scene] (p.98–100) The same day, everyone practices for the Sports Festival in the gym and grounds; AK and Yousuke scout — Class A's passion and baselines, certainly following Sakayanagi's instructions; Ichinose's and Ryūen's classes fumbling; no one from Horikita's class; AK tells Yousuke about Sudou and Onodera's doubles pact; Yousuke notes Sudou asked him to meet after school before club activities — about Shinohara most likely; Yousuke says what about Mii-chan — AK: “I’m thinking of taking a shot at that one.” — Mii-chan is the only case needing his direct help.
+[says:hirata-yousuke] (p.98) “You can see how serious Class A is about this.”
+[says] (p.98) “Right. It’s because a pure sports-based class competition isn’t Class A’s forte.”
+[says:hirata-yousuke] (p.99) “We’re not done with the Unanimous Consent Special Exam yet. It’s not easy to practice under these circumstances, is it?”
+[says] (p.99) “Certainly, there are still grounds for concern. But it’s not necessarily all doom and gloom.”
+[says:hirata-yousuke] (p.99) “Speaking of which, Sudou-kun asked me to meet him after school, before club activities start. Maybe you had a hand in this, Kiyotaka-kun?”
+[says] (p.99) “I haven’t done anything. Surely, Sudou thought of it himself and decided to rely on you?”
+[says:hirata-yousuke] (p.99) “It’s probably something to do with Shinohara-san, right?”
+[says] (p.99) “Sudou must also have thought that we couldn’t leave it like this.”
+[says:hirata-yousuke] (p.100) “But what about Mii-chan?”
+[says] (p.100) “I’m thinking of taking a shot at that one.”
+[rel:onodera-kayano] (p.90–95) Her doubles proposal: pair up and go for first place girls; she'd choose Sudou because he's the best partner; she leads the girls; the swimming ace; she roots for him; she can't trust Kōenji.
+[rel:sudou-ken] (p.90–97) Sudou asks for a bathroom talk; he partners with Onodera; he asks him for Shinohara/Ike rescue advice; he decides to bow to Hirata for help.
+[rel:sakayanagi-arisu] (p.98–99) Class A's baseline training is certainly following her instructions; no Horikita-class students are at the gym.
+[rel:ichinose-honami] (p.98) Her class is fumbling along with Ryūen's.
+[rel:hirata-yousuke] (p.99) Sudou asked him to meet after school; likely about Shinohara.
+[rel:wang-mei-yu] (p.100) The only case requiring AK's direct help — Mii-chan.
+[rel:kushida-kikyou] (p.97) “Right now she's no good.”
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

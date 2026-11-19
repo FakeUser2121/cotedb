@@ -129,6 +129,14 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:shinohara-satsuki] (p.60) Shinohara still not talking to her — the couple incident's fallout.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.73–74 — Ch.2: The secretary of the Shinohara situation
+[scene] (p.73) AK narrates: Matsushita had already given him a brief explanation of the Shinohara fallout — he also has to hear it from Kei as well; the “Kei, Matsushita, Mori and the rest” trio — Kushida's leak about their making fun of her appearance got behind Shinohara.
+[mentioned] (p.73) Matsushita and Mori may soon face a flipped campaign — Shinohara's friends might openly bad-mouth “Kei, Matsushita, Mori and the rest.”
+[rel:karuizawa-kei] (p.73) Kei is the one whose Shinohara situation is explained in parallel by Matsushita.
+[rel:shinohara-satsuki] (p.73) The Shinohara situation's brief was already given by Matsushita.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

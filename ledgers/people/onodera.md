@@ -117,9 +117,10 @@ char_id: onodera · class: Class 1-D · status: minor
 [note] (p.11) Passing mentions on pages: p.5, p.90-95, p.99, p.183, p.246-247.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.90–97 — Ch.2: Onodera Kayano — the doubles pact
+[mentioned] (p.90–97) “Onodera” is printed with no given name on these pages; the roster row onodera-kayano carries the scene detail — this legacy roster row is flagged as a duplicate of onodera-kayano for owner resolution; the doubles pact (Sudou as partner, aiming for first place at all costs) is written in full there.
 
-
-
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

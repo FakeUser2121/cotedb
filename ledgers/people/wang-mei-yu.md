@@ -164,6 +164,16 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.59) “her love for Yousuke was exposed” — as printed; identity of the Yousuke is inferred only from the name; recorded as printed.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.76–100 — Ch.2: The crude plan — date her, and she'll return
+[scene] (p.76) AK narrates the exam's shadow over Kei — Mii-chan's absent seat among the three.
+[scene] (p.85–86) AK lays out the “crude but forceful method” to Yousuke for Mii-chan: meet her and accept her feelings — date her — and she would go back to school tomorrow; Yousuke recoils — she will only end up deeply hurt later; AK insists: he can't deny many rejected students; he could either date her (“Actually, I like you too, Mii-chan. Please go out with me.”) or lie about it.
+[mentioned] (p.100) Yousuke: “But what about Mii-chan?” AK: “I'm thinking of taking a shot at that one.” — Mii-chan is the one case requiring his direct help.
+[note] (p.85) AK puts a proposed script in his own mouth for Hirata to consider — the corpus prints it as quoted text: “‘Actually, I like you too, Mii-chan. Please go out with me.’” — the crude method as printed.
+[rel:hirata-yousuke] (p.85–86) The target of the “crude” proposal; his recoil drives the conversation.
+[rel:ayanokouji-kiyotaka] (p.85–86) He cannot deny that many girls were hurt by the fake dating story — he still puts the option on the table as a lever.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

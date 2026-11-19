@@ -518,6 +518,16 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:kushida-kikyou] (p.28) Expelled in Kushida's place — the price Horikita's choice imposed on her.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.76–87 — Ch.2: The exam's second wound — named in the crisis talk
+[mentioned] (p.76–77) Kei: “Horikita-san … she'll only be in the way, right?” AK: “She's fully aware that Haruka and those that were involved resent her.”
+[mentioned] (p.77) Kei: “But isn't Hasebe-san more resentful of you, Kiyotaka?” AK: “That's right.”
+[mentioned] (p.85) Hirata: “So… that isn't the case with Mii-chan?” AK: “In a way.” — Haruka is in the same no-immediate-solution category.
+[mentioned] (p.87) Hirata names her — “Hasebe-san, Kushida-san and Mii-chan are absent from school.”
+[rel:ayanokouji-kiyotaka] (p.76–87) Haruka resents him more than anyone — his own reading, confirmed by Kei's question.
+[rel:kushida-kikyou] (p.87) Both absent; two of the three wounds.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

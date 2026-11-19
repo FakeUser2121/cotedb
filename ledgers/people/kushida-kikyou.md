@@ -1609,6 +1609,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:wang-mei-yu] (p.28) Also absent; the third wound.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.66–97 — Ch.2: The Kushida situation — Hirata wants help; no instant fix
+[mentioned] (p.66) Hirata's request itself: the girls' side problems — Kushida, Shinohara, Haruka and the rest.
+[scene] (p.76–78) AK's theory to Kei: Kushida is Horikita's possible catalyst — “an important piece in awakening Horikita Suzune as a leader”; Kei: “She'll only be in the way, right?”
+[mentioned] (p.82) Yousuke: “Horikita-san has her hands full with what's going on with Kushida-san.”
+[mentioned] (p.85) AK: “I don't have any ideas for an immediate solution for Haruka and Kushida.”
+[mentioned] (p.87) Hirata: “Hasebe-san, Kushida-san and Mii-chan are absent from school.”
+[mentioned] (p.97) Sudou relays the Shinohara plan rationale: “If Kushida was genuine, wouldn't she have filled this kind of role?” AK: “Yeah. Right now she's no good.”
+[rel:horikita-suzune] (p.76–82) Kushida is Horikita's possible catalyst; her hands are full with Kushida.
+[rel:hirata-yousuke] (p.66, 85) His top problem to talk through; no quick answer for it.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

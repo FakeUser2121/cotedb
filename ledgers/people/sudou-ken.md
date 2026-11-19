@@ -1545,6 +1545,45 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [mentioned] (p.59) Present at the Tuesday homeroom; the three absent students are not.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.90–97 — Ch.2: The bathroom call — Onodera; the Shinohara rescue
+[scene] (p.90–91) The next day the three vacant seats remain unchanged; Sudō calls him to the bathroom with an entirely serious expression; she is waiting for him; she asks about his ambitions — he answers confidently he aims first on the boys' side; then she announces hers: she'll bet on the festival — first girls' place would be one step closer to Class A.
+[says] (p.90) “Yo. Wanna go to the toilet with me?”
+[says] (p.91) “What is it, Onodera?”
+[says] (p.91) “The two of us were heading to the toilet. Is it urgent?”
+[says] (p.92) “Of course. This sports festival is my biggest chance to shine after all. You didn’t even have to ask,”
+[says] (p.92) “Why not. If you keep taking first place —”
+[says:onodera-kayano] (p.93) “Yeah. I wasn’t thinking of large team events either. But—what about doubles events we would surely win? And, on top of that, a few of those events allow participation from mixed pairs.”
+[scene] (p.93–95) She lays out the doubles proposal — mixed pairs allowed; she wants to pick the best possible partner; Kōenji is better in ability but she can't trust him — she hates him more than anything; if Sudō rejects her she'd have to go at it alone; she is quick to temper her ask with honesty; Sudou wavers — “Do you not want to pair up with anyone other than Horikita-san?” — she's correct; embarrassed, he regains composure — “… Alright then, Onodera. Let’s pair up?” — extends his arm; firm handshake — “Let’s get both first places at all costs.”
+[says] (p.94) “Am I not good enough?”
+[says] (p.94) “Do you not want to pair up with anyone other than Horikita-san?”
+[says] (p.95) “… Alright then, Onodera. Let’s pair up?”
+[says] (p.95) “Really?”
+[says] (p.95) “Yeah. With our power, let’s support our class!”
+[says] (p.95) “Nice to be working with you, Sudou-kun. Let’s get both first places at all costs.”
+[says] (p.95) “Didn’t expect it to turn out this way, but it’s for the best, right?”
+[scene] (p.95–97) Sudou admits AK he nearly turned Onodera down because of Horikita; AK tells him pairing with Onodera is better — 100% power without distraction; Sudou brings up Shinohara and Kanji — their relationship is awkward since Kushida's leak; AK probes whether it's funnier to see them break up; Sudou insists he wants it to go well; AK tells him they need someone on the scene to control the situation — someone to lend an ear and calm it if it goes south; Sudou can't do it — “If that's the case, you have no choice but to get someone who can” — “Hirata?”; Sudou figures it out — “Right. I'll bow my head and make him help me.”; AK tells him he thought of it himself.
+[says] (p.95) “… Yeah.”
+[says] (p.95) “Anyway, the thing I wanted to talk about… it’s the stuff with Shinohara and Kanji.”
+[says] (p.96) “Honestly, their relationship is kinda awkward right now. I don’t think that’s good.”
+[says] (p.96) “I was only messing around when I said that. I want their relationship to go well. I mean it.”
+[says] (p.96) “Unfortunately though, I don’t have much of a relationship with them. There’s nothing in particular I can really do.”
+[says] (p.96) “Can you at least give me some advice?”
+[says] (p.96) “I can’t come up with a plan without talking to them. For the moment, if I can set aside whether what Kushida said was true or not, I’d say they need to lay their feelings bare to one another.”
+[says] (p.96) “Ain’t that dangerous? It might make the situation worse than it is now.”
+[says] (p.96) “I… I can’t do that, you know?”
+[says] (p.97) “If Kushida was genuine, wouldn’t she have filled this kind of role?”
+[says] (p.97) “So, Hirata?”
+[says] (p.97) “Right. I’ll bow my head and make him help me.”
+[says] (p.97) “Thanks, Ayanokouji.”
+[note] (p.95) The line “If I said no… what would you do?” appears twice in the corpus — once here (Onodera asking Sudō) and once on p.96 (Sudō asking AK) — the ledger rows carry their own page anchors.
+[rel:onodera-kayano] (p.90–97) His doubles partner; the girls' ace; her mixed-pairs plan; she took him even after the Horikita hesitation.
+[rel:ayanokouji-kiyotaka] (p.90–97) Calls him to the bathroom with a serious face; AK coaches him through the Shinohara situation; he realizes the answer himself (Hirata).
+[rel:horikita-suzune] (p.93–95) He nearly turned Onodera down out of loyalty to pairing with Horikita; Onodera noticed and pressed.
+[rel:hirata-yousuke] (p.97) He decides to bow his head and ask Hirata for help with Shinohara and Kanji.
+[rel:shinohara-satsuki] (p.95–96) Their relationship is awkward since Kushida's leak; he wants it to go well.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

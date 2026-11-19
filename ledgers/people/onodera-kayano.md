@@ -110,6 +110,33 @@ char_id: onodera-kayano · status: minor
 [rel:sudou-ken] (p.342–344) Her doubles partner — he hugs her (then worries he hurt her); she's interested in him and wants to keep improving to match him.
 [rel:housen-kazuomi] (p.342) They beat him in doubles; he smashed his racket in frustration.
 [rel:horikita-suzune] (p.343–344) Sudō keeps looking for "Suzune" — Onodera teases him ("Hahaha, absolutely not").
+
+### y2v6 p.90–97 — Ch.2: The doubles pact — first place at all costs
+[scene] (p.90–94) She catches them leaving the classroom — she was waiting for Sudō; she asks about his ambitions — he aims first on the boys' side, confidently; she announces her own: she's betting on the festival too — first girls' place would be one step closer to Class A; the swimming ace; remarkable physical ability; she lays out the pitch — doubles events they'd surely win, some mixed pairs; she wants to partner with him — the best possible partner; Kōenji is better in ability but she can't trust him — she hates him more than anything; if Sudou rejects her she'll go at it alone — “That's why, if you reject me, Sudou-kun, I think I'd just have to do whatever I can on my own?”
+[says] (p.91) “Sudou-kun. Can we talk about something?”
+[says] (p.91) “Ah… you were with Ayanokouji-kun. I see, you guys were talking about something?”
+[says] (p.91) “Um, what should I do?”
+[says] (p.91) “Is it fine if I wait here? I wanted to talk about this as soon as possible.”
+[says] (p.92) “The truth is, I’m also betting on this sports festival. If I get first place among the girls, we’ll be one step closer to Class A after all. There aren’t many chances for us to fight in the field we’re good at, right?”
+[says] (p.92) “Thanks. But, let’s say I managed to win a bunch of individual competitions, there’s still no guarantee I’ll take first place, right?”
+[says] (p.93) “Yeah. I wasn’t thinking of large team events either. But—what about doubles events we would surely win? And, on top of that, a few of those events allow participation from mixed pairs.”
+[says] (p.93) “If you and I worked together, Sudou-kun, there’d be nothing to be worried about. I’m thinking, if I have to join with someone, I want to choose the best possible partner, you know?”
+[says:sudou-ken] (p.94) “Eh? N-no, that’s not…”
+[says] (p.94) “Do you not want to pair up with anyone other than Horikita-san?”
+[says] (p.94) “It ain’t that. As if I could complain about your abilities, Onodera.”
+[says] (p.94) “In terms of ability, sure. However, I can’t trust Kouenji-kun. I hate him more than anything, after all.”
+[says] (p.94) “Is there some other capable person in our class that I can trust… Well, I suppose there’s Hirata-kun, but inviting him to pair up with me is kind of… you know? I don’t want to cause any weird misunderstandings.”
+[says] (p.94) “That’s why, if you reject me, Sudou-kun, I think I’d just have to do whatever I can on my own?”
+[says] (p.95) “Really?”
+[says] (p.95) “Nice to be working with you, Sudou-kun. Let’s get both first places at all costs.”
+[note] (p.91–95) The corpus alternates AK's presence; speaker untagged lines are assigned only by the printed alternation; her name is printed “Onodera” — the roster alias onodera-kayano is recorded as the matched person for this volume.
+[rel:sudou-ken] (p.90–97) Her doubles partner; she chose him — first place at all costs.
+[rel:ayanokouji-kiyotaka] (p.90–97) He witnesses the proposal; he roots for her; she distrusts him since the expulsion exam.
+[rel:kouenji-rokusuke] (p.94) Her hard veto: his ability is superior, his trust is not.
+[rel:horikita-suzune] (p.94) Her question that makes Sudou embarrassed — does he want only Horikita as a partner?
+[rel:hirata-yousuke] (p.94) The fallback partner — but she'd rather not cause weird misunderstandings.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -31,6 +31,13 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [rel:matsushita-chiaki] (p.28) Fellow couple-making-fun member; Shinohara not talking to either of them.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.73–73 — Ch.2: The making-fun trio — exposed
+[mentioned] (p.73) “Kei, Matsushita and Mori” — the trio that made fun of her and Ike's couple; Shinohara's flipped bad-mouthing campaign might target “Kei, Matsushita, Mori and the rest” next.
+[rel:karuizawa-kei] (p.73) Fellow couple-making-fun offender; possibly about to face a flipped campaign.
+[rel:matsushita-chiaki] (p.73) Fellow couple-making-fun offender; possibly about to face a flipped campaign.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

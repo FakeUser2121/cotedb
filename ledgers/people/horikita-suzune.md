@@ -3735,6 +3735,16 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hasebe-haruka] (p.59) Also absent; called in sick.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.82–99 — Ch.2: Named — AK routes Yousuke's problems to her
+[scene] (p.82–84) AK tells Yousuke: take these conversations not to him, but to Horikita, the leader of the class — even Yousuke admits he would still come to AK; AK answers that relying on him forever will never make Horikita a true leader like Ryūen, Sakayanagi or Ichinose would be treated; she must learn from failure.
+[mentioned] (p.82) Horikita is “the leader of the class” as AK frames it; Yousuke worries she has her hands full with Kushida.
+[mentioned] (p.98–99) No one from her class was at the gym practicing — the class is unpracticed before the festival.
+[note] (p.82) AK's reasoning on the page is uncompromising — his own preference is that Yousuke comes to him only after Horikita says her hands are full.
+[rel:hirata-yousuke] (p.82–84) Yousuke will take the class's problems to her tomorrow — as instructed.
+[rel:ayanokouji-kiyotaka] (p.82–84) AK channels help toward her; the class's trust rides on her growth.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -720,6 +720,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.46–47) He notices AK eavesdropping; answers his question about whether trust bound him — he never trusted anyone with his life.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.94–94 — Ch.2: The name on the doubles list — rejected outright
+[mentioned] (p.94) Sudou: “There's also Kouenji, right? I don't wanna admit it, but that dude is better than me.” Onodera rejected the idea outright: “In terms of ability, sure. However, I can't trust Kouenji-kun. I hate him more than anything, after all.”
+[rel:onodera-kayano] (p.94) Her hard veto — his ability is acknowledged, his trustworthiness is not.
+[rel:sudou-ken] (p.94) Sudou would admit Kōenji is better; Onodera won't pair with him.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

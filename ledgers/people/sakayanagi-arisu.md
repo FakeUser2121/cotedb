@@ -914,6 +914,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.20) Both readings (Ichinose alliance; the promise) are AK's speculation as printed — recorded, not confirmed.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.82–99 — Ch.2: The Sports Festival chessboard — her class trains
+[scene] (p.82) AK invokes her as a model leader in his speech to Yousuke — “What if it was a leader like Ryuuen, Sakayanagi or Ichinose?” — the class should be spoken to like that.
+[mentioned] (p.98–99) Class A is seriously practicing its baselines in the gym — they must be aiming for event points from small improvements; almost certainly following Sakayanagi's instructions; no one from Horikita's class showed up.
+[rel:ayanokouji-kiyotaka] (p.82) AK names her as a leadership benchmark for Yousuke.
+[rel:ichinose-honami] (p.98) He dismisses both her and Ryūen's classes as fumbling.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -1057,6 +1057,15 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.18) Her close friend Haruka paid the price for her expulsion too — the class's fracture radiates from this page forward.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.74–89 — Ch.2: The exam's shadow — her nameless weight
+[scene] (p.74–76) Kei's anxious midnight question: “You know how you chose to expel Sakura-san on the basis of her OAA in the special exam? If—” — chokes on her words when their eyes meet — “Are you curious about what I would’ve done if you had the lowest score in the OAA?” — he answers fully; she pours out her doubts; he answers her honestly: a friendless, low-status “completely different” Kei would have been expelled; Kei pouts — “‘I would've protected any version of you’. That's the correct answer, ’kay?”
+[mentioned] (p.85) Yousuke: “It's like you're not even slightly weighed by expelling Sakura-san.” AK could not sense any sorrow or anger in his quiet voice.
+[mentioned] (p.87–89) Hirata's confession — his hands remember pressing the Support button for her expulsion; he resents AK for it — “… For just that, yes. But I believe in you.” — “I want to believe in you.”
+[rel:ayanokouji-kiyotaka] (p.74–89) The exam's weight: her name hangs over the Kei talk, the Yousuke confession, and the class's whole near future.
+[rel:hasebe-haruka] (p.85, 87) The closest friend expelled; the wound that powers the Haruka/Keisei/Autho thread.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

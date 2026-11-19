@@ -328,6 +328,19 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:kushida-kikyou] (p.41–42) Kushida hurt her more than anyone; she will not trust her again.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.72–97 — Ch.2: The couple situation — she won't talk to Kei
+[scene] (p.72) Over dinner, Kei brings up Shinohara — her getting exposed had quite an effect — she won't even talk to Kei; AK recharacterizes it: her one sin is being overheard; Shinohara was deeply hurt by Kushida's leaks about her appearance.
+[mentioned] (p.73) Shinohara is deeply hurt; Next time, Shinohara and the others might turn it around and openly bad-mouth Kei, Matsushita, Mori and the rest; the vicious cycle starts easily.
+[mentioned] (p.74) Kei tries to fix her friendship with Shinohara — AK probes her to make peace.
+[mentioned] (p.81) Yousuke: “Honestly, I'm not even thinking about the competition right now.” — he is focused on fixing her and Ike's relationship.
+[mentioned] (p.95–97) The stuff with Shinohara and Kanji — their relationship is awkward since Kushida's leak; Sudou wants it to go well; AK's plan: someone on the scene to control the situation — “Hirata?”
+[rel:karuizawa-kei] (p.72–74) She won't even talk to Kei; Kei at fault too.
+[rel:ike-kanji] (p.72–74, 95) The couple at the center of the making-fun incident; his relationship is awkward since the leak.
+[rel:hirata-yousuke] (p.81, 97) His first problem to fix; the rescue mission's target.
+[rel:sudou-ken] (p.95–97) Sudou takes on bringing their relationship to health.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

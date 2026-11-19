@@ -1489,6 +1489,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.53–58) Her eyes stray away from him during the meal; AK suspects she is being cultivated.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.98–99 — Ch.2: Her class is fumbling at the gym
+[mentioned] (p.98–99) Students from Ichinose's class and Ryūen's class are at the gym but “fumbling about,” unlike Class A's intense squad; AK ranges them into the same tent.
+[rel:sakayanagi-arisu] (p.98) Her class is the only one seriously practicing — the benchmark.
+[rel:ryuuen-kakeru] (p.98) His class is fumbling too.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

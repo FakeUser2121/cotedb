@@ -1079,6 +1079,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:mori-nene] (p.27–28) Mori was one of the people who made fun of him and Shinohara.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.74–96 — Ch.2: The couple situation — awkward since the leak
+[mentioned] (p.74) Kei: “I said it at that time with Ike; even if you had similar scores, the difference between the number of friends you have would be overwhelming. I wouldn't expel you.” — the friendship math.
+[mentioned] (p.95–96) Sudou brings up “the stuff with Shinohara and Kanji” — their relationship is kinda awkward since Kushida's leak.
+[rel:shinohara-satsuki] (p.74, 95) His girlfriend; the one crushed by the leak; the rescue operation's target.
+[rel:karuizawa-kei] (p.73–74) Kei is one of the making-fun trio; she wants her friendship with Shinohara fixed.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -1663,6 +1663,70 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:matsushita-chiaki] (p.44) She agrees — her weekend group backed the same conclusion.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.64–66 — Ch.2: He comes to AK for advice — the class's problems
+[scene] (p.64) Monday after school, right after the students left for fun, he hurried to catch up with AK; frustrated by being unable to find a solution to the class's problems, he reaches out to him; he keeps his surroundings in mind and makes the request in a low voice; he seems to want help with multiple problems at once.
+[says] (p.64) “Hey, Kiyotaka-kun. Can you make some time this evening? I need your advice on a few things.”
+[says] (p.65) “That’s…”
+[says] (p.65) “If possible, could you ask Karuizawa-san to attend as well? It would be a great help.”
+[says] (p.66) “That’ll be fine. I’ll be there on the dot.”
+[scene] (p.65–66) AK hedges with a fake Kei plan; he cannot accept — club activities leave no time this soon after school, and clubs will suspend activities as the festival nears; AK concedes 7:30 in his room; he wants Kei — her information network on the girls; AK mentally logs it as “Class Problem no. 2.”
+[rel:ayanokouji-kiyotaka] (p.64–66) He comes to AK first — he thinks of him as the one who can see the big picture; AK logs him as “Class Problem no. 2.”
+[rel:karuizawa-kei] (p.65–66) He asks for her presence — “It would be a great help.”
+
+### y2v6 p.67–81 — Ch.2: Uniform at AK's door — the class should be feared for the festival
+[scene] (p.80–81) He arrives at AK's room at 7:30 still in his uniform — he went to Keyaki Mall with his seniors after club activities; he arranges his shoes, takes a seat, accepts tea; he tells AK plainly: as the class are right now, going into the Sports Festival would be dangerous — the girls especially would find it hard to work together.
+[says] (p.81) “I went to Keyaki mall with my seniors after our club activities, you see.”
+[says] (p.81) “Thanks for having me.”
+[says] (p.81) “Yeah, it’s about the class. As we are right now, going into the Sports Festival would be dangerous. I’m sure Karuizawa-san also understands. I feel like the girls would find it especially hard to work together.”
+[says] (p.81) “I was just talking to Kiyotaka about Shinohara-san. Honestly, I’m not even thinking about the competition right now.”
+[says] (p.81) “I was wondering if you had any good ideas about that. I want your help, Kiyotaka-kun.”
+[says] (p.81) “Huh? No… this is the first time. If I tried to talk without any preparation, and word got out that I was trying to fix things, I felt like it wouldn’t work out well.”
+[scene] (p.68) He is the “Hirata Yousuke brand” — everyone is all about him; the girls openly talk about how it's a waste for Kei to trade him for an off-brand guy like AK; her getting “exposed,” her arrangements cancelled — the class is a mess.
+[note] (p.68–69) AK's narration: the girls suspect that, actually, Yousuke dumped Kei rather than the other way round — a rumor ecosystem recorded as observed, not fact.
+[rel:karuizawa-kei] (p.65–84) He is the “Hirata Yousuke brand” her switch is measured against; she is his favorite topic with AK; she'd be happy to attend.
+[rel:shinohara-satsuki] (p.81) Shinohara is his first problem — he wants AK's help fixing the couple's awkwardness.
+
+### y2v6 p.82–89 — Ch.2: The truth about the exam — “I believe in you”
+[scene] (p.82–84) AK tells him point-blank: he shouldn't come to AK, he should take the conversations to Horikita — the leader of the class; he admits he would still come to AK; AK answers him fully: relying on him forever will never make Horikita a true leader; Ryūen, Sakayanagi or Ichinose would also be people he'd have to report to first; come to AK only after Horikita says her hands are full; Yousuke says it's not a test — the class's mental state is critical; he'll do everything he can; AK tells him to report to Horikita, and he'll help with what he can't fix.
+[says] (p.82) “I was just talking to Kiyotaka about Shinohara-san. Honestly, I’m not even thinking about the competition right now.”
+[says] (p.82) “I was wondering if you had any good ideas about that. I want your help, Kiyotaka-kun.”
+[says] (p.82) “Huh? No… this is the first time. If I tried to talk without any preparation, and word got out that I was trying to fix things, I felt like it wouldn’t work out well.”
+[says] (p.82) “But I think Horikita-san has her hands full with what’s going on with Kushida-san. Right now, her helping out with the problems of our other classmates───”
+[says] (p.82) “That’s… I wonder. Maybe I would still talk to you, Kiyotaka-kun.”
+[says] (p.82) “Horikita-san is doing a great job, but Kiyotaka-kun would be able to see the big picture, and make the right call. That’s what I thought.”
+[says:karuizawa-kei] (p.82) “Me too, y’know? Like, if I left it to you, you’d come up with the perfect answer.”
+[says] (p.83) “… I get it. I understand what you want to say, Kiyotaka-kun.”
+[says] (p.83) “I understand that it’s important to learn from failure, but this isn’t about marks on a test. I don’t think this situation is one where a bad result just means you’ve got to work harder next time. It’s a critical issue that deals with our class’s mental state. If the cracks in our relationships broke open because of an immature decision… there’s no coming back from that.”
+[says] (p.84) “Of course not. I am going to do everything I can,”
+[scene] (p.84–89) Kei leaves; just the two of them now; AK tells him: Haruka and Kushida have no immediate solution — Mii-chan is different; the crude method: meet Mii-chan and accept her feelings — she'd come back tomorrow; he recoils — deeply hurt later; AK insists he at least considers it — dating her or lying about liking her; Yousuke confesses: his hands remember pressing the Support button; his guilt — “The most important thing… was for our class to reach Class A… I convinced myself with that.”; he breaks down — “Have I become stronger, or has my sense of self broken down?”; he resents AK only for Airi — “… For just that, yes. But I believe in you.” — “I want to believe in you.”
+[says] (p.85) “Kiyotaka-kun. I will go to Horikita-san tomorrow. But—as of now—do you have a clear way to solve this in mind?”
+[says] (p.85) “So… that isn’t the case with Mii-chan?”
+[says] (p.85) “Crude? If it’s something I can do, I think I should try it.”
+[says] (p.85) “What is it?”
+[says] (p.85) “Certainly,”
+[says] (p.86) “Karuizawa and I agreed to date each other as a front because neither of us had any romantic feelings for each other. Pretending to accept Mii-chan’s feelings and dating her is not the same. She will only end up deeply hurt later.”
+[says] (p.86) “That’s───”
+[says] (p.87) “I get it. …That aside, you really are strong, Kiyotaka-kun. It’s like you’re not even slightly weighed by expelling Sakura-san.”
+[says] (p.87) “…I still remember… how my hands felt at that moment.”
+[says] (p.87) “I can never forget. How my fingertips felt when I pressed the Support button on the tablet.”
+[says] (p.87) “The most important thing… was for our class to reach Class A… I convinced myself with that.”
+[says] (p.88) “I─── I wonder… would it have been better to choose to let the time run out…”
+[says] (p.88) “… Have I become stronger, or has my sense of self broken down? I’m scared… I don’t know what choice I’ll make if something like this comes to pass again.”
+[says] (p.88) “I’m sorry, Kiyotaka-kun—you might be the one suffering the most, but I’m saying such weak things to you.”
+[says] (p.89) “… Thank you for everything today.”
+[says] (p.89) “… For just that, yes. But I believe in you.”
+[says] (p.89) “… No. I want to believe in you.”
+[note] (p.84) “Of course not. I am going to do everything I can,” is printed in the corpus with a trailing comma inside the closing quotation — kept as printed.
+[note] (p.87) The “…I still remember… how my hands felt at that moment.” line is printed as one speech across two corpus lines — the second fragment follows immediately in the same quote pair; recorded as one quotation with an ellipsis gap noted.
+[rel:ayanokouji-kiyotaka] (p.64–89) He seeks AK for advice, breaks down in front of him, and ends with “I want to believe in you.”
+[rel:horikita-suzune] (p.82–84) AK orders him to take the class's problems to her — she must learn from failure.
+[rel:wang-mei-yu] (p.85–86) He cannot bring himself to accept her feelings even as the “crude” method; the fake-relationship experience with Kei haunts him.
+[rel:sakura-airi] (p.85–89) He is weighed down by pushing the Support button on Airi's expulsion — “I convinced myself with that.”
+[rel:hasebe-haruka] (p.85) No immediate solution for Haruka.
+[rel:kushida-kikyou] (p.85) No immediate solution for Kushida either.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
