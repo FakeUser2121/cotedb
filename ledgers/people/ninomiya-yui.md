@@ -47,6 +47,11 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
+### y2v3 p.332 — Ninomiya at the regroup
+[mentioned] (p.332) “As Hashimoto and Kamuro chimed in, Ninomiya, a fellow classmate, also nodded along in agreement.” — named as contributing; not present; POV Ichinose.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

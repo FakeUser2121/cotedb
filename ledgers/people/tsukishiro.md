@@ -297,22 +297,45 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
-### y2v3 p.342–346 — Tsukishiro threatens Ichinose; expects his trap to spring
-[scene] (p.342) Arrives (slightly late) with Ichinose's backpack, reining in Shiba from disposing of her; questions her about what she overheard.
-[says] (p.342) "If I'm not mistaken, you're Ichinose Honami from Class 2-C, correct?"
-[says] (p.342) "It's a bit premature to resort to such violent methods, Shiba-sensei."
-[says] (p.343) "I'm not so naive as to trust those words of yours."
-[says] (p.343) "Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san?"
-[says] (p.344) "If you tell a soul about any of this, I'll personally see to it that a group composed entirely of Class 2-C students retires from the exam."
-[says] (p.344) "As the man in control of the rules, fabricating a justification would be trivial."
-[says] (p.345) "It's not your enemies that you should be protecting, but your own classmates."
-[says] (p.346) "I was 99% certain that Nanase-san would fail, but it seems that she's finally taken action."
-[says] (p.346) "If everything goes according to plan, Ayanokōji-kun's Emergency Alert should go off any time now."
-[trait] (p.342–346) Calm, ominous and manipulative — covers for Shiba's brutality, threatens Ichinose with her classmates' expulsion to silence her (knowing she prioritizes them), lets her go to influence Ayanokōji, and waits confidently for his "99% certain" trap to close via Nanase — showing not a trace of uncertainty.
-[rel:ichinose-honami] (p.342–345) Threatens and releases her as a calculated warning.
-[rel:shiba-katsunori] (p.342–345) His subordinate, eager to dispose of Ichinose; Tsukishiro restrains him.
-[rel:ayanokouji-kiyotaka] (p.346) Expects his Emergency Alert to go off — his plan to expel him.
-[rel:nanase-tsubasa] (p.346) Believes she's "finally taken action" (unaware she's about to fail).
+
+### y2v3 p.336–346 — Tsukishiro at the slope (Epilogue)
+[scene] (p.336–346) The forested slope; his conversation with Shiba; the reveal of the White Room; the abandoned backpack; the ice-cold proposal; the smile.
+[says] (p.337) “I asked you to confirm whether or not we’re in the clear to freely take action. How about it?”
+[says:shiba-katsunori] (p.337) “It seems that will be difficult. I’ve found evidence to suggest that the teachers are keeping a keen eye on us. Among them, Mashima seems to be on particularly high alert…”
+[says:shiba-katsunori] (p.337) “Aside from him, there’s one other teacher of note: Chabashira, Class 2D’s homeroom teacher. She’s been searching through all the logs and records.”
+[says:shiba-katsunori] (p.337) “It’s because dragging the teachers into this was one of the few viable options he had left. Be it Chabashira-sensei or Mashima-sensei, there’s no doubt in my mind that their actions link back to Ayanokōji-kun. Since Ayanokōji-kun happened to be at the scene back then, it’s only natural that he managed to figure out the truth.”
+[says] (p.338) “I’ve already altered the logs on our end, so I don’t believe they’ll be able to trace anything.”
+[says] (p.338) “Thank you for that. However, they still might get their hands on something. If so, we’re not going to get another chance. We have to be sure to corner him this time.”
+[says] (p.338) “Will it really be that simple to force his expulsion though? He’s the ─── of the White Room.”
+[says] (p.338) “People are always so caught up with titles. He’s just a ───, that’s ───.”
+[says] (p.338) “If he keeps ─── until the last day, let’s ─── him disappear in I2 ─── planned.”
+[says] (p.342) “…If I’m not mistaken, you’re Ichinose Honami from Class 2-C, correct?” — no wait, that's Shiba. [says:shiba-katsunori].
+[says] (p.342) “Let’s go about this formally. Did you happen to hear anything, Ichinose-san?”
+[says] (p.342) “I’m not so naive as to trust those words of yours. As adults, we always have to assume the worst and act accordingly, so I have no choice but to proceed under the premise that you heard everything.”
+[says] (p.343) “Accidental as it may have been, you still heard it all. Information that should’ve never reached your ears, and yet, here we are.”
+[says] (p.343) “If our conversation earlier were to leak to the public, Shiba-sensei and I would be in a great deal of trouble.”
+[says] (p.343) “That’s not true. I’m speaking now under the firm premise that you did, remember?”
+[says] (p.344) “Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san? Your retirement would be soon to follow.”
+[says] (p.344) “I say that jokingly, of course. As the one entrusted with protecting this school, I would never truly say something like that. …a violent solution if at all possible. Therefore, I’ll offer you a proposal. If you tell a soul about any of this, I’ll personally see to it that a group composed entirely of Class 2-C students retires from the exam.”
+[says] (p.344) “Naturally, this would be a group that doesn’t have the private points they’d need to save themselves.”
+[says] (p.344) “Do you perhaps think it’d be impossible for me to do such a thing? As the man in control of the rules, fabricating a justification would be trivial. There’s no telling what might happen, especially out here on such an unsupervised, vast deserted island.”
+[says:shiba-katsunori] (p.344) “Acting Director Tsukishiro, rather than showing such leniency, wouldn’t it be better to exercise your authority here? If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.”
+[says] (p.344) “You have a point. Well then, what do you think should be done instead, Shiba-sensei?”
+[says:shiba-katsunori] (p.344) “If you’re willing to leave it to me, I’ll handle her myself.”
+[says] (p.345) “Well, I’d rather not waste any more time on this.”
+[says] (p.345) “The port is located about 150 meters straight ahead of us. Do get going, if you would.”
+[says] (p.345) “It’s not your enemies that you should be protecting, but your own classmates. It would do you well to keep that in mind.”
+[says:shiba-katsunori] (p.345) “It’s fine. Just leave her be.”
+[says:shiba-katsunori] (p.345) “Are you sure? If she mentions this to Ayanokōji, it’ll interfere with the plan.”
+[says] (p.345) “Unexpected setbacks happen all the time. That being the case, we’ll just have to adapt.”
+[says] (p.345) “Are you really that worried? I thought I gave her a rather effective warning.”
+[says] (p.345) “Regardless of her relationship with Ayanokōji-kun, the elimination of a formidable enemy like him would be great for Class C. She herself will also come to terms with that as time passes, so let’s just stay calm and see what happens, shall we?”
+[says] (p.346) “I was 99% certain that Nanase-san would fail, but it seems that she’s finally taken action. If everything goes according to plan, Ayanokōji-kun’s Emergency Alert should go off any time now.”
+[trait] (p.336–346) The acting-director-cold logic of a man who controls the rules; his patient confidence; his capacity to fabricate a justification.
+[rel:shiba-katsunori] (p.336–346) His co-conspirator in Ichinose's disposal.
+[rel:ichinose-honami] (p.336–346) The witness he chooses not to eliminate.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4
 

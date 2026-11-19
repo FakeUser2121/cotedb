@@ -1824,23 +1824,84 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+
 ### y2v3 p.234 — Ichinose named by Sakayanagi
 [mentioned] (p.234) “Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.” — named as Sakayanagi's working group; not present; POV Ayanokōji.
 [mentioned] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.” — named by Ryūen; not present; same scene.
 [mentioned] (p.219) “If you run into Ichinose, can you tell her the plan as well?” — named by Ayanokōji; not present; same scene.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
-### y2v3 p.331–345 — Ichinose's broken watch; Tsukishiro's threat
-[scene] (p.331) On the island, her watch breaks (leaving her group unable to earn points or use GPS); she sets off alone to get it fixed, while her group (expanded via a Task and merged with Hashimoto's) aims for the top.
-[says] (p.333) "daytime and all, but it's really cloudy today, so rain…"
-[says] (p.334) "…Alright, but please don't do anything foolish."
-[says] (p.342) "Ah- Uh- Y-yes, that's correct…"
-[says] (p.343) "N-not at all. I didn't hear anything…"
-[trait] (p.331–345) Overhears Tsukishiro and Shiba discussing Ayanokōji's expulsion; terrified, she is threatened by Tsukishiro (if she tells anyone, an all-Class-2-C group will be forced to retire without points to save themselves) and nearly disposed of by Shiba (who pulls out rubber gloves); Tsukishiro lets her go with her backpack and a veiled warning to protect her own classmates rather than enemies — she flees in panic.
-[rel:tsukishiro] (p.342–345) Threatens and interrogates her; lets her go as a calculated "warning" to influence Ayanokōji.
-[rel:shiba-katsunori] (p.342–344) Class 1-D's teacher, who moves to "dispose of" her with rubber gloves.
-[rel:ayanokouji-kiyotaka] (p.345) Tsukishiro's warning targets her loyalty to him; she considers whether to tell him.
-[rel:shibata-sou] (p.331) Her group member, worried about her broken watch.
+
+### y2v3 p.331–334 — The broken watch; the walk back
+[scene] (p.331) 7:00 AM day 7; her watch died in a morning fall (GPS and heart-rate monitor dead); the group is in the southwest of E6; her resolve to return to the starting area and fix/replace it; guilt; Shibata joins her without a second thought.
+[says] (p.331) “What a bother…”
+[says:shibata-sou] (p.331) “Ichinose, is it really broken?”
+[says] (p.331) “Yeah, seems like it. I think it happened this morning when I fell by the river and hit it on a rock.”
+[says] (p.332) “I guess we should be grateful we’re not on the other side of the island, huh?”
+[says:shibata-sou] (p.332) “Yeah, that’s for sure.”
+[says:shibata-sou] (p.332) “For the time being, it looks like we’ll have no choice but to go back.”
+[scene] (p.332–334) The regroup; the D5 first day opposite direction; her resolve to rejoin by third designation; the split with Shibata at the E9 beach.
+[note] (p.332) “Well, since it’s busted I guess there’s no helping it, right Masumi-chan?” — speaker untagged in the print; recorded unassigned (candidate: Hashimoto or Kamuro).
+[note] (p.332) “If you head out now, you might make it back in time for the third area.” — speaker untagged in the print; recorded unassigned (candidate: Hashimoto or Kamuro).
+[says] (p.332) “Sorry you guys. I’ll definitely be back in time for the third designation.”
+[says:shibata-sou] (p.333) “Well, guess I’ll stick with Ichinose.”
+[says] (p.333) “Sorry Shibata-kun, for having to accompany me like this.”
+[says:shibata-sou] (p.333) “It’s not like there’s anything you could’ve done about it, so don’t sweat the apology.”
+[says] (p.333) “Yeah, that’s fair I guess.”
+[says:shibata-sou] (p.333) “We’re going a lot faster than I expected. Good work.”
+[says:shibata-sou] (p.333) “No way. Even though it’s close, isn’t it still dangerous for you to head back alone? The forest is like a maze, you know that. And yeah it’s still daytime and all, but it’s really cloudy today, so rain…”
+[says] (p.333) “Yeah, I know it’s dangerous, but I should be able to make it back to the port from here without getting lost. If we want to catch up to the top groups, we can’t afford to miss out on even a single point. Besides, if it does start raining, we might not be able to meet back up with the others.”
+[says] (p.334) “I just need to walk in a straight line. I’ll be fine.”
+[says:shibata-sou] (p.334) “…Alright, but please don’t do anything foolish. If it starts raining, don’t try to force it, just wait until it stops, okay?”
+[says] (p.334) “Yep, I definitely won’t overdo it. After all, it’d be no laughing matter if I got injured and was made to retire because of it.”
+
+### y2v3 p.334–342 — The forest; the noise; Tsukishiro and Shiba
+[scene] (p.334–338) Lost; the dead tablet; the faint noise; two figures — Tsukishiro and Shiba (Class 1-D homeroom); she trails them; the overheard plot to force Ayanokōji–kun's expulsion; the recognition of her own expulsion risk; his head snaps around; the run; the root; the grab.
+[says] (p.335) “Why does it feel like everything’s gone terribly wrong for some reason…?”
+[says] (p.335) “What… What am I even doing…?”
+[note] (p.338) The sentence pieces she hears over the wind-noise — “He’s the ─── of the White Room.” and “If he keeps ─── until the last day, let’s ─── him disappear in I2 ─── planned.” — recorded as heard through wind; never completed; no fabrication of the blanks.
+[scene] (p.342–346) The hand clamps down from behind; the “I see. So that’s why there aren’t any GPS signals nearby.”; the “If our conversation earlier were to leak...”; the proposal; the saunter off; Shiba's confusion.
+[says:shiba-katsunori] (p.342) “…If I’m not mistaken, you’re Ichinose Honami from Class 2-C, correct?”
+[says] (p.342) “Ah- Uh- Y-yes, that’s correct…”
+[says:shiba-katsunori] (p.342) “Why are you here?”
+[says] (p.342) “U-uhm, well, it seems that my watch is broken, so… I was going to get it looked at…”
+[says:shiba-katsunori] (p.342) “I see. So that’s why there aren’t any GPS signals nearby.”
+[says:shiba-katsunori] (p.342) “It doesn’t really matter how much you heard. Even if it was only a couple of words, for you to get yourself involved in this, well… it simply means you were unlucky.”
+[says] (p.342) “Are… Are you saying that I’m going to be penalized for something?”
+[says:shiba-katsunori] (p.342) “It has nothing to do with the school’s rules or penalties. We’re just going to have to dispose of you. Immediately.”
+[says:tsukishiro] (p.342) “It’s a bit premature to resort to such violent methods, Shiba-sensei.”
+[says:shiba-katsunori] (p.342) “Yes, forgive me.”
+[says:tsukishiro] (p.343) “Let’s go about this formally. Did you happen to hear anything, Ichinose-san?”
+[says] (p.343) “N-not at all. I didn’t hear anything…”
+[says:tsukishiro] (p.343) “I’m not so naive as to trust those words of yours. As adults, we always have to assume the worst and act accordingly, so I have no choice but to proceed under the premise that you heard everything.”
+[says:tsukishiro] (p.343) “Accidental as it may have been, you still heard it all. Information that should’ve never reached your ears, and yet, here we are.”
+[says:tsukishiro] (p.343) “If our conversation earlier were to leak to the public, Shiba-sensei and I would be in a great deal of trouble.”
+[says] (p.344) “I-I really didn’t hear anyth─”
+[says:tsukishiro] (p.344) “That’s not true. I’m speaking now under the firm premise that you did, remember?”
+[says:tsukishiro] (p.344) “Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san? Your retirement would be soon to follow.”
+[says:tsukishiro] (p.343) “I say that jokingly, of course. As the one entrusted with protecting this school, I would never truly say something like that. …a violent solution if at all possible. Therefore, I’ll offer you a proposal. If you tell a soul about any of this, I’ll personally see to it that a group composed entirely of Class 2-C students retires from the exam.”
+[says:tsukishiro] (p.344) “Naturally, this would be a group that doesn’t have the private points they’d need to save themselves.”
+[says:tsukishiro] (p.344) “Do you perhaps think it’d be impossible for me to do such a thing? As the man in control of the rules, fabricating a justification would be trivial. There’s no telling what might happen, especially out here on such an unsupervised, vast deserted island.”
+[says:shiba-katsunori] (p.344) “Acting Director Tsukishiro, rather than showing such leniency, wouldn’t it be better to exercise your authority here? If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.”
+[says:tsukishiro] (p.344) “You have a point. Well then, what do you think should be done instead, Shiba-sensei?”
+[says:shiba-katsunori] (p.344) “If you’re willing to leave it to me, I’ll handle her myself.”
+[says:tsukishiro] (p.345) “Well, I’d rather not waste any more time on this.”
+[says:tsukishiro] (p.345) “The port is located about 150 meters straight ahead of us. Do get going, if you would.”
+[says] (p.345) “Y-yes sir…!”
+[says:tsukishiro] (p.345) “It’s not your enemies that you should be protecting, but your own classmates. It would do you well to keep that in mind.”
+[says:shiba-katsunori] (p.345) “It’s fine. Just leave her be.”
+[says:shiba-katsunori] (p.345) “Are you sure? If she mentions this to Ayanokōji, it’ll interfere with the plan.”
+[says:tsukishiro] (p.345) “Unexpected setbacks happen all the time. That being the case, we’ll just have to adapt.”
+[says:tsukishiro] (p.345) “Are you really that worried? I thought I gave her a rather effective warning.”
+[says:tsukishiro] (p.345) “Regardless of her relationship with Ayanokōji-kun, the elimination of a formidable enemy like him would be great for Class C. She herself will also come to terms with that as time passes, so let’s just stay calm and see what happens, shall we?”
+
+### y2v3 p.346–355 — Tsukishiro's smile; her class's doom
+[scene] (p.346) A raindrop lands on his cheek; his 99% certainty; “If everything goes according to plan, Ayanokōji-kun’s Emergency Alert should go off any time now.”; she vanishes into the tree line; his unwavering conviction.
+[says:tsukishiro] (p.346) “I was 99% certain that Nanase-san would fail, but it seems that she’s finally taken action. If everything goes according to plan, Ayanokōji-kun’s Emergency Alert should go off any time now.”
+[note] (p.331–346) The epilogue arc, chronologically: her broken watch → the overheard conspiracy at the slope → the confrontation with Tsukishiro and Shiba → their decision to spare her under blackmail. Her class's expulsion would doom several Class 2-C students; the threat is kept as printed.
+[rel:sakayanagi-arisu] (p.336–338) The thing Sakayanagi wanted; the conspiracy now visible to her.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4
 

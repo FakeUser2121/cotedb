@@ -335,6 +335,12 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
+### y2v3 p.332 — Kamuro at the regroup
+[mentioned] (p.332) “『Well, since it’s busted I guess there’s no helping it, right Masumi-chan?』『If you head out now, you might make it back in time for the third area.』” — Hashimoto and Kamuro chime in; not present; POV Ichinose.
+[mentioned] (p.332) “…As Hashimoto and Kamuro chimed in, Ninomiya, a fellow classmate, also nodded along in agreement.” — named as contributing; not present; POV Ichinose.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

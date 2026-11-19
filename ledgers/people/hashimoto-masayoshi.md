@@ -834,6 +834,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
+### y2v3 p.332 — Hashimoto at the regroup
+[mentioned] (p.332) “『Well, since it’s busted I guess there’s no helping it, right Masumi-chan?』『If you head out now, you might make it back in time for the third area.』” — Hashimoto and Kamuro chime in; not present; POV Ichinose.
+[mentioned] (p.332) “Two days earlier, on the fifth day of the exam, Ichinose’s group had taken first place in a Task that allowed groups to increase their maximum size, successfully earning the right to take on three more people. And on the sixth day, they used the GPS Searching feature to merge with Hashimoto’s group, only for trouble to strike the very next morning.” — named as a merged member; not present; POV Ichinose.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

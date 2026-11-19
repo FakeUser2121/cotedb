@@ -356,6 +356,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:tsukishiro] (p.32–34) Yields the microphone to him; later whispers to him on stage.
 
 
+
 ### y2v3 p.23–27 — The watches and the twelve Tables
 [scene] (p.23) Hoshinomiya-sensei comes up on stage and hands him a digital wristwatch; a staff member fastens it with a special tool; his live metrics appear on the screen.
 [says] (p.24) “Starting tomorrow, all students will be required to wear one of these watches until the end of the exam.”
@@ -372,6 +373,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:hoshinomiya-chie] (p.23–24) Hands him the watch mid-briefing.
 
 
+
 ### y2v3 p.28–32 — Tasks and the Main Link
 [scene] (p.28) Shows a Math Test Task example on the screen (red dot in C3); explains Task categories, staffing and registration rules.
 [says] (p.28) “Next, I'll explain the second way to earn points. Simply put, you can earn points by completing ‘Tasks’ set up throughout the island.”
@@ -386,6 +388,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:tsukishiro] (p.32–34) Invites him to the stage; yields the microphone to him before stepping down.
 
 
+
 ### y2v3 p.35–39 — Provisions and tablets
 [scene] (p.35) Staff wheel out a cart of provisioned goods; the Uninhabited Island Survival Manual is distributed from the front row; purchases open until 6:00 AM tomorrow; a hands-on exhibition runs until midnight; the port shop sells at double price later.
 [says] (p.35) “Everybody will be given a base of 5000 points. You're free to use them to buy whatever you'd like from what you see up here.”
@@ -398,6 +401,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:tsukishiro] (p.32–34) Introduces him: “Thank you very much, Acting Director Tsukishiro.” (p.34) — yields the stage to him before provisions.
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
+
 
 ### y2v3 p.240–241 — Mashima at the provisions desk (Ch.6)
 [scene] (p.240–241) Manning the provisions desk near the harbor; pulls Ayanokōji aside with a look; the two-boats disclosure; his daily watch for the Acting Director's moves.
@@ -418,6 +422,15 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [says:ayanokouji-kiyotaka] (p.241) “Thank you for going to the trouble of providing me with this warning.”
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
+
+### y2v3 p.337 — Mashima named at the slope
+[mentioned] (p.337) “…Mashima seems to be on particularly high alert…” — named by Shiba; not present; POV Ichinose.
+[mentioned] (p.337) “Be it Chabashira-sensei or Mashima-sensei, there’s no doubt in my mind that their actions link back to Ayanokōji-kun. Since Ayanokōji-kun happened to be at the scene back then, it’s only natural that he managed to figure out the truth.” — named by Shiba; not present; same scene.
+
+### y2v3 p.344 — Mashima named at the slope
+[mentioned] (p.344) “Acting Director Tsukishiro, rather than showing such leniency, wouldn’t it be better to exercise your authority here? If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.” — named by Shiba; not present; same scene.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4
 
