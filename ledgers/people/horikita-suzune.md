@@ -5060,6 +5060,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v3 Ch.2 → p.52 -->
 
+### y2v3 p.67 — Horikita named at the C6 site
+[mentioned] (p.67) “Sudō’s growth could be predominantly attributed to Horikita.” — named as his creditor; not present; POV Ayanokōji.
+
+### y2v3 p.73 — Horikita named at the night analysis
+[mentioned] (p.73) “It was probably a fairly harsh environment for a lone girl like Horikita or Ibuki.” — named (as a solitary example); not present; POV Ayanokōji.
+
 ### y2v3 p.100–103 — Horikita named at the fire
 [mentioned] (p.101) “Well, it is true that you’ve always been devoted to Horikita. But like, what the hell happened then?” — named (by Hondō, to Sudō) as the object of Sudō's known devotion; not present; POV Ayanokōji.
 [mentioned] (p.101) “If Horikita were here, she probably would’ve said the same thing.” — named in narration on Sudō's distrust of Nanase; not present; POV Ayanokōji.
@@ -5067,15 +5073,43 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+### y2v3 p.131 — Horikita-senpai named at the beach
+[mentioned] (p.131) “Horikita-senpai would probably be fairly disappointed if you self-destructed and got yourself expelled.” — named by Nagumo; not present; POV Ayanokōji.
+
+### y2v3 p.225 — Horikita named by Kōenji
+[mentioned] (p.225) “Though, I doubt the Horikita-girl would be very satisfied with that,” — named by Kōenji (a forward-reference to her rankings logic); not present; POV Ayanokōji.
+[mentioned] (p.225) “had somehow been listening in back when Horikita and I talked about this.” — named as a participant in a remembered conversation; not present; POV Ayanokōji.
+
 ### y2v3 p.239 — Horikita named by Sakayanagi
 [mentioned] (p.239) “I’ll leave it to you to decide on a messenger then. Whether it be Horikita-san or Ryūen-kun, it’s of no concern to me.” — named as a potential messenger; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
 
+### y2v3 p.257 — Horikita named at the campsite
+[mentioned] (p.257) “Horikita, Ike liked Shinohara, and that was no doubt just the tip of the iceberg.” — named as the class's other known love story; not present; POV Ayanokōji.
+
+### y2v3 p.278 — Horikita named at the mountain
+[mentioned] (p.278) “That probably wouldn’t even be enough to pay back the points that I borrowed from Horikita.” — named as his unpaid debt; not present; POV Ayanokōji.
+[mentioned] (p.278) “As such, I wondered if Horikita, who was also traveling alone, would be okay.” — named (his travel concern); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
+### y2v3 p.306 — Horikita named at the slope (Kushida POV)
+[mentioned] (p.306) “I didn’t have any other options anymore. Horikita’s expulsion wasn’t what I should’ve been prioritizing all this time.” — named (the stake case); not present; POV Kushida.
+
+### y2v3 p.313 — Horikita named at the intercept (Amasawa POV)
+[mentioned] (p.313) “be willing to support your cause now that Horikita-senpai’s joined the student council.” — named (her promotion to the council); not present; POV Kushida.
+[mentioned] (p.313) “Horikita…” — named in a truncated turn; not present; POV Kushida.
+
+### y2v3 p.347 — Horikita named at the aftermath
+[mentioned] (p.347) “wouldn’t lose out against an opponent like Horikita or Ibuki.” — named as a gauge for a fight-capable opponent; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
 ### y2v3 p.363–364 — Horikita POV SS: “A Brief Farewell”
 [scene] (p.363–364) POV Horikita Suzune; the farewell at the starting line; her POV on his strength; her aspiration — partner; she steps forward into the island alone; her resolve.
 [says] (p.363) “Well then, I’ll be leaving.”
-[note] (p.363–364) Her attention sweep: “he never panicked and remained calm no matter what. He was a person who would always find the right answer and win regardless of the situation he was in.” — her interior assessment of him; quoted for her file.
+[note] (p.363–364) Her attention sweep: “He never panicked and remained calm no matter what. He was a person who would always find the right answer and win regardless of the situation he was in.” — her interior assessment of him; quoted for her file.
 [trait] (p.363–364) Her resolve to fight in the best way she knows; admiration, not jealousy; partner-shaped ambition.
 [rel:ayanokouji-kiyotaka] (p.363–364) Her gauge of him completely remade overnight.
 

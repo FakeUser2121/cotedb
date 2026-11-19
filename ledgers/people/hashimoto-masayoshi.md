@@ -834,11 +834,19 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
+
+
+
 ### y2v3 p.332 — Hashimoto at the regroup
-[mentioned] (p.332) “『Well, since it’s busted I guess there’s no helping it, right Masumi-chan?』『If you head out now, you might make it back in time for the third area.』” — Hashimoto and Kamuro chime in; not present; POV Ichinose.
-[mentioned] (p.332) “Two days earlier, on the fifth day of the exam, Ichinose’s group had taken first place in a Task that allowed groups to increase their maximum size, successfully earning the right to take on three more people. And on the sixth day, they used the GPS Searching feature to merge with Hashimoto’s group, only for trouble to strike the very next morning.” — named as a merged member; not present; POV Ichinose.
+[mentioned] (p.332) “As Hashimoto and Kamuro chimed in, Ninomiya, a fellow classmate, also nodded along in agreement.” — named as party to the regroup decision; not present; POV Ichinose.
+[mentioned] (p.332) “Two days earlier, on the fifth day of the exam, Ichinose’s group had taken first place in a Task that allowed groups to increase their maximum size, successfully earning the right to take on three more people. And on the sixth day, they used the GPS Searching feature to merge with Hashimoto’s group, only for trouble to strike the very next morning.” — narration recalling the merge; not dialogue; not present; POV Ichinose.
+[mentioned] (p.332) “Well, since it’s busted I guess there’s no helping it, right Masumi-chan?” — speaker untagged in the print (Hashimoto or Kamuro); recorded unassigned.
+[mentioned] (p.332) “If you head out now, you might make it back in time for the third area.” — speaker untagged in the print (Hashimoto or Kamuro); recorded unassigned.
 
 <!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.334 — Hashimoto at the epilogue split
+[mentioned] (p.334) “After promising to be careful, Ichinose waved her hand, urging Shibata to meet back up with Hashimoto and the others.” — named as the rendezvous party; not present; POV Ichinose.
 
 ## y2v4.5
 

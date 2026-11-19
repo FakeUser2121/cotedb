@@ -1484,10 +1484,16 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.64 — Chabashira named at the C6 site
+[mentioned] (p.64) “From the perspective of someone who potentially saw herself as Chabashira’s rival, it made sense that she didn’t really like the way things had played out, but for some reason, it felt as though she was taking all of that out on me.” — named as Hoshinomiya's rival (her read of Chie); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ### y2v3 p.89 — Chabashira named at the quiz wrap-up
 [mentioned] (p.89) “This all helped support what Chabashira had told us back before the exam had even started.” — named as having told the class about miscellaneous knowledge carrying exams; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+
 
 
 ### y2v3 p.193–205 — Chabashira at the scene (Ch.5)
@@ -1508,14 +1514,17 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
 
+
 ### y2v3 p.337 — Chabashira named at the slope
 [mentioned] (p.337) “Aside from him, there’s one other teacher of note: Chabashira, Class 2D’s homeroom teacher. She’s been searching through all the logs and records.” — named by Shiba; not present; POV Ichinose.
 [mentioned] (p.337) “Be it Chabashira-sensei or Mashima-sensei, there’s no doubt in my mind that their actions link back to Ayanokōji-kun. Since Ayanokōji-kun happened to be at the scene back then, it’s only natural that he managed to figure out the truth.” — named by Shiba; not present; same scene.
+
 
 ### y2v3 p.344 — Chabashira named at the slope
 [mentioned] (p.344) “…I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.” — named by Shiba; not present; same scene.
 
 <!-- walk: y2v3 Epilogue → p.355 -->
+
 
 ## y2v4
 

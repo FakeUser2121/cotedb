@@ -93,6 +93,10 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [says] (p.88) “Forreal!? This is uber-mega-easy!”
 [scene] (p.90) The group tops the quiz; his energy stands out against Ike's flat high-five.
 [says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
+### y2v3 p.91–92 — Hondō named at the walkie-talkie-less comparison
+[mentioned] (p.91) “Off on Sudō’s left is Ike Kanji, and to his right is Hondō Ryōtarō. They’re the type of people who do stupid things and end up standing out in a bad way… or, well, I guess it might be better to say that they’re the type of people who easily get carried away. But, at the same time, they both really add a lot to the class atmosphere.” — named by Ayanokōji to Nanase; not present; POV Ayanokōji.
+[mentioned] (p.92) “This may sound rude, but there simply weren’t many opportunities for students like Ike and Hondō to play an active role back in the classroom.” — named in narration; not present; POV Ayanokōji.
+
 ### y2v3 p.97–108 — The tremulous tent-neighbor; Ike's support
 [scene] (p.97) Follows Ike into the clearing; gasping after the replacement-Task day; says nothing about it.
 [scene] (p.98–99) Watches for dinner; eyes the unused fishing rod.

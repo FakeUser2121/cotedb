@@ -118,8 +118,9 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.131–132 — Asahina's aborted warning
-[scene] (p.131–132) She stops playing in the ocean and sidles up to Ayanokōji once Nagumo steps away; her whispered advice is swallowed by Nagumo's return.
+### y2v3 p.130–132 — Asahina at the beach
+[scene] (p.130–132) She stops playing in the ocean and sidles up to Ayanokōji once Nagumo steps away; her whispered advice is swallowed by Nagumo's return.
+[mentioned] (p.130) “It wasn’t just Nagumo either. Asahina and several other third-year students had also rented swimsuits.” — named as a swimsuit renter alongside Nagumo; not present; POV Ayanokōji.
 [says] (p.132) “Heyo. Word is that you’re working alone?”
 [says:ayanokouji-kiyotaka] (p.132) “Well. You probably heard me earlier, but I’ve got a tough fight ahead of me.”
 [says] (p.132) “That so…? Maybe that’s for the best though. If Miyabi were to start goin’ after you… things’d prolly get pretty dicey for ya, yeah? So here’s some advice. While you’ve got the chance, go meet up with as many groups as possible and───”
