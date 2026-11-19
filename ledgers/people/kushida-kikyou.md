@@ -2859,21 +2859,59 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.4–8 — Kushida: supermarkets and ready-made food
-[scene] (p.4) Greets Ayanokōji; spots Horikita heading to the supermarket; jokingly enlists her in a trio shopping trip; they shop through the aisles until Horikita catches Ibuki.
-[scene] (p.5–6) Stalks behind Ibuki and peeks in her basket (instant ramen, sweet bread, yakisoba); Ibuki lunges at her; she escapes; sings the contents aloud; she walks over to Ibuki; says she has an unhealthy diet; steals a glance at her chest.
-[scene] (p.7–8) Pokes at Horikita's offer; asks if she may join; ends up at Horikita's room for launch.
-[says] (p.4) "Good morning, Ayanokōji-kun. Happy New Year."
-[says] (p.4) "It doesn't particularly matter, but I thought it might be fun to go shopping with two classmates who happened to be together."
-[says] (p.6) "Instant ramen, instant yakisoba, sweet bread, and processed foods. Lovely shopping you've done there."
-[says] (p.7) "Then maybe I should have you make lunch for me too, Horikita-san."
-[rel:horikita-suzune] (p.4–8) Shares the same goal of cleaning up Ibuki's diet.
-[rel:ibuki-mio] (p.5–8) Silently inspects her diet; apologizes to the audience, smiles.
+### y2v9.75 p.4 — The invitation at the mall entrance
+[scene] (p.4) She runs into Ayanokōji outside the supermarket, sees Horikita heading the same way, and calls her over to make a party of three.
+[says] (p.4) “Good morning, Ayanokōji-kun. Happy New Year.”
+[says] (p.4) “Yes. You too Ayanokōji-kun? What a coincidence… Oh.”
+[says] (p.4) “Happy New Year. Are you also shopping, Horikita-san?”
+[says] (p.4) “It doesn’t particularly matter, but I thought it might be fun to go shopping with two classmates who happened to be together.”
+[note] (p.4) The invitation is aimed at Horikita's reaction, and she says so when challenged: “I’m just curious to see a new side of the both of you.”
+[voice] (p.4) The angel register is intact here, and the needle is inside the sweetness — Horikita is told to her face that she is being studied.
+[rel:horikita-suzune] (p.4) She will not let the greeting pass without company.
+[rel:ayanokouji-kiyotaka] (p.4) She greets him first and turns his errand into a group outing.
+
+### y2v9.75 p.5 — The shopping talk and the sighting
+[scene] (p.5) Walking the aisles, she trades barbs with Horikita, answers the cooking question with a social calculation, and is the first to spot the girl scowling at her phone.
+[says] (p.5) “You have quite the sarcastic personality, don’t you, Horikita-san?”
+[says:horikita-suzune] (p.5) “Doesn’t that pertain more to you? You went out of your way to invite me.”
+[says] (p.5) “Is that so? I’m just curious to see a new side of the both of you.”
+[says:horikita-suzune] (p.5) “Being able to speak so nonchalantly about the truth is a talent.”
+[says] (p.5) “Thanks.”
+[says] (p.5) “I can manage to some extent. We never know when our cooking skills might come in handy. Isn't it unquestionable that girls who can cook are more attractive in society?”
+[says] (p.5) “Is she looking up something?”
+[says:horikita-suzune] (p.5) “You would understand if you watched her.”
+[says] (p.5) “Wow, you know a lot. I don't think she told us anything like that.”
+[trait] (p.5) She can cook only “to some extent” and frames the skill as social capital rather than as a household chore.
+[voice] (p.5) A compliment delivered as a sting, then “Thanks.” collected without blinking.
+[rel:horikita-suzune] (p.5) The two barb in public and neither yields.
+
+### y2v9.75 p.6 — Behind Ibuki's back
+[scene] (p.6) While Horikita holds Ibuki's attention, she circles behind her and reads the basket aloud, then keeps her distance before the swing comes.
+[says] (p.6) “Instant ramen, instant yakisoba, sweet bread, and processed foods. Lovely shopping you've done there.”
+[says:ibuki-mio] (p.6) “H-hey, stop peeking in there!”
+[note] (p.6) The dodge is prepared: “Perhaps anticipating the retaliation, Kushida had already kept her distance.”
+[says] (p.6) “It's dangerous to swing your basket around inside the store, you know?”
+[says:ibuki-mio] (p.6) “Well, stop snooping around, then.”
+[trait] (p.6) She takes the angle nobody is watching — Ibuki's eyes are on Horikita when the basket is read.
+[rel:ibuki-mio] (p.6) The prank costs her nothing and lands cleanly.
+
+### y2v9.75 p.7 — The glance and the free lunch
+[scene] (p.7) She lets the nutrition scolding run, adds one glance and half a sentence at Ibuki's figure, then asks to be cooked for on the grounds that the pairing is interesting.
+[says] (p.7) “Ah, I see. That's why Ibuki-san is—”
+[says:ibuki-mio] (p.7) “Don't just say whatever you want!”
+[note] (p.7) The half-sentence is aimed, and the narration supplies the target: she speaks while casting a glance at Ibuki's chest area and smiling.
+[says] (p.7) “Then maybe I should have you make lunch for me too, Horikita-san.”
+[says:horikita-suzune] (p.7) “You're planning to come too?”
+[says] (p.7) “Doesn't the combination of you and Ibuki-san sound interesting?”
+[trait] (p.7) Her reason for coming is the spectacle, and she gives it without pretending otherwise.
+[rel:horikita-suzune] (p.7) She invites herself and names her price: the two of them in one room.
+
+### y2v9.75 p.8 — The party of four closes
+[scene] (p.8) The four agree to meet in Horikita's room that day; the story ends before the lunch itself.
+[note] (p.8) She is inside “the four of us” but has no line on the closing page.
+[rel:horikita-suzune] (p.8) The lunch she invited herself to is set for the same day.
 
 <!-- walk: y2v9.75 Epilogue → p.8 -->
-
-
-<!-- walk: y2v9.75 Epilogue → p.17 -->
 
 ## y2v10
 

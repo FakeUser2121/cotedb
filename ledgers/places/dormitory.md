@@ -42,3 +42,15 @@ place_id: dormitory · type: student dormitory residence
 [action] (p.222) Sudou kicks the door while the three wait, risking the neighbors and the dorm manager’s attention.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y2v9.75
+
+<!-- walk: y2v9.75 → start -->
+
+### y2v9.75 p.7–8 — Horikita's room hosts four for lunch
+[scene] (p.7–8) Horikita's dorm room is named twice: offered to Ibuki as the place to learn to cook, then fixed as the venue where all four gather that same day.
+[note] (p.8) The meal itself is left off the page; the story closes by calling the party extremely difficult and exhausting.
+[rel:horikita-suzune] (p.7–8) Her room is the venue she offers, and the others are included on her initiative.
+[rel:ibuki-mio] (p.7) She refuses the room before the private-points argument changes her answer.
+
+<!-- walk: y2v9.75 Epilogue → p.8 -->

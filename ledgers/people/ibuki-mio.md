@@ -1675,14 +1675,56 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.5–8 — Ibuki: her basket and Horikita's ambush
-[scene] (p.5–6) Hides in the ready-made food corner, staring at her phone, when the three spot her; feels Horikita's gaze; stashes the basket behind her back; teases about private points; admits she shops for a similar diet every winter break; tells Kushida she knows peace; Ibuki bites back awkwardly.
-[scene] (p.6–7) Kushida stalks behind her and peeks at instant ramen and sweet bread; she swings the basket at her; Horikita grabs the rim and takes out the ready-made food herself; calls her diet "shockingly unhealthy" and offers a lunch invitation; her budget is strained; accepts.
-[scene] (p.8) The four go to Horikita's room; she ends up in a culinary ambush; "extremely difficult and tumultuous."
-[says] (p.6) "H-hey, stop peeking in there!"
-[says] (p.7) "Who would go to your room! Besides, I don't feel like eating!"
-[rel:horikita-suzune] (p.6–8) She goes to her room for lunch; bushes become alliance.
-[rel:kushida-kikyou] (p.5–8) Gets on her nerves; laughs a lot; she refuses to admit being pleased.
+### y2v9.75 p.5 — Watched at the ready-made food corner
+[scene] (p.5) She stands at the ready-made food corner scowling at her phone, unaware that three classmates are reading her mood from across the aisle.
+[note] (p.5) The page gives her posture and her prop: “She was lazily staring at the shelves while scowling at the phone in her right hand.”
+[note] (p.5) Horikita's guess places her there for money: “Maybe she's checking her private point balance while shopping.”
+[note] (p.5) The three watch her start to leave, and she notices them before anyone speaks.
+[rel:horikita-suzune] (p.5) She is the subject of Horikita's read before either of them says a word.
+
+### y2v9.75 p.6 — The hidden basket and the emptied shelf
+[scene] (p.6) She tries to leave, notices she has been watched, hides the basket behind her, and loses it to Horikita item by item.
+[says] (p.6) “Ugh…”
+[says:horikita-suzune] (p.6) “Can't you even say a New Year's greeting properly?”
+[says] (p.6) “I don't know. Besides, it's not like I wanted to see you at New Year's anyway.”
+[says:horikita-suzune] (p.6) “Did you buy something you don't want to be seen?”
+[says] (p.6) “No, it doesn't matter.”
+[says:kushida-kikyou] (p.6) “Instant ramen, instant yakisoba, sweet bread, and processed foods. Lovely shopping you've done there.”
+[says] (p.6) “H-hey, stop peeking in there!”
+[action] (p.6) She swings the basket at Kushida and misses; the swing is the only move she gets.
+[says:kushida-kikyou] (p.6) “It's dangerous to swing your basket around inside the store, you know?”
+[says] (p.6) “Well, stop snooping around, then.”
+[says:horikita-suzune] (p.6) “I'm not surprised considering you're not one for cooking, but your diet is shockingly unhealthy to the point of concern.”
+[says] (p.6) “Huh? Don't nitpick at my diet. Everything is fine because I'm taking supplements.”
+[says:horikita-suzune] (p.6) “I think there is a problem though...”
+[says] (p.6) “Kuh! What are you doing!”
+[says] (p.6) “Hey, what are you doing without my permission!”
+[note] (p.6) The first line is untagged; the narration names her in the next sentence and shows her hiding the basket, so it is recorded as hers.
+[limit] (p.6) Her shopping is convenience food plus supplements, and she sees no problem: “Everything is fine because I'm taking supplements.”
+[rel:kushida-kikyou] (p.6) The basket is read from behind her back.
+[rel:horikita-suzune] (p.6) She loses the basket without a hand laid on it, only on the rim.
+
+### y2v9.75 p.7 — The sore spot and the budget
+[scene] (p.7) She is lectured on muscle and nutrition, argues for the supermarket bento, refuses the invitation outright, and then freezes when it is priced in private points.
+[says:horikita-suzune] (p.7) “You've been living on a similar diet during this winter break, haven't you? If you continue like this, you won't grow anything, you know.”
+[says] (p.7) “Don't just say whatever you want!”
+[note] (p.7) The muscle argument is the one that lands: “Apparently, those words hit a sore spot for Ibuki.”
+[says] (p.7) “But, it can't be helped. I don't cook. Do you mean I should buy a bento box then?”
+[says:horikita-suzune] (p.7) “Supermarket bentos tend to have too many carbohydrates and fats. They wouldn't suit your body type.”
+[says] (p.7) “Then, what am I supposed to do?”
+[says:horikita-suzune] (p.7) “You're free after this, right? Come to my room. I'll let you have lunch. I'll also teach you how to make some simple dishes.”
+[says] (p.7) “Who would go to your room! Besides, I don't feel like eating!”
+[says:horikita-suzune] (p.7) “If you want to save your private points, it's not a bad proposition, don't you think?”
+[note] (p.7) The refusal stops at the word money: “Ibuki, who was about to refuse, became rigid.”
+[says] (p.7) “...I see.”
+[note] (p.7) The page draws the conclusion itself: “Apparently, her budget was more strained than imagined.”
+[trait] (p.7) She will not cook and will not pretend the ready-made diet is a choice — the only argument that moves her is the cost.
+[rel:horikita-suzune] (p.7) She accepts lunch in the room she has just refused.
+
+### y2v9.75 p.8 — Named as one of four
+[scene] (p.8) The lunch party is agreed for that day; the closing page names no one.
+[note] (p.8) “And so, the four of us decided to gather in Horikita's room that day.” — she is one of the four and has no line after the acceptance.
+[rel:horikita-suzune] (p.8) The room she refused is where the party is held.
 
 <!-- walk: y2v9.75 Epilogue → p.8 -->
 ## y2v10

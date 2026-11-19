@@ -2,10 +2,6 @@
 
 char_id: miya · class: unknown · status: unknown
 
-## y2v9.75
-
-<!-- walk: y2v9.75 → start -->
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -15,12 +11,6 @@ char_id: miya · class: unknown · status: unknown
 [mentioned] (p.96) Passing mention only.
 
 <!-- walk: y2v9.5 Ch.4 → p.96 -->
-
-
-
-
-
-<!-- walk: y2v9.75 Epilogue → p.17 -->
 
 ## y2v11
 

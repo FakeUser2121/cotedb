@@ -2586,12 +2586,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — karuizawa-kei mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.4 — Named as the reason for the supermarket run
+[mentioned] (p.4) Named, not present: the errand exists because of the holiday they spent together — “During the New Year holiday, I spent a lot of time in my room with Kei, consuming more food and drinks than we had anticipated.”
+[note] (p.4) Her name is the only trace of her in the volume; she is not at the mall and has no line.
 
-<!-- walk: y2v9.75 Epilogue → p.17 -->
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 
 ## y2v10
 
