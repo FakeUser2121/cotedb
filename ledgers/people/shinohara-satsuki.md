@@ -442,7 +442,13 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:azuma-sana] (p.132–133) The recommendation that brought Azuma in; she joins Kushida in holding the line.
 [rel:kushida-kikyou] (p.132–133) The 3:00 lineup; the hallway call.
 [rel:hirata-yousuke] (p.132) Her cooking stall partner.
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.177 — Named in the GPS watch failure recount
+[mentioned] (p.177) “Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names.” — the GPS discussion; Shinohara is named as one of the victims.
+[note] (p.177) The fourth injured student was Shinohara; her name appears only here.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

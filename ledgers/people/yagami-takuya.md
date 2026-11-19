@@ -650,7 +650,10 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [mentioned] (p.195) “Then, you most likely told Satō that it was Yagami who was behind the threats, not you.” — Ayanokōji to Tsubaki; Tsubaki framed Yagami as the phantom stalker.
 [mentioned] (p.195) “Yagami-kun is a bad guy, isn't he?” — Tsubaki's bait question; Ayanokōji declined the theatrics.
 [note] (p.195) “If Yagami was using Tsubaki to contact Satō, there's no need to bother naming names.” — Ayanokōji's deduction of Yagami's playbook; he was not behind the threats.
-
+### y2v7 p.199 — Named in Chabashira-sensei's closure
+[mentioned] (p.199) “Even first-year students who were not directly involved in the event should know about it as well as teachers, but none have spoken about it with me, who they think was uninvolved.” — Chabashira-sensei's line; she chose not to name the incident.
+[note] (p.199) “Chabashira-sensei only mentioned the festival's success, but not Yagami's withdrawal.” — the narration; Yagami's withdrawal is not spoken of with her.
+[note] (p.199) No one spoke to her about it; as a teacher she was making the right decision; the withdrawal stayed quiet.
 <!-- walk: y2v7 Epilogue → p.202 -->
 ### y2v7 p.206 — Yagami in the credits
 [mentioned] (p.206) “Nagumo > Yagamid.” — BGS003#2745's editor quote in the RoyalMTL's credits page — Yagami is named in the credits as the losing side of Nagumo-Yagami.

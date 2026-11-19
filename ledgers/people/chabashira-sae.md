@@ -1503,6 +1503,13 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ike-kanji] (p.10) The pocket-money question — she answered without looking.
 
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.54, 57 — Named in the staff-shift corridor gossip
+[mentioned] (p.54) “After school, when Chabashira-sensei left the classroom, I took out my” — Ayanokōji's narration; she left the classroom.
+[mentioned] (p.57) “Ayanokōji, you heard a little of what Chabashira-sensei said… What” — Mashima-sensei's question.
+[mentioned] (p.57) “You haven't heard? Not from Chabashira-sensei?” — Ayanokōji's reply.
+[note] (p.57) “What happened at the unanimous special exam?” — Mashima-sensei; the exam's effect on Chabashira-sensei is what the teachers were gossiping about; the narration shows the staff corridor knew.
+[note] (p.57) “As I recall, Mashima-sensei and Chabashira-sensei were originally from the” — they went to high school together; she was schoolmate to Mashima-sensei.
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.153–164 — The 100,000-point hire; standing room only; 63 photos
 [scene] (p.153) §3 — it was getting close to 3:00 pm; he left the maid café to prepare for his final move; he called Chabashira-sensei, who would have been using her points for a non-second year class on campus.
 [says:ayanokouji-kiyotaka] (p.153) “Sorry for calling you all the way here, Chabashira-sensei.” — Ayanokōji.
@@ -1609,6 +1616,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 
 
+
+
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->
@@ -1659,6 +1670,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.184–202) He watches over her through the festival; she sleeps at her desk; Chabashira stands guard.
 [rel:kushida-kikyou] (p.184–185) She speaks about Airi.
 [rel:hasebe-haruka] (p.184–186) She's the star of the sum-up.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

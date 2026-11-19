@@ -1868,6 +1868,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.11, 16, 22, 25, 27, 108, 148 – Kei's threads: the Keisei shadow
+[note] (p.11) “they were lined up in order from the student with the highest overall score. Keisei” — the midterm results; Keisei (the translation's defect for Yukimura's name) took first place; senior-year Class 2-B student.
+[note] (p.16) “something. Or maybe she was anticipating Kei's closeness with Satō, but either” — the maid café planners; Kei's closeness to Satō.
+[note] (p.22) “prepare high quality food at the lowest possible price. If I invited Kei, it would turn” — the maid café planning; the invite Kei would decline.
+[note] (p.25) “The next morning, I met up with Kei downstairs in the dormitory.” — the dormitory scene on a monday morning; her staying overnight.
+[note] (p.27) “attract, and unify a small group. Without a doubt, Kei possesses these qualities.” — the maid café group; Kei is named as the unifying factor.
+[note] (p.108) “This information came down from Kei, who was in close contact with the” — Kei is the information channel Horikita uses for the missing-pair rumor.
+[note] (p.148) “particularly contentious situation. Unfortunately, Keisei, formerly of the Ayanokōji” — Keisei (alias) is named in passing; he's not on scene.
+[note] (p.186) “Keisei walked up to Haruka and Akito, somewhat hesitantly. Starting with” — aftermath; Akito's apology; Keisei's eyes reddened a bit and he spoke with relief.
 ### y2v7 p.26 — Dormitory morning; Kei waiting downstairs
 [scene] (p.26) The next morning, Kei is waiting for Ayanokōji downstairs; past curfew the previous night she remained in his room; fortunately no witnesses when she left; they walk together holding hands; she blushes and thanks him.
 [says] (p.26) “Sorry Kiyotaka, have you been waiting?” — Kei.
@@ -1999,6 +2008,8 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.193) “The love letter prepared in this way was passed to Horikita through another girl using Kei. Then, she was led to hand it to Yagami, giving him time to examine it.” — the caller's account; Kei was an unknowing courier.
 [mentioned] (p.195) “It seems you called Satō to your room and made cheap threats, but it wasn't a serious attempt to manipulate her into ruining our relationship. It was because you wanted to push her to act, or deal with the threat of Kei's relationship, by indirectly letting her know that we were getting close.” — Ayanokōji to Tsubaki; the bait was Kei's relationship with Satō.
 [rel:satou-maya] (p.195) Her close friendship is the handle the squeeze pulls.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

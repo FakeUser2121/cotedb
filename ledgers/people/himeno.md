@@ -48,5 +48,9 @@ char_id: himeno · class: Class 2-D (Ichinose) · status: student (y2v7)
 [mentioned] (p.113) “Apparently, the first step towards change with Himeno may have worked.” — the narration.
 [note] (p.113) Named only — the first step of the two-person plan may be working.
 
+
+
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
 

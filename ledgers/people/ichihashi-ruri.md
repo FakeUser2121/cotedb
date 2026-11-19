@@ -64,7 +64,13 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 [note] (p.114) "Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment." — no scene lines beyond the business; named.
 [rel:wang-mei-yu] (p.114) The subject of the billing photo shoot.
 [rel:ayanokouji-kiyotaka] (p.114) The photo counter.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.172 — Ichihashi-san named in the vice-president exchange
+[mentioned] (p.172) “From the moment you handed me that letter disguised as a love letter, you” — Yagami's retort; the letter chain — Kiriyama-senpai took out the letter Horikita had received from Ichihashi-san.
+[note] (p.172) The literal line: “Student Council President Nagumo took out from his pocket the love letter I had received from Ichihashi-san.” — Ichihashi-san is the courier named in the letter trail; see horikita-suzune for the full sequence.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v10
 

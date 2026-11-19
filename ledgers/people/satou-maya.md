@@ -517,7 +517,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:shinohara-satsuki] (p.26) Shinohara is drawn into the Satō–Kei circle despite struggling.
 [rel:wang-mei-yu] (p.26) Mii-chan is drawn into the circle too.
 [rel:ayanokouji-kiyotaka] (p.26) She gives him a “gaze” of hurt and jealousy — remembered from the morning with Kei.
-
+### y2v7 p.27, 101 — Sato named among the planners; mentioned at the Kei-maid refusal
+[mentioned] (p.27) “The people who came up with the idea, such as Satō, Matsushita, and Miichan, all looked at each other.” — Satō is named as one of the maid café planners.
+[mentioned] (p.101) “It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform.” — the narration; Satō is in the Kei-maid refusal scene.
 <!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.54 — The pivot to Kei's plan
 [scene] (p.54) After school, Satō — still in the classroom; Kei switches to her after being declined by Ayanokōji; she accepts with a smile; invites Shinohara and other girls to join; they leave together.
@@ -574,6 +576,10 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 
 
+
+
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->
@@ -603,6 +609,8 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:sakura-airi] (p.185) Haruka's speech; Satō is in the audience; the Airi revelation changes the temperature in the room.
 [rel:hasebe-haruka] (p.184–198) Haruka's confession — Satō watches the star of the show.
 [rel:miyake-akito] (p.184) Akito's confession; the two of them will stay at this school.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

@@ -707,6 +707,16 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.29, 41, 54, 206 — Kanzaki acted before they realized he mattered
+[mentioned] (p.29) “The commotion began to grow a little louder, and even Kanzaki and other” — students from other classes overheard Ryūen's declaration of war; Kanzaki hears it too.
+[mentioned] (p.41) “Kanzaki, who I was curious about, and Ichinose, who I expected to have returned.” — Ayanokōji's curiosity line.
+[note] (p.41) “The fact that I couldn’t see Kanzaki in the line made me wonder if he was” — about him after the haunted-house pre-opening.
+[note] (p.41) “oddly, so I don't think Kanzaki, who was waiting for Ichinose's return and my” — Kanzaki stayed silent in the line.
+[note] (p.41) “A few minutes later, Kanzaki slowly appeared from the exit. I wondered if” — he arrived late into the observation.
+[mentioned] (p.54) “Kanzaki, who had called me over.” — Kanzaki pulled Ayanokōji aside; the meeting was set at the special wing.
+[note] (p.206) “Kanzaki hot.” — Akuma#5279's editor quote in the credits; Kanzaki is named as the fan-favorite.
+[rel:ayanokouji-kiyotaka] (p.29) Kanzaki hears the declaration of war.
+<!-- walk: y2v7 Afterword → p.207 -->
 ### y2v7 p.32–33 — Scouting the maze with Ichinose
 [scene] (p.32) After school, Kanzaki is in line at the gymnasium haunted-house pre-opening — with Ichinose; Ayanokōji arrives; Kanzaki silently takes one look at Ichinose and Ayanokōji and gets in line; the atmosphere is heavy; he does not enter.
 [says] (p.32) “If it's this big, it's not easy to keep it hidden. It was a wise decision to release the information early if it was also for practice.” — Kanzaki.
@@ -881,6 +891,8 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.112–113) The sweets stall; her class's fate is no longer his top priority.
 [rel:himeno] (p.113) The narration notes the first step toward change with Himeno may have worked.
 [rel:ayanokouji-kiyotaka] (p.112–113) The quiet checkpoint between them.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
 ## y2v8

@@ -243,7 +243,13 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ryuuen-kakeru] (p.175–182) He brought him; he nodded; he never spoke beyond “Yes, sir.”
 [rel:mashima-tomonari] (p.175–181) Mashima-sensei appeared alongside; Yagami kicked the sensei.
 [rel:sakagami] (p.175–182) Sakagami watched Yagami kick Mashima; assists in the exit.
+
+
 <!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.193 — Named as the trick's instrument
+[mentioned] (p.193) “What kind of a trick was used for Komiya and the others to name Yagami? Was it a coincidence that the teacher showed up?” — Ayanokōji's question to Nagumo.
+[note] (p.193) Ayanokōji versus Nagumo: Ayanokōji arranged the luring; the "next step" is the caller's confirmation that his script was followed.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v9
 

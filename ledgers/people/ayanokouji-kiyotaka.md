@@ -10061,6 +10061,11 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
 [rule] (p.101) Festival staffing rule: All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; during the break they are forbidden from assisting with any of the stalls, regardless of business.
 [rel:horikita-suzune] (p.100–101) The schedule sign-off; the Kei-maid question; the mandatory break notice.
+### y2v7 p.102, 204, 206 — Named in Kushida's statement; in the afterword; in the credits
+[mentioned] (p.102) “Since she failed to live up to that expectation, and since there was” — Yagami's reasoning; Ayanokōji and Horikita are named in the discussion of the unanimous exam.
+[mentioned] (p.204) “Ayanokōji's past. The illustrator, Tomose-sensei, has cooperated fully with me, and” — the afterword; the DVD bonus volume covers his past.
+[mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji” — Cast#5942's editor quote in the credits; “Bet Ayanokouji has never edited a LN before. Looks like I win.” — AntXL#6555's quote.
+<!-- walk: y2v7 Afterword → p.207 -->
 ### y2v7 p.105–106 — Sakayanagi's midnight call
 [scene] (p.105) §5 — in the middle of the night, he receives a phone call; Sakayanagi lets out a little chuckle on the other end; she cuts right to the chase.
 [says:sakayanagi-arisu] (p.105) “Indeed you may be right. May I have a few minutes of your time now?” — Sakayanagi.
@@ -10952,6 +10957,8 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.187–188, 202) The brochure trick; 4th place; 1,201 class points.
 [rel:housen-kazuomi] (p.187–188, 202) 12th place; the rumor about the Hōsen contract.
 [rel:chabashira-sae] (p.184, 199–202) She runs out at 4; the staff room praise; the final plan.
+
+
 
 
 <!-- walk: y2v7 Epilogue → p.202 -->

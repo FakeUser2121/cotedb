@@ -4657,8 +4657,21 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:maezono] (p.27–28) She confronts Maezono with the Ryūen question; her answer lands uneasily.
 [rel:hirata-yousuke] (p.28–31) Yōsuke asks the class's questions — she answers by action, not words.
 [rel:sudou-ken] (p.27) He announces Ryūen's arrival; flustered.
-
+### y2v7 p.39, 40, 47, 49, 52 — Not this Horikita
+[note] (p.39) “Like former student council president Horikita, Nagumo likes to compete,” — Asahina speaking; the "former student council president Horikita" is Horikita Manabu, not this character.
+[note] (p.40) “I recalled Horikita Manabu's words, ‘Nagumo's methods make a lot of” — the narration names Horikita Manabu outright.
+[note] (p.47) “Unlike the previous student council president, Horikita Manabu, Student” — Nagumo's line; the former president is named.
+[note] (p.49) “His original desire was to fight the elder Horikita, not me.” — Ayanokōji's read on Nagumo; the elder Horikita is Manabu.
+[note] (p.52) “Horikita-senpai recognized. I've been able to make sure of that.” — Nagumo's line; the prior president he references is Manabu.
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.54 — Horikita counters Ryūen's bet
+[mentioned] (p.54) “In response to the bet proposed by Ryūen, Horikita countered with a onemillion-private-point match with the agreement of the classes.” — the chapter opens; Horikita's counter-bet is the match's opening gambit.
+[rel:ryuuen-kakeru] (p.54) He proposed the 5-million-point bet; she counters with a one-million-private-point match.
+### y2v7 p.70 — The hardships of Horikita's class
+[mentioned] (p.70) “After a year and a half, many of the students in Horikita's class have had” — the reasons for the class rising; Horikita's class took a rough path.
+[note] (p.70) “Ichinose’s class wouldn’t have had the obvious hardships of Horikita’s class.” — the narration.
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.72–77 — §1: the bus morning and the letter (Horikita POV sections observed by AK)
 [scene] (p.72) Tuesday, November 9 — Horikita and Ayanokōji walk to school; the third-years announced a rehearsal just like the real thing the day before the cultural festival (bulletin board; Nagumo's "not-so-bad proposal"); the convenience-store stop; Ichihashi approaches her with the letter after school.
 [says] (p.72) “Have you heard? The day before the cultural festival, the third year students are going to do a rehearsal just like the real thing.” — Horikita.
@@ -4832,6 +4845,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:matsushita-chiaki] (p.86) She took Matsushita's worry seriously — Kushida's silence before the festival.
 [rel:satou-maya] (p.84, 92) Satō's failed appeal; her trust line; her certification of Kushida.
 [rel:karuizawa-kei] (p.100–101) The maid question — Kei's refusal; Horikita nobly leaves it to Kei's will.
+### y2v7 p.105 — Named among Kushida's past opponents
+[mentioned] (p.105) “including Horikita.” — Kushida's list against whom she had already challenged and lost; Horikita is among them.
+[note] (p.104–105) “Up until now, Kushida had challenged and lost to various opponents, including Horikita.” — the big names in Kushida's scars.
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.107–109 — 6 a.m.; the leak rumor; the council headcount
@@ -5420,7 +5436,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.185) She speaks for Airi in front of everyone.
 
 
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
+### y2v7 p.206 — The credits screen's bet on Horikita's class
+[mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji will be 'stolen' from Horikita class, and join Ichinose. Best girl Honami will become relevant again.” — Cast#5942's editor quote; Horikita's class is the predicted loser of the year-end exam.
+<!-- walk: y2v7 Afterword → p.207 -->
 
 ## y2v8
 

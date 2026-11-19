@@ -863,6 +863,13 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:horikita-suzune] (p.17–18) He probes the Ryūen alliance; she replies on the same level, relaxed.
 [rel:ayanokouji-kiyotaka] (p.17–18) The harem jab; the “teaming up with Ryūen” warning.
 [rel:sakayanagi-arisu] (p.17–18) His silent leader watches with a wry smile; he keeps "the good luck" for last.
+### y2v7 p.19, 27, 189 — Hashimoto's name lands in other people's mouths
+[mentioned] (p.19) “Hashimoto-kun said something earlier, did you guys catch it?” — Maezono's line; Hashimoto's probe is now public gossip in the planning room.
+[note] (p.19) “I want to believe you too. But didn't Hashimoto-kun seem to know” — the others study Hashimoto's knowledge; he seems to know; his class A's scouting is too well-informed.
+[mentioned] (p.27) “Matsushita, who remembered the contact from Hashimoto, approached us.” — the contact from Hashimoto is why she speaks now.
+[note] (p.27) Matsushita remembers his contact — his probe's seeds are already in the soil.
+[mentioned] (p.189) “Hashimoto and the others, who had been looking forward to the result of the bet,” — Horikita's cast list of who cared.
+[mentioned] (p.189) “Yes, Sakayanagi-san heard a lot of information from third parties. I'm sure that Hashimoto-kun and other spies must’ve told her about this as well.” — Horikita; Hashimoto is named as one of Sakayanagi's scouts.
 ### y2v7 p.29–30 — Amused spectator of the declaration
 [scene] (p.29) Students from other classes — spectators — begin to approach after the announcement; Hashimoto learned of the fact before Horikita's class did; his eyes meet Ayanokōji's with a thin smile and a shrug.
 [note] (p.29–30) “He learned of this fact before Horikita's class learned of it” — the narration; Hashimoto would change the subject as if the conversation never took place.
@@ -884,6 +891,8 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:sakayanagi-arisu] (p.89–90) He guards her class's floor; he says good luck.
 [rel:ryuuen-kakeru] (p.89–90) Ryūen leaves; Hashimoto chats with him about the mystery.
 [rel:ayanokouji-kiyotaka] (p.89–90) The amused exchange; Hashimoto keeps the gate.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v8

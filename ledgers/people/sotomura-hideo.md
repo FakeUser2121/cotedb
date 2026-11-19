@@ -284,7 +284,14 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [scene] (p.22) Ayanokōji recounts his film research to the planners; “the Professor, who taught me this, rejected the idea. He said, ‘If you neglect quality for the sake of profit, no one will pay attention to you.’”
 [note] (p.22) The roster aliases map “Professor” onto Sotomura Hideo; the film-price teaching and the Cheki-camera advice reached Ayanokōji through him. Flagged as an alias match, not a scene presence.
 [rel:ayanokouji-kiyotaka] (p.22) The film-inventory teaching ties Ayanokōji to the Professor's counsel.
+
+
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.93 — Sotomura at the first-year stalls
+[mentioned] (p.93) “Oh, it's Yukimura-kun and the others!” — Kei's exclamation; “Kei was the first to point and found Keisei, Sotomura, and the other boys” — Kei spots Sotomura with the others.
+[note] (p.93) The pairing is printed as-is; identity of the "Keisei"-labeled character unresolved — see yukimura-teruhiko.
+[rel:yukimura-teruhiko] (p.93) Sotomura and Yukimura-kun meet at the first-year stalls; Yukimura-kun is Keisei (his name is printed two ways).
+<!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v10
 

@@ -943,6 +943,24 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.39–70 — Horikita Manabu's ghost in Nagumo's mouth
+[mentioned] (p.39) “Like former student council president Horikita, Nagumo likes to compete,” — Asahina's line; Manabu is named as the archetype of a competing president.
+[mentioned] (p.40) “I recalled Horikita Manabu's words, ‘Nagumo's methods make a lot of people unhappy.’ That is half true.” — Ayanokōji's recited memory; Manabu's criticism is half right.
+[mentioned] (p.47) “Unlike the previous student council president, Horikita Manabu, Student Council President Nagumo attracts the eyes of those around him.” — Nagumo's pitch to Ayanokōji.
+[mentioned] (p.49) “His original desire was to fight the elder Horikita, not me.” — Ayanokōji's read of Nagumo's original desire.
+[note] (p.49) “Nagumo looked out the window as if remembering the days of Horikita” — Nagumo remembers.
+[note] (p.49) “However, Manabu dodged Nagumo's provocations and didn’t” — the narration; Manabu dodged him at every turn.
+[note] (p.52) “Horikita-senpai recognized. I've been able to make sure of that.” — Nagumo to Ayanokōji; he has made sure of it.
+[mentioned] (p.54) “In response to the bet proposed by Ryūen, Horikita countered with a onemillion-private-point match with the agreement of the classes.” — Horikita's counter-bet, proposed with class agreement.
+[note] (p.70) “After a year and a half, many of the students in Horikita's class have had” — Horikita's class after a year and a half.
+[note] (p.70) “Ichinose’s class wouldn’t have had the obvious hardships of Horikita’s class.” — Ichinose's class had an easier time.
+[note] (p.105) “Up until now, Kushida had challenged and lost to various opponents, including Horikita.” — Suzune's past challenge losses.
+[note] (p.206) “Ichinose class will beat Horikita's class in the year end special exam.” — Cast#5942's editor quote in the credits; the prediction is that Horikita's class loses the year-end exam.
+[note] (p.206) “Best girl Honami will become relevant again.” — same editor.
+[rel:nagumo-miyabi] (p.39–54) Nagumo was taught a lesson by Manabu's evasions.
+[rel:horikita-suzune] (p.54, 70) Her class's suffering is the counterweight to Ichinose's.
+<!-- walk: y2v7 Afterword → p.207 -->
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.40 — Horikita Manabu's recalled line
 [scene] (p.40) Narration, as Ayanokōji analyzes Nagumo: “I recalled Horikita Manabu's words, ‘Nagumo's methods make a lot of people unhappy.’ That is half true.” — he reflects that the original plan was only to mess with Nagumo's emotions and thought process.
 [says] (p.40) “Nagumo's methods make a lot of people unhappy.” — Horikita Manabu's recalled line.
@@ -954,7 +972,80 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.49) “More than anyone else. How hard do you have to work to adjust? Because of you, not just this year, last year too, the match with Horikita-senpai didn't happen.” — Nagumo's grievance; Ayanokōji drew Manabu's refusals from him.
 [note] (p.49) “Last year's sports festival, training camps, etc., Nagumo Miyabi was adamant about competing with Horikita Manabu. No matter what form it took, no matter how small the match was, he forced himself to do so, hoping to make it black and white. However, Manabu dodged Nagumo's provocations and didn't involve everyone in the match.” — the narration.
 [rel:nagumo-miyabi] (p.47–49) The Manabu rivalry hangs over the negotiation; Manabu dodged him without involving everyone.
+
+
 <!-- walk: y2v7 Ch.1 → p.53 -->
+
+
+### y2v7 p.41, 48, 50, 53, 77 — Manabu in the mouths of others
+[mentioned] (p.41) “I recalled Horikita Manabu's words, ‘Nagumo's methods make a lot of people unhappy.’ That is half true.” — Ayanokōji's recalled quotation; Manabu's verdict on Nagumo's methods.
+[note] (p.41) Ayanokōji calls Manabu's verdict "half true"; his own assessment is different.
+[mentioned] (p.48) “Unlike the previous student council president, Horikita Manabu, Student Council President Nagumo attracts the eyes of those around him.” — Nagumo's line to Ayanokōji; the comparison of the two presidents.
+[note] (p.48) Nagumo holds the eye where Manabu did not; the styles are different generations' styles.
+[mentioned] (p.50) “His original desire was to fight the elder Horikita, not me.” — Ayanokōji's line; Nagumo's original target was Manabu, not Kiyotaka.
+[note] (p.50) “However, Manabu dodged Nagumo's provocations and didn't” — the narration; Manabu's refusals to play.
+[note] (p.50) “adamant about competing with Horikita Manabu. No matter what form it took, no” — Nagumo pushed for a match across every form it could take.
+[mentioned] (p.53) “Horikita-senpai recognized. I've been able to make sure of that.” — Nagumo to Ayanokōji.
+[note] (p.53) Nagumo's claim that Manabu recognized Ayanokōji.
+[mentioned] (p.77) “Horikita Manabu, but he was still a senior student and representative of this school.” — the narration's placement; Horikita Manabu is named.
+[note] (p.77) The man was still a senior student and school representative at the time of the island exam.
+
+### y2v7 p.6–202 — Noise hits (surname shared with Suzune) — no content for this ledger
+[note] (p.6) "Horikita Suzune" — not this character.
+[note] (p.8) "● Horikita Suzune, Student Council Member Bonus: 10,000 points" — not this character.
+[note] (p.11) Keisei first, Horikita second, Sudō 11th — not this character (this character is not named on this page).
+[note] (p.13) Horikita trailing Keisei by 3 points — not this character.
+[note] (p.15) Horikita in the maid-café meeting — not this character.
+[note] (p.27) Ike carries the leak; Horikita not named as a speaker — not this character.
+[note] (p.29) Horikita and Ryūen's equal-terms framing — not this character.
+[note] (p.32) Ichinose/Kanzaki pass — not this character.
+[note] (p.37) Nagumo's announcement on the festival during the infirmary scene — not this character.
+[note] (p.39) Asahina on the competition surrounding Nagumo — not this character.
+[note] (p.43) Kanzaki's confession — not this character.
+[note] (p.54) Horikita's counter-bet — not this character.
+[note] (p.70) Horikita's class portrait — not this character.
+[note] (p.86) Ryūen's café prep; Hiyori's spot — not this character.
+[note] (p.90) Ryūen's "Tell Suzune" — not this character.
+[note] (p.92) Horikita's "inorganic voice" at outdoor advertising — not this character.
+[note] (p.98) Sudō bodyguard scene — not this character.
+[note] (p.108) Kei's rumor chain — not this character.
+[note] (p.111) "Hasebe-san and Miyake-kun seem to be missing" — not this character.
+[note] (p.113) Horikita's "inorganic voice" — not this character.
+[note] (p.118) Hondo & Tonomura flyer run — not this character.
+[note] (p.120) The counter-flyer war — not this character.
+[note] (p.124) Kushida's cookie run — not this character.
+[note] (p.127) Kushida's weakness with Amasawa — not this character.
+[note] (p.130) Ayanokōji's "you should be able to tell us you're not normal" — not this character.
+[note] (p.131) The staffing crisis — not this character.
+[note] (p.143) The Keyaki Mall bench confrontation — not this character.
+[note] (p.147) "Kushida is there, Horikita is there, Yōsuke is there." — not this character.
+[note] (p.151) "Okay Haruka, let's get a shot." — not this character.
+[note] (p.153) The Chabashira maid hire — not this character.
+[note] (p.161) Horikita slips to the student council room — not this character.
+[note] (p.165) Ibuki bursts into the student council room — not this character.
+[note] (p.167) Ibuki's "I got him!" — not this character.
+[note] (p.176) Ryūen identifies Yagami — not this character.
+[note] (p.178) The handwriting match — not this character.
+[note] (p.182) Five adults — not this character.
+[note] (p.184) The maid café finally closes — not this character.
+[note] (p.186) "Don't forget." — not this character.
+[note] (p.193) Nagumo's call summary — not this character.
+[note] (p.197) Kushida's past — not this character.
+[note] (p.199) Chabashira's reaction to Yagami's withdrawal — not this character.
+[note] (p.200) Horikita asleep at her desk — not this character.
+[note] (p.202) The results overview — not this character.
+
+### y2v7 p.41 — Summary of Manabu-specific hits
+[note] (p.41) The Manabu-specific hits (p.41, 48, 50, 53, 77) are recorded above; every other hit matches "Horikita Suzune", not Horikita Manabu.
+<!-- walk: y2v7 Ch.1 → p.53 -->
+<!-- walk: y2v7 Ch.2 → p.71 -->
+<!-- walk: y2v7 Ch.3 → p.83 -->
+<!-- walk: y2v7 Ch.4 → p.106 -->
+<!-- walk: y2v7 Ch.5 → p.130 -->
+<!-- walk: y2v7 Ch.6 → p.160 -->
+<!-- walk: y2v7 Ch.7 → p.183 -->
+<!-- walk: y2v7 Epilogue → p.202 -->
+<!-- walk: y2v7 Afterword → p.207 -->
 
 ## y2v8
 

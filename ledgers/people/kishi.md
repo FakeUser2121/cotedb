@@ -22,5 +22,9 @@ char_id: kishi · class: unknown · status: unknown
 [rel:kiriyama-ikuto] (p.79) The rumor's seed rests in Kiriyama's class — Nagumo pointed at him.
 [rel:yagami-takuya] (p.82) Yagami-kun already knows about Kishi-senpai's rumor from prior notes.
 [rel:nagumo-miyabi] (p.79) Nagumo detonated the Kishi rumor in the middle of a live meeting — he intentionally destabilised the room.
+
+
+
+
 <!-- walk: y2v7 Ch.3 → p.83 -->
 

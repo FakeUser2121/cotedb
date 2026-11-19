@@ -717,6 +717,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.107, 110, 111, 133, 134, 192 — The missing pair, named in panic; named in the caller's recount
+[mentioned] (p.107) “It's rumored that Hasebe-san and Miyake-kun may have been the ones who leaked the information about the maid cafe.” — Horikita; information came down from Kei.
+[mentioned] (p.110) “Hasebe-san and Miyake-kun seem to be missing.” — Horikita's note to Ayanokōji.
+[mentioned] (p.111) “I'm sure you'll be able to handle Hasebe-san and Miyake-kun just fine.” — Horikita's trust in Ayanokōji.
+[mentioned] (p.133) “Hasebe-san is still unavailable?” — Kushida.
+[mentioned] (p.134) “You're not going to abandon Hasebe-san and the others, are you?” — Kushida; she can see what Ayanokōji is about to do.
+[mentioned] (p.192) “The third-year's information network is top-notch; whether it was Kushida Kikyo or Hasebe Haruka, you're able to find them immediately.” — the caller's praise; Hasebe Haruka is named as a located student.
+[note] (p.107–111) The accusation chain names her and Miyake together; her absence was noticed at the opening of the festival; Horikita trusts Ayanokōji to handle them; Kushida clocks it immediately.
+[rel:miyake-akito] (p.107–111) The two of them are named together; both were absent.
+[rel:karuizawa-kei] (p.107) Kei is the source of the rumor chain.
+[rel:kushida-kikyou] (p.133–134) She can read Ayanokōji; she fears for Hasebe-san.
+<!-- walk: y2v7 Ch.5 → p.130 -->
 ### y2v7 p.135–152 — The Keyaki Mall confrontation; her return to the café
 [scene] (p.135) §1 — Haruka sits on a bench in a place with benches for students to take a rest on the road leading to the Keyaki Mall; Akito stands nearby, staring at him; AK approaches.
 [says] (p.135) “How did you find this place, Kiyopon?” — Haruka.
@@ -955,6 +967,8 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.185) She wants to graduate Class A to see Airi (now an idol) without shame.
 [rel:miyake-akito] (p.185) He was going to withdraw with her; stays when she does.
 [rel:ishigami-kyou] (p.186) He reconciles with her and Akito — the three of them smiled slightly at each other.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v9.5

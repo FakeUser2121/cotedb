@@ -2329,6 +2329,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ### y2v7 p.9 — Additional funds: 17,000, third among second-years
 [scene] (p.9) Chabashira displays the numbers: Ryūen's Class C has 17,000 points in additional funds — third among second-years (this class 39,400; Ichinose's 26,600; Sakayanagi's 18,800).
 [number] (p.9) Ryūen's class additional funds: 17,000 — “17,000 points for Ryūen's Class C.”
+### y2v7 p.18–27 — Team-up under suspicion; his name said aloud
+[mentioned] (p.18) “I'm worried about your class, my friend. It seems that you have teamed up with... Ryūen for the sports festival, but do you think you can trust him forever?” — Hashimoto to Horikita.
+[mentioned] (p.20) “I agree with Horikita. I don't think they expected Horikita and Ryūen to” — the two of them teamed up in the sports festival; the planners discuss them.
+[mentioned] (p.27) “Does this mean that Ryūen-kun betrayed us after all? You said it was okay,” — Maezono's question.
+[rel:maezono] (p.27) She doubts him; Horikita told her it would work.
 ### y2v7 p.28–31 — Ryūen: the "declaration of war"
 [says] (p.29) “I helped you in the sports festival to destroy Class A.”
 [says] (p.29) “We'll have the same concept as you guys.” — copying the maid café
@@ -2339,6 +2344,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.28) He arrives with Ishizaki, Albert and Kaneda.
 [rel:kaneda-satoru] (p.28) He smirks as he adds the stall-content details.
 [rel:yamada-albert] (p.28) He arrives with Ishizaki, Albert and Kaneda.
+### y2v7 p.29–31 — The wager at the hallway
+[mentioned] (p.29) “The one who earns as many points as possible will receive 5 million points from the other class. Wouldn't that be an interesting match?” — Рюэн’s gambit in the hall; the bet is declared.
+[note] (p.37) “Ryūen's class also decided to participate in a maid café.” — Asahina's line; the 3rd year Class A's Asahina confirms Ryūen's class joined the same concept.
+[mentioned] (p.54) “N MONDAY 8 NOVEMBER, we were surprised by Ryūen and his friends' entry into the concept café.” — the chapter opens on Monday, November 8; his surprise entry into the concept café is witnessed first-hand.
+[mentioned] (p.54) “In response to the bet proposed by Ryūen, Horikita countered with a one-million-private-point match with the agreement of the classes.” — Horikita's counter.
 ### y2v7 p.46 — He pressed Nagumo for a tens-of-millions bet
 [scene] (p.46) At the student council room, Nagumo tells Ayanokōji: Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
 [says:nagumo-miyabi] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo to Ayanokōji.
@@ -2348,6 +2358,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:nagumo-miyabi] (p.46) He tried to buy a wager with him; Nagumo refused.
 
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.73–104 — The festival days of his class
+[mentioned] (p.73) “That's true. And with what happened to Ryūen-kun and the others, too.” — Horikita's line on Tuesday.
+[mentioned] (p.104) “perhaps due to her repeated contact with unusual people like Ayanokōji, Ryūen, or Amasawa.” — the narration about Kushida's tolerance for unusual people.
+
+<!-- walk: y2v7 Ch.3 → p.83 -->
 ### y2v7 p.86–90 — The Traditional Japanese café; “Tell Suzune”
 [scene] (p.86) §1 — inside Ryūen's class's stall, “Special 02” is across the way; the concept of Ryūen's class is “Traditional Japanese style.” The food and beverages were also completely different, including Japanese sweets and tea.
 [note] (p.88) “It seems that Ryūen-kun went to check Class A.” — “Class A?” — “Because they haven't disclosed what kind of presentation they were going to put on.” — Hiyori told him.
@@ -2365,6 +2380,26 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.88–89) The unknown presentation of Class A; Ryūen went to check.
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.117–130 — The flyer war; the competition
+[mentioned] (p.117) “Ike pointed to where several girls from Ryūen's class were shouting.” — Ryūen's flyer brigade floods the school.
+[mentioned] (p.121) “The maid café was on the road to success. However, the fact that Ryūen made his” — Ryūen's early move's effect; the other classes follow Ryūen's lead.
+[mentioned] (p.130) “even Ryūen and Akito should be strong in fights, even if they are self-taught.” — Ayanokōji's claim; Ryūen is named in the martial-arts bit.
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.151–202 — The final hour; second place; the caller's recount; his class's points
+[mentioned] (p.151) “Ryūen's classes.” — the concept cafes well received by both Horikita's and Ryūen's classes; the one-on-one competition stunned many of the guests.
+[mentioned] (p.153) “to the students in Ryūen's class.” — the Japanese concept café's line is full too; “This one is just as busy as the other one.” — Ayanokōji's observation.
+[mentioned] (p.187) “But Ryūen's place is also in second place, and Sakayanagi's class is in fourth place, which is quintessential.” — the final placement.
+[mentioned] (p.187) “assumed from the beginning that Ryūen's class would also be in the top position.” — the intuition confirmed.
+[mentioned] (p.190) “It's not that I, Ryūen, and Katsuragi couldn't have forced the issue by ourselves.” — Ayanokōji's line; the trio's alliance.
+[mentioned] (p.199) “Even so, I didn't think you were cooperating with Ryūen's class under the guise of being hostile to them.” — Chabashira's line.
+[mentioned] (p.202) “Class C led by Ryūen: 740” — the final class points of the November festival.
+
+
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 ### y2v7 p.175–182 — Ryūen exposes Yagami
 [scene] (p.175) Ryūen-kun was not the only one who showed up; two of his classmates also showed up; Sakagami-sensei and Mashima-sensei also showed up later in the student council room.
 [says] (p.175) “Oh, you look pretty good in that outfit, Ibuki. What do you think, Kinoshita?” — Ryūen.
@@ -2445,6 +2480,8 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:kinoshita-minori] (p.175–182) He brought her too.
 [rel:ibuki-mio] (p.180–182) She's knocked down by Yagami; Ryūen helps her up and leaves.
 [rel:sakagami] (p.181–182) Sakagami (his homeroom teacher?) witnesses Yagami kick/punch Mashima; Sakagami assists the wounded Mashima.
+
+
 <!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8

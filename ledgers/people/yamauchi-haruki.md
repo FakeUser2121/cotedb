@@ -877,7 +877,15 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 ### y2v7 p.25 — The three idiots; withdrawal
 [mentioned] (p.25) “Sudō used to hang out with Yamauchi so much that he was once called one of the three idiots alongside Ike.” — the narration; “That must be why Yamauchi's withdrawal was particularly painful for him.” — his withdrawal is the model Sudō measures Haruka's situation against.
 [rel:sudou-ken] (p.25) His withdrawal is the personal wound Sudō carries into the Haruka/Akito crisis.
+
+
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.185 — Yamauchi-kun named in Haruka's confession speech
+[scene] (p.185) §2 — Haruka speaks to her class about her withdrawal decision; Sudō and Ike listen.
+[says:hasebe-haruka] (p.185) “who left the school would be unhappy. Yamauchi-kun, who disappeared last year,” — Haruka's confession speech; Yamauchi-kun's name is invoked as the name of someone who left.
+[note] (p.185) “At the mention of Yamauchi's name, Sudō, Ike, and the others seemed to be” — the room all hears the name; the echo lands.
+[rel:sudou-ken] (p.185) Sudō and Ike listen.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

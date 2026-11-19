@@ -701,6 +701,43 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.30–206 — Named in Ryūen's counterproposal; in the council analysis; in the caller's recap
+[mentioned] (p.30) “Well, I would've preferred a more flashy battle with a different opponent, but Student Council President Nagumo ran away, saying that he wouldn't participate in the festival this time.” — Ryūen's explanation of why he targeted Horikita instead; Nagumo ran.
+[mentioned] (p.37) “Nagumo is saying that he's going to let the nonA's compete and pick one student from the class that takes first place,” — Asahina tells Ayanokōji the festival policy.
+[mentioned] (p.41) “Nagumo had never experienced losing, rather, only winning streak after winning streak.” — the narration.
+[mentioned] (p.43) “Because Student Council President Nagumo Miyabi has actually implemented this and it's shown to be effective. Concentrating private points on Ichinose is what we've been doing.” — Kanzaki's account to Ayanokōji (recap of Nagumo's system).
+[note] (p.37) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — printed in Nagumo's speech run; flagged untagged; not assigned.
+[mentioned] (p.75) “Actually, one of my friends asked me to give it to Nagumo Miyabi, the student council president.” — Ichihashi Ruri's line about Nagumo; the letter is for Nagumo.
+[mentioned] (p.161) “The student council was closed for a while due to the circumstances of Student Council President Nagumo.” — the chapter opens; the students knew what was happening.
+[mentioned] (p.167) “It was in regards to the comments made by Student Council President Nagumo, wasn't it?” — Yagami's reply to Horikita.
+[mentioned] (p.192) “I've once again realized the power of Student Council President Nagumo.” — the caller's praise.
+[mentioned] (p.193) “Of course. I'm looking forward to it, President Nagumo.” — Ayanokōji's farewell to the caller.
+[note] (p.206) “Nagumo > Yagamid.” — BGS003#2745's editor quote in the RoyalMTL's credits page; Nagumo is named in the credits as the winner of the Nagumo-Yagami match.
+[rel:ichinose-honami] (p.37) Asahina tells Ayanokōji about Nagumo's plan to pick one student from the winning class; Ichinose is the likely target.
+[rel:ryuuen-kakeru] (p.30) Ryūen chose Horikita because Nagumo refused to fight.
+[rel:yagami-takuya] (p.167) Yagami names Nagumo in the student-council meeting notes.
+<!-- walk: y2v7 Afterword → p.207 -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 ### y2v7 p.31–32 — The Class A maze; the pre-opening
 [scene] (p.31) Rumors fly: 3rd-year Class A will rent out gymnasium space for a combined “haunted house” and “maze” exhibit — as if they had no intention of hiding it from the start; the class consensus was to let him do what he wants; winning was secondary.
 [note] (p.31) “Perhaps it wasn't Nagumo's plan, but the consensus of the class was to let them do what they want. They were handling the festival in a way that made others think that winning was secondary.” — the narration.
@@ -1022,6 +1059,8 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:amasawa-ichika] (p.181–182) She arrives with the instructors; she walks out with Yagami; they are related.
 [rel:mashima-tomonari] (p.176–182) He stood up in pain; he left with Sakagami's help.
 [rel:ibuki-mio] (p.175–182) She speaks; he dismisses.
+
+
 <!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8

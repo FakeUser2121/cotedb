@@ -52,3 +52,8 @@ char_id: tomose-shunsaku · role: Illustrator · status: minor
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.204 — Named in the author's afterword
+[mentioned] (p.204) “A volume '0' so to say, which will come with the DVD bonus. It was really hard work, and since it is volume 0, it goes into Ayanokōji's past. The illustrator, Tomose-sensei, has cooperated fully with me, and” — Kinugasa's announcement; Tomose is named as the illustrator of the volume 0 DVD bonus.
+[note] (p.204) "The illustrator, Tomose-sensei" — the only appearance of the name in this volume.
+<!-- walk: y2v7 Afterword → p.207 -->
+

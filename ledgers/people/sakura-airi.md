@@ -1206,6 +1206,13 @@ aliases used for anchors: sakura, airi, sakura-san
 
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.131, 133, 191, 193 — The Airi-thread's footnotes in his ledger
+[mentioned] (p.131) “What Airi Left Behind” — the chapter title itself.
+[mentioned] (p.133) “You mean payback for Sakura-san's expulsion? You participated in the preliminary discussion, right?” — Kushida to Ayanokōji; Airi's expulsion is invoked.
+[note] (p.133) “Haruka and Airi were looking forward to the cultural festival. That's why they were going to see it through until the end.” — Ayanokōji's read of the pair.
+[mentioned] (p.191) “The voice sounded familiar: It was Tsubaki Sakurako, a student in first year” — the unknown number caller is Tsubaki Sakurako (not Airi).
+[mentioned] (p.193) “Tsubaki Sakurako, who was in front of me then.” — who Tsubaki Sakurako is.
+[note] (p.191–193) Tsubaki Sakurako's given name "Sakurako" echoes Sakura Airi's name — nothing on these pages confirms or denies any relation; not assigned.
 ### y2v7 p.136–151 — The uniform box; the Shizuku reveal
 [scene] (p.135–147) AK approaches the bench at Keyaki Mall with a cardboard box; Airi's maid uniform inside; the withdrawal letters.
 [note] (p.136) “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka's worldview breaks in one moment.
@@ -1230,6 +1237,8 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.185) “Sakura-san, she seems to be working hard to become an idol; you can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — Kushida.
 [note] (p.185) The common perception that emerged was the fact that Airi had taken a new step forward; “You can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — the students were surprised; others thought it was a good idea.
 [note] (p.185) “Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her.” — Haruka; she chose to stay at this school.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

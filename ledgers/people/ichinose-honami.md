@@ -1879,6 +1879,15 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says:chabashira-sae] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds.”
 [number] (p.9) Ichinose's class additional funds: 26,600 — “this class has the most additional funds among the second-year students.”
 [rel:horikita-suzune] (p.9) Both their classes lead the second-year additional funds; both received the 10,000 student-council member bonus.
+### y2v7 p.29–108 — Ichinose in the leak discussion; in Nagumo's mouth; in the council
+[mentioned] (p.29) “you team up with Sakayanagi-san, or Ichinose-san and the others?” — Yōsuke's question to Horikita; he asks if she allied with Ichinose.
+[mentioned] (p.52) “toying with Ichinose, Horikita, or anyone else. It would be wise not to think you” — Nagumo's jab to Ayanokōji.
+[note] (p.73) “If it was Ichinose, she would’ve taken it as if it was the only thing that” — the narration: Horikita's read of Ichinose (she would've taken one thing as the only thing).
+[note] (p.108) “The student council had gained three people from this year's first years; the second years only had Ichinose for a long time.”
+[note] (p.108) “There was a distinct lack of” — the narration continues about Ichinose's absence at the student council.
+[note] (p.202) “Class D led by Ichinose: 675” — the final class points of the November festival.
+[rel:nagumo-miyabi] (p.52) Nagumo's jab.
+<!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.32–33 — Scouting Class A's exhibit; awkward around Ayanokōji
 [scene] (p.32) After school, Ichinose is in line at the gymnasium haunted-house pre-opening — with Kanzaki; Ayanokōji arrives; she bows and averts her eyes; Kanzaki silently joins the line behind them both; the awkwardness is mutual.
 [says] (p.32) “That's great of the president. I can't believe he's going to show it off to the public so openly.” — Ichinose.
@@ -1915,7 +1924,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kanzaki-ryuuji] (p.112–113) He reports the sweets-stall math; his priorities have shifted.
 ### y2v7 p.120 — The counter-flyer war spreads
 [mentioned] (p.120) Ordinary students begin to hear about the one-on-one match-up; speculation led to rumors, and rumors led to speculation — "Did you hear Horikita's class and Ryūen's class are playing for a lot of money?" / "I heard that the leader of the losing class is getting expelled?" — spreading through the school.
+
+
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.206 — Ichinose class in the credits
+[mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji will be 'stolen' from Horikita class, and join Ichinose. Best girl Honami will become relevant again. You heard it here first.” — Cast#5942's editor quote in the RoyalMTL's credits page; Ichinose's class is the editor's prediction for the year-end exam.
+<!-- walk: y2v7 Afterword → p.207 -->
 
 ## y2v8
 

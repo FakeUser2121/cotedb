@@ -1323,7 +1323,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.18–19) “In the end, Sakayanagi didn't say anything and went into the class we watched earlier.” — Sakayanagi withdraws to the rooms; the Class A trio's real purpose stays hidden.
 [rel:hashimoto-masayoshi] (p.17–18) Her silent partner in the probe.
 [rel:kamuro-masumi] (p.17–18) Her scouting partner.
-
+### y2v7 p.29, 42, 73, 112, 115, 182, 189 — The Sakayanagi shadow in the festival
+[mentioned] (p.29) “Did you team up with Sakayanagi-san, or Ichinose-san and the others?” — Yōsuke's guess about the leak; Sakayanagi is named as a possible partner B.
+[mentioned] (p.42) “Classes like yours will eventually have to fight against Sakayanagi's class.” — Kanzaki's line.
+[mentioned] (p.73) “If it was Sakayanagi or Ryūen, they would've listened and dismissed it.” — Horikita's read of Sakayanagi's personality.
+[note] (p.112) Section: see Yoshida Kenta's ledger for the peeking-boy entry.
+[mentioned] (p.115) “Sakayanagi. However, as noon approached, there was no sign of any change.” — at the festival, the hot seat was hers alone to sell out.
+[mentioned] (p.182) “Rest assured that we will pass everything on to Chairman Sakayanagi.” — the adults' owners; Chairman Sakayanagi is the school's chairman.
+[mentioned] (p.189) “Yes, Sakayanagi-san heard a lot of information from third parties. I'm sure that Hashimoto-kun and other spies must've told her about this as well. The two classes were supposed to cooperate with each other, but they got into a dispute, and Ryūen-kun unilaterally betrayed them.” — Horikita's explanation to the planners.
+[note] (p.189) Horikita's read: Hashimoto-kun was one of her spies; unconfirmed.
 <!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.88–90 — The Class A floor: locked down
 [scene] (p.88) §1 sweep — the third floor of the special wing is the farthest from the school gate and the hardest to reach; Sakayanagi's class rented everything there; the 2nd year Class A students roamed the third floor corridors as they pleased.
@@ -1353,6 +1361,8 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.188) Either way, it meant that Sakayanagi won't be easily satisfied; it was clear that they were steadily producing results, even though they appeared to have abandoned the game.
 [note] (p.202) Class A led by Sakayanagi: 1201; Class B led by Horikita: 966; Class C led by Ryūen: 740; Class D led by Ichinose: 675.
 [note] (p.186–187) 4th place, 2nd year A class (+ 100 class points).
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

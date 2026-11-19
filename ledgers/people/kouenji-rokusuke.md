@@ -939,7 +939,14 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:hasebe-haruka] (p.84) The same exemption.
 [rel:miyake-akito] (p.84) The same exemption.
 [rel:horikita-suzune] (p.84) Her reasoning about the non-cooperators.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.184, 186 — Kōenji absent from the festival's closing ceremony
+[mentioned] (p.184) “classmates (except Kōenji) gathered at the maid café.” — the gathering excludes Kōenji.
+[mentioned] (p.186) “Skipping the festival is a problematic behavior, but fortunately it doesn't violate any rules. Kouenji-kun hasn't shown up once since this morning, so it's the same thing.” — Horikita's line to the class.
+[rel:horikita-suzune] (p.186) She names him as one who skipped all morning.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 
