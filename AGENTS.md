@@ -28,6 +28,7 @@ generated later from complete, consistently anchored ledgers.
 | `gen/` | the generator (`model.py`, `render.py`, `build.py`, `markers.json`, `assets/`) | owner only |
 | `docs/` | the built site | **nobody**: it is generated |
 | `kb/` | walk tools (`cote.py`, `cote_mcp.py`, `walk_locate.py`, `verify2.py`, `verify3.py`) and the validator (`validate_site.py`, `schema/`) | owner only |
+| `functions/` | Cloudflare Pages Functions: search telemetry (`api/collect`, `api/stats`); see `functions/README.md` | owner only |
 | `progress2.md`, `progress3.md` | walk log; what shipped | you |
 | `PROGRESS.md` | history of the earlier phases | read only |
 | `archive/` | retired work | nobody; never run, import or copy from it |

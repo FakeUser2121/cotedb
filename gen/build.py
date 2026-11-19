@@ -600,7 +600,7 @@ def service_worker(files):
     for rel in sorted(files):
         h.update(rel.encode())
         h.update(files[rel].encode("utf-8"))
-    core = ["index.html", "assets/style.css", "assets/app.js", "assets/meta.js", "assets/fx.js"]
+    core = ["index.html", "assets/style.css", "assets/app.js", "assets/meta.js", "assets/telemetry.js", "assets/fx.js"]
     warm = sorted(PAGES) + ["assets/search-index.js"]
     text = (ASSETS / "sw.js").read_text(encoding="utf-8")
     h.update(text.encode("utf-8"))
@@ -641,7 +641,7 @@ def main():
     R.FILES["assets/search-index.js"] = search_index()
     vols = "window.VOLS=" + json.dumps([[v["ord"], v["label"], v["short"], v["id"]] for v in m.vols], ensure_ascii=False) + ";\n"
     R.FILES["assets/meta.js"] = vols + (ASSETS / "boot.js").read_text(encoding="utf-8")
-    for name in ("style.css", "app.js", "fx.js"):
+    for name in ("style.css", "app.js", "telemetry.js", "fx.js"):
         R.FILES[f"assets/{name}"] = (ASSETS / name).read_text(encoding="utf-8")
     R.FILES["sw.js"] = service_worker({**PAGES, **R.FILES})
     if out.exists():

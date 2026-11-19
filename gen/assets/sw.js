@@ -59,6 +59,7 @@ self.addEventListener('fetch', function(e) {
     if (r.method !== 'GET') return;
     var u = new URL(r.url);
     if (u.origin !== self.location.origin || u.href.indexOf(scope) !== 0) return;
+    if (u.href.indexOf(abs('api/')) === 0) return; // telemetry + stats: always live, never cached
     var key = keyOf(u);
     e.respondWith(
         caches.open(V).then(function(c) {

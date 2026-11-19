@@ -53,7 +53,8 @@ const type=(w,el,v)=>{el.value=v;el.dispatchEvent(new w.Event('input',{bubbles:t
  ok(!$('#sr').hidden&&$('#sr').querySelectorAll('a').length>=2,'header search returns results ('+$('#sr').querySelectorAll('a').length+')');
  ok(/Sud/.test($('#sr').textContent),'search "sudo" finds Sudō Ken');
  type(w,q,'horikta');await wait(300);
- ok(!$('#sr').hidden&&/Horikita/.test($('#sr').textContent),'fuzzy search "horikta" finds Horikita ('+$('#sr').querySelectorAll('a').length+')');w.close();
+ ok(!$('#sr').hidden&&/Horikita/.test($('#sr').textContent),'fuzzy search "horikta" finds Horikita ('+$('#sr').querySelectorAll('a').length+')');
+ ok(!w.coteTel,'telemetry is inert on file://');w.close();
  w=await open('topics/who-knew-what.html');ok(w.document.querySelectorAll('.results .card').length>0,'topic page renders entry cards');w.close();
  w=await open('index.html');$=s=>w.document.querySelector(s);
  const H=w.document.documentElement;
@@ -69,4 +70,34 @@ const type=(w,el,v)=>{el.value=v;el.dispatchEvent(new w.Event('input',{bubbles:t
  const th=$('#theme');if(th){click(w,th);const stored=decodeURIComponent(w.name||'');
   ok(/"theme":"(light|dark)"/.test(stored),'theme choice is mirrored for file:// pages ('+stored+')')}
  w.close();
+
+ // ---- telemetry (https origin, scripts inlined at end of body, stubbed fetch)
+ const readA=n=>fs.readFileSync(path.join(site,'assets',n),'utf8');
+ const telOpen=async(rel,hash,calls)=>{
+  let html=fs.readFileSync(path.join(site,rel),'utf8').replace(/<script src="[^"]*assets\/(meta|telemetry|app)\.js" defer><\/script>/g,'');
+  const js=['meta.js','search-index.js','telemetry.js','app.js'].map(readA).join('\n;\n');
+  html=html.replace('</body>',()=>'<script>'+js+'</script></body>');
+  const d=new JSDOM(html,{runScripts:'dangerously',pretendToBeVisual:true,
+   url:'https://cote.test/'+rel+(hash||''),
+   beforeParse(win){win.fetch=(ep,init)=>{calls.push({ep:ep,events:JSON.parse(init.body)});return Promise.resolve({ok:true})}}});
+  d.window.HTMLElement.prototype.scrollIntoView=function(){};await wait(400);return d.window};
+ const flat=calls=>calls.flatMap(c=>c.events);
+ let calls=[];w=await telOpen('index.html','',calls);$=s=>w.document.querySelector(s);
+ ok(!!w.coteTel,'telemetry arms on https');
+ type(w,$('#q'),'sudo');await wait(1300);w.dispatchEvent(new w.Event('pagehide'));
+ let evs=flat(calls);ok(evs.some(e=>e.k==='q'&&e.s==='nav'&&e.q==='sudo'&&e.w==='pause'&&e.n>0),'typed pause is logged without Enter ('+JSON.stringify(evs[0]||null)+')');
+ ok(calls.every(c=>c.ep==='api/collect'),'collector endpoint is same-origin relative');
+ calls.length=0;type(w,$('#q'),'sudo');w.dispatchEvent(new w.Event('pagehide'));
+ ok(flat(calls).length===0,'identical query is not logged twice');
+ calls.length=0;type(w,$('#q'),'ayanokoji');await wait(300);
+ const hit=$('#sr a[href]');ok(!!hit,'nav results render for click test');
+ if(hit){click(w,hit);evs=flat(calls);
+  ok(evs.some(e=>e.k==='q'&&e.q==='ayanokoji'&&e.w==='click'),'final query committed on result click');
+  ok(evs.some(e=>e.k==='c'&&e.s==='nav'&&e.q==='ayanokoji'&&e.h),'result click is logged with its href')}
+ calls.length=0;type(w,$('#q'),'ryuen');w.dispatchEvent(new w.Event('pagehide'));
+ ok(flat(calls).some(e=>e.k==='q'&&e.q==='ryuen'&&e.w==='leave'),'uncommitted typing is logged on page leave');w.close();
+ calls=[];w=await telOpen('search/index.html','#q=horikita',calls);
+ w.dispatchEvent(new w.Event('pagehide'));evs=flat(calls);
+ ok(evs.some(e=>e.k==='q'&&e.s==='search'&&e.q==='horikita'&&e.w==='init'&&e.n>0),'search-page deep link is logged as init');
+ ok(calls.every(c=>c.ep==='../api/collect'),'endpoint resolves from a nested page');w.close();
  console.log(fails?`\n${fails} FAILED`:'\nall browser checks passed');process.exit(fails?1:0)})();
