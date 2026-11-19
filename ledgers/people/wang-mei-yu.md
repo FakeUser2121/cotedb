@@ -229,14 +229,12 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — wang-mei-yu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.22-24, p.54, p.172, p.184, p.207.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.207 — "Wang-san": the identity question
+[mentioned] (p.207) "Speaking of romantic connections, Wang-san has been asking me for advice." — Kushida's spear aimed at the girls' caste.
+[note] (p.207) The print never resolves who Wang-san is — Mii-chan (Chinese surname Wang, a crush on Hirata-kun, "No, please don't!" + her freeze at Hirata) vs a distinct Wang girl; the roster carries both wang-mei-yu and asahina-nazuna; owner decision pending (as flagged since y2v10).
+[mentioned] (p.172) Mii-chan is named among those who answered the eye-contact interrogation.
 
-
-
-
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

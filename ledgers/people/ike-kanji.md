@@ -1266,6 +1266,23 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.98) "Ike and Satō were the first to speak up" — the two bracket-for-lowest-grades students; Ike's line is the preceding one.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172, 177–178, 193–194, 197, 218, 227 — Ike: the Group's voice cracks
+[scene] (p.172) Present in the eye-contact interrogation — almost certainly answered "I am voting against" like everyone else.
+[scene] (p.177) Watches Ayanokōji confess to voting in favour — nothing for him to do.
+[says] (p.193) "Come on, Ayanokōji. You said you could tell who voted in favour, so I just shut up and listened. That's impossible."
+[says] (p.193) "That's right. What Ayanokōji-kun is saying is ruinous and bitterly unfair."
+[says] (p.193) "What's with the habit of leading people to agree with you, and then only mentioning Kushida-san's name when you're pissed off?"
+[note] (p.193–194) Adjacent narration: "It was Ike who denied it. And his voice soon spread."
+[says] (p.218) "Well, wait a minute, Ayanokōji. The people in the class voted in favour of you because you're not a traitor."
+[note] (p.218) "It's not just Ike who is unhappy, I'm sure it's all of us." — untagged; alternation with Yōsuke's intervening line; adjacent-context attribution.
+[says] (p.183) "Don't worry, Ken. I'll vote against for you... so you can definitely protect me too, okay?"
+[trait] (p.172–227) The Group's loudest defense of Kushida at first, then the first to grasp how bad it is — denies the name-calling at top volume, then falls silent as the evidence lands; never looks at Airi again; walks out with the others.
+[rel:kushida-kikyou] (p.193–194) Defends her instinctively; collapses when the evidence lands.
+[rel:ayanokouji-kiyotaka] (p.193–218) His best friend — the one he finally fails to reach.
+[rel:hasebe-haruka] (p.219–227) Her fury at Kiyopon includes him.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

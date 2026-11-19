@@ -1870,6 +1870,24 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:sakura-airi] (p.46–55) The rival claim — Airi's quiet collapse at lunch referenced.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.176–190, 202, 227–228 — Kei's anger
+[scene] (p.176) Watches the first anti-unanimity collapse; the class wavers; the 12th vote flips.
+[says] (p.186) "You've got to be kidding me!"
+[says] (p.186) "Why should Kiyotaka have to be expelled? You were about to run out of time, so you just said let's put it in the same disgusting way and agree. Where's the responsibility in that?"
+[says] (p.186) "I'm not going to vote for Kiyotaka's expulsion. At that point, you know he's never going to be expelled, right?"
+[says] (p.186) "You're so selfish. If I don't declare my intentions, how am I going to avoid being expelled? You won't be able to go to Class A because your time is up? So what? Kiyotaka is everything to me, I don't care if I'm in Class B or Class D."
+[says] (p.202) "Ha... breasts! What do you mean, "breasts"?"
+[note] (p.202) The print gives no name tag for the breast-scene interjection lines; the vocative "Kei" and the surrounding narration anchor the sequence to her; adjacent-context attribution.
+[says] (p.190) "Yeah, I agree with you...! That's the person who should take responsibility for...
+[scene] (p.227–228) Walks out past everyone; not a word to anyone; her mourning is private.
+[note] (p.202) The print gives no name tag for the interjection lines in the breast scene; the vocative "Kei" and the surrounding narration ("Kei has been venting her anger relentlessly") anchor the sequence to her.
+[trait] (p.176–228) Publicly, passionately, and then silently protective — erupts at Kushida's insinuation; spends everything she has to keep him safe; walks out without a word; she is frozen but intact.
+[rel:ayanokouji-kiyotaka] (p.176–228) Her entire universe now stands teetering; she says nothing; she waits.
+[rel:kushida-kikyou] (p.186–202) The enemy of her heart — she stops first.
+[rel:hasebe-haruka] (p.220–227) The two most shattered people in the room.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

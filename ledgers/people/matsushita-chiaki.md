@@ -261,6 +261,11 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.172, 206 — Matsushita: caught in the fallout
+[mentioned] (p.172) Eye-contact interrogation — she answered like everyone else.
+[mentioned] (p.206) "Karuizawa, Matsushita, Mori and others laughed" at Shinohara's suitors — named in Kushida's spear.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

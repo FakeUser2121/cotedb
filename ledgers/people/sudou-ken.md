@@ -1862,6 +1862,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.110, 117) Her rebukes anchor his outbursts; her calm keeps him inside the class's patience.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.173–188, 223–224 — Sudō: the show of fists
+[says] (p.173) "Oh my God! I'm going out of my mind! I don't know what's going on!"
+[says] (p.173) "Hey, but what are we really going to do? We're running out of time, aren't we?"
+[scene] (p.181) Erupts at the results — "You're all idiots! All those who voted in favour, raise your hands or I'll kill you!"
+[says] (p.181) "You're all idiots! All those who voted in favour, raise your hands or I'll kill you!"
+[note] (p.182) Adjacent narration: "Scratching his head wildly, Sudō slammed his elbow down hard on the desk." — p.173 — and "Sudō stood up irritated, as if he thought that only a few votes at most would be in favour." — p.188
+[says] (p.182) "I can't stop!"
+[says] (p.183) "Naturally, Kanji. That's right. If we protect each other, we'll be absolutely fine, won't we...?"
+[says] (p.224) "No, no... I'm that-"
+[trait] (p.173–224) The can't-stop-trying type — head-slams the desk at the deadlock; threatens the class; votes against religiously; consoles Kushida when she breaks; refuses to consider sacrificing himself.
+[rel:ike-kanji] (p.183) Reciprocal "protect me" pact; both comfort Kushida.
+[rel:horikita-suzune] (p.188) Her one-voter defense is the only thing keeping him inside the exam.
+[rel:kushida-kikyou] (p.184) Comforts her through the collapse.
+[rel:sakura-airi] (p.184–224) His rage at the sacrifice is the most honest in the room.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

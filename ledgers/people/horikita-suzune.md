@@ -4521,6 +4521,50 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.211–217) She protects her from expulsion and reaches her through honest bluntness — a turning point for Kushida.
 [rel:ayanokouji-kiyotaka] (p.217) Her refusal to expel Kushida forces him to take over the "cruel" role of cutting Airi.
 
+### y2v5 p.171–229 — Horikita: her choice (her POV in Parts One–Two)
+[scene] (p.171) The tenth round ends at 1 in favour / 38 against; she personally rounds up the class and drives them through ten minutes of eye-to-eye interrogation; Kōenji won't raise his hand but claims he votes against.
+[says] (p.172) "What about you, Ayanokōji-kun?"
+[says] (p.172) "Right..."
+[scene] (p.173–180) Three hours of fighting; the deadline two hours away; she cannot force a change; she and Ayanokōji converge on the inevitable — unanimity in favour.
+[scene] (p.177) Questioned by Ayanokōji about her motive, she admits she has a reason tied to Kushida, but gives no answer yet.
+[scene] (p.188) Self-nominates as the expulsion candidate to keep the vote non-unanimous for Kushida's sake — "Right. We're running out of time to vote. You have to do it. Please nominate me for expulsion."
+[says] (p.188) "Right. We're running out of time to vote. You have to do it. Please nominate me for expulsion."
+[says] (p.188) "If I'm going to put one vote between us anyway, I want to make sure it's the right one."
+[note] (p.188) The second line is a continuation of the same speaker; printed untagged after the monitor's interjection; adjacent-context attribution via alternation; named voice is Horikita by the surrounding narration.
+[scene] (p.208–210) Her POV — the frozen clock; she alone has been fighting for Kushida since before any of them knew; she holds the class back from their worst impulse and then chooses to fight; the clock resumes.
+[says] (p.211) "Don't go any further, Kushida-san. You won't be able to turn back."
+[says] (p.211) "Not so fast. I can't listen to any more ugly stories."
+[says] (p.211) "Yes. At least I don't think these revelations are beautiful."
+[says] (p.211) "You guys told Kushida-san a secret you didn't want anyone to know. Why is that?"
+[says] (p.211) "But instead of making her pay for it with expulsion, you can use her skills to pay us back many times over in the future."
+[says] (p.211) "I think... I think I want to keep Kushida-san in this class."
+[says] (p.212) "I don't like to make jokes, unfortunately. I'm serious."
+[says] (p.212) "It wasn't dumb, it wasn't funny, it was just plain ugly."
+[says] (p.212) "You have some personality problems,"
+[note] (p.212–213) The sentence continues onto the next page ("But you're a much harder worker than I am." p.213) across the printed page break — the credit line sits between "But" and "you're"; quoted only the in-page fragment.
+[says] (p.213) "Be kind with lies. Faking kindness. That's terrible? That's just frivolous."
+[says] (p.213) "She has a talent that no one else has, and to expel her is a huge loss to the class."
+[says] (p.213) "Therefore I cannot agree with Kushida-san's withdrawal from the school."
+[says] (p.213) "It's only when I knew everything about you that I developed a great liking for you."
+[scene] (p.216) She nominates herself again — "We're running out of time. The people who are voting for Kushida-san, please vote for me. I'll explain later."
+[says] (p.216) "We're running out of time."
+[says] (p.216) "I'm the one who's going to get expelled! Just nominate me and vote me out!"
+[says] (p.217) "Now that we are in the interval, I will say it again. I'm going to express my opposition to Kushida-san's expulsion."
+[says] (p.218) "I know that protecting Kushida-san is not the end of the story. I've got my own answers."
+[scene] (p.228) Corners Ayanokōji in the corridor — apologizes for the exam; takes partial blame; the group broken; the points won; the girl lost.
+[says] (p.228) "Sorry."
+[says] (p.228) "This special exam... I was not good enough... I was not good enough."
+[says] (p.228) "No matter how tough the fight was, I put a big shackle on you... and you had to take all the responsibility that should have been spread out."
+[says] (p.229) "Look on the bright side. We've gained 100 valuable class points to move closer to Class A."
+[says] (p.229) "But we've lost... Sakura-san."
+[says] (p.229) "Don't do that. You don't need to act unreasonably cruel."
+[says] (p.229) "You... Sakura-san...?"
+[trait] (p.171–229) The only one who fights for Kushida when she has every reason not to — the class's indestructible center — but she didn't save everyone; she wasn't enough; she stays anyway and takes the blame she deserved, and then walks into business as usual with her head high.
+[rel:kushida-kikyou] (p.208–217) She loves her — she refuses to let the class destroy her; she fails.
+[rel:ayanokouji-kiyotaka] (p.171–229) He'd always known Horikita would see Kushida through; she knew he'd orchestrate the endgame; their pact held; her trust in him was the class's last treasure.
+[rel:sakura-airi] (p.229) Passes her in the corridor; neither of them can find words.
+[rel:hasebe-haruka] (p.226–229) The two who fought too late.
+
 ### y2v5 p.228–230 — Aftermath: Horikita's apology to Ayanokōji
 [says] (p.228) "Sorry."
 [says] (p.228) "This special exam... I was not good enough... I was not good enough."
@@ -4529,6 +4573,8 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.228–230) Follows him into the corridor, bows deeply, apologizes for shackling him with all the responsibility; calls out his unreasonable cruelty (he'd been suppressing his pain), seeming to grow through the ordeal; she is unable to find words when Airi passes them.
 [rel:ayanokouji-kiyotaka] (p.228–230) Apologizes and calls him out; their bond deepens via shared burden.
 [rel:sakura-airi] (p.229) Speechless as Airi leaves — can't think of what to say to someone being expelled.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

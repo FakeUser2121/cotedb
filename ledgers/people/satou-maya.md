@@ -484,7 +484,17 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
 
+### y2v5 p.177, 218, 224 — Satō: the small voice
+[scene] (p.177) Watches Ayanokōji confess to the 12th-round "for" vote.
+[scene] (p.218) Listens more carefully than anyone else — "Satō, who had been listening to me more than anyone else, raised her small hand."
+[says] (p.178) "I'm glad to hear that, but it doesn't matter if we don't know who's"
+[note] (p.178–179) The sentence continues onto the next page ("voting... in favour of it. In the end, when the time is up, we'll just have to come up with a random candidate for expulsion. I'm scared." p.179) across the printed page break — quoted only the in-page fragment.
+[says] (p.224) "Wow, me? I'm not really like that-"
+[note] (p.224) Prompted on whether she'd sacrifice herself — she declines ("Wow, me? I'm not really like that-"); printed untagged; adjacent-context attribution via the vocative "Satō".
+[rel:ayanokouji-kiyotaka] (p.177–224) Watches him closely; asked to sacrifice herself; refuses.
+[rel:horikita-suzune] (p.218) Second-guesses the unseen voter more than anyone.
 
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

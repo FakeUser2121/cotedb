@@ -647,6 +647,22 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.118) His intervention doesn't change the vote but stiffens the room's spine.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172, 190, 218–227 — Akito: the silent one awakens
+[scene] (p.172) In the eye-contact interrogation — everyone claims against.
+[scene] (p.190) Follows Kei's lead to defend Ayanokōji.
+[scene] (p.218) The lowest-OAA debate — he proposes to argue for the class, not to settle it.
+[scene] (p.219) Raises his hand to protect Airi — "Akito and Keisei also raise their hands."
+[scene] (p.222) Meets Ayanokōji's eyes — "I don't want you to be expelled from school... I can't vote yes."
+[says] (p.222) "I don't want you to be expelled from school... I can't vote yes."
+[note] (p.222) Adjacent narration: "While showing a bitter and agonizing expression, Akito and I look each other in the eye and answer clearly."
+[scene] (p.227) Rush to Haruka when she collapses; forces her to stand with Ayanokōji.
+[trait] (p.172–227) The quietest member of the Group — when the moment demands it, he becomes its heart — refusing to sacrifice Airi; the last to speak, and the one Haruka hears.
+[rel:ayanokouji-kiyotaka] (p.222–227) The only one who answers him with unconditional honesty.
+[rel:hasebe-haruka] (p.219–227) Protects Airi alongside her; catches her when she breaks.
+[rel:sakura-airi] (p.222–227) Refuses to forget her; carries her weight out.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

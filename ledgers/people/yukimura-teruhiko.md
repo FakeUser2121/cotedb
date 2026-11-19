@@ -999,6 +999,16 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.100–103) Yukimura Teruhiko has no spoken lines on these pages; the print conflates the option-two pitcher with Keisei. Recorded, not resolved; owner decision pending (the same ambiguity pattern is documented for y2v10, where the print names the turn-2 answerer as both Yukimura and Keisei).
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.220–222 — Yukimū: the Group's quiet middle
+[says] (p.220) "No, no! I'm not in favour of it yet!"
+[note] (p.220) Haruka's outburst "Yukimū, you can't be serious! Don't tell me you agree with Airi's expulsion too!?" — his answer, printed untagged; adjacent-context attribution via the vocative "Yukimū".
+[scene] (p.219) Raises his hand alongside Haruka and Akito when called to defend Airi.
+[scene] (p.220) Haruka catches him leaning toward the sacrifice; he retreats to "Not yet" undecided — the Group fractures over Airi's fate.
+[rel:hasebe-haruka] (p.220) Hiding between her fury and his shame.
+[rel:miyake-akito] (p.219–221) The other quiet one of the Group.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

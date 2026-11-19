@@ -234,6 +234,17 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.172, 177, 184, 207 — Mii-chan: the crush revealed
+[scene] (p.172) Present in the eye-contact interrogation.
+[scene] (p.177) Watches Ayanokōji confess to the 14th-round "for" vote.
+[scene] (p.184) Breaks down in public — "Mii-chan rushed over and put her hand on Kushida's back" — sobbing over the collapse of her composure.
+[scene] (p.207) Kushida's spear lands on her — "Speaking of romantic connections, Wang-san has been asking me for advice" — the print follows with "No, please don't!" (her voice, reacting) and "Mii-chan was forced to suddenly look at the person she has a crush on in the middle of the classroom" — her crush on Hirata-kun is outed in front of him; she turns red and breaks down.
+[note] (p.207) The print names her "Wang-san" in Kushida's spear line; the roster carries BOTH wang-mei-yu and asahina-nazuna (the Mii-chan ambiguity flagged for the owner since y2v10) — the print implies Wang-san is Mii-chan here (Chinese surname Wang + the same crush context), recorded as inference-with-adjacent-support; owner decision pending.
+[rel:hirata-yousuke] (p.184–207) Her long-standing crush — the class knows it; Kushida knows it.
+[rel:kushida-kikyou] (p.207) Her secret-keeper — turned prosecutor.
+[rel:hasebe-haruka] (p.184) The Hawker of the group's hearts.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

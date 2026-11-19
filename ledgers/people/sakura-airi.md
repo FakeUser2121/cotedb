@@ -1170,6 +1170,15 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
 
+### y2v5 p.84 — Airi: her first move since the reveal
+[scene] (p.84) Pushed by Haruka, Airi goes up to Ayanokōji with freshly painted courage — she appeals with her eyes, asks him about the cultural festival, "Oh, thank you! I'll see you later, then," and takes a far seat, turning her back to him.
+[note] (p.84) All quotes/lines this page are printed untagged — the speaker alternation (Haruka pushing; Airi approaching; Ayanokōji answering) is the only attribution; no speakers are name-tagged in the print on p.84.
+[trait] (p.84) Wounded but trying — her first outward step toward him since the lunchroom reveal; masks everything behind a courteous ask.
+[rel:hasebe-haruka] (p.84) Her coach and shield; pushes her at him; stays in frame.
+[rel:ayanokouji-kiyotaka] (p.84) Meets his eyes; takes the cultural-festival excuse as her bridge.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
 ### y2v5 p.219–229 — Sakura Airi's voluntary expulsion
 [says] (p.223) "If there is one student in the class who deserve it... maybe it's me."
 [says] (p.223) "You're right about everything. If someone has to drop out, then I, the biggest drag on the class, should disappear."
@@ -1183,14 +1192,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ayanokouji-kiyotaka] (p.219–229) He chose her as the expendable student; she thanks him and shows him her new look at the end — "Bye-bye, Kiyotaka-kun."
 [rel:horikita-suzune] (p.229) Passes her in the corridor; Horikita is speechless.
 
-### y2v5 p.84 — Airi: her first move since the reveal
-[scene] (p.84) Pushed by Haruka, Airi goes up to Ayanokōji with freshly painted courage — she appeals with her eyes, asks him about the cultural festival, "Oh, thank you! I'll see you later, then," and takes a far seat, turning her back to him.
-[note] (p.84) All quotes/lines this page are printed untagged — the speaker alternation (Haruka pushing; Airi approaching; Ayanokōji answering) is the only attribution; no speakers are name-tagged in the print on p.84.
-[trait] (p.84) Wounded but trying — her first outward step toward him since the lunchroom reveal; masks everything behind a courteous ask.
-[rel:hasebe-haruka] (p.84) Her coach and shield; pushes her at him; stays in frame.
-[rel:ayanokouji-kiyotaka] (p.84) Meets his eyes; takes the cultural-festival excuse as her bridge.
-
-<!-- walk: y2v5 Ch.4 → p.126 -->
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

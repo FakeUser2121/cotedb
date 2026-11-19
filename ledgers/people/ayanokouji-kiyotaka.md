@@ -9163,6 +9163,8 @@ walk: y1v1 → DONE
 [rel:ishigami-kyou] (p.227) Keisei walks away, unable to say he did right or wrong.
 [rel:nanase-tsubasa] (p.228) Warns her not to get desperate after her true nature is exposed (no one speaks to her).
 
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
 ### y2v5 p.232–239 — Rooftop with Chabashira: her confession, his cold logic
 [scene] (p.232) Meets Chabashira on the rooftop stairs as promised; she leads the way to the roof, where she leans on the railing against the sunset and confesses the story of her own third-year special exam (a confession).
 [says] (p.232) "By the way, did it end the way you wanted it to? Or was it the other way around?"

@@ -86,6 +86,13 @@ char_id: onodera-kayano · status: minor
 [rel:sudou-ken] (p.95–96) Teammates on the Okinawa rock-paper-scissors team.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172, 207, 224 — Onodera: the interrogation witness
+[mentioned] (p.172) "Whether it was Kushida, Onodera, Okitani, or Mori, everyone answered by looking straight into Horikita's eyes."
+[mentioned] (p.207) On the girls' side of the purge wave.
+[note] (p.224) Asked about volunteering as the expulsion candidate — she declines ("Probably can't-"); printed untagged except the reply fragment; adjacent-context attribution.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

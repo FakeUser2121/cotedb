@@ -144,7 +144,15 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
 
+### y2v5 p.190–198 — Hondō: her loudest defender
+[scene] (p.190–191) As Kushida's cards crumble, he rushes to her defense — "You're just saying it because of a grudge."
+[says] (p.191) "No, I don't care how many times you say it, Ayanokōji, it can't be Kushida-chan..! You're just saying it because of a grudge."
+[note] (p.191) Adjacent narration: "Seeing Kushida's tears welling up with grief, Hondō hurried to follow up."
+[note] (p.198) "It was Hondō who came out in force. It seemed that he had extraordinarily strong feelings for Kushida." — adjacent narration; no [says] rows on p.198.
+[rel:kushida-kikyou] (p.190–198) Her staunchest defender in the room; his protest collapses as her secrets spread.
+[rel:ayanokouji-kiyotaka] (p.190–198) His rebuttal falls flat before the class's eyes.
 
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

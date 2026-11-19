@@ -420,6 +420,13 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.95) "Definitely Hokkaido! Hot springs and Skiing!" (Hokkaido's chant) and "Definitely Okinawa! Beaches and snorkelling" (Okinawa's chant) are printed untagged team chants; no individual chanter is named in the print; the par-versus-par duel is printed as the decisive moment of the general round.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172, 206, 219 — Shinohara: the first spear
+[mentioned] (p.172) Eye-contact interrogation — she answered like everyone else.
+[mentioned] (p.206) Kushida: "Shinohara-san is not particularly cute or pretty, or rather a bit ugly, isn't she? Maybe that's why it's so amusing that only ugly boys like Ike-kun and Komiya-kun come on to her." — the first spear wave.
+[mentioned] (p.219) "girls, including Shinohara and Mori, who owed a debt of gratitude to Shinohara, put their hands up" — protects Ike (one of 11 hands).
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

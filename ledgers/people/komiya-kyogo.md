@@ -224,6 +224,12 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ishizaki-daichi] (p.142) Both prod the class toward compliance.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.172, 206 — Komiya: mentioned in the spear
+[mentioned] (p.172) Eye-contact interrogation — he answered like everyone else.
+[mentioned] (p.206) Kushida: "only ugly boys like Ike-kun and Komiya-kun come on to her" — her taunt reaches him via Shinohara's spear.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

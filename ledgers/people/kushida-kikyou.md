@@ -1880,6 +1880,30 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
 
+### y2v5 p.172–215 — Kushida's mask: the confession, the collapse, the purge
+[scene] (p.171–172) In the eye-contact interrogation; calm as anyone else; the class trusts her with their secrets.
+[says] (p.171) "Hey, hey. I guess we'll just have to vote in favour, won't we?" — no, that's an unnamed student
+[scene] (p.183–188) Her confession sequence — she wails about regretting her choice; begs the class to understand her; blames Ayanokōji's decision; then the offer — "Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
+[says] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
+[scene] (p.188–190) Spams the class with accusations about Kiyotaka's leadership; then volunteers herself as the candidate — "Enough is enough... I can't take it anymore, my heart can't take it any more...!"
+[says] (p.195) "Enough is enough... I can't take it anymore, my heart can't take it any more..."
+[says] (p.196) "So... I'll drop out... and then we'll all be back to normal again, right?"
+[scene] (p.201–206) The last stand — her fake crying begs sympathy; then the purge: she rips through the class's secrets one by one — Shinohara's suitors (Ike/Komiya), Mii-chan's crush on Hirata, Haruka's crush on Kiyotaka, Satō's group dynamics.
+[says] (p.206) "Other than Karuizawa-san just now - yes, Shinohara Satsuki consulted me about various things, right?"
+[says] (p.206) "Shinohara-san is not particularly cute or pretty, or rather a bit ugly, isn't she?"
+[scene] (p.209–213) Horikita confronts her — the class protects her for a moment; Horikita reaffirms her support for her; Kushida screams at Horikita, accusing her of betrayal; begs for mercy; can't face the truth.
+[says] (p.204) "Fufu... I've been a fool, haven't I? That deal was a mistake..."
+[says] (p.205) "In the next vote I will be expelled. This class will get class points because of my sacrifice, huh?"
+[scene] (p.214–215) Total collapse — tears, trembling, repeated "Regret! Regret! Regret!" (TL note flags the ambiguity: regretting her actions in her previous school, her failure to persuade the class, or her treatment of Mii-chan — kept as printed).
+[trait] (p.172–215) The master of false tears — weaponizes the class's secrets she held; the class survives her by one hour; her last act is public self-contempt.
+[rel:ayanokouji-kiyotaka] (p.185–201) Her designated prey — his reveal strips her credibility.
+[rel:horikita-suzune] (p.211–213) The one who defies her to her face; she can't bear it.
+[rel:shinohara-satsuki] (p.206) Her first spear.
+[rel:wang-mei-yu] (p.207) Her second spear.
+[rel:asahina-nazuna] (p.207) Her third spear.
+[rel:hasebe-haruka] (p.207) Her fourth spear.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

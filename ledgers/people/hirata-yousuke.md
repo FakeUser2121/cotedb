@@ -1936,6 +1936,30 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kouenji-rokusuke] (p.112) Appeals to him directly; Kōenji laughs it off.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.171–218, 225 — Hirata: the desperate mediator
+[scene] (p.171) Requests the class do a reverse pattern — against-voters raise hands; all 38 do; only Kōenji doesn't but lies.
+[scene] (p.177) Spokesman for the opposition — he voices the class's anchor argument ("It's not too late. We should pitch against it, in my opinion."); pushes Horikita and Karuizawa's crowd into action.
+[says] (p.171) "If you placed your vote against... please raise your hand."
+[says] (p.177) "It's not too late. We should pitch against it, in my opinion."
+[says] (p.179) "But, but, but that's... closer to the end of the time limit, I'm sure it will be the other way around..."
+[says] (p.182) "Sensei, you don't mind if I nominate myself, do you?"
+[says] (p.182) "Then please vote for me."
+[says] (p.183) "What are we going to do? Are we really going to be able to expel one of us from here?"
+[says] (p.188) "You're only wasting our time with your fussing. Let's talk more"
+[note] (p.188–189) The sentence continues onto the next page ("constructively." p.189) across the printed page break — the credit line sits between "more" and "constructively." — quoted only the in-page fragment; the p.188–189 boundary splits it.
+[says] (p.189) "Horikita-san is right, Sudō-kun. Unanimity is the ironclad rule for this special exam."
+[says] (p.194) "We should only comment on truth or falsehood when we have all the information. Of course, if it turns out to be false, I won't condone it either."
+[says] (p.194) "Yes, it's something you have to listen to. It's not just Kushida-san who's been named, it's Ayanokōji-kun's own future that's at stake."
+[says] (p.218) "But, Horikita-san. I wonder if protecting Kushida-san means choosing to run out of time."
+[note] (p.193–194) The anti-Ayanokōji interruption lines ("Yo yo, Hirata. It's no use listening to Ayanokōji's lies anymore." / "Is it really worth listening to?") are printed untagged; Hirata is the named recipient ("Yo yo, Hirata"); no speakers assigned from context; kept as notes, not [says] rows.
+[trait] (p.171–225) The class's conscience under fire — insists on the raise-your-hand gambit to break the deadlock, warns the class it's too early, self-nominates as the sacrificial candidate to force the endgame (6 in favour / 32 against), then struggles to stop Horikita and Ayanokōji from expelling Airi; fails at both; walks home silent.
+[rel:horikita-suzune] (p.171–218) Her sternest ally — she begs her to find a way out; she ultimately can't stop what the class does.
+[rel:ayanokouji-kiyotaka] (p.177–218) The friend he could never quite save from this situation — Horikita's co-pilot in the end.
+[rel:kushida-kikyou] (p.183–211) He confronts her; she breaks; he tries to shield her too late.
+[rel:hasebe-haruka] (p.224–227) His last flail at stopping the Airi sacrifice.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
