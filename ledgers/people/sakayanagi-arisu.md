@@ -1282,12 +1282,20 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 ### y2v5 p.168–170 — Sakayanagi's class: the queen bluffs
 [scene] (p.168) Class A reaches Q5; like Horikita, Sakayanagi arranged two controlled "for" votes to keep round one non-unanimous and gauge the class.
-[says] (p.169) "100 class points is surprisingly not ridiculous."
-[says] (p.169) "it would be rather nonsensical to choose to drop one superior student in order to pick up 100 class points here."
-[says] (p.169) "I just don't want to have to cry about that 100 class points in the future"
-[trait] (p.168–170) Deliberately lies to her class that she'd expel whoever she chose (a "superior student") — but internally knows she'd never sacrifice a student when not in crisis; her bluff pushes the class to unanimous "against" quickly, clearing the exam.
-[rel:hashimoto-masayoshi] (p.169) She questions him about whether to go for the 100 points; he's surprised by the sudden query.
+[scene] (p.168–169) Hashimoto asks for confirmation immediately after the interval — she asks for his opinion, then frames the math out loud ("It would be rather nonsensical to choose to drop one superior student in order to pick up 100 class points here."); he doesn't expect the question and is surprised by the sudden query.
+[says:hashimoto-masayoshi] (p.169) "100 class points is surprisingly not ridiculous."
+[says:hashimoto-masayoshi] (p.169) "I just don't want to have to cry about that 100 class points in the future"
+[says] (p.169) "It would be rather nonsensical to choose to drop one superior student in order to pick up 100 class points here."
+[says] (p.169) "An interesting way to solve this would be to take expel a student and save them using 20 million private points."
+[says] (p.170) "I do not see you and your classmates the same as Katsuragi-kun and Yahiko-kun, who have left us."
+[note] (p.169) "An interesting way to solve this would be to take expel a student..." — the corpus prints "to take expel a student"; kept as printed; the 20-million-point buyout keeps expulsion unappealable.
+[trait] (p.168–170) Deliberately lies to her class that she wouldn't expel a student — the print says outright: "Sakayanagi told such a lie to the class. In the unlikely event that Class A were to be driven to the brink of ruin, Sakayanagi would have no hesitation in choosing to expel a student." She simply decides now is not the time.
+[rel:hashimoto-masayoshi] (p.168–169) She questions him; he doesn't expect the question.
+[rel:katsuragi-kouhei] (p.170) He left Class A for Class D (this volume's Q5 saga); she cites his departure.
+[rel:totsuka-yahiko] (p.170) He also left Class A; cited in the same line.
 [rel:horikita-suzune] (p.168) She used the same tactic of two controlled votes in favour as Horikita.
+
+<!-- walk: y2v5 Ch.7 → p.170 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

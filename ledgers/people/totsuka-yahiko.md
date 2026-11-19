@@ -259,14 +259,12 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — totsuka-yahiko mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.170.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.170 — Totsuka: the cited departure
+[says] (p.170) "I do not see you and your classmates the same as Katsuragi-kun and Yahiko-kun, who have left us." — Sakayanagi's line; his name is invoked there
+[note] (p.170) Sakayanagi names him and Katsuragi as the two who left Class A; the print establishes nothing more — no page presence.
+[mentioned] (p.170) Named in Sakayanagi's declaration; no scene presence.
 
-
-
-
+<!-- walk: y2v5 Ch.7 → p.170 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
