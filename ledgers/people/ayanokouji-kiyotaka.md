@@ -9794,15 +9794,89 @@ walk: y1v1 → DONE
 [rel:himeno] (p.71) She keeps him close; they take a childlike step forward together.
 <!-- walk: y2v7 Ch.2 → p.71 -->
 
-### y2v7 p.72–83 — Preliminary festival; the "love letter" anagram
-[scene] (p.72) Hears from Horikita that the third-years held a "preliminary festival" the day before to test stalls and get third-party evaluations — this was Nagumo's "strange revenge" (a separate budget collected from students); sees Horikita is concerned about losing.
-[says] (p.73) "Defeat doesn't only mean losing class points. But it's just as bad to fail to earn class points."
-[says] (p.75) "You're no longer paying contributions to Kushida-san, right?"
-[trait] (p.72–83) Notices Horikita broadening her horizons; confirms she's stopped paying Kushida (whose personality has profoundly changed); when Ichihashi asks Horikita to deliver an anonymous "love letter" to Nagumo, he realizes it's a trap and uses the situation — Horikita unwillingly becomes the messenger; at the student council meeting Nagumo acts oddly (late, not happy, mentioning "secret notes" and offering meeting records), and Ayanokōji watches Yagami's reactions — the letter is an anagram, a message only certain people can decode.
-[rel:horikita-suzune] (p.72–77) She's growth-minded; he lets her deliver the letter (she's reluctant) to draw out Yagami/Nagumo.
-[rel:nagumo-miyabi] (p.78–81) He acts strangely (late, mentions "secret notes," offers to show meeting records) — part of the anagram trap.
-[rel:yagami-takuya] (p.75, 81) He's the intended "reader" of the anagram letter; Ayanokōji watches for his reaction.
-[rel:kushida-kikyou] (p.75) Horikita has stopped paying her — Kushida has changed.
+### y2v7 p.72–74 — Tuesday, Nov 9: the preliminary festival; the convenience store
+[scene] (p.72) Tuesday, November 9 — running into Horikita at the elevator; the walk to school; the third-years announce a rehearsal just like the real thing the day before the cultural festival — announced on the bulletin board last night as if to inform all grades; the source was Nagumo — "probably what Nagumo meant last week, when he said that the student council would make a not-so-bad proposal."
+[says:horikita-suzune] (p.72) “Have you heard? The day before the cultural festival, the third year students are going to do a rehearsal just like the real thing.” — Horikita at the dormitory elevator.
+[says] (p.72) “Yeah, I heard they're inviting first years and second years to participate as well.” — the information was posted on the school's bulletin board last night, as if to inform all grades.
+[says:horikita-suzune] (p.72) “The student council has already received participation letters from many classes. I'm sure the classes that have been keeping this under wraps will want to get a third-party evaluation before the festival.” — Horikita.
+[says] (p.73) “So you're saying more classes are taking it in a positive light.” — Ayanokōji.
+[says:horikita-suzune] (p.73) “I think the fact that the 3rd year Class A rented the gymnasium and opened their presentation to the public was a big factor.” — Horikita.
+[says:horikita-suzune] (p.73) “I'm sure the student council's decision to pay for consumable materials and other expenses was also an additional incentive.” — Horikita; a separate budget from the festival's; the council reimburses receipts from its budget; a quota of several tens of thousands of points for each class.
+[says] (p.73) “Let's see what they have in store for us.” — Ayanokōji.
+[says:horikita-suzune] (p.73) “We're going to join in, aren't we?” — Horikita.
+[says] (p.73) “Of course. The whole school knows it's going to be a maid café. It won't hurt to do it.” — Ayanokōji.
+[says:horikita-suzune] (p.73) “That's true. And with what happened to Ryūen-kun and the others, too.” — Horikita gives him a meaningful look.
+[says:horikita-suzune] (p.73) “You don't think we'll lose?” — Horikita.
+[says] (p.73) “I don't know.” — Ayanokōji.
+[says:horikita-suzune] (p.73) “You look pretty confident.” — Horikita.
+[says] (p.73) “I'm not confident. I'm just doing everything I can.” — Ayanokōji.
+[says:horikita-suzune] (p.73) “That's true. Even so, don't you usually feel insecure?” — Horikita.
+[says:horikita-suzune] (p.73) “Maybe I'm scared about losing.” — Horikita; she is concerned she might lose even though she is fully prepared.
+[note] (p.73) “Defeat doesn't only mean losing class points. But it's just as bad to fail to earn class points.” — printed as narration (unquoted); wanting to avoid stagnating is natural when you're on the momentum of reaching Class A.
+[says] (p.73) “Maybe last year you wouldn't have been so anxious.” — Ayanokōji.
+[says:horikita-suzune] (p.73) “That was just foolhardy. I didn't see anything around me back then.” — Horikita; she's starting to broaden her horizons a little.
+[says:horikita-suzune] (p.74) “As a class leader, it's not a bad thing to be prepared for both winning and losing patterns. I'm just one of the pawns. I'm just making irresponsible statements.” — Horikita; her shortcoming and strength; Sakayanagi or Ryūen would've listened and dismissed it; Ichinose would've taken it as the only thing that mattered.
+[says:horikita-suzune] (p.74) “I know, but... Sometimes.” — Horikita.
+[says:horikita-suzune] (p.74) “What are you doing?” — Horikita, as he pats her on the back with the palm of his hand.
+[says] (p.74) “It's too early to get used to winning.” — Ayanokōji.
+[says:horikita-suzune] (p.74) “I'm not going to...” — Horikita; she looked a little angry, but she also realized that he hit the nail on the head.
+[says:horikita-suzune] (p.74) “It was a conceited notion, not the result of anything I've done well myself.” — Horikita; the uninhabited island, the unanimous exam weren't victories supported solely by straight-up competence.
+[says:horikita-suzune] (p.74) “You mean…?” — Horikita.
+[says] (p.74) “What?” — Ayanokōji.
+[says:horikita-suzune] (p.74) “I'm trying not to take everything you say seriously, but you've been very cooperative lately, which is even more annoying. I don't know how to process this in my head.” — Horikita.
+[says] (p.74) “Then please don't cooperate with me at all in the future.” — Ayanokōji.
+[says:horikita-suzune] (p.74) “That's a no-go.” — Horikita; she grabs him by the shoulders; he tried to break away, but she immediately grabs him and brings him back.
+[says:horikita-suzune] (p.74) “I'd like to stop by the convenience store before going to school, would you like to join me?” — Horikita.
+[says] (p.74) “Convenience store?” — Ayanokōji.
+[says:horikita-suzune] (p.74) “I'm preparing for the day before the school festival, and I want to make the most of my lunch break today.” — Horikita.
+[says] (p.74) “I don't mind joining.” — Ayanokōji.
+[scene] (p.74) The convenience store — Kōenji is just about to pay for his items (a bottle of soy milk and a white meat salad; he rarely eats in public — his private life remains a mystery); Horikita calls out to him; he only smiles lightly and exchanges no words.
+[says:horikita-suzune] (p.74) “Good morning, Kōenji-kun.” — Horikita.
+[says:horikita-suzune] (p.74) “I heard that Kōenji is the only one not assigned work for the cultural festival.” — Horikita.
+[says:horikita-suzune] (p.74) “He told me he wouldn't do anything. I'm sure I won't change his mind.” — Horikita.
+[says:horikita-suzune] (p.74) “You didn't have anything to buy?” — Horikita, at the register; she refuses the plastic bag and tucks the meal into her own bag.
+[says] (p.75) “They don't have anything I need, and I don't have an abundance of private points.” — Ayanokōji.
+[says] (p.75) “You're no longer paying contributions to Kushida-san, right?” — Ayanokōji.
+[says:horikita-suzune] (p.75) “Not really, since I haven't been charged for it.” — Horikita.
+[says] (p.75) “Would you really pay if she charged you?” — Ayanokōji.
+[says:horikita-suzune] (p.75) “Do you think she will charge me?” — Horikita.
+[says:horikita-suzune] (p.75) “No, I don't think so. I don't want her to come back to haunt me.” — Horikita, muttering with distaste; Kushida underwent a profound change — "And it's heading in the direction of growth, I have to believe."
+[rel:horikita-suzune] (p.72–75) The bus walk; the lost-streak anxiety; she grabs his shoulders; the Kushida-contribution exchange; Kushida's profound change noted.
+[rel:kouenji-rokusuke] (p.74) Kōenji's festival non-assignment; Horikita's read on him.
+
+### y2v7 p.75–77 — Ichihashi's love letter for Nagumo
+[scene] (p.75) After school that day — Ichihashi approaches Horikita with some hesitation, who was sitting in front of her; a love letter with a heart sticker clasped on the envelope's mouth; the addressee is Nagumo Miyabi, the student council president.
+[says:ichihashi-ruri] (p.75) “Um, Horikita-san... Can I have a minute?” — Ichihashi rarely speaks to Horikita; the item in her hand implied something different from the festival.
+[says:horikita-suzune] (p.75) “What is it?” — Horikita.
+[says:ichihashi-ruri] (p.75) “Actually, I have a favor to ask you. You have student council work later today, don't you?” — Ichihashi.
+[says:horikita-suzune] (p.75) “Yes. As I told the class a while ago, I have student council work to do. I can't help you with the festival.” — Horikita.
+[says:ichihashi-ruri] (p.75) “Yes, well, that's not what I meant. Can you please send this...?” — she presented a letter.
+[says:ichihashi-ruri] (p.75) “It's a love letter...” — Ichihashi.
+[says:horikita-suzune] (p.75) “What's this?” — Horikita.
+[says:horikita-suzune] (p.75) “Eh?” — Horikita; she looked puzzled, unable to comprehend the meaning for a moment.
+[says:ichihashi-ruri] (p.75) “Oh, It's not like it's from me to Horikita-san or something. Actually, one of my friends asked me to give it to Nagumo Miyabi, the student council president.” — Ichihashi.
+[says:horikita-suzune] (p.76) “To the student council president? But isn't that something you should give in person?” — Horikita.
+[says:ichihashi-ruri] (p.76) “She asked me to deliver it to him because she was too nervous to give it herself. But I don't have the courage to hand it to the student council president in person either...” — Ichihashi.
+[says:horikita-suzune] (p.76) “I understand the situation, but...” — Horikita.
+[says:ichihashi-ruri] (p.76) “Please. She's been struggling with it for a long time now, and... she's finally found the courage to do so.” — Ichihashi.
+[says:horikita-suzune] (p.76) “Okay. I'll see if I can somehow find an opening and give it to him for you. Is that okay?” — Horikita; if it had been the Horikita of a year ago, she might've refused the request; but building relationships with classmates is important to her now, in order to make up for the lost trust in the unanimous special exam.
+[says:ichihashi-ruri] (p.76) “Uh, yes.” — Ichihashi answered, but she looked a bit brusque.
+[says:horikita-suzune] (p.76) “Is there still a problem?” — Horikita; upon receiving the letter, Horikita noticed there was no name written on the front or back.
+[says:ichihashi-ruri] (p.76) “Um, well, there's a little problem with this love letter.” — Ichihashi.
+[says:horikita-suzune] (p.76) “Can I assume that it is written inside who this letter is from?” — Horikita.
+[says:ichihashi-ruri] (p.76) “I don't know... If it were normal, I'd imagine it would be written. That girl, if she was just happy to tell him how she feels, she might not have written it.” — Ichihashi.
+[says:horikita-suzune] (p.76) “That's a little hard to accept. Of course, I'll explain when I give it to him, but if I'm not careful, he might mistake it for a letter from me.” — Horikita.
+[says:ichihashi-ruri] (p.77) “Well then, can't you ask someone else? Like a boy you know in the student council or... No? I'd like for you to give it today somehow.” — Ichihashi.
+[note] (p.77) “That's easy for you to say...” — Ichihashi despite her concern; Horikita thought for a moment and nodded.
+[says:horikita-suzune] (p.77) “I'll do my best, but there's no guarantee that I'll be able to give it to him, okay?” — Horikita.
+[says:ichihashi-ruri] (p.77) “I'm glad you accepted. I'm sure she'll be very happy.” — Ichihashi.
+[note] (p.77) “Although reluctantly, Horikita agreed to deliver the love letter to Nagumo.” — the narration; normally she would've asked who the letter was from, but she wasn't interested and didn't try to dig deeply.
+[trait] (p.75–77) He watches from the sidelines as Ichihashi maneuvers Horikita into delivering an anonymous love letter to Nagumo; the letter is anonymous with no sender name; "Although reluctantly, Horikita agreed to deliver the love letter to Nagumo."
+[note] (p.75–77) Who designed the letter is not stated on these pages; any claim about orchestration is an inference, not a fact.
+[rel:horikita-suzune] (p.75–77) She takes the delivery job reluctantly; she doesn't dig into who the letter is from.
+[rel:ichihashi-ruri] (p.75–77) The courier; Horikita rarely speaks to her; the item in her hand was implied to be something other than the festival.
+
+<!-- walk: y2v7 Ch.3 → p.83 -->
 
 ### y2v7 p.84–92 — Pre-festival prep; Kushida's non-practice; Ryūen's café
 [scene] (p.84) The day before the festival; Horikita's class has four booths (maid café + food stalls); Haruka and Akito left early — suspicion they may sabotage or skip the festival.

@@ -704,27 +704,106 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 ### y2v7 p.31–32 — The Class A maze; the pre-opening
 [scene] (p.31) Rumors fly: 3rd-year Class A will rent out gymnasium space for a combined “haunted house” and “maze” exhibit — as if they had no intention of hiding it from the start; the class consensus was to let him do what he wants; winning was secondary.
 [note] (p.31) “Perhaps it wasn't Nagumo's plan, but the consensus of the class was to let them do what they want. They were handling the festival in a way that made others think that winning was secondary.” — the narration.
-[scene] (p.32) The pre-opening is held over several days — his class's exhibit is being shown to the invited guests to gauge the quality; guests line the line outside with a few first-years and second-years in the gym.
-[mentioned] (p.32) The gymnasium, with its dimmed lights, has a slightly frightening atmosphere; the production is clearly hand-made and still in production.
+[scene] (p.32) The pre-opening is held over several days — his class's exhibit is being shown to the invited guests to gauge the quality; the gymnasium, with its dimmed lights, has a slightly frightening atmosphere.
+[mentioned] (p.32) The production is clearly hand-made and still in production; third-year students also weren't able to proceed smoothly, perhaps because it was the first day.
 [rel:ichinose-honami] (p.32) She attends the pre-opening scouting with Kanzaki.
 [rel:kanzaki-ryuuji] (p.32) Kanzaki scouts the maze and reports its scale.
 
-### y2v7 p.46 — Ryūen's attempted tens-of-millions bet
-[scene] (p.46) Ayanokōji visits him in the student council room; Nagumo tells him Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
+### y2v7 p.44–53 — The negotiation: a match and a favor
+[scene] (p.44) Ayanokōji arrives at the student council room — the place he doesn't usually visit; his cell phone in his left hand; the door slammed; the air passed in silence; he urges a chair.
+[says] (p.44–45) “I waited for you because Nazuna insisted on giving you some time, but I'm not going to assume anything. So, are you here for the student council or for me?” — Nagumo.
+[says] (p.45) “Well, in that case, I can only commend you for showing your face in front of me. Don't you think so, Ayanokōuji?” — Nagumo; the Ayanokōuji spelling is printed as is.
+[says] (p.45) “Don't give me that shit, man. I saw you at Keyaki Mall the next day and you looked fine.” — Nagumo.
+[says] (p.45) “That's a blatant lie.” — Nagumo.
+[says] (p.45) “Truth or lie, I don't really care anymore. Anyway, let me hear your reason for coming here.” — Nagumo.
+[says] (p.45) “You told me before you had no business with me, the student council president. If I wanted to, I could choose to have no business with you too, right?” — Nagumo.
+[says] (p.45) “Sorry, I don't have anything to drink.” — Nagumo.
+[says] (p.46) “I'm also getting stories up here that some stupid class had their event exposed.” — Nagumo.
 [says] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo telling Ayanokōji.
+[says] (p.46) “Yeah, well, the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival. So, there's no need for me to give out any instructions. They can go and make memories during their final moments in high school.” — Nagumo.
 [says] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo.
 [says] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
-[note] (p.46) The attempted wager matches the 5-million-point festival bet Ryūen proposed to Horikita at p.29; Nagumo has no interest in the festival at all.
-[rel:ryuuen-kakeru] (p.46) He tried to buy a wager with him; Nagumo refused.
-
-### y2v7 p.44–53 — Nagumo: loses his "game" to Ayanokōji's sincerity
-[says] (p.46) "the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival."
-[says] (p.48) "You ran away from the last chance I gave you at the sports festival."
-[says] (p.48) "Understand this, Ayanokōji. I'm allowed to challenge you to a fight, but you're not allowed to challenge me to a fight."
-[says] (p.52) "You have loose screws, Ayanokōji."
-[trait] (p.44–53) Belligerent but bored — he's lost interest in the festival (his "game" with Ayanokōji over), dismisses Ryūen's 5-million bet, but is drawn into Ayanokōji's proposal; when Ayanokōji genuinely says "it doesn't matter who it is" (even Kei) and refuses to fight back no matter who he expels, Nagumo's smile vanishes — he concedes ("I have no choice but to accept your current proposal"), agreeing to a future match, but leaves unsettled ("loose screws"), calling Ayanokōji crazy.
-[rel:ayanokouji-kiyotaka] (p.44–53) He accepts the match and the favor, but Ayanokōji's cold sincerity about Kei rattles him.
+[says] (p.46) “No one can complain to me, ’cause if they do, their Class A status will no longer be guaranteed. When the festival gets closer, I, or rather the student council, will make a not-so-bad proposal. A little help for a class that's struggling to win.” — Nagumo.
+[says] (p.46) “Well, I'm the student council president, after all.” — Nagumo.
+[says] (p.46) “Come on, tell me what you came here for.” — Nagumo.
+[says] (p.47) “I don't exactly believe that.” — Nagumo.
+[says] (p.47) “I know that very well.” — Nagumo.
+[says] (p.47) “I don't know. I'm sure it's not because you're scared of my ability.” — Nagumo.
+[says] (p.47) “Sure. But that's just a front, isn't it?” — Nagumo.
+[says] (p.47) “If someone else said what I just heard from your mouth, I might've gotten angry.” — Nagumo.
+[says] (p.47) “Nah, you don't need to apologize. If you feel that way, that's your business. I'm the one who made you speak your mind,” — Nagumo stated.
+[says] (p.47) “But still, if it wasn't you who said that, I'm sure I would've changed their mind right away.” — Nagumo quickly added.
+[says] (p.48) “I'm not sold, this isn't like you.” — Nagumo.
+[says] (p.48) “I don't know when exactly this change of heart came, but it's too late. You ran away from the last chance I gave you at the sports festival. If I may borrow words from your true feelings, you weren't interested. Isn't that right?” — Nagumo.
+[says] (p.48) “Yeah, you're right. After having given up three opportunities, and now being asked to play a game on the grounds of a change of heart, there's no way I can honestly say yes.” — Nagumo.
+[says] (p.48) “And, get this, it's the same as what you said earlier about the sports festival. You said you were sick the whole time. I've decided that's an obvious lie. Besides, don't tell me you've forgotten about what happened on the island.” — Nagumo.
+[says] (p.48) “You aren't funny Ayanokōji. It wouldn't ever be the same knockout. There's a huge difference in value between you and me.” — Nagumo.
+[says] (p.48) “Well, I'm going to shelve it because there's no point in getting into it now. Understand this, Ayanokōji. I'm allowed to challenge you to a fight, but you're not allowed to challenge me to a fight.” — Nagumo.
+[says] (p.49) “You really are strange. You don't show any sign of timidity when dealing with me. No, it's not only against me, but also against Horikita-senpai.” — Nagumo.
+[says] (p.49) “Oh, man. If I were to play a game with you, what would you do? It's almost the third semester of the school year, and we already passed the second semester's halfway point. As you probably know by now, I gave all the power to my classmates to compete for sales at the school festival. I can't ask them to give it back now. On the other hand, even if I wait for the next special exam, there's no guarantee that there will be a competition between all the grades.” — Nagumo.
+[says] (p.49) “Above all, you're well aware of the difficulty of competing in earnest between different grades, as you and the former student council president know, don't you?” — Nagumo.
+[says] (p.49) “More than anyone else. How hard do you have to work to adjust? Because of you, not just this year, last year too, the match with Horikita-senpai didn't happen.” — Nagumo.
+[says] (p.49) “I don't know if we can achieve a 100% perfect match, but I think this can become a reality.” — Nagumo.
+[says] (p.50) “I see. I was planning to shake you up at that time, but instead of getting upset, you decided to take advantage of it.” — Nagumo.
+[says] (p.50) “Alright, tell me the main issue. I'll think about whether or not I'll accept the proposal after that.” — Nagumo.
+[says] (p.50) “I'd be happy to accept your proposal, but...” — Nagumo.
+[says] (p.50) “But what's your real purpose?” — Nagumo.
+[says] (p.50) “I don't believe it for a second.” — Nagumo.
+[says] (p.50) “I understand what you're telling me. But that's not a proposal based on your desire to compete with me. You brought up the idea of a match because you had no choice but to control what you wanted to happen. Am I right?” — Nagumo.
+[says] (p.50) “You're an honest guy.” — Nagumo.
+[says] (p.50) “You're a joke. You asked for a match, and now you're being so brazen.” — Nagumo.
+[says] (p.50) “Do you think I'm going to play along with you and give you what you want?” — Nagumo.
+[says] (p.51) “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?” — Nagumo.
+[says] (p.51) “It doesn't sound like you're bluffing. It seems like… you really mean it.” — Nagumo.
+[says] (p.51) “If I want to fuck you over, which I deeply do, I have no choice but to accept your current proposal.” — Nagumo.
+[says] (p.51) “Okay, I'll take your word for it, Ayanokōji. My graduation from Class A is unassailable anyway. It's not a bad idea to end up playing with you.” — Nagumo.
+[says] (p.51) “But are you sure you want to do this? If I do what you suggest, then... no matter how it turns out, people will be hurt.” — Nagumo.
+[says] (p.52) “You knew?” — Nagumo.
+[says] (p.52) “So you're saying that it's not only Karuizawa, but also Honami...” — Nagumo.
+[says] (p.52) “I take back my comment about playing around. You are the only one that Horikita-senpai recognized. I've been able to make sure of that.” — Nagumo.
+[says] (p.52) “Man, I'll admit that you've got a real poker face. I also understand that you negotiated diligently to get me into your deal. So, let me hear your true feelings for once. Even if I was serious about getting Karuizawa to drop out of school, would you have stood by and watched?” — Nagumo.
+[says] (p.52) “That's not an answer. The answer you're giving is to the likeness of classmates. What I'm saying is that I didn't feel any anxiety about the disappearance of Karuizawa, who's very special to you.” — Nagumo.
+[says] (p.52) “You have loose screws, Ayanokōji.” — Nagumo.
+[trait] (p.44–53) He accepts the match and the favor, but Ayanokōji's cold sincerity rattles him; the negotiation settles into a future contest.
+[rel:ayanokouji-kiyotaka] (p.44–53) He accepts the match and the favor.
 [rel:karuizawa-kei] (p.51) He threatens Kei to sway Ayanokōji — it fails.
+
+### y2v7 p.72–73 — The preliminary festival announcement — his "not-so-bad proposal"
+[mentioned] (p.72) "This was probably what Nagumo meant last week, when he said that the student council would make a not-so-bad proposal." — the bulletin board announced the rehearsal the day before the festival — a separate proposal, "A little help for a class that's struggling to win" — the source was the student council president.
+[rule] (p.72–73) Preliminary festival: participation optional; each class reimbursed on receipts via the student council budget; a quota of several tens of thousands of points for each class.
+[rel:horikita-suzune] (p.72) Horikita attends the bus discussion of the rehearsal announcement.
+
+### y2v7 p.78–83 — The student council meeting: suspension over the Kishi rumor
+[scene] (p.78) §2 — the student council room; Nagumo arrives; the members are already there except him; the air tenses; a council meeting begins.
+[says] (p.78) “The meeting will begin immediately. Take your seats.” — Nagumo.
+[says] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
+[says:ichinose-honami] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose reports.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
+[says] (p.79) “It's just an idea. I thought starting a little earlier would make the juniors happy.” — Nagumo replied without any particular apology.
+[note] (p.79) Then there was a sudden silence; Nagumo had his arms crossed and his eyes closed — "It was obvious that he was holding back his anger."
+[says] (p.79) “Listen, I heard a strange rumor.” — Nagumo.
+[note] (p.79) “Um, what's wrong, Nagumo-senpai...?” — printed untagged (Ichinose or Kiriyama); not assigned.
+[note] (p.79) “Rumor...?” — printed untagged; not assigned.
+[says] (p.79) “It's not proven, but there was a guy, Kishi, who said that I was betting a lot of money to get certain students expelled from school.” — Nagumo.
+[says:ichinose-honami] (p.79) “What? What do you mean?” — Ichinose.
+[note] (p.79) “Who told you that nonsense?” — printed untagged; not assigned.
+[says] (p.79) “Someone from your class, Kiriyama.” — Nagumo.
+[says:kiriyama-ikuto] (p.79) “From my class?” — Kiriyama.
+[says] (p.79) “It's just a rumor from my friends, though it wouldn't be strange if you were aware of it.” — Nagumo.
+[says:kiriyama-ikuto] (p.79) “Sorry, that's news to me. I don't understand why you would bet a lot of money to get someone expelled in the first place.” — Kiriyama.
+[says] (p.79–80) “It's just a rumor. But I'm not willing to sit idly by and let the accusations against me go unchallenged.” — Nagumo.
+[says] (p.80) “The student council will be suspended for a while.” — Nagumo.
+[says:ichinose-honami] (p.80) “Suspended...?” — Ichinose was surprised by this unexpected proposal.
+[note] (p.80) “The student council used to meet like this once a week and repeatedly discuss various topics… It was unusual to suspend them during the regular school year.” — narrated.
+[says] (p.80) “We're done discussing the cultural festival, too. There shouldn't be any problems.” — Nagumo.
+[note] (p.80) “Are you going to look for the culprits?” — printed untagged; not assigned.
+[says] (p.80) “Of course, we'll look for them thoroughly. The next meeting will be held after the festival.” — Nagumo.
+[rel:horikita-suzune] (p.78–83) Horikita-senpai attends the meeting; she leaves with the letter for Nagumo.
+[rel:kiriyama-ikuto] (p.78–79) The Kishi rumor; the thorny remarks.
+[rel:ichinose-honami] (p.78–80) She reports the rehearsal decision; surprised by the suspension.
+[rel:yagami-takuya] (p.78–83) The secretary keeps the logs; Nagumo brought the rumor; they talk after the meeting.
+<!-- walk: y2v7 Ch.3 → p.83 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

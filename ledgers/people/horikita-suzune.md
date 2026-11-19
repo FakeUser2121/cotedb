@@ -4660,15 +4660,161 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.27) He announces Ryūen's arrival; flustered.
 <!-- walk: y2v7 Ch.1 → p.53 -->
 
-### y2v7 p.72–83 — Horikita: the love letter; Nagumo's strange behavior
-[says] (p.73) "Defeat doesn't only mean losing class points. But it's just as bad to fail to earn class points."
-[says] (p.75) "No, I don't think so." — on still paying Kushida
-[narrates] (p.76) "Um, Horikita-san... Can I have a minute?" — Ichihashi
-[narrates] (p.77) "Although reluctantly, Horikita agreed to deliver the love letter to Nagumo."
-[trait] (p.72–83) Notes Horikita is trying to broaden her horizons; she's asked by Ichihashi to pass an anonymous love letter to Nagumo (from a "friend"); though suspicious, she agrees (the Horikita of a year ago might have refused) — not realizing it's actually an anagram message in a plot; at the student council meeting Nagumo behaves oddly (late, not happy, hints at "secret notes" and offering records), and she's left puzzled.
-[rel:ayanokouji-kiyotaka] (p.72–73) He pats her on the back in encouragement; they discuss the festival.
-[rel:nagumo-miyabi] (p.78–81) She delivers him the letter; his strange behavior ("I thought it was a love letter from Horikita-senpai") confuses her.
-[rel:yagami-takuya] (p.82–83) He's present at the meeting; she notices his reactions.
+### y2v7 p.72–77 — §1: the bus morning and the letter (Horikita POV sections observed by AK)
+[scene] (p.72) Tuesday, November 9 — Horikita and Ayanokōji walk to school; the third-years announced a rehearsal just like the real thing the day before the cultural festival (bulletin board; Nagumo's "not-so-bad proposal"); the convenience-store stop; Ichihashi approaches her with the letter after school.
+[says] (p.72) “Have you heard? The day before the cultural festival, the third year students are going to do a rehearsal just like the real thing.” — Horikita.
+[says] (p.72) “The student council has already received participation letters from many classes. I'm sure the classes that have been keeping this under wraps will want to get a third-party evaluation before the festival.” — Horikita.
+[says] (p.73) “I think the fact that the 3rd year Class A rented the gymnasium and opened their presentation to the public was a big factor.” — Horikita.
+[says] (p.73) “I'm sure the student council's decision to pay for consumable materials and other expenses was also an additional incentive.” — Horikita.
+[says] (p.73) “We're going to join in, aren't we?” — Horikita.
+[says] (p.73) “That's true. And with what happened to Ryūen-kun and the others, too.” — Horikita.
+[says] (p.73) “You don't think we'll lose?” — Horikita.
+[says] (p.73) “You look pretty confident.” — Horikita.
+[says] (p.73) “That's true. Even so, don't you usually feel insecure?” — Horikita.
+[says] (p.73) “Maybe I'm scared about losing.” — Horikita; she is concerned she might lose even though she is fully prepared.
+[says] (p.73) “That was just foolhardy. I didn't see anything around me back then.” — Horikita; she's starting to broaden her horizons.
+[says] (p.74) “As a class leader, it's not a bad thing to be prepared for both winning and losing patterns. I'm just one of the pawns. I'm just making irresponsible statements.” — Horikita.
+[says] (p.74) “I know, but... Sometimes.” — Horikita.
+[says] (p.74) “What are you doing?” — Horikita, as Ayanokōji pats her on the back with the palm of his hand.
+[says] (p.74) “I'm not going to...” — Horikita.
+[says] (p.74) “It was a conceited notion, not the result of anything I've done well myself.” — Horikita.
+[says] (p.74) “You mean…?” — Horikita.
+[says] (p.74) “I'm trying not to take everything you say seriously, but you've been very cooperative lately, which is even more annoying. I don't know how to process this in my head.” — Horikita.
+[says] (p.74) “That's a no-go.” — Horikita; she grabs him by the shoulders.
+[says] (p.74) “I'd like to stop by the convenience store before going to school, would you like to join me?” — Horikita.
+[says] (p.74) “I'm preparing for the day before the school festival, and I want to make the most of my lunch break today.” — Horikita.
+[says] (p.74) “Good morning, Kōenji-kun.” — Horikita at the register.
+[says] (p.74) “I heard that Kōenji is the only one not assigned work for the cultural festival.” — Horikita.
+[says] (p.74) “He told me he wouldn't do anything. I'm sure I won't change his mind.” — Horikita.
+[says] (p.74) “You didn't have anything to buy?” — Horikita.
+[says] (p.75) “Not really, since I haven't been charged for it.” — Horikita; she's stopped paying Kushida.
+[says] (p.75) “Do you think she will charge me?” — Horikita.
+[says] (p.75) “No, I don't think so. I don't want her to come back to haunt me.” — Horikita, muttering with distaste.
+[rel:ayanokouji-kiyotaka] (p.72–77) The bus ride; the lost-streak anxiety; she grabs his shoulders; the Kushida-contribution exchange.
+[rel:kouenji-rokusuke] (p.74) Kōenji's festival non-assignment; Horikita's read on him.
+
+### y2v7 p.75–77 — §1: Ichihashi's love letter for Nagumo
+[scene] (p.75) After school that day — Ichihashi approaches her with some hesitation — a love letter with a heart sticker; anonymous; addressed to Nagumo Miyabi, the student council president.
+[says:ichihashi-ruri] (p.75) “Um, Horikita-san... Can I have a minute?” — Ichihashi rarely speaks to her; the item in her hand implied something different from the festival.
+[says] (p.75) “What is it?” — Horikita.
+[says:ichihashi-ruri] (p.75) “Actually, I have a favor to ask you. You have student council work later today, don't you?” — Ichihashi.
+[says] (p.75) “Yes. As I told the class a while ago, I have student council work to do. I can't help you with the festival.” — Horikita.
+[says:ichihashi-ruri] (p.75) “Yes, well, that's not what I meant. Can you please send this...?” — she presented a letter.
+[says:ichihashi-ruri] (p.75) “It's a love letter...” — Ichihashi.
+[says] (p.75) “What's this?” — Horikita.
+[says] (p.75) “Eh?” — Horikita; she looked puzzled, unable to comprehend the meaning for a moment.
+[says:ichihashi-ruri] (p.75) “Oh, It's not like it's from me to Horikita-san or something. Actually, one of my friends asked me to give it to Nagumo Miyabi, the student council president.” — Ichihashi.
+[says] (p.76) “To the student council president? But isn't that something you should give in person?” — Horikita.
+[says:ichihashi-ruri] (p.76) “She asked me to deliver it to him because she was too nervous to give it herself. But I don't have the courage to hand it to the student council president in person either...” — Ichihashi.
+[says] (p.76) “I understand the situation, but...” — Horikita.
+[says:ichihashi-ruri] (p.76) “Please. She's been struggling with it for a long time now, and... she's finally found the courage to do so.” — Ichihashi.
+[says] (p.76) “Okay. I'll see if I can somehow find an opening and give it to him for you. Is that okay?” — Horikita; if it had been the Horikita of a year ago, she might've refused; building relationships with classmates is important to her now, in order to make up for the lost trust in the unanimous special exam.
+[says:ichihashi-ruri] (p.76) “Uh, yes.” — Ichihashi answered, but she looked a bit brusque.
+[says] (p.76) “Is there still a problem?” — Horikita; the letter had no name on the front or back.
+[says:ichihashi-ruri] (p.76) “Um, well, there's a little problem with this love letter.” — Ichihashi.
+[says] (p.76) “Can I assume that it is written inside who this letter is from?” — Horikita.
+[says:ichihashi-ruri] (p.76) “I don't know... If it were normal, I'd imagine it would be written. That girl, if she was just happy to tell him how she feels, she might not have written it.” — Ichihashi.
+[says] (p.76) “That's a little hard to accept. Of course, I'll explain when I give it to him, but if I'm not careful, he might mistake it for a letter from me.” — Horikita.
+[says:ichihashi-ruri] (p.77) “Well then, can't you ask someone else? Like a boy you know in the student council or... No? I'd like for you to give it today somehow.” — Ichihashi.
+[note] (p.77) “That's easy for you to say...” — Ichihashi despite her concern.
+[says] (p.77) “I'll do my best, but there's no guarantee that I'll be able to give it to him, okay?” — Horikita.
+[says:ichihashi-ruri] (p.77) “I'm glad you accepted. I'm sure she'll be very happy.” — Ichihashi.
+[note] (p.77) “Although reluctantly, Horikita agreed to deliver the love letter to Nagumo.” — normally she would've asked who the letter is from; she wasn't interested and didn't try to dig deeply.
+[rel:ichihashi-ruri] (p.75–77) The courier; rare contact; the favor.
+
+### y2v7 p.77–83 — §2: the carrier POV; the meeting; Yagami's handwriting
+[scene] (p.77) §2 — Horikita walks with the letter; her own memory of an undelivered letter — to her brother, who had decided to go to high school; she watched him turn cold toward her; the letter in her hand didn't move as smoothly as in her head; she put it in his desk drawer; he left this school; she can no longer see him.
+[narrates] (p.77) “Why won't she just give it to him?” — Horikita's own doubt.
+[narrates] (p.77) “It was a mistake to accept. How could I, an irrelevant person in this affair, have such a task? I should turn back and tell Ichihashi-san to give it to him in person.” — Horikita.
+[note] (p.77) “That would be the right thing to do.” — Horikita's counter-thought.
+[narrates] (p.77) “I wonder what happened to that letter...” — Horikita remembers putting it in her brother's desk drawer.
+[narrates] (p.77) “What if my brother goes home and sees it?” — Horikita.
+[narrates] (p.78) “I should forget about that.” — Horikita.
+[note] (p.78) "It's not easy to write a letter to someone you love. And if you have to hand it to them directly, the hurdle is even higher. Even now, if I were asked if I could write a letter to my brother, it would be difficult for me to give an immediate answer." — her verdict.
+[note] (p.78) "…her target is the Student Council President Nagumo Miyabi. I understand her feelings of timidity." — Horikita's read of the letter writer.
+[scene] (p.78) The student council room — all members are already there except for Student Council President Nagumo; three boys present: Yagami-kun, a first-year; Aga-kun, also first-year; Kiriyama-senpai, the third-year vice president; Yagami was sitting down chatting with Ichinose-san.
+[says:nagumo-miyabi] (p.78) “The meeting will begin immediately. Take your seats.” — Nagumo appears; his voice as dark and heavy as he appeared; the air tenses instantly.
+[says:nagumo-miyabi] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
+[says:ichinose-honami] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
+[says:nagumo-miyabi] (p.79) “It's just an idea. I thought starting a little earlier would make the juniors happy.” — Nagumo replied without any particular apology.
+[note] (p.79) “Such a scene from the student council meeting was becoming a regular occurrence.” — student-council things started with an idea from Nagumo; sometimes born from a comment during the meeting; other times created without the council's knowledge.
+[note] (p.79) Then there was a sudden silence; Nagumo had his arms crossed and his eyes closed — "It was obvious that he was holding back his anger."
+[note] (p.79) “Um, what's wrong, Nagumo-senpai...?” — printed untagged (Ichinose or Kiriyama); not assigned.
+[says:nagumo-miyabi] (p.79) “Listen, I heard a strange rumor.” — Nagumo.
+[note] (p.79) “Rumor...?” — printed untagged; not assigned.
+[says:nagumo-miyabi] (p.79) “It's not proven, but there was a guy, Kishi, who said that I was betting a lot of money to get certain students expelled from school.” — Nagumo.
+[says:ichinose-honami] (p.79) “What? What do you mean?” — Ichinose; it's no wonder she asked back.
+[note] (p.79) “Who told you that nonsense?” — printed untagged (addressed toward Kiriyama's camp); not assigned.
+[says:nagumo-miyabi] (p.79) “Someone from your class, Kiriyama.” — Nagumo.
+[says:kiriyama-ikuto] (p.79) “From my class?” — Kiriyama.
+[says:nagumo-miyabi] (p.79) “It's just a rumor from my friends, though it wouldn't be strange if you were aware of it.” — Nagumo.
+[says:kiriyama-ikuto] (p.79) “Sorry, that's news to me. I don't understand why you would bet a lot of money to get someone expelled in the first place.” — Kiriyama.
+[says:nagumo-miyabi] (p.79–80) “It's just a rumor. But I'm not willing to sit idly by and let the accusations against me go unchallenged.” — Nagumo.
+[says:nagumo-miyabi] (p.80) “The student council will be suspended for a while.” — Nagumo.
+[says:ichinose-honami] (p.80) “Suspended...?” — Ichinose was surprised by this unexpected proposal.
+[says:nagumo-miyabi] (p.80) “We're done discussing the cultural festival, too. There shouldn't be any problems.” — Nagumo.
+[note] (p.80) “Are you going to look for the culprits?” — printed untagged (Ichinose or Kiriyama); not assigned.
+[says:nagumo-miyabi] (p.80) “Of course, we'll look for them thoroughly. The next meeting will be held after the festival.” — Nagumo.
+[scene] (p.80) The meeting disperses; Horikita decides to call out to Yagami; he was keeping the logs; the other students left ahead of her.
+[says] (p.80) “May I have a word?” — Horikita to Yagami.
+[says] (p.80) “I'm sorry, were you still in the middle of writing it down?” — Horikita to Yagami.
+[says:yagami-takuya] (p.80) “No, I just finished. Don't worry about it.” — Yagami placed his hand lightly on top of the closed notebook and smiled at her.
+[says:yagami-takuya] (p.80) “Is something wrong, Horikita-senpai?” — Yagami.
+[says] (p.80) “Yagami-kun. May I ask you a slightly unreasonable favor?” — Horikita.
+[says:yagami-takuya] (p.80) “What is it?” — Yagami.
+[says] (p.80) “I want you to give this to the student council president. It's a love letter.” — Horikita took out the love letter and presented it.
+[says:yagami-takuya] (p.80) “That's very rare these days. Most of the time it seems to be done through chatting or phone calls...” — Yagami received it with a surprised look; Horikita hastened to add.
+[says] (p.80) “Just to let you know, it's not from me.” — Horikita.
+[says:yagami-takuya] (p.80) “I see. I thought it was a love letter from Horikita-senpai... Or should I just give it to him as such?” — Yagami smiled a little funnily.
+[says] (p.80) “No, that's not it. A girl in my class asked me to give it to him.” — Horikita.
+[says:yagami-takuya] (p.80) “There is no sender name. Whose love letter is it? I'll let him know.” — Yagami.
+[says] (p.81) “I can't tell you that. She wants to remain anonymous.” — Horikita.
+[says:yagami-takuya] (p.81) “It's an anonymous love letter...?” — Yagami.
+[says] (p.81) “She asked for me to pass it on as a member of the student council, but there's the issue of anonymity, and if I give it to him, he might think it's from me, right?” — Horikita.
+[says:yagami-takuya] (p.81) “That's quite possible. To be honest, I still have a little bit of doubt that Horikita-senpai didn't write it.” — Yagami; to Horikita it wasn't funny at all.
+[says:yagami-takuya] (p.81) “I'm just kidding. Given the look of disgust on senpai's face, I know it's not true.” — Yagami.
+[says] (p.81) “Actually, it would've been smoother if I had given it to you before Student Council President Nagumo arrived...” — Horikita.
+[says:yagami-takuya] (p.81) “Even if you gave it to me, I don't think I would've been able to hand it over. It didn't seem like the kind of atmosphere to give a letter.” — Yagami.
+[says] (p.81) “Yes, that was inevitable.” — Horikita.
+[says] (p.81) “I'm sorry to ask you to do this, but could you please deliver it as soon as possible? I'm sure they think I'll deliver it today.” — Horikita.
+[says:yagami-takuya] (p.81) “In that case, I'll visit the dormitory later.” — Yagami stared at the love letter intently while looking a little perplexed.
+[says:yagami-takuya] (p.81) “Is this really a love letter?” — Yagami.
+[says] (p.81) “Probably. I think she said she put her feelings into it, but I can't be sure.” — Horikita.
+[note] (p.81) “I couldn't peel off the seal to see what was inside.” — Horikita.
+[says:yagami-takuya] (p.81) “If I gave it to him as a love letter and it turned out to be different, I think it would be disrespectful to the student council president.” — Yagami.
+[says] (p.81) “That might be possible.” — Horikita.
+[says:yagami-takuya] (p.81) “I'll put it somewhat vaguely, saying that I received the letter from someone.” — Yagami.
+[says] (p.81) “Yes, I think that's a good idea. Thank you.” — Horikita.
+[note] (p.81) “By the way, even in this day and age, it's hard for a secretary to work with handwritten notes, isn't it?” — printed untagged (Yagami or Horikita); not assigned.
+[says:yagami-takuya] (p.81–82) “Tradition is also important. It seems that the notes have been kept on file ever since this school was founded. If we suddenly switch to digital, it'll create a sense of discomfort.” — Yagami-kun turned around and stared at the bookshelf.
+[says:yagami-takuya] (p.82) “I also hear that it is better to have hardships while you are a student. If you get used to easy life early on, you may suffer later on.” — a slightly mature response for a first-year.
+[says:yagami-takuya] (p.82) “In that sense, this love letter is similar.” — Yagami.
+[note] (p.82) “Even so, today's Student Council President Nagumo really didn't seem to have a lot of time to spare, did he?” — printed untagged; flagged untagged.
+[says:yagami-takuya] (p.82) “Yeah. He's betting a lot of money to expel the students, isn't he? As I recall… What was his name...” — Yagami opened his notebook.
+[note] (p.82) The first page flipped through was from the middle of last year — something a current third year student would have written in his sophomore year. Then the font changed and switched to the most recent notes.
+[note] (p.82) "These characters.... They look very similar to that letter which had almost slipped from my memory." — Horikita's gut at the handwriting.
+[note] (p.82) "Was he the person who presented me with the letter during the uninhabited island exam?" — Horikita's question.
+[note] (p.82) "I held my gaze, which was about to blur with agitation, and reached the notes of today's meeting. I looked at Yagami-kun from a broader perspective and saw that he was still looking at me with the same smile."
+[note] (p.82) "It couldn't be... But... No, it can't be." — Horikita.
+[says:yagami-takuya] (p.82) “Horikita-senpai?” — Yagami.
+[says] (p.83) “Sorry, I don't know, but you should be able to figure it out pretty quickly if you look at the OAA.” — Horikita.
+[says:yagami-takuya] (p.83) “Sure. I'll look it up right away.” — Yagami.
+[says] (p.83) “I'm sorry, but I just remembered something I have to do. I'll leave you to it.” — Horikita.
+[says:yagami-takuya] (p.83) “Oh, really? I understand.” — Yagami.
+[says] (p.83) “Well then, I'm sorry, but I need you to take care of my letter to the student council president.” — Horikita.
+[says:yagami-takuya] (p.83) “Yes, senpai. Thank you for your hard work, Horikita-senpai.” — Yagami.
+[note] (p.83) “If he stared at me then, I probably would have asked him. I knew in my gut that I had to avoid that.” — Horikita exits; slow turn; closes the door.
+[note] (p.83) "It was as if he was challenging me with a question, 'Did you notice?' It was as if he was trying to provoke me. Otherwise, he wouldn't have taken the trouble to open the notebook and show me the handwriting." — Horikita's read.
+[note] (p.83) "I couldn't deny the possibility that the handwriting was coincidentally the same. Since a certain amount of time had passed since I saw those letters, my memory is blurred." — Horikita's caution.
+[note] (p.83) "Even so, the handwriting was similar enough to make me certain of the reason for the resemblance. If I assume that he was the person who wrote me that letter... Then that person had been standing by my side for a long time while behaving in a nonchalant manner." — Horikita's poetic close.
+[rel:yagami-takuya] (p.77–83) The handwriting match — Yagami's perfect, orderly sophomore-era notes match the island-exam letter; Horikita decides to watch him.
+[rel:nagumo-miyabi] (p.78–83) She delivers the letter; the meeting suspends; the rumor.
+[rel:kiriyama-ikuto] (p.78–79) The thorny remark; the Kishi rumor's origin.
+[rel:ichinose-honami] (p.78–80) She attends though it's not her section; she reports the rehearsal decision; she's surprised by the suspension.
+[rel:aga] (p.78) Aga, a first-year student council member, present in the room.
+[rel:horikita-manabu] (p.77) Her undelivered letter to her brother — unnamed on the page.
+<!-- walk: y2v7 Ch.3 → p.83 -->
 
 ### y2v7 p.161–183 — Horikita's trap: Yagami exposed (from her POV)
 [scene] (p.161) On break, changes out of her maid uniform and slips to the student council room to check the meeting notes — the "love letter" (anagram) was designed to lure Yagami there; she had intended to ask Yagami (the council's contact) but used the festival as cover.

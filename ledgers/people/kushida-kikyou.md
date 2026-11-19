@@ -1869,6 +1869,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [scene] (p.12) The midterm results list: Kushida is named among the honor roll alongside Yōsuke, Matsushita and Wang.
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration; the surprise in the results is Sudō's 11th place, not theirs.
 
+### y2v7 p.75 — The contributions question; her profound change
+[scene] (p.75) At the convenience store with Horikita and Ayanokōji; the conversation turns to Kushida — Horikita hasn't been charged for “contributions” since her personality changed profoundly.
+[note] (p.75) “You're no longer paying contributions to Kushida-san, right?” — “Not really, since I haven't been charged for it.” — “Would you really pay if she charged you?” — “Do you think she will charge me?” — “No, I don't think so. I don't want her to come back to haunt me.” — Kushida's personality underwent a profound change; “it's heading in the direction of growth, I have to believe.”
+[rel:horikita-suzune] (p.75) The contributions stopped; Horikita watches for any return of the old Kushida.
+[rel:ayanokouji-kiyotaka] (p.75) He raises the question; she does not want Kushida "to come back to haunt me."
+<!-- walk: y2v7 Ch.3 → p.83 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

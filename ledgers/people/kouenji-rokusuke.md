@@ -926,10 +926,12 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kouenji-rokusuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.74, p.84, p.184, p.186.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.74 — The convenience store sighting
+[scene] (p.74) Tuesday morning — Kōenji is just about to pay for his items (a bottle of soy milk and a white meat salad; rarely seen eating in public — his private life remains a mystery to the class); Horikita calls out to him; he only smiles lightly and exchanges no words.
+[says:horikita-suzune] (p.74) “Good morning, Kōenji-kun.” — Horikita.
+[note] (p.74) “I heard that Kōenji is the only one not assigned work for the cultural festival.” — "He told me he wouldn't do anything. I'm sure I won't change his mind." — Horikita's exchange about him.
+[rel:horikita-suzune] (p.74) She notes his festival non-assignment; he doesn't engage.
+<!-- walk: y2v7 Ch.3 → p.83 -->
 
 ## y2v8
 
