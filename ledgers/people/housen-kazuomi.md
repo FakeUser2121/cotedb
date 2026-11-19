@@ -162,10 +162,25 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
 
+
 ### y2v3 p.79–80 — Hōsen named by Nanase
 [mentioned] (p.79) “To tell you the truth, a slight issue came up as my group was talking last night. Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart.” — named as having split from the group; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+
+### y2v3 p.267–274 — Hōsen named at the bonfire
+[mentioned] (p.267) “The representatives in question were Class A’s Takahashi Osamu, Class B’s Yagami Takuya, Class C’s Utomiya Riku and Tsubaki Sakurako, and Class D’s Hōsen Kazuomi.” — named as a scheduled participant; absent; POV switch to third-person limited (the bonfire scene).
+[mentioned] (p.267) “Despite the fact that she hadn’t really done anything noteworthy or remarkable so far, the person who had spearheaded this get-together was… Tsubaki.” — Hōsen as the absent lead-rep for Class D; not present; same scene.
+[mentioned] (p.267) “The appointed time for the meeting had already come and gone, but Hōsen still hadn’t arrived yet.” — delayed/absent; not present; same scene.
+[mentioned] (p.267) “Well, he doesn’t really seem the type to show up on time. Or maybe he’s just not coming.” — his reputation noted; not present; same scene.
+[mentioned] (p.268) “While Hōsen-kun still isn’t here yet, just a little should be fine, right?” — his absence carries the meeting forward; not present; same scene.
+[mentioned] (p.268) “I was thinking that it’d be fine if you told us about this plan of yours in detail.” — the proceeding without him; not present; same scene.
+[mentioned] (p.268) “It’s certainly more convenient for all of us if everyone is present before we start, but…” — the vacancy; not present; same scene.
+[mentioned] (p.270) “Yes. At first glance, one might be led to believe that Hōsen-kun and Amasawa-san were the only ones to take part in it during the last exam, but I think that you two were also targeting him.” — his history referenced; not present; same scene.
+[mentioned] (p.271) “I see. So you’re saying that Hōsen-kun’s already looking to make his next move?” — his next move anticipated; not present; same scene.
+[mentioned] (p.271) “I’m saying that we gotta take action sooner rather than later. If Hōsen-kun gets Ayanokōji-senpai expelled, it’ll all be over for the rest of us.” — the trigger; not present; same scene.
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
 
 ## y2v4
 

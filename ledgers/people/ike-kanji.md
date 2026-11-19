@@ -1200,6 +1200,71 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.65 — Ike named at the Grip Strength Task
+[mentioned] (p.65) “His group members, Ike and Hondō, were nowhere to be seen, suggesting that he had probably split off and rushed here on his own to secure a spot in the Task.” — named as Sudō's group member at the Task site; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+### y2v3 p.85–90 — The funk; the anime quiz; "Yay…"
+[scene] (p.85–86) Sits a bit away from the registration desk, waiting for the quiz; visibly out of it — bored, uninterested; Hondō fails to strike up a conversation; Sudō sizes him up ("Though, well, Ike's been kinda out of it."); Shinohara/Komiya context: the pressure of the expulsion risk + the girl he has his eye on.
+[scene] (p.88–90) 『Quiz Genre・Anime』; his hands are reliable on these — 95% with Sudō and Hondō; the class credit for miscellaneous knowledge; the high-five comes weak.
+[says] (p.90) “Yay…”
+### y2v3 p.97–109 — Shinohara comes out
+[scene] (p.97) Sudō and Hondō press him about camping; he points them to the clearing near H9; he's listless through the trek.
+[says] (p.97) “Let’s go back to H9 for now. We passed by a clearing earlier. That should be good enough.”
+[scene] (p.98–99) Ten minutes of camp setup; the fishing rod stays in the pack; he zones out repeatedly.
+[says] (p.98) “Eh? Oh, uh, well… it’s already kinda late and I’m pretty tired, so yeah. Sorry.”
+[scene] (p.101–108) Ten minutes of silence; then it all comes out — Shinohara Satsuki; Komiya; his years of pretending; his apology.
+[says] (p.101) “O-oh, uh, I… same old same old, ya know?”
+[says] (p.101) “What’re you guys saying? L-look, there’s this whole uninhabited island exam, and like… I mean, I’m just under a lot of stress cuz there’s a chance I might get expelled. That’s all.”
+[says] (p.102) “Uhm, how do I put it…”
+[says] (p.103) “Just forget about it…”
+[says] (p.103) “To be honest… There’s… a girl I’ve had my eye on for a while now.”
+[says] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.”
+[says] (p.105) “It’s not like I’ve been conscious of her from the start or anything. Hell, I hated her at first. But… I dunno why, but at some point I started caring about her and, well… I guess I didn’t wanna admit it to myself, so just went along pretending that I hadn’t fallen for her.”
+[says] (p.105) “It’s just not that simple. Not anymore.”
+[says] (p.105) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.”
+[says] (p.105) “Plus, well… it seems like she sees him as someone special as well.”
+[says] (p.106) “I… I only realized that I was fallin’ in love with Shinohara a little while ago… So when this exam came around, I wanted to group up with her more than anything. But I just couldn’t be freaking honest about it so we started fightin’ like we always do… It’s pathetic… This whole time, I’ve just been searching for her…”
+[says] (p.106) “Maybe I just got the wrong idea at some point, thinking she liked me somehow even though we argue so much… I’m such a loser. Even now I’ve got no idea what I shouldda done differently.”
+[says] (p.106) “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.”
+[says] (p.106) “Draw the line…?”
+[says] (p.107) “…Dammit.”
+[says] (p.108) “Ken, Ryōtarō, I’m sorry guys. I… I’ve prolly troubled you two a heck of a lot these past two days, haven’t I?”
+[says] (p.108) “To be honest, I’m still anxious about Shinohara. But… that won’t matter anyway if I don’t get through the exam first. All my worrying, all this time I’ve spent, everything wouldda been in vain if we don’t pass.”
+[note] (p.108) “…Yeah. I’ve gotta get through this exam safely first right?” — speaker untagged in the print; recorded unassigned (his by flow).
+[rel:shinohara-satsuki] (p.103–108) Confesses everything to his friends — everything, at last.
+[rel:komiya-kyogo] (p.105–106) His perceived rival.
+[rel:sudou-ken] (p.85–109) His closest ally; hauls him along.
+[rel:hondou-ryoutaro] (p.85–109) The other closest friend.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.153–158 — The river camp; the fish
+[scene] (p.153–158) Waiting at the river after the Task; calls AK over with a handful of dead branches; the fish he caught by the ocean; he gifts/horders them for the fire on the beach — his tent-mates demand them; Kei causes a stir with her “Ah-!”; the grill is stocked.
+[says] (p.154) “Heeey-! Ayanokōji-!”
+[says] (p.154) “Ayanokōji-! Nanase-! I thought it was you two-! So this is where you guys’ve been-!”
+[says:nanase-tsubasa] (p.154) “What an amazing coincidence-! Are you camping around here tonight, Ike-senpai-!?”
+[says:sudou-ken] (p.154) “Hold up, what was your last designated area today, you two…?”
+[says:ayanokouji-kiyotaka] (p.154) “I4.”
+[says:sudou-ken] (p.155) “Man, what’re the odds!”
+[says:ayanokouji-kiyotaka] (p.155) “You’re quite resourceful.”
+[says] (p.155) “Well, you gotta do whatcha can to help out. You know how we were like, told beforehand that we’d be doin’ an exam out on an island this time? I reckon most people went and looked up how to handle this kinda stuff ahead of time cuz of that.”
+[says] (p.156) “But, well, there’s a difference between knowledge and experience, right? How should I put it… If you could do something just cuz you knew about it, nothing would be hard at all.”
+[says:nanase-tsubasa] (p.156) “Ah, there you are, Ayanokōji-senpai.”
+[says:ayanokouji-kiyotaka] (p.156) “What’s up?”
+[says] (p.156) “Alrighty guys, I think it’s about time we had some grub.”
+[says:nanase-tsubasa] (p.156) “You were gone for a while, so I went to look for you.”
+[says:karuizawa-kei] (p.157) “Ah-!”
+[says:sudou-ken] (p.157) “What wrong, Karuizawa-san?”
+[says:karuizawa-kei] (p.157) “Oh, nothing. I was just, like, shocked ‘bout them grilling fish is all.”
+[says:karuizawa-kei] (p.157) “Hey, why don’t we camp here too? I think Ike-kun’d be willing to treat us.”
+[says] (p.157) “Haah!? Why should I treat you!?”
+[says:karuizawa-kei] (p.157) “C’mon, it’s not like you’ll run outta fish.”
+[says] (p.157) “There’ll be less for us if you guys eat them! No way!”
+[says:sudou-ken] (p.158) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.”
+[says] (p.158) “I-it can’t be helped! I guess I’ll just have to prepare for three more people!”
+[says:karuizawa-kei] (p.158) “For real? Sweet! It’s a good thing I tried asking.”
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
 ### y2v3 p.164–176 — The 5 AM wake; the search; Komiya found
 [scene] (p.164–167) Shaken awake by Nanase; volunteers to take the lead; vetoed by Nanase (crisis discernment jobs); takes rear-guard; shouts for Shinohara.
 [says] (p.166) “Eh? W-why?”
@@ -1211,7 +1276,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.171) “That’s… that’s… Well, you’re not wrong…”
 [says] (p.171) “So, you’re sayin’ she might be lost…?”
 [says] (p.176) “Komiya, where’s Shinohara!?”
-
 ### y2v3 p.177–181 — The climb; Shinohara's push account
 [scene] (p.177–181) Dashing toward a sound on the slope; cliff climb; caught up to AK; she emerges from the bushes; they crash into each other; his anger at the push; the first-year group detail (three girls and one boy); they take the detour down.
 [says] (p.177) “Shinohara-!!”
@@ -1231,7 +1295,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [says:shinohara-satsuki] (p.180) “…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push them off…”
 [says] (p.180) “Somebody? Who the hell was it!?”
 [says:shinohara-satsuki] (p.180) “I-I don’t know! I really don’t! …But why, why would they do such a thing!?”
-
 ### y2v3 p.188–198 — The return; the GPS record; Sakagami's pressure
 [scene] (p.188–198) Back at the injured pair; her testimony repeats; the four first-years arrive; Sakagami and Chabashira arrive; GPS record; the “convenient tale” charge; his outburst overlooked (once).
 [says:dogami-mitsuko] (p.192) “Uhm~… Has something happened here?”
@@ -1256,7 +1319,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [says:sakagami] (p.197) “I’ll overlook that careless outburst of yours just this once. Are we clear?”
 [says] (p.198) “Tsk…!”
 [says:chabashira-sae] (p.198) “We relied on Komiya and Kinoshita’s GPS signals to get here. Komiya’s Emergency Alert went off at 4:56:24 AM, whereas Kinoshita’s went off seven seconds later. The only other signal that was in the nearby area in that timeframe was Shinohara’s and Shinohara’s alone.”
-
 ### y2v3 p.199–209 — Komiya's blessing; the rescue pact; the plan
 [scene] (p.199–204) Komiya — the rival in love — gives her away: “Show me how much of a man you are.”; her breakdown and flight; her refusal; his first three stops abandoned; give a shit anyway; his pact with Sudō and Hondō; his stubborn claim.
 [says:shinohara-satsuki] (p.199) “I-I can’t go on like this…! There’s no way I can do this alone…!”
@@ -1293,49 +1355,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:hondou-ryoutaro] (p.164–209) The third wheel of the ride.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
-
-### y2v3 p.65 — Ike named at the Grip Strength Task
-[mentioned] (p.65) “His group members, Ike and Hondō, were nowhere to be seen, suggesting that he had probably split off and rushed here on his own to secure a spot in the Task.” — named as Sudō's group member at the Task site; not present; POV Ayanokōji.
-
-<!-- walk: y2v3 Ch.2 → p.74 -->
-
-
-### y2v3 p.85–90 — The funk; the anime quiz; "Yay…"
-[scene] (p.85–86) Sits a bit away from the registration desk, waiting for the quiz; visibly out of it — bored, uninterested; Hondō fails to strike up a conversation; Sudō sizes him up ("Though, well, Ike's been kinda out of it."); Shinohara/Komiya context: the pressure of the expulsion risk + the girl he has his eye on.
-[scene] (p.88–90) 『Quiz Genre・Anime』; his hands are reliable on these — 95% with Sudō and Hondō; the class credit for miscellaneous knowledge; the high-five comes weak.
-[says] (p.90) “Yay…”
-
-
-### y2v3 p.97–109 — Shinohara comes out
-[scene] (p.97) Sudō and Hondō press him about camping; he points them to the clearing near H9; he's listless through the trek.
-[says] (p.97) “Let’s go back to H9 for now. We passed by a clearing earlier. That should be good enough.”
-[scene] (p.98–99) Ten minutes of camp setup; the fishing rod stays in the pack; he zones out repeatedly.
-[says] (p.98) “Eh? Oh, uh, well… it’s already kinda late and I’m pretty tired, so yeah. Sorry.”
-[scene] (p.101–108) Ten minutes of silence; then it all comes out — Shinohara Satsuki; Komiya; his years of pretending; his apology.
-[says] (p.101) “O-oh, uh, I… same old same old, ya know?”
-[says] (p.101) “What’re you guys saying? L-look, there’s this whole uninhabited island exam, and like… I mean, I’m just under a lot of stress cuz there’s a chance I might get expelled. That’s all.”
-[says] (p.102) “Uhm, how do I put it…”
-[says] (p.103) “Just forget about it…”
-[says] (p.103) “To be honest… There’s… a girl I’ve had my eye on for a while now.”
-[says] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.”
-[says] (p.105) “It’s not like I’ve been conscious of her from the start or anything. Hell, I hated her at first. But… I dunno why, but at some point I started caring about her and, well… I guess I didn’t wanna admit it to myself, so just went along pretending that I hadn’t fallen for her.”
-[says] (p.105) “It’s just not that simple. Not anymore.”
-[says] (p.105) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.”
-[says] (p.105) “Plus, well… it seems like she sees him as someone special as well.”
-[says] (p.106) “I… I only realized that I was fallin’ in love with Shinohara a little while ago… So when this exam came around, I wanted to group up with her more than anything. But I just couldn’t be freaking honest about it so we started fightin’ like we always do… It’s pathetic… This whole time, I’ve just been searching for her…”
-[says] (p.106) “Maybe I just got the wrong idea at some point, thinking she liked me somehow even though we argue so much… I’m such a loser. Even now I’ve got no idea what I shouldda done differently.”
-[says] (p.106) “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.”
-[says] (p.106) “Draw the line…?”
-[says] (p.107) “…Dammit.”
-[says] (p.108) “Ken, Ryōtarō, I’m sorry guys. I… I’ve prolly troubled you two a heck of a lot these past two days, haven’t I?”
-[says] (p.108) “To be honest, I’m still anxious about Shinohara. But… that won’t matter anyway if I don’t get through the exam first. All my worrying, all this time I’ve spent, everything wouldda been in vain if we don’t pass.”
-[note] (p.108) “…Yeah. I’ve gotta get through this exam safely first right?” — speaker untagged in the print; recorded unassigned (his by flow).
-[rel:shinohara-satsuki] (p.103–108) Confesses everything to his friends — everything, at last.
-[rel:komiya-kyogo] (p.105–106) His perceived rival.
-[rel:sudou-ken] (p.85–109) His closest ally; hauls him along.
-[rel:hondou-ryoutaro] (p.85–109) The other closest friend.
-
-<!-- walk: y2v3 Ch.3 → p.109 -->
 
 ## y2v4
 

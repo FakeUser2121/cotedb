@@ -6,13 +6,12 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.267–277, 322 — Takahashi mentioned in passing
-[scene] (p.267–277) Named in the first-year representative meeting context.
-[scene] (p.322) Named in the Epilogue context.
-[note] (p.267–277, 322) Passing mentions; not a distinct scene presence.
-[mentioned] (p.267–277, 322) Passing mention only.
+### y2v3 p.267–274 — Takahashi Osamu (Class A representative)
+[scene] (p.267–273) First-years meeting arranged by Tsubaki; he's the first to bolt (stomach ache) when things get hot; misses the interrogation; returns after.
+[says] (p.268) “Sorry guys… I’ve got a bit of a stomach ache so I’mma excuse myself. It… It might take a while!”
+[note] (p.267) The meeting was planned before the exam; bonfires on the F9 beach at 9:00 PM; participants: Takahashi (Class A), Yagami (Class B), Utomiya (Class C), Tsubaki (Class C), Hōsen (Class D).
 
-<!-- walk: y2v3 Ch.7 → p.322 -->
+<!-- walk: y2v3 Ch.7 → p.274 -->
 
 ## y2v2
 

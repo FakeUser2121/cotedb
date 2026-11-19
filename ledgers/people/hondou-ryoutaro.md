@@ -83,15 +83,16 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.65 — Hondō named at the Grip Strength Task
+[mentioned] (p.65) “His group members, Ike and Hondō, were nowhere to be seen, suggesting that he had probably split off and rushed here on his own to secure a spot in the Task.” — named as Sudō's group member at the Task site; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 ### y2v3 p.85–90 — The lively foil at the quiz
 [scene] (p.85) Keeps trying to draw Ike out as they wait for the quiz; fails; joking alone.
 [scene] (p.88) The genre lands: 『Quiz Genre・Anime』; he knows this stuff cold — the team’s 95% rides on Ike and his minds.
 [says] (p.88) “Forreal!? This is uber-mega-easy!”
 [scene] (p.90) The group tops the quiz; his energy stands out against Ike's flat high-five.
 [says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
-
-
-
 ### y2v3 p.97–108 — The tremulous tent-neighbor; Ike's support
 [scene] (p.97) Follows Ike into the clearing; gasping after the replacement-Task day; says nothing about it.
 [scene] (p.98–99) Watches for dinner; eyes the unused fishing rod.
@@ -118,16 +119,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.102) “C’mon, if you’re bothered by something just come out with it.” — speaker untagged in the print; recorded unassigned (Sudō or Hondō).
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
-
-
-
 ### y2v3 p.113 — Hondō at the joint trek
 [scene] (p.113) His group takes the same route to I8; splits off for the I9 Task with Sudō and Ike once they arrive.
 [note] (p.154–157) He rejoins at the riverside camp after dinner prep; not much quoted in this volume segment.
 [mentioned] (p.113) “Sure thing. You down, Kanji?” — Sudō's invite to Ike in the trek conversation.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
-
 ### y2v3 p.164–204 — The rear-guard; the ghost jokes
 [scene] (p.164–170) Shaken awake by Nanase; groggy; follows into the forest; the ghost joke; terror mounts as the pair of alerts is realized.
 [says] (p.167) “Gosh, why the heck are we movin’ around so early in the mornin’?”

@@ -832,7 +832,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.66, 213–218, 276) Passing mentions; not a distinct scene presence.
 [mentioned] (p.66, 213–218, 276) Passing mention only.
 
-<!-- walk: y2v3 Ch.6 → p.276 -->
 
 
 ### y2v3 p.213–219 — Katsuragi at the riverbed

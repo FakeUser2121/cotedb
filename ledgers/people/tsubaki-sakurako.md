@@ -94,37 +94,40 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.48–49 — Tsubaki at the start of the island exam
-[scene] (p.48–49) She is seen with Nishino; Ishizaki tries to motivate them.
-[trait] (p.48–49) Part of Ishizaki's group.
-
-<!-- walk: y2v3 Ch.2 → p.49 -->
-
-
-
-
-### y2v3 p.267–273 — Tsubaki's trap: exposing and coercing Yagami
-[scene] (p.267) At 9 PM on day six, the first-year reps meet at F9 beach (bonfire signal) — Tsubaki (the unlikely organizer), Takahashi, Yagami, Utomiya, Hōsen (absent).
-[says] (p.268) "Well, he doesn't really seem the type to show up on time. Or maybe he's just not coming."
-[says] (p.270) "Not for you? Sorry, but I'm having a hard time believing that."
-[says] (p.270) "you might even be more obsessed with it than Hōsen-kun and Amasawa-san."
-[says] (p.270) "It's the kinda thing I can tell just by looking at you."
-[says] (p.271) "we gotta take action sooner rather than later."
-[says] (p.271) "If you don't willingly cooperate starting now, you might end up paying dearly later."
-[says] (p.271) "someone important to you'll be in danger, or something like that."
-[says] (p.272) "Ah, what's that about Kushida-senpai? Do tell."
-[says] (p.272) "Either you come clean and tell us what you know, or you retire right here, right now."
-[trait] (p.267–273) The hidden mastermind — perceptive ("eye for people"), she deduces Yagami's plot to use Kushida and that he's obsessed with expelling Ayanokōji; uses Utomiya's violence to coerce him, threatens Kushida, and forces his confession about Kushida's past and Ayanokōji's knowledge — proving she's been pulling strings from the shadows.
-[rel:yagami-takuya] (p.268–273) Sees through his "harmless" act; coerces his confession about Kushida.
-[rel:utomiya-riku] (p.272) Uses him as the muscle (Full Nelson/headlock) to intimidate Yagami.
-[rel:kushida-kikyou] (p.271–272) Knows Yagami is connected to her and threatens her to force cooperation.
-[rel:ayanokouji-kiyotaka] (p.271) Wants him expelled before Hōsen succeeds.
-[rel:housen-kazuomi] (p.268) Notes he never showed up to the meeting.
 ### y2v3 p.192–193 — Tsubaki at the slope
 [scene] (p.192–193) Tsubaki Sakurako of Class 1-C; present with the first-year group; perfectly calm; undeterred; watches everything.
 [note] (p.192–193) The group composition matches Shinohara's description of the group passing them after 8:30 PM last night (three girls and one boy; the girls 1-A/1-B/1-C, the boy 1-D). The match is an observation, not a conclusion — the identity of the perpetrator is not printed on these pages.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
+### y2v3 p.267–274 — Tsubaki: the minds behind the bonfire
+[scene] (p.267–274) Class C's Tsubaki; scary-quiet; orchestrated the first-years' meeting under a bonfire; probes Yagami with her thousand-yard stare; the Kushida hook; Utomiya does the hands for her.
+[says] (p.268) “Well, he doesn’t really seem the type to show up on time. Or maybe he’s just not coming.”
+[says] (p.269) “What…?”
+[says] (p.269) “What do you mean?”
+[says] (p.269) “Your OAA ratings are, at a glance, below average. In fact, there doesn’t seem to be anything remarkable about you in the slightest. However, from what I’ve seen during the battles we first-years have taken part in so far, you’ve been one to provide fairly critical insight from time to time. Furthermore…”
+[says] (p.269) “Hmmm. You say some interesting stuff, Yagami-kun. So the reason you supported my proposal to set this up is cuz you knew I thought of something?”
+[says] (p.269) “Well, Yagami-kun, how ‘bout I tell you something interesting?”
+[says] (p.270) “Though, do know that after you hear it… I won’t be able to guarantee anything.”
+[says] (p.270) “Yagami-kun, you said just now that Utomiya-kun and I’ve been scheming from the shadows to try’n get Ayanokōji-senpai kicked outta school, yeah?”
+[says] (p.270) “A reward of 20 million private points, just for getting a senpai expelled? Just about anybody would find that attractive, yeah?”
+[says] (p.270) “Not for you? Sorry, but I’m having a hard time believing that. You make yourself seem harmless, but aren’t you really lookin’ to get Ayanokōji-senpai expelled as well? Hell, you might even be more obsessed with it than Hōsen-kun and Amasawa-san.”
+[says] (p.270) “It’s the kinda thing I can tell just by looking at you. I’ll have you know that I’ve gotta lotta confidence in my eye for people.”
+[says] (p.270) “It’s hard to imagine given the way you normally act, but like… I’d imagine that your plan started out with pretending to be an ally so you could slowly get closer to him and stab ‘em right in the back. Or am I wrong?”
+[note] (p.271) “You…” — speaker untagged in the print; recorded unassigned.
+[says] (p.271) “Well whatever, we’ll get back to that later. Getting back to the point, the situation’s currently looking kinda cruddy, wouldn’t you say?”
+[says] (p.271) “Apparently, Nanase-san’s been sticking together with Ayanokōji-senpai for a while now. I heard that he’s even given her permission to tag along too. I tried checking up on them with the GPS Search feature just to make sure, and sure enough, the both of ‘em are up in area C3 together right now.”
+[says] (p.271) “I’m saying that we gotta take action sooner rather than later. If Hōsen-kun gets Ayanokōji-senpai expelled, it’ll all be over for the rest of us. If possible, I’d like to hear what kinda plans you’ve thought of to get Senpai kicked out, just as a reference. You get me?”
+[says] (p.271) “If you don’t willingly cooperate starting now, you might end up paying dearly later.”
+[says] (p.271) “Well, like, someone important to you’ll be in danger, or something like that.”
+[says] (p.271) “Ah, what’s that about Kushida-senpai? Do tell.”
+[says] (p.272) “Yagami-kun, I get that you think Kushida-senpai is like, the key to getting Ayanokōji-senpai expelled, but why is that? How exactly do you plan on making use of her?”
+[trait] (p.267–274) The coldest-running mind in Class C; never raises her voice; pulls strings with information, not force; her eye never falters.
+[rel:utomiya-riku] (p.267–274) Her quiet accomplice.
+[rel:yagami-takuya] (p.267–274) The target of the probe.
+[rel:housen-kazuomi] (p.267–274) The absent exec whose delay she planned around.
+[rel:kushida-kikyou] (p.267–274) The named lever for Yagami.
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
 
 ## y2v4
 

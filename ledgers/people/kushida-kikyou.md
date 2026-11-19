@@ -1892,6 +1892,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 <!-- walk: y2v3 → start -->
 
 
+### y2v3 p.104 — Kushida guessed at the fire
+[mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.267–274 — Kushida named by the Yagami probe
+[mentioned] (p.271) “S-surely you’re not going to do something to Kushida-senpai!?” — named by Yagami as his kept secret; not present; POV switch to third-person limited (the bonfire scene).
+[mentioned] (p.272) “Yagami-kun, I get that you think Kushida-senpai is like, the key to getting Ayanokōji-senpai expelled, but why is that? How exactly do you plan on making use of her?” — named by Tsubaki as leverage; not present; same scene.
+[mentioned] (p.272) “I can’t say…” — named by Yagami as the break point of his restraint; not present; same scene.
+[mentioned] (p.273) “…I understand. I’ll tell you everything.” — the moment Kushida's secret enters the record; not present; same scene.
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
 ### y2v3 p.305–320 — Kushida tails Ayanokōji; her plot exposed by Amasawa
 [scene] (p.305) On day seven, tails Ayanokōji through the storm toward D3 using a hidden walkie-talkie and the GPS Search feature, coordinating with an accomplice to pinpoint his location.
 [says] (p.307) "I received your report over the walkie-talkie this morning. You're going to explain what happened, right?"
@@ -1902,10 +1913,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.305–320) Secretly plots to get dirt on Ayanokōji (having dropped a tablet near the fight to record him), but Amasawa — the "accomplice" — turns the tables, exposing Kushida's "nasty, vile" true nature and her plan; broken, Kushida collapses in the mud, realizing her mask and schemes are unraveling (the consequence of Yagami having revealed her past to the first-years).
 [rel:amasawa-ichika] (p.307–319) Her walkie-talkie accomplice, who sees through her and taunts her; nearest thing to a defeat of her persona.
 [rel:ayanokouji-kiyotaka] (p.305–320) She tails him to record evidence for expulsion; Ayanokōji has already sensed the watchers.
-### y2v3 p.104 — Kushida guessed at the fire
-[mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
-
-<!-- walk: y2v3 Ch.3 → p.109 -->
 
 ## y2v4
 
