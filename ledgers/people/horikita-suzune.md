@@ -4541,7 +4541,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.212) "I don't like to make jokes, unfortunately. I'm serious."
 [says] (p.212) "It wasn't dumb, it wasn't funny, it was just plain ugly."
 [says] (p.212) "You have some personality problems,"
-[note] (p.212–213) The sentence continues onto the next page ("But you're a much harder worker than I am." p.213) across the printed page break — the credit line sits between "But" and "you're"; quoted only the in-page fragment.
+[note] (p.212–213) The sentence continues onto the next page — the credit line sits between "But" and "you're" — quoted only the in-page fragment ("you're a much harder worker than I am." is on p.213, corpus-exact).
 [says] (p.213) "Be kind with lies. Faking kindness. That's terrible? That's just frivolous."
 [says] (p.213) "She has a talent that no one else has, and to expel her is a huge loss to the class."
 [says] (p.213) "Therefore I cannot agree with Kushida-san's withdrawal from the school."
