@@ -904,6 +904,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.265–267) Perceptive and quietly supportive — knew from the start about the White Room enforcer threat and deliberately left "safe" first-years available to help him; declines to press when he refuses, never doubting he'll survive, and looks forward to their rematch.
 [rel:ayanokouji-kiyotaka] (p.265–267) Warns him about the enforcer, offers a safe partner (refused), and places great trust in him.
 [rel:tsukishiro] (p.266) Knows the White Room may send an enforcer to expel him.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.20–20 — Ch.1: Named — Sakayanagi's curious challenge
+[mentioned] (p.20) AK notes: Sakayanagi chose to challenge Ryūen in the end-of-year exam — nothing in it for her; likely factor: a Sakayanagi–Ichinose alliance to destroy Ryūen, or the Sakayanagi–Ryūen promise; marked as AK's inference, not fact.
+[note] (p.20) Both readings (Ichinose alliance; the promise) are AK's speculation as printed — recorded, not confirmed.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1311,43 +1321,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.174) "from signing contracts with people like Sakayanagi and Ryūen, who will invite them into their classes if they let the time run out, or give them large amounts of private points."
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.219–222 — Sakayanagi decides to participate
-[says] (p.219) "The situation changes from moment to moment. And today, there has been another new development."
-[says] (p.219) "Ryuuen-kun and Horikita-san's classes have made contact."
-[says] (p.220) "We will lose. If the other three classes were disorganized and fought each other, it would have still been possible for us to take any of the positions, but now we have an unexpected partnership to deal with."
-[says] (p.221) "I will also participate in the Sports Festival. Even if they really do join hands, they have calculated that with my nonparticipation and their cooperation, they can finally win. Let's show them that that is an illusion."
-[says] (p.222) "It won't be so difficult to crack the fragile relationship between Horikita-san and Ryuuen-kun."
-[trait] (p.219–222) Calmly assesses that Class A will lose against the new alliance — and, rather than sit out (as everyone expected given her legs), decides to participate to foil their calculations, even if only to pick up winnable events and disrupt them on the day; confident she can "crack" the fragile alliance. Hashimoto notes her impression of Ayanokōji has been "rising considerably."
-[rel:hashimoto-masayoshi] (p.220) He suspects Ayanokōji is making secret moves; she probes his changed impression of him.
-[rel:kamuro] (p.219–221) Her classmate; questions whether she can really participate.
-[rel:ayanokouji-kiyotaka] (p.220) Hashimoto: "Has Horikita grown?… Or has Ayanokouji been making some moves in secret?"
-
-[note] (p.219) Sakayanagi's information network among first-years alerted her to the alliance quickly — "I still have the responsibility of representing Class A after all."
-
-### y2v6 p.303–317 — Sakayanagi's visit: mont blancs, a "special lesson," a shared secret
-[scene] (p.303) Visits Ayanokōji's room during the festival (with two mont blancs), knowing he predicted she would come — her legs prevent easy movement, but she's only prohibited from leaving the dorms.
-[says] (p.304) "You really are a terrible person, Ayanokouji-kun. This was part of your strategy, wasn't it?"
-[says] (p.307) "It was you, for authoritatively saying that you could definitely keep me from participating."
-[says] (p.308) "The systems of this school are, to me, just an extension of playtime."
-[says] (p.309) "Initially, I was not obsessed about Class A or anything like that. But after finding out that you were in this school, it became my goal."
-[says] (p.309) "Let's eat it together, Ayanokouji-kun."
-[says] (p.317) "The small difference in our level of experience, I will use one way of learning to catch up and then leave you behind."
-[trait] (p.303–317) Playful and perceptive — sees through his trap, but comes anyway (curiosity and desire to talk); feeds him mont blanc with the same fork, reveals her goal is to fight him seriously once he reaches Class A, and even when physically overpowered and cornered into a "special lesson" (a compromising photo to bind her secrecy), keeps thinking rationally — accepting being "used" while vowing to use him in return.
-[rel:ayanokouji-kiyotaka] (p.303–317) Her "terrible" rival — she came to his room, shares a secret, and is bound to him by a "special lesson."
-[rel:sakayanagi] (p.305) Her father, the school director, was manipulated (unknowingly) into telling her about Ayanokōji's sick leave — the bait that brought her.
-
-### y2v6 p.333–335 — Short story: "Complicated Feelings" — the "special lesson" from her POV
-[scene] (p.333) From her own POV, enjoys the rare chance to talk to Ayanokōji alone (both absent from the festival), piecing together the hints of his "observation" strategy when he suddenly pushes her back onto the bed.
-[narrates] (p.333) "You were just observing, but even made me come here and visit you."
-[narrates] (p.334) "You will be hindrance if you told anyone else about this."
-[narrates] (p.335) "If this was his goal, I won't mind."
-[narrates] (p.335) "If you are going to use me—I'm going to use you until the very end."
-[trait] (p.333–335) Flustered yet exhilarated — her thoughts scramble when he mounts her to bind her secrecy, but she realizes his "true goal" (the "special lesson") and accepts being used, with "complicated feelings" — and resolves to use him in return until the very end.
-[rel:ayanokouji-kiyotaka] (p.333–335) Her rival — she acknowledges she's being used and vows to use him back.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

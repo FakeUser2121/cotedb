@@ -1046,6 +1046,17 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.12) Miyake narrates that logic did not weigh his choice — he was willing to abandon Airi, a member of the group he cared about just as much as Haruka, to protect Haruka.
 
 <!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.20–20 — Ch.1: OAA emptied — her name is gone
+[mentioned] (p.20) AK checks the OAA app on his phone — her name is already gone from the class list, as if such a student had never existed.
+
+### y2v6 p.58–63 — Ch.1: The five thousand points she spent — the gray area
+[scene] (p.61–62) Chabashira tells him: after the Unanimous Consent Special Test finished, the school found evidence Sakura spent about five thousand of her private points; items purchased in-school are fundamentally the student's property, but the post-processing had not been completed; this is a gray area — the school considers it unacceptable if points were transferred after expulsion; he agrees to pay the five thousand himself; Chabashira trails off at “No, it’s not like that. Sakura───” and never says what the points were for.
+[note] (p.61–63) Purpose of the five thousand points: not stated on these pages; Chabashira asks if it has anything to do with AK; he denies it; he agrees to cover the sum.
+[rel:ayanokouji-kiyotaka] (p.61–63) He agrees to pay her five thousand points out of his own — he claims no obligation to bear it, but chooses to.
+[rel:hasebe-haruka] (p.18) Her close friend Haruka paid the price for her expulsion too — the class's fracture radiates from this page forward.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -581,19 +581,10 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 ### y1v1 p.263-264 — Postscript (meta)
 [trivia] author Kinugasa Syougo; theme stated: "academics aren't everything"; in-story year 2015; illustrator Tomose Shunsaku; author insomnia noted
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
 ## y1v1 WALK COMPLETE
 coverage: 264/264 pages read in 13 chunks; every alias-hit page covered; ledger entries at every scene stop.
 walk: y1v1 → DONE
 
-### y2v6 p.11–14 — Prologue: Kiyotaka named in Miyake's group (Miyake's POV)
-[scene] (p.12) Named “Kiyotaka” among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group that felt strangely comfortable.
-[mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
-
-<!-- walk: y2v6 Prologue → p.14 -->
 ## y1v2
 
 <!-- walk: y1v2 → start -->
@@ -8627,8 +8618,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4.5 → start -->
 
-
-
 ### y2v4.5 p.10–16 — Prologue note; August class points; settling in
 [note] (p.10) The prologue is Ayanokōji's monologue (phones returned, cruise rules stricter — no leaving rooms after 10 p.m., some levels off-limits); recorded as narration on his own page.
 [trivia] (p.13) August class points: A (Sakayanagi) 1206, B (Ichinose) 578, C (Horikita — their class rose from D) 571, D (Ryūen) 551 — Kōenji's 300 points from his solo win lifted them just to Class C, one step short of B.
@@ -8746,7 +8735,6 @@ walk: y1v1 → DONE
 [note] (p.85–89) She is, in substance, his ally and his enemy on the same coin — she will hurt Ichinose to win her trust and she warns him to be careful — "And to go along with that, you've been getting a lot of strange looks from the third-year students, right?" (p.86).
 [rel:sakayanagi-arisu] (p.85–89) Her ally/enemy paradox is now explicit to him.
 
-
 <!-- walk: y2v4.5 ch3 → p.95 -->
 
 ### y2v4.5 p.97–106 — The private pool: Airi and Haruka's bold swimsuits
@@ -8856,7 +8844,6 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.211–213) Shares the corridor news — Ike wants to study with him; Satō might tag along; Sudō's competitive pride.
 [rel:kushida-kikyou] (p.213–216) Buys her silence with half of the treasure-hunt winnings; "good faith" is a two-way street.
 
-
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
 ### y2v4.5 p.217–224 — The "I love you" phone call with Kei
@@ -8905,7 +8892,6 @@ walk: y1v1 → DONE
 [trait] (p.268–274) Holds her hand and, after a first tentative kiss, repeats it — learning timing through practice ("the only way to learn the timing was to repeat it over and over again"); reflects that they've finished "the first half of the curriculum of love" and will face an "arduous trial" when they graduate ("a given"), when Kei will have to stand up on her own without her host.
 [rel:karuizawa-kei] (p.268–274) His girlfriend — they'll go public in second semester; they learn to kiss together.
 <!-- walk: y2v4.5 Epilogue → p.274 -->
-
 
 ### y2v4.5 p.10–290 — Relations in this volume (depth pass)
 [rel:amasawa-ichika] (p.251–257) Yagami plans "a battle of wits" with him; she is the White Room rival he keeps in orbit; Ayanokōji never meets her on-page.
@@ -9212,6 +9198,125 @@ walk: y1v1 → DONE
 [mentioned] (p.187) "I can't agree with Kiyopon or Horikita's expulsion from the school right now. Because I think they should be listened to first, not because of my personal relationship." — Haruka.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Kiyotaka named in Miyake's group (Miyake's POV)
+[scene] (p.12) Named “Kiyotaka” among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group that felt strangely comfortable.
+[mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
+
+<!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.15–25 — Ch.1: Morning after the exam — Monday, September 20
+[scene] (p.15) Monday, September 20, 6:30 a.m.; the Unanimous Consent Special Exam and the weekend behind him, the week starting wrong — Kushida's revelations and the broken promise to expel only the traitor have shaken the class's trust in Horikita and him.
+[thinks] (p.15) “But, still──”
+[scene] (p.16–19) Logically there should have been no choice but to expel Kushida — he had determined that, and planned everything toward it — yet Horikita defended her, declared she would absolutely not agree to her expulsion, and he supported Horikita's “illogical mistake,” expelling Airi instead; he narrates that he wants to watch Horikita's growth, see the “chemical reaction” of leaving Kushida in the class, and that the pain was a necessary cost of growing.
+[thinks] (p.19) “I’d still be hard pressed to say that it was the right choice at this stage though.”
+[scene] (p.20) He checks OAA — Sakura Airi's name is already gone from the class list “as if such a student had never existed”; notes Ryūen and Sakayanagi chose to challenge each other in the end-of-year exam, Sakayanagi having nothing in it for her — possibly allied with Ichinose; the promise between Sakayanagi and Ryūen may also be a factor.
+[scene] (p.20–25) Dorm lobby: Horikita is on the sofa waiting for Kushida — she has been waiting by her door since dawn (dark circles under her eyes), ringing the doorbell without a sound; talks it over with him: Keisei and Akito contacted but not about Airi; Haruka has not read his messages; Horikita apologizes for forcing the Kushida decision; he tells her not to apologize again; she comes to feel he was the one who could see the exam from the very beginning
+[says] (p.20) “Are you waiting for Kushida?”
+[says] (p.22) “I had some contact with Keisei and Akito, but that’s about it.”
+[says] (p.22) “Well, yes. Naturally, I haven’t had the courage to send her a message.”
+[says] (p.23) “Right now, I suppose whatever you try to tell her won’t get through. It’s best to wait.”
+[says] (p.23) “You don’t need to apologize again for the same thing. If you thought that was the right thing to do, I’m fine with that.”
+[says] (p.24) “It’s not like I saw the future. I just considered every possibility and planned for them.”
+[says] (p.24) “It’s good to analyze the past, but right now I think we need to solve the class’s problems first, don’t you?”
+[says] (p.24) “You shouldn’t expect the class to be the same as it was until just recently.”
+[says] (p.25) “You should head to school.”
+[rel:horikita-suzune] (p.15–25) He supported her “illogical mistake” without agreeing with it; keeps a distance from her apology; she realizes he understood the exam from the very beginning.
+[rel:kushida-kikyou] (p.15–21) The “ball of trust” he broke; she has holed up in her room since the exam; his ruined plan.
+[rel:sakura-airi] (p.20) He checks OAA and finds her name gone; the one he expelled instead of Kushida.
+[rel:hasebe-haruka] (p.22) Has not read his messages; may have blocked him; he lacks the courage to message her.
+[rel:ishigami-kyou] (p.22) “some contact with Keisei and Akito, but that’s about it.”
+[rel:miyake-akito] (p.22) Contact with Akito, never about Airi.
+[rel:sakayanagi-arisu] (p.20) Sakayanagi challenging the end-of-year exam against Ryūen — he suspects a Sakayanagi–Ichinose alliance and the Sakayanagi–Ryūen promise as factors.
+[rel:ryuuen-kakeru] (p.20) Ryūen chose the end-of-year exam against Sakayanagi; challenging Class A for their points.
+
+### y2v6 p.26–29 — Ch.1: The classroom; Matsushita; three students absent
+[scene] (p.26) Entering the classroom, students look at him — he used to observe quietly, but his involvement in Kushida's expulsion now fits the class's eyes; Matsushita calls out to him for the first time as he shows up to class.
+[says] (p.26) “Morning.”
+[says] (p.27) “I wonder.”
+[says] (p.28) “Sounds like a pain.”
+[scene] (p.27–28) Matsushita prods him about “rising to Class A,” then reveals Shinohara's glare is aimed at her — Matsushita canceled this weekend's arrangements; the Shinohara vs Kei / Matsushita / Mori couple-making-fun incident is unpacked; Shinohara is not talking to them.
+[scene] (p.28–29) Homeroom begins late; Sudō tries to speak to Horikita; Horikita and three students are absent — Kushida, Hasebe and Wan — the first simultaneous triple absence in a year and a half; Chabashira confirms Hasebe and Wan called in sick, nothing from Kushida, and warns the absences will cost class points if they continue.
+[rel:matsushita-chiaki] (p.26–28) She rates his abilities highly after the expulsion; interprets his state of mind on Kushida better than Horikita does; cancelled weekend arrangements, Shinohara not speaking to her.
+[rel:shinohara-satsuki] (p.27–28) Her glare at Matsushita; fallout of the Kei–Matsushita–Mori couple-making-fun incident.
+[rel:chabashira-sae] (p.28–29) She takes the class attendance, accepts Hasebe and Wan's sick leaves, and flags the limit on prolonged unexplained illness.
+[rel:kushida-kikyou] (p.28) Third day (?) absent without contact — Chabashira has not heard from her.
+[rel:hasebe-haruka] (p.28) Absent, called in sick; Airi's expulsion is her reason (per AK's inference).
+[rel:wang-mei-yu] (p.28) Absent, called in sick; her love for someone was exposed (per AK's inference).
+
+### y2v6 p.30–40 — Ch.1: The Sports Festival rules are announced
+[scene] (p.30–33) Chabashira explains the Sports Festival's special rules — the Student Council President's experiment emphasizing individual ability: 9AM–4PM (break 12PM–1PM); everyone starts with 5 points and must enter at least 5 events; 1 point participation prize per event; from the sixth event each entry costs 1 point and pays nothing; a maximum of 10 events; fewer than 5 completed events forfeits all points; unsigned withdrawals cost 2 points; events run in parallel across locations; fundamental competitions (individual, fixed rewards: 1st 5 / 2nd 3 / 3rd 1 + 1 participation) and special competitions (team, at least two people, equal split, higher payouts).
+[rule] (p.31) “The Sports Festival has been adjusted to ensure that nobody will get expelled for lack of ability, and nobody will have to suffer any penalty alone.”
+[rule] (p.32) Rules: 5 points at start; at least 5 events required; participation prize 1 point; from the 6th event onwards, pay 1 point; participation prize not paid from the 6th event; max 10 events; forfeiture of all points if fewer than 5 events; −2 points for unsigned withdrawal; designated cheering areas required after finishing.
+[rule] (p.33–34) Class ranking rewards: first 150 points, second 50, third 0, fourth −150; individual rewards (per year, boys and girls separate): first 2 million private points or a Class Change Ticket (Limited Time), second 1 million, third 500,000; same-place tie splits the private reward with no ticket; ticket usable only during the second semester.
+[scene] (p.35–40) Sudō erupts at the Class Change Ticket; Chabashira explains “Limited Time” means a second-semester-only use period; AK calculates that a first-place finish needs at least four more firsts to cover the 150/50 gap and notes one student cannot enter more than 10 events; pre-booking via app from 10PM today (first come, first served; up to three cancels; deadline two days before the festival; auto-assignment if fewer than five booked); club-restriction: no event tied to a club one is or ever was a member of (Hirata cannot enter soccer; Sudō cannot enter basketball).
+[number] (p.33) Our class with two people missing gets 380 points of starting points against Ichinose's 400 — a 20-point handicap from the start.
+[rel:sudou-ken] (p.34–40) Rewards are made for him; he held his fists up in triumph at the individual prizes.
+[rel:hirata-yousuke] (p.38) Club restriction bars him from soccer events.
+[rel:ichinose-honami] (p.33) Her class of 40 starts with 400 points.
+[rel:chabashira-sae] (p.30–40) She delivers the whole rules explanation; “Limited Time” means a fixed second-semester window.
+
+### y2v6 p.40–47 — Ch.1: Sudō wants to start; Horikita's apology; Kōenji's deal
+[scene] (p.40–44) Sudō shouts to start the meeting; Horikita preempts everyone — apologizes for breaking her promise (forcing her choice to prevent Kushida's expulsion), insists she made the right choice; Shinohara challenges her twice — Kushida is untrustworthy and past contributions cannot be erased; Hirata requests the class keep Kushida's secret; Matsushita backs not leaking; Horikita declares she will bring Kushida back or take responsibility “in any way possible.”
+[scene] (p.44–47) Horikita and Kōenji leave the room; AK checks on them through the slightly open door — she confirms his participation; he agrees to compete for the money, shrugs off Class A interest, and neither trusts the other fully; AK probes him on whether he would have been expulsion-bait too; Kōenji answers he would have voted against the motion; Kōenji notices AK eavesdropping and the two exchange a pointed question about trust.
+[says:kouenji-rokusuke] (p.47) “Do you like eavesdropping on people?”
+[says] (p.47) “Can I ask you a question, Kouenji?”
+[says] (p.47) “You have a promise with Horikita. But there is no guarantee that she will keep her end of it. She was prepared for the class’s opposition when she decided to retain Kushida. Like that, I thought it was entirely possible that you would have been chosen as well. Do you have any thoughts about that?”
+[says] (p.47) “I get it. So it wasn’t like you trusted Horikita completely.”
+[says] (p.47) “Perhaps.”
+[rel:horikita-suzune] (p.40–47) Her apology, her iron will, her Kōenji deal; he watches the whole performance.
+[rel:shinohara-satsuki] (p.41–44) Openly anti-Kushida; pushes Horikita to answer for her choice.
+[rel:hirata-yousuke] (p.43) Asks the class to keep Kushida's secret; says he would not have leaked even if asked.
+[rel:matsushita-chiaki] (p.44) She backs the no-leak request; she met with others over the weekend.
+[rel:kouenji-rokusuke] (p.44–47) He agrees to enter for the money; “As of now, you're safe”; neither of them trusts anyone fully.
+[rel:sudou-ken] (p.40) Shouts to start the meeting after the rules land.
+
+### y2v6 p.48–58 — Ch.1: Yagami's summons; the student council lunch
+[scene] (p.48–50) At lunch, Kei intercepts Horikita's invitation to bring AK to eat together — Horikita relays a chat message from Yagami Takuya: the student council president wants to see him; reluctantly he agrees; Horikita reports to Yagami (her only student-council contact) with instructions to do his utmost not to anger Nagumo.
+[says] (p.49) “Sorry, Kei. If I ignore the student council president’s orders, it’ll become troublesome later.”
+[says] (p.49) “I’ll head over right away.”
+[scene] (p.50–57) Student council room: Nagumo opens with a jab; then tells him to fight him head-to-head in the Sports Festival — one head-to-head win seals the score between them, conditioned on AK entering all five Nagumo-specified competitions — miss one and it is his loss; AK may consider it, one week to reply, by next Monday; Nagumo lunches daily with Ichinose in the student council room; AK is made to eat there; Nagumo says Honami tells him her worries “every day”; AK leaves; he reflects that Nagumo might be preparing Ichinose for the student council presidency, and that his power is formidable.
+[says:nagumo-miyabi] (p.50) “Yo, Ayanokouji. Anything unusual happen in your daily life lately?”
+[says] (p.51) “Is this some sort of strict training for your underclassman? I have seen your OAA, student council president Nagumo. Unless they are competitions with a large element of luck involved, no matter what I do, I have no chance of winning. The result is clear as day.”
+[says] (p.52) “One win, is it?”
+[says] (p.52) “I also have to consider my class’s plan. Could you give me some time?”
+[says] (p.53) “I understand. If that is all you wanted to talk about, may I be excused now?”
+[says] (p.57) “Thank you very much.”
+[thinks] (p.57) “A strategy to demonstrate his superiority, huh.”
+[scene] (p.58) Cultural festival plans: he asked the maid café originators (Satou, Matsushita, Maezono) for a pause, but maid staff selection must proceed; Airi is out of the plan, Haruka not expected, Kushida — the other powerful card — gone; he knows nothing of the field and must research winning strategies; “A maid café…huh.”
+[thinks] (p.58) “A maid café…huh.”
+[rel:nagumo-miyabi] (p.50–57) Summons him to the student council room; one-week ultimatum: fight in five Nagumo-specified competitions at the Sports Festival, one head-to-head win will settle everything; lunching daily with Ichinose; possibly grooming her for the presidency.
+[rel:ichinose-honami] (p.53–57) Silent, downcast, staying away from AK; eats lunch with Nagumo every day; Nagumo says she tells him her worries “every day.”
+[rel:karuizawa-kei] (p.48–49) Intercepts Horikita's invitation — “I caaan't let you have Kiyotaka.” — then flees to Satou and the others when it turns out to be the student council president.
+[rel:horikita-suzune] (p.48–50) Relays Yagami's summons; advises him to do his utmost not to anger Nagumo; he watches Yagami's message.
+[rel:yagami-takuya] (p.48–50) Sends the summons; Horikita is his only student-council contact.
+[rel:satou-maya] (p.58) One of the maid café originators — asked to pause.
+[rel:matsushita-chiaki] (p.58) One of the maid café originators — asked to pause.
+[rel:maezono] (p.58) One of the maid café originators — asked to pause.
+
+### y2v6 p.59–63 — Ch.1: Tuesday homeroom; Chabashira's corridor talk about Airi
+[scene] (p.59–60) Tuesday morning homeroom; the three are still absent; nobody has said it, but everyone knows these three are not sick — Haruka's absence from Airi's expulsion, Wang's from her exposed feelings (her love for Yousuke, exposed), Kushida's from her revealed true nature; a week's absence would trigger investigation; the Shinohara–couple fallout spreads; teams cannot be formed yet; Horikita and Yousuke keep the class from forming teams prematurely.
+[scene] (p.60–63) Chabashira summons him by tablet: corridor talk — the school found evidence Sakura spent about five thousand private points before formal processing; it is a gray area; he says “It's not a very large sum of money, so can you let it be?” and agrees to pay the sum himself; Chabashira keeps the details on how it was spent ambiguous (she stops at “Sakura───”); she presses him on whether this concerns him; he denies it; she tells him to watch over each and every one of his students as they grow.
+[says] (p.61) “It’s unusual for you to call me like this. Is it an urgent matter?”
+[says] (p.61) “About Airi?”
+[says] (p.62) “Aren’t the expellee’s private points taken away from them?”
+[says] (p.62) “It’s not a very large sum of money, so can you let it be?”
+[says] (p.62) “Will that be a problem?”
+[says] (p.62) “Got it.”
+[says] (p.62) “Not at all. It’s just what she herself thought of doing in the limited amount of time she had.”
+[says] (p.63) “For now, please watch over each and every one of your students as they grow.”
+[note] (p.61–62) Chabashira trails off at “No, it’s not like that. Sakura───” / the next page opens with “───that being the case,” — the purpose of the five thousand points is never stated on these pages, and she leaves it there.
+[note] (p.59) The corpus prints a footnote marker “[1]” after the sentence about the clinic in Keyaki Mall; the footnote body is not present on these pages.
+[rel:chabashira-sae] (p.60–63) Calls him out by tablet; asks him to pay the five thousand points himself; asks if the matter concerns him; tells him to watch over each of his students as they grow.
+[rel:sakura-airi] (p.61–62) He pays the five thousand points she spent after her expulsion before formal processing; her name is gone from OAA.
+[rel:shinohara-satsuki] (p.60) Not talking to Kei, Matsushita and Mori (couple incident); maybe not Satou and Maezono either — class bonds split across groups.
+[rel:hirata-yousuke] (p.60) Yousuke understood the teams could not be formed yet.
+[rel:horikita-suzune] (p.60) She is not bringing up teams either.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -9808,7 +9913,6 @@ walk: y1v1 → DONE
 [note] (p.75–77) Who designed the letter is not stated on these pages; any claim about orchestration is an inference, not a fact.
 [rel:horikita-suzune] (p.75–77) She takes the delivery job reluctantly; she doesn't dig into who the letter is from.
 [rel:ichihashi-ruri] (p.75–77) The courier; Horikita rarely speaks to her; the item in her hand was implied to be something other than the festival.
-
 
 <!-- walk: y2v7 Ch.3 → p.83 -->
 ### y2v7 p.84–92 — The rehearsal; Kushida's silence; Ryūen's café
@@ -10900,9 +11004,6 @@ walk: y1v1 → DONE
 [rel:housen-kazuomi] (p.187–188, 202) 12th place; the rumor about the Hōsen contract.
 [rel:chabashira-sae] (p.184, 199–202) She runs out at 4; the staff room praise; the final plan.
 
-
-
-
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
@@ -11427,9 +11528,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9.5 Epilogue → p.207 -->
 
-
-
-
 ## y2v9.75
 
 <!-- walk: y2v9.75 → start -->
@@ -11459,19 +11557,16 @@ walk: y1v1 → DONE
 [note] (p.9) Both siblings' insecurities acknowledged: his "time left" theme continues.
 [rel:karuizawa-kei] (p.9–10) Walks to school arm in arm; she's his anchor.
 
-
 ### y2v10 p.11 — Ch.1: Sudō's fatigue
 [scene] (p.10–11) Sudō mocks him for it, then flags an email about first-year pairs being penalized; asks about the email; Sudō sighs heavily; he's worn down juggling studies and sports; Ayanokōji warns him not to rush.
 [says] (p.11) "Too much hurry spoils the curry."
 [rel:sudou-ken] (p.10–11) Surprisingly tender and weary; studies + basketball.
-
 
 ### y2v10 p.12–15 — Ch.1: Chabashira's morning notice
 [scene] (p.12–13) Homeroom opens; Chabashira announces first 'student-teacher discussion'; "That man might come again"; Ike speaks first; she pats her own hair realizing her bedhead.
 [scene] (p.14–15) Yōsuke says he'll attend university regardless of Class A privileges; Sudō/Keisei weigh top-company job strategies; career talk.
 [rel:chabashira-sae] (p.12–13) Honest, slightly tired; realizes she looked rough this morning.
 [rel:hirata-yousuke] (p.14–15) Plans to go to university.
-
 
 ### y2v10 p.16–26 — Ch.1: The Ibuki lunchbox wager
 [scene] (p.16) At lunchtime, watching Kei's retreating form; Horikita offers to treat him; he accepts reluctantly (bad past experiences).
@@ -11780,10 +11875,6 @@ walk: y1v1 → DONE
 [rel:akiyama] (p.72) The gym staff member; brief greetings exchanged; no attributable speech.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
-
-
-
-
 
 ### y2v10 p.81–89 — Ch.4: Ike's 68-point plan, at karaoke
 [scene] (p.81) Wednesday afternoon, two days before the exam; Ike stands up, slams his hands on his desk: an unbeatable strategy; class empties one by one, skeptical; he recalculates, undeterred.
@@ -12238,7 +12329,6 @@ walk: y1v1 → DONE
 [scene] (p.187) 15th turn defense — Kei, Satō, Miyake protected; perfect score; five points; the Kei-targeting carousel.
 [scene] (p.188) Turns 16–20 — Ichinose nominates Kei without end; Horikita protects her every time; the whole class is uneasy; AK watches in silence.
 
-
 ### y2v10 p.189–215 — Ch.7: Class A betrayals; Morishita's warning; lottery decides
 [scene] (p.189–192) After exam ends, Sakayanagi obsesses over Shiina Hiyori possibility — but eats bread first; after three consecutive failures, she suspects a leak within her class; Morishita speaks (first time); says there are 100% signs of betrayal; Sanada agrees but won't move; Kitō/Hashimoto smile generously at her announcement.
 [scene] (p.193–199) Each class counts: Final results: Ryūen Class D wins (69); Ichinose Class C second (62); Horikita Class B and Sakayanagi tie third (53) — wait Horikita 59, SA 53; Class A loses 100 points; Sakayanagi expelled for first time.
@@ -12264,7 +12354,6 @@ walk: y1v1 → DONE
 [scene] (p.225–229) She finally admits Kamuro mattered; he tells her about the further exams coming; she bows to him; leaves; he remains to wait for them; silence.
 [rel:sakayanagi-arisu] (p.217–228) Loses first elimination match; devastated by Kamuro's expulsion; she carried the second half of the exam on her shoulders and made the fatal mistake; she cannot recover her momentum until someone breaks through her stone-wall defense.
 [rel:kamuro-masumi] (p.218–225) Sakayanagi's friend; drawn-lots expelled by Sakayanagi; the class buys her one last farewell picnic; Sakayanagi doesn't attend; AK arrives to see her leave school.
-
 
 ### y2v10 p.120–121 — Ch.5: passing mentions (locator cross-check)
 [mentioned] (p.120) Passing mention — Ayanokōji and Horikita's class would stand to lose if they got first.
@@ -12770,7 +12859,6 @@ walk: y1v1 → DONE
 [note] (p.167) Nagumo: “I'll go a step ahead and start the second phase at Horikita-senpai's place.” — the note is transferred; the target is Horikita Manabu (same university).
 [rel:nagumo-miyabi] (p.165–167) He accepts the charge without laughing at it; he understands the gravity in it; he carries it to his new post.
 
-
 <!-- walk: y2v11 ch6 → p.167 -->
 
 ### y2v11 p.168–176 — Ch.7: The vending machine
@@ -12803,7 +12891,6 @@ walk: y1v1 → DONE
 [note] (p.174) Yamamura watches Tokitō get restrained by Ryūen; she is impressed he stayed silent; she knows everything; he tells her he'll get her there before the end of the camp.
 [rel:yamamura-miki] (p.168–176) He finds her at the vending machine; he listens for hours to the lottery story; he offers to stand between them.
 [rel:shiina-hiyori] (p.168) He delegates the search report to her phone line; she stays in her room as lookout.
-
 
 <!-- walk: y2v11 ch7 → p.181 -->
 
@@ -12938,7 +13025,6 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.205–209) He puts on the show; he bets he beats her; his hatred is real; his resolve is worse.
 [rel:mashima-tomonari] (p.205–209) He witnesses the contract; he knows what it means; he says nothing now.
 [rel:sakagami] (p.205–209) He witnesses the contract with a Protection Point caveat; he knows what it means; he says nothing now.
-
 
 <!-- walk: y2v11 Epilogue → p.223 -->
 

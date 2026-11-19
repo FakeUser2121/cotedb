@@ -1521,6 +1521,30 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.321–338) Fiercely protective of Horikita but outmatched — loses his cool in the brawl, turned his back for a fatal instant, and is brutally knocked around; struggles to his feet and is relieved and awed by Ayanokōji's calm with the knife through his hand.
 [rel:housen-kazuomi] (p.321–325) Fights him to defend Horikita but is overpowered by the stronger first-year.
 [rel:horikita-suzune] (p.321) His concern for her causes the opening Hōsen exploits.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.30–40 — Ch.1: Fired up by the rules; Class Change Ticket
+[scene] (p.30) His favorite festival: he asks Chabashira whether the Sports Festival will be different this year; he is flustered imagining the day (“Th-that seems packed…”), then goes on edge at the class ranking rewards and nearly swallows his fists when the individual prizes appear — first place is two million private points or a Class Change Ticket.
+[says] (p.30) “Special rules… are you saying the Sports Festival will be different this year, sensei?”
+[says] (p.32) “Th-that seems packed…”
+[note] (p.35) A “C-Class change ticket…!?” cry rings out at the ceremony — the corpus does not tag the speaker; not assigned to Sudō on this page (the class as a whole “erupted”).
+[scene] (p.39–40) He mutters that the rules look like a movie ticket booking app; pride-swells at the idea of rivals canceling to avoid him; after Chabashira leaves, the class erupts — he shouts at Horikita to start the meeting right now; Yousuke gets up to walk toward Horikita.
+[says] (p.39) “That aside, this sure looks like one of those movie ticket booking apps.”
+[says] (p.39) “You mean, there might be guys who cancel ‘cus they don’t want to compete with me?”
+[says] (p.40) “Alright Suzune, let’s get started with the meeting right now!”
+[rule] (p.38) Club restriction: he cannot enter any basketball-related event — he is a club member (an official member restriction, same clause bars Hirata from soccer).
+[rel:horikita-suzune] (p.28, 40) Tries to speak to her on arrival; then shouts for her to start the meeting immediately.
+[rel:hirata-yousuke] (p.38) The club restriction names them both in one clause.
+[rel:chabashira-sae] (p.30) He is the student who asks about the special rules first.
+
+### y2v6 p.59–63 — Ch.1: Tuesday homeroom
+[scene] (p.59) He is not among the students speaking; everyone knows these three are not sick.
+[mentioned] (p.59) Present at the Tuesday homeroom; the three absent students are not.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1889,36 +1913,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [mentioned] (p.121) "What the hell, then, get on with it. Who is this guy?" said Sudō as he jumped out of his seat.
 [mentioned] (p.122) "As Sudō stated before, if you voted in favour, you yourself would be put at risk of expulsion."
 [mentioned] (p.172) "Haruka, Airi, Keisei and Akito too. Ike, Sudō, Mii-chan, Matsushita, all of them."
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.90–97 — Sudō: doubles with Onodera; asking Hirata to mediate
-[scene] (p.90) Invites Ayanokōji to the toilet as an excuse to talk about the class's awkward relationships; Onodera intercepts to propose a doubles pairing.
-[says] (p.91) "Of course. This sports festival is my biggest chance to shine after all."
-[says] (p.93) "Also, I hate to say it, but five or six people coming together to do the team events, how will that go?"
-[says] (p.94) "It ain't that. As if I could complain about your abilities, Onodera." / "Do you not want to pair up with anyone other than Horikita-san?" — Onodera
-[says] (p.95) "Alright then, Onodera. Let's pair up?"
-[says] (p.95) "With our power, let's support our class!"
-[says] (p.96) "Honestly, their relationship is kinda awkward right now."
-[trait] (p.90–97) Well-meaning and reflective — initially hesitant to pair with Onodera (wanting Horikita), but recognizes that's a "pointless reason" and accepts; genuinely worried about Ike/Shinohara's relationship after Kushida's leaks; with Ayanokōji's Socratic prompting, realizes he should ask Hirata (the class's mediator) to help them "lay their feelings bare."
-[rel:onodera-kayano] (p.90–95) Agrees to doubles pairing — "let's get both first places at all costs."
-[rel:horikita-suzune] (p.93–95) Initially wanted to pair with the girl he likes.
-[rel:ike-kanji] (p.95–96) Worried about his and Shinohara's awkward relationship.
-[rel:hirata-yousuke] (p.96–97) Realizes he's the right mediator (Kushida can no longer fill that role).
-
-### y2v6 p.292–301 — Sudō: a clean sweep; beating Hōsen with dignity
-[scene] (p.292) In the doubles match, Hōsen changes his aim from winning to tormenting Sudō; Sudō is provoked but, with Onodera's support, keeps his cool.
-[says] (p.297) "Congratulations on winning every event, Sudou-kun." — Horikita
-[says] (p.298) "Yeah! Thanks Onodera, if you didn't help I would definitely have lost this"
-[says] (p.300) "Oi, Sudou. Don't let this win get to yer head, eh? If I was serious, you'd be..." — Hōsen
-[trait] (p.292–301) Wins every event he enters (a clean sweep) — in the final against Hōsen he controls his anger instead of lashing out (unlike his old self), beats him with powerful shots and snaps out of it when he nearly loses control; Onodera's presence steadies him; even Hōsen grudgingly acknowledges it (though he taunts that Sudō was "better when you came swingin'").
-[rel:onodera-kayano] (p.298) His doubles partner — "if you didn't help I would definitely have lost."
-[rel:housen-kazuomi] (p.292–301) Hōsen tries to provoke him into a fight; Sudō wins without taking the bait — a major display of growth.
-[rel:horikita-suzune] (p.297) She congratulates him on winning every event.
-
-<!-- walk: y2v7 → start -->
 
 ## y2v7
 

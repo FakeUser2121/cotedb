@@ -1770,6 +1770,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.77–100) Appears sudden and daring beside Horikita on the first-year floor, taunting her; when Hōsen demands he prostrate himself to partner, he refuses with a cutting insult, declining a physical fight with the stronger delinquent; had already been buying up first-year honor students with points (per Shiratori).
 [rel:horikita-suzune] (p.77) Taunts her on the first-year floor.
 [rel:housen-kazuomi] (p.99–100) Stands off against him; calls him a "wild gorilla."
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.20–20 — Ch.1: Named — the end-of-year exam challenge
+[mentioned] (p.20) AK notes: Ryūen chose to challenge Sakayanagi in the end-of-year exam; it was natural for Ryūen to choose Class A and steal their points; Sakayanagi had nothing in it for her — possibly allied with Ichinose; the promise between Sakayanagi and Ryūen may also be a factor.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -2336,39 +2345,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.203) "At one time, you were working with Ryūen to get me and Horikita expelled. Isn't that right?" — Ayanokōji to Kushida.
 [mentioned] (p.232) "In addition, the rooftop is also a disadvantage because it can be used for minor abuses, as Ryūen once did."
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.196–211 — Ryūen: testing Horikita; agreeing to the alliance
-[scene] (p.196) Arrives late with Katsuragi at the karaoke parlor, sneering and calling their meeting a "date."
-[says] (p.196) "Suzune, it's great that you wanna have a date with me, but it looks like there's a few too many people tagging along."
-[says] (p.197) "How did it feel to cut off the dead weight and get those class points? It must've been something special, right?" — probing her
-[says] (p.203) "Even if we don't cooperate, we'll win, but if you guys are gonna beg us, I guess it wouldn't hurt us to help out."
-[says] (p.204) "There's plen'y of blind spots, and it doesn't only need to be during the events."
-[says] (p.208) "Fine. We'll take you up on that." — but with the condition that the first-place class compensates the 100-point gap in private points until graduation (refused).
-[says] (p.211) "I see. I'm glad I asked. If that's the case, I'll take you up on your proposal."
-[trait] (p.196–211) Tries to gain the upper hand — late, provocative, testing whether the class is fractured; throws orange juice at Ayanokōji to test him ("Lethal Weapon"), demands he leave, and tries to extract concessions; finally agrees because the proposal came from Horikita (not Ayanokōji) — "enemy of my enemy is my friend," they must stop Sakayanagi.
-[rel:ayanokouji-kiyotaka] (p.206–211) He tests him with the orange juice and wants him removed; sees them as "strong enemies."
-[rel:horikita-suzune] (p.196–211) Probes her relentlessly but comes to respect her growth — accepts her alliance.
-[rel:katsuragi-kouhei] (p.205–212) Relies on him to broker/analyze the deal; Katsuragi talks him into accepting.
-
-### y2v6 p.219–221 — Sakayanagi's camp: she decides to participate
-[note] (p.219–221) Sakayanagi (with Kamuro and Hashimoto) learns of the Horikita–Ryūen alliance and concludes Class A will lose if they don't act; she declares she will participate in the festival herself to shatter their "illusion," despite her physical limitations and the risk of humiliation. Hashimoto suspects Ayanokōji is making secret moves.
-[rel:ayanokouji-kiyotaka] (p.220) Hashimoto: "Has Horikita grown?… Or has Ayanokouji been making some moves in secret?"; Sakayanagi senses his hiding abilities beyond the OAA.
-[rel:horikita-suzune] (p.220) Sakayanagi is more wary of Horikita's class than Ryūen's.
-
-### y2v6 p.258–267 — Ryūen's trap: provoking Class A; wasting their time
-[scene] (p.258) Sees Class A's Matoba/Shimizu hurrying to a doubles table tennis event (Sakayanagi absent, they're struggling); orchestrates a collision with Ishizaki.
-[says] (p.260) "It's getting real lively over here. What's going on, Ishizaki?"
-[says] (p.261) "Oh? What are you talking about? I only came by 'cause I heard a disturbance, you know?"
-[says] (p.263) "I don't give a shit about what's going on in Class A. We're Class D. I'm using everything I've got to crawl up from the bottom."
-[says] (p.264) "Be quick about it. We've got another competition coming up too."
-[says] (p.266) "Isn't that nice? If you're gonna accept it, then—since I'm an unrelated party—it's not my place to butt in."
-[trait] (p.258–267) ruthlessly strategic — has Ishizaki fake a shoulder injury after a staged bump, demands a "heartfelt apology," and drags out the dispute for over five minutes to waste Class A's time (they miss their event); when Hashimoto brings a teacher, he suddenly has Ishizaki "forgive" them, leaving the teacher to conclude it was resolved; Ibuki calls out that this is getting desperate to avoid last place with Sakayanagi absent.
-[rel:ishizaki-daichi] (p.258–266) His "cute underling" — they act out the victim routine together; he praises Ishizaki's growth.
-[rel:hashimoto-masayoshi] (p.261–267) He sees through Ryūen's ploy and tries to settle it; notes Ryūen is "not someone you want to make an enemy of."
-[rel:sakayanagi-arisu] (p.263) Class A's absence makes them desperate — Ryūen exploits it.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

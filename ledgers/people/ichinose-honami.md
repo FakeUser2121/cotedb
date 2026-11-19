@@ -1473,6 +1473,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v1 ch3 → p.141 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.53–58 — Ch.1: Daily lunches with Nagumo in the student council room
+[scene] (p.53–54) She arrives at the student council room carrying a plastic bag — “Excuse me,” then “Eh──” from Nagumo when he notices her; she has been having lunch with Nagumo in the student council room every day; Nagumo says she tells him her worries “every day.”; she prepares her lunch with a slightly downcast look, eyes away from AK.
+[says] (p.53) “Excuse me.”
+[says] (p.53) “…Sorry to keep you waiting, Nagumo-senpai.”
+[says] (p.53) “It’s nothing…”
+[says] (p.54) “Y-yes.”
+[scene] (p.55–57) The two of them are not even halfway through their meal by the time AK finishes his; she keeps her eyes away from him; AK leaves first; he walks away thinking Nagumo may be grooming her for the student council presidency — and that, if so, her spirit would not last a year if he cut her off at the last minute.
+[note] (p.53–57) Whether Nagumo's attentiveness will elevate her to the presidency, or whether AK's suspicion (Nagumo keeping her close only because of him) comes true, the page leaves open; the lunch pattern is recorded as observed.
+[rel:nagumo-miyabi] (p.53–57) He lunches with her every day in the student council room; he tells AK she confides in him daily; he keeps her close.
+[rel:ayanokouji-kiyotaka] (p.53–58) Her eyes stray away from him during the meal; AK suspects she is being cultivated.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1879,15 +1895,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.242) "I have a soft spot for Ichinose though." — Amadeus's credit.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — ichinose-honami mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.20, p.33, p.53-55, p.57, p.82.
-[mentioned] (p.11) Passing mention only.
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->

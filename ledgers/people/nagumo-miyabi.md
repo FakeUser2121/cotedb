@@ -512,6 +512,39 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.259) “Be careful. I’m a man who’s fussy about keeping deadlines.”
 [rel:ichinose-honami] (p.257–259) Confirms the conditions and pressures her to decide.
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.50–57 — Ch.1: Summons; one-week ultimatum; lunch with Ichinose
+[scene] (p.50) He summons AK to the student council room by way of Horikita and Yagami; alone inside, he opens with a light jab; he tells him to fight him head-to-head in the Sports Festival; everything between them will be water under the bridge if AK beats him in even one head-to-head match; five competitions Nagumo will personally specify — miss even one and it is AK's loss; one week to answer, by next Monday.
+[says] (p.50) “Yo, Ayanokouji. Anything unusual happen in your daily life lately?”
+[says] (p.51) “As the student council president, you can talk to me about those worries, you know?”
+[says] (p.51) “You’ve already heard the rules for the Sports Festival, right? It means the time when we can settle our score has come, Ayanokouji. In the sports festival, there are competitions for all grades. Fight me in them.”
+[says] (p.51) “You always answer like that. You think that if you act humble, I’ll be satisfied. No, I guess I can’t blame you for that. Because acting all modest is the only option you have now.”
+[says] (p.52) “I know you’re not eager. For me as well, spending too long on you is a waste of time. That’s why, if you beat me in even one head-to-head match during this sports festival, everything that’s happened between us will be water under the bridge.”
+[says] (p.52) “It looks like you’re thinking ‘just one win is enough?’. Is it that easy for you?”
+[says] (p.52) “But there’s a condition. You’ll participate in all five competitions I specify. It doesn’t matter who wins or loses, but if you miss even one of them, it’s your loss.”
+[says] (p.52) “That would be nice, but… The cause of your annoyance will remain, and on top of that I might keep calling you out like this, over and over again. Or maybe you’ll have to suffer from your worries more than ever before.”
+[says] (p.52) “Well, that’s all you can say for now. I’ll give you one week. Get in touch by next Monday.”
+[says] (p.53) “There’s no need to hurry. Or do you have plans for after this? Since I called for you, you didn’t make any flimsy promises, did you?”
+[says] (p.53) “I’m relieved to hear it.”
+[scene] (p.53–57) Ichinose arrives with bentos; he has had lunch together with Honami in the student council room every day; he tells AK that when it is just the two of them she tells him all her worries “every day”; he remarks that he is keeping AK from leaving with flimsy plans; at the end of the meal he notes AK has already finished; his gaze stays fixed on Ichinose; AK leaves; Nagumo may be cultivating her for the student council presidency.
+[says] (p.53) “Eh──”
+[says] (p.53) “Sorry I couldn’t come along to buy it with you today.”
+[says] (p.53) “Ahh, this? Lately, I’ve been having lunch together with Honami in the student council room every day. The student council is keeping me busy, you see, so my right hand is very tired.”
+[says] (p.54) “When it’s just the two of us, she tells me all about her worries. Isn’t that right? Honami.”
+[says] (p.54) “I told her that we would have a visitor today. Join us for lunch, Ayanokouji.”
+[says] (p.54) “You said you didn’t have plans after this, right? Since that’s the case, sit down.”
+[says] (p.54) “The rules for the Sports Festival are quite different from last year.”
+[says] (p.54) “If anything, you should be thanking me. Because if the Sports Festival had exactly the same rules as last year, my victory would be certain.”
+[says] (p.57) “What’s this? Have you finished eating already? You can leave the empty box there.”
+[trait] (p.50–57) Exacting, manipulative, possessive of the third year's respect — his pride is a shield he drags underclassmen into the fray with; keeps Ichinose as a daily companion; his power stands behind the Sports Festival rules themselves (his own words: “I know you're not eager.” — spending time on AK is a waste of his time).
+[rel:ayanokouji-kiyotaka] (p.50–57) Summons him; one-week ultimatum — five Nagumo-specified competitions at the Sports Festival, one head-to-head win settles everything; he is the underclassman who challenged him.
+[rel:ichinose-honami] (p.53–57) Lunches with her every day in the student council room; she confides in him “every day”; AK suspects she is being cultivated for the presidency.
+[rel:horikita-suzune] (p.48–50) Sent for AK through Yagami and her; she relays it with advice not to anger him.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -674,30 +707,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.241–242) These are translator/editor staff credits, not story content — no scene presence on these pages.
 
 <!-- walk: y2v5 Afterword → p.243 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.50–57 — Nagumo's challenge; lunch with Ichinose
-[says] (p.50) "Yo, Ayanokouji. Anything unusual happen in your daily life lately?"
-[says] (p.51) "As the student council president, you can talk to me about those worries, you know?"
-[says] (p.51) "You've already heard the rules for the Sports Festival, right? It means the time when we can settle our score has come, Ayanokouji."
-[says] (p.52) "if you beat me in even one head-to-head match during this sports festival, everything that's happened between us will be water under the bridge."
-[says] (p.52) "You'll participate in all five competitions I specify."
-[says] (p.53) "Well, that's all you can say for now. I'll give you one week."
-[says] (p.54) "Lately, I've been having lunch together with Honami in the student council room every day."
-[trait] (p.50–58) Arrogant and calculating — sees through Ayanokōji's feigned modesty, demands five head-to-head sports events (one loss = truce) to force a direct defeat, and stages a humiliating lunch with Ichinose (whom he's been meeting daily) to display his control; he controls the entire third year, and his attachment to Ichinose (possibly because of Ayanokōji) may end with her if she fails.
-[rel:ayanokouji-kiyotaka] (p.50–58) His obsession — wants a direct defeat; Ayanokōji sees through his strategy.
-[rel:ichinose-honami] (p.53–57) Eats lunch with her daily and confides; Ayanokōji wonders if his attachment is real or a ploy.
-
-### y2v6 p.241–257 — Nagumo: five wins, no joy, and Ayanokōji's absence
-[scene] (p.241) Delivers the opening speech boldly before the guests (political figures tied to the school), "in no way inferior" to Horikita Manabu's example.
-[says] (p.252) "Don't make me laugh. As if winning a competition of that level would mean anything to me."
-[says] (p.253) "Don't worry, Kiryuuin. You don't need to tell me; I'm not going to play around with Ayanokouji anymore. He chose not to fight me."
-[note] (p.250–257) Wins five consecutive events but stays expressionless (he's guaranteed Class A regardless); Kiryūin needles him that he could have gathered all the weaklings for easy wins and that Ayanokōji "ran away" from their fight; at lunch he tells Horikita that Ayanokōji bailing on him means someone else will pay the price, hinting at trouble for her grade.
-[rel:ayanokouji-kiyotaka] (p.252–257) He wanted a direct fight ("quench my thirst"); Ayanokōji's absence frustrates him.
-[rel:kiryuin-fuuka] (p.251–253) His fellow third-year — she provokes him; they've spoken more in the six months since Ayanokōji's involvement than in two years.
-[rel:horikita-suzune] (p.255–257) He invites her to lunch and presses about Ayanokōji.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

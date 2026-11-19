@@ -1146,6 +1146,59 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.350–352) Helped keep Ayanokōji's knife wound confidential, worries Tsukishiro might forcibly remove him ("take you out of the school by force"), and is proven right that his perfect math score reveals his special nature; leads him to Tsukishiro's office.
 [rel:ayanokouji-kiyotaka] (p.350–352) Is secretly allied with him; keeps his secret and summons him.
 [rel:tsukishiro] (p.351) Reports his apparent inactivity during the exam; is uneasy about his intentions.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.28–33 — Ch.1: Attendance; the Sports Festival rules
+[scene] (p.28) She takes attendance: “Kushida, Hasebe and Wan – three students are absent. That’s unusual.” — Hasebe and Wan called in sick and she accepted their leaves; Kushida has not contacted her — she will call her afterwards to check; she throws in an exaggerated possibility that Kushida just overslept; she warns the class that prolonged absences will start costing class points.
+[says] (p.28) “Kushida, Hasebe and Wan – three students are absent. That’s unusual.”
+[says] (p.28) “Hasebe and Wan have both called in sick, and I’ve accepted their leaves. I haven’t heard from Kushida, so I’ll call her afterwards to check. I’ll quickly find out if she just overslept, or if she was so sick she couldn’t wake up.”
+[says] (p.29) “Don’t look so anxious. A day or two of absences won’t hurt your class points. After all, it is entirely possible that three people just happened to fall sick at the same time.”
+[says] (p.29) “That said, that won’t hold if their absences continue. Especially if it turns out that they’re feigning illness – little by little, problems will start to surface.”
+[says] (p.29) “Maybe calling it a pretend illness is too much. All I’m saying is, there’s a limit to how long you can be ill without giving us the specific name of your sickness. I’d like to see them recover as soon as possible.”
+[scene] (p.30–33) She announces the Sports Festival's rules — the Student Council President's experiment, “a realization of his experiment, and will heavily incorporate his proposal to emphasize individual ability”; she walks the class through the Summary and Rules on the monitor: 9AM–4PM with a 12PM–1PM break, parallel events; everyone starts with 5 points, at least 5 events required, 1 point participation prize, from the 6th event onwards 1 point cost with no prize; max 10 events; forfeiture under 5 events; unsigned withdrawals −2 points; fundamental (individual) vs special (team, ≥2) competitions; 1st 5 / 2nd 3 / 3rd 1 points; per-year class ranking rewards 150 / 50 / 0 / −150; individual rewards 2M private points or a Class Change Ticket (Limited Time) / 1M / 500k; forfeiture of ticket if events tie; pre-booking via app from 10PM; cancel up to three times; 100m race walkthrough; club restriction clause.
+[says] (p.30) “While their absence is concerning, we can’t get stuck on that. The Unanimous Consent Special Exam is now over, and all of you have to turn and face the next challenge.”
+[says] (p.30) “I’m going to explain the details of the Sports Festival, and the special rules in play this year. Listen carefully.”
+[says] (p.30) “The new way for this school that the Student Council President has been proposing is being accepted, such as with the Uninhabited Island Exam. This Sports Festival will be a realization of his experiment, and will heavily incorporate his proposal to emphasize individual ability.”
+[says] (p.31) “I am sure more than a few of you are worried about this, but this time the Sports Festival has been adjusted to ensure that nobody will get expelled for lack of ability, and nobody will have to suffer any penalty alone. After all, no individual can be the perfect embodiment of athletic and academic skills at once.”
+[says] (p.32) “That is this year’s Sports Festival, the summary and an outline of the rules.”
+[says] (p.32) “Participating in competitions and winning the rewards from a high-rank finish will be your first priority, but you must also prepare a careful plan for the day.”
+[says] (p.33) “Since the rewards for the team battles vary from event to event, you will be able to check them separately.”
+[says] (p.34) “Those were the rewards for the classes. Now I will announce the individual rewards.”
+[says] (p.35) “The school is being quite careful about the introduction of this new system. Even the Protect Points were unheard of in previous generations, and these are being introduced not long after. However, students who have demonstrated their individual ability naturally have a right to rise to the top.”
+[says] (p.36) “You will receive the right to change classes. But, that doesn’t mean you can get it made right away. Therefore, the words ‘Limited Time’ here refer to the period during which you can use the ticket. You can only exercise this right during the second semester. Therefore, if you haven’t done so by the time the third semester starts, the ticket will expire.”
+[says] (p.37) “Both the boy and the girl who place first will get to choose whichever they want. Sudou, if you are planning to reach the top through individual battles, you should carefully think about what you want.”
+[says] (p.37) “Moving on, let’s go into a bit more detail. There will be competitions which will be opened in advance, and events which will only be opened on the day of the festival. So, there will be events for you to participate in even if you go into the festival entirely unprepared.”
+[says] (p.37) “Because of restrictions on the number of participants and time limits, it is not guaranteed that you will be able to participate in all of the events you want to. If you plan your day without consideration for the schedule, you might fail to arrive at the event on time and will be considered as having withdrawn from it. Don’t forget that you run the risk of losing points that way.”
+[says] (p.38) “For the events that will be opened beforehand, you will be able to use a special app to pre-book your participation from 10PM today. It will be first come first serve across the entire school. You will be allowed to cancel until one week before the Sports Festival, but you won’t be able to use the cancel feature more than thrice. The deadline for pre-booking is two days before the Sports Festival. If you haven’t booked the upper limit of five events by then, you will automatically be assigned to the open slots.”
+[says] (p.38) “For demonstration, let’s sign up for the 100 meter race.”
+[says] (p.38) “Another important point is that you cannot participate in an event if it belongs to a club you are or have ever been a member of. Hirata cannot participate in events related to soccer and Sudou cannot participate in events related to basketball.”
+[says] (p.39) “It is true that they are very alike. If you press the button for a time slot, you will be able to see in real time who will be participating in that event at that time.”
+[says] (p.39) “Yes. But, sooner or later those people will run into the three time limit of the cancel feature.”
+[says] (p.40) “And, if multiple students individually get the same points, the private point reward will be split between them and they will not be able to get the Class Change Ticket.”
+[note] (p.28) The corpus prints the attendance line with “–” (en dash) between “Wan” and “three students” — kept as printed.
+[rel:sudou-ken] (p.30–40) He asks the first question about special rules; the individual rewards are made for him.
+[rel:hirata-yousuke] (p.38) The club restriction names him and Sudō in one clause.
+[rel:ichinose-honami] (p.31–33) Her class has 40 starting points more than the absentee-short class (400 vs 380).
+
+### y2v6 p.60–63 — Ch.1: The corridor — Sakura's five thousand points
+[scene] (p.60–63) She summons him by tablet — “Come out of the class after me.” — he finds her in the corridor; the school found evidence Sakura spent about five thousand private points after the exam but before formal processing completed; items purchased in-school are the student's property, but this is a gray area; she will let him pay the sum if he wishes; he agrees; she asks if this concerns him — he denies it; she tells him to watch over each and every one of his students as they grow.
+[says] (p.61) “Yes. There is something I must tell you. It’s about Sakura.”
+[says] (p.61) “When she was expelled, the school naturally went through all the procedures. Arranging her luggage, reclaiming her private points. Well, that kind of thing, like, post-processing.”
+[says] (p.61) “Items already purchased in the school are fundamentally the student’s personal property, and how they are dealt with is up to the student. Whether you take them along or not, it’s fine either way. The formalities for expulsion are processed in the staffroom but… well, an unexpected thing happened before that.”
+[says] (p.61) “Yeah. After the Unanimous Consent Special Test was finished, we found evidence that Sakura spent about five thousand of her private points, and well, you can say we’re not sure how to handle that.”
+[says] (p.62) “Yeah. But, as I said earlier, that only happens after the formal processing. However, the school considers this a gray area. Say you transferred all your points to someone else, the school wouldn’t accept that, right?”
+[says] (p.62) “Are you saying you will pay that sum?”
+[says] (p.62) “No. It’ll just be you spending your private points as you are entitled to, so the school should have no objections to it.”
+[says] (p.62) “I wanted to ask—does this… have something to do with you?”
+[says] (p.63) “At any rate, it’s a small matter, but I’m still glad to have taken care of this. The state of the class being what it is, there are very few things to be happy about after all.”
+[says] (p.63) “What do you mean?”
+[rel:ayanokouji-kiyotaka] (p.60–63) She summons him to settle Sakura's five-thousand-point gray area; he pays it himself; she asks if it concerns him.
+[rel:sakura-airi] (p.60–63) Her five thousand private points spent post-exam pre-processing — a gray area the school could not classify; AK absorbs the cost.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1552,18 +1605,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [mentioned] (p.87) "Raising her hand, Horikita, who was sitting in front of the Chabashira-sensei, stood up and then turned around."
 [mentioned] (p.225) "raised her voice towards Chabashira-sensei."
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.336–338 — Short story: "Something That Can't be Forgiven" — Hoshinomiya notices
-[scene] (p.336) From her own POV, after advising Horikita to decide for herself what to do about Kushida, she heads back to the staff room; Hoshinomiya (Chie) runs up behind her, having overheard the "thanks" at the end.
-[narrates] (p.337) "Is that you, Chie? How are you going to set an example if even you are running full ahead?"
-[narrates] (p.337) "Why have you gotten closer to your students now?"
-[narrates] (p.338) "I won't acknowledge it. There is no way Sae-chan would ever act like a teacher."
-[trait] (p.336–338) Quietly pleased at having grown as a teacher, but Hoshinomiya refuses to acknowledge the change (her eyes "weren't laughing") — a bittersweet, familiar sparring between the two old classmates/rivals; Chabashira admits she "may have been" becoming a teacher.
-[rel:hoshinomiya-chie] (p.336–338) Her old friend and rival — needles her about acting like a teacher now.
-[rel:horikita-suzune] (p.336) She gave her counsel about Kushida; Hoshinomiya overheard the thanks.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

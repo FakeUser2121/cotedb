@@ -1592,6 +1592,23 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.21–24) Cant hide her bewilderment at Horikita's new look and probes for the reason; her remark about growing her own hair out is read by Ayanokōji as disgust at matching her hated rival's hair length — innocent-sounding words hiding raging emotions.
 [rel:horikita-suzune] (p.21–24) Same-middle-school acquaintance and secret rival; hides her true reaction behind a cute, innocent front.
 [rel:sudou-ken] (p.23) Is asked to agree the short hair looks good.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.15–29 — Ch.1: Absent — the class fracture's center
+[scene] (p.15–17) AK narrates the exam's aftermath: her explosive revelations after being cornered created cracks everywhere; she was pushed to the edge of expulsion when Horikita declared her an essential resource; the promise to expel only the traitor had already shaken the class.
+[scene] (p.20–25) She has holed up in her room since the exam weekend — Horikita has been waiting outside it from dawn, ringing the doorbell without a sound; humiliation of a lifetime; she stores food; she will not leave her room even once; dark circles on her watcher's face.
+[mentioned] (p.28) Absent from the Monday homeroom — “Kushida, Hasebe and Wan – three students are absent. That’s unusual.” Chabashira has not heard from her; she is the only one of the three who has not called in.
+[mentioned] (p.59) Still absent Tuesday; Chabashira has not been able to reach her; the class's 380-point starting handicap vs the absentee-less 400 is noted by AK.
+[note] (p.24–25) AK notes Kushida has not repented and is likely to stay uncooperative — her information-leak potential and the class's instability are live issues.
+[rel:horikita-suzune] (p.20–29) Horikita is at her door from dawn; she defended Kushida in the exam; the class blames Horikita for her absence.
+[rel:ayanokouji-kiyotaka] (p.15–17) He drove her to the edge of expulsion; Horikita's counter-move spared her.
+[rel:hasebe-haruka] (p.28) Both absent; her absence is from Airi's expulsion, Kushida's from her own revelations — the class's two wounds.
+[rel:wang-mei-yu] (p.28) Also absent; the third wound.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1918,25 +1935,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [mentioned] (p.241) "the Kushida simp who's cropped up on the subreddit" — Rhymar's credit.
 [mentioned] (p.242) "People will be disappointed by Kinu's desire to prevent Kushida from being expelled - but I want to see her suffer from humiliation before she gets booted out." — Amadeus's credit.
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-
-
-### y2v6 p.121–145, 172–175 — Kushida returns: a hostile alliance; the angel facade drops
-[scene] (p.121) Holed up in her room for five days; Ibuki forcibly opens the door and berates her, and Horikita comes to negotiate.
-[says] (p.141) "I get it. I, solely for my own sake, will fight for this class and contribute to it for the next year and half. I won't fight for you, nor our classmates."
-[says] (p.142) "I really hate you, Horikita-san."
-[says] (p.142) "I've been so annoyed ever since we met today, and even though we're now allies you're still annoying."
-[says] (p.173) "I heard from Horikita-san that you've been absent because of me."
-[says] (p.174) "It isn't as if you have to like me, Wang-san."
-[says] (p.174) "I don't intend to get along with you."
-[says] (p.175) "I'm not doing it for the class, I'm doing it for myself."
-[trait] (p.121–175) Returns to school changed — agrees to work for the class solely for her own sake, sealing a left-handed (animosity) handshake with Horikita and an absurd cheek-pinching fight; drops the "Kushida the Angel" mask in front of the class, bluntly tells Mii-chan she doesn't intend to get along, offers hollow apologies, and openly warns she'll use her "arsenal" of secrets and show "no mercy" if attacked — but promises not to expose more secrets as long as she's allowed to contribute and graduate Class A.
-[rel:horikita-suzune] (p.141–145) They form an openly hostile alliance — Kushida still really hates her but will work for the class.
-[rel:ibuki-mio] (p.121–125) Ibuki breaks into her room and curses her; Kushida emerges — "I've never thought positively of you."
-[rel:asahina-nazuna] (p.173–174) She tells Mii-chan she doesn't intend to get along with her — though she apologizes for exposing her secret.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

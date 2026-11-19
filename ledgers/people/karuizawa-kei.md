@@ -1452,6 +1452,30 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.362–363) Awe-struck by his casually stated 400 points (an A-equivalent) and his claim that he controls his score; decides to study with "my boyfriend," and is delighted when he comes to sit beside her — "a gentle breeze had taken his scent along with it" — resolving to focus so they can spend a fun school life together.
 [rel:ayanokouji-kiyotaka] (p.362–363) Her boyfriend; amazed by his ability and happy to study side by side with him.
 [rel:ishigami-kyou] (p.362) 400 points would let him compete with Yukimura.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.27–28 — Ch.1: The couple-making-fun incident; her weekend plans cancelled on her?
+[scene] (p.28) She was one of the people making fun of Ike and Shinohara as a couple behind Shinohara's back — along with Matsushita and Mori; Shinohara is not talking to her (and not to Matsushita and Mori).
+[rel:shinohara-satsuki] (p.28) She is one of the people Shinohara is not talking to.
+[rel:ike-kanji] (p.28) Ike is the other half of the couple she helped make fun of.
+[rel:matsushita-chiaki] (p.28) Matsushita is the one who canceled this weekend's arrangements because of Shinohara.
+[rel:mori-nene] (p.28) Mori is her fellow couple-making-fun offender.
+
+### y2v6 p.48–49 — Ch.1: Intercepts Horikita — “I caaan’t let you have Kiyotaka.”
+[scene] (p.48) At lunch she runs up and physically comes between Horikita and AK — “We’re about to eat together. Sorry? I caaan’t let you have Kiyotaka.” — she spreads out her hands with a “no”; she peeks at the phone Horikita turns her way faster than anyone; when she learns it is the student council president, she gives up immediately and calls over Satou.
+[says] (p.48) “We’re about to eat together. Sorry? I caaan’t let you have Kiyotaka.”
+[says] (p.48) “I mean, I think it’s pretty weird to ask out a guy who already has a girlfriend?”
+[says] (p.48) “Yagami… Takuya? Who?”
+[says] (p.49) “Tch. Well if it’s the student council president, I guess there’s nothing you can do… Satou-saaan, let’s have lunch together?”
+[scene] (p.49) Horikita calls her “quick to switch over, isn’t she? Your girlfriend.”
+[rel:ayanokouji-kiyotaka] (p.48–49) She guards her claim on him at lunch; switches to Satou's table the moment the student council enters the picture.
+[rel:horikita-suzune] (p.48) She physically blocks Horikita's lunch invitation; Horikita exasperates at her switching.
+[rel:satou-maya] (p.49) She flees to her lunch table after giving up on AK.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1896,31 +1920,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.242) "Kei scene, Shiina showing off her own brilliance without getting even a word of dialogue" — Amadeus's credit.
 [note] (p.95) (p.100) (p.101) (p.102) (p.103) (p.171) (p.172) — the locator's "kei" hits on those pages are substring matches inside "Keisei"; no Kei references on those pages.
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.65–80 — Kei visits Ayanokōji's room; omurice and affection
-[scene] (p.67) Arrives at his room grinning, adopts it as her own ("Welcome, make yourself home~" when Hirata later arrives); eats the omurice he cooks with obvious pleasure.
-[note] (p.70) She clings to his back as he cooks, teasingly telling him to just wait.
-[says] (p.80) "I love you…"
-[trait] (p.65–80) Playful and affectionate — clings to him while cooking, nuzzles and kisses him repeatedly (the kisses tasted of omurice), and says "I love you"; still sharp about class matters, she believes Kushida should have been expelled and struggles to accept Horikita's choice, but comes to partly accept Ayanokōji's explanation of Kushida's unique value.
-[rel:ayanokouji-kiyotaka] (p.65–80) His girlfriend — a tender evening together.
-[rel:shinohara-satsuki] (p.72–74) Trying to repair her friendship with Shinohara, whom Kushida's leaks hurt.
-[rel:kushida-kikyou] (p.76–78) Thinks she should have been expelled; unconvinced by his argument that Kushida has a unique value.
-
-### y2v6 p.223–233 — Kei's birthday date; forgiving Ishizaki
-[scene] (p.223) On a date at Keyaki Mall, shopping for Ayanokōji's upcoming birthday (Oct 20, which she learns he shares with Ryūen); bent on buying him what he really wants despite his attempts to pick something cheap.
-[says] (p.224) "I'll buy what, you, want! Got it?"
-[says] (p.225) "There's nothing I'm hiding from you anymore. I've let you know anything and everything about me."
-[says] (p.225) "Kiyotaka, you hiding anything from me is a no-no too, you got that?"
-[says] (p.228) "You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize."
-[says] (p.229) "Right now, you are Kiyotaka's friend, right? I won't forgive you but I will stop blaming you."
-[says] (p.233) "I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know."
-[trait] (p.223–233) Loving and generous — says she's told him "everything" about herself (unaware he's told her nothing true); runs into Ishizaki/Albert, accepts their apology for the rooftop bullying (after knowing Ayanokōji won), and even agrees to a joint birthday party with Ryūen — partly because she knows his group is in pieces and wants him to have friends.
-[rel:ayanokouji-kiyotaka] (p.223–233) His girlfriend — shopping for his birthday; she wants him to have friends.
-[rel:ishizaki-daichi] (p.226–233) She accepts his apology ("I won't forgive you but I will stop blaming you") — a genuine, if grudging, reconciliation.
-[rel:ryuuen-kakeru] (p.230) She won't accept the joint party unless Ryūen himself apologizes — a "pretense to refuse."
 ## y2v7
 
 <!-- walk: y2v7 → start -->

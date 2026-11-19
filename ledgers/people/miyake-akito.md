@@ -526,6 +526,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ishigami-kyou] (p.12) Named “Keisei” in the comfortable five-person group.
 
 <!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.24–24 — Ch.1: Named by Horikita as a possible resenter
+[mentioned] (p.24) Horikita tells AK: “There is no doubt that Hasebe-san resents me, and Yukimura-kun and Miyake-kun might too.” — his possible resentment of her is explicitly flagged on the page.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -154,6 +154,16 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.283–292) Follows and tries to reach him.
 [rel:kouenji-rokusuke] (p.289–292) Is carried by him.
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.28–59 — Ch.1: Absent — her love exposed
+[mentioned] (p.28) “Wan” is absent Monday — Chabashira accepted her sick leave; the class knows she is not sick; her absence is because her love for someone was exposed (per AK's inference on these pages).
+[note] (p.59) AK narrates: “Haruka’s absence was due to Airi’s expulsion. Wang’s absence was because her love for Yousuke was exposed.” — the page does not otherwise identify either party; “Wan” is printed as the clipped form.
+[rel:hirata-yousuke] (p.59) “her love for Yousuke was exposed” — as printed; identity of the Yousuke is inferred only from the name; recorded as printed.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -247,18 +257,6 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.54) "No, if you include her physical characteristics, she might even be able to beat them." — Satō about her looks.
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — wang-mei-yu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.27, p.59-60, p.85-87, p.93, p.100-102.
-[mentioned] (p.11) Passing mention only.
-
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -58,6 +58,21 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:kushida-kikyou] (p.102–107) His middle-school senpai whom he admired; offers to partner with her.
 [rel:housen-kazuomi] (p.100) Calmly advises the aggressive Hōsen to withdraw.
 [rel:shiba-katsunori] (p.100) His class's teacher, whose arrival ends the confrontation.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.48–50 — Ch.1: Sends the summons; Horikita is his only student-council contact
+[scene] (p.48) He sends a chat message to Horikita about an hour before lunch: would she be able to call Ayanokouji-senpai to the student council room — the student council president would like to see him; if it proves difficult, please contact him and he will come to help.
+[note] (p.48) The message text is printed on the page as a written chat, not as spoken dialogue: it asks Horikita to call AK to the student council room; if it proves difficult she should contact Yagami and he will come to help.
+[scene] (p.49–50) Horikita reports that the president wants to see AK “again”; AK goes; Horikita says she must report that to Yagami — he is the only student council member she has exchanged contact information with on the chat app; he asked her directly.
+[note] (p.48) Kei reacts to the sender’s name with an audible exclamation — the speaker of that line is Kei, recorded in her person record; the corpus prints the name as “Yagami… Takuya?” there.
+[rel:horikita-suzune] (p.48–50) She is his only student-council contact; he asked her directly for the chat ID; she relays his summons to AK.
+[rel:ayanokouji-kiyotaka] (p.48–50) He sends the message that summons AK to Nagumo's room.
+[rel:nagumo-miyabi] (p.48–50) The message's author of authority; Yagami will come fetch AK himself if needed.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -218,18 +233,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 <!-- walk: y2v5 Ch.3 → p.75 -->
 
 <!-- walk: y2v5 Afterword → p.243 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — yagami-takuya mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.48-50, p.250-251.
-[mentioned] (p.11) Passing mention only.
-
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->

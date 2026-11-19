@@ -93,6 +93,42 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.26–28 — Ch.1: Greets him; the weekend arrangements collapse
+[scene] (p.26) She approaches him happily — “Good morning, Ayanokouji-kun!” — the first time she has called out to him just for showing up to class; she rates his abilities highly after the expulsion; she interprets his state of mind better than Horikita does (the problem is Shinohara, Haruka, Mii-chan and Kushida).
+[says] (p.26) “Good morning, Ayanokouji-kun!”
+[says] (p.27) “So, at long last you’ve started working towards rising to Class A?”
+[says] (p.27) “There might be a lot going on for a while, but I don’t think you need to worry about it.”
+[says] (p.27) “Although, considering it’s you, you probably aren’t worried at all.”
+[says] (p.27) “The important thing here isn’t you or Horikita-san, right?”
+[says] (p.27) “This weekend, I’d made a bunch of arrangements, but she canceled all of a sudden.”
+[says] (p.27) “Girls tend to hold on to things like that for long.”
+[says] (p.28) “Well, it’s our fault, though.”
+[says] (p.28) “This sort of thing is like an everyday affair for us. I’ve faced more troublesome situations before this too.”
+[scene] (p.28) She and Kei and Mori are the ones who made fun of Kei and Shinohara as a couple — behind her back; Shinohara is not talking to her; that is why her weekend arrangements collapsed.
+[rel:ayanokouji-kiyotaka] (p.26–28) She greets him openly; sizes up his state of mind; talks Shinohara's cancellation through.
+[rel:shinohara-satsuki] (p.27–28) The arrangee of the cancelled weekend; not talking to Matsushita since the couple-making-fun incident.
+[rel:karuizawa-kei] (p.28) Kei was one of the couple-making-fun people behind Shinohara's back.
+[rel:mori-nene] (p.28) Mori was one of the couple-making-fun people behind Shinohara's back.
+[rel:ike-kanji] (p.28) Ike was the other half of the couple at the center of the incident.
+
+### y2v6 p.44–44 — Ch.1: Her weekend group backed Hirata's no-leak request
+[scene] (p.44) “I wouldn’t have spoken about it even if Hirata-kun hadn’t asked me to. Our group met up over the weekend, and we got to talking about how, like, even if we let this leak, it wouldn’t be good. Of course, I’m not saying we don’t have our own thoughts about Kushida-san.”
+[says] (p.44) “I wouldn’t have spoken about it even if Hirata-kun hadn’t asked me to. Our group met up over the weekend, and we got to talking about how, like, even if we let this leak, it wouldn’t be good. Of course, I’m not saying we don’t have our own thoughts about Kushida-san.”
+[rel:hirata-yousuke] (p.44) She backs his no-leak request; her weekend group agreed with his.
+[rel:kushida-kikyou] (p.44) She has her own thoughts about Kushida, but backs the secrecy line.
+
+### y2v6 p.58–60 — Ch.1: Maid café; not talking to Shinohara
+[scene] (p.58) She is one of the maid café originators — AK has asked the originators for a pause; there is no sign she has learned of it yet.
+[scene] (p.60) She is one of the people Shinohara is not talking to — the couple incident's fallout still runs through the class.
+[rel:satou-maya] (p.58) Fellow maid café originator.
+[rel:maezono] (p.58) Fellow maid café originator.
+[rel:shinohara-satsuki] (p.60) Shinohara still not talking to her — the couple incident's fallout.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -271,15 +307,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [mentioned] (p.54) "she might even be able to beat them" — Haruka discusses Matsushita with Ayanokōji ("No, if you include her physical characteristics, she might even be able to beat them." — the plan queen).
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — matsushita-chiaki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.26-28, p.58, p.60, p.73, p.155.
-[mentioned] (p.11) Passing mention only.
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -1643,6 +1643,26 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.53–56) Steady and cooperative — calms the panicking Ike, echoes Horikita's plan, leverages his soccer-club connections to recruit first-year partners, and proposes checking in with the lowest-rated students; works in seamless sync with Horikita.
 [rel:horikita-suzune] (p.54–55) Coordinates the class strategy with her in perfect agreement.
 [rel:ike-kanji] (p.53) Calms him down when he panics about his E rating.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.38–43 — Ch.1: Club restriction; the no-leak request
+[scene] (p.38) Chabashira announces the club restriction: he cannot enter any soccer-related event — he is a club member.
+[scene] (p.40) After the rules explanation he gets up and starts walking towards Horikita, as usual.
+[scene] (p.43) Shinohara and Horikita face off; he raises his hand and stands up — there is something on his mind; to utilize Kushida's skills, the class must keep her secret; he requests everyone keep quiet; he says he would not have spoken even if asked; his weekend group met and agreed — Sachi should not leak.
+[says] (p.43) “Can I speak for a moment?”
+[says] (p.43) “There’s been something on my mind lately. If we want to utilize Kushida-san’s skills as much as possible, we need to keep her secret within this class. That’s why I request everyone in the class to keep quiet about it.”
+[says] (p.43) “Even so, you didn’t tell us to keep quiet. Why?”
+[says] (p.43) “No gag rule I could put out would mean anything to those who wanted to see her fall. It’s only a matter of time before it becomes well known across the school.”
+[scene] (p.60) He understands, as Horikita does, that the class cannot form teams yet — the divisions are too deep.
+[rel:horikita-suzune] (p.40, 60) He walks towards her when the rules land; both know the class is not ready for teams.
+[rel:kushida-kikyou] (p.43) He moves to keep her secret; he and his weekend group decided the leak should not happen.
+[rel:shinohara-satsuki] (p.43) He does not pitchfork with her; he trusts her to keep quiet.
+[rel:matsushita-chiaki] (p.44) She agrees — her weekend group backed the same conclusion.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1973,25 +1993,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y2v5 p.50 — Coverage-gate mention record
 [mentioned] (p.50) "Considering the fact that she had started dating Yōsuke immediately after enrolling at the school, and that she herself had probably been fabricating her past, this kind of perception arising was unavoidable."
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-
-
-### y2v6 p.80–89 — Hirata seeks guidance; confesses his guilt over Airi
-[scene] (p.80) Visits Ayanokōji's room after club activities; Kei is already there (he's glad to see her genuine and cheerful).
-[says] (p.81) "it's about the class. As we are right now, going into the Sports Festival would be dangerous."
-[says] (p.81) "I was just talking to Kiyotaka about Shinohara-san. Honestly, I'm not even thinking about the competition right now."
-[says] (p.82) "Kiyotaka-kun would be able to see the big picture, and make the right call. That's what I thought."
-[says] (p.86) "I still remember… how my hands felt at that moment." (of pressing "Support" to expel Airi)
-[says] (p.88) "Have I become stronger, or has my sense of self broken down? I'm scared…"
-[says] (p.89) "For just that, yes. But I believe in you." / "… No. I want to believe in you."
-[trait] (p.80–89) The class's conscience — worries the fractured class can't compete, wants to repair Shinohara/Kei and Mii-chan's feelings; initially resists Ayanokōji's redirect to Horikita, admitting he relies on Ayanokōji's "big picture" judgment; openly confesses the trauma of having voted to expel Airi (his hands remember pressing "Support"), and asks whether he's grown stronger or broken — finally choosing to "want to believe in" Ayanokōji.
-[rel:ayanokouji-kiyotaka] (p.80–89) Seeks his help and guidance; his "I want to believe in you" is a firm request not to be betrayed.
-[rel:karuizawa-kei] (p.80) Glad to see her happy; they've both asked Ayanokōji for help.
-[rel:asahina-nazuna] (p.85–86) Ayanokōji proposes he accept Mii-chan's feelings; he declines (would only hurt her later).
-[rel:sakura-airi] (p.86–88) Deeply guilty about her expulsion — he pressed the Support button.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

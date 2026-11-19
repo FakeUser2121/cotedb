@@ -15,6 +15,12 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
 
 <!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.22–22 — Ch.1: Contact without the Airi topic
+[scene] (p.22) Ayanokōji tells Horikita he had some contact with him and Akito over the weekend — “that’s about it.” — nothing about Airi was discussed.
+[mentioned] (p.22) Keisei contacted AK over the weekend; the Airi topic was not broached.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

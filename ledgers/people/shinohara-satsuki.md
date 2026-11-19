@@ -302,6 +302,32 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ike-kanji] (p.129–135) Mutual resolve to improve; interrupts his confession by noticing Ayanokōji, then argues with him out of the café.
 [rel:ayanokouji-kiyotaka] (p.134) Asks teasingly whether he is on a date with Hiyori.
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.27–28 — Ch.1: The glare; the cancelled weekend; the couple incident
+[scene] (p.27) Her glare jabs in the direction of AK and Matsushita from time to time — aimed at Matsushita, not AK; Matsushita notices and mumbles about cancelled arrangements.
+[scene] (p.28) Kei, Matsushita and Mori made fun of Ike and her as a couple behind her back — she got mad at them; she is not talking to them; the girls' bonds across the class have split completely.
+[rel:karuizawa-kei] (p.28) Kei made fun of her and Ike behind her back.
+[rel:matsushita-chiaki] (p.27–28) Matsushita cancelled this weekend's arrangements; Shinohara not talking to her.
+[rel:mori-nene] (p.28) Mori made fun of her and Ike behind her back.
+[rel:ike-kanji] (p.28) The other half of the couple at the center of the incident.
+[rel:satou-maya] (p.60) Possibly also not talking to her — Shinohara may not be talking to Satou or Maezono either (unconfirmed on the page).
+
+### y2v6 p.41–44 — Ch.1: She counters Horikita — Kushida is untrustworthy
+[scene] (p.41) She is the first to counter Horikita — “I don’t think so.” — Kushida is a known bad actor now; past contributions can be erased by what she revealed; she cuts straight to the most important point; she would not have told anyone from the other classes, but she doubts it can stay quiet.
+[says] (p.41) “I don’t think so.”
+[says] (p.41) “After finding out the kind of person Kushida is, nobody will trust her any more. While it seems like nobody has told anybody from the other classes about Kushida, don’t you think that’s just a matter of time?”
+[says] (p.42) “Hey, Horikita-san. Can you really say that keeping Kushida-san was the right choice? Answer me.”
+[says] (p.42) “What? I want an answer now. No matter what you think, Kushida-san will be a hindrance to the class.”
+[says] (p.42) “That… we can’t know that unless we try it.”
+[says] (p.44) “… will you really take responsibility?”
+[scene] (p.44) Horikita's “I will bring her back. If I can't… I'll take responsibility for it in any way possible.” lands even on her — “Shinohara was no exception to that”; she gasps at the iron will and asks if Horikita really means it.
+[rel:horikita-suzune] (p.41–44) Open challenger in the class meeting; gasps at her responsibility pledge.
+[rel:kushida-kikyou] (p.41–42) Kushida hurt her more than anyone; she will not trust her again.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -434,15 +460,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 ### y2v5 p.207 — Coverage-gate mention record
 [mentioned] (p.207) "In the meantime, Shinohara and Mori and Ike and others continued to force each other to lie about what they had said or didn't say, while Kushida shifted her focus to Haruka."
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — shinohara-satsuki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.27-28, p.41-44, p.60, p.66, p.72-74.
-[mentioned] (p.11) Passing mention only.
 
 ## y2v7
 

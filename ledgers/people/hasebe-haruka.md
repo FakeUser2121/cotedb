@@ -507,6 +507,17 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.12) Her reason for dropping out and for the revenge: she said she would drop out during the Unanimous Consent Special Exam (he is the “Kiyopon” she cannot let go — context carried by later chapters).
 
 <!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.18–29 — Ch.1: Absent — the exam's other victim
+[scene] (p.18) AK narrates the exam from her vantage: as a close friend of Airi, to her the person who kept voting to expel someone — Kushida — was evil, and should have been eliminated; she added her vote to expel on that premise; then she had to pay the price for Horikita's preference of Kushida with a close friend of hers getting expelled; she would absolutely not be on board with “Let's do our best from next week.”
+[mentioned] (p.22–24) She has not replied to any of AK's messages — his “read” indicator is off; she may have blocked him; Horikita agrees it is best to wait rather than have a confrontation now.
+[mentioned] (p.28) Absent Monday — Chabashira accepted her sick leave; the class knows these three are not sick: her absence is from Airi's expulsion.
+[mentioned] (p.59) Still absent Tuesday; Chabashira has not been able to reach her; AK doubts she would ever be on board again.
+[rel:sakura-airi] (p.18) Her close friend — expelled; the reason for everything that follows.
+[rel:ayanokouji-kiyotaka] (p.22–24) He has had no courage to message her; she may have blocked him.
+[rel:kushida-kikyou] (p.28) Expelled in Kushida's place — the price Horikita's choice imposed on her.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
