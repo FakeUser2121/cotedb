@@ -846,31 +846,154 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.99–115 — Kōenji vs the third-year "Free Groups" siege
-[scene] (p.99) Besieged on day eleven by Kiriyama's group plus six "Free Groups" (15 third-years) mobilized by Nagumo to stop his top-stREAK; he's caught sleeping in broad daylight (from exhaustion).
-[says] (p.103) "I'm sure you will agree. I am a human being like you."
-[says] (p.104) "Take the day off? That's kind of funny."
-[says] (p.104) "My physical strength has already recovered perfectly. I don't want you to talk about me as a normal person."
-[says] (p.104) "I have a very short dream. I have an extremely low REM phase."
-[says] (p.106) "I'm not one to accept advice, Kiriyama."
-[says] (p.111) "I don't obey anyone."
-[says] (p.111) "It is not a pretty situation. I don't like male sexuality."
-[says] (p.112) "I have no intention of showing mercy to those who prevent me from moving forward."
-[says] (p.114) "You are a real monster." — Mikitani; Kōenji breaks their spirits
-[trait] (p.99–115) Effortlessly evades the encirclement — reveals he has an extremely short REM sleep phase (recovering fully in naps), outruns the third-years in a sprint, and when they physically try to block him, simply walks through them ("as if a large rock was slowly crashing into him"), making Morooka fake a broken arm; breaks all 18 pursuers' fighting spirit without throwing a single punch, then leaves — Kiriyama realizes that making the third-years look like no big deal was exactly what Kōenji intended.
-[rel:kiriyama] (p.104–115) Recognizes him as one of only two (with Nagumo) who can stop Kōenji; calmly analyzes his "super short sleep."
-[rel:mikitani] (p.103–115) The third-year who confronts him, demands he stay put, and is humiliated when Kōenji walks through him.
-[rel:nagumo-miyabi] (p.95–109) Nagumo (behind the siege) was "very disappointed" at the failure.
+### y2v4 p.4 — Kōenji mentioned in passing
+[note] (p.4) Front-matter name hits only (table of contents): Kōenji's name appears on the TOC page with the chapter titles.
 
+<!-- walk: y2v4 Prologue → p.7 -->
+
+### y2v4 p.42–43, 48–50 — Kōenji mentioned in passing
+[mentioned] (p.42) “Kōenji was indeed amazing, but the truth behind what was going on here was probably a little bit different.”
+[mentioned] (p.42) “Fortunately, Kōenji has been putting in a lot of work of his own, so instead, I’ve been focused on gathering the resources necessary to support my peers who need help.”
+[mentioned] (p.43) “Kōenji-senpai sure is amazing, isn’t he? Giving President Nagumo a run for his money all by himself.” — Nanase to Ayanokōji.
+[mentioned] (p.43) “In reality, however, Nagumo’s group was most likely just putting on an act as they slowed down to match pace with Kōenji.”
+[mentioned] (p.43) “And then, once the rankings were hidden again, he and his group would pick up the pace for the final two days of the exam.”
+[mentioned] (p.48) “1st Place: Second-Year Group Kōenji – 168 Points” — the printed top-ten.
+[mentioned] (p.48) “There was a full, 90 point difference between myself and Kōenji, who was all the way up in first place.”
+[mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.62, 83 — Kōenji mentioned in passing
+[mentioned] (p.62) “With the way things are going, even if I don't win, I won't have any complaints as long as Kōenji takes first or second.” — Ayanokōji.
+[mentioned] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?” — Kiryūin to Ayanokōji; the two leads are deadlocked.
+
+
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+### y2v4 p.99–102 — Ch.4: Surrounded at dawn; he simply bolts
+[scene] (p.99) Besieged on day eleven by Kiriyama’s group plus six “Free Groups” (18 third-years) mobilized by Nagumo’s reserve corps to stop his top-streak; he hums, takes his tablet, and departs on schedule.
+[says] (p.101) “It's on the move, it's Kouenji!” — Mikitani; tracked in his own ledger.
+[says:kiriyama-ikuto] (p.101) “Can you give me some time, Kouenji?”
+[says] (p.101) “Do you want something from me?” — Kouenji.
+[says:kiriyama-ikuto] (p.101) “I didn't expect you to do so well in this special exam.”
+[says:kiriyama-ikuto] (p.101) “You know what I mean, Kouenji. You've got too many points.”
+[says:kiriyama-ikuto] (p.101) “I want you to stay where you are the rest of the day.”
+[says] (p.101) “Does that mean you don't want me to earn points ......?” — Kouenji.
+[says:kiriyama-ikuto] (p.101) “Yes.”
+[says] (p.101) “I don't know who you are, but you only need to think a little to realize that it is an impossible proposal. But even so, the fact that you have brought so many people means that you are prepared to interfere with my plans even if I ignore it, right?” — Kouenji.
+[says:kiriyama-ikuto] (p.101) “It is not good that you are in a group alone. I acknowledge that you have made great progress so far, but your results will most likely drop in the second half of the exam as you get tired. ”
+[says] (p.102) “Then you don't have to worry about me, right?” — Kouenji.
+[says:kiriyama-ikuto] (p.102) “It is a matter of precaution. Also, it is difficult for a third year student to accept the fact that he is competing for the highest position with you, a lonely student.”
+[says:kiriyama-ikuto] (p.102) “The following is not a bad idea, if you are willing to follow it. If you have the student council president, Nagumo, on your side, your school life will be more stable. ”
+[says] (p.102) “I'm not one to accept advice, Kiriyama.” — no, that's later (p.106); Kouenji says this line at p.106.
+[says] (p.102) “I'm going to hurry, so if you'll excuse me.” — Kouenji to the 18 third-years surrounding him.
+[trait] (p.99–102) Alone, unbothered, utterly in control of his pace — the 18-person encirclement fails to budge his routine; once the 7:00 zone announces, he simply bolts through them.
+[rel:kiriyama-ikuto] (p.99–102) His direct opponent in the siege; Kiriyama cannot make him yield an inch.
+[rel:nagumo-miyabi] (p.95–102) Nagumo reserved six of his fifteen Free Groups for this containment; Kouenji refuses his protection.
+
+### y2v4 p.103–106 — Ch.4: The nap reveal; the REM claim
+[scene] (p.103) Tracked for six hours; found asleep in broad daylight; wakes laughing; the Free Groups surround him again at the E3 task site.
+[says:mikitani] (p.103) “Get up, Kouenji! You've been running for more than 10 days, so you took a nap from exhaustion, right?”
+[says] (p.103) “I'm sure you will agree. I am a human being like you. ”
+[says:mikitani] (p.104) “If that's the case, then go ahead and take the rest of the day off. You must be exhausted from all this. You must listen to the kind advice of your elders. ”
+[says] (p.104) “Take the day off? That's kind of funny. ”
+[says:mikitani] (p.104) “Don't… make an effort. If you could get rid of fatigue just with a little rest, no one would have a problem. ”
+[says:kiriyama-ikuto] (p.104) “You certainly look good. But like Mikitani said, you've run for the last 10 days or so with more energy than anyone.”
+[says] (p.104) “I think that if you are reaching your limit, you are not in the realm of normal people.”
+[says] (p.105) “I have a very short dream. I have an extremely low REM phase. ”
+[says] (p.105) “What? What is that REM phase, huh? ” — Mikitani.
+[note] (p.105) Kiriyama's realization: Kouenji's “very short dream” claim means the sleep-math he ran is broken; Kouenji poses the question of whether he is even needed.
+[says] (p.105) “By the way, do you still need me?”
+[says:kiriyama-ikuto] (p.105) “I don't care if you are physically strong or not, shut up ...”
+[says:kiriyama-ikuto] (p.105) “I'm not here at all, don't worry about us.”
+[says] (p.105) “You seem quite belligerent when you say that.”
+[says] (p.106) “I'm not one to accept advice, Kiriyama.”
+[says:kiriyama-ikuto] (p.106) “It may be true.”
+[says:kiriyama-ikuto] (p.106) “It's useless, I'll change my strategy. We will seal the matter. ”
+[trait] (p.103–106) Reveals an extremely short REM sleep phase — inexhaustible stamina; sleeps on demand mid-exam; the siege loses its math.
+[rel:mikitani] (p.103–106) The voice of the siege; he baits Kouenji with rest and gets nowhere.
+[rel:kiriyama-ikuto] (p.103–106) His composure finally cracks — first impatience.
+
+### y2v4 p.106–110 — Ch.4: The E3 English test; the circle closes
+[scene] (p.106) The third-designated zone is announced; Kouenji walks off amid threats; 18 third-years form a circle; the E3 English test — 8 points for first — opens at the task site; Dodo takes first, Kouenji second with 4 points.
+[says:kiriyama-ikuto] (p.106) “I'm the one in charge now. Don't interrupt the circle, Mikitani. ”
+[says:mikitani] (p.107) “Kouenji! Don't be so harsh!”
+[says] (p.107) “Well, well, they're getting noisy. So, let me pick up the pace a bit.”
+[says:mikitani] (p.107) “Don't let him get away this time! Surround him!”
+[says:mikitani] (p.107) “No way, no way, no way ...”
+[says:mikitani] (p.107) “Chase him! Don't let him escape!”
+[says:mikitani] (p.107) “Wait, Mikitani, don't act on your own!”
+[says:mikitani] (p.107) “Shut! I won't let him get away twice! Catch him and drag him! ”
+[note] (p.108) The task was an English test, content grades 1–3 alike; Dodo Michimichi, one of the most gifted third-year students, took first; Kouenji came in a close second and was awarded four points.
+[note] (p.109) “They sure are working very hard.” / “We cannot pretend to be something we are not” — printed untagged; Kiriyama or Mikitani; not assigned.
+[says:kiriyama-ikuto] (p.109) “This is your last warning, Kouenji.”
+[says] (p.110) “Are you asking me for a favor?”
+[says:mikitani] (p.110) “No, it's an order.”
+[says] (p.110) “It is a request that I cannot ignore, but what happens if I refuse?”
+[says] (p.110) “In the worst case, you will be expelled.” — Mikitani.
+[says] (p.110) “I don't obey anyone.”
+[says:mikitani] (p.110) “Then I will make you obey me. You understand, Kouenji? Right…Kiriyama. ”
+[says:kiriyama-ikuto] (p.110) “As long as Kouenji obeys, I will leave it up to you.”
+[trait] (p.106–110) Seals the one-person English test with Dodo's first place; Kouenji's 4 points fall one short of first prize; he refuses “order” and fights alone.
+[rel:dodo-michimichi] (p.108) Dodo took the E3 test; Kouenji only second.
+[rel:kiriyama-ikuto] (p.106–110) His containment contains nothing; the circle is the only wall left.
+
+### y2v4 p.111–115 — Ch.4: The walk-through
+[scene] (p.111) At the last designated zone, Kouenji slowly spreads his arms and starts walking through the 18-person circle; Morooka breaks his arm on collision; Kouenji doesn't pause.
+[says] (p.111) “It is not a pretty situation. I don't like male sexuality. ”
+[says:mikitani] (p.111) “What would you do? If you try to push me away, I will take it as a declaration of war. ”
+[says] (p.111) “Oh I see.”
+[says:morooka] (p.111) “What? I think I have broken my arm! ”
+[note] (p.112) “You have done something terrible, Kouenji.” — printed untagged; Mikitani or Kiriyama; not assigned.
+[says] (p.112) “You sound like a hit man.” — Kouenji.
+[note] (p.112) “No matter what you say, it doesn't change the fact that you pushed Morooka away.” — printed untagged; Mikitani or Kiriyama; not assigned.
+[note] (p.112) “It seems that you are willing to hit us, your senpai. But if you did, you'd be in big trouble right? ” — printed untagged; Mikitani or Kiriyama; not assigned.
+[says] (p.112) “You can not touch me.”
+[says] (p.112) “I have no intention of showing mercy to those who prevent me from moving forward, much less turning against me.”
+[says:mikitani] (p.112) “What if we report it to the school?”
+[says] (p.112) “What's going to happen, or is it just going to be a stain on the name of the third year students who tried to sink a lone kouhai?”
+[says:mikitani] (p.113) “I can't be nice to you all the time.”
+[says:kouenji-rokusuke] (p.113) “Does that mean you're going to turn against me?”
+[says] (p.113) “Didn't you, Mikitani? You really want to do it.”
+[says:mikitani] (p.113) “… Ah. If that's the case, I'll go down with Kouenji in my arms. Let's do it! ”
+[says] (p.114) “It's not nice that you always follow me. It's not nice to have a dead leaf slapping my cheek over and over again. ”
+[says:kiriyama-ikuto] (p.114) “Are you okay, Mikitani?”
+[says] (p.114) “Even if I have to drop the reward for reaching the designated area, here I will nip the counterattack of third year students in the bud.”
+[says:mikitani] (p.115) “Are you going to report my failure to Nagumo?”
+[says] (p.115) “Now if you'll excuse me. Bye.”
+[trait] (p.111–115) Breaks the encirclement without raising a hand — Morooka's arm is broken; everyone else's spirits are broken; he leaves with the designated-area reward dropped; Kiriyama's plan fails.
+[rel:kiriyama-ikuto] (p.111–115) His siege plan collapses in 15 minutes; Kiriyama concedes the match.
+[rel:mikitani] (p.111–115) The spearhead breaks first; Morooka is hospitalized.
+
+
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.205–213 — Kōenji mentioned in passing
+[mentioned] (p.213) “In order to drop Koenji down to 2nd, isn’t it necessary to continue with the attack until the end?” — the interceptors’ transceiver; Nagumo switched it off.
+[mentioned] (p.205) “Although the fierce Koenji still had a chance of reversing it, this was undoubtedly a tough battle.” — narration.
+[mentioned] (p.206) “Well, he certainly exceeded my expectations, as he was the only one who made me take an offensive move in the exam.” — Nagumo.
+[mentioned] (p.206) “Managing the entire third year to take all the arrival bonus points and the events. This is something only the student council president can do.” — Nagumo.
+[mentioned] (p.207) “All the other years that show off by being in the top 3 ranks will be erased. As a result, Kouenji could only get arrival points.” — Nagumo.
+[mentioned] (p.208) “If Kōenji were to maintain his current pace and keep diligently racking up points, he'd end up with a final score of around 350, so if I wanted to bridge the gap, I'd have to earn close to 40 points per day for the rest of the exam.” — Ayanokōji.
+[mentioned] (p.209) “Kōenji-senpai sure is amazing, isn't he? Giving President Nagumo a run for his money all by himself.” — Nanase (she says this to him).
+[mentioned] (p.212) “in the battle with me, we might be able to see his regretful expression.” — Nagumo.
+
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ### y2v4 p.281–282 — Kōenji wins first place alone
 [scene] (p.281) Announced 1st place with 327 points (just 2 ahead of Nagumo) — the only group to win alone, hailed by all students.
-[says:horikita-suzune] (p.281) "You really have done it, Kouenji-kun."
-[says] (p.281) "I'm sure you understand, right?"
-[says] (p.282) "Yes, that's right. Now let's go up again."
-[says] (p.282) "... Do not say foolishness." — Horikita
-[trait] (p.281–282) Wins first alone under the harshest conditions, gaining 300 class points, 1 million private points and a Protection Point; as promised he's granted immunity until graduation ("do whatever he wanted"); remains utterly self-focused, already talking of ascending again, while Horikita celebrates the 300 points toward reaching Class A and warns him not to cause trouble this month.
-[rel:horikita-suzune] (p.281–282) His class leader — their deal grants him freedom; she celebrates the class points but rebukes his "foolishness."
+[says:horikita-suzune] (p.281) “You really have done it, Kouenji-kun.”
+[says] (p.281) “I'm sure you understand, right?”
+[says] (p.282) “Yes, that's right. Now let's go up again.”
+[says] (p.282) “... Do not say foolishness.” — Horikita
+[trait] (p.281–282) Wins first alone under the harshest conditions, gaining 300 class points, 1 million private points and a Protection Point; as promised he's granted immunity until graduation (“do whatever he wanted”); remains utterly self-focused, already talking of ascending again, while Horikita celebrates the 300 points toward reaching Class A and warns him not to cause trouble this month.
+[rel:horikita-suzune] (p.281–282) His class leader — their deal grants him freedom; she celebrates the class points but rebukes his “foolishness.”
 [rel:nagumo-miyabi] (p.281) Beat him by 2 points.
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

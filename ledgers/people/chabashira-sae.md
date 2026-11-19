@@ -1347,13 +1347,17 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.269–271 — Chabashira mentioned in passing
-[scene] (p.269–271) Named in the context of the exam results.
-[note] (p.269–271) Passing mentions; not a distinct scene presence.
-[mentioned] (p.269–271) Passing mention only.
+### y2v4 p.268–272 — Chabashira and the boat
+[mentioned] (p.268) “If you look closely at the end of the small boat, you could see Mashima-sensei and Chabashira-sensei. And that's how Tsukishiro found out.” — narration.
+[mentioned] (p.269) “If they had checked all the students by GPS, would the rescue have arrived and changed the situation? Now, from the map, you can see that a student from class A and another from class D from the second year have lost the GPS response of their watches. I think it was more of a question of trust. ” — Tsukishiro notes the rescue was inevitable.
+[mentioned] (p.270) “In the end, the boat landed and Mashima-sensei and Chabashirasensei got off.” — narration.
+[mentioned] (p.272) “Nothing has occurred here. Ayanokouji-kun and I just had a chat.” — Tsukishiro to the teachers; the fight is made invisible by him.
 
-<!-- walk: y2v4 Ch.6 → p.271 -->
+### y2v4 p.271 — Chabashira and the rescue
+[mentioned] (p.271) “Nothing has occurred here. Ayanokouji-kun and I just had a chat.” — Tsukishiro to the teachers; the boat crew includes Chabashira-sensei.
 
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

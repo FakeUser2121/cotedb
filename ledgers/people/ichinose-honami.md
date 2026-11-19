@@ -1776,22 +1776,62 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.89–91 — Ichinose mentioned in passing
+[mentioned] (p.89) “It's a typical response from Ichinose's class.” — narration.
+[mentioned] (p.91) “maybe it's because Ayanokouji-kun ... and Honami-chan ..” — Shiranami trails off; she closes her mouth.
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
+### y2v4 p.120 — Ichinose mentioned in passing
+[mentioned] (p.120) “This kind of environment is often seen in Ichinose's class, but it seems that Ryuuen's class is also starting to change little by little.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
+### y2v4 p.162–164 — Ichinose mentioned in passing
+[mentioned] (p.162) “Have you seen Ichinose-san?” — Ayanokōji asks Sakayanagi; she is missing for several days.
+[mentioned] (p.164) “it was a strategy that could only be accomplished by joining forces with Sakayanagi's class A, who had perfect control, and Ichinose's C-class, who would never betray her.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
+### y2v4 p.192–194 — Sakayanagi reports Ichinose missing
+[mentioned] (p.192) “Actually, I'm in trouble. At dawn, Ichinose-san disappeared.” — Sakayanagi.
+[mentioned] (p.193) “It was D5. Ichinose-san arrived there. She started performing at dawn without telling anyone, and now she was here at E3...” — Sakayanagi.
+[mentioned] (p.194) “I had been thinking of using GPS search to find out Ichinose's location...” — Ayanokōji.
+
 ### y2v4 p.195–201 — Ichinose's confession at H3
 [scene] (p.195) Covered in mud and exhausted, walks 4+ hours to H3 to find Ayanokōji, having been threatened by Tsukishiro/Shiba after her watch broke.
-[says] (p.195) "Ayanokouji-kun———!"
-[says] (p.195) "I, I came here because I wanted to see you, Ayanokouji-kun."
-[says] (p.196) "I, I have something I have to tell you, no matter what, Ayanokouji-kun!"
-[says] (p.196) "I've been troubled, troubled. I've always been troubled… to protect my friends and classmates…"
-[says] (p.197) "If you're safe in the last day, Ayanokouji-kun, you'll be called to I2 and be buried."
-[says] (p.198) "If I told this to you… Acting Director Tsukishiro would make my classmates drop out… But I can't turn my back on you no matter what."
-[says] (p.198) "Because I, because I like you, Ayanokouji-kun…!"
-[says] (p.198) "No, that's not right! That, eh, just now, why did I, eh, ehhhhhhhh!?"
-[says] (p.200) "…That…. misunderstanding… it's not a misunderstanding…"
-[says] (p.200) "…I like… you…"
-[trait] (p.195–201) Desperate and selfless — prioritizes Ayanokōji's safety over her classmates despite Tsukishiro's threat, blurts out "I like you" in exhaustion (then panics, as if the words escaped her), and admits it was no misunderstanding; accepts his gentle refusal without disdain.
+[says] (p.195) “Ayanokouji-kun———!”
+[says] (p.195) “I, I came here because I wanted to see you, Ayanokouji-kun.”
+[says] (p.196) “I, I have something I have to tell you, no matter what, Ayanokouji-kun!”
+[says] (p.196) “I've been troubled, troubled. I've always been troubled… to protect my friends and classmates…”
+[says] (p.197) “If you're safe in the last day, Ayanokouji-kun, you'll be called to I2 and be buried.”
+[says] (p.198) “If I told this to you… Acting Director Tsukishiro would make my classmates drop out… But I can't turn my back on you no matter what.”
+[says] (p.198) “Because I, because I like you, Ayanokouji-kun…!”
+[says] (p.198) “No, that's not right! That, eh, just now, why did I, eh, ehhhhhhhh!?”
+[says] (p.200) “…That…. misunderstanding… it's not a misunderstanding…”
+[says] (p.200) “…I like… you…”
+[trait] (p.195–201) Desperate and selfless — prioritizes Ayanokōji's safety over her classmates despite Tsukishiro's threat, blurts out “I like you” in exhaustion (then panics, as if the words escaped her), and admits it was no misunderstanding; accepts his gentle refusal without disdain.
 [rel:ayanokouji-kiyotaka] (p.195–201) Warns him of the I2 trap and confesses her love; he thanks her but can't reciprocate now.
 [rel:tsukishiro] (p.197–198) Threatened her — if she told anyone, her classmates would be forced to drop out.
 [rel:shiba-katsunori] (p.197) Was with Tsukishiro when her watch broke.
+
+### y2v4 p.202–203 — Ichinose mentioned in passing
+[mentioned] (p.202) “Ichinose said that this was the place where Tsukishiro prepared to bury me.” — Ayanokōji.
+[mentioned] (p.203) “Did you meet up with Honami?” — Nagumo.
+
+### y2v4 p.252–270 — Ichinose mentioned in passing
+[mentioned] (p.252) “it was designed so that even if Ichinose hadn't come to me, I would have gone to the place.” — Ayanokōji.
+[mentioned] (p.254) “but Ichinose and Nagumo could also be seen around here.” — Ayanokōji.
+[mentioned] (p.255) “What happened to Nagumo-kun and Ichinose-san?” — Tsukishiro.
+[mentioned] (p.270) “It was a mistake to threaten Ichinose halfway. If you were going to do this you should have handled it thoroughly.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
+
+### y2v4 p.280 — Ichinose mentioned in passing
+[mentioned] (p.280) “on the last day, Ichinose left the team in the middle of the tournament, but the effect was not so serious.” — narration.
+
+<!-- walk: y2v4 Epilogue → p.284 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

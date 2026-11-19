@@ -1117,17 +1117,14 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.160, 167, 186, 262 — Sakura mentioned in passing
-[scene] (p.160) Named in the context of the exam.
-[scene] (p.167) Named in the context of the exam.
-[scene] (p.186) Named in the context of the exam.
-[scene] (p.262) Named in the context of the exam.
-[note] (p.160, 167, 186, 262) Passing mentions; not a distinct scene presence.
-[mentioned] (p.160, 167, 186, 262) Passing mention only.
+### y2v4 p.160, 167, 186, 262 — Sakura not present
+[note] (p.160, 167, 186, 262) The page locator matched “Sakura” in y2v4, but these are “Sakurako Tsubaki” hits — the first-year siege mastermind — not Sakura Airi; the roster row for Sakura Airi has zero page presence in this volume.
 
-<!-- walk: y2v4 Ch.6 → p.262 -->
+<!-- walk: y2v4 Ch.5 → p.190 -->
+### y2v4 p.278 — Sakura Airi mentioned in passing
+[mentioned] (p.278) “If we're all here, it means that Haruka and Airi's group were safe too.” — Hirata's interior; the second-year Class D line held; "Airi" is printed on this page and is not otherwise identified on this page; identity attribution to Sakura Airi is plausible but not printed; kept as an unassigned mention.
 
-
+<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

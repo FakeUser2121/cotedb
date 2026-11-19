@@ -350,13 +350,18 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.269–272 — Mashima mentioned in passing
-[scene] (p.269–272) Named in the context of the exam results.
-[note] (p.269–272) Passing mentions; not a distinct scene presence.
-[mentioned] (p.269–272) Passing mention only.
+### y2v4 p.268–272 — Mashima lands the rescue boat
+[mentioned] (p.268) “If you look closely at the end of the small boat, you could see Mashima-sensei and Chabashira-sensei. And that's how Tsukishiro found out.” — narration.
+[mentioned] (p.269) “When you find out that it is the 2nd A class and the 2nd D class, you have no choice but to bring your class teacher, even if you don't want to.” — narration; the teachers are brought in because of the broken-watch rule.
+[mentioned] (p.270) “I was watching the fight between Shiba and her, although it was out of the corner of my eye and she could hold out well, even if she only defended herself.” — narration.
+[mentioned] (p.270) “In the end, the boat landed and Mashima-sensei and Chabashirasensei got off.” — narration.
 
-<!-- walk: y2v4 Ch.6 → p.272 -->
+### y2v4 p.271–272 — Mashima lands the rescue
+[mentioned] (p.271) “In the end, the boat landed and Mashima-sensei and Chabashirasensei got off.” — narration.
+[mentioned] (p.272) “Then let's go. The students haven't finished their special exams yet.” — Mashima/Chabashira head to the ship.
 
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

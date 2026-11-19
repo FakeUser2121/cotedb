@@ -2215,22 +2215,137 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.168–183 — Ryūen stops Hōsen; retires with him
-[scene] (p.168) Intercepts Hōsen as he moves to attack Ayanokōji, having agreed to help after Ayanokōji explained the threat.
-[says] (p.169) "That's my line, Housen. You have nothing to do here, do you?"
-[says] (p.175) "Wait. You think you've won."
-[says] (p.176) "The game is not over yet."
-[says] (p.176) "If so, will you quit after all?"
-[says] (p.178) "It's a simple story. If you break your watch, the GPS won't recognize it."
-[says] (p.179) "I'm not stupid enough to fight a gorilla"
-[says] (p.179) "the last man standing is the winner."
-[says] (p.180) "It's just camaraderie" — on Albert
-[says] (p.182) "But he's a great guy."
-[trait] (p.168–183) Fights Hōsen one-on-one first (taking a brutal beating, his watch hitting Emergency Alert, deliberately not turning it off to play the victim), then springs the trap — Ishizaki and Albert, with disabled GPS, restrain Hōsen for a 3-on-1 beating; refuses to face the "gorilla" fairly ("I'm not stupid enough"), wins by any means, then retires with the unconscious Hōsen to protect Ayanokōji.
-[rel:housen-kazuomi] (p.168–183) He stops and defeats him, then retires with him.
-[rel:ayanokouji-kiyotaka] (p.162–183) Agreed to help after learning the threat; retires to protect his exam standing.
-[rel:yamada-albert] (p.177–181) Kind-hearted, stronger than Ryūen, follows him out of camaraderie — restrains Hōsen.
-[rel:ishizaki-daichi] (p.177) Restrains Hōsen's other arm.
+### y2v4 p.14, 42, 47 — Ryūen mentioned in passing
+[mentioned] (p.14) “If it had been one of the more problematic students like Sudō or Ryūen, who had a history of highly violent behavior, the school might have been more suspicious.”
+[mentioned] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
+[mentioned] (p.47) “In terms of pure combat power, you could say that Amasawa was even a step above the likes of Sudō and Ryūen.” — Ayanokōji privately compares Amasawa to the likes of Sudō and Ryūen.
+
+### y2v4 p.48, 67, 70, 78, 97, 120, 122, 161, 184, 191, 277, 280 — Ryūen mentioned in passing
+[mentioned] (p.48) “6th Place: Second-Year Group Ryūen – 128 Points” — the printed top-ten.
+[mentioned] (p.67) “I hadn't seen what Ryūen's food situation was like back when I crossed paths with him” — Ayanokōji.
+[mentioned] (p.70) “Even if Ryūen was here right now, I had my doubts that even he would be able to solve her problem.” — Ayanokōji.
+[mentioned] (p.78) “Ibuki has hated me ever since she found out that I was the ‘X’ Ryūen had been looking for.” — Ayanokōji.
+[mentioned] (p.97) “if it was one of the top ten, it was Ryuuen's second year group, Sakayanagi's group, or Utomiya's group and the others in first year.” — narration.
+[mentioned] (p.120) “but it seems that Ryuuen's class is also starting to change little by little.” — Ayanokōji.
+[mentioned] (p.122) “The details of first-year D-class are unknown, but Housen is a person who uses a type of power similar to Ryuuen's to control the class and act.” — Ayanokōji.
+[mentioned] (p.161) “Yes. I was able to contact Ryuuen-kun and Horikita-san. We are progressing smoothly.” — Ayanokōji to Sakayanagi.
+[mentioned] (p.184) “He got into a fight with a boy named Ryuuen from the 2nd class. grade B, and they both got very injured.” — Tsubaki recounting Housen's fight.
+[mentioned] (p.191) “after Housen went into a confrontation with the Ryuuen and was resolved, it was evident in the subsequent search that all the groups withdrew and returned to the special exam.” — Ayanokōji.
+[mentioned] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.” — Sakayanagi.
+[mentioned] (p.280) “As for the scores, Ryuuen and Katsuragi's group also fought hard,” — narration.
+
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.168–173 — Ch.5: The one-on-one
+[scene] (p.168) Running vigorously through the forest, Hōsen spots Ryūen on the path ahead; Ryūen blocks his way without effort — one man, alone.
+[says:housen-kazuomi] (p.168) “I found you, Ayanokouji-senpai!”
+[says:ayanokouji-kiyotaka] (p.168) “Housen.”
+[says:housen-kazuomi] (p.168) “I’ve been waiting for this moment!”
+[says:housen-kazuomi] (p.169) “Get out of here. You’re on my way.”
+[says:housen-kazuomi] (p.169) “Why are you here? Ryuuen. ”
+[says] (p.169) “That’s my line, Housen. You have nothing to do here, do you? ”
+[says:housen-kazuomi] (p.169) “Eh? ...... Ha, so apparently what I’m thinking comes from somewhere else.”
+[says:housen-kazuomi] (p.169) “So it was not a coincidence that the other first years were retained by the second years.”
+[says:housen-kazuomi] (p.169) “It’s you? No, it is not like that. ”
+[says] (p.170) “I’m afraid I have something to do with it.”
+[says] (p.170) “I have a lot to do and my pockets are empty. If necessary, I will act as a mercenary soldier. ”
+[says:housen-kazuomi] (p.170) “You mean money. But what makes you think you can stop me? ”
+[says] (p.170) “Why do you think I can’t do it?”
+[says:housen-kazuomi] (p.170) “Whoa ....., that’s a pretty daring left hand you have there.”
+[says:housen-kazuomi] (p.170) “Don’t give me that stinky breath, gorilla.”
+[says] (p.170) “You’re a good talker. Show me your pride and skill as a sophomore, will you? Hey!”
+[says:housen-kazuomi] (p.171) “Oraa!”
+[says:housen-kazuomi] (p.171) “You’ve been barking and howling for less than ten seconds, haven’t you? Don’t make me laugh.”
+[says] (p.171) “Ha ...... you’re a hard stone head fucking. Aren’t you made of a real stone there? Damn gorilla.”
+[says:housen-kazuomi] (p.171) “I guess I was expecting too much. You’re not that good to me after all.”
+[says] (p.171) “I don’t think you will find anyone with whom you are happy.”
+[says] (p.171) “I know you are here, because of Ayanokouji, who was walking carefree behind you. Let me take care of it.”
+[says:housen-kazuomi] (p.171) “Yes?”
+[says:housen-kazuomi] (p.172) “So you’re obsessed with Ayanokouji too, huh, Ryuuen?”
+[says] (p.172) “Don’t worry. I haven’t finished with him, or should I say I haven’t even started.”
+[says:housen-kazuomi] (p.172) “I have never seen anyone stop my fist calmly. First of all, I don’t think I’ll ever see anyone who doesn’t seem to be in pain while being stabbed with a knife. ”
+[says] (p.172) “Hey, it looks like you’ve been having a lot of fun without me.”
+[says:housen-kazuomi] (p.173) “You’ve been busy falling asleep and getting up right?”
+[says:housen-kazuomi] (p.173) “Screw you...”
+[says:housen-kazuomi] (p.173) “Ha ha! That’s what I thought, Ryuuen! That’s all you are!”
+[says] (p.173) “It seems like you’re having fun, but do you think you’ve already won?”
+[says:housen-kazuomi] (p.173) “Don’t make me laugh. Do you think you are at my level?”
+[says:housen-kazuomi] (p.173) “At the end of the day, you are a man who can only get ahead with the help of the little ones.”
+[says] (p.173) “ Winning one-on-one isn’t everything today, is it? In fact, in high school, the public’s opinion of you and me was the same. ”
+[says:housen-kazuomi] (p.173) “It seems that you have been sneaking around and avoiding direct confrontation. It is n effort that makes you cry. ”
+[trait] (p.168–173) He takes the hits without flinching — no color change, no fear; he baits Hōsen with pride and insults; he has pre-disabled GPS with Ishizaki and Albert waiting in ambush; he is fighting for a bigger prize than the fight itself.
+[rel:housen-kazuomi] (p.168–173) The gorilla; he draws him into a one-on-one that is secretly a trap.
+[rel:ayanokouji-kiyotaka] (p.168–173) He knows why Hōsen is here; he owes him nothing but interest.
+
+### y2v4 p.174–178 — Ch.5: The third on one
+[scene] (p.174) Dust and sand in Hōsen's eyes; he weathers it all; Ishizaki and Albert leap from the blind spot — disabled GPS — and hold Hōsen; it becomes a 3-on-1.
+[says:housen-kazuomi] (p.174) “It has always been a common practice for the weak to fall in a fight.”
+[says] (p.174) “Really!”
+[says:housen-kazuomi] (p.174) “Is so sweet!”
+[says:housen-kazuomi] (p.174) “Ah!”
+[says:housen-kazuomi] (p.174) “It has always been a common practice for the weak to fall in a fight. “
+[says] (p.175) “Seriously gorilla ... I’ll just admit I’m proud of the fight ...”
+[says:housen-kazuomi] (p.175) “So Ryuuen. I feel like I didn’t enjoy.”
+[says] (p.175) “Wait. You think you’ve won.”
+[says] (p.175) “Did I say that I lost to you even once?”
+[says:housen-kazuomi] (p.175) “I’ll admit that will power, but ... You can’t keep it forever!”
+[says:housen-kazuomi] (p.176) “Your body is sincere. It has had enough with this desperate situation.”
+[says:housen-kazuomi] (p.176) “What the hell is wrong with you? . You can’t even stand, why are you so persistent? There is not a single advantage to being dumb here. ”
+[says] (p.176) “The game is not over yet.”
+[says:housen-kazuomi] (p.176) “Are you sane? ... The teachers will come here, will you retire?”
+[says:housen-kazuomi] (p.176) “If so, will you quit after all?”
+[says:housen-kazuomi] (p.176) “You’re going to play the victim just because you can’t compete with your enemy, you’re very pathetic. You’re so pathetic, Ryuuen.”
+[says:housen-kazuomi] (p.177) “If you are afraid that I am the victim, why don’t you go here?”
+[says] (p.177) “Get me out of here.”
+[says:housen-kazuomi] (p.177) “My GPS is already off. There is nothing wrong with killing you before the teachers hurry up.”
+[says] (p.177) “Kuku, I’ll have to do that”
+[says:housen-kazuomi] (p.177) “If you don’t feel like protecting yourself, you can go to bed!”
+[says] (p.177) “I don’t think the tricks will work for me!”
+[says:housen-kazuomi] (p.177) “What ─── !?”
+[says] (p.178) “Don’t bark so loud, Gorilla. Your execution is about to begin.”
+[says] (p.178) “It’s a simple story. If you break your watch, the GPS won’t recognize it.”
+[says:housen-kazuomi] (p.178) “Are you going to do it 3 to 1? Ah !?”
+[trait] (p.174–178) He uses sand, a watch alarm, and the two friends — everything — nothing honorable; but the result is survival: he holds Hōsen until the teachers arrive; he never once shows pain; the plan was to protect Ayanokōji-senpai even if it costs him school.
+[rel:housen-kazuomi] (p.174–178) The gorilla; he goes unconscious after the 3-on-1.
+[rel:ishizaki-daichi] (p.177–182) His ambusher — holds Hōsen's left arm.
+[rel:yamada-albert] (p.177–182) His ambusher — holds Hōsen's right dominant arm.
+
+### y2v4 p.179–183 — Ch.5: Retirement together
+[scene] (p.179) Bloodied, barely standing — Hōsen unconscious; Ishizaki and Albert barely scratched; he compliments the gorilla, sits him on his knee, and they all head toward the starting point.
+[says] (p.179) “Ha, ha ...... damn ......” — Hōsen.
+[says:housen-kazuomi] (p.179) “Like a blow, a fall can make the difference between light and dark.” — narration.
+[says] (p.179) “You never thought you’d lose like this. But for me, the process doesn’t matter. The last man standing is the winner.”
+[says:housen-kazuomi] (p.181) “You had a guy like that as a subordinate ... I didn’t expect it.”
+[says:housen-kazuomi] (p.181) “Hey, big man ... Why the hell are you following Ryuuen? Eh?”
+[says:yamada-albert] (p.181) “It is true that I am a man that Ryuuen can’t defeat even if he faced me once or twice.” — Albert.
+[says:yamada-albert] (p.181) “You don’t understand, Housen. Not only the monstrously powerful rise to the top.”
+[says:yamada-albert] (p.181) “Kuku. Well, in Albert’s case, I’d say it’s just camaraderie” — Albert.
+[says:housen-kazuomi] (p.181) “Don’t think you have won with this, Ryuuen!”
+[says:housen-kazuomi] (p.182) “Remember, even if you win here, the next time I see you, I will kill you immediately.”
+[says] (p.182) “I am not going to swallow your revenge of the gorilla, but if you are going to do it....do it well It is not as simple as winning. Winning is not as simple as it seems. If you go ahead, but you end up being expelled, you will you lose. ”
+[says:housen-kazuomi] (p.182) “What is it ...!”
+[says] (p.182) “Huh. ...... it was a tough fight. ”
+[says] (p.182) “But he’s a great guy. ...... I really thought he was a monster.”
+[says:yamada-albert] (p.182) “You would be a fool if you faced him.” — Albert.
+[says] (p.182) “They have had to work a lot.” — Albert.
+[says:ishizaki-daichi] (p.182) “No, no, no, no! We were just supporting you! Hey, Albert!”
+[says:ishizaki-daichi] (p.182) “You should get moving. The teachers could arrive at any moment.”
+[says:ishizaki-daichi] (p.183) “What about Ryuen-san ...?”
+[says] (p.183) “Well, I’m in this state. Even if I wanted to continue, they wouldn’t let me do it easily.”
+[says] (p.183) “I’m going to retire together with Housen”
+[says:ishizaki-daichi] (p.183) “Are you sure with that?”
+[says] (p.183) “I have left everything they need in the hands of Katsuragi. Although the first three groups have become more difficult to win”
+[says] (p.183) “That is not the case.”
+[says] (p.183) “I’ll tell you soon. Go anyway now.”
+[trait] (p.179–183) He is battered — face rearranged, fists shredded — but his only regret is that Hōsen fought too well to make it fair; he retires with him to keep him from going after Ayanokōji ever again; he lies about the reason later — something else awaits back at school.
+[rel:housen-kazuomi] (p.179–183) He beats him in a 3-on-1; he retires with him.
+[rel:katsuragi-kouhei] (p.183) All their plans are in his hands now.
+[rel:ishizaki-daichi] (p.183) He sends them to the starting point with instructions to swap watches.
+[rel:yamada-albert] (p.183) He sends them to the starting point with instructions to swap watches.
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

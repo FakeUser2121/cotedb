@@ -83,14 +83,89 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.5–284 — Utomiya mentioned in passing
-[note] (p.5–284) Passing mentions; not a distinct scene presence.
-[mentioned] (p.5–284) Passing mention only.
+### y2v4 p.97, 166 — Utomiya mentioned in passing
+[mentioned] (p.97) “if it was one of the top ten, it was Ryuuen's second year group, Sakayanagi's group, or Utomiya's group and the others in first year.” — narration.
+[mentioned] (p.166) “The only thing we should avoid is getting in the way of our efforts to eliminate Ayanokouji-senpai. And the only person capable of eliminating Ayanokouji-Senpai, apart from Utomiya-kun, is Housen-kun...” — Yagami.
 
-<!-- walk: y2v4 Ch.6 → p.284 -->
+### y2v4 p.121 — Utomiya mentioned in passing
+[mentioned] (p.121) “Housen was summoned by Takahashi, Yagami, Tsubaki, and Utomiya...” — Nanase's report.
+[mentioned] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya.” — Nanase.
+[mentioned] (p.121) “But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.” — Nanase.
 
 
 
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.128–149 — Ch.5: The negotiation; the scheme's inside man
+[scene] (p.128) Utomiya, Class 1-C's planner, sends Katagiri with the walkie-talkie to Hōsen; he negotiates over the radio from behind the line; he insists no one must touch Katagiri.
+[says] (p.129) “... I didn't want to contact you. But I can't help but do it to carry out my plan.”
+[says] (p.130) “Have you forgotten the sixth day?”
+[says] (p.130) “I took that fact into account”
+[says] (p.130) “We should have a strategy to rescue the freshmen (1st year) soon.”
+[says:housen-kazuomi] (p.130) “Will you save the first years?”
+[says] (p.130) “Wait a minute. No one said anything about not cooperating.”
+[says] (p.130) “What the hell is ......?”
+[says:housen-kazuomi] (p.131) “I don't know what you're talking about, but what does it have to do with me?”
+[says] (p.131) “…Housen”.
+[says] (p.131) “I'm not going to get any help from you, am I?”
+[says] (p.131) “ Do not be silly. Who is going to bow down to you? ”
+[says] (p.132) “ Are you saying you don't trust Utomiya?”
+[says] (p.134) “It’s true. Some of them are already running out of food. ”
+[says] (p.135) “…I thought that making bad plays was pointless...”
+[says] (p.136) “There have been some students who have withdrawn so far this week, but so far there has been no group elimination, so it will be a difficult scenario for the rest of the week, and there could be an elimination of group somewhere.”
+[says:tsubaki-sakurako] (p.136) “That's why we have a group of reserve tablets.”
+[says] (p.137) “Wait, Tsubaki, Violence is forbidden as a general rule, would you act accordingly just to pay them 500,000? ”
+[says] (p.138) “…… No. Rather, I thought that making bad plays was pointless... I have been observing Ayanokouji in my own way, and it is not just a coincidence that he has been the subject of 20 million. I think it's because it's clearly a rarity that he was the goal. Even if you try to catch him within the rules, he will surely evade you. I have no right to stop you if you are willing to. ”
+[says] (p.139) “What will we do?”
+[says:housen-kazuomi] (p.139) “I'm not sure what to think, but I'm sure there's nothing wrong with following Tsubaki's strategy. In any case, she intended to crush Ayanokouji even if he was alone. ”
+[says:housen-kazuomi] (p.139) “We can do whatever we want, and the blame falls entirely on Tsubaki, the ringleader. It's too good to be true. ”
+[says] (p.139) “On the other hand, doesn't it seem suspicious that she sacrifices…... ?”
+[says:housen-kazuomi] (p.139) “Well, it's welcome. Anyway, that's it.”
+[says] (p.140) “What are you thinking? Tsubaki”
+[says] (p.140) “ No, I just wanted to talk to you before the operation took place. It may be the last conversation with Tsubaki so far. ”
+[says] (p.140) “Why didn't you use a walkie-talkie to communicate with me?”
+[says] (p.140) “I guess so. I didn't even know what he was thinking, but I don't trust him at all. ”
+[says] (p.140) “Do you want to see the screenshot I took of one when I ran the GPS search earlier?”
+[says] (p.141) “The arrangement is perfect, just as Tsubaki planned.”
+[says:yagami-takuya] (p.141) “What happens?.”
+[says] (p.141) “Yesterday you suddenly disappeared, and where were you?”
+[says] (p.142) “In my case it was just a mistake.”
+[says:tsubaki-sakurako] (p.142) “Hey you two, could you please not get in trouble at a time like this? After all, we are friends, right? ”
+[says:yagami-takuya] (p.142) “I too have stepped out of line and I apologize.”
+[says:tsubaki-sakurako] (p.142) “ A gift?”
+[says:yagami-takuya] (p.142) “ Of course, Tsubaki's strategy is perfect. It's an alignment that leaves no room for ants to crawl out of bounds. We are challenging with the greatest strength that we can prepare freshmen. So I don't doubt our success. But don't you think it's better to take the preventive measures you can? ”
+[says:tsubaki-sakurako] (p.143) “We do not know where the designated area of Ayanokouji-senpai is, so we cannot predict his movements.”
+[says:tsubaki-sakurako] (p.143) “You mean you know?”
+[says] (p.144) “How can you be sure that this tablet really is from the same box as Ayanokouji?”
+[says] (p.148) “Shouldn't he be there after all? I'm sure I can go one-on-one with Ayanokouji and win.”
+[says] (p.148) “ That is enough for a normal opponent. But Ayanokouji is a 20 million point opponent, so he is not an ordinary player. As long as Housen made the first move, he could not gain an advantage, he must make the moves he can. ”
+[trait] (p.128–149) He is the quiet chess master behind Tsubaki's plan — he encourages the violence but keeps his own hands clean; he measures Ayanokōji as a 20-million-point opponent; he is the only first-year Tsubaki trusts.
+[rel:tsubaki-sakurako] (p.128–149) His partner in the plan; they stay in sync on paper.
+[rel:housen-kazuomi] (p.128–133) He sent the walkie-talkie; warns Tsubaki to leave Katagiri alone.
+[rel:yagami-takuya] (p.141–149) His Class B ally; they treat each other as peers.
+
+### y2v4 p.151–190 — Ch.5: The collapse; the walkie-talkie lost
+[scene] (p.151) He is sent to hold position with the five frozen groups; the plan collapses; he drops the walkie-talkie after Kitou stops him; Tsubaki is forced to abandon the island.
+[says] (p.155) “It's true, but ......”
+[says:tsubaki-sakurako] (p.158) “What, did you say something?”
+[says:yagami-takuya] (p.160) “If so, I cannot accept the reward, I reject the 5 million points. Then I'll be watching from a distance. ”
+[says:yagami-takuya] (p.167) “Not a bad idea, don't you think, Tsubaki?”
+[says:tsubaki-sakurako] (p.167) “Hmm, not exactly. It is correct to say that we decided to carry out this operation because we were absolutely sure that Housen-kun would come on board. It seems that he was always willing to fight alone. Still, if they didn't accept the case, I would just let Utomiya-kun go. Either way, I made sure the atmosphere was perfect for one-on-one. Now it only remains for the two to face each other, win or lose, and everything will be fine.”
+[says] (p.185) “What are you doing……?”
+[says] (p.186) “What do you want on these roads?”
+[says] (p.188) “I'm not going to let you pass from here.”
+[says] (p.188) “I'll tell you. I'm not going to let you pass from here.”
+[says] (p.189) “Didn't you follow my instructions?”
+[says] (p.189) “.....The objective has been reached”
+[says] (p.189) “He went right in front of me ..”
+[says] (p.190) “I've gotten rid of that 2nd year weirdo. I should be pleased to see that Tsubaki is in charge.”
+[says] (p.190) “So, how was Tsubaki's plan?”
+[says] (p.190) “It failed as expected. Even though Ayanokouji-senpai didn't bother to give advance notice, I'm sure it was an old-fashioned strategy that was never going to be successful from the beginning.”
+[says] (p.190) “I have to go.” Without inadvertently prolonging the matter, Utomiya turns off the walkie-talkie
+[says] (p.190) “Very good.”
+[rel:tsubaki-sakurako] (p.185–190) His walkie-talkie is lost to Kitou; she knows her plan has failed.
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

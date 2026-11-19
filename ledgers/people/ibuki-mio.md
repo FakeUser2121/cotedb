@@ -1011,24 +1011,223 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.67–78 — Ibuki alone and dehydrated; trades with Ayanokōji
-[scene] (p.67) Encountered alone, eating homemade jerky (Class 2-B's jerky strategy) — exhausted, dark circles, out of water for over a day.
-[says] (p.67) "What's it matter to you? It's none of your business."
-[says] (p.68) "Just Horikita. You heard me say I wouldn't lose to her, right?"
-[says] (p.68) "Ain't no way I'm gonna talk with my enemies."
-[says] (p.68) "I don't think of my classmates as 'friends'."
-[says] (p.70) "How many points you got right now?"
-[says] (p.71) "When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her."
-[says] (p.72) "Haaa? You tryna pull somethin'?"
-[says] (p.72) "I'll admit I can't beat you, sure, but one of these days, I swear I'm gonna get the satisfaction of kickin' your teeth in."
-[says] (p.74) "…A full day… and then some."
-[says] (p.75) "I'll handle it tomorrow, and if push comes to shove I'll even go back to the starting area, so drop it and leave me alone."
-[says] (p.77) "I'm not gonna thank you if that's what you're after."
-[says] (p.77) "So you're sayin' for me to give up on scoring points? You've gotta be kidding me."
-[says] (p.77) "I'm not puttin' in all this work 'cause I don't wanna get expelled. My only goal here is beating Horikita."
-[trait] (p.67–78) Stubborn, isolated and pushing past her limits — refuses to admit dehydration or rest, suspicious of Ayanokōji (thinks Horikita put him up to it), but ultimately trades half her food for water; driven solely by her obsession with beating Horikita, she rejects his advice to rest; her guardedness and irrationality are slowly destroying her.
-[rel:ayanokouji-kiyotaka] (p.67–78) Deeply suspicious of him, but accepts the water-for-food trade; misreads his concern as manipulation.
-[rel:horikita-suzune] (p.68–77) Her obsession and sole goal — to beat Horikita, whom she calls a "bitch."
+### y2v4 p.64–65, 81, 123, 273–275 — Ibuki mentioned in passing
+[mentioned] (p.64) “Apparently, the owner of the lone tent just across the way was none other than Ibuki.” — Ayanokōji.
+[mentioned] (p.65) “Upon looking inside, I was met with the sight of a seated Ibuki who seemed to be chewing on something.” — Ayanokōji.
+[mentioned] (p.81) “By the time I had finished getting ready and stepped foot out of my tent, Ibuki was already nowhere to be seen.” — Ayanokōji.
+[mentioned] (p.123) “I think Horikita and Ibuki are doing better than me.” — Ayanokōji.
+[mentioned] (p.273) “It's a rare combination Horikita. Strolling with Ibuki, is it going to rain hail today?” — Kiryūin.
+[mentioned] (p.274) “Why are you and Ibuki here? There is no homework around, right?” — Ayanokōji.
+[mentioned] (p.275) “I'm not sure, but through this exam Horikita and Ibuki have become friends ......?” — Ayanokōji.
+
+### y2v4 p.67–70 — Ch.3: Ibuki, dehydrated and alone
+[scene] (p.67) On day nine he finds her one-man tent pitched in a clearing; inside, Ibuki sits chewing on jerky — Class 2-B’s class-wide jerky strategy (everything handmade, cheap, shelf-stable), fresh meat somehow processed first.
+[says] (p.67) “What’s it matter to you? It’s none of your business.”
+[says:ayanokouji-kiyotaka] (p.67) “Jerky…? That wasn’t included in the Uninhabited Island Manuel they handed out to us before the exam, though?” — his line about the Manual.
+[says:ayanokouji-kiyotaka] (p.68) “How many people have you spoken with since the exam started?”
+[says] (p.68) “…Just Horikita. You heard me say I wouldn’t lose to her, right? You were there.”
+[says:ayanokouji-kiyotaka] (p.68) “In other words, you’re saying you haven’t had a proper conversation with someone since day one?”
+[says:ayanokouji-kiyotaka] (p.68) “You should try and find someone to talk to, even if only a little bit.”
+[says] (p.68) “Ain’t no way I’m gonna talk with my enemies.”
+[says:ayanokouji-kiyotaka] (p.68) “Then talk with a classmate. If you wander around long enough, you’re sure to come across someone.”
+[says] (p.69) “I don’t think of my classmates as ‘friends’.”
+[says] (p.70) “Get out already.”
+[note] (p.67) The Uninhabited Island Manual listed no jerky — the meat had to be fresh before dehydration, meaning a group of Class 2-B was tasked with making it for the class; premade dried meat is too expensive at school prices.
+[trait] (p.67–70) Dark circles under her eyes; nine days without a real conversation since day one (only Horikita); cracked lips; staring wreck — the exam’s pressure is eating her alive.
+[rel:horikita-suzune] (p.67–70) Her sole human contact; the benchmark she refuses to lose to.
+[rel:ayanokouji-kiyotaka] (p.67–70) He warns her off in friendly fashion; she treats him as Horikita’s errand boy and drives him off.
+
+### y2v4 p.70–74 — Ch.3: The pulse check; the Warning Alert
+[scene] (p.70) She emerges from her tent, wobbling, hands in pockets, and follows him out to demand his point total.
+[says] (p.70) “How many points you got right now?”
+[says:ayanokouji-kiyotaka] (p.70) “We’re mutual enemies, you do know that right?” — his line.
+[says] (p.70) “So you won’t tell me.”
+[says] (p.71) “…Whatever. It was a waste of time to bother with askin’ you anyway.”
+[says:ayanokouji-kiyotaka] (p.71) “Fair enough. Besides, your true target here is Horikita, right?”
+[says] (p.71) “When you next see that bitch, do me a solid and tell her that I’ll absolutely never lose to her.”
+[says:ayanokouji-kiyotaka] (p.71) “That’s fine and all, but I’m probably not the one you should be giving the middle finger to.”
+[says] (p.71) “You, her, same difference. After all, you two are on real good terms with each other.”
+[says] (p.72) “Haaa? You tryna pull somethin’?”
+[says] (p.72) “I’ll admit I can’t beat you, sure, but one of these days, I swear I’m gonna get the satisfaction of kickin’ your teeth in.”
+[says] (p.72) “So? Did Horikita put you up to this? Tryna get in my way?”
+[says:ayanokouji-kiyotaka] (p.72) “Your pulse is racing.”
+[says:ayanokouji-kiyotaka] (p.73) “The inside of your mouth looks dry too, not to mention how cracked your lips are. You’re obviously dehydrated.”
+[says] (p.73) “I’m not all that thirsty… anymore.”
+[says:ayanokouji-kiyotaka] (p.73) “Anymore? So then, you’re saying you were thirsty at one point?”
+[says] (p.73) “Mind your own business. There ain’t anything wrong with me.”
+[says:ayanokouji-kiyotaka] (p.74) “How long have you been out of water?”
+[says] (p.74) “…A full day… and then some.”
+[says] (p.74) “Nope. I’ve been resting here all day today.”
+[says:ayanokouji-kiyotaka] (p.74) “What an obvious lie. There were no GPS signals anywhere near here this morning.”
+[says] (p.74) “You did a GPS Search?”
+[says] (p.74) “…It did about an hour ago. That’s why I reluctantly decided to turn in early for the night.”
+[note] (p.74) He bluffs a GPS search — he never ran one; he just knows she wouldn’t rest here voluntarily given Horikita; her first Warning Alert went off about an hour before he arrived.
+[trait] (p.70–74) Seethes at Horikita; trusts nobody as Horikita’s ally; her Warning Alert fired without her drinking a drop since the day before; her body is shutting down.
+[rel:ayanokouji-kiyotaka] (p.70–74) She assumes he’s acting on Horikita’s orders; cannot be reached by reason; her pulse betrays the dehydration.
+
+### y2v4 p.75–78 — Ch.3: The water-for-food trade
+[scene] (p.75) He fetches two 500ml bottles from his own cache and proposes a fair trade; she gags down half a bottle before he finishes the sentence; he demands half her remaining food.
+[says:ayanokouji-kiyotaka] (p.75) “If you don’t rehydrate at some point, it’ll keep ringing even if you rest.”
+[says] (p.75) “I’ll handle it tomorrow, and if push comes to shove I’ll even go back to the starting area, so drop it and leave me alone.”
+[says:ayanokouji-kiyotaka] (p.75) “Trade me.”
+[says:ayanokouji-kiyotaka] (p.75) “It just so happens that I’m running short on food. On the other hand, I have a bit of an oversupply of water. I’m asking you to negotiate with me since I think we can make a fair trade.”
+[says:ayanokouji-kiyotaka] (p.76) “How about it? I’ll say it again just to be sure, but I’m looking to make a fair trade here. You’ll have to give me a suitable amount of food in exchange.”
+[says] (p.76) “Who the hell do you think you are to─”
+[says:ayanokouji-kiyotaka] (p.76) “Feel free to say no, but I won’t be giving you a chance to change your mind.”
+[says:ayanokouji-kiyotaka] (p.76) “If you retire due to dehydration like this, you’ll definitely lose to Horikita. In fact, I met with Horikita a little while ago. Her complexion was perfectly fine, and she didn’t seem to be having any problems with water or food either.”
+[says] (p.76) “I get it… I’ll trade with you. But, how much do you want from me?”
+[says:ayanokouji-kiyotaka] (p.76) “Half of your remaining food. That should be enough.”
+[says] (p.76) “Only that much?”
+[says:ayanokouji-kiyotaka] (p.76) “It’s at least better than sustaining myself by eating random weeds.”
+[says] (p.77) “I’m not gonna thank you if that’s what you’re after. It’s supposed to be a fair trade, remember?”
+[says] (p.77) “Then whatta you want?”
+[says:ayanokouji-kiyotaka] (p.77) “If you’re not doing too badly with points, how about you spend most of the day tomorrow resting? That, or switch to a strategy where you only focus on acquiring food and water?”
+[says] (p.77) “So you’re sayin’ for me to give up on scoring points? You’ve gotta be kidding me.”
+[says] (p.77) “I’m not puttin’ in all this work ‘cause I don’t wanna get expelled. My only goal here is beating Horikita.”
+[says] (p.78) “I’ve got nothin’ more to say to you.”
+[trait] (p.75–78) Her last reserves go into the trade; she downs half a bottle before answering; she flares at the suggestion of rest — her only goal is beating Horikita, not survival; she storms off without a word when he tries once more.
+[rel:ayanokouji-kiyotaka] (p.75–78) He trades two water bottles for half her jerky — any separation from Horikita is the reason he offers; she suspects a trick to her being Horikita’s debt.
+[rel:horikita-suzune] (p.75–78) The single reason he uses to move her; he tells her Horikita is fine, supplied and out of food worries.
+
+### y2v4 p.79–80 — Ch.3: The backpack check
+[scene] (p.79) Next morning, she is caught rummaging through his backpack — checking whether the trade was fair; impossible third-party tablet access; he lets it slide.
+[says:ayanokouji-kiyotaka] (p.79) “Were you trying to sneak a peek at my tablet, or was there something else you wanted?”
+[says] (p.79) “I wouldn’t do somethin’ like that! I just… I just wanted to make sure our trade was actually fair, that’s all.”
+[says:ayanokouji-kiyotaka] (p.79) “You’ve only got one bottle of water left in there, and you’ve already drunk some of it! I thought you said you had too much water?”
+[says:ayanokouji-kiyotaka] (p.80) “So what, were you trying to help me out to get me to owe you a favor?”
+[says:ayanokouji-kiyotaka] (p.80) “If you hadn’t gone through my backpack, you never would’ve felt like you owed me anything though…”
+[says:ayanokouji-kiyotaka] (p.80) “In other words, I’m telling you that the truth doesn’t matter. It was a fair trade either way.”
+[says] (p.80) “I ain’t convinced, but… I get it. If that’s the way it is, I’m not gonna give any water back to you.”
+[says:ayanokouji-kiyotaka] (p.80) “If I did this to have you owe me a favor, would you pay it back?”
+[says] (p.80) “No way.”
+[note] (p.80) She leaves before dawn — gone by the time he wakes; her signal is not observed. He notes she clearly doesn’t trust the trade, but it was fair.
+[rel:ayanokouji-kiyotaka] (p.79–80) She checks his backpack covertly; he accepts the mistrust as mutual after he opened hers without permission.
+
+
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+### y2v4 p.216–226 — Ch.6: She catches Horikita
+[scene] (p.216) At I4/I3 border she spots Horikita ahead and runs after her — she used 3 GPS searches; she demands Horikita's score; she declares her own first: 131 points.
+[says:horikita-suzune] (p.216) “…Why are you here?”
+[says] (p.216) “Ah! Finally caught up! Wait, Horikita!”
+[says] (p.217) “Score, show me the score.”
+[says:horikita-suzune] (p.217) “Wait, what are you on about?”
+[says] (p.217) “Didn’t I say? I’m not going to lose to you in this special exam.”
+[says:horikita-suzune] (p.217) “There’s no need to confirm it now though? The exam isn’t over yet.”
+[says] (p.217) “After the exam is over, nobody will know if the school will publish all the scores, right?”
+[says:horikita-suzune] (p.218) “Maybe so. After all, it’s only the top and bottom ranking groups that really matter.”
+[says] (p.218) “So, let me confirm it now.”
+[says:horikita-suzune] (p.218) “This is so stupid, I can’t believe it… You purposely came here for this, seriously? How many times did you use GPS search?”
+[says] (p.218) “… 3 times. Because you were right next to me, I thought this would be the only time where I could do this.”
+[says:horikita-suzune] (p.218) “Poor you.”
+[says] (p.218) “I don’t need your sympathy, tell me your score, I’ve got 131 points!”
+[says:horikita-suzune] (p.218) “Thanks for telling me so casually. But I want to say two things. First, I can’t guarantee that you’re telling me your real score.”
+[says] (p.218) “Huh? Then why don’t you look at it?”
+[says:horikita-suzune] (p.218) “Second, even if you disclose your real score, I won’t tell you my score.”
+[says] (p.218) “Huh? What did you just say? Are you saying the same thing as that bastard?”
+[says:horikita-suzune] (p.218) “Although we’re both 2nd years, we’re enemies. I don’t want to risk leaking information.”
+[says] (p.219) “I know now. You’re scared after hearing my score? You’re losing, right?”
+[says:horikita-suzune] (p.219) “As for whether I’m winning or losing, I’m not going to answer that either.”
+[says] (p.219) “How about you just admit it? Admit that you can’t beat my score.”
+[says:horikita-suzune] (p.219) “Fine then, just go back to your exam.”
+[says] (p.219) “… You’re so irritating. Come on, just show me your score!”
+[says:horikita-suzune] (p.219) “I’ve conceded defeat, aren’t you satisfied?”
+[says] (p.219) “I want to know your real score. I want to know by how big of a margin I beat you.”
+[says] (p.219) “How dull…”
+[says] (p.219) “It’s important to me.”
+[says:horikita-suzune] (p.219) “Sorry, I’m in a hurry.”
+[says] (p.219) “Are you running away?”
+[says:horikita-suzune] (p.219) “I’m rushing to get to my designated area, so it would be a bit strange to describe it as running away.”
+[says] (p.220) “What I want to know now is your score. If I know that, I will go back to my designated area too.”
+[says:horikita-suzune] (p.220) “…I lost to you.”
+[says] (p.220) “Ah, admit it? You finally admit to losing?”
+[says:horikita-suzune] (p.220) “No, I mean I lost to your persistence. My score is 145 points. It’s a pity that even though you came here in person, I still win.”
+[says] (p.224) “Are you guys ever going to stop talking?”
+[says] (p.224) “Ah, seriously? Well that sucks.”
+[says:horikita-suzune] (p.225) “If you’re satisfied now, go along to your designated area. On the last day, the score you’ll get is twice as high, so you still have a chance to bounce back.”
+[says] (p.225) “Yeah, but… What do you mean by abandoning the designated area?”
+[says] (p.225) “Indeed, the winner and loser will be decided at the end of this uninhabited island exam. If you say you’re going to stop now, I won’t hesitate to make a comeback for good.”
+[says:horikita-suzune] (p.225) “Ibuki, this is a great opportunity. I’m in a state where I can’t score right now.”
+[says] (p.225) “Yeah, but… What do you mean by abandoning the designated area?”
+[note] (p.225) She learns Horikita is giving up the designated area — she can win after all if Horikita stops trying? No — she sees the situation and accepts it.
+[rel:horikita-suzune] (p.216–226) Her rival; she blindsides her with GPS searches and scheme-talk; Horikita is unimpressed.
+
+### y2v4 p.227–251 — Ch.6: The 2-on-1 with Horikita
+[scene] (p.237) Amasawa appeared and beat Horikita senseless; Ibuki returns at the last second and grabs her fist; they form a group of two to protect each other; Amasawa plays with them.
+[says:amasawa-ichika] (p.237) “Ahah…. Do you call that fighting?”
+[says] (p.237) “The one who beat you is me, and so I don’t want you losing to some first year I don’t know in front of me.”
+[says:amasawa-ichika] (p.237) “I’m Amasawa Ichika. Please remember my name, Ibuki-senpai.”
+[says] (p.237) “I’ve got a bad memory. If you want me to remember, you’d better impress me a little, yeah?”
+[says:amasawa-ichika] (p.237) “Ahaha, that seems a little interesting.”
+[says] (p.237) “I’ll have fun with her, so you go where you want to go.”
+[says:amasawa-ichika] (p.237) “What are you talking about? You worked hard in this special exam just to beat me, right?”
+[says] (p.237) “Aren’t you going to give up on the designated area as well? In that case, even if I comeback and get the W, there’s no point in it.”
+[says:horikita-suzune] (p.238) “She’s incredibly powerful. You might regret it later, is that okay?”
+[says] (p.238) “What? Are you saying that I’ll lose?”
+[says:horikita-suzune] (p.238) “She’s a formidable opponent.”
+[says:amasawa-ichika] (p.238) “I don’t see me losing to Ibuki-senpai at all.”
+[says] (p.238) “I have faith that I’m stronger.”
+[says:amasawa-ichika] (p.238) “Who’s going to fight? Hurry up and decide~~”
+[says] (p.238) “I will fight her.”
+[says] (p.238) “This is my fight. It’s none of your business.”
+[says] (p.238) “Talking about how strong your opponent is and now you’re messing around like this? Did you bang your head or something?”
+[says:horikita-suzune] (p.239) “I’ve thought about it, and if you ask me, you can’t win against her.”
+[says] (p.239) “Stop joking around. Don’t decide before it even happens.”
+[says:horikita-suzune] (p.239) “That’s the truth. I couldn’t do anything, so there’s no way you can win against her.”
+[says:horikita-suzune] (p.239) “If you don’t want to lose, if you want to break this stalemate, show me your resolve. Form a group with me. If something happens to one of us and have to withdraw, the group will still survive. That’s the only way to effectively prevent the withdrawal.”
+[says] (p.239) “Are you kidding me? Why would I form a group with someone like you?”
+[says:horikita-suzune] (p.239) “Didn’t I just say? I need you to come to an understanding. If you haven’t yet, then don’t join this fight.”
+[says] (p.239) “So annoying…”
+[says:horikita-suzune] (p.239) “It’s alright if you don’t like it, but I’d like to rely on you if you’re going to join the fight.”
+[says] (p.239) “This sucks. But it wouldn’t be much fun if you’ll be forced to drop out because of some 1st years.”
+[says:amasawa-ichika] (p.241) “It’s not a bad strategy. If separate students form a group, it’s true that if something happens to one of them, they can still avoid being expelled.”
+[says:amasawa-ichika] (p.241) “But there’s just one thing you thought incorrectly, Horikita-senpai.”
+[says:horikita-suzune] (p.241) “Incorrect? What exactly do you mean?”
+[says:amasawa-ichika] (p.241) “It’s alright for one person to withdraw, which means, it’s okay for me to break one of you.”
+[says:amasawa-ichika] (p.241) “So which one should I destroy first—?”
+[says:horikita-suzune] (p.242) “Let’s go, Ibuki! You go to the left!”
+[says] (p.242) “Don’t order me around!”
+[says:amasawa-ichika] (p.243) “Alrightly, let’s stop for a while.”
+[says] (p.243) “What’s going on, this 1st year….!”
+[says:horikita-suzune] (p.243) “Seriously…”
+[says:horikita-suzune] (p.243) “Ibuki, don’t get too careless.”
+[says] (p.243) “Let go of me!”
+[says:amasawa-ichika] (p.244) “Didn’t I tell you to stop?”
+[says:ibuki-mio] (p.244) “Ah!!”
+[says:amasawa-ichika] (p.245) “Okay, let’s start over.”
+[says:amasawa-ichika] (p.245) “Aren’t you the same as me?”
+[says:horikita-suzune] (p.244) “I’m not like you, I went for it knowing that it would turn out that way… In order to reassess my strategy.”
+[says:amasawa-ichika] (p.245) “Excuses, how lame.”
+[says] (p.246) “Huh? Impossible.”
+[says:horikita-suzune] (p.246) “If you don’t then there’s no point. You should understand how strong Amasawa-san is. Neither you or I cannot beat her alone.”
+[says] (p.246) “Even if that’s the case, I won’t follow your instructions.”
+[says:horikita-suzune] (p.245) “Now that you’re my partner, follow my instructions. You can do that, right?”
+[says:horikita-suzune] (p.246) “Your fighting sense is comparable to me. No, I think you are slightly better than me.”
+[says] (p.246) “Huh, so sudden. So you gonna admit losing?”
+[says:horikita-suzune] (p.246) “However, your fighting style is specialized for one-on-one fights, and I am more familiar with how to fight with strong opponents two-on-one. The word cooperation may be unsuited for you, but lend me your strength.”
+[says:horikita-suzune] (p.246) “You are equal or stronger than me in terms of fighting, but that’s it. In other areas, we are not on the same level. You are not good at academics, you can’t lead your class, and you can’t cooperate with others. I don’t want to be mean, but calling yourself my rival is just you being narcissistic.”
+[says:horikita-suzune] (p.246) “It’s about time for you to change yourself as well, isn’t it? Mio Ibuki-san.”
+[says] (p.246) “…What was that all about?”
+[says:horikita-suzune] (p.246) “If you keep fighting alone like this, you will surely be in danger of expulsion at some point.”
+[says] (p.246) “Not a big deal, if that happens.”
+[says:horikita-suzune] (p.246) “Which means it’ll be your complete loss to me. Is that fine?”
+[says] (p.246) “Huh?”
+[says:horikita-suzune] (p.246) “If you get expelled halfway, you can’t be considered my rival. You need to persist til the very end, and grow into a rival that can pose a threat to me.”
+[says] (p.246) “Arghh, I know, I know, so shut up. I will only listen to you here. That’s enough, right?”
+[says:horikita-suzune] (p.246) “Good.”
+[says] (p.246) “So, what should I do?”
+[says:horikita-suzune] (p.247) “Like before, we attack Amasawa-san at the same time. However, actually hitting her is of secondary importance. I want you to dodge her attacks, make sure not to get caught, and continue to attack.”
+[says] (p.247) “Hitting her is of secondary importance? What use would that be?”
+[says:horikita-suzune] (p.247) “If my guess is correct…that will be our chance to win. When I give you the signal, attack with all you’ve got.”
+[says:amasawa-ichika] (p.251) “What are you talking about?”
+[says:amasawa-ichika] (p.251) “It’s all over. If you think I’m lying, go ahead and see for yourself.”
+[says:horikita-suzune] (p.252) “I’m thinking, if Ayanokouji’s in danger, I can taunt him next to you.”
+[says:horikita-suzune] (p.251) “Yeah, I’ll go.”
+[rel:horikita-suzune] (p.216–252) Her archenemy; she fights her side by side.
+[rel:amasawa-ichika] (p.237–251) The first-year who fights them both and then walks away laughing; she shields the pre-fight bruise knowledge with a grin.
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

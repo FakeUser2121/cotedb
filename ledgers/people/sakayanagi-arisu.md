@@ -1193,15 +1193,109 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.42, 48 — Sakayanagi mentioned in passing
+[mentioned] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
+[mentioned] (p.48) “7th Place: Second-Year Group Sakayanagi – 127 Points” — the printed top-ten.
+
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.55–57 — Sakayanagi mentioned in passing
+[mentioned] (p.56) “Apparently it had gone something like this: somebody from Class 2-A had reached out to Horikita while she was near the starting area earlier today, and they had urged her to meet with Sakayanagi, whereupon she was informed of Komiya and Kinoshita’s retirement.”
+[mentioned] (p.56) “Yes. To be exact, I heard about it today.” — Horikita to Ayanokōji.
+[note] (p.57) She and Horikita negotiated the rescue terms after she relayed the retirements and his proposed strategy for the second-years.
+
+### y2v4 p.59–97 — Sakayanagi mentioned in passing
+[mentioned] (p.59) “Tomorrow, my goal was to maintain an ideal rank and, if possible, meet up with Sakayanagi once again.” — Ayanokōji.
+[mentioned] (p.60) “make it back to the starting area and meet up with Sakayanagi.” — Ayanokōji.
+[mentioned] (p.61) “After deciding to put aside the whole situation with Sakayanagi for the time being, I” — Ayanokōji.
+[mentioned] (p.86) “being a C class sophomore it should now have a deep connection to Class A's Sakayanagi.” — Ayanokōji, hearing the lost girl in the dark.
+[mentioned] (p.88) “Ichinose's class now cooperates with Sakayanagi's class. Of course, there are some friendship groups that transcend these borders, but most of them are created by the agreements of the central nucleus.” — Ayanokōji.
+[mentioned] (p.97) “if it was one of the top ten, it was Ryuuen's second year group, Sakayanagi's group, or Utomiya's group and the others in first year.” — narration.
+
+
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+### y2v4 p.93–94 — Sakayanagi mentioned in passing
+[mentioned] (p.93) “If you don't mind, I would like to have a little conversation with Sakayanagi. I would like to ask her if any of the class D students she dealt with have returned to the starting point.” — Ayanokōji asks Takemoto.
+[mentioned] (p.94) “Okay then. Also, Sakayanagi asked me to give this to you,Ayanokoji.” — Takemoto hands over her walkie-talkie.
+
+
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+### y2v4 p.159–165 — Ch.5: The second-grade countermove
+[scene] (p.159) On the morning of day thirteen, with Tsubaki setting her plan in motion, Sakayanagi — sipping water, tablet in hand — has already dispatched five groups to freeze the first-years; the night-10 call was her preparation.
+[says] (p.159) “It seems they are on the move.”
+[says] (p.159) “It seems that the waiting time is over, so let's get started.”
+[says] (p.160) “In the last 12 days, the interior of the uninhabited island has undergone a gradual change in terrain. Do you know what that is?”
+[says] (p.160) “Students and teachers commute around the uninhabited island on a daily basis. In fact, don't you think Tsukasaki-kun uses it naturally to choose a safe and fast route? ”
+[says] (p.160) “There is a more important meaning. Because this is how we caught the group that was trying to protect Ayanokouji-senpai. ”
+[says] (p.160) “Takuya Yagami-kun? Riku Utomiya-kun? and Sakurako Tsubaki-san? I wonder who my adversary is. Or is it the three of them? ”
+[says:ayanokouji-kiyotaka] (p.161) “It seems that the classes are working well together.”
+[says:ayanokouji-kiyotaka] (p.161) “Yes. I was able to contact Ryuuen-kun and Horikita-san. We are progressing smoothly. I haven't heard the details, but it seems that Takemoto-kun and the others were taken care of. ”
+[says:ayanokouji-kiyotaka] (p.161) “Your group is also making great strides, now you are in fifth place. You are in a position where you can aim high enough.”
+[says:ayanokouji-kiyotaka] (p.161) “Not that there are no worries at all.”
+[says:ayanokouji-kiyotaka] (p.162) “Have you seen Ichinose-san?”
+[says] (p.162) “No, I have not seen her even once during this exam. What happened?”
+[says:ayanokouji-kiyotaka] (p.162) “I got a call saying she was acting a little strange. She has been lost for several days and I am worried ... ”
+[says] (p.162) “So, what do you want from me?”
+[says:ayanokouji-kiyotaka] (p.162) “About the White Room.”
+[says] (p.163) “It would have been better if you had told me before.”
+[says:ayanokouji-kiyotaka] (p.163) “Because none of it was safe.”
+[says] (p.163) “So you want me to destroy that person named Amasawa Ichika?”
+[says:ayanokouji-kiyotaka] (p.163) “Huh?..”
+[says:ayanokouji-kiyotaka] (p.163) “Actually there is one more thing, I have another big problem.”
+[says:ayanokouji-kiyotaka] (p.163) “I mean, in the near future, the first-year students will take action against Ayanokouji-kun, right?”
+[says:ayanokouji-kiyotaka] (p.163) “That's what I mean. I want to ask Sakayanagi to take care of it. ”
+[says] (p.163) “But if it's the same White Room student, I don't think it's possible for someone else to chase Ayanokouji-kun.”
+[says:ayanokouji-kiyotaka] (p.163) “The first years will probably try to force their entry. The most effective way to get rid of me is to exploit the fact that I am in a group completely alone. If they are in a position to do so, they will be able to block by force the assignment and, if they want to go further, obstruct movement to the designated area. ”
+[says:ayanokouji-kiyotaka] (p.163) “I'm sure you would be glad to hear it. Besides, Tsukishiro may be planning something .. If possible, I want to focus on that. ”
+[says] (p.163) “I understand the situation very well”
+[says:ayanokouji-kiyotaka] (p.163) “It is inevitable that Sakayanagi's workload will increase.”
+[says] (p.163) “I understand the situation very well”
+[says] (p.164) “Don't worry. We already know all the scores for the group to which Class A belongs.”
+[says:ayanokouji-kiyotaka] (p.164) “So ... you've had very close contact with them.”
+[says] (p.164) “It is very important to know which groups have problems and which groups have plenty of space. There are a number of groups that have some room for growth, but not enough to make it to the top 10. So even if you use GPS search a few times per group, you can still get to the last day in plenty of time. ”
+[says] (p.164) “All I have to do is stop the first years who are heading to Ayanokouji-kun, right?”
+[says] (p.164) “It would have been a bit boring exam just to help you complete the task, and besides, this story seems like something that could benefit me.”
+[says:ayanokouji-kiyotaka] (p.164) “What do you mean?”
+[says] (p.164) “It means that it is too big a commission for me to pay Takemoto-kun's debt .. In other words, it will be a new ' favor ', right?”
+[says:ayanokouji-kiyotaka] (p.164) “I know it hurts to hear this, but if you get rid of them, I'll owe you a ' favor '”
+[says] (p.164) “It's decided. Well, then I'll get to work on my preparations.”
+[says:ayanokouji-kiyotaka] (p.164) “Oh, and if you don't mind, can I keep this walkie talkie as a loan?”
+[says] (p.164) “Of course I was going to do it anyway. It's easier to get things done if we can get in touch. Then, could you return the walkie-talkie to Takemoto-kun? I will tell the situation and tell him to give it to Ayanokouji-kun ”
+[says] (p.165) “Well, now we have arrested the five suspicious groups. Are we trying to identify the person who planned this attack? ”
+[note] (p.161–164) The night-10 call (Takemoto's group called her about Ayanokōji's request) becomes the day-13 countermeasure; she freezes the three first-year masterminds' five groups with GPS lock; she lends him the walkie-talkie and demands the debt be repaid with a "new favor" — the White Room story.
+[trait] (p.159–165) Turns every transaction into an asset; she enjoys the game; she gets the three first-year masterminds' names handed to her on a plate.
+[rel:ayanokouji-kiyotaka] (p.161–165) Does the countermeasure for him as a favor-favor; she relishes it.
+[rel:takemoto-shigeru] (p.161–164) Carries her channel into Ayanokōji's group.
+[rel:kitou-hayato] (p.185–189) She sends him to unmask the commander.
+
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+### y2v4 p.191–280 — Sakayanagi mentioned in passing
+[mentioned] (p.191) “Sakayanagi reported that she had left immediately in the afternoon...” — Ayanokōji.
+[mentioned] (p.192) “Good morning, Ayanokouji-kun. You had a lot of problems yesterday.” — Sakayanagi.
+[mentioned] (p.193) “The first designated area is H3. There is not much time, but I think I can do it.” — Sakayanagi.
+[mentioned] (p.195) “According to Sakayanagi, Ichinose should have been in E3 now.” — Ayanokōji.
+[mentioned] (p.270) “The walkie-talkie that Sakayanagi lent me was useful to the end.” — Ayanokōji.
+[mentioned] (p.280) “The students who were sent to detain the freshmen were all outside of Sakayanagi's group.” — narration.
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
-[says] (p.277) "Of course, Ryuuen-kun. Please tell me when the time comes."
-[says] (p.277) "I told him that if he asked me for a favor, I would grant it to him."
-[says] (p.277) "that wish is like strangling yourself in the near future."
-[says] (p.278) "I get it. Ayanokouji-kun now wants to lead a quiet life as much as possible."
-[says] (p.278) "Do not rush. We still have almost a year and a half of school life left."
-[trait] (p.276–278) Made a dangerous open-ended promise to Ryūen (a "favor" that may "strangle" the asker), which secured his help against Hōsen; placed 3rd with her seven-member group (261 pts), having kept her members clear of the dangerous assignments; thanks Ayanokōji and looks forward to a future rematch, telling him not to rush.
+[says] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.”
+[says] (p.277) “I told him that if he asked me for a favor, I would grant it to him.”
+[says] (p.277) “that wish is like strangling yourself in the near future.”
+[says] (p.278) “I get it. Ayanokouji-kun now wants to lead a quiet life as much as possible.”
+[says] (p.278) “Do not rush. We still have almost a year and a half of school life left.”
+[trait] (p.276–278) Made a dangerous open-ended promise to Ryūen (a favor that may strangle the asker), which secured his help against Hōsen; placed 3rd with her seven-member group (261 pts), having kept her members clear of the dangerous assignments; thanks Ayanokōji and looks forward to a future rematch, telling him not to rush.
 [rel:ryuuen-kakeru] (p.276–277) Her promise bought his cooperation against Hōsen.
 [rel:ayanokouji-kiyotaka] (p.277–278) Thanks him for the GPS-timing help; promises a future chance to compete.
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

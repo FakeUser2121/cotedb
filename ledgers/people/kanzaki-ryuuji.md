@@ -649,13 +649,11 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.49 — Kanzaki mentioned in passing
-[scene] (p.49) Named in the context of the island exam.
-[note] (p.49) Passing mention; not a distinct scene presence.
-[mentioned] (p.49) Passing mention only.
+### y2v4 p.49 — Kanzaki in the printed top-ten
+[mentioned] (p.49) “9th Place: Second-Year Group Kanzaki – 104 Points” — the printed top-ten.
 
-<!-- walk: y2v4 Ch.1 → p.49 -->
 
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

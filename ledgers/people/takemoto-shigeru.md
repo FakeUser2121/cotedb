@@ -47,13 +47,39 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.87–94, 160–164 — Takemoto mentioned in passing
-[scene] (p.87–94) Named in the context of the exam.
-[scene] (p.160–161) Named in the context of the exam.
-[scene] (p.164) Named in the context of the exam.
-[note] (p.87–94, 160–164) Passing mentions; not a distinct scene presence.
-[mentioned] (p.87–94, 160–164) Passing mention only.
+### y2v4 p.87–94 — Ch.3: The walkie-talkie lender
+[scene] (p.87) He has been with Shiranami and Kobashi since the group scattered in the dark; he and Kobashi come searching with their entire luggage; he lends his walkie-talkie and bridges Ayanokōji to Sakayanagi.
+[says] (p.93) “What? A walkie-talkie? I have one, but ...”
+[says] (p.93) “I'll help you with that. Give me a minute.”
+[says] (p.94) “You saved me; I got the information I needed from Sakayanagi.”
+[says] (p.94) “Okay then. Also, Sakayanagi asked me to give this to you,Ayanokoji.”
+[says] (p.94) “No need, and again Ayanokouji-kun thank you for helping us.”
+[note] (p.93–94) The school walkie-talkies are digital with Confidential Mode; he makes the call for Ayanokōji; Sakayanagi answered and asked him to hand the walkie-talkie over to Ayanokōji-kun directly.
+[rel:ayanokouji-kiyotaka] (p.93–94) Hands him the walkie-talkie Sakayanagi donated.
+[rel:sakayanagi-arisu] (p.93–94) The intermediary; she answers and instructs via Confidential Mode.
 
-<!-- walk: y2v4 Ch.4 → p.164 -->
+### y2v4 p.88–89 — Takemoto mentioned in passing
+[mentioned] (p.88) “Nothing happened. Instead, Kokobashi and Takemoto are fine right?” — Ayanokōji asks Shiranami.
+[mentioned] (p.88) “There is a possibility that Takemoto will go out alone to look for Shiranami, but there is also the possibility that would become an additional disaster.” — Ayanokōji.
+[mentioned] (p.89) “In any case, wandering aimlessly will only make things worse.” — Ayanokōji.
 
 
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+### y2v4 p.159–164 — Ch.5: The walkie-talkie relay at midnight
+[scene] (p.160) Three days earlier, at midnight of day ten, Takemoto's group was contacted by Sakayanagi via walkie-talkie; he was deputized to call Ayanokōji-senpai to Sakayanagi on the walkie-talkie — the whole second-year alliance quietly activating through him.
+[says] (p.161) “What happened at this time? Are you in trouble? ” — Sakayanagi.
+[says] (p.161) “No, is not that. Actually, Ayanokouji wants to talk to you. ”
+[says] (p.161) “Ayanokouji-kun?” — Sakayanagi.
+[says] (p.161) “I am in debt, I would appreciate it if you would let him talk to you.”
+[says] (p.161) “Of course…of course. Please take charge. ” — Sakayanagi.
+[says] (p.161) “Wait a minute.” — Sakayanagi.
+[says] (p.161) “Good night, Ayanokouji-kun”. — Sakayanagi.
+[says] (p.161) “Sakayanagi”. — Ayanokōji.
+[note] (p.161–164) He stays on the line with them — the walkie-talkie relay stays in his group's hands while he listens to the whole White Room and Nagumo-bounty conversation; he is made to hand the walkie-talkie to Ayanokōji afterward — with Sakayanagi's blessing — as her personal loan to the second-year commander.
+[rel:sakayanagi-arisu] (p.160–164) His channel into the island's alliance network; he owes her.
+[rel:ayanokouji-kiyotaka] (p.161–164) He hands him the walkie-talkie as per Sakayanagi's instruction.
+[rel:shiranami-chihiro] (p.159–160) — no, Shiranami is not present on these pages; the group leader is Kobashi? Takemoto is with Kobashi + Shiranami. Their group was the one lost; Sakayanagi's five frozen groups sealed the trap.
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->

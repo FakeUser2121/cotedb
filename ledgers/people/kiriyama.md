@@ -57,21 +57,6 @@ char_id: kiriyama · class: student council · status: vice president (y2v2)
 [rel:nagumo-miyabi] (p.130) His president; doesn't want Ayanokōji to see him playing on the beach.
 [rel:nanase-tsubasa] (p.125) candidly calls her "a tough one."
 
-## y2v4
-
-<!-- walk: y2v4 → start -->
-
-### y2v4 p.95–115 — Kiriyama leads the failed siege of Kōenji
-[scene] (p.95) As student council VP and Nagumo's right hand, orchestrates the encirclement of Kōenji with six "Free Groups."
-[says] (p.104) "You certainly look good. But like Mikitani said, you've run for the last 10 days or so with more energy than anyone."
-[says] (p.106) "I'm not one to accept advice, Kiriyama." — Kōenji
-[says] (p.109) "This is your last warning, Kouenji."
-[says] (p.115) "There is always someone who does not agree with your calculations. Like Nagumo."
-[trait] (p.95–115) Calmly analytical — realizes Kōenji's extremely short REM sleep makes him a far greater threat than normal, forms three strategies (persuasion, encirclement, blocking Tasks), and after the failed siege reveals he'd expected it: making the third-years look powerless was exactly Kōenji's goal, and Kōenji "removed the obstacle" — leaving Kiriyama to plan the next blow.
-[rel:kouenji-rokusuke] (p.104–115) Recognizes him as one of only two who can stop Kōenji; his siege fails but he understands Kōenji's design.
-[rel:nagumo-miyabi] (p.95–115) Acts on his orders; Nagumo was disappointed by the failure.
-[rel:mikitani] (p.106–115) Leads the Free Groups; Kiriyama restrains his impatient, reckless charges.
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

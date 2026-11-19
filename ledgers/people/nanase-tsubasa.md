@@ -484,33 +484,185 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.8–14 — Ch.1: She guards him; names the slope watcher
+[scene] (p.8) In the rain, sensing the presences behind them, she notices Amasawa at once and points the earlier watcher out.
+[says] (p.9) “Please get behind me, Senpai.”
+[says] (p.9) “You─ cannot be trusted.”
+[says] (p.10) “Please don’t listen to her, she’s dangerous.”
+[says] (p.10) “While you were gone, I noticed that someone had been watching us from nearby, so I tried chasing after them.”
+[says] (p.11) “Back then, the one watching us from the shadows was you, wasn’t it Amasawa-san?”
+[says] (p.11) “You also hurt Komiya-senpai and Kinoshita-senpai, didn’t you?”
+[says] (p.11) “I don’t believe you. Not at all.”
+[says] (p.12) “Then, can you swear to me that you weren’t the one who hurt them?”
+[says:amasawa-ichika] (p.11) “If a girl came running at you with a scary look on her face, who wouldn’t run away?”
+[says:ayanokouji-kiyotaka] (p.12) “But even if you broke your GPS before the attack, wouldn’t the school have taken notice?”
+[says:amasawa-ichika] (p.14) “That’s how it is, Nanase-chan.”
+[note] (p.11–14) She slowly raises her right arm toward Amasawa, identifying her as the fourth-day shadow (she saw the hair); her testimony is circumstantial — she never saw the push; she wanted to testify that she saw Amasawa at the scene; Ayanokōji tells her it would only ever end in suspicion without conclusive evidence.
+[trait] (p.8–14) She puts herself between Ayanokōji and Amasawa with zero hesitation, interrogates Amasawa relentlessly (and correctly clocks the broken watch and the missing GPS), and does not relax even after the stick is tossed down.
+[rel:amasawa-ichika] (p.8–14) Accuses her of the cliff attack; sharpest suspicion in the exam.
+[rel:ayanokouji-kiyotaka] (p.8–14) Devoted guard; obeys his orders to stand down.
+
+### y2v4 p.15–20 — Ch.1: Left out of the private talk
+[says:amasawa-ichika] (p.9) “Jeez. I’m not some bad guy, right Ayanokōji-senpai~? I just wanna chat for a bit, kay?”
+[says:amasawa-ichika] (p.15) “What’s with this, Nanase-chan?”
+[says] (p.15) “You were about to lay your hands on Ayanokōji-senpai, weren’t you?”
+[says:amasawa-ichika] (p.15) “Ah, are you worried about breaking the rules? It’s fine, it’s fine. Even the school can’t monitor everything, you know?”
+[says] (p.15) “That… That has nothing to do with you. Why did you come here?”
+[says:ayanokouji-kiyotaka] (p.16) “Let go of her arm Nanase.”
+[says:amasawa-ichika] (p.16) “Wow, you’re such a good girl Nanase-chan~! It’s like you’re his loyal dog; it’s a better look for you than I thought.”
+[says] (p.16) “Why don’t you just talk from where you are?”
+[says:amasawa-ichika] (p.17) “Now then, where oh where should I start~?”
+[scene] (p.17) He motions her away so the rain masks a private conversation; reluctant to leave him alone with Amasawa, she eventually gives in and steps back a few meters away — too far to hear.
+[note] (p.16–17) She does not hear the substance of the White Room reveal; she only sees the two of them standing close in the rain.
+
+### y2v4 p.18, 61, 63, 125, 151, 153, 162, 168, 253, 254 — Nanase mentioned in passing
+[mentioned] (p.18) “Nanase did.” — Ayanokōji's interior confirms she was the one who caught sight of Amasawa fleeing.
+[mentioned] (p.61) “...slightly behind schedule due to what happened with Nanase and the rough patch of weather, I had finally secured the strategic position that I'd been aiming for since the very beginning.” — Ayanokōji.
+[mentioned] (p.63) “However, compared to when I had Nanase accompanying me, I was currently a boy traveling on his own.” — Ayanokōji.
+[mentioned] (p.125) “The information Nanase had risked so much to tell me about the trick of the 12th was empty.” — Ayanokōji.
+[mentioned] (p.151) “Remembering what was heard from Nanase the other day, instinctively. Today is when the first graders are installed.” — Ayanokōji.
+[mentioned] (p.152) “Nanase's words, “If they find you, you will become a victim of violence,” will come true.” — Ayanokōji.
+[mentioned] (p.162) “Ayanokouji explains that Nanase was one of the assassins sent by Tsukishiro, since Sakayanagi knows the story of the Acting Director.” — narration.
+[mentioned] (p.168) “I know Nanase came to see you to gently warn you.” — Hōsen.
+[mentioned] (p.253) “Nanase's defeat to me and going our separate ways. He wanted to act just to make a plan to hide around 11th place targeting higher ranks.” — narration.
+[mentioned] (p.254) “Unlike what happened with Nanase, I don't think my method of evading attacks is going to work.” — Ayanokōji.
 
 
-### y2v4 p.8–26 — Nanase guards Ayanokōji; accuses Amasawa
-[says] (p.9) "Please get behind me, Senpai."
-[says] (p.9) "You─ cannot be trusted."
-[says] (p.10) "Please don't listen to her, she's dangerous."
-[says] (p.10) "While you were gone, I noticed that someone had been watching us from nearby, so I tried chasing after them."
-[says] (p.11) "Back then, the one watching us from the shadows was you, wasn't it Amasawa-san?"
-[says] (p.11) "You also hurt Komiya-senpai and Kinoshita-senpai, didn't you?"
-[says] (p.11) "I don't believe you. Not at all."
-[says] (p.15) "What's with this, Nanase-chan?" — Amasawa; Nanase responds
-[says] (p.15) "You were about to lay your hands on Ayanokōji-senpai, weren't you?"
-[says] (p.25) "Senpai, let's do a GPS Search right now!"
-[trait] (p.8–26) Fiercely protective of Ayanokōji (having become his ally), steps in front of him and grabs Amasawa's arm; correctly identifies Amasawa as the earlier watcher (saw her hair) and suspects her of the cliff attack, though Ayanokōji notes the evidence is only circumstantial; remains "loyal dog" devoted to him.
-[rel:ayanokouji-kiyotaka] (p.8–26) Now his ally — guards him from Amasawa.
-[rel:amasawa-ichika] (p.9–25) Accuses her of watching them and pushing Komiya/Kinoshita; sharp, suspicious exchanges.
+### y2v4 p.21–27 — Ch.1: The footprints; she pushes the GPS idea
+[says] (p.21) “Senpai…?”
+[says] (p.21) “Amasawa-san’s… footprints? Is there something wrong with her footprints?”
+[says] (p.26) “Senpai, let’s do a GPS Search right now! It hasn’t been that long since Amasawa-san first approached us. Even if this mystery person ran away at full speed, they shouldn’t have been able to get very far with the weather like this, right?”
+[says] (p.26) “…Then that’s our guy.”
+[says] (p.26) “It’s worth our while to spend the point on a search then, right?”
+[says] (p.27) “It still feels like a bit of a waste to not even check.”
+[note] (p.21–27) She overrules herself: Amasawa’s footprints were clean; the mystery set was larger; she is frustrated by his GPS veto but cannot disprove the “bait” theory; she accepts his judgment.
+[trait] (p.21–27) Both textbook detective and loyal ally; she cannot let a suspect walk away but yields to his read of the board.
 
-### y2v4 p.120–122 — Nanase's midnight warning about the day-12 plot
-[says] (p.120) "It's me, Nanase."
-[says] (p.120) "I'm fine; I was in I9 like you. In fact, I even saw you from afar at night, but since I was working with Housen-kun, so I decided to avoid contact."
-[says] (p.120) "Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai."
-[says] (p.121) "I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie."
-[says] (p.122) "Yes, I'll let you know if there is more important news."
-[trait] (p.120–122) Risks sneaking to his tent at 2:30 a.m., terrified, to pass on intelligence — the first-years (led by Tsubaki via walkie-talkie) plan to force his withdrawal on day twelve; explains the errand-boy contact and Hōsen's feigned cooperation; agrees to keep him informed but is told to stop helping him.
-[rel:ayanokouji-kiyotaka] (p.120–122) Warns him of the plot at personal risk; he sends her away so she won't be exposed.
-[rel:housen-kazuomi] (p.120–121) Only pretending to cooperate with the first-years; Hōsen told her about the day-12 plan.
-[rel:tsubaki-sakurako] (p.121) The main contact on the walkie-talkie.
+### y2v4 p.28–36 — Ch.1: The tent visit; her confession of hostility
+[scene] (p.29) From across in her own tent she calls out through the rain and joins him; she sits in his tent dripping wet with a towel draped over her.
+[says] (p.29) “I’d like to talk to you for a bit, Senpai! Is it alright if I come and join you!?”
+[says] (p.30) “Hah… I’m sorry for intruding upon your rest, Senpai.”
+[says] (p.30) “I’m pretty shameless, aren’t I?”
+[says] (p.30) “I treated you with such hostility for the longest time, Senpai. Saying all sorts of terrible things straight to your face… You must be annoyed that I’m reaching out all buddy-buddy like this.”
+[says] (p.31) “I haven’t been able to get the image of Amasawa-san out of my mind, showing up out of nowhere in the rain… When I started thinking about all the hardships you’ve been put through, I just… I felt like I had to call out to you.”
+[says] (p.31) “I convinced myself that Amasawa-san was the one who pushed Komiya-senpai and Kinoshita-senpai down the slope. I thought that she was just hiding her true nature because she wanted to hide the truth, but then you said that she wasn’t necessarily the culprit and now I just don’t know what to believe anymore…”
+[says] (p.32) “That… Uhm, wouldn’t that be strange though?”
+[says] (p.32) “Even if Amasawa-san isn’t the real culprit, they’d still have to be someone she knows, right? Therefore, isn’t it also possible that she’s an accomplice of some sort?”
+[says] (p.33) “I suppose it’s not hard to imagine that Amasawa-san is capable of exercising violence in much the same way.”
+[says] (p.32) “It’d be weird if Amasawa-san was completely unrelated, right? I mean, her watch just ‘happened’ to be broken when Komiya and Kinoshita just ‘happened’ to get attacked, and she just ‘happened’ to be watching from somewhere nearby? And to top it all off, I just ‘happened’ to catch sight of her as she fled the scene?”
+[says] (p.34) “What? No! Thank you for placing your trust in me! I’m very grateful!”
+[trait] (p.28–36) Overwhelmed by guilt, she apologizes for months of hostility; she is moved by his trust (points hidden from her, walkie-talkie-level screenshot knowledge); she pushes the theory that Amasawa’s associate is the real attacker.
+
+### y2v4 p.36–46 — Ch.1: The screenshots; the 10-point gap; the fish-school strategy
+[says] (p.35) “Wait, isn’t your score somehow… lower than expected?”
+[says] (p.35) “There are Arrival Bonuses, Early Bird Bonuses, and Tasks… then subtracting points for any penalties─ Ah, I’m also assuming that you took first place in the Tasks you took part in while I was taking a break.”
+[says] (p.35) “But you only have 78, 10 points less. I don’t think I forgot a penalty or something either…”
+[says] (p.36) “Uhm, I already understand what you used your points on, Senpai. And I agree that if you know where everyone’s moving on an hourly basis, you might be able to find out which Tables they belong to. However, it didn’t seem like you were doing very much with your tablet yesterday, and it’s not very easy information to memorize either… Are you… Are you really telling me that you memorized everything in an instant?”
+[says] (p.37) “I say this with all due respect, but is this really worth paying ten whole points for? If it was possible to share the screenshots with someone, then there might be some added value, but it’d take a considerable amount of time for one person to analyze the movement patterns on their own, wouldn’t it?”
+[says] (p.37) “…I didn’t even realize that you had done this, Senpai.”
+[says] (p.38) “There are so many groups moving around together… almost like they’re a school of fish.”
+[says] (p.38) “Are they… doing this to monopolize Tasks?”
+[says] (p.39) “However, groups other than President Nagumo’s won’t be able to score points as a result, right? I can’t imagine that they’re all part of the same Table either. Working together for the success of a specific group… It’s an idea that pretty much anyone could come up with, but it’d be impossible to put it into practice effectively.”
+[says] (p.39) “They… they’re all from groups down at the bottom of the rankings…”
+[says] (p.39) “That would be due to class points and the overarching threat of expulsion, of course.”
+[says] (p.41) “Would they really want to let Nagumo win, even at the cost of their own expulsion? Even if they can’t rise up to Class A, I can’t imagine that they’d want to leave the school, right?”
+[says] (p.41) “In a way, I can’t even tell who’s running this exam anymore: the school or the student council president.”
+[says] (p.42) “I think I understand now. You’re saying that, for you, it wasn’t a very big risk to spend ten points in exchange for this information, right Senpai?”
+[says] (p.43) “Kōenji-senpai sure is amazing, isn’t he? Giving President Nagumo a run for his money all by himself.”
+[says] (p.45) “Senpai, this looks like it could end up changing everything.”
+[says] (p.46) “Eh? Ah…! Sorry!”
+[says] (p.46) “…I’ll head back to my own tent then.”
+[says] (p.46) “As soon as the rain stops, I think I’m going to try to chase after Amasawa-san. It’s clear enough that she’s from the White Room, and I’m concerned with what she’s planning to do after this.”
+[trait] (p.36–46) Her arithmetic is nearly perfect — she catches the 10-point discrepancy from arrival/early-bird bonuses and his solo first places; she reads the third-year coalition as “a school of fish,” can’t tell who runs the exam anymore; she falls asleep mid-conversation after exerting herself beyond her limits (mountain climb + Nanase–Ayanokōji fight) and vows to trail Amasawa once the rain stops.
+[rel:nagumo-miyabi] (p.38–41) She pieces together the third-year coalition from B8 hour-by-hours; admires his brilliance and fears the class competition is already lost for the third years.
+[rel:kouenji-rokusuke] (p.43) She calls him amazing for giving Nagumo a run for his money alone.
+[rel:amasawa-ichika] (p.46) Swears to chase her when the rain stops.
+
+### y2v4 p.47–50 — Ch.1: Sent off with warnings
+[says] (p.47) “I’m not clear on all the details, but from what you’re saying she must be an extremely dangerous opponent.”
+[says] (p.47) “Yes. Given his sheer strength, he’s not an opponent I can handle either.”
+[says] (p.47) “I’m not afraid of getting expelled, Ayanokōji-senpai. I’ll do anything if it means protecting you, no matter the cost.”
+[says] (p.48) “That… That would be unacceptable of me. I can’t be causing you any more trouble than I already have…”
+[says] (p.48) “I understand, I promise.”
+[trait] (p.47–50) She hears the warning (Hōsen, no underestimating Amasawa by gender/age) as a rallying cry and vows to protect him at any cost; he reframes it — her carelessness may cost him; she tears up and promises to be careful.
+[rel:housen-kazuomi] (p.47) Her other group member; he tells her Hōsen is beyond her handling; she concedes it.
+
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.51–54 — Ch.2: Parting at area E3
+[scene] (p.51) After the rain clears by 6:00 AM she tells him she’s all packed; the two walk together to E3, both heading to the same area; on the way they compare notes on Amasawa’s movements.
+[says] (p.52) “Amasawa’s most likely just going to head to the next designated area, right?”
+[says] (p.52) “Amasawa-san was following us as of the evening of the sixth day or the morning of the seventh, right?”
+[says:ayanokouji-kiyotaka] (p.52) “Without putting too much thought into it, it’s probably safe to assume that she approached us using a GPS Search on the morning of the seventh.”
+[says] (p.52) “Naturally, I’ve referenced this with the data on my tablet already, but… as far as I recall, our score didn’t go down whatsoever yesterday.”
+[says] (p.52) “Although it’s unknown where on the island Amasawa-san was that morning, you and I were traveling quite fast at the time. It wouldn’t have been very easy for her to catch up to us unless she was already somewhere nearby, right?”
+[says] (p.53) “It looks like this is where we part ways, Senpai. At least for now.”
+[says] (p.53) “How do you plan on joining up with Amasawa and Hōsen?”
+[says] (p.53) “I can’t imagine that I’d cross paths with them by aimlessly wandering around the island, but it’s not like I can waste a bunch of points searching for them either. With that being the case, I’ll start out by using the point I just got and try my best to chase after their GPS signals. If I can’t find them after that, I guess I’ll just travel to the next designated area.”
+[says] (p.54) “I think it’ll take a first-year student like me to poke around and find out what other first-years are up to. If I catch wind that something bad is going down, I’ll come running and let you know, Ayanokōji-senpai.”
+[trait] (p.51–54) Sober about Amasawa’s surveillance abilities (no group GPS Search used — score unchanged); proposes tailing her with minimalist searches; knows he is stronger, so she volunteers to infiltrate first-year circles for intelligence.
+[rel:ayanokouji-kiyotaka] (p.51–54) Walks with him; parts at E3 with her own plan to spy on the first-years for him.
+[rel:amasawa-ichika] (p.51–54) Her target; she intends to chase Amasawa with GPS searches and watch the first-years.
+
+
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+### y2v4 p.120–122 — Ch.4: 2:30 a.m.; Nanase's warning
+[scene] (p.120) In the middle of the night she slips to his tent — she was working with Hōsen all day; she came straight to him with the leak.
+[says] (p.120) “It's me, Nanase.”
+[says] (p.120) “I'm fine; I was in I9 like you. In fact, I even saw you from afar at night, but since I was working with Housen-kun, so I decided to avoid contact.”
+[says] (p.120) “There is something I need to tell you as soon as possible ...Today... well, the date has already changed, so it was yesterday to be exact, but Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.”
+[says:ayanokouji-kiyotaka] (p.120) “A great play? It sure isn't the only thing.”
+[says] (p.120) “No, no, let me tell you in order.”
+[note] (p.121) She explains: around the ninth day an errand boy from one of the first-year groups showed up with a walkie-talkie and asked for Hōsen's help again — he wants to force Ayanokōji-senpai to withdraw at the exam's end, and to hunt down and remove seniors performing alone. Specifics would be communicated on the day; Hōsen holds the walkie-talkie but has no intention of cooperating — he's pretending to go along.
+[says:ayanokouji-kiyotaka] (p.121) “Who is in charge?”
+[says] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.”
+[says:ayanokouji-kiyotaka] (p.121) “She didn't seem like the type that has long been outdoors.”
+[says] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya. But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.”
+[says:ayanokouji-kiyotaka] (p.122) “Oh no, thanks for that, but that's enough for this uninhabited island exam. If you see a freshman moving around, you don't have to come tell me, and you don't have to help me.”
+[says] (p.122) “Nevertheless...”
+[says:ayanokouji-kiyotaka] (p.122) “Nanase, you have given me enough information. Now you must do what you have to do as one of the group of Housen and Amasawa.”
+[says] (p.122) “If Ayanokouji senpai says so, I understand ...”
+[trait] (p.120–122) She risks her cover at 2:30 a.m. to pass the leak; she knows Hōsen pretends to cooperate; she reports whatever she hears; he cuts her loose so she can protect her cover.
+[rel:ayanokouji-kiyotaka] (p.120–122) Her leak is his edge; he sends her away so she stays an operative.
+[rel:housen-kazuomi] (p.120–121) Pretending to cooperate; holds the walkie-talkie.
+[rel:tsubaki-sakurako] (p.121) The main person on the walkie-talkie.
+
+
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.126–133 — Ch.5: The tent at day nine; the insult over her figure
+[scene] (p.126) A shadow falls beside Hōsen's tent; she approaches as his groupmate to ask for Housen's help with Ayanokōji-senpai; he mocks her body before listening.
+[says] (p.126) “Good morning, Housen-kun.”
+[says:housen-kazuomi] (p.126) “Oh?”
+[says] (p.126) “It's me, Nanase.”
+[says:housen-kazuomi] (p.126) “I know from your voice. What are you doing here?”
+[says] (p.126) “What do you mean? We are a group and it is not unnatural for us to make contact.”
+[says:housen-kazuomi] (p.126) “I don't know if you can say that. You seem to have had a lot of fun with Ayanokouji, how have you been?”
+[says] (p.126) “There is no .......I was no match for him.”
+[says:housen-kazuomi] (p.126) “Ha, you didn't even use your woman's weapon to challenge him head on, did you?”
+[says] (p.126) “A woman's weapon.....?”
+[says] (p.127) “I do not know what you're talking about”,
+[says:housen-kazuomi] (p.127) “You have big breasts, but you don't have any brain.”
+[says] (p.127) “Well, I really don't understand the relationship between the size of my breasts and my head.”
+[says:housen-kazuomi] (p.127) “It's enough. And that? Did you come here just to make that report?”
+[says] (p.127) “It was a mistake for me to try to expel Ayanokouji-kun by myself. So I have come to ask for Housen-kun's help. If you have a plan, let me hear it.”
+[says:housen-kazuomi] (p.127) “Leave it, I'll do it myself.”
+[says] (p.127) “...... I'll wait until you change your mind.”
+[says:housen-kazuomi] (p.127) “Go to the designated area, for God's sake. The only thing you can do is avoid a penalty.”
+[says] (p.128) “It seems we have a visitor.”
+[says] (p.127) “I don't know what you're talking about”,
+[scene] (p.139) After the negotiation concludes, she reveals she stayed to tail him — and asks to be by his side until she learns more from Tsubaki-san.
+[note] (p.139) This would require repeated GPS searches. He decided that if Tsubaki was going to provide him with all these things, it would be in her best interest to do so.
+[says] (p.139) “Because I want to protect the first year D-class group too. Please let me be by your side until I get more information from Tsubaki-san.”
+[says:housen-kazuomi] (p.139) “Do whatever you want.”
+[trait] (p.126–139) She follows Hōsen relentlessly to tail Tsubaki; Hōsen mocks her body; she stays close to the action — and reports back through the walkie-talkie to Ayanokōji.
+[rel:housen-kazuomi] (p.126–139) Her group leader; he tolerates her shadowing him.
+[rel:tsubaki-sakurako] (p.129–139) Her stakeout target — the information she wants.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

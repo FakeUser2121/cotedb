@@ -47,14 +47,10 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 <!-- walk: y2v4 → start -->
 
 ### y2v4 p.160 — Tsukasaki mentioned in passing
-[scene] (p.160) Named in the context of the exam.
-[note] (p.160) Passing mention; not a distinct scene presence.
-[mentioned] (p.160) Passing mention only.
-
-<!-- walk: y2v4 Ch.5 → p.160 -->
+[mentioned] (p.160) “Students and teachers commute around the uninhabited island on a daily basis. In fact, don't you think Tsukasaki-kun uses it naturally to choose a safe and fast route? ” — Sakayanagi's point about Tsukasaki's pathing.
 
 
-
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -610,17 +610,105 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 <!-- walk: y2v3 Ch.4 → p.132 -->
 
 ## y2v4
-
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.10–37 — Nagumo mentioned in passing
-[scene] (p.10) Named in the context of the exam.
-[scene] (p.35–36) Named in the context of the student council.
-[scene] (p.40) Named in the context of Tsukishiro's actions.
-[note] (p.10–37) Passing mentions; not a distinct scene presence.
-[mentioned] (p.10–37) Passing mention only.
+### y2v4 p.38–43, 48–50 — Nagumo mentioned in passing
+[mentioned] (p.38) “For example, some third-year groups moved fairly unusually throughout the day yesterday. Furthermore, these groups are always closely related to Nagumo’s group or Kiriyama’s group. When I looked into it, I noticed something pretty interesting.”
+[mentioned] (p.38) “To begin with, Nagumo’s group was in area B8 at 7:00 AM that morning.”
+[mentioned] (p.39) “Most likely, the point is to have Nagumo effortlessly secure first-place in any Task they come across by fixing the competition in his favor.”
+[mentioned] (p.39) “Behind the scenes, Nagumo has probably prepared some relief measures of his own.”
+[mentioned] (p.40) “That was exactly why Nagumo’s strategy was so brilliant. If multiple groups all had zero points, it would be far too conspicuous.”
+[mentioned] (p.41) “It’s impossible for the other third-year classes to graduate as Class A by coming out on top through special exams. That being said, what if it’s possible to get into Class A by agreeing to work together with Nagumo instead?”
+[mentioned] (p.41) “In a sense, we should also assume that the groups supporting him are competing with each other.”
+[mentioned] (p.41) “Honestly, you’re probably onto something there as well. Nagumo has the entire third-year in the palm of his hand after all. He’s not here to follow the rules; He’s here to make and dictate them to the rest of us.”
+[mentioned] (p.42) “It probably wouldn’t be an exaggeration to say that, throughout the entire history of the Advanced Nurturing High School, Nagumo was and will be the first and last of his kind.”
+[mentioned] (p.43) “In reality, however, Nagumo’s group was most likely just putting on an act as they slowed down to match pace with Kōenji.”
+[mentioned] (p.48) “2nd Place: Third-Year Group Nagumo – 166 Points” — the printed top-ten.
+[mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
+[mentioned] (p.50) “Furthermore, there would definitely be groups looking to conserve their stamina for the double points being offered on the final day as well.”
 
-<!-- walk: y2v4 Ch.1 → p.37 -->
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
+### y2v4 p.61–62, 83–84 — Nagumo mentioned in passing
+[mentioned] (p.62) “I was curious about what Nagumo was going to do moving forward. It seemed like it'd be a good idea for him to take on countermeasures of some sort to deal with Kōenji, his foremost competitor for the top spot.”
+[mentioned] (p.83) “Everyone is competing with each other for the podium. I could not continue with that game. However, if Miyabi Nagumo collapses down, the story could be a little different.” — Kiryūin.
+[mentioned] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
+### y2v4 p.95–98, 102, 107, 109, 115 — Nagumo mentioned in passing
+[mentioned] (p.95) “on the tenth day, he has been scoring points to stick with Nagumo's group...nothing close to impatience in Kiriyama or Nagumo.” — narration.
+[mentioned] (p.96) “enemy to be watched by Nagumo long before.” — narration.
+[mentioned] (p.97) “The only man Nagumo recognized, the only thing left of Manabu Horikita. It's no wonder that Nagumo's eyes, which can see the battlefield with an eagle's eye, are clouded.” — narration.
+[mentioned] (p.98) “there is no one who can stop Kouenji except Nagumo and me.” — Kiriyama to Mikitani.
+[mentioned] (p.102) “The following is not a bad idea, if you are willing to follow it. If you have the student council president, Nagumo, on your side, your school life will be more stable.” — Kiriyama to Kouenji.
+[mentioned] (p.107) “These are the soldiers, so to speak, that Nagumo and Kiriyama have brought together to monopolize many of the tasks.” — narration.
+[mentioned] (p.109) “And when Nagumo found out about this result, he was very disappointed.” — narration.
+[mentioned] (p.115) “there is always someone who does not agree with your calculations. Like Nagumo.” — Mikitani.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
+### y2v4 p.152 — Nagumo mentioned in passing
+[mentioned] (p.152) “The only option now is to flee until the freshmen run out of energy and give up the chase.” — Ayanokōji's own position; Nagumo is not on these pages but the third-years are under Nagumo's control — “not only the first-year students, but also the third-year students, who are under Nagumo's control, are the enemy.”
+
+### y2v4 p.163 — Nagumo mentioned in passing
+[mentioned] (p.163) “I mean, in the near future, the first-year students will take action against Ayanokouji-kun, right?” — Ayanokōji tells Sakayanagi about the bounty's origin; Tsukishiro may be planning something else.
+[mentioned] (p.163) “Besides, Tsukishiro may be planning something .. If possible, I want to focus on that.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
+### y2v4 p.201–214 — Ch.6: The beach talk; he gets knocked out
+[scene] (p.202) On the last day, Ayanokōji walks to I2 and finds President Nagumo standing on the beach with a tablet; the two of them talk — the bounty, Horikita-senpai, Koenji, why Ayanokōji is really here.
+[says] (p.202) “Ayanokouji, what a coincidence.”
+[says] (p.202) “Don’t worry. We are the only ones here.”
+[says] (p.203) “I was having fun on the beach at I4. Life on this uninhabited island is coming to an end, after all.”
+[says] (p.203) “But I’ll ask you the same thing, Ayanokouji. This place is not a designated area and doesn’t have an event, so why did you come here? Did you meet up with Honami?”
+[says] (p.203) “No. If you two are still together now, you would have spoken about quite a bit. But you are here by yourself, so it means you have a different objective. What’s there at I2?”
+[says] (p.204) “Your critical thinking ain’t bad.”
+[says] (p.204) “Don’t blame me for the bounty. It wasn’t my proposal in the first place.”
+[says] (p.204) “It was Acting Director Tsukishiro’s.”
+[says] (p.204) “Since you know this much, I’ll be blunt. The money’s all from the Acting Director. I just lent the name of the Student Council president to him.”
+[says] (p.204) “It’s an order from the Acting Director, so you had to accept it. But if it’s the Student Council President I know, I think you would have refused such a proposal, right?”
+[says] (p.204) “If it’s about the matter of the bounty, I wouldn’t have accepted it, if it were a student other than you. But the one which he named was none other but you, the only man that Horikita-senpai trusted.”
+[says] (p.205) “Answer me, Ayanokouji. What do you plan to do next?”
+[says] (p.205) “Don’t worry about it. On this last day, I have completely overwhelmed Koenji.”
+[says] (p.205) “Although I do care what you’re going to do, if you won’t answer, then I’ll change my question. Let me see if you, who hold the expectations of Horikita-senpai, have the strength worthy of my expectations, which of course means that you’ll have to get serious.”
+[says] (p.207) “Let me guess your group’s ranking at the end of the 12th day.”
+[says] (p.208) “You’re ranked…11th, right?”
+[says] (p.208) “A little off? Then you’re ranked around 15th or 16th right?”
+[says] (p.208) “I joked around with that superpower stuff. I just guessed, assuming that you really have hidden your strength.”
+[says] (p.208) “In order not to attract attention, your ranking is a bit lower than 10th, but still, you’ve maintained an upper-ranking position. If I lose the battle against Koenji, then you’d have a chance to make a comeback.”
+[says] (p.208) “Kurona from third-year has been keeping the 10th place, right? I had him maintain that rank to block those who had been secretly saving points and aiming to make a comeback.”
+[says] (p.209) “If I want to earn points, whether that’s 400 or 500 points, I can earn them. However, that’s not interesting, right? Now there’s hope that he might beat the second and first-years. Besides, if he lost in the battle with me, we might be able to see his regretful expression.”
+[says:ayanokouji-kiyotaka] (p.209) “Was it part of your plan? Your command of the attack on Koenji on the last day?”
+[says] (p.209) “I’ve always doubted whether you were strong enough, but now I understand. You’ve been granted the right to be crushed by me, so rejoice.”
+[says] (p.210) “Then I would have to force you to appear on the front stage, which includes using the bounty.”
+[says] (p.210) “You think you can escape this easily? I won’t let you go before you agree to a fight with me.”
+[says:ayanokouji-kiyotaka] (p.212) “President Nagumo, although your abilities are different from President Horikita’s, it still allowed you to brilliantly stand at the top of this school. You maintained a top ranking in this special exam with ease, and it’s no exaggeration to say you had complete control over it. Even so, I plan to beat you.”
+[says:ayanokouji-kiyotaka] (p.212) “It’s just that there are certain areas where you shouldn’t step into. Please understand.”
+[says:ayanokouji-kiyotaka] (p.212) “Don’t you understand what I said?”
+[says] (p.213) “I…!?”
+[note] (p.212–214) The transceiver voice: “Nagumo, I’ve gotten in the way of Koenji’s event three times in a row. Please give me your next instructions.” — a 3rd-year student reports; “Hey, Nagumo, if you don’t give instructions, your subordinates can’t act. In order to drop Koenji down to 2nd, isn’t it necessary to continue with the attack until the end?” — he switches it off; “What’s important to me isn’t Koenji.” — he lunges; Ayanokōji punches him once in the chest and he collapses; his warning alarm rings; Ayanokōji hides him under a tree; 20–30 minutes before someone finds him; he walks away to I2.
+[trait] (p.201–214) He is a god among men on this island; he runs the third-year lockdown to block comebacks; he enjoys unmasking Ayanokōji to force him to “be” Manabu's shadow; he loses to a single punch and goes down for good — without landing a blow.
+[rel:ayanokouji-kiyotaka] (p.201–214) He came to measure Ayanokōji against Horikita Manabu; he gets measured; he loses in a second.
+[rel:kouenji-rokusuke] (p.205–209) He is working to drop Koenji down to second; he uses the 3rd years to do it; the transceiver men are his.
+[rel:horikita-manabu] (p.205–209) He sees the ghost of Manabu in Ayanokōji; his whole approach is Manabu's ghost.
+
+### y2v4 p.254–255 — Nagumo mentioned in passing
+[mentioned] (p.254) “Nagumo has stopped moving, and Ichinose has already moved away, so there is nothing to worry about.” — Tsukishiro.
+[mentioned] (p.255) “What happened to Nagumo-kun and Ichinose-san?” — Tsukishiro asks Shiba.
+
+### y2v4 p.273 — Nagumo mentioned in passing
+[mentioned] (p.273) “Miyabi Nagumo was no longer there.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
+
+### y2v4 p.279–282 — Nagumo mentioned in passing
+[mentioned] (p.279) “They had assumed that Nagumo would be the one to rescue them. I also thought that...however...” — narration.
+[mentioned] (p.281) “2nd place, 2nd year Group Class A Nagumo Miyabi. 325 points” — the results announcement.
+[mentioned] (p.282) “Today I remember the figure of Miyabi Nagumo who took the trouble to...” — Ayanokōji.
+
+<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

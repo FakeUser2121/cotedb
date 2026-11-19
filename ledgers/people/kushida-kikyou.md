@@ -1763,10 +1763,8 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.227, 236) Passing mentions; not a distinct scene presence.
 [mentioned] (p.227, 236) Passing mention only.
 
-<!-- walk: y2v4 Ch.6 → p.236 -->
 
-
-
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

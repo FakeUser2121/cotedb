@@ -1191,16 +1191,12 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.10, 14, 42, 47 — Ike mentioned in passing
-[scene] (p.10) Named in the context of the island exam.
-[scene] (p.14) Named in the context of the exam rules.
-[scene] (p.42) Named in the context of Housen's water incident.
-[scene] (p.47) Named in the context of the group discussion.
-[note] (p.10, 14, 42, 47) Passing mentions; not a distinct scene presence.
-[mentioned] (p.10, 14, 42, 47) Passing mention only.
+### y2v4 p.10, 19 — Ike mentioned in passing
+[mentioned] (p.10) “Back when Shinohara-senpai’s group was attacked and Komiya-senpai and Kinoshita-senpai retired from the exam, do you remember how you left to climb the slope with Ike-senpai?” — Amasawa to Ayanokōji on the fourth-day slope incident; Ike heard a sound and took off in a panic thinking Shinohara might be at the top.
+[mentioned] (p.19) “Although I could talk to people like Horikita and Ike, it had always felt like there was some sort of distance between us.”
 
-<!-- walk: y2v4 Ch.1 → p.47 -->
 
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

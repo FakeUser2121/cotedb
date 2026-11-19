@@ -39,16 +39,18 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.86–93 — Kobashi mentioned in passing
-[scene] (p.86–89) Named in the context of the exam.
-[scene] (p.93) Named in the context of the exam.
-[note] (p.86–93) Passing mentions; not a distinct scene presence.
-[mentioned] (p.86–93) Passing mention only.
+### y2v4 p.86–94 — Ch.3: Kobashi lost in the dark; recovered with Shiranami
+[scene] (p.86) She is the girl in Shiranami’s group the school has only one “Yume” for — Class 2-C’s Kobashi Yume; her groupmate Shiranami Chihiro lost track of her in the dark.
+[says:shiranami-chihiro] (p.86) “…Yume… Yume-chan”
+[scene] (p.93) Kobashi, carrying a backpack, and Takemoto from the same group arrived to look for Shiranami; they had clearly come by GPS search.
+[says] (p.93) “Thank you, Ayanokouji-kun, for helping Chihiro-chan”
+[says] (p.93) “Yes it was. If we had gone further, we would have run in the risk of injuring ourselves and, above all, we would have had a hard time finding her.”
+[rel:shiranami-chihiro] (p.86–94) Her classmate; together they searched for each other and found her with Ayanokōji.
+[rel:takemoto-shigeru] (p.93–94) Her other group member; their luggage moves with them.
+[rel:ayanokouji-kiyotaka] (p.93–94) She thanks him for Chihiro-chan; he plays down the rescue.
 
-<!-- walk: y2v4 Ch.3 → p.93 -->
 
-
-
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

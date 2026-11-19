@@ -170,19 +170,95 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.15, 47 — Hōsen mentioned in passing
+[mentioned] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?” — Amasawa needles Nanase about her own alliance.
+[mentioned] (p.47) “You have your other group member, Hōsen, to watch out for as well.” — Ayanokōji warns Nanase.
 
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.53 — Hōsen mentioned in passing
+[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase asks Ayanokōji about finding both group members.
+
+
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+### y2v4 p.120–122 — Ch.4: The feigning cooperator
+[mentioned] (p.120) “Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.” — Nanase leaks to Ayanokōji; Housen pretended to cooperate with the first-years to get close to her and never intended to deliver.
+[mentioned] (p.121) Her information: around the ninth day an errand boy from one of the first-year groups showed up with a walkie-talkie and asked for Hōsen's help again — he wants to force Ayanokōji-senpai to withdraw at the end of the exam, and to hunt down and remove seniors performing alone. Specifics will come on the day; Housen holds the walkie-talkie but has no intention of cooperating.
+
+
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.126–139 — Ch.5: The negotiation; the stalking invitation
+[scene] (p.126) Alone in his tent at 7 a.m. on day nine, Hōsen gets a visit from his groupmate Nanase; he ridicules her body and her "woman's weapon"; she pivots to asking his help against Ayanokōji-senpai.
+[says:nanase-tsubasa] (p.126) “It's me, Nanase.”
+[says:nanase-tsubasa] (p.126) “Good morning, Housen-kun.”
+[says:nanase-tsubasa] (p.126) “What do you mean? We are a group and it is not unnatural for us to make contact.”
+[says:nanase-tsubasa] (p.126) “There is no .......I was no match for him.”
+[says:nanase-tsubasa] (p.126) “A woman's weapon.....?”
+[says:nanase-tsubasa] (p.127) “I do not know what you're talking about”,
+[says:nanase-tsubasa] (p.127) “Well, I really don't understand the relationship between the size of my breasts and my head.”
+[says:nanase-tsubasa] (p.127) “It was a mistake for me to try to expel Ayanokouji-kun by myself. So I have come to ask for Housen-kun's help. If you have a plan, let me hear it.”
+[says:nanase-tsubasa] (p.127) “...... I'll wait until you change your mind.”
+[says:nanase-tsubasa] (p.128) “It seems we have a visitor.”
+[says:katagiri] (p.128) “Huh, ...... from class C. I'm Katagiri.”
+[says:nanase-tsubasa] (p.128) “I'll talk to him for you. What happens?”
+[says:katagiri] (p.128) “I have brought something that I have to give to Housen-kun.”
+[says:katagiri] (p.128) “Here, take this. You can talk to Utomiya-kun.”
+[says] (p.128) “Hah. You want to contact me through a little boy.”
+[says:utomiya-riku] (p.129) “I don't know if you are not aware of it or if you are ignoring it, but this is your first and last chance, okay?”
+[says] (p.130) “Has someone told you? How funny you are.”
+[says] (p.130) “If you want to say no, say no. I'm only discussing this to make sense, and I originally thought we could do this without you.”
+[says] (p.130) “Then that's it. I will reject it.”
+[says:utomiya-riku] (p.130) “Wait a minute. No one said anything about not cooperating.”
+[says] (p.130) “If you come here and beg me on your knees, I'll give you a hand, okay?”
+[says] (p.131) “I see. And?”
+[says:utomiya-riku] (p.131) “We should have a strategy to rescue the freshmen (1st year) soon.”
+[says] (p.131) “Will you save the first years?”
+[says] (p.131) “Ha, I don't care if those garbages disappear. Don't tell me that this guy thinks I'm going to make a move to save my classmates?”
+[says] (p.132) “Just for fun, do I send errand boy ‘Katagiri’ back half dead?”
+[says] (p.133) “I'm going to keep this for you, okay?”
+[says:tsubaki-sakurako] (p.134) “There is a way to forcibly rescue groups from their situation. To do this, you will need as many helpers as possible. Since it seems that those above are already using the same strategy, and we also need the help of the first year D-class. ”
+[says] (p.134) “I would love to help, but I have things to do. I'm very busy.”
+[says:tsubaki-sakurako] (p.135) “Busy is ...... you are trying to expel Ayanokouji-senpai?”
+[says:tsubaki-sakurako] (p.136) “The organizers of this test have made a proposal. They said they wouldn't mind bringing you down with an act of violence. Housen-kun, you are planning to forcibly defeat Ayanokouji-senpai, right?”
+[says] (p.136) “Well, it's the only way.”
+[says] (p.136) “Would they cross such a dangerous bridge? I don't think they work for free, much less Utomiya”
+[note] (p.137) "That voice came from the other side of the walkie-talkie..." — Utomiya's voice leaks into the walkie-talkie; Tsubaki deliberately releases the talk button to signal secrecy.
+[says] (p.138) “Do you mean that only you came up with the plan to violently withdraw Ayanokouji? Tsubaki.”
+[says:tsubaki-sakurako] (p.138) “That is a question?”
+[says] (p.138) “If we follow you, no one will be expelled from our first year. Can you guarantee it?”
+[says:tsubaki-sakurako] (p.138) “I promise. And if something happens, I'll take the blame.”
+[says] (p.139) “Sounds like a woman who can't eat.”
+[says:utomiya-riku] (p.139) “What will we do?”
+[says] (p.139) “We can do whatever we want, and the blame falls entirely on Tsubaki, the ringleader. It's too good to be true.”
+[says] (p.139) “Well, it's welcome. Anyway, that's it.”
+[says:nanase-tsubasa] (p.139) “...... I'm willing to help”
+[says:nanase-tsubasa] (p.139) “Because I want to protect the first year D-class group too. Please let me be by your side until I get more information from Tsubaki-san.”
+[says] (p.139) “Do whatever you want.”
+[trait] (p.126–139) Mocks his groupmate's body; plans to crush Ayanokōji-senpai with his own hands regardless of Tsubaki's carrot — he's already decided hands-on; his smiles grow creepier as the plan gets bloodier; lets Nanase stay close so she can gather Tsubaki's info — the two play along for private reasons.
+[rel:nanase-tsubasa] (p.126–139) His groupmate; he mocks her but lets her shadow him.
+[rel:katagiri] (p.128–133) He threatens the errand boy with a beating; the walkie-talkie ends up in his pocket.
+[rel:tsubaki-sakurako] (p.126–139) Pretends to cooperate; secretly intends to do it alone with violence against Ayanokōji-senpai.
+[rel:utomiya-riku] (p.128–133) Negotiates over the walkie-talkie; Utomiya warns him not to touch Katagiri.
+[rel:yagami-takuya] (p.136) Utomiya observes the conversation from the walkie-talkie.
 
 ### y2v4 p.168–183 — Hōsen's trap and his brutal fight with Ryūen
 [scene] (p.167) Pretends to follow Tsubaki's instructions to surround Ayanokōji, intending instead to attack him directly; but Ayanokōji anticipated it (via Nanase), and Ryūen intercepts.
-[says] (p.168) "Housen."
-[says] (p.168) "I know Nanase came to see you to gently warn you."
-[says] (p.169) "That's my line, Housen. You have nothing to do here, do you?" — Ryūen
-[trait] (p.168–183) Walks into Ryūen's trap — a fierce brawler who dominates the one-on-one exchange with overwhelming punches (Ryūen's Warning then Emergency Alert sounds), but is outmaneuvered when Ishizaki and Albert (with broken/disabled GPS so unseen) restrain him, turning it into a 3-on-1 beating; stripped of his confidence (Ryūen calls him a "shitty little fish" who can't fight alone in a real fight), he loses consciousness and retires with Ryūen.
+[says] (p.168) “Housen.”
+[says] (p.168) “I know Nanase came to see you to gently warn you.”
+[says] (p.169) “That's my line, Housen. You have nothing to do here, do you?” — Ryūen
+[trait] (p.168–183) Walks into Ryūen's trap — a fierce brawler who dominates the one-on-one exchange with overwhelming punches (Ryūen's Warning then Emergency Alert sounds), but is outmaneuvered when Ishizaki and Albert (with broken/disabled GPS so unseen) restrain him, turning it into a 3-on-1 beating; stripped of his confidence (Ryūen calls him a “shitty little fish” who can't fight alone in a real fight), he loses consciousness and retires with Ryūen.
 [rel:ryuuen-kakeru] (p.168–183) His rival — Ryūen stops him from reaching Ayanokōji and defeats him with a setup; both retire together.
 [rel:tsubaki-sakurako] (p.167–168) Pretends to follow her plan; drops out of her network when he makes his move.
 [rel:nanase-tsubasa] (p.168) His classmate; her warning was secretly Ayanokōji's tip-off.
 [rel:ishizaki-daichi] (p.177) Restrains him from behind; part of the 3-on-1 trap.
 [rel:yamada-albert] (p.177) Restrains his dominant arm — a man stronger than Ryūen himself.
+
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

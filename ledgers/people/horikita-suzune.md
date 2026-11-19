@@ -4308,19 +4308,275 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.55–59 — Horikita rejoins Ayanokōji; the Shinohara rescue plan
-[scene] (p.55) Reunites with Ayanokōji in F7 on day eight; heading to G8, she travels with him.
-[says] (p.56) "I'm heading to G8. I ended up passing through here on the way."
-[says] (p.56) "Is it really so hard for you to believe that I'm still in such good shape?"
-[says] (p.57) "I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school."
-[says] (p.57) "Shinohara-san's group ranking has been dropping lower and lower every day."
-[says] (p.57) "If worse comes to worst and we can't find another group for her to join, I'll take matters into my own hands."
-[says] (p.57) "I was lucky enough to secure first place in a Task that rewarded me with three additional spaces in my group."
-[says] (p.59) "Look who's talking. If you've really run low on food, then you ought to be a bit more pressed yourself."
-[trait] (p.55–59) In good shape (never in bottom ten), having won a Task granting three extra group slots; learned of the cliff incident from Sakayanagi and agreed to cooperate to save Shinohara; notes the spread of walkie-talkies among upper-year students and agrees to head to a food Task with him.
-[rel:ayanokouji-kiyotaka] (p.55–59) Reunites and coordinates the rescue; travel together.
-[rel:sakayanagi-arisu] (p.56) Was urged to meet her near the starting area and told of the retirements and Ayanokōji's plan.
-[rel:shinohara-satsuki] (p.57) Seven from bottom; she fights to prevent her expulsion.
+### y2v4 p.19 — Horikita mentioned in passing
+[mentioned] (p.19) “Although I could talk to people like Horikita and Ike, it had always felt like there was some sort of distance between us.”
+
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.55–56 — Ch.2: Horikita rejoins him at F7
+[scene] (p.55) She crosses paths with him at F7 — day eight, the first reunion since day one; she looks a little surprised but unusually fresh; she’s heading to G8, he’s to F8; they walk together.
+[says] (p.55) “Ayanokōji-kun?”
+[says:ayanokouji-kiyotaka] (p.55) “That it has.”
+[says] (p.56) “I’m heading to G8. I ended up passing through here on the way. What about yourself?”
+[says] (p.56) “Is it really so hard for you to believe that I’m still in such good shape?”
+[says] (p.56) “Yes. To be exact, I heard about it today. In light of that, I’m glad that I ran into you.”
+[says] (p.56) “Hmm. Did something unusual happen?”
+[note] (p.56) Somebody from Class 2-A reached out to her near the starting area earlier today and urged her to meet with Sakayanagi; Sakayanagi told her of the retirements of Komiya and Kinoshita and proposed a plan; the two began to negotiate.
+[trait] (p.55–56) Never in the bottom ten once during the exam — she moves with a strange calm; her interest in the cliff incident is sudden and purposeful; Sakayanagi’s contact reached her.
+[rel:sakayanagi-arisu] (p.56) Summoned to meet her near the starting area; negotiated terms with her over the Shinohara rescue.
+
+### y2v4 p.57 — Ch.2: The rescue, coordinated
+[scene] (p.57) Walking with him, she relays the rescue plan and her own stake — a Task first place that rewarded three extra group slots; Shinohara seventh from the bottom and falling toward expulsion by day’s end.
+[says] (p.57) “I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school. I heard that you were one of the first on the scene at the time, do you know the details of what happened?”
+[says] (p.57) “Shinohara-san’s group ranking has been dropping lower and lower every day. Currently, she’s placed seventh from the bottom. At this rate, it seems she’ll fall far enough to qualify for expulsion by the end of the day today, so we have to hurry. If worse comes to worst and we can’t find another group for her to join, I’ll take matters into my own hands. Before I ran into you, I was lucky enough to secure first place in a Task that rewarded me with three additional spaces in my group.”
+[says] (p.57) “At any rate, over these past eight days that I’ve been walking around the island, I’ve really come to realize that a lot more groups have walkie-talkies than I anticipated. I’ve seen students making use of them all over the place, Sakayanagi-san telling her fellow classmates about what happened to Shinohara-san is only one such example.”
+[says] (p.58) “If we trusted one another a little more, I wonder… if we could’ve done that as well…?”
+[says] (p.58) “That’s true enough.”
+[trait] (p.57–58) Honest with him about her stake (Shinohara) and her prize (three extra slots); she notes the spread of walkie-talkies, especially among upper-year groups; she concedes that inter-class trust could have enabled the same among them.
+[rel:shinohara-satsuki] (p.57) Seventh from bottom; fighting to prevent her expulsion today.
+[rel:ayanokouji-kiyotaka] (p.55–59) Travels together; coordinates the rescue; both divert to the food Task.
+
+### y2v4 p.58–59 — Ch.2: The food Task together
+[scene] (p.58) Both nearly out of food; they change course to a participatory food Task with fifteen slots; the site swarms with first-, second- and third-year groups; they arrive too late for Early Bird Bonuses and spend the last minutes trading information.
+[says] (p.58) “I don’t have that much food remaining either, so I’ll drop by the Task as well.”
+[says] (p.59) “Look who’s talking. If you’ve really run low on food, then you ought to be a bit more pressed yourself.”
+[says] (p.59) “And I’m in the same boat.”
+[trait] (p.58–59) No Early Bird Bonuses today — with food at zero they chose the Task together; her stamina is as managed as his; she accepts the late arrival without complaint.
+
+
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+### y2v4 p.67–78, 97, 123, 161, 204–212, 273–275, 281 — Horikita mentioned in passing
+[mentioned] (p.67) “she had started out by provoking Horikita before immediately setting off for the first designated area.” — Ayanokōji's knowledge of Ibuki's day-one plan.
+[mentioned] (p.68) “…Just Horikita. You heard me say I wouldn't lose to her, right? You were there.” — Ibuki.
+[mentioned] (p.71) “Besides, your true target here is Horikita, right?” — Ayanokōji.
+[mentioned] (p.72) “So? Did Horikita put you up to this? Tryna get in my way?” — Ibuki.
+[mentioned] (p.74) “With how desperate she was to beat Horikita, I couldn't imagine that she'd willingly choose to take a break.” — Ayanokōji.
+[mentioned] (p.76) “If you retire due to dehydration like this, you'll definitely lose to Horikita.” — Ayanokōji uses her as leverage.
+[mentioned] (p.77) “My only goal here is beating Horikita.” — Ibuki.
+[mentioned] (p.78) “how adamant she was about her match with Horikita...” — Ayanokōji.
+[mentioned] (p.97) “The only man Nagumo recognized, the only thing left of Manabu Horikita.” — narration.
+[mentioned] (p.123) “I think Horikita and Ibuki are doing better than me.” — Ayanokōji.
+[mentioned] (p.161) “Yes. I was able to contact Ryuuen-kun and Horikita-san. We are progressing smoothly.” — Ayanokōji to Sakayanagi.
+[mentioned] (p.204) “But the one which he named was none other but you, the only man that Horikita-senpai trusted.” — Nagumo.
+[mentioned] (p.205) “Let me see if you, who hold the expectations of Horikita-senpai, have the strength worthy of my expectations...” — Nagumo.
+[mentioned] (p.209) “Nagumo, who had been chasing after Horikita Manabu, wanted to see his shadow on me.” — narration.
+[mentioned] (p.210) “Unfortunately, the leader of Class 2-D is Horikita.” — Ayanokōji.
+[mentioned] (p.212) “you have the status of being a senpai worthy of my respect...” — Ayanokōji.
+[mentioned] (p.273) “It's a rare combination Horikita. Strolling with Ibuki, is it going to rain hail today?” — Kiryūin.
+[mentioned] (p.274) “Horikita stands by my side and confirms it again by whispering to me” — narration.
+[mentioned] (p.275) “I'm not sure, but through this exam Horikita and Ibuki have become friends ......?” — Ayanokōji.
+[mentioned] (p.281) “Kouenji turned his gaze to Horikita and said: - “I'm sure you understand, right?”” — narration.
+
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+### y2v4 p.214–216 — Ch.6: The note; she marches north
+[scene] (p.214) Day thirteen at dawn, she heads north toward I2 ignoring her designated area I7; the destination is written on a note found folded in her tent this morning — “Noon”, “K.A”, “Expelled”, “I2” — beautiful handwriting, foreign paper, the initials of Ayanokōji Kiyotaka.
+[narrates] (p.215) “I2 referred to an area on the uninhabited island, and noon was the time.”
+[narrates] (p.215) “Expelled”, and “K.A”.
+[narrates] (p.215) “If we consider this to be the meaning, then at noon today, Ayanokouji will be expelled at I2…”
+[trait] (p.214–216) She knows exactly what the note means and cannot ignore it; she burns a GPS Search and follows his signal F3→G3 to I2; her designated area I7 is sacrificed; she convinces herself it is a clue from someone else, not a trap — someone who cares.
+[rel:ayanokouji-kiyotaka] (p.214–216) She drops her own exam goal to tail him to I2.
+
+### y2v4 p.216–220 — Ch.6: Ibuki catches up; the score game
+[scene] (p.216) On the border I4/I3 she spots a girl glaring at her from behind — Ibuki, panting; spent three GPS searches to find her; they fence over their scores for a while.
+[says:ibuki-mio] (p.216) “Ah! Finally caught up! Wait, Horikita!”
+[says] (p.216) “…Why are you here?”
+[says:ibuki-mio] (p.217) “Score, show me the score.”
+[says] (p.217) “Wait, what are you on about?”
+[says:ibuki-mio] (p.217) “Didn’t I say? I’m not going to lose to you in this special exam.”
+[says] (p.217) “There’s no need to confirm it now though? The exam isn’t over yet.”
+[says:ibuki-mio] (p.217) “After the exam is over, nobody will know if the school will publish all the scores, right?”
+[says] (p.218) “Maybe so. After all, it’s only the top and bottom ranking groups that really matter.”
+[says:ibuki-mio] (p.218) “Huh? Then why don’t you look at it?”
+[says] (p.218) “This is so stupid, I can’t believe it… You purposely came here for this, seriously? How many times did you use GPS search?”
+[says:ibuki-mio] (p.218) “… 3 times. Because you were right next to me, I thought this would be the only time where I could do this.”
+[says] (p.218) “Poor you.”
+[says:ibuki-mio] (p.218) “I don’t need your sympathy, tell me your score, I’ve got 131 points!”
+[says] (p.218) “Thanks for telling me so casually. But I want to say two things. First, I can’t guarantee that you’re telling me your real score.”
+[says] (p.218) “Second, even if you disclose your real score, I won’t tell you my score.”
+[says:ibuki-mio] (p.218) “Huh? What did you just say? Are you saying the same thing as that bastard?”
+[says] (p.218) “Although we’re both 2nd years, we’re enemies. I don’t want to risk leaking information.”
+[says:ibuki-mio] (p.219) “I know now. You’re scared after hearing my score? You’re losing, right?”
+[says] (p.219) “As for whether I’m winning or losing, I’m not going to answer that either.”
+[says:ibuki-mio] (p.219) “How about you just admit it? Admit that you can’t beat my score.”
+[says] (p.219) “Fine then, just go back to your exam.”
+[says:ibuki-mio] (p.219) “… You’re so irritating. Come on, just show me your score!”
+[says] (p.219) “I’ve conceded defeat, aren’t you satisfied?”
+[says:ibuki-mio] (p.219) “I want to know your real score. I want to know by how big of a margin I beat you.”
+[says:ibuki-mio] (p.219) “How dull…”
+[says:ibuki-mio] (p.219) “It’s important to me.”
+[says] (p.219) “Sorry, I’m in a hurry.”
+[says:ibuki-mio] (p.219) “Are you running away?”
+[says] (p.219) “I’m rushing to get to my designated area, so it would be a bit strange to describe it as running away.”
+[says] (p.220) “Do you have a designated area in the north? Or are you just chasing me?”
+[says:ibuki-mio] (p.220) “What I want to know now is your score. If I know that, I will go back to my designated area too.”
+[says] (p.220) “…I lost to you.”
+[says:ibuki-mio] (p.220) “Ah, admit it? You finally admit to losing?”
+[says] (p.220) “No, I mean I lost to your persistence. My score is 145 points. It’s a pity that even though you came here in person, I still win.”
+[says:ibuki-mio] (p.220) “You won against me? If you won, give me proof, proof.”
+[trait] (p.216–220) She shows her tablet to Ibuki — 145 points; the psychological price of confirming the gap: Ibuki screams; she waves her off and keeps walking.
+[rel:ibuki-mio] (p.216–220) Her sworn rival; reveals her own score only to end the chase.
+
+### y2v4 p.220–226 — Ch.6: Amasawa stops her
+[scene] (p.220) The two girls part ways; Amasawa appears from nowhere with a childlike smile and stops Horikita; reveals the note is hers and she staked her own position to be here.
+[says:amasawa-ichika] (p.220) “Found you.”
+[says:amasawa-ichika] (p.221) “Hello, Horikita-senpai!”
+[says] (p.221) “…Who are you?”
+[says:amasawa-ichika] (p.221) “Class 1-A’s Amasawa Ichika.”
+[says:amasawa-ichika] (p.221) “You guys don’t need to mind me, just continue doing your own thing, okay~~?”
+[says] (p.221) “That’s not okay, we’re talking about something personal.”
+[says:ibuki-mio] (p.221) “You’re a nuisance.”
+[says:amasawa-ichika] (p.221) “Is Sudo-senpai okay? Horikita-senpai.”
+[says:amasawa-ichika] (p.222) “….Well, thanks for saving him, I’m grateful.”
+[says:ibuki-mio] (p.222) “Didn’t I say that you’re a nuisance? I have business with her, so get out of here.”
+[says:amasawa-ichika] (p.222) “Business? Didn’t Ibuki-senpai run over here without permission?”
+[says] (p.222) “Even if that’s the case, it’s still fine.”
+[says] (p.222) “What’s your purpose, Amasawa-san?”
+[says] (p.222) “Fine.”
+[says:amasawa-ichika] (p.222) “I want to ask you a question. Where are you going, Horikita-senpai?”
+[says] (p.222) “Right now, I’m standing and chatting with Ibuki-san, so when I finish with her, I’ll immediately rush to F3.”
+[says:amasawa-ichika] (p.223) “It’s not good to lie, Horikita-senpai! Your designated area isn’t in this direction right?”
+[says] (p.223) “What do you mean? Are you trying to make me fall into a trap using strange methods?”
+[says:amasawa-ichika] (p.223) “Misleading is useless though. The designated area you were supposed to go to is I7, isn’t it?”
+[says] (p.223) “Isn’t it a given to be wary of the people trying to frame Ayanokouji-kun?”
+[says:amasawa-ichika] (p.223) “Oh, so that’s it. Perhaps.”
+[says:amasawa-ichika] (p.224) “Where are you planning to go, Horikita-senpai? It’s not I2, is it?”
+[says] (p.224) “You’ve seen through a lot, huh. But I decided to go to I2 because of what happened this morning. You’re really observant, aren’t you?”
+[says] (p.224) “Ibuki-san.”
+[says:ibuki-mio] (p.224) “Ah, seriously? Well that sucks.”
+[says] (p.225) “If you’re satisfied now, go along to your designated area. On the last day, the score you’ll get is twice as high, so you still have a chance to bounce back.”
+[says:ibuki-mio] (p.225) “Yeah, but… What do you mean by abandoning the designated area?”
+[says] (p.225) “Ibuki, this is a great opportunity. I’m in a state where I can’t score right now.”
+[says:ibuki-mio] (p.225) “Indeed, the winner and loser will be decided at the end of this uninhabited island exam. If you say you’re going to stop now, I won’t hesitate to make a comeback for good.”
+[says] (p.226) “I’m going to I2 now, what are you going to do?”
+[says:amasawa-ichika] (p.226) “Why are you going to such an irrelevant area as I2? There’s not even an event there. Is this something you should be doing during a special exam?”
+[says] (p.226) “Don’t tell me you don’t know why?”
+[says:amasawa-ichika] (p.226) “What do you mean?”
+[says] (p.226) “Don’t play dumb, what’s the purpose in throwing this piece of paper in the tent when I was asleep?”
+[says:amasawa-ichika] (p.226) “…Paper? Is that for me?”
+[says:amasawa-ichika] (p.226) “It’s a string of irregularly arranged words… “Noon”, “K.A”, “Expelled”, “I2”.”
+[says:amasawa-ichika] (p.226) “I really hate… how you like to play games, even to this extent…”
+[says] (p.226) “Games? What are you planning to involve me and Ayanokouji-kun in?”
+[says:amasawa-ichika] (p.226) “This, I don’t know. Because I’m just one of the bystanders, just like you.”
+[says] (p.226) “Don’t misunderstand. You appearing in front of me is the best proof that you wrote this.”
+[says] (p.226) “Looking at those 4 words, what kind of bad feeling are you experiencing?”
+[says:amasawa-ichika] (p.226) “Ayanokouji may be expelled. It’s not hard to understand it like that.”
+[says:amasawa-ichika] (p.227) “There’s something I got out of our conversation. Something’s gonna happen at I2. Otherwise, you wouldn’t try so hard to stop me here.”
+[says:amasawa-ichika] (p.227) “About Ayanokouji-senpai’s situation. You don’t know anything about that, right, Horikita-senpai?”
+[says] (p.227) “So, are you saying that you know him better than I do?”
+[says:amasawa-ichika] (p.227) “That’s right. I know Ayanokouji-senpai very well. Why is he so handsome, so smart… and so much stronger than anyone else?”
+[says:amasawa-ichika] (p.228) “Then, what do you know, Horikita-senpai?”
+[says] (p.228) “Yeah, it’s true. I probably know nothing about him. I can’t deny that.”
+[says] (p.228) “But?”
+[says] (p.228) “from now until graduation, I want to continue understanding him better, as my classmate… As a friend, more than you are now.”
+[says:amasawa-ichika] (p.229) “Do you think you can help? Horikita-senpai.”
+[says] (p.229) “Maybe I’m not strong enough right now, but I intend to help him when he’s in trouble.”
+[says:amasawa-ichika] (p.230) “Don’t kid me, how could Ayanokouji-senpai need your help?”
+[says] (p.230) “That’s true, at least for now.”
+[says] (p.230) “One more thing, I learned that you genuinely don’t want me to go to I2, which means you’re not the one who wrote that.”
+[says:amasawa-ichika] (p.230) “I can’t let you go over there, Horikita-senpai.”
+[says] (p.230) “The more you try to stop me, the more I must go to I2. From your tone of voice, shouldn’t he be having a hard time now?”
+[says:amasawa-ichika] (p.230) “Do you think you get past me?”
+[says] (p.230) “Yes, I do think I can get past you.”
+[says:amasawa-ichika] (p.230) “Well~ Your determination has been conveyed to me. I’ll only wait until you put your backpack down.”
+[says:amasawa-ichika] (p.231) “Let me tell you something first. I have experience with martial arts.”
+[says] (p.231) “I already knew that.”
+[says:amasawa-ichika] (p.231) “…Ah, you really are an information warrior.”
+[says:amasawa-ichika] (p.231) “Let me also say right now that I’m super powerful, so you better keep that in mind.”
+[trait] (p.220–231) She admits she knows almost nothing about him — Amasawa is the information warrior who knows him deeply; she sets I2 as her own destination; Amasawa physically blocks her; Horikita strips to a fighting stance.
+[rel:amasawa-ichika] (p.220–231) The note writer; she challenges Horikita physically; she taunts her with Amasawa-level knowledge of Ayanokōji.
+[rel:ibuki-mio] (p.224–226) Sends her to I7 to save her from the aftermath.
+
+### y2v4 p.232–236 — Ch.6: Amasawa's demonstration
+[scene] (p.232) Fight at I2's border; Amasawa fights with minimal movement; Horikita is smashed to the ground in one throw; a kick to her ribs; Amasawa pins her down like a game.
+[says] (p.232) “Huh?!”
+[says] (p.232) “Impossible…”
+[says:amasawa-ichika] (p.232) “What’s impossible, huh?”
+[says] (p.232) “Kgh-!”
+[says:amasawa-ichika] (p.232) “Oh no, you can’t take this lightly. Okay, I’ll give you some time to recover, stand up.”
+[says] (p.233) “I’ll do that, as long as your motive isn’t to stop me from going to Ayanokouji-kun.”
+[says] (p.234) “Again.”
+[says:amasawa-ichika] (p.234) “You thought I just used judo, didn’t you? That’s too naive of you.”
+[says] (p.235) “The 1st years this year, they aren’t cute at all…”
+[says:amasawa-ichika] (p.235) “Who are you? You seem to know the Ayanokouji-kun in the past…”
+[says] (p.235) “How do you expect me to tell you about these things, senpai?”
+[says:amasawa-ichika] (p.235) “How should I say this? You really are a disappointment. You aren’t as good as I thought you are, Horikita-senpai. It’s because of this that Ayanokouji-senpai didn’t seek your help.”
+[says:amasawa-ichika] (p.235) “When you say you want to help him, it actually is to find out what Ayanokouij-senpai thinks about how you aren’t being trusted by him.”
+[says] (p.236) “…Maybe so.”
+[says:amasawa-ichika] (p.236) “I also just said, Horikita-senpai, you aren’t worthy for Ayanokouji-senpai to rely on.”
+[says] (p.236) “Even so, this shouldn’t come from your mouth, but his.”
+[says:amasawa-ichika] (p.236) “Do you know what I mean by that?”
+[says:amasawa-ichika] (p.236) “Still, even Kushida-senpai is more discerning.”
+[says] (p.236) “Kushida-san? Why did you say her name?”
+[says:amasawa-ichika] (p.236) “Stand up, Horikita-senpai. I no longer want to talk to you. It’s annoying me. So let’s end this.”
+[trait] (p.232–236) She goes down repeatedly — body throw, rib kick, no stamina left; Amasawa fights like she's playing; she pieces together that Amasawa suffered a fight before this one; she cannot guess who hurt her — but the answer must be someone Ayanokōji knows.
+[rel:amasawa-ichika] (p.232–236) The fight; Amasawa dominates her completely.
+
+### y2v4 p.237–251 — Ch.6: The 2-on-1; the way opens
+[scene] (p.237) Ibuki returns at the last second and grabs Amasawa's fist; Amasawa mocks her; Horikita hatches the 2-on-1 plan; the two form a group; they overwhelm Amasawa with feints; Amasawa's old injuries surface; she retreats laughing and opens the path.
+[says] (p.237) “You, why….”
+[says:amasawa-ichika] (p.237) “Ahah…. Do you call that fighting?”
+[says:ibuki-mio] (p.237) “The one who beat you is me, and so I don’t want you losing to some first year I don’t know in front of me.”
+[says:amasawa-ichika] (p.237) “I’m Amasawa Ichika. Please remember my name, Ibuki-senpai.”
+[says:ibuki-mio] (p.237) “I’ve got a bad memory. If you want me to remember, you’d better impress me a little, yeah?”
+[says:amasawa-ichika] (p.237) “Ahaha, that seems a little interesting.”
+[says:ibuki-mio] (p.237) “I’ll have fun with her, so you go where you want to go.”
+[says:amasawa-ichika] (p.237) “What are you talking about? You worked hard in this special exam just to beat me, right?”
+[says:ibuki-mio] (p.237) “Aren’t you going to give up on the designated area as well? In that case, even if I comeback and get the W, there’s no point in it.”
+[says] (p.238) “She’s incredibly powerful. You might regret it later, is that okay?”
+[says:ibuki-mio] (p.238) “What? Are you saying that I’ll lose?”
+[says] (p.238) “She’s a formidable opponent.”
+[says:amasawa-ichika] (p.238) “I don’t see me losing to Ibuki-senpai at all.”
+[says:ibuki-mio] (p.238) “I have faith that I’m stronger.”
+[says:amasawa-ichika] (p.238) “Who’s going to fight? Hurry up and decide~~”
+[says:ibuki-mio] (p.238) “I will fight her.”
+[says:ibuki-mio] (p.238) “This is my fight. It’s none of your business.”
+[says:ibuki-mio] (p.239) “Talking about how strong your opponent is and now you’re messing around like this? Did you bang your head or something?”
+[says] (p.239) “I’ve thought about it, and if you ask me, you can’t win against her.”
+[says:ibuki-mio] (p.239) “Stop joking around. Don’t decide before it even happens.”
+[says] (p.239) “That’s the truth. I couldn’t do anything, so there’s no way you can win against her.”
+[says] (p.239) “Then prove it, right here in front of me….”
+[says:ibuki-mio] (p.239) “What for?”
+[says] (p.239) “If you don’t want to lose, if you want to break this stalemate, show me your resolve. Form a group with me. If something happens to one of us and have to withdraw, the group will still survive. That’s the only way to effectively prevent the withdrawal.”
+[says:ibuki-mio] (p.239) “Are you kidding me? Why would I form a group with someone like you?”
+[says] (p.239) “Didn’t I just say? I need you to come to an understanding. If you haven’t yet, then don’t join this fight.”
+[says:ibuki-mio] (p.239) “So annoying…”
+[says] (p.239) “It’s alright if you don’t like it, but I’d like to rely on you if you’re going to join the fight.”
+[says:ibuki-mio] (p.239) “This sucks. But it wouldn’t be much fun if you’ll be forced to drop out because of some 1st years.”
+[says:amasawa-ichika] (p.241) “It’s not a bad strategy. If separate students form a group, it’s true that if something happens to one of them, they can still avoid being expelled.”
+[says:amasawa-ichika] (p.241) “But there’s just one thing you thought incorrectly, Horikita-senpai.”
+[says] (p.241) “Incorrect? What exactly do you mean?”
+[says:amasawa-ichika] (p.241) “It’s alright for one person to withdraw, which means, it’s okay for me to break one of you.”
+[says] (p.245) “Like before, we attack Amasawa-san at the same time. However, actually hitting her is of secondary importance. I want you to dodge her attacks, make sure not to get caught, and continue to attack.”
+[says] (p.246) “You are equal or stronger than me in terms of fighting, but that’s it. In other areas, we are not on the same level. You are not good at academics, you can’t lead your class, and you can’t cooperate with others. I don’t want to be mean, but calling yourself my rival is just you being narcissistic.”
+[says:amasawa-ichika] (p.248) “Ahhhhh, have I been exposed? My physique is actually unexpectedly weak then.”
+[says:amasawa-ichika] (p.249) “I just had a fight, before I fought you senpais.”
+[says:ibuki-mio] (p.248) “Hah, hah…. Heheh, Amasawa…. I’ll admit that you’re strong, but it seems like your stamina isn’t infinite.”
+[says:amasawa-ichika] (p.248) “Ah! Ah!”
+[says:ibuki-mio] (p.248) “Ah… That worked really well…”
+[says] (p.249) “Do you want to know who caused it? Could it be Housen-kun—?”
+[says:amasawa-ichika] (p.249) “Sorry, but I can’t believe you. Who is it?”
+[says:amasawa-ichika] (p.250) “Oi, what are you doing!”
+[says] (p.250) “…Yeah, I was too careless.”
+[says:amasawa-ichika] (p.250) “It seems like it’s over. It’s a bit interesting, but it’s going to be a while again.”
+[says] (p.251) “What are you talking about?”
+[says:amasawa-ichika] (p.251) “Where? Well, to the designated area i guess. After all, there’s still a special exam going on.”
+[says:amasawa-ichika] (p.251) “Ah, by the way, I don’t think you need to go after Ayanokouji-senpai anymore.”
+[says] (p.251) “…Why?”
+[says:amasawa-ichika] (p.251) “It’s all over. If you think I’m lying, go ahead and see for yourself.”
+[says:ibuki-mio] (p.251) “What are you going to do? You going to go after Ayanokouji? That’s why you fought with Amasawa, right?”
+[says] (p.251) “Yeah, I’ll go.”
+[says:ibuki-mio] (p.251) “Then I’ll go too.”
+[says] (p.252) “I’m thinking, if Ayanokouji’s in danger, I can taunt him next to you.”
+[says] (p.252) “You really are a bad person.”
+[trait] (p.237–252) She turns defeat into a shared project; Ibuki joins the group-merge to save her own pride; together they feint-and-counter Amasawa; the first to crack is Amasawa's stamina; Ibuki and she head to I2; she now knows someone already fought Amasawa before them.
+[rel:ibuki-mio] (p.237–252) Her momentary ally; the school hates them both; they fight together.
+[rel:amasawa-ichika] (p.237–252) She knows about the earlier fight that left the bruise; Amasawa opens the path to I2 to watch them leave.
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
