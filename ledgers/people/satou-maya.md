@@ -557,6 +557,19 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:shinohara-satsuki] (p.110) She stands shoulder to shoulder with Ike.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
+
+### y2v7 p.131–161 — The §3 closing; the aces; Satō's “Welcome back!”
+[scene] (p.131) §1 — the overcrowding caused a shortage of staff; Sato and Mii-chan were the aces of the team, working hard all the time; Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day.
+[note] (p.131) Eight maid outfits prepared — two were basically considered as spares; no more than six maids could work at any one time; Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira.
+[scene] (p.148) §2 — Kushida was walking around handing out new cookies while serving customers with a smile; Satō shouted and led them to the entrance.
+[says] (p.148) “Welcome back!” — Satō.
+[scene] (p.150) §2 — Satō's voice reached the waiting room.
+[says] (p.150) “Ayanokōji-kun, Hasebe-san, take three pictures of us! Thank you very much!” — Satō.
+[rel:karuizawa-kei] (p.110) Kei continues to back Satō.
+[rel:matsushita-chiaki] (p.131) She substituted her shift while ill.
+[rel:wang-mei-yu] (p.131) The other ace of the team.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

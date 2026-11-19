@@ -1205,6 +1205,25 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:yagami-takuya] (p.102) The interrogator who wants the details.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.136–151 — The uniform box; the Shizuku reveal
+[scene] (p.135–147) AK approaches the bench at Keyaki Mall with a cardboard box; Airi's maid uniform inside; the withdrawal letters.
+[note] (p.136) “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka's worldview breaks in one moment.
+[note] (p.136) The box contained a maid's uniform; his name as the recipient; the online store as the sender; he himself did not know about this until he received and searched it.
+[note] (p.142) “She realized that there was a possibility that you would stop and not participate in the festival. That's why this was supposed to be delivered to you, to prevent that from happening, wasn't it?” — Ayanokōji.
+[note] (p.141) “A-ai...” — Haruka muttered looking down at the uniform.
+[note] (p.145) The name of the account was “Shizuku,” another name Sakura Airi went by when she used to secretly be active as a gravure idol; after an incident, Airi deleted her account, but Kushida found that it had recently been restored; the account had only been created a few days ago but already had over 1,000 followers.
+[note] (p.145) “I've decided to resume my idol activities after a long hiatus.” — her new first tweet.
+[note] (p.145–146) “I decided to do what I could do. To become the person I want to be. To show my best friend that I am not ashamed of myself after she graduates.” — the second tweet.
+[note] (p.146) “I finally auditioned yesterday! I was so nervous, but I'm so happy!” — the third round of auditions; the social networking site carried her comments upon passing.
+[note] (p.146) “The reason I decided to go into show business is because I wanted to make my voice heard.” — the fourth tweet.
+[note] (p.146) “I'm bitter and sad, but I want to look forward… I am looking forward. So don't you lose too.” — the fifth tweet.
+[note] (p.146) “Even now, she was trying her best to walk, even though she must have been heartbroken. It was because she was afraid that Haruka might stop.” — out loud by Haruka's read.
+[rel:hasebe-haruka] (p.136–151) The maid uniform Airi left for Haruka; the SNS account reveal.
+[rel:kushida-kikyou] (p.145–151) She found the account; Airi's Shizuku reveal.
+[rel:ayanokouji-kiyotaka] (p.136–151) The uniform box; he had no idea about her SNS until now.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

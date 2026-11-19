@@ -295,6 +295,16 @@ char_id: wang-mei-yu · status: minor
 [rel:ayanokouji-kiyotaka] (p.114–125) The reshoot; the Darjeeling rescue; the search for Kushida.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
+
+### y2v7 p.131–161 — The §3 closing; Mii-chan's scream
+[scene] (p.131) §1 — the aces of the team, working hard all the time — Sato and Mii-chan; the overcrowding caused a shortage of staff.
+[note] (p.131) Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day and was now moving around.
+[scene] (p.159) §3 — the line; the standing-room overflow; Mii-chan's voice echoes like a scream.
+[says] (p.159) “I can't let any more people in! The second slot is filled up!” — Mii-chan's voice echoed like a scream.
+[rel:kushida-kikyou] (p.159) The second slot fills.
+[rel:ayanokouji-kiyotaka] (p.159) The standing-room-only plan.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

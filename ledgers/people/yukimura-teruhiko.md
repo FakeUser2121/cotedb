@@ -1011,7 +1011,12 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y2v7 p.11 — “Keisei” takes first place in Class 2-B
 [scene] (p.11) Midterm results: “Keisei took first place. He had a perfect score in all subjects.” — Class 2-B's top scorer; 3 points ahead of Horikita.
 [number] (p.11) First place overall; perfect score in all subjects; the class's surprise result.
-[note] (p.11–12) Identity recorded as printed. The roster's Keisei-adjacent rows (ishigami-kyou, ishigami-kyo-1a) carry no y2v7 cell, and the translation prints this class-2-B top scorer as “Keisei” while printing “Yukimura-kun” for the same preparation group at p.93 — the Y2V10 defect of one character printed two ways. The identification is NOT assigned as fact — see Coverage notes.
+[note] (p.11–12) Identity recorded as printed. The roster's Keisei-adjacent rows (ishigami-kyou, ishigami-kyo-1a) carry no y2v7 cell, and the translation prints one character as both Yukimura Teruhiko and “Keisei” (the Y2V10 identical defect); the identification is NOT assigned as fact — see Coverage notes.
+
+### y2v7 p.148 — Keisei on break
+[mentioned] (p.148) “It was probably due in large to the fact that he was not the central figure in a particularly contentious situation. Unfortunately, Keisei, formerly of the Ayanokōji group, was not in sight as he had just gone on a break.” — Keisei; formerly of the Ayanokōji group; not in sight.
+[note] (p.148) Identity recorded as printed; the roster's Keisei-adjacent rows are untouched; the Keisei/Yukimura identity unresolved; not assigned.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v8
 

@@ -80,13 +80,10 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — inogashira-kokoro mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: none.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.131 — The flyer-handing specialist
+[mentioned] (p.131) “the remaining three were Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira, who specialized in handing out flyers.” — Inokashira specialized in handing out flyers.
+[note] (p.131) The corpus prints “Inokashira”; the roster row is Inogashira Kokoro; the spelling variance is kept as printed; the on-page name likely refers to the same Inogashira, but identity is not assigned outright; not assigned.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v10
 

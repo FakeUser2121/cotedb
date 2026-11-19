@@ -1303,6 +1303,19 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.118) The counter-flyer plan.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
+
+### y2v7 p.132 — The Satsuki suggestion
+[scene] (p.132) The staffing crisis; Ike wonders about Shinohara; “I think she'll be fine. Besides, she was practising to be a maid, even if only lightly.” — Shinohara was working on the cooking side of the stall.
+[says] (p.132) “Oh no, I heard you say you're short on staff right now. ……. I was wondering if you could leave it to Satsuki.” — Ike.
+[says] (p.132) “I think she'll be fine. Besides, she was practising to be a maid, even if only lightly.” — Ike.
+[says:ayanokouji-kiyotaka] (p.132) “Can you call her right now?” — Ayanokōji.
+[says] (p.132) “Sure! I'm on it!” — Ike; he's on it.
+[note] (p.132) Fifteen minutes later, Shinohara was asked to go to the hall, and Azuma was asked to join Kushida in the hallway; later, with a recommendation from Shinohara, he strongly persuaded Azuma; it was decided that she would join us.
+[rel:shinohara-satsuki] (p.132) His suggestion holds up; she asks to be relieved at 3:00.
+[rel:azuma-sana] (p.132–133) Persuaded by Shinohara's recommendation; she joins.
+[rel:ayanokouji-kiyotaka] (p.132) The call chain.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

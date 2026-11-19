@@ -432,6 +432,17 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ike-kanji] (p.110) Shoulder to shoulder all morning.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
+
+### y2v7 p.132–133 — The 3:00 break; the held hallway
+[scene] (p.132) Ike suggested Satsuki to Ayanokōji — she was practising to be a maid, even if only lightly; she was working on the cooking side of the stall; Ayanokōji called her to the hall; she asks to be relieved at 3:00.
+[note] (p.132) Fifteen minutes later, Shinohara was asked to go to the hall, and Azuma was asked to join Kushida in the hallway to hold up the customers waiting there; but Kushida's expression in the hallway was grim, and it was not a development she seemed to relish.
+[note] (p.132) “It's hard to say if she's the right person for the job, because Shinohara-san doesn't make much of an impact visually, and she's not very good as customer service.” — Kushida's observation; Shinohara's impact will be limited.
+[rel:ike-kanji] (p.132) The Ike suggestion; she accepts the hall job.
+[rel:azuma-sana] (p.132–133) The recommendation that brought Azuma in; she joins Kushida in holding the line.
+[rel:kushida-kikyou] (p.132–133) The 3:00 lineup; the hallway call.
+[rel:hirata-yousuke] (p.132) Her cooking stall partner.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

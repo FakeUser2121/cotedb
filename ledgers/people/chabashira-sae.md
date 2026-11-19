@@ -1502,13 +1502,110 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.7–12) The additional-funds and OAA motivations hang on her choices; Chabashira watches her hand raise the tie question with genuine interest.
 [rel:ike-kanji] (p.10) The pocket-money question — she answered without looking.
 
-### y2v7 p.153–160, 184 — Chabashira as a maid (epilogue note)
-[note] (p.153–160, 184) Chabashira was blackmailed (via the 100,000-point rule) into working as a maid for the festival's final hour; red-faced, she became the café's biggest attraction (63 photos, "surpassing Kushida"), and "ran out of the classroom like a rabbit as soon as 4 o'clock came" — the "cosplay" is credited by the class for their 1st-place win ("I guess Chabashira-sensei's cosplay really struck!").
-[rel:ayanokouji-kiyotaka] (p.153–156) He paid to rent her as a maid — "using the school rules" against her.
-[rel:horikita-suzune] (p.184) She handled the festival debrief; Chabashira's "cosplay" became a class joke.
-### y2v7 p.54–55 — The teachers' gossip about her change
-[mentioned] (p.54–55) In the staff-corridor teachers' gossip: “Chabashira-sensei has changed recently.” / “She's become more chirpy, or rather, she seems to be laughing more often.” — Mashima, her schoolmate, is asked about it; he asks Ayanokōji what happened at the unanimous special exam; he withdraws the question.
-[note] (p.55) The change the teachers gossip about was triggered by the unanimous voting special exam — she came out of her shell.
+### y2v7 p.153–164 — The 100,000-point hire; standing room only; 63 photos
+[scene] (p.153) §3 — it was getting close to 3:00 pm; he left the maid café to prepare for his final move; he called Chabashira-sensei, who would have been using her points for a non-second year class on campus.
+[says:ayanokouji-kiyotaka] (p.153) “Sorry for calling you all the way here, Chabashira-sensei.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.153) “Have you finished using your private points?” — Ayanokōji.
+[says] (p.153) “Hmm? Ah, there are 80 points left. I'd say I've used them up. What about it?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.153) “In other words, you're free for the rest of the day?” — Ayanokōji.
+[says] (p.153) “Yes, that's right. Now all we have to do is wait for the end of the cultural festival... What the hell is this?” — Chabashira-sensei; she showed her confusion, not understanding why she was summoned here.
+[note] (p.153) The kimono café was just a backdrop; he left it up to Chabashira-sensei to see the momentum and interpret it as she saw fit.
+[says:ayanokouji-kiyotaka] (p.153) “Actually, I'd like to ask Chabashira-sensei for her cooperation for the next hour or so.” — Ayanokōji.
+[says] (p.155) “No no no, wait, Ayanokōji, cooperation? I don't understand what you're talking about.” — Chabashira-sensei.
+[note] (p.155) Teachers were to contribute to the festival by spending points in the school; that was the only role they had been given today.
+[says:ayanokouji-kiyotaka] (p.155) “We want Chabashira-sensei to be our maid in order to make sales at the maid cafe.” — Ayanokōji; “What...?” — Chabashira-sensei; this may have been the dumbest strategy he had ever come up with in his life.
+[says:ayanokouji-kiyotaka] (p.154) “Did I not just tell you? I'm just going to do what I can to win.” — Ayanokōji.
+[says] (p.154) “Why should I be the maid!? I'm the homeroom teacher. I can't be obligated to one particular class.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.154) “That's not true. The rule this time is that school teachers are to be treated as if they were guests of honor. Homeroom teachers are not allowed to use points in their grade level. Those are the only two rules that have been imposed. There is also no rule that only students may participate in the presentation. In extreme cases, they should be free to have guests of honor serve them. It would be unusual, but that problem could be resolved if the guest consents.” — Ayanokōji.
+[note] (p.154–155) This was not a prohibited activity under the rules; it would be a clear violation if the person were to purchase goods from a convenience store, Keyaki Mall, or any other place other than the points of sale available at the festival, using personal expenses; however, in terms of “human resources,” there was no need to apply for such a permit, and it was free.
+[says:ayanokouji-kiyotaka] (p.155) “Shall I explain it more clearly? Assuming there was a student carrying a heavy load, they are dizzy. A guest passing by offered to help and carried the luggage on his shoulders to the desired location. Is this a violation?” — Ayanokōji.
+[says] (p.155) “It's not a violation…” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.154–155) “Exactly. Other people can be substituted for the students: 2nd year class A asks 2nd year class D for help, and class D readily agrees. Would there be a problem if we loaned the students out?” — Ayanokōji.
+[note] (p.155) The reasons for loaning them out were varied; whatever the reason, as long as it was within the rules, the school won't blame you for it; he saw a few students supporting other classes; “I don't see the problem.” — “It's the same thing. A teacher's willingness to cooperate isn't, in itself, a violation of the rules.” — “No, it doesn't. It's still considered lending a hand for the class you're in.” — “That's right. Even if it is broadly allowed, you can't be sure that such an opinion won't be expressed.”
+[note] (p.155) “That's why clear rules need to be utilized and legitimate.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.155) “We will pay for any private points that would be incurred when renting teachers. I'm sure the school is looking at that possibility in anticipation of this festival.” — Ayanokōji.
+[says] (p.155) “No way, no, but... I don't know if I'm... enough to be considered...” — Chabashira-sensei.
+[note] (p.155–156) He'd hit the bull's-eye; she showed such an expression; Chabashira-sensei was also a teacher at this school, and in the past had been in charge of other classes; it was only natural that the school made various assumptions for a cultural festival that had never been held in the past.
+[note] (p.156) In principle, private points at this school were a powerful weapon; no wonder it could be used not only for routine shopping, but also to secure personnel if necessary.
+[says:ayanokouji-kiyotaka] (p.156) “There is nothing in this school that cannot be bought with private points. Is there a difference?” — Ayanokōji; to deny this was to deny the school; and it was like admitting that you were a disqualified teacher.
+[note] (p.156) In a panic, Chabashira-sensei began reading the rules about the festival on her cell phone.
+[note] (p.156) “Pay 100,000 private points for every hour students ask for a teacher's help.” — the backroom rule, the same thing that happened when private points were used to buy test scores.
+[says] (p.156) “It seems that you are well prepared for the behind-the-scenes rules that only this schools has. That's the option.” — Chabashira-sensei.
+[says] (p.156) “That's 100,000 points per hour. It's not a cheap deal. Are you sure you want to do this?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.156) “Of course I'm sure.” — Ayanokōji.
+[note] (p.156) Asking teachers to cooperate inherently doesn't help much; whether you have them cook or serve, if they didn't practice beforehand, it would be a waste of private points to have them on your side for an hour or so; it was difficult for them to perform the job on the spot if they had to go out to the restaurant to serve the customers; but if you used them in a different way than usual, you could get the effect you paid for.
+[says] (p.156) “Are you really, really sure?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.156–157) “I'm sorry, Chabashira-sensei, but now I'm going to ask you to cooperate even if you don't want to. I don't have a lot of time to spare right now.” — Ayanokōji.
+[note] (p.157) After 3:00 p.m., they wouldn't be able to get a full hour's help, which would make them less efficient.
+[says] (p.157) “Well, wait. Yes, why don't you ask Chie? She does this kind of thing better. She'd be ready to do it even for a rival class.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.157) “I'm sure she would. But what I'm looking for now is not someone who can do this dexterously, but rather someone who is clumsy. Because I believe that the more clumsy you are, or the more effective you are at the margins, the more effective you will be.” — Ayanokōji.
+[says] (p.157) “I have no idea what your logic is.” — Chabashira-sensei; it must have been true that deep down she didn't like it and that she didn't understand; it was because she didn't understand that Chabashira-sensei functioned a certain “way” that could be appealable to a certain audience.
+[says:ayanokouji-kiyotaka] (p.157) “There's no more time. Please take care of it.” — Ayanokōji.
+[note] (p.157–158) He forced her to accept his private points as he took his phone and paid Chabashira-sensei; “We have a deal.” — “That's not fair, Ayanokōji, using the school rules.” — “That's not cowardly, it's a really straightforward way to fight.” — the exchange.
+[says] (p.157–158) “I have no idea how to act in a maid cafe. I don't know what's going to happen to me.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.158) “That's fine. I don't expect anything from the teacher.” — Ayanokōji.
+[note] (p.158) Chabashira-sensei staying inside the classroom in a maid outfit; that fact alone was enough to win.
+[scene] (p.157) §4 — after pushing the reluctant Chabashira-sensei into the locker room, he pasted the text he had prepared on his cell phone and sent it to all his classmates at once as a bulk message; the purpose was to inform the students that Chabashira-sensei will be working as a maid for the last hour only, and to inform the students who were available that they were to go around the school advertising the event.
+[note] (p.157–158) As intended, the buzz spreaded swiftly through word of mouth; using teachers, this was a limited, oversized event that students would never be able to pull off; the air in the hallway was buzzing so much that it instantly turned into an uproar.
+[scene] (p.158) Chabashira-sensei, dressed as a maid, rushed into the hallway with a red face.
+[says] (p.158) “Okay, here I am Ayanokōji, hurry up and let me inside the classroom!” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.158) “We've been waiting for you.” — Ayanokōji; he can't keep showing her off for free, so he led her inside the classroom.
+[says] (p.158) “So, what am I supposed to do here?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.158) “You don't have to do anything. Just stand still.” — Ayanokōji.
+[says] (p.158) “What?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.158) “I told you, I don't want you to be dexterous. I'm looking forward to working with you.” — Ayanokōji.
+[note] (p.158–159) She didn't talk to anyone, but simply stood shyly in the corner of the classroom; being clumsy, she wasn't able to do anything in particular and needed to stand without talking to anyone; this was the ultimate eroticism.
+[note] (p.159) They were going to have to make a major shift in their maid cafe policy from here on out; the biggest concern was the large number of visitors who couldn't fit in the classrooms; in order to forcefully solve this physical problem, they had to make the customers pay a reasonable price; the idea was to have a “standing room only” fee to accommodate over-capacity customers; they added a rule that allowed immediate entry upon payment of 1,000 points to enter the classroom.
+[note] (p.159) The first guests waiting in line would be offered entry, and only those who responded that they would be willing to stand in line would be allowed to enter the room first; some of the visitors waiting in line at this point may complain, but they were willing to take that risk.
+[says] (p.159) “Standing room only, I've never heard of that idea in a maid cafe.” — Chabashira-sensei.
+[note] (p.159) A standing room should be set up on the side of the room where desks couldn't be set up and in the space at the rear of the classroom; this would allow people to enter the room without desks and chairs; and 2,000 points for a photo shoot with Chabashira-sensei; this will be sold for more than double the price of a photo of one student.
+[note] (p.159) They hurriedly filled in the guests with the board at the entrance; “Amazing. Would a customer pay that price?” — “Look behind you.” — Kushida looked back and saw the customers who had paid their bill and accepted the standing room disappear one by one into the classroom.
+[note] (p.159–160) The current faculty and staff were intrigued by the sight, which they would not see again; although homeroom teachers of the same grade were restricted from spending their private points, the number of teachers who were still at the school and in charge of classes other than the second year was, of course, overwhelmingly large; the adults who worked at Keyaki Mall had a strong image of Chabashira-sensei as a hard-nosed teacher, as they witnessed repeatedly in their daily lives; adults came in like a wave.
+[note] (p.160) The maid café queue was overflowing with more than 10 or 20 people in line; the long line was not decreasing, but rather gaining momentum.
+[says:kushida-kikyou] (p.160) “Wow, that's a lot of people, Ayanokōji-kun.” — a stunned Kushida pulled back at the hordes of adults pouring in.
+[says:ayanokouji-kiyotaka] (p.160) “Yeah, I guess so. To be honest, I didn't think it would be this big either.” — Ayanokōji.
+[says:kushida-kikyou] (p.160) “How long have you been thinking about this crazy thing?” — Kushida.
+[says:ayanokouji-kiyotaka] (p.160) “About two weeks ago. I had it in mind as a hidden gem for the festival.” — Ayanokōji.
+[says:kushida-kikyou] (p.160) “What would have happened if we had started earlier...?” — Kushida.
+[says:ayanokouji-kiyotaka] (p.160) “Certainly the lasting effect could have been two or three hours. But another problem arises. Because if you have more time to spare, other classes can do similar imitations.” — Ayanokōji.
+[says:kushida-kikyou] (p.160) “Oh, I see. They have less than an hour left, so even if they wanted to imitate us, they couldn't.” — Kushida.
+[note] (p.160) “If we're going to put on a show, we only have this last hour where we can also put on a premiere.” — Ayanokōji; the fact that Kushida and the others had spread the word about the maid café in a positive light also helped.
+[says:kushida-kikyou] (p.160) “I see. No wonder I couldn't win.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.160) “Hmm?” — Ayanokōji.
+[says:kushida-kikyou] (p.160) “I realized once again how great Ayanokōji-kun is. He's a nuisance to have as an enemy.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.160) “Your eyes aren't smiling, Kushida.” — Ayanokōji.
+[says:kushida-kikyou] (p.160) “I guess it's because I was half glad we were classmates and half pissed off.” — Kushida; she said half and half, but he thought the latter was a higher percentage.
+[note] (p.160) “Don't push me! Get in line here! Please don't push!” — Sudō and his team rushed to create a wall of people and tried to get them to form a line, but it was becoming a crowd as some adults sought to somehow look into the classroom.
+[note] (p.160–161) But this was business too; the inside was thoroughly concealed and the windows were locked, so the only way to forcefully see inside was to break a windowpane; of course, no adult would do such a thing, so they forced them to form a line.
+[note] (p.161) While this was going on, there was no end to the number of people who wanted to take pictures of Chabashira-sensei; both the ‘standing-room-only’ customers, who had entered the store, and those who had already been in the store raised their hands one after the other and asked to be photographed.
+[note] (p.161) “She might be the top individual sales person in the final hour. She hasn't even done anything.” — printed untagged; not assigned.
+[says:wang-mei-yu] (p.161) “I can't let any more people in! The second slot is filled up!” — Mii-chan's voice echoed like a scream, and we were informed that the spaces had been filled.
+[says:kushida-kikyou] (p.161) “That's it, huh? It's a shame that the number of customers hasn't decreased at all yet, and there's no sign of them leaving.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.161) “Not yet. The customers who are left now are in line because they have money. I'm not going to let them leave.” — Ayanokōji.
+[says:kushida-kikyou] (p.161) “Maybe we need to carry the tables out or something? But I can't bring the tables with all the dishes and stuff. It would take a lot of work to carry them out.” — Kushida.
+[note] (p.161) It was obvious that there was no longer any space in the classroom for guests.
+[says:ayanokouji-kiyotaka] (p.161) “We can use this location to make the most out of the third slot.” — Ayanokōji.
+[says:kushida-kikyou] (p.161) “A third space?” — Kushida.
+[note] (p.161–162) He turned to all the customers in line and said.
+[says:ayanokouji-kiyotaka] (p.162) “I'm sorry, but the restaurant is full and no more rooms are available.” — Ayanokōji; after announcing this to them, he got a series of looks from disgruntled adults.
+[says:ayanokouji-kiyotaka] (p.162) “However, those of you who have at least one point on hand at this time may view the room from this location by paying the full amount of your point balance.” — Ayanokōji; this location was the hallway where the lines were formed for the maid café.
+[note] (p.162) By opening the door, the obstruction was removed, and by opening the window, the classroom was pseudo-extended.
+[says:kushida-kikyou] (p.162) “Woah, you're using the hallway?!” — Kushida.
+[says:ayanokouji-kiyotaka] (p.162) “Yes.” — Ayanokōji.
+[says:kushida-kikyou] (p.162) “But the full amount could be small, sure, but it might still be hundreds of points... you mean whoever has money and will pay it?” — Kushida.
+[says:ayanokouji-kiyotaka] (p.162–163) “No problem. I don't know if it's worth paying a lot of money, but there isn't much time left. Even if there were nearly 1,000 points left over, there would be a big question as to where and how they could be used.” — Ayanokōji.
+[says:kushida-kikyou] (p.163) “Oh, I see... I thought you were going to return the remaining points after the festival is over.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.163) “They've been notified to use them up as much as possible. They'd rather spend all their points than to lose them here. It's not an exaggeration to say that 1 point or 10,000 points are worth the same to the adults who are given them.” — Ayanokōji.
+[note] (p.163) “Please wait there while we go to the checkout in order.” — Ayanokōji gave the order and sent a few people to collect the sales; he then lined up the adults in the hallway and directed them to a position where they could all see into the classroom.
+[note] (p.163) “Now all we need to do is open the curtains that we have been using to hide the classroom.” — doing so completed the third space; the curtains opened all at once and Chabashira-sensei was surprised to see them.
+[note] (p.163–164) For Chabashira-sensei, it was a kind of public execution, but since they paid the school for it, there was no need to feel bad; “Oh, oh, I see...” — a teacher who had just previously gossiped about Chabashira-sensei's transformation sounded impressed; thus, the public presentation of Chabashira-sensei continued until 4:00 p.m., using this corridor.
+[note] (p.164) In the end, Chabashira-sensei took first place, surpassing Kushida, with 63 desired pictures.
+[rel:ayanokouji-kiyotaka] (p.153–164) The 100,000-point hire; the standing-room-only conversion; the 63 photos; the victory.
+[rel:kushida-kikyou] (p.158–164) The stunned Kushida; "He's a nuisance to have as an enemy."
+[rel:sudou-ken] (p.160) Sudō and his team make the wall for the adults pouring in.
+[rel:wang-mei-yu] (p.161) Mii-chan's scream about the second slot filling.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 
 ## y2v8
 

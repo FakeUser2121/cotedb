@@ -4899,6 +4899,42 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.121) She volunteers to leave customer service with "I have an idea" — the cookie run begins.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
+### y2v7 p.131–151 — The backstage hold; the Haruka return
+[scene] (p.131) §1 — the maids, who had taken a one-hour break, were still tired; their movements had slowed considerably; Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day and was now moving around.
+[scene] (p.131) §1 — Horikita, who was serving customers (though mainly carrying food) in this emergency situation, also saw Kushida and approached her.
+[says] (p.131) “What's going on at the end of the line?” — Horikita.
+[says:kushida-kikyou] (p.131) “We told them that they would have to wait for a long time, and while some of them will wait, most of them will leave.” — Kushida.
+[says] (p.132) “Ayanokōji-kun, as you know, I have to take a break at 3:00. I'm going to need some manpower after I leave.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.132) “I've thought it through, don't worry.” — Ayanokōji.
+[scene] (p.148–151) §2 — the missing members return; Horikita entered the waiting room; the class breathes easy.
+[says] (p.149) “Welcome.” — Horikita; she said a few words of welcome and then gently patted Haruka's stiff-looking back.
+[says] (p.149) “I thought you wouldn't show your face today, but you've made up your mind, haven't you?” — Horikita; Haruka nodded and replied as she calmed her breathing, though not fully recovered.
+[says] (p.149) “You aren't playing the role of a maid right. You haven't even practiced; I don't expect you to be as agile as Satō-san and the others, but... right now I'm in a tough situation.” — Horikita.
+[says] (p.149) “You're here to contribute to the festival. Can I trust in that?” — Horikita.
+[says:hasebe-haruka] (p.149) “Don't worry. I won't do anything to ruin everyone's hard work. I know you won't believe-” — Haruka.
+[says] (p.149) “No, I believe you.” — Horikita; without hesitation, Horikita expressed her trust in Haruka's words.
+[says:hasebe-haruka] (p.149) “Why?” — Haruka.
+[says] (p.149) “I can tell by the look in your eyes, Ayanokōji-kun must have talked you into it, didn't he?” — Horikita.
+[says:ayanokouji-kiyotaka] (p.149) “Hey.” — Ayanokōji.
+[says] (p.149) “And Kushida-san. I didn't expect her to come to me dressed as a maid.” — Horikita; she seemed to be unaware of her absence, perhaps because she was busy in the hall.
+[says] (p.149) “Kushida-san? I wonder when she left her post.” — Horikita.
+[says] (p.150) “Anyway, I'm going to make you forget your grudge against me until after the festival, even if you don't want to.” — Horikita.
+[says:hasebe-haruka] (p.150) “I know.” — Haruka.
+[says] (p.150) “Then fine. You'll be in charge of pouring for the customers who have run out of cold water, and if requested, you'll be in charge of taking pictures. Is that okay?” — Horikita.
+[says:hasebe-haruka] (p.150) “I'll see what I can do.” — Haruka; now that she had come this far, Haruka was a carp on the chopping block.
+[says] (p.150) “I have to take a mandatory break at 3:00, so I'll leave everything after that to Ayanokōji-kun. Take care of her.” — Horikita.
+[says:satou-maya] (p.150) “Ayanokōji-kun, Hasebe-san, take three pictures of us! Thank you very much!” — Satō's voice.
+[says] (p.150–151) “Before we think about winning or losing, I guess we, as a class, can finally breathe a sigh of relief.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.151) “Yes.” — Ayanokōji.
+[says] (p.151) “See you later.” — after Horikita left the waiting room, he looked at the board in the room.
+[note] (p.151) The board was designed to show at a glance who had been nominated for the most photos, and Kushida was the one who had taken the most photos during their absence, with 56; Satō, in second place, is a commanding leader by a whopping 24 pictures; Horikita took only 11 pictures.
+[rel:kushida-kikyou] (p.131, 149) The hallway call; her 63-photo domination.
+[rel:hasebe-haruka] (p.148–151) Her return; the maid outfit; the catch-all task; the cold water.
+[rel:miyake-akito] (p.148) He arrived with her at the same time.
+[rel:satou-maya] (p.148) “Welcome back!” — Satō shouts.
+[rel:matsushita-chiaki] (p.131) Ishikura substituted for her.
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
 ### y2v7 p.161–183 — Horikita's trap: Yagami exposed (from her POV)
 [scene] (p.161) On break, changes out of her maid uniform and slips to the student council room to check the meeting notes — the "love letter" (anagram) was designed to lure Yagami there; she had intended to ask Yagami (the council's contact) but used the festival as cover.
 [narrates] (p.162) "Yagami Takuya. Why would he be calling me at this time?"
