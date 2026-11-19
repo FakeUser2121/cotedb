@@ -1522,6 +1522,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.232–239) Confides in him and accepts his blunt analysis; admits she could never make decisions "without hesitation" as he does.
 [rel:hirata-yousuke] (p.234) Her old lover was "a combination of Hirata and Ike" — leader and mood-maker.
 [rel:sakura-airi] (p.237) Asks whether he could have saved Sakura.
+
+<!-- walk: y2v5 Ch.9 → p.239 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

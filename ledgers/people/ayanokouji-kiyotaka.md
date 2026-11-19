@@ -9178,6 +9178,8 @@ walk: y1v1 → DONE
 [rel:chabashira-sae] (p.232–239) Confides in him; they "make a deal with the past" — she resolves to graduate her class from Class A, "unlike before," having grown through the exam; he notes her mind has finally caught up to her current age.
 [rel:sakura-airi] (p.237–238) Discusses his choice of her for expulsion with Chabashira — he knew she had "special feelings" for him and used her personality.
 [rel:horikita-suzune] (p.237) Says Horikita "had the power to make change" but not enough time — she's the one who nearly saved Kushida.
+
+<!-- walk: y2v5 Ch.9 → p.239 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
