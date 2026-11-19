@@ -21,16 +21,15 @@ char_id: satonaka-satoru · class: Class 1-B · status: minor
 
 ## y2v6
 
+### y2v6 p.258–258 — Ch.5: Satonaka — the doubles table-tennis tip
+[mentioned] (p.258) “There’s doubles table tennis in the gym next. I just heard from Satonaka, and it doesn’t look like there are any strong opponents. There are two spaces left, and there’s a good chance we can make it in time.” — an unnamed source — Satonaka's tip fuels Class A's desperate push for the bottom.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — satonaka-satoru mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.258.
-[mentioned] (p.11) Passing mention only.
 
+<!-- walk: y2v6 Ch.5 → p.301 -->
 
-
-
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v10
 
 <!-- walk: y2v10 → start -->

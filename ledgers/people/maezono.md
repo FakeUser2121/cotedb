@@ -56,7 +56,6 @@ char_id: maezono · class: Class 1-D · status: minor
 <!-- walk: y2v2 Ch.1 → p.17 -->
 
 
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -72,8 +71,6 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.22, 25) Lets him in as a customer; waves him out.
 
 
-
-
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
 ### y2v5 p.93–96 — Maezono: the Hokkaido spearhead
@@ -82,18 +79,18 @@ char_id: maezono · class: Class 1-D · status: minor
 [trait] (p.93–96) Ski-or-nothing — argues Hokkaido's merits on snow logic, not ocean logic.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — maezono mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.58, p.60.
-[mentioned] (p.11) Passing mention only.
+### y2v6 p.58–60 — Ch.1: Maid café originator; possibly cut off by Shinohara
+[scene] (p.58) He is one of the maid café originators — AK has asked them for a pause on preparations; there is no sign he has heard yet.
+[scene] (p.60) Shinohara may not be talking to him for the same reason as Kei / Matsushita / Mori — unconfirmed on the page.
+[rel:satou-maya] (p.58) Fellow maid café originator.
+[rel:matsushita-chiaki] (p.58) Fellow maid café originator.
 
-
-
-
+<!-- walk: y2v6 Ch.1 → p.63 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -155,7 +152,6 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:ike-kanji] (p.69–72) Defends Ayanokōji; she challenges him sharply.
 
 <!-- walk: y2v9.5 Ch.4 → p.80 -->
-
 
 
 ## y2v10

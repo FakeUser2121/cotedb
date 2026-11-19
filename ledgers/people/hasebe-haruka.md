@@ -493,6 +493,137 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Haruka invites Miyake into her revenge (Miyake's POV)
+[scene] (p.12) Heard through Miyake's narration: he fell in love with Haruka, convinced of it when she said during the Unanimous Consent Special Exam that she would drop out of school.
+[says] (p.13) “Will you join me in my revenge?”
+[scene] (p.13) She asks the question as a murmur that pulls Miyake back to reality; her eyes carry the same strong, straightforward, dangerous glint as ever — she looks determined, without turbulence or hesitation — sees through his emotions, laughs, turns her back and walks away by herself.
+[trait] (p.13–14) Dangerous, determined and unreadable; she does not ask twice — she laughs and leaves, but Miyake's feelings will not let her go alone.
+[action] (p.13) “She must’ve seen through my emotions, as she laughed, turned her back and walked away by herself.”
+[rel:miyake-akito] (p.13) The person she invites into her revenge — the five-person comfortable group member who has fallen in love with her.
+[rel:ayanokouji-kiyotaka] (p.12) Her reason for dropping out and for the revenge: she said she would drop out during the Unanimous Consent Special Exam (he is the “Kiyopon” she cannot let go — context carried by later chapters).
+
+<!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.18–29 — Ch.1: Absent — the exam's other victim
+[scene] (p.18) AK narrates the exam from her vantage: as a close friend of Airi, to her the person who kept voting to expel someone — Kushida — was evil, and should have been eliminated; she added her vote to expel on that premise; then she had to pay the price for Horikita's preference of Kushida with a close friend of hers getting expelled; she would absolutely not be on board with “Let's do our best from next week.”
+[mentioned] (p.22–24) She has not replied to any of AK's messages — his “read” indicator is off; she may have blocked him; Horikita agrees it is best to wait rather than have a confrontation now.
+[mentioned] (p.28) Absent Monday — Chabashira accepted her sick leave; the class knows these three are not sick: her absence is from Airi's expulsion.
+[mentioned] (p.59) Still absent Tuesday; Chabashira has not been able to reach her; AK doubts she would ever be on board again.
+[rel:sakura-airi] (p.18) Her close friend — expelled; the reason for everything that follows.
+[rel:ayanokouji-kiyotaka] (p.22–24) He has had no courage to message her; she may have blocked him.
+[rel:kushida-kikyou] (p.28) Expelled in Kushida's place — the price Horikita's choice imposed on her.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.76–87 — Ch.2: The exam's second wound — named in the crisis talk
+[mentioned] (p.76–77) Kei: “Horikita-san … she'll only be in the way, right?” AK: “She's fully aware that Haruka and those that were involved resent her.”
+[mentioned] (p.77) Kei: “But isn't Hasebe-san more resentful of you, Kiyotaka?” AK: “That's right.”
+[mentioned] (p.85) Hirata: “So… that isn't the case with Mii-chan?” AK: “In a way.” — Haruka is in the same no-immediate-solution category.
+[mentioned] (p.87) Hirata names her — “Hasebe-san, Kushida-san and Mii-chan are absent from school.”
+[rel:ayanokouji-kiyotaka] (p.76–87) Haruka resents him more than anyone — his own reading, confirmed by Kei's question.
+[rel:kushida-kikyou] (p.87) Both absent; two of the three wounds.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.146–193 — Ch.3: Haruka — return; the cafe ultimatum
+[scene] (p.168) Akito's message reaches AK — “Haruka will be coming to school from Monday next week.” and “Could you quietly watch over Haruka for a while?” — AK receives his own copy marked as emphasis; he agrees to quietly watch.
+[scene] (p.170–171) She appears at Monday homeroom escorted by Akito, ready to flee at any moment; she glances at AK and quickly turns to her phone — “Speak of the devil thingy” — her expression unreadable; she does not move once from her seat for the whole period.
+[scene] (p.175) Kushida tries again — “Hasebe-san. Are you okay with that?” — Haruka doesn't respond and keeps staring out the window.
+[scene] (p.176–193) Her hallway intercept — “Kiyopon, do you have some time?” — the cafe in Keyaki Mall; the coldest performance yet: “Give Airi back.” — “I wanted to tell you today: I will make you regret expelling Airi.” — grabs a few strands of her own hair and pulls them out; leaves her drink; Akito goes after her; jaw dropped. The group is half broken now.
+[says:hasebe-haruka] (p.176) “Kiyopon, do you have some time?”
+[says:hasebe-haruka] (p.177) “Then make some. That’s fine, right?”
+[says:hasebe-haruka] (p.177) “I already talked to Horikita-san. I’ll go ahead and wait at the cafe in Keyaki Mall.”
+[says:hasebe-haruka] (p.184) “Sit down.”
+[says:hasebe-haruka] (p.184) “While I was away, you seemed to have wanted to talk to me several times, so I thought I’d ask about that.”
+[says:hasebe-haruka] (p.184) “What did you want to talk about?”
+[says:hasebe-haruka] (p.184) “So you were worried. Our class evaluation may drop, after all.”
+[says:hasebe-haruka] (p.184) “I wasn’t feeling well. I told that to the school, so there shouldn’t be any problems? Miyacchi told me that we may receive a penalty if I’m out more than a week, so I came to school today.”
+[says:hasebe-haruka] (p.185) “How can you say that’s the case? I could simply have been sick, right?”
+[says:hasebe-haruka] (p.185) “You seem to have your doubts, but I really wasn’t feeling well. It wasn’t an injury or sickness though. Waking up was emotionally difficult, I couldn’t sleep, and simply took off from school.”
+[says:hasebe-haruka] (p.185) “Are you satisfied that you gained class points during the special exam?”
+[says:hasebe-haruka] (p.186) “My dear friend was sacrificed due to your selfish judgment. Are you aware of that, Horikita-san?”
+[says:hasebe-haruka] (p.186) “What a fine leader. You don’t question the methods you take in order to make your class win.”
+[says:hasebe-haruka] (p.186) “Do you understand that I was being sarcastic?”
+[says:hasebe-haruka] (p.186) “Where did your original promise to cut off the traitor – the student who kept pressing “agree” – go?”
+[says:hasebe-haruka] (p.186) “There are mistakes that can’t be forgiven.”
+[says:hasebe-haruka] (p.186) “Even if having Kyou-cha– Kushida-san remain in the class was the right choice?”
+[says:hasebe-haruka] (p.187) “Ah, I see.”
+[says:hasebe-haruka] (p.189) “Even if Kushida-san is an outstanding student, there are others who have no abilities. There was no need for it to be her.”
+[says:hasebe-haruka] (p.189) “I won’t accept it. No matter how many people approve of you from here on out, I will never accept it.”
+[says:hasebe-haruka] (p.189) “I just said that I don’t approve of you.”
+[says:hasebe-haruka] (p.189) “Give Airi back.”
+[says:hasebe-haruka] (p.189) “That’s all I wish for. I don’t care what happens to the class.”
+[says:hasebe-haruka] (p.189) “The decision from that time was wrong.”
+[says:hasebe-haruka] (p.190) “I suppose so. Certainly, there’s not much that the likes of me could have done. Kiyopon used Airi’s feelings and cornered her without mercy. That kind of behavior is something that a normal person absolutely couldn’t have done.”
+[says:hasebe-haruka] (p.190) “Is Kushida-san really going to work for the sake of the class? She’s bound to betray you.”
+[says:hasebe-haruka] (p.190) “Why? Why Airi?”
+[says:hasebe-haruka] (p.191) “It’s as if we’re like Ryuuen’s class. Throwing away people without any abilities?”
+[says:hasebe-haruka] (p.191) “It kind of reminds me of when we started school. It’s the same as when we all acted on our own and had not a shred of cohesiveness.”
+[says:hasebe-haruka] (p.191) “I understand your discontent, but did you think the same things when Yamauchi-kun was expelled?”
+[says:hasebe-haruka] (p.191) “He got what he deserved. It’s different this time around.”
+[says:hasebe-haruka] (p.192) “What’s so wrong about that?”
+[says:hasebe-haruka] (p.192) “I can’t accept that kind of reality. I can’t come to terms with it.”
+[says:hasebe-haruka] (p.192) “Kushida-san indeed may have been a threat. She may now have a change of heart and work for the class from here on out. However, do you seriously think I’ll look at that and cooperate?”
+[says:hasebe-haruka] (p.192) “I still haven’t come up with an answer so I simply tried coming here.”
+[says:hasebe-haruka] (p.192) “I came to school to look for the answer I couldn’t find while holed up inside my room.”
+[says:hasebe-haruka] (p.192) “What should I do to achieve revenge against Horikita-san and Kiyopon? I’m searching for that answer.”
+[says:hasebe-haruka] (p.193) “I wanted to tell you today: I will make you regret expelling Airi.”
+[note] (p.190) The corpus prints her line as “That kind of behavior is something that a normal person absolutely couldn’t have done.” — as printed.
+[note] (p.190) The corpus prints “Kyou-cha– ” mid-utterance when she starts to call Kushida by her pet name and switches to “Kushida-san” — kept as printed.
+[rel:sakura-airi] (p.189–193) “Give Airi back.” — “I will make you regret expelling Airi.” — her cold declaration.
+[rel:horikita-suzune] (p.184–193) The cafe confrontation — she never approves, never forgives; she will search for revenge instead of a reunion.
+[rel:miyake-akito] (p.168–193) Akito escorts her in; she goes back out alone; he goes after her.
+[rel:ayanokouji-kiyotaka] (p.176–193) “Kiyopon, do you have some time?” — the hallway intercept; the cafe gauntlet.
+[rel:ishigami-kyou] (p.171, 193) His awkward hello: “Speak of the devil thingy”; his final honest verdict.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.324–324 — Ch.6: Haruka — still unresolved
+[mentioned] (p.324) “Especially when it comes to Hasebe-san; honestly, I still don’t know what I should do about her.” — Horikita still does not know what to do about her; the resolution hangs.
+[rel:horikita-suzune] (p.324) Unexplained; Horikita does not know what to do with her.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.327–330 — Epilogue: Haruka's “revenge” — a joke that isn't (Miyake's POV)
+[scene] (p.327–328) She arrives late, lightly punches his shoulder; she quit the Archery club out of inertia — “I quit because I wanted to. But more importantly, I’m happy you’ve started coming to school.”; only five events at the festival, no results; not speaking to anyone except Miyake; estranged from Keisei too; she confesses: at first she wanted to “destroy everything” — revenge on all the classmates who threw away Airi — “I’m such a terrible person, aren’t I?”; “I won’t forgive Kiyopon. I won’t forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong.”; “Say, Miyacchi. Will you—help me take revenge, just once?”; her eyes aren't smiling; he hesitates; “As if! It’s just a joke, it’s just a joke!”; “I’ll take my revenge by myself, after all.”; she reaches out, withdraws her hand, walks away; he silently follows her.
+[says] (p.327) “Sorry, I kept you waiting.”
+[says] (p.327) “I was only continuing out of inertia, anyway.”
+[says] (p.327) “No, that’s not true. I quit because I wanted to. But more importantly, I’m happy you’ve started coming to school.”
+[says] (p.327) “At first, I thought, ‘let’s destroy everything’. Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi.
+[says] (p.328) “I’m such a terrible person, aren’t I?”
+[says] (p.328) “At that point, we had to expel someone. But that should have been Kushida-san. That was what was promised first, and that would’ve been correct. Isn’t that right?”
+[says] (p.328) “I won’t forgive Kiyopon. I won’t forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong.”
+[says] (p.328) “Say, Miyacchi. Will you—help me take revenge, just once?”
+[says:miyake-akito] (p.328) “Haruka…”
+[says] (p.328) “As if! It’s just a joke, it’s just a joke!”
+[says] (p.328) “I’ll take my revenge by myself, after all.”
+[trait] (p.327–330) Still bitter and unforgiving, but self-aware enough to see that forever-torment isn't right; she asks him to join her revenge as a mirror of the Prologue's invitation — then laughs it off; she reaches out, withdraws, walks away — he silently follows.
+[rel:miyake-akito] (p.327–330) The only person she still talks to; she quit archery (his club) and leans on him; he silently follows her.
+[rel:ayanokouji-kiyotaka] (p.327–328) Kiyopon — she still does not forgive him; “Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi.”
+[rel:kushida-kikyou] (p.328) “But that should have been Kushida-san. That was what was promised first, and that would’ve been correct. Isn’t that right?”
+[rel:sakura-airi] (p.328) The reason — “all our classmates who threw away Airi.”
+[rel:ishigami-kyou] (p.327) Estranged from Keisei too — since he agreed to expelling Sakura — “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.”
+
+<!-- walk: y2v6 Epilogue → p.330 -->
+
+### y2v6 p.42–155 — Ch.2: Named in other POVs
+[mentioned] (p.42) “She might also have hurt Wan-san and Hasebe-san, who are both absent today.” — Horikita's argument during the apology.
+[mentioned] (p.93) “Hasebe-san and Wang-san have been absent for a while.” — Onodera's explanation to Sudou.
+[mentioned] (p.101) “Both Wang-san and Hasebe-san hadn’t been coming to school either.” — Horikita's opening of the five-day absence streak.
+[mentioned] (p.102) “It’s the fifth day that Kushida-san, Wang-san, and Hasebe-san have been absent from school.” — Horikita's question to Chabashira.
+[mentioned] (p.102) “As for Hasebe, she’s consistently said that she would be absent, but she hasn’t told me any details.” — Chabashira's report.
+[mentioned] (p.109) “make Kushida-san, Wang-san, and Hasebe-san come back to school.” — Chabashira's closing instruction.
+[mentioned] (p.140) “Some people like Shinohara-san, Wang-san and especially Hasebe-san must resent me.” — Kushida's guess during the room confrontation.
+[mentioned] (p.147) “Sakura-san… When she was expelled, Sakura-san was both kind and harsh to Hasebe-san.” — Wang POV reflection.
+[mentioned] (p.155) “Hasebe-san. And also you, Ayanokouji-kun.” — Wang's ask about who hurt more.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -585,7 +716,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 <!-- walk: y2v2 Ch.1 → p.53 -->
 
 
-
 ### y2v2 p.12–15 — Hasebe tries to calm Yukimura
 [says] (p.12) "Can you calm down a little? It hasn't even been 5 minutes since Kiyopon left."
 [says] (p.12) "I'm calm… don't worry." — Yukimura's reply; Hasebe isn't convinced
@@ -599,7 +729,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
 
 
 ### y2v4.5 p.99–113 — Haruka's "Airi remodelling project"; her body image
@@ -623,7 +752,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
 
 
 ### y2v5 p.46–55 — Haruka: heartbroken over Airi, yet reaches out
@@ -670,35 +798,9 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [mentioned] (p.207) "the interval will soon be over, but the unanimous decision to expel Kushida will be imminent. If we drag our feet here, Kushida will continue to reveal more and more secrets." — the room's pressure cooker.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-
-
-### y2v6 p.162–176 — Haruka: a "temporary" return; still won't speak to Ayanokōji
-[scene] (p.168) Through Akito, Ayanokōji learns Haruka will return Monday — a "temporary return" arranged by Miyake; she still refuses to speak to him.
-[says] (p.176) "Kiyopon, do you have some time?" — Haruka approaching him in the hallway after school
-[trait] (p.168–176) Returns to school with Akito escorting her (she looks ready to flee), sits silently staring out the window, ignores Kushida's attempt to speak, and glances at Ayanokōji then quickly turns away — her feelings for him now mixed with the pain of Airi's expulsion; she approaches him after school with "forcefulness."
-[rel:ayanokouji-kiyotaka] (p.171, 176) Blames him for Airi's expulsion; refuses to talk at school, then approaches him in the hallway — a watershed moment.
-[rel:miyake-akito] (p.171) He accompanies her to her seat and stays by her side — the group's support keeps her coming.
-[rel:ishigami-kyou] (p.171) Keisei hesitates, then steels himself to call out to her — a small step toward repairing their friendship.
-[rel:kushida-kikyou] (p.175) She ignores Kushida's attempt to speak.
-
-### y2v6 p.327–330 — Epilogue: Haruka's "revenge" — a joke that isn't
-[scene] (p.327) After a week absent, Haruka is coming to school every day; meets Miyake at the entrance and punches his shoulder lightly; she only did the minimum five events at the festival (no results), and speaks to almost nobody except Miyake — she even quit archery (the club Miyake was in).
-[says] (p.328) "At first, I thought, 'let's destroy everything'. Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi."
-[says] (p.328) "I won't forgive Kiyopon. I won't forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong."
-[says] (p.328) "Say, Miyacchi. Will you—help me take revenge, just once?"
-[says] (p.328) "As if! It's just a joke, it's just a joke!"
-[trait] (p.327–330) Still bitter (won't forgive Ayanokōji or the class for Airi's expulsion, estranged from Keisei too), but choosing not to hold everyone back forever — she confesses her dark thoughts to Miyake, then asks him to "help me take revenge, just once," laughing it off as a joke when he hesitates; the "revenge" request mirrors the Prologue's mysterious invitation, and Miyake silently follows her as she walks away.
-[rel:miyake-akito] (p.327–330) The only person she still talks to — she quit archery (his club) and leans on him; he silently follows her.
-[rel:ayanokouji-kiyotaka] (p.328) She won't forgive him — her "revenge" is aimed at him and the class.
-[rel:ishigami-kyou] (p.327) She's slightly estranged from him too, since he agreed to Airi's expulsion.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
-
 
 
 ### y2v7 p.6 — Prologue: Hasebe Haruka's Monologue
@@ -1009,11 +1111,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.48) Does not weigh in publicly; retains her private doubt.
 
 <!-- walk: y2v10 Ch.2 → p.48 -->
-
-
-
-
-
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

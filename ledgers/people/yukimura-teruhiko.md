@@ -855,6 +855,22 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.24–24 — Ch.1: Named by Horikita as a possible resenter
+[mentioned] (p.24) Horikita tells AK: “There is no doubt that Hasebe-san resents me, and Yukimura-kun and Miyake-kun might too.” — his possible resentment of her is explicitly flagged on the page.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.181, 327 — Coverage gate additions
+[mentioned] (p.181) “I also checked on Miyake-kun and Yukimura-kun many times.” — Horikita's watch-list.
+[mentioned] (p.327) “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.” — the Epilogue's estrangement.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1009,15 +1025,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:miyake-akito] (p.219–221) The other quiet one of the Group.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — yukimura-teruhiko mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.24, p.181, p.327.
-[mentioned] (p.11) Passing mention only.
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->

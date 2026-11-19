@@ -201,7 +201,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 <!-- walk: y2v3 → start -->
 
 
-
 ### y2v3 p.309–319 — Amasawa exposes Kushida; declares Ayanokōji "special"
 [scene] (p.309) Revealed as Kushida's walkie-talkie accomplice; records the fight on her tablet, then drags Kushida away and confronts her.
 [says] (p.309) "Shh~ I get you're surprised but you've like, gotta be quiet, Kushida-senpai."
@@ -220,7 +219,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 ### y2v4 p.4 — Amasawa mentioned in passing
 [note] (p.4) Front-matter name hits only (table of contents): Amasawa's name appears on the TOC page with the chapter titles.
-
 ### y2v4 p.5–7 — Prologue: Amasawa's monologue on the White Room
 [scene] (p.5) In her own monologue, she reveals she is an IVF (“test-tube”) baby brought into the White Room, with no knowledge of her parents.
 [narrates] (p.5) “I am one of those born from that very process. A human brought about through in vitro fertilization.”
@@ -467,9 +465,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 <!-- walk: y2v4.5 ch3 → p.95 -->
 
 
-
-
-
 ### y2v4.5 p.251–257 — Amasawa and Yagami Takuya in the guest cabin
 [scene] (p.251–257) Amasawa visits Yagami Takuya (second-year Class B, White Room) in his guest cabin; they discuss the White Room, the Kushida/Kurachi interference, the planted note, his plans for Ayanokōji, and her expulsion from the White Room.
 [says] (p.252) “You never learn, do you, Ichika?”
@@ -508,7 +503,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 <!-- walk: y2v6 → start -->
 
 
-
 ### y2v6 p.339–341 — Short story: "The Truth is, I've Always…" — Amasawa checks his room
 [scene] (p.339) From her own POV, enters Ayanokōji's room (while he's sitting out) to check whether it's wiretapped — but her true goal is to see him.
 [narrates] (p.339) "They should just ignore me and enjoy their school life. I highly recommend it."
@@ -517,6 +511,97 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [trait] (p.339–341) Playful, obsessive and possessive — tries to provoke him (showing her underwear, offering to expose the White Room students so they'll fight), but he never bites (he only reads her moves); she admits she wants to be by his side even as a "nuisance," but knows her school life may not last forever.
 [rel:ayanokouji-kiyotaka] (p.339–341) She idolizes him — wants to be close to him; he sees her as untrustworthy and won't take her information.
 [rel:yagami-takuya] (p.339) She wants to expose "Takuya" so he'll fight Ayanokōji.
+
+### y2v6 p.162–168 — Ch.3: Amasawa's room search — the White Room offer (AK's POV)
+[scene] (p.162–164) Saturday evening; Amasawa is at AK's door — first-year, uniform despite the weekend; shouts loud enough for the neighbors; he refuses to open; she names Karuizawa-senpai and Wang-senpai as today's visitors; enters without permission; crawling on the carpet — fixing the sheets, pinching a single strand of sparkling, golden hair — “Kei's.”; also comments on her own growing hair — she wants to like the same kind of girls AK likes.
+[says:amasawa-ichika] (p.162) “Hiya Senpaaii. I came to hang out!”
+[says:amasawa-ichika] (p.162) “That won’t do~! I heard you brought a girl home and were doing something naughty, Senpai, so I’ve come to investigate. If you don’t open up, we’ll have a problem!”
+[says:amasawa-ichika] (p.163) “The source of the information is me~!”
+[says:amasawa-ichika] (p.163) “That isn’t true! You brought both Karuizawa-senpai and Wang-senpai home today, didn’t you?”
+[says:amasawa-ichika] (p.163) “Ah, I will say it first, but I haven’t set up any bugs in your room anything, ’kay? And it seems like the school is thorough with its inspections.”
+[says:amasawa-ichika] (p.163) “For now, could you let me in? Excuse me~”
+[says:amasawa-ichika] (p.164) “Eh? Nothing c’mon, I’m just checking a bit.”
+[says:amasawa-ichika] (p.164) “You’re wondering how I knew about Wang-senpai, aren’t you? Did I just happen to see her leave by chance? Or did I know about it through some other method?”
+[says:amasawa-ichika] (p.164) “Your girlfriend has long hair, doesn’t she? That means you like girls with long hair, right? That’s why I’m also growing mine out little by little.”
+[says:amasawa-ichika] (p.164) “What’s this~?”
+[says:amasawa-ichika] (p.164) “It must be Kei’s. She comes to hang out often these days.”
+[says:amasawa-ichika] (p.164) “I can think of various reasons, but do I have to list them one by one?”
+[says:amasawa-ichika] (p.165) “Don’t you have any doubts, Senpai? About why we—who were sent to this school to get you expelled—haven’t laid a hand on you and just integrated ourselves into daily life, even though it’s the second semester now?”
+[says:amasawa-ichika] (p.165) “I won’t deny that, but then what do you think about the others?”
+[says:amasawa-ichika] (p.165) “Well, I guess that’s right. If you stay vigilant, you won’t do anything careless~”
+[says:amasawa-ichika] (p.165) “I agree! I was also thinking I should do that…”
+[says:amasawa-ichika] (p.165) “Staring at my panties like that, how lewd, Senpai!”
+[says:amasawa-ichika] (p.166) “I think they have started to go off the rails, confusing means with ends. They are more focused on driving you to expulsion than returning to the White Room.”
+[says:amasawa-ichika] (p.166) “For you, Senpai, yes. So I’ve been thinking these past few days. Wouldn’t it be fine to just tell you who it is, and let you send them to the next world?”
+[says:amasawa-ichika] (p.166) “What will you do? Would you like me to tell you their name?”
+[says:amasawa-ichika] (p.166) “Is it because you’re not confident you will win after hearing the name?”
+[says:amasawa-ichika] (p.166) “Of course, they would probably switch targets to me.”
+[says:amasawa-ichika] (p.167) “You are very kind, aren’t you, Senpai?”
+[says:amasawa-ichika] (p.167) “I’ve been rejected, so I’ll go home.”
+[says:amasawa-ichika] (p.167) “Now which could it be?”
+[says:amasawa-ichika] (p.167) “I’ve visited your room a few times already, but I see that you are taking out the trash even though there is a lot less of it today. I thought you were the type to only throw it away after the bag was full to the brim.”
+[says:amasawa-ichika] (p.167) “If that’s the case, should I take the trash out with me on my way home?”
+[says:amasawa-ichika] (p.167) “You follow all the rules, huh.”
+[says:amasawa-ichika] (p.168) “Senpai. I’m sure that since it’s you, you’ll be fine, but—nevertheless—if I drop out of school, please know that something even you wouldn’t expect is happening.”
+[trait] (p.162–168) A first-year White Room dropout broadcasting her knowledge — ransacks his room for “a trick” her side might have planted; offers to name the hidden White Room member; knows his schedule; masks fear with lewd-joke confidence; warns him about what happens if she drops out.
+[rel:ayanokouji-kiyotaka] (p.162–168) The White Room's rogue atom — searched his room for their trick; her warning about the unexpected event is hers.
+[rel:tsukishiro] (p.163) Her own connection — AK names it as her channel for contraband.
+[rel:karuizawa-kei] (p.164) The golden hair strand lift — “Kei's.”
+[note] (p.163–165) She neither confirms nor denies bugs; White Room's status: she claims she was "expelled from the White Room's team, and branded as unnecessary" (AK's framing); the other White Room members are unclear to her too — "I'm not really interested" (AK) is his real stance.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.273–285 — Ch.5: Amasawa's volleyball — the first-year who is terrifying (Horikita's POV)
+[scene] (p.273–274) First-year Amasawa-san appears at the cheering seats — “Oh~? If it isn’t Horikita-senpai and Ibuki-senpai~! Good work~”; needles Ibuki; she is in volleyball too — the announced first-year/second-year mixed volleyball competition; her team: Nanase-san and four other girls; “I came to the gymnasium to participate in volleyball. This is my first time playing volleyball, you know~”; she dashes off to join her waiting team.
+[says:amasawa-ichika] (p.273) “Oh~? If it isn’t Horikita-senpai and Ibuki-senpai~! Good work~”
+[says:amasawa-ichika] (p.273) “Oh, no~ You’re making such a scary face… is it perhaps that time of the month?”
+[says:amasawa-ichika] (p.274) “If you’ve got any slots left, how about I fight you?”
+[says:amasawa-ichika] (p.274) “Don’t underestimate me. Be grateful we didn’t face off today.”
+[says:amasawa-ichika] (p.274) “You’re always so spirited, aren’t you~ By the way, what are you two doing here? If you aren’t participating in a competition, you have to cheer, or it’ll be bad.”
+[says:amasawa-ichika] (p.274) “Oh, are my seniors due to compete in the shuttle run? As for me—”
+[says:amasawa-ichika] (p.274) “Finally, found you.”
+[says:amasawa-ichika] (p.274) “I came to the gymnasium to participate in volleyball. This is my first time playing volleyball, you know~”
+[says:amasawa-ichika] (p.274) “See you then. Best of luck at the shuttle run~!”
+[scene] (p.279–285) Her team crushes the early rounds — Nanase-san is the MVP — until Amasawa visibly starts adapting mid-game; the stuff-block — “A stuff block, I think. I’m not too familiar with it myself, though.” — she reads Ibuki's attack patterns — “I’ve already seen through your attack patterns, senpai, so you won’t get through any more!” — she plays decoy Nanase-san; the final's final two minutes — she walks off applauding; “Oh, time’s up. It was just starting to get interesting!” — the festival ends.
+[says:amasawa-ichika] (p.281) “What a shame~ Ibuki-senpai. Nanase-chan, what was this play called again?”
+[says:amasawa-ichika] (p.281) “There you go! I’ve already seen through your attack patterns, senpai, so you won’t get through any more!”
+[says:amasawa-ichika] (p.282) “Too bad~”
+[says:amasawa-ichika] (p.284) “Ahh. Sorry, Nanase-chan, I missed~ It’s pretty hard to control it perfectly, huh?”
+[says:amasawa-ichika] (p.284) “Oh, time’s up. It was just starting to get interesting!”
+[trait] (p.273–285) Adaptability and instinct that cannot be written off as mere talent — she sees through attack patterns in minutes; uses her own strength as a lie to lure and decoy; a first-year who plays to amuse herself; “it was just starting to get interesting!” — no frustration at losing.
+[rel:nanase-tsubasa] (p.279–285) Her teammate — Nanase is the MVP — she holds her up while she adapts.
+[rel:ibuki-mio] (p.273–285) She wants to fight her — stares at her from across the court — twice stuff-blocked her — once a decoy — she has watched her play styles all along.
+[rel:horikita-suzune] (p.273–285) She calls her by name — “Horikita-senpai” — she knows her face — Amasawa was in the Yagami-Watanabe decoy conspiracy last year — in volleyball, she is just terrifying.
+[rel:kushida-kikyou] (p.275–285) Kushida owes her a debt — she recruits three players for her team anyway.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.339–341 — Short story: “The Truth is, I’ve Always” (Amasawa POV)
+[scene] (p.339–341) She enters Senpai's room — “as expected of him. He had cleaned it all in that short amount of time” — she is checking if the room is wiretapped — “They should just ignore me and enjoy their school life. I highly recommend it.” — she wants to expose Takuya and let them fight it out ASAP — she turns her butt toward him to distract him — “Drawn in by my underwear? How pervy.” — “Clever, but uninteresting.” — she reveals her true feelings — “The truth is, I want to be by his side. … Even if I’m a nuisance, just being close to the person you look up to.” — “But… There is no guarantee that my school life could go on forever.”
+[says:ayanokouji-kiyotaka] (p.339) “They should just ignore me and enjoy their school life. I highly recommend it.”
+[says] (p.339) “Yes, I agree as well. I think I should do that too but…”
+[says] (p.339) “Drawn in by my underwear? How pervy.”
+[says:ayanokouji-kiyotaka] (p.340) “Sorry, I’m more worried about what else you may be doing if I take my eyes off you.”
+[says] (p.340) “I think they may have gone on a rampage by now? I feel like they have gotten their methods and goals all wrong. Instead of returning to the White Room, they are more focused on expelling you.”
+[says:ayanokouji-kiyotaka] (p.340) “What a bothersome topic.”
+[says] (p.340) “That may be true for you, yeah. I have been thinking this for a while, but how about I just reveal them to you and just let you do your thing?”
+[rel:ayanokouji-kiyotaka] (p.339–341) She wants to be by him; she is not trusted; she wants him to fight Takuya.
+[rel:tsukishiro] (p.340) The one who should be exposed — unnamed except “Takuya”; the Takuya referenced could be Yagami Takuya or another first-year; nothing in this volume settles it.
+[note] (p.340) “Takuya” is printed without a surname on this page; Yagami Takuya (Class 1-B / y2v10's student council) is a plausible target; the doorbell boy could also carry the name Amasawa means; identity not assigned from these pages — ambiguity noted, not resolved.
+[note] (p.339–341) Short story; alternate retelling of the Ch.3 Amasawa visit from her POV; confirms she was searching for a planted trick.
+
+<!-- walk: y2v6 SS → p.344 -->
+
+### y2v6 p.5, 322 — Coverage gate additions
+[mentioned] (p.322) “However, whether it came from Amasawa or this guy, that was just the thing I didn't care about at all.” — the boy at the door references her vaguely.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.5 — Coverage gate: TOC mention
+[mentioned] (p.5) “Amasawa Ichika SS: The Truth is, I’ve Always” — the TOC lists her short story; the page does not place her.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -692,8 +777,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -710,7 +793,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:ishigami-kyo-1a] (p.61) Her Class A classmate; identifies him as the class's strategist.
 
 <!-- walk: y2v9 Ch.2 → p.67 -->
-
 
 
 ## y2v9.5
@@ -835,7 +917,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:yagami-takuya] (p.179) “You were Yagami's girlfriend?” — no; they were like siblings who had surpassed that kind of relationship.
 [rel:karuizawa-kei] (p.179) She floats beating up Karuizawa-senpai and expelling her; she drops it out of consideration for Ayanokōji's goals.
 [rel:horikita-manabu] (p.179–180) She names Manabu as the always-causing-a-stir figure of the two years before.
-
 
 
 <!-- walk: y2v11 ch7 → p.181 -->

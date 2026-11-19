@@ -841,13 +841,60 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 <!-- walk: y2v5 Ch.7 → p.170 -->
 ## y2v6
 
+### y2v6 p.219–222 — Ch.4: Hashimoto Masayoshi — the cafe strategist (third-person)
+[scene] (p.219) Three second-year Class A students — Sakayanagi, Kamuro, Hashimoto — gather at the café in Keyaki Mall just before 7 PM; he is animated; he asks the sharp questions; his eyes change when he hears the news.
+[says:hashimoto-masayoshi] (p.219) “I’m not even surprised when you summon me out of the blue anymore, it’s become so common. What is it today, Princess?”
+[says:hashimoto-masayoshi] (p.220) “Who approached whom? Was it from Ryuuen?”
+[says:hashimoto-masayoshi] (p.220) “Are you saying that by ourselves, we’ll lose?” asked Hashimoto.
+[says:hashimoto-masayoshi] (p.221) “There’s no doubt that they’re on a roll right now. I thought it would be impossible for any class other than Ryuuen’s to throw away a small fry and grab those 100 points. Has Horikita grown?… Or has Ayanokouji been making some moves in secret?”
+[says:hashimoto-masayoshi] (p.221) “…No, not especially. I do think he’s hiding abilities beyond what’s on his OAA, though. Well, it’s not like Ayanokouji’s the only student like that.”
+[says:hashimoto-masayoshi] (p.222) “I think it’s enough if we just don’t come last,” said Hashimoto.
+[says:hashimoto-masayoshi] (p.222) “I guess I can feel relieved, huh. But you sure picked up that information quickly, Princess. It’s not like you went out and got it yourself when your legs are like that, right?”
+[trait] (p.219–222) Sharp, fast-talking, oblivious to being used as a radar — he raises the issue of Ayanokouji's growing reputation; “Princess”; his worry that Sakayanagi's non-participation is a throw; he wants Class A to not come last.
+[rel:sakayanagi-arisu] (p.219–222) His leader — “Princess”; he tracks her decisions for the alliance's weak spots.
+[rel:ayanokouji-kiyotaka] (p.221) “Or has Ayanokouji been making some moves in secret?” — he suspects AK is behind Horikita's growth.
+[rel:horikita-suzune] (p.221) “Has Horikita grown?” — he credits her jump in leadership.
+[rel:ryuuen-kakeru] (p.219) His suspicion: “Who approached whom? Was it from Ryuuen?”
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — hashimoto-masayoshi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.219-222, p.261-267, p.305, p.319.
-[mentioned] (p.11) Passing mention only.
 
+<!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.262–267 — Ch.5: Hashimoto Masayoshi — the stage manager of the bump (close-third, Shimizu-side)
+[scene] (p.262–267) He walks in on the commotion — “Let’s keep it civil, Ryuuen.” — he has seen Ishizaki playing around too many times to believe it; he calculates that Ryuuen wants a scene; he gets both sides to back off; Hashimoto takes the teacher with him; Ishizaki accepts the apology; nothing happens; he sighs deeply; “Doing this kinda thing when there’s people watching, jeez… he’s really not someone you want to make an enemy of.” — he laughs happily to himself.
+[says:hashimoto-masayoshi] (p.262) “Let’s keep it civil, Ryuuen.”
+[says:hashimoto-masayoshi] (p.263) “Don’t underestimate him so much. Ishizaki has been working hard constantly, pouring in his blood, sweat and tears for this day. All so that he could compete with those big earners you were talking about. Right?”
+[says:hashimoto-masayoshi] (p.263) “Jeez. You’re really gonna take every chance you get, eh?”
+[says:hashimoto-masayoshi] (p.263) “But now it’s clear. You seriously intend to crush us in this sports festival. You’re making the elites from the first year dog us so unpleasantly, right?”
+[says:hashimoto-masayoshi] (p.263) “Huh? Your lot started it. They came looking for a fight, and I obliged. That’s all.”
+[says:hashimoto-masayoshi] (p.263) “So you know after all. It’s not like we’re trying to get you to pay up. We just want a heartfelt apology. Right, Ishizaki?”
+[says:hashimoto-masayoshi] (p.263) “Be quick about it. We’ve got another competition coming up too.”
+[says:hashimoto-masayoshi] (p.263) “A draw?”
+[says:hashimoto-masayoshi] (p.264) “Then what do you want? Us to give you a unilateral apology?”
+[says:hashimoto-masayoshi] (p.264) “Then you’re fine with us not winning? If you stubbornly hold strong here, you might be able to protect your pride. But when we lose by 5 or 10 points, will you be alright with that?”
+[says:hashimoto-masayoshi] (p.264) “What matters right now is that our class wins, right? It’s just that we happened to step in some dog shit and ended up feeling like crap.”
+[says:hashimoto-masayoshi] (p.266) “I accept your apology.”
+[says:hashimoto-masayoshi] (p.266) “I get it. But if you don’t pull back, we’ll be in trouble too.”
+[says:hashimoto-masayoshi] (p.267) “Hurry up and get going while the teacher is watching. Yeah?”
+[says:hashimoto-masayoshi] (p.267) “Doing this kinda thing when there’s people watching, jeez… he’s really not someone you want to make an enemy of.”
+[note] (p.262–267) Speaker assignments follow printed adjacency and printed names (“Hashimoto…!” / “Shimizu!” / “Ishizaki!” are address forms, not speaker IDs); the corpus prints several exchanges without speaker tags — assignment made where the grammar and adjacent narration constrain it; the rest is listed here unassigned.
+[rel:ryuuen-kakeru] (p.262–267) He wises up to Ryuuen's trap — Ryuuen wants a scene; Hashimoto refuses to give him one; “he’s really not someone you want to make an enemy of.”
+[rel:ishizaki-daichi] (p.258–267) The pawn — he doesn't buy the act.
+[rel:shimizu-naoki] (p.262–267) He pushes Shimizu to apologize to get them moving.
+[rel:matoba-shinji] (p.262–267) He brokers the peace; he leaves them both bewildered.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.305–319 — Ch.6: Hashimoto — Sakayanagi's surmise
+[mentioned] (p.305) Sakayanagi: “And while we have promising students such as Kitou-kun and Hashimoto-kun, on average we aren’t as good as Horikita-san’s class.” — Class A's hopes are Kitou and Hashimoto.
+[mentioned] (p.319) “It could’ve been Hashimoto, who I had noticed following me earlier, or it could’ve been someone else I couldn’t identify.” — Sakayanagi suspects him of shadowing AK by accident — no, she can't identify either — recorded as printed.
+[rel:sakayanagi-arisu] (p.305–319) She names him as promising; she was unable to identify her tail.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

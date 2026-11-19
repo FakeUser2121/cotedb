@@ -1064,6 +1064,40 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.53) "W-w-w-what should I do, Hirata!? My Academic Ability rating is an E! I'm screwed!"
 [trait] (p.27–53) Restless and easily panicked — asks the obvious question, is frustrated by cross-year involvement, laments nobody would pair with "an idiot like me," and begs Hirata for help with his E rating; breathes a sigh of relief at the random-partner safety net.
 [rel:hirata-yousuke] (p.53) Begs him for help when he panics about his E rating.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.26–28 — Ch.1: The Shinohara fallout — he is half of the couple incident
+[scene] (p.28) Kushida's revelations triggered the Shinohara–Kei–Matsushita–Mori couple-making-fun incident; Shinohara is not talking to Kei, Matsushita and Mori — and Ike may well be lumped in with Satou and Maezono; he is at the center of the flame-spreading couple rumor.
+[scene] (p.60) “The fact that flame was spreading around the newly formed couple, Ike and Shinohara, was another concern.”
+[mentioned] (p.60) The Shinohara couple incident is one of the class's visible cracks.
+[rel:shinohara-satsuki] (p.27–28, 60) He and Shinohara are the couple at the center of the making-fun incident; she is not speaking to his friends.
+[rel:karuizawa-kei] (p.27–28) Kei was one of the people who made fun of him and Shinohara.
+[rel:matsushita-chiaki] (p.27–28) Matsushita was one of the people who made fun of him and Shinohara.
+[rel:mori-nene] (p.27–28) Mori was one of the people who made fun of him and Shinohara.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.74–96 — Ch.2: The couple situation — awkward since the leak
+[mentioned] (p.74) Kei: “I said it at that time with Ike; even if you had similar scores, the difference between the number of friends you have would be overwhelming. I wouldn't expel you.” — the friendship math.
+[mentioned] (p.95–96) Sudou brings up “the stuff with Shinohara and Kanji” — their relationship is kinda awkward since Kushida's leak.
+[rel:shinohara-satsuki] (p.74, 95) His girlfriend; the one crushed by the leak; the rescue operation's target.
+[rel:karuizawa-kei] (p.73–74) Kei is one of the making-fun trio; she wants her friendship with Shinohara fixed.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.74–179 — Ch.3: Ike — mentioned and patch-up
+[mentioned] (p.74) Kei's "I said it at that time with Ike" — friends equal survival in the exam.
+[mentioned] (p.179) “Ike-kun calming her down was a big help.” — Shinohara's rough edges calmed; the Keyaki Mall peace summit succeeds.
+[rel:shinohara-satsuki] (p.179) He is the bridge — the one who can calm Shinohara.
+[rel:karuizawa-kei] (p.179) Kei's “I said it at that time with Ike” — her ally in the decision to expel Airi.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1293,15 +1327,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [mentioned] (p.10) "Given Ike's personality, he's going to want to brag about it. If he doesn't say it, then logically he hasn't gone that far, right?" — Sudō (with Ayanokōji correcting him) about Ike.
 [note] (p.11) (p.46) — the locator's "ike" hits on p.11 and p.46 are substring matches inside "like"; no Ike references on those pages.
 [note] (p.14) (p.17) (p.20) (p.23) (p.24) (p.27) (p.31) (p.33) (p.40) (p.42) (p.43) (p.44) (p.45) (p.50) (p.53) (p.54) (p.55) (p.56) (p.57) (p.58) (p.60) (p.62) (p.64) (p.66) (p.67) (p.70) (p.71) (p.72) (p.74) (p.77) (p.78) (p.79) (p.80) (p.87) (p.91) (p.92) (p.93) (p.94) (p.96) (p.97) (p.100) (p.102) (p.103) (p.110) (p.112) (p.113) (p.117) (p.118) (p.119) (p.120) (p.122) (p.123) (p.125) (p.131) (p.134) (p.136) (p.137) (p.139) (p.140) (p.142) (p.144) (p.145) (p.146) (p.148) (p.149) (p.150) (p.152) (p.153) (p.154) (p.156) (p.159) (p.160) (p.161) (p.163) (p.164) (p.168) (p.170) (p.174) (p.175) (p.176) (p.178) (p.182) (p.186) (p.188) (p.192) (p.197) (p.200) (p.202) (p.203) (p.207) (p.208) (p.212) (p.213) (p.214) (p.218) (p.221) (p.223) (p.224) (p.225) (p.227) (p.228) (p.232) (p.233) (p.237) (p.238) (p.239) (p.240) (p.241) — locator hits on those pages are substring noise: the pattern "ike" matches inside "like"; the whole-word check shows real Ike references on p.10, 13, 25, 27, 29, 34, 37, 48, 83, 98, 99, 109, 172, 183, 184, 193, 206, 207, 218, 219, 220, 234 — all anchored in this file's sections and coverage rows.
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — ike-kanji mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.11-12, p.15, p.17, p.19-22, p.24-29.
-[mentioned] (p.11) Passing mention only.
 
 ## y2v7
 

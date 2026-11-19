@@ -302,6 +302,62 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ike-kanji] (p.129–135) Mutual resolve to improve; interrupts his confession by noticing Ayanokōji, then argues with him out of the café.
 [rel:ayanokouji-kiyotaka] (p.134) Asks teasingly whether he is on a date with Hiyori.
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.27–28 — Ch.1: The glare; the cancelled weekend; the couple incident
+[scene] (p.27) Her glare jabs in the direction of AK and Matsushita from time to time — aimed at Matsushita, not AK; Matsushita notices and mumbles about cancelled arrangements.
+[scene] (p.28) Kei, Matsushita and Mori made fun of Ike and her as a couple behind her back — she got mad at them; she is not talking to them; the girls' bonds across the class have split completely.
+[rel:karuizawa-kei] (p.28) Kei made fun of her and Ike behind her back.
+[rel:matsushita-chiaki] (p.27–28) Matsushita cancelled this weekend's arrangements; Shinohara not talking to her.
+[rel:mori-nene] (p.28) Mori made fun of her and Ike behind her back.
+[rel:ike-kanji] (p.28) The other half of the couple at the center of the incident.
+[rel:satou-maya] (p.60) Possibly also not talking to her — Shinohara may not be talking to Satou or Maezono either (unconfirmed on the page).
+
+### y2v6 p.41–44 — Ch.1: She counters Horikita — Kushida is untrustworthy
+[scene] (p.41) She is the first to counter Horikita — “I don’t think so.” — Kushida is a known bad actor now; past contributions can be erased by what she revealed; she cuts straight to the most important point; she would not have told anyone from the other classes, but she doubts it can stay quiet.
+[says] (p.41) “I don’t think so.”
+[says] (p.41) “After finding out the kind of person Kushida is, nobody will trust her any more. While it seems like nobody has told anybody from the other classes about Kushida, don’t you think that’s just a matter of time?”
+[says] (p.42) “Hey, Horikita-san. Can you really say that keeping Kushida-san was the right choice? Answer me.”
+[says] (p.42) “What? I want an answer now. No matter what you think, Kushida-san will be a hindrance to the class.”
+[says] (p.42) “That… we can’t know that unless we try it.”
+[says] (p.44) “… will you really take responsibility?”
+[scene] (p.44) Horikita's “I will bring her back. If I can't… I'll take responsibility for it in any way possible.” lands even on her — “Shinohara was no exception to that”; she gasps at the iron will and asks if Horikita really means it.
+[rel:horikita-suzune] (p.41–44) Open challenger in the class meeting; gasps at her responsibility pledge.
+[rel:kushida-kikyou] (p.41–42) Kushida hurt her more than anyone; she will not trust her again.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.72–97 — Ch.2: The couple situation — she won't talk to Kei
+[scene] (p.72) Over dinner, Kei brings up Shinohara — her getting exposed had quite an effect — she won't even talk to Kei; AK recharacterizes it: her one sin is being overheard; Shinohara was deeply hurt by Kushida's leaks about her appearance.
+[mentioned] (p.73) Shinohara is deeply hurt; Next time, Shinohara and the others might turn it around and openly bad-mouth Kei, Matsushita, Mori and the rest; the vicious cycle starts easily.
+[mentioned] (p.74) Kei tries to fix her friendship with Shinohara — AK probes her to make peace.
+[mentioned] (p.81) Yousuke: “Honestly, I'm not even thinking about the competition right now.” — he is focused on fixing her and Ike's relationship.
+[mentioned] (p.95–97) The stuff with Shinohara and Kanji — their relationship is awkward since Kushida's leak; Sudou wants it to go well; AK's plan: someone on the scene to control the situation — “Hirata?”
+[rel:karuizawa-kei] (p.72–74) She won't even talk to Kei; Kei at fault too.
+[rel:ike-kanji] (p.72–74, 95) The couple at the center of the making-fun incident; his relationship is awkward since the leak.
+[rel:hirata-yousuke] (p.81, 97) His first problem to fix; the rescue mission's target.
+[rel:sudou-ken] (p.95–97) Sudou takes on bringing their relationship to health.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.110–180 — Ch.3: The Shinohara situation — patched by Hirata
+[mentioned] (p.110) Horikita names her as unusable for Kushida persuasion — too upfront? no: Kushida will not open the door for an upfront, good-natured, virtuous person.
+[mentioned] (p.147) Wang POV — Shimohara-san is among the hurting ones she asks AK about.
+[mentioned] (p.155) Mii-chan's hurt list: “Shinohara-san, Matsushita-san, and Hasebe-san.”
+[mentioned] (p.174) The patched couples — “Looks like you’ve managed to patch things up.” — Shinohara's rough reply: “You think an apology is enough?”
+[says:shinohara-satsuki] (p.174) “You think an apology is enough?”
+[says:shinohara-satsuki] (p.174) “That’s… anyway, is that how you apologize?”
+[mentioned] (p.179) Horikita: Hirata took the lead and brought them all to Keyaki Mall on Sunday — she was present too — they agreed to let the bad-mouthing be water under the bridge; Shinohara was against it for a while, but Ike calmed her down.
+[rel:ike-kanji] (p.179) He calmed her down — “Ike-kun calming her down was a big help.”
+[rel:hirata-yousuke] (p.179) He led the Keyaki Mall summit on Sunday.
+[rel:matsushita-chiaki] (p.174) “Shinohara-san, Matsushita-san and the others” — the apology list.
+[rel:kushida-kikyou] (p.174) Kushida's apology is aimed at her and the rest of the couple-making-fun crowd.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -442,15 +498,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 ### y2v5 p.207 — Coverage-gate mention record
 [mentioned] (p.207) "In the meantime, Shinohara and Mori and Ike and others continued to force each other to lie about what they had said or didn't say, while Kushida shifted her focus to Haruka."
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — shinohara-satsuki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.27-28, p.41-44, p.60, p.66, p.72-74.
-[mentioned] (p.11) Passing mention only.
 
 ## y2v7
 

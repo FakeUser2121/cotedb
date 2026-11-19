@@ -356,12 +356,19 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 ## y2v6
 
+### y2v6 p.219–222 — Ch.4: Kamuro Masumi — Sakayanagi's right hand (third-person)
+[scene] (p.219–222) He is at the café with Sakayanagi and Hashimoto — Sakayanagi summons them; he answers the call “What is it today, Princess?” — wait, that's Hashimoto's line. He says very little; he delivers the sharpest skepticism about the alliance — “I wouldn’t join hands with Ryuuen if it were me, though. You never know when he’ll catch you off guard and betray you.” — and he is the one pushing Sakayanagi on her non-participation (“But what are you gonna do? You say we’ll lose without you, but you’ll be absent, won’t you? So you’re saying you’re gonna throw the competition?”).
+[says:kamuro-masumi] (p.221) “I wouldn’t join hands with Ryuuen if it were me, though. You never know when he’ll catch you off guard and betray you.”
+[says:kamuro-masumi] (p.221) “But what are you gonna do? You say we’ll lose without you, but you’ll be absent, won’t you? So you’re saying you’re gonna throw the competition?”
+[rel:sakayanagi-arisu] (p.219–222) Her loyal subordinate; he doubts the alliance will work but needs Sakayanagi in control.
+[rel:hashimoto-masayoshi] (p.219–222) His partner in the Class A council; they gather together at her summons.
+[rel:horikita-suzune] (p.220) His doubt: “You never know when he’ll catch you off guard and betray you.”
+[rel:ryuuen-kakeru] (p.220) He thinks the alliance will fail because of Ryuuen's betrayal instincts.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — kamuro-masumi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.219-222.
-[mentioned] (p.11) Passing mention only.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 
 ## y2v7
 

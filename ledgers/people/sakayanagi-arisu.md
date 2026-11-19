@@ -904,6 +904,159 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.265–267) Perceptive and quietly supportive — knew from the start about the White Room enforcer threat and deliberately left "safe" first-years available to help him; declines to press when he refuses, never doubting he'll survive, and looks forward to their rematch.
 [rel:ayanokouji-kiyotaka] (p.265–267) Warns him about the enforcer, offers a safe partner (refused), and places great trust in him.
 [rel:tsukishiro] (p.266) Knows the White Room may send an enforcer to expel him.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.20–20 — Ch.1: Named — Sakayanagi's curious challenge
+[mentioned] (p.20) AK notes: Sakayanagi chose to challenge Ryūen in the end-of-year exam — nothing in it for her; likely factor: a Sakayanagi–Ichinose alliance to destroy Ryūen, or the Sakayanagi–Ryūen promise; marked as AK's inference, not fact.
+[note] (p.20) Both readings (Ichinose alliance; the promise) are AK's speculation as printed — recorded, not confirmed.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.82–99 — Ch.2: The Sports Festival chessboard — her class trains
+[scene] (p.82) AK invokes her as a model leader in his speech to Yousuke — “What if it was a leader like Ryuuen, Sakayanagi or Ichinose?” — the class should be spoken to like that.
+[mentioned] (p.98–99) Class A is seriously practicing its baselines in the gym — they must be aiming for event points from small improvements; almost certainly following Sakayanagi's instructions; no one from Horikita's class showed up.
+[rel:ayanokouji-kiyotaka] (p.82) AK names her as a leadership benchmark for Yousuke.
+[rel:ichinose-honami] (p.98) He dismisses both her and Ryūen's classes as fumbling.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.106–183 — Ch.3: Sakayanagi — Class A's invisible hand
+[mentioned] (p.106) Chabashira: “even for Ryuuen, Sakayanagi, or Ichinose.”
+[mentioned] (p.183) “Sakayanagi and Ryuuen will be implementing strategies you haven't even thought of.” — Horikita's caution.
+[rel:horikita-suzune] (p.183) She is named as the chess-setter to study.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.219–222 — Ch.4: Sakayanagi's side — the cafe (third-person, her circle)
+[scene] (p.219) Three second-year Class A students — Sakayanagi, Kamuro and Hashimoto — gather at the café in Keyaki Mall just before 7 PM; the announcement to Tsugumi: Ryuuen and Horikita have made contact; Sakayanagi expects a hard fight; she declares she will also participate in the Sports Festival despite everything against her.
+[says:hashimoto-masayoshi] (p.219) “I’m not even surprised when you summon me out of the blue anymore, it’s become so common. What is it today, Princess?”
+[says:sakayanagi-arisu] (p.219) “It is about what will happen at the upcoming Sports Festival. About what we must do.”
+[says:sakayanagi-arisu] (p.219) “The situation changes from moment to moment. And today, there has been another new development,”
+[note] (p.219) “Haven’t you already decided on a plan?” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.219) “Ryuuen-kun and Horikita-san’s classes have made contact.”
+[says:hashimoto-masayoshi] (p.220) “Who approached whom? Was it from Ryuuen?”
+[says:sakayanagi-arisu] (p.220) “That is unclear. But either way, there is no doubt that the two have joined hands.”
+[note] (p.220) “Hang on a sec. I find it hard to believe that it worked out that easily. It’s hard to imagine Horikita simply trusting Ryuuen. He’s not the kinda guy you can collude with!” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.220) “They say the enemy of my enemy is my friend, right? We hold a firm lead over the rest. Even if they do not have a relationship of mutual trust, so long as they have the same objective in mind, they can work well together.”
+[says:sakayanagi-arisu] (p.220) “We’re going to be in trouble if this continues, right?” said Sakayanagi.
+[says:hashimoto-masayoshi] (p.220) “Are you saying that by ourselves, we’ll lose?” asked Hashimoto.
+[says:sakayanagi-arisu] (p.220) “We will lose. If the other three classes were disorganized and fought each other, it would have still been possible for us to take any of the positions, but now we have an unexpected partnership to deal with.”
+[says:kamuro-masumi] (p.221) “I wouldn’t join hands with Ryuuen if it were me, though. You never know when he’ll catch you off guard and betray you.” said Kamuro.
+[says:sakayanagi-arisu] (p.221) “I’d rather he did betray them, in fact. Ryuuen-kun’s class takes first, and Horikita-san’s class comes second. I would welcome it if the results were that straightforward, but it will be somewhat troublesome if it is the other way around.”
+[says:hashimoto-masayoshi] (p.221) “There’s no doubt that they’re on a roll right now. I thought it would be impossible for any class other than Ryuuen’s to throw away a small fry and grab those 100 points. Has Horikita grown?… Or has Ayanokouji been making some moves in secret?”
+[says:sakayanagi-arisu] (p.221) “Your impression of him has been rising considerably of late. Did something happen?”
+[says:hashimoto-masayoshi] (p.221) “…No, not especially. I do think he’s hiding abilities beyond what’s on his OAA, though. Well, it’s not like Ayanokouji’s the only student like that.”
+[says:kamuro-masumi] (p.221) “But what are you gonna do? You say we’ll lose without you, but you’ll be absent, won’t you? So you’re saying you’re gonna throw the competition?” asked Kamuro.
+[says:sakayanagi-arisu] (p.221) “There is only one answer.” Sakayanagi smiled and continued. “I will also participate in the Sports Festival. Even if they really do join hands, they have calculated that with my nonparticipation and their cooperation, they can finally win. Let’s show them that that is an illusion.”
+[note] (p.222) “For real? Will you be alright?” — untagged; recorded without assignment.
+[note] (p.222) “It’s good that you’re so willing, but—are you sure?” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.222) “Is this about me being made into a spectacle? As for that, there are numerous ways to get around such a problem.”
+[note] (p.222) “Well, considering it’s you, I’m sure you’ll do fine. If you say you’ll show, then that’s all we need.” — untagged; recorded without assignment.
+[says:sakayanagi-arisu] (p.222) “However, this nevertheless does not improve our overall athletic ability. The most I can do is to pick up competitions that we might end up losing. In other words, it will be a tough battle to usurp first place even if I participate.”
+[says:hashimoto-masayoshi] (p.222) “I think it’s enough if we just don’t come last,” said Hashimoto.
+[says:sakayanagi-arisu] (p.222) “It won’t be so difficult to crack the fragile relationship between Horikita-san and Ryuuen-kun. Let’s get in their way when they are desperately trying to cooperate on the day.”
+[says:hashimoto-masayoshi] (p.222) “I guess I can feel relieved, huh. But you sure picked up that information quickly, Princess. It’s not like you went out and got it yourself when your legs are like that, right?”
+[note] (p.219–222) Speaker naming follows the corpus's own split — the narration focuses on Sakayanagi's circle; lines tagged by her name where the text names her as the subject (“said Sakayanagi”, “Sakayanagi smiled and continued”); alternating lines within the exchange are assigned by printed adjacency/alternation; Hashimoto's and Kamuro's lines carry their own names where printed; the POV here is third-person sideways on Sakayanagi, not her first-person.
+[note] (p.221) The Sakayanagi decision is now final — she will participate, despite the cane, despite Ryuuen and Katsuragi’s 70–80% estimates.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.250–285 — Ch.5: Sakayanagi — the commander on the sideline (Horikita's POV)
+[mentioned] (p.257) “Sakayanagi-san was also absent.” — Nagumo says at lunch; she is absent from the festival too — her leadership is carried on.
+[mentioned] (p.258) “Up against Horikita and Ichinose, who were assessing the status and participants of competitions minute-by-minute, Class A’s Matoba and Shimizu continued to struggle in the absence of their leader.” — the class struggles without her; she's there in body but on the sidelines.
+[mentioned] (p.276–278) The two girls from Class A that Kushida recruits — Rokkaku-san and Fukuyama-san — are desperate to contribute because Class A is sinking; her absence is the cause.
+[mentioned] (p.284) Amasawa's team — “second place in the tournament” — Class A gets points anyway via Himeno/Rokkaku/Fukuyama's volleyball stint.
+[rel:amasawa-ichika] (p.279–285) Her classmate; the tournament's face off Horikita's team.
+[rel:rokkaku-momoe] (p.277) Her class — desperate for points.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.303–322 — Ch.6: Sakayanagi — mont blancs and a “special lesson” (AK POV)
+[scene] (p.303–304) 11 AM festival day — she comes to his room with casual clothes; she brings mont blancs — “It seems to be a new product”; she feeds him a mont blanc; she sits on his bed; “Come to think of it, this is the first time you’ve come to my room”; “My apologies for bothering you.”
+[says:sakayanagi-arisu] (p.303) “Hello, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.303) “If you don’t mind, may I bother you for a moment? Even though the only thing I’m prohibited from doing is leaving the dorms, calling on a guy’s room during the sports festival is a bit questionable.”
+[says:sakayanagi-arisu] (p.303) “My apologies for bothering you.”
+[says:sakayanagi-arisu] (p.303) “I don’t usually get a chance to visit. Have you had lunch yet?”
+[says:sakayanagi-arisu] (p.303) “Is that so? That’s great. Here, I have a present for you.”
+[says:sakayanagi-arisu] (p.304) “I bought this at the convenience store early this morning. It seems to be a new product, so I thought we might as well try it together.”
+[says:sakayanagi-arisu] (p.304) “Thank you for your consideration.”
+[says:sakayanagi-arisu] (p.304) “Normally, one never knows who is in the dorm. Being the leader of Class A, I couldn’t possibly just visit your room by myself, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.304) “You really are a terrible person, Ayanokouji-kun. This was part of your strategy, wasn’t it?”
+[says:sakayanagi-arisu] (p.304) “Fufu, you don’t need to play dumb, Ayanokouji-kun. You were almost sure —no, let me correct myself. You were sure I’d come here today, weren’t you?”
+[says:sakayanagi-arisu] (p.305) “You wouldn’t know how it would play out if I were to participate.”
+[says:sakayanagi-arisu] (p.305) “You have a very high opinion of yourself, as usual.”
+[says:sakayanagi-arisu] (p.305) “Last night, I heard from my father that he had requested you to take a leave, Ayanokouji-kun, so that he could arrange for security at the dormitory and prevent any contact with the people sent from the White Room.”
+[says:sakayanagi-arisu] (p.305) “How funny! Didn’t you ask him to tell me about this, Ayanokouji-kun?”
+[says:sakayanagi-arisu] (p.306) “So you decided to come just before 12 only to make me worry?”
+[says:sakayanagi-arisu] (p.306) “Oh, I see.”
+[says:sakayanagi-arisu] (p.306) “By the way, except me and you, everyone is participating in the Sports Festival.”
+[says:sakayanagi-arisu] (p.307) “I wanted to be mean, but to be honest, I also wanted to visit just a little sooner,” she said.
+[says:sakayanagi-arisu] (p.307) “There were three people there, seemingly bodyguards. It wasn’t just at this dorm, and they were stationed across the whole school, so it didn’t appear unnatural.”
+[says:sakayanagi-arisu] (p.307) “The most valuable player of this Sports Festival isn’t Horikita san, for her proposal to cooperate with Ryuuen-kun, nor is it Ryuuen for accepting it. It was you, for authoritatively saying that you could definitely keep me from participating. Congratulations, with just that one thing you sealed your victory.”
+[says:sakayanagi-arisu] (p.307) “While a late surprise is certainly possible, it is highly unlikely. Right now, with Horikita’s class taking them head on, and Ryuuen’s class taking every measure possible, Class A must be at their mercy. Even if one has great arms or legs, without a head one won’t get anywhere. That is because I’ve built up the class that way.”
+[says:sakayanagi-arisu] (p.308) “Well, that’s fine. This time, I paid 150 points to enjoy some time with Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.308) “The systems of this school are, to me, just an extension of playtime. To some extent, so long as I keep our status at Class A, there’s no problem.”
+[says:sakayanagi-arisu] (p.309) “Let’s eat it together, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.309) “Here.”
+[says:sakayanagi-arisu] (p.309) “Isn’t it obvious? Eat it!”
+[says:sakayanagi-arisu] (p.309) “There’s nothing to worry about. It’s just you and me here, Ayanokouji-kun, and nobody will get in our way.”
+[says:sakayanagi-arisu] (p.310) “Yeah.”
+[says:sakayanagi-arisu] (p.310) “Then I’ll have some too.”
+[says:sakayanagi-arisu] (p.310) “It doesn’t stand a chance against the sweets at the café, but for a sweet from a convenience store it makes the grade.”
+[says:sakayanagi-arisu] (p.310) “Next time, I’ll bring a different cake.”
+[says:sakayanagi-arisu] (p.310) “I’m very proud of how perceptive I am, especially when it comes to you, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.310) “In a real battle of wits, you’d never show such a weakness, but when it comes to an everyday thing like this you’re surprisingly open, aren’t you?”
+[says:sakayanagi-arisu] (p.310) “Fufu. That sort of thing has its own appeal, you know?”
+[says:sakayanagi-arisu] (p.310) “Please let me try again sometime. If I see a delicious cake, I’ll bring it with me.”
+[says:sakayanagi-arisu] (p.312) “I don’t suppose you are trying to amass a fortune in private points and make merry, like Kouenji-kun?”
+[says:sakayanagi-arisu] (p.312) “I’m not a god. Moreover, I know your background, Ayanokouji-kun, and consequently there are things I don’t understand or can’t think of. Can you tell me, please?”
+[says:sakayanagi-arisu] (p.312) “But what I find mysterious is your change of heart, Ayanokouji-kun. You’re not helping out from time to time while you stand on the sidelines as you were supposed to. Now you have started to seriously aim for Class A. Why?”
+[says:sakayanagi-arisu] (p.312) “Fufufu.”
+[says:sakayanagi-arisu] (p.312) “So that means that you are trying to build up the strongest class with your own hands, Ayanokouji-kun?”
+[says:sakayanagi-arisu] (p.313) “Like this Sports Festival. Despite the circumstances, you should have been able to participate anyway. Your odds of winning would have been much higher if you were on the ground giving orders, and wouldn’t that have made your position more solid? It’s not like you were worried about whether or not I would participate, after all.”
+[says:sakayanagi-arisu] (p.313) “How interesting! What was this theme?”
+[says:sakayanagi-arisu] (p.313) “The fact that I came to meet you because you were observing from the sidelines doesn’t mean you directly affected the Sports Festival itself, right. … Oh, I see.”
+[says:sakayanagi-arisu] (p.313) “That mean—”
+[says:sakayanagi-arisu] (p.316) “I see, yes… that’s right. However, if I ever wanted to coerce you into a showdown… couldn’t I just use the existence of the White Room instead?”
+[says:sakayanagi-arisu] (p.316) “And I just happened to come to know about it. … So what are you going to do?”
+[says:sakayanagi-arisu] (p.316) “A secret for a secret, and a threat for a threat. Right now, you and I are the only ones left in this dorm. So no matter what happens, nobody will come to help you. Even if you scream at the top of your voice, at best it’ll be barely audible at the end of the hallway.”
+[says:sakayanagi-arisu] (p.316) “Crime? You and I are going to agree to share a secret.”
+[says:sakayanagi-arisu] (p.316) “—You think you’ll win?”
+[says:sakayanagi-arisu] (p.316) “Even if things go as you plan right now, will it actually put you at an advantage? … That’s what I mean.”
+[says:sakayanagi-arisu] (p.316) “The small difference in our level of experience, I will use one way of learning to catch up and then leave you behind. In fact, you might even find out that your way of learning has been wrong all along?”
+[trait] (p.303–317) Cold, playful, calculating — she pays 150 points to look at him; she threatens him with a criminal scene; she always seems to be three steps ahead — she enjoys him; the handicap disability is hers; "It’s just you and me here, Ayanokouji-kun, and nobody will get in our way."
+[rel:ayanokouji-kiyotaka] (p.302–317) Her new game — the mont blancs; the “special lesson”; she knows he's acting behind the scenes; he knows she'll want to see him again.
+[rel:kamuro-masumi] (p.305–307) Class A's steward — she has him do all the legwork — she never leaves the room.
+[rel:hashimoto-masayoshi] (p.305) “Kitou-kun and Hashimoto-kun” — he calls them "promising"; not as good as Horikita's class on average.
+[rel:kitou-hayato] (p.305) “Kitou-kun” — named among the Class A prometing.
+[note] (p.317–318) The “special lesson” itself is not depicted; the corpus elides the act and cuts to an hour later; no content is recorded or inferred.
+[note] (p.318–322) The doorbell scene — the boy knows her voice and is unsurprised; she hears it from somewhere five to ten years ago behind a door; not assigned to a named character; he is not the White Room.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
+
+### y2v6 p.333–335 — Short story: “Complicated Feelings” (Sakayanagi POV)
+[scene] (p.333–335) Her side of the mont blanc scene — she pieces together his hints; “You will be hindrance if you told anyone else about this.”; she sees his eyes — “Shall we start the special lesson?”; she accepts being used by him — “But, do remember this, Ayanokouji-kun. If you are going to use me—I’m going to use you until the very end.”
+[says] (p.333) “You were just observing, but even made me come here and visit you. You are not planning on doing anything during the festival either, right? … I see.”
+[says] (p.333) “In other words—Eh”
+[says] (p.334) “E-excuse me?”
+[says:ayanokouji-kiyotaka] (p.334) “My school life is founded on this plan I have. The fact you would come here today, would show interest in and eventually reach the answer as within possibility.”
+[says:ayanokouji-kiyotaka] (p.334) “You will be hindrance if you told anyone else about this.”
+[says] (p.334) “You think I… would leak this?”
+[says:ayanokouji-kiyotaka] (p.334) “The chances aren’t zero. You may try to blackmail me by saying you’d expose it unless I agreed to have a match with you. I’d have no other options in that case.”
+[says] (p.334) “I see, that’s certainly true… But, couldn’t I just reveal the truth about the White Room instead?”
+[says:ayanokouji-kiyotaka] (p.335) “Shall we start the special lesson?”
+[trait] (p.333–335) Arrogant, calculating, self-aware — she knew he was planning the whole thing; she accepts being used on her own terms — he will be used back until the very end.
+[rel:ayanokouji-kiyotaka] (p.333–335) Her dance with him — she forced herself into his trap and enjoys the fight; “If you are going to use me—I’m going to use you until the very end.”
+[note] (p.333–335) Short story; alternate retelling of the mont blanc scene from Ch.6; the "special lesson" text is not depicted here either; the corpus prints the whole intervention before it happens, but not the lesson itself.
+
+<!-- walk: y2v6 SS → p.344 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1319,7 +1472,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.74) Ayanokōji spots her on the bow deck with Sakayanagi-from-Class-A's name in the lunch crowd.
 
 
-
 ### y2v4.5 p.78–85 — Sakayanagi: lunch with Ayanokōji; Ichinose's apology
 [says] (p.78) "It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun."
 [says] (p.79) "Have you heard of 'Beneath the Wheel'?"
@@ -1405,43 +1557,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.174) "from signing contracts with people like Sakayanagi and Ryūen, who will invite them into their classes if they let the time run out, or give them large amounts of private points."
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.219–222 — Sakayanagi decides to participate
-[says] (p.219) "The situation changes from moment to moment. And today, there has been another new development."
-[says] (p.219) "Ryuuen-kun and Horikita-san's classes have made contact."
-[says] (p.220) "We will lose. If the other three classes were disorganized and fought each other, it would have still been possible for us to take any of the positions, but now we have an unexpected partnership to deal with."
-[says] (p.221) "I will also participate in the Sports Festival. Even if they really do join hands, they have calculated that with my nonparticipation and their cooperation, they can finally win. Let's show them that that is an illusion."
-[says] (p.222) "It won't be so difficult to crack the fragile relationship between Horikita-san and Ryuuen-kun."
-[trait] (p.219–222) Calmly assesses that Class A will lose against the new alliance — and, rather than sit out (as everyone expected given her legs), decides to participate to foil their calculations, even if only to pick up winnable events and disrupt them on the day; confident she can "crack" the fragile alliance. Hashimoto notes her impression of Ayanokōji has been "rising considerably."
-[rel:hashimoto-masayoshi] (p.220) He suspects Ayanokōji is making secret moves; she probes his changed impression of him.
-[rel:kamuro] (p.219–221) Her classmate; questions whether she can really participate.
-[rel:ayanokouji-kiyotaka] (p.220) Hashimoto: "Has Horikita grown?… Or has Ayanokouji been making some moves in secret?"
-
-[note] (p.219) Sakayanagi's information network among first-years alerted her to the alliance quickly — "I still have the responsibility of representing Class A after all."
-
-### y2v6 p.303–317 — Sakayanagi's visit: mont blancs, a "special lesson," a shared secret
-[scene] (p.303) Visits Ayanokōji's room during the festival (with two mont blancs), knowing he predicted she would come — her legs prevent easy movement, but she's only prohibited from leaving the dorms.
-[says] (p.304) "You really are a terrible person, Ayanokouji-kun. This was part of your strategy, wasn't it?"
-[says] (p.307) "It was you, for authoritatively saying that you could definitely keep me from participating."
-[says] (p.308) "The systems of this school are, to me, just an extension of playtime."
-[says] (p.309) "Initially, I was not obsessed about Class A or anything like that. But after finding out that you were in this school, it became my goal."
-[says] (p.309) "Let's eat it together, Ayanokouji-kun."
-[says] (p.317) "The small difference in our level of experience, I will use one way of learning to catch up and then leave you behind."
-[trait] (p.303–317) Playful and perceptive — sees through his trap, but comes anyway (curiosity and desire to talk); feeds him mont blanc with the same fork, reveals her goal is to fight him seriously once he reaches Class A, and even when physically overpowered and cornered into a "special lesson" (a compromising photo to bind her secrecy), keeps thinking rationally — accepting being "used" while vowing to use him in return.
-[rel:ayanokouji-kiyotaka] (p.303–317) Her "terrible" rival — she came to his room, shares a secret, and is bound to him by a "special lesson."
-[rel:sakayanagi] (p.305) Her father, the school director, was manipulated (unknowingly) into telling her about Ayanokōji's sick leave — the bait that brought her.
-
-### y2v6 p.333–335 — Short story: "Complicated Feelings" — the "special lesson" from her POV
-[scene] (p.333) From her own POV, enjoys the rare chance to talk to Ayanokōji alone (both absent from the festival), piecing together the hints of his "observation" strategy when he suddenly pushes her back onto the bed.
-[narrates] (p.333) "You were just observing, but even made me come here and visit you."
-[narrates] (p.334) "You will be hindrance if you told anyone else about this."
-[narrates] (p.335) "If this was his goal, I won't mind."
-[narrates] (p.335) "If you are going to use me—I'm going to use you until the very end."
-[trait] (p.333–335) Flustered yet exhilarated — her thoughts scramble when he mounts her to bind her secrecy, but she realizes his "true goal" (the "special lesson") and accepts being used, with "complicated feelings" — and resolves to use him in return until the very end.
-[rel:ayanokouji-kiyotaka] (p.333–335) Her rival — she acknowledges she's being used and vows to use him back.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -1705,7 +1820,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.104) "Special exam? No, you're mistaken, Hashimoto-kun. Today is just a simple tea party."
 [says] (p.105) "Lately, we've been doing recreational activities like cultural festivals and school trips."
 [rel:hashimoto-masayoshi] (p.103–122) She amuses herself by being unhelpful to him.
-
 
 
 ### y2v10 p.9-235 — sakayanagi-arisu mentioned in passing

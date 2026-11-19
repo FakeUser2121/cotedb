@@ -1036,6 +1036,62 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v11 ch6 → p.280 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Sakura Airi named in Miyake's group (Miyake's POV)
+[scene] (p.12) Named among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group he thought of as strangely comfortable.
+[mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
+[note] (p.12) Miyake narrates that logic did not weigh his choice — he was willing to abandon Airi, a member of the group he cared about just as much as Haruka, to protect Haruka.
+
+<!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.20–20 — Ch.1: OAA emptied — her name is gone
+[mentioned] (p.20) AK checks the OAA app on his phone — her name is already gone from the class list, as if such a student had never existed.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.58–63 — Ch.1: The five thousand points she spent — the gray area
+[scene] (p.61–62) Chabashira tells him: after the Unanimous Consent Special Test finished, the school found evidence Sakura spent about five thousand of her private points; items purchased in-school are fundamentally the student's property, but the post-processing had not been completed; this is a gray area — the school considers it unacceptable if points were transferred after expulsion; he agrees to pay the five thousand himself; Chabashira trails off at “No, it’s not like that. Sakura───” and never says what the points were for.
+[note] (p.61–63) Purpose of the five thousand points: not stated on these pages; Chabashira asks if it has anything to do with AK; he denies it; he agrees to cover the sum.
+[rel:ayanokouji-kiyotaka] (p.61–63) He agrees to pay her five thousand points out of his own — he claims no obligation to bear it, but chooses to.
+[rel:hasebe-haruka] (p.18) Her close friend Haruka paid the price for her expulsion too — the class's fracture radiates from this page forward.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.74–89 — Ch.2: The exam's shadow — her nameless weight
+[scene] (p.74–76) Kei's anxious midnight question: “You know how you chose to expel Sakura-san on the basis of her OAA in the special exam? If—” — chokes on her words when their eyes meet — “Are you curious about what I would’ve done if you had the lowest score in the OAA?” — he answers fully; she pours out her doubts; he answers her honestly: a friendless, low-status “completely different” Kei would have been expelled; Kei pouts — “‘I would've protected any version of you’. That's the correct answer, ’kay?”
+[mentioned] (p.85) Yousuke: “It's like you're not even slightly weighed by expelling Sakura-san.” AK could not sense any sorrow or anger in his quiet voice.
+[mentioned] (p.87–89) Hirata's confession — his hands remember pressing the Support button for her expulsion; he resents AK for it — “… For just that, yes. But I believe in you.” — “I want to believe in you.”
+[rel:ayanokouji-kiyotaka] (p.74–89) The exam's weight: her name hangs over the Kei talk, the Yousuke confession, and the class's whole near future.
+[rel:hasebe-haruka] (p.85, 87) The closest friend expelled; the wound that powers the Haruka/Keisei/Autho thread.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.6, 5 — Coverage gate: no hits
+[note] (p.6) No entries for Sakura here; the credits name the illustrator only.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.104–193 — Ch.3: Airi — the frame of everything
+[mentioned] (p.104) Horikita to Chabashira: “We gained class points by forcing Sakura-san to drop out. Was it really the right thing to do?”
+[scene] (p.146–148) Wang POV — Airi's farewell to Hasebe was kind and harsh; Wang pressed the Support button anyway and hates herself for it.
+[mentioned] (p.159–161) The meeting — the three alternate sharing wounds; Airi is the one Ayanokōji named without hesitation.
+[mentioned] (p.189–193) Haruka: “Give Airi back.” — “I wanted to tell you today: I will make you regret expelling Airi.” — “The decision from that time was wrong.”
+[rel:hasebe-haruka] (p.189–193) Haruka's revenge declaration is aimed at Horikita and AK — “Give Airi back.”
+[rel:wang-mei-yu] (p.146–148) Wang pressed the Support button for her — hates herself.
+[rel:horikita-suzune] (p.104) “Forcing Sakura-san to drop out.”
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.327–328 — Epilogue: Airi — the revenge's target
+[mentioned] (p.327–328) “all our classmates who threw away Airi.” — the revenge she conceived at first — destroy everything; she has moved past that thought — but she has not forgiven; she lets it be a joke.
+[note] (p.328) “I won’t forgive Kiyopon. I won’t forgive our classmates.” — she refuses forgiveness but no longer wants destruction.
+[rel:hasebe-haruka] (p.327–328) The whole volume's long shadow — she is the wound behind Haruka's “revenge.”
+
+<!-- walk: y2v6 Epilogue → p.330 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1094,7 +1150,6 @@ aliases used for anchors: sakura, airi, sakura-san
 <!-- walk: y2v2 Ch.1 → p.45 -->
 
 
-
 ### y2v2 p.15 — Sakura's praise of Kiyotaka
 [says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"
 [trait] (p.15) Tries to lighten the dreary mood with a sage smile and praise of Ayanokōji — but it has the opposite effect, tightening Yukimura's face.
@@ -1112,7 +1167,6 @@ aliases used for anchors: sakura, airi, sakura-san
 <!-- walk: y2v3 Ch.2 → p.56 -->
 
 
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -1125,11 +1179,9 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.278) “If we're all here, it means that Haruka and Airi's group were safe too.” — Hirata's interior; the second-year Class D line held; "Airi" is printed on this page and is not otherwise identified on this page; identity attribution to Sakura Airi is plausible but not printed; kept as an unassigned mention.
 
 <!-- walk: y2v4 Epilogue → p.284 -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
 
 
 ### y2v4.5 p.100–113 — Airi's "remodelling": new swimsuit, no glasses, a resolve to change
@@ -1152,7 +1204,6 @@ aliases used for anchors: sakura, airi, sakura-san
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
 
 
 ### y2v5 p.46–55 — Airi's silence after the lunchroom reveal
@@ -1197,18 +1248,6 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.237) "Sakura must have been a member of your close group. And moreover, that girl had special feelings for you." — Chabashira.
 [mentioned] (p.238) "Of course, there are a few students who are not so different from Airi. But if a quarrel starts between students who are on the same side, their friends will naturally take the side of protection."
 [mentioned] (p.242) "Sakura getting yeeted was certainly surprising, but a welcome one in my mind." — Amadeus's credit.
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — sakura-airi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.12, p.18-20, p.22-23, p.27, p.58-59.
-[mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 
@@ -1286,8 +1325,6 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -1298,7 +1335,6 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.44) Passing mention only.
 
 <!-- walk: y2v9 Ch.2 → p.44 -->
-
 
 
 ## y2v9.5

@@ -805,7 +805,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v2 Ch.5 → p.311 -->
 
 
-
 ### y2v2 p.298–312 — Katsuragi's vendetta; signs Ryūen's contract to transfer
 [scene] (p.298) Joins Ryūen's café meeting with Ayanokōji, stiff and uneasy at being seen with Ryūen.
 [says] (p.298) "You said there was someone else, were you talking about Ayanokouji?"
@@ -836,7 +835,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v3 Ch.6 → p.276 -->
 
 
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -851,8 +849,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.280) The results: 3rd place — Sakayanagi’s seven-member group, 261 points; 2nd place — Nagumo, 325; 1st place — Kōenji alone, 327.
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
-## y2v4.5
+<!-- walk: y2v4 Epilogue → p.284 -->## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
 
@@ -917,7 +914,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v6 → start -->
 
 
-
 ### y2v6 p.195–218 — Katsuragi: the honest broker in the alliance
 [says] (p.195) "Sorry for being late." — his punctuality noted as unusual by Ayanokōji
 [says] (p.200) "There is no one I'd be more afraid of trusting my back to." — on Ryūen
@@ -929,6 +925,61 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.195–218) Pragmatic and honest — apologizes for lateness (which earns Horikita's trust), warns her of Ryūen's untrustworthiness from painful experience, urges his class to take the alliance seriously, and helps broker the deal; his addition to Ryūen's class means Ryūen no longer has to lead every negotiation — "a very big advantage for them."
 [rel:ryuuen-kakeru] (p.205) He reevaluates the alliance and talks Ryūen into accepting.
 [rel:horikita-suzune] (p.201–212) He senses her growth and agrees to collaborate on the paperwork.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.195–218 — Ch.4: Katsuragi Kohei — the deal's quiet architect (AK POV)
+[scene] (p.195–197) Second-year D appears — punctuality-wish energy — he steps in first; orders oolong tea — “I’ll have oolong tea, please.”; he holds Horikita back from opening — delays her to unnerve her from the outset; he is the reliable half of Ryuuen's pair.
+[says:katsuragi-kouhei] (p.195) “Sorry for being late.”
+[says:katsuragi-kouhei] (p.196) “…More or less.”
+[says:katsuragi-kouhei] (p.196) “There was something you wanted to talk to us about… let’s hear the details, shall we.”
+[says:katsuragi-kouhei] (p.197) “I’ll have oolong tea, please.”
+[says:katsuragi-kouhei] (p.199) “Now that we have our drinks, shall we get down to business? What’s the meaning of this get-together?”
+[says:katsuragi-kouhei] (p.199) “… What do you mean by cooperative relationship?”
+[says:katsuragi-kouhei] (p.200) “That’s true. Even I, now a fellow classmate, think so. There is no one I’d be more afraid of trusting my back to. That being the case, why did you propose a cooperative relationship that poses such a great risk to you?”
+[says:katsuragi-kouhei] (p.200) “But it would be pointless if those hopes aren’t met, wouldn’t it? This guy will use any means available, that’s who he is. I know it well, since I have my own painful experiences. I can’t recommend it.”
+[says:katsuragi-kouhei] (p.200) “That’s very simplistic. Did you not consider that this attitude of mine may also be one of Ryuuen’s schemes?”
+[says:katsuragi-kouhei] (p.201) “You seem a little different from before, Horikita. So I guess that means you’re growing, too, huh.”
+[says:katsuragi-kouhei] (p.201) “I understand the situation on your side. From here on out, I’ll give you my personal opinion.”
+[says:katsuragi-kouhei] (p.201) “I, too, had a plan in mind to join forces with your class this time and defeat Class A.”
+[says:katsuragi-kouhei] (p.201) “That’s right. Your class has strong individuals like Sudou and Kouenji who can compete across grade levels. Among the four second-year classes, you have the students with the highest physical abilities, and the depth of your roster is the very best. We don’t need to worry about being dragged down if we team up with you. You’re not someone I can trust unconditionally, but the fact that your class won’t easily betray us is worth noting.”
+[says:katsuragi-kouhei] (p.202) “But, to tell you the truth, I was of two minds on whether I should propose working together with your class to Ryuuen-kun.”
+[says:katsuragi-kouhei] (p.202) “If we were to form a cooperative relationship, our classes would naturally take first and second place. If that happens, the deciding factor would inevitably be the total strength of our classes. Roughly speaking, I’d say that we’d have to resign ourselves to the possibility that your class would get first and we’d get second,” said Katsuragi.
+[says:katsuragi-kouhei] (p.203) “Absolutely. The circumstances are very different from what they were a year ago. Unlike when you were mocked for being a bundle of defective goods, you are now Class B. And that’s after your class points fell all the way down to zero once. Most recently, you had Kouenji’s solo victory and gained a hundred points from making the difficult decision of kicking out a classmate in the Unanimous Consent Special Test. There is no doubt that you certainly are a formidable enemy.”
+[says:katsuragi-kouhei] (p.203) “No. You’re right. Ryuuen, what do you think?”
+[says:katsuragi-kouhei] (p.205) “Ryuuen. It looks like Horikita is different from how she used to be, far more than we could imagine. If we don’t take this negotiation seriously, we will be the ones losing out.”
+[says:katsuragi-kouhei] (p.205) “We didn’t propose this idea. But, now that Horikita has started the conversation, the situation has changed. Not to mention, I’m getting the feeling it will be better than I expected.”
+[says:katsuragi-kouhei] (p.208) “It’ll be difficult to get any concessions out of Horikita. But I think we’ll get a solid partnership out of this.”
+[says:katsuragi-kouhei] (p.210) “I don’t accept everything you’re saying, but one thing’s for sure—it ain’t a good idea to let Sakayanagi’s class keep running on ahead.”
+[says:katsuragi-kouhei] (p.213) “It’s great that we’ve finished our discussion regarding working together, but there’s now something that we must think about. One can easily think that Sakayanagi and Ichinose will join hands, so what do you plan to do about that?”
+[says:katsuragi-kouhei] (p.213) “However, it’s Sakayanagi we’re talking about. She will have established a strategy to make up for her lack of people.”
+[says:katsuragi-kouhei] (p.214) “Have you not seen the rules for this time around? If you don’t participate in the Sports Festival, you have to stand by in your dorm. As they can’t use their phones, Class A’s head won’t work at all.”
+[says:katsuragi-kouhei] (p.214) “Have you grasped the rules? Sure, Sakayanagi can’t move her body to its fullest. However, if she officially joins, gains her five points, then gains the five-point reward for participating, then she can obtain a total of 10 points. If she fulfills the minimum requirements, she can continue to sit from the outside and give out orders.”
+[says:katsuragi-kouhei] (p.214) “Things won’t line up so conveniently. We are given the right to resign from a competition. If she participates and then forfeits, then she can avoid … embarrassing herself.”
+[says:katsuragi-kouhei] (p.214) “Would it count as a compelling reason? If she participates knowing the condition of her body, then they’ll want justification. After everyone finishes running in the 100-Meter Race, she has to run all the way till the end with her cane. You think she’s gonna make a spectacle of herself like that?”
+[says:katsuragi-kouhei] (p.214) “Indeed, if things were normal, then she would pass on participating given her personality. However, if she knows that we’ve joined up, then Sakayanagi would consider the risks of losing. I’m saying it’s wrong to assume that it’s certain. I was just speaking thoughtlessly, but what do you see the percentage of her not participating being? Answer seriously.”
+[says:katsuragi-kouhei] (p.214) “So from your unsubstantiated and carefree view it’s 90%? If that’s the case, then the actual value is even lower. I’d say 70-80% at best.”
+[says:katsuragi-kouhei] (p.214) “I can’t do that. If you want to talk certainty, then shoot for 95%.”
+[says:katsuragi-kouhei] (p.214) “I agree. The school probably wouldn’t watch quietly either.”
+[says:katsuragi-kouhei] (p.215) “It’s not that simple, don’t forget that we’re sinking to the bottom class.”
+[says:katsuragi-kouhei] (p.215) “What do you mean?”
+[says:katsuragi-kouhei] (p.216) “I can’t even imagine what kind of plan you have, but if Horikita and Ryuuen believe in you, then I more or less don’t plan to say anything more than this on the matter. If Sakayanagi doesn’t participate, then pushing Class A to last place shouldn’t be that hard.”
+[says:katsuragi-kouhei] (p.216) “But can you really do it?”
+[says:katsuragi-kouhei] (p.217) “That’s an interesting idea, but…”
+[says:katsuragi-kouhei] (p.217) “You can deal with your personal feelings later. But frankly, it’s not a bad proposal. We might need to discuss the details, and check the rules again but—no, it’s Ayanokouji we’re talking about. You’ve probably proposed this after confirming the rules properly.”
+[says:katsuragi-kouhei] (p.217) “Accept it, Ryuuen. We should be advancing our preparations right now for a direct confrontation with Sakayanagi.”
+[says:katsuragi-kouhei] (p.217) “I’ll do that.”
+[says:katsuragi-kouhei] (p.218) “However, before that, making Sakayanagi not participate in the Sports Festival is top priority. For both our cooperation at the Sports Festival and Ayanokouji’s proposal, if we don’t clear that first step, then the ball can’t get rolling.”
+[trait] (p.195–218) The straight man — the only calm operator in the room — oolong tea, measured sentences, no fear of Ryuuen; he vouches for Horikita's growth; he stops Ryuuen from refusing AK's proposal; he is the contract executor for the siege.
+[rel:horikita-suzune] (p.195–218) He is the one she chose to trust in the negotiation; he respects her growth as a leader.
+[rel:ryuuen-kakeru] (p.195–218) He manages him without breaking the chain; he delivers the deal.
+[rel:ayanokouji-kiyotaka] (p.211–218) He's the one who talks Ryuuen into accepting AK's proposal — “You've probably proposed this after confirming the rules properly.”
+[rel:ichinose-honami] (p.201) He reasons that Class A is out of reach, Ichinose's class viable — the process of elimination.
+[rel:sakayanagi-arisu] (p.213–218) The obstruction calculation — 37 vs 40; 70–80%; 95%; the resignation-rule loophole.
+[rel:totsuka-yahiko] (p.213) “after Totsuka’s expulsion and your transfer.”
+[note] (p.196) The line “There was something you wanted to talk to us about… let’s hear the details, shall we.” is untagged in the corpus — the assignment to Katsuragi is by the printed dialogue order, not a printed name; flagged as such.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -981,8 +1032,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -1005,7 +1054,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:yamamura-miki] (p.131–134) He finds her following them; later warns Ryūen off.
 
 <!-- walk: y2v9.5 Ch.5 → p.128 -->
-
 
 
 ## y2v10

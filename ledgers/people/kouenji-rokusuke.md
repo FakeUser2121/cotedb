@@ -697,6 +697,51 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.44–47 — Ch.1: The contract — plays for the money, not Class A
+[scene] (p.44) At the same time Horikita leaves the classroom, he also gets up and leaves; she checks on them through the slightly open door — confirms his participation.
+[says] (p.45) “Fufu. I don’t need to help out… I’m sure you’re aware of that?”
+[says] (p.45) “You are a very lucky girl, it looks like.”
+[says] (p.45) “I made a bit of money in the Uninhabited Island Test and the treasure hunt, but at this time I need quite some money to spend. So from my point of view, there’s no reason for me to not participate.”
+[says] (p.46) “You have no problems on that front. There’s nothing the other classes have for me at this point that beats the agreement I have with you, Ms. Horikita.”
+[says] (p.46) “As of now, you’re safe.”
+[says] (p.46) “I’m fine with that. After all, I don’t have to team up with anybody.”
+[says] (p.47) “Do you like eavesdropping on people?”
+[says] (p.47) “Let’s keep it at that, then.”
+[says] (p.47) “Right now, my heart is aflutter with joy from the rewards of the Sports Festival. I’ll answer.”
+[says] (p.47) “I had it all figured out. If the turn of events would have led to me becoming a candidate for expulsion, I would’ve voted against the motion before that step. What I said about trusting Ms. Horikita was predicated on that.”
+[says] (p.47) “I would never trust someone else with my life. Neither would you, isn’t that so?”
+[scene] (p.46) Horikita accepts "As of now, you're safe" skeptically; she asks whether he would switch classes if he won the right — he defers; AK, having asked about whether he would ever have been an expulsion candidate, gets a calculated answer: he would have voted against before that step; AK realizes the promise was never about trust; he is a calculating man who maintains his freedom.
+[trait] (p.45–47) Carefree on the surface, calculating underneath; enters the festival for money; never fully commits to anyone; cannot be fully figured out by AK.
+[rel:horikita-suzune] (p.45–47) He agrees to participate solo for the cash prizes; "there's nothing the other classes have for me at this point that beats the agreement I have with you"; he predicated his promise on Horikita keeping hers.
+[rel:ayanokouji-kiyotaka] (p.46–47) He notices AK eavesdropping; answers his question about whether trust bound him — he never trusted anyone with his life.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.94–94 — Ch.2: The name on the doubles list — rejected outright
+[mentioned] (p.94) Sudou: “There's also Kouenji, right? I don't wanna admit it, but that dude is better than me.” Onodera rejected the idea outright: “In terms of ability, sure. However, I can't trust Kouenji-kun. I hate him more than anything, after all.”
+[rel:onodera-kayano] (p.94) Her hard veto — his ability is acknowledged, his trustworthiness is not.
+[rel:sudou-ken] (p.94) Sudou would admit Kōenji is better; Onodera won't pair with him.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.325 — Coverage gate: the plan naming him
+[mentioned] (p.325) “…and Kouenjisan. I will move forward with their support. Class A waits for us. That is what I now believe.” — Kouenji is named as one of the leaders she sees as possible supporters; the page does not quote him.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.323–323 — Ch.6: Kouenji — ten wins, second place
+[mentioned] (p.323) “Kouenji also took first place in ten events, but because they were all individual events he finished second. He seemed satisfied with that and didn’t stir up any trouble.” — ten individual wins; second overall behind the Sudou-Onodera pair.
+[rel:sudou-ken] (p.323) He finished behind the Sudou-Onodera pair; he was satisfied with that.
+[rel:onodera-kayano] (p.323) He finished behind the Sudou-Onodera pair.
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1002,7 +1047,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [mentioned] (p.37) The exam results: Kōenji's solo group first place, Nagumo's second, Sakayanagi's third; Kiriyama's group fourth with 255 points, six short of the podium.
 
 
-
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
 ### y2v4.5 p.207–210 — Wang and Kōenji's 500,000-point pair
@@ -1053,19 +1097,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [mentioned] (p.187) "The 300 class points that Kōenji got in the desert island exam was a miracle." — Keisei's line.
 [mentioned] (p.188) "there's Kōenji, who doesn't want to let go of his only ally, Horikita."
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.44–47 — Kōenji: conditional trust, calculated freedom
-[says] (p.45) "You are a very lucky girl, it looks like."
-[says] (p.45) "I made a bit of money in the Uninhabited Island Test and the treasure hunt, but at this time I need quite some money to spend."
-[says] (p.46) "There's nothing the other classes have for me at this point that beats the agreement I have with you, Ms. Horikita."
-[says] (p.47) "I had it all figured out. If the turn of events would have led to me becoming a candidate for expulsion, I would've voted against the motion before that step."
-[says] (p.47) "I would never trust someone else with my life. Neither would you, isn't that so?"
-[trait] (p.44–47) Agrees to compete in the sports festival for the cash prizes, and confirms (for now) he won't change classes; reveals he never fully trusted Horikita — if he'd been nominated for expulsion he'd have voted himself against — and that his "trust" was conditional on self-preservation; Ayanokōji notes he's "carefree" yet deeply calculating — the one student he can never figure out.
-[rel:horikita-suzune] (p.45–47) Their agreement keeps him in class — for now; he'd have defended himself if needed.
-[rel:ayanokouji-kiyotaka] (p.47) He sees through his eavesdropping and they trade masked insights.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -1156,7 +1187,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says] (p.79) "So be it. I have dates after this, so I’d better get going."
 [rel:wang-mei-yu] (p.66–80) She unexpectedly figured out he was her benefactor; a long-overdue payback.
 [rel:ayanokouji-kiyotaka] (p.66–80) Asks precisely what he owes and whether he'll agree to the deal — Kōenji will not agree.
-
 
 
 ### y2v10 p.9-235 — kouenji-rokusuke mentioned in passing

@@ -154,6 +154,71 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.283–292) Follows and tries to reach him.
 [rel:kouenji-rokusuke] (p.289–292) Is carried by him.
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.28–59 — Ch.1: Absent — her love exposed
+[mentioned] (p.28) “Wan” is absent Monday — Chabashira accepted her sick leave; the class knows she is not sick; her absence is because her love for someone was exposed (per AK's inference on these pages).
+[note] (p.59) AK narrates: “Haruka’s absence was due to Airi’s expulsion. Wang’s absence was because her love for Yousuke was exposed.” — the page does not otherwise identify either party; “Wan” is printed as the clipped form.
+[rel:hirata-yousuke] (p.59) “her love for Yousuke was exposed” — as printed; identity of the Yousuke is inferred only from the name; recorded as printed.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.76–100 — Ch.2: The crude plan — date her, and she'll return
+[scene] (p.76) AK narrates the exam's shadow over Kei — Mii-chan's absent seat among the three.
+[scene] (p.85–86) AK lays out the “crude but forceful method” to Yousuke for Mii-chan: meet her and accept her feelings — date her — and she would go back to school tomorrow; Yousuke recoils — she will only end up deeply hurt later; AK insists: he can't deny many rejected students; he could either date her (“Actually, I like you too, Mii-chan. Please go out with me.”) or lie about it.
+[mentioned] (p.100) Yousuke: “But what about Mii-chan?” AK: “I'm thinking of taking a shot at that one.” — Mii-chan is the one case requiring his direct help.
+[note] (p.85) AK puts a proposed script in his own mouth for Hirata to consider — the corpus prints it as quoted text: “‘Actually, I like you too, Mii-chan. Please go out with me.’” — the crude method as printed.
+[rel:hirata-yousuke] (p.85–86) The target of the “crude” proposal; his recoil drives the conversation.
+[rel:ayanokouji-kiyotaka] (p.85–86) He cannot deny that many girls were hurt by the fake dating story — he still puts the option on the table as a lever.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.146–154 — Ch.3: Wang's week — the photo; the call; the corridor (Wang's POV)
+[scene] (p.146) 5:30 PM, Sunday; the excuse of a mild ache to excuse five days of skipping; her phone — unread messages; she scrolls to the earliest photos — a photo of herself just after the school year began, back when she still had no one to call a friend; the first and only two-shot she has with Hirata-kun; she cries.
+[narrates] (p.146) “I miss it…”
+[narrates] (p.147) “—And yet.”
+[narrates] (p.147) “I’m the worst…”
+[scene] (p.147) She was in China before this — academics were very rigorous; she never had time for love; she doesn't know when exactly she fell for him; everyone in class found out; she feels embarrassed and scared; Airi's farewell — kind and harsh to Hasebe — and she pressed the Support button anyway; she hates herself.
+[scene] (p.148) Ayanokouji's email from Monday night — “I’d like to meet up in person and talk.” — with his phone and room numbers; messages from others; only him would be brave enough to actually hear her out; she decides to go visit — 20 minutes wait; he answers after ten rings; the shower running in the background; she spills her words at once.
+[says:wang-mei-yu] (p.148) “Ahh, um, it’s Wang! Uh, is this Ayanokouji-kun?”
+[says] (p.148) “You decided to call me.”
+[says:wang-mei-yu] (p.148) “…Yes. I haven’t been able to leave my room, and I was struggling, but… I felt like I might be able to take that step now… so I was wondering if maybe I could talk to you a little bit…”
+[says] (p.148) “Right now?”
+[says:wang-mei-yu] (p.148) “Is this a bad time…? I’m sorry for calling so suddenly… I am hopeless, aren’t I…”
+[says] (p.149) “That’s not the case, but could you wait a bit? 30 minutes, no, I’ll be ready in 20 minutes,”
+[says:wang-mei-yu] (p.149) “Th-thank you very much! I will be there in 20 minutes! Then, if you’ll excuse me!”
+[scene] (p.149–150) Another delivery at her door — Monday night's noticed: jelly, tea, sandwiches, a salad; a note with only her room number, no name — “nameless-san”; she leaves it behind for now; on the stairs to the fourth floor — the boys' rooms — she is weirdly nervous; the door opens — Karuizawa-san comes out, sleek straight hair instead of the ponytail; AK after her in casual clothes; they were perhaps on a date; she is annoyed at her own timing.
+[says:wang-mei-yu] (p.149) “Whew… My heart is racing…”
+[says:wang-mei-yu] (p.150) “Ah, again…”
+[says:wang-mei-yu] (p.150) “You came today as well.”
+[says:wang-mei-yu] (p.150) “Ah, there’s a salad in there today… but… it’s not really my kind of thing…”
+[says:wang-mei-yu] (p.150) “Just who could it be?”
+[scene] (p.150–153) Karuizawa notices her; the eyes meet; the “speak of the devil thingy” — “See you later, Kiyotaka!” — she walks off briskly; Wang calls out — apologizes for disturbing them; Karuizawa-san reveals AK said to pick him at that moment — she might have to build up the courage again otherwise; she gives Wang a pep talk to be able to ask for advice; leaves via the emergency exit stairs — “Well then, I’ll be waiting for you next Monday.”
+[says:karuizawa-kei] (p.151) “Ah, th-this is that ‘speak of the devil’ thingy, right? See you later, Kiyotaka!”
+[says:karuizawa-kei] (p.151) “B-bye bye!”
+[says:wang-mei-yu] (p.153) “Um, Karuizawa-san!”
+[says:karuizawa-kei] (p.153) “W-w-w-what?”
+[says:wang-mei-yu] (p.153) “…I’m sorry for calling Ayanokouji-kun so suddenly… I was disturbing you, wasn’t I…”
+[says:karuizawa-kei] (p.153) “You weren’t, not at all! Really.”
+[says:wang-mei-yu] (p.153) “But…”
+[says:karuizawa-kei] (p.153) “You wanted some advice, right? Kiyotaka said so. He said if he didn’t call for you now, you’d have to build up the courage to get out of your room all over again.”
+[says:karuizawa-kei] (p.153) “I think it’s fine for you to feel free and ask for advice. He’s good at talking, and although he can be a bit clumsy with his words at times, I think he’ll give you the answers you’re looking for.”
+[says:wang-mei-yu] (p.153) “—Yes.”
+[says:karuizawa-kei] (p.153) “Well then, I’ll be waiting for you next Monday.”
+[says:wang-mei-yu] (p.154) “Thank you very much, Karuizawa-san.”
+[scene] (p.154) She presses the bell; the door opens after 30 seconds; AK is silent after welcoming her in; she rushes to speak — “I got your message, and… uh, I wanted to talk to you a bit…!”
+[says:wang-mei-yu] (p.154) “U-um… I got your message, and… uh, I wanted to talk to you a bit…!”
+[trait] (p.146–154) A Chinese fish-out-of-water who fell for Hirata unaware; bottled anxiety; pressed the Support button for Airi and hates herself; brave enough to crawl in on Monday; outwardly composed, inwardly torn to pieces.
+[rel:hirata-yousuke] (p.146–154) The unspoken crush — Hirata-kun; the first and only two-shot, back when no one was friends; China, where love never entered the curriculum.
+[rel:karuizawa-kei] (p.150–154) The "speak of the devil" encounter; Karuizawa's pep talk — Wang steels herself for Monday.
+[rel:ayanokouji-kiyotaka] (p.148–154) The waiting-game phone call — she calls him on Monday night's email; the ten rings; the shower; she walks up to his room.
+[rel:sakura-airi] (p.147) “the exam would hurry up and end, I pressed the button in support of expulsion.”
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -208,7 +273,6 @@ char_id: wang-mei-yu · status: minor
 <!-- walk: y2v2 Ch.2 → p.66 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -220,9 +284,6 @@ char_id: wang-mei-yu · status: minor
 [note] (p.209–210) Ayanokōji can't recall Kōenji at the briefing; the circumstances are unknown even to Horikita — "he's out of this world."
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
-
-
-
 
 
 ## y2v5
@@ -247,18 +308,6 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.54) "No, if you include her physical characteristics, she might even be able to beat them." — Satō about her looks.
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — wang-mei-yu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.27, p.59-60, p.85-87, p.93, p.100-102.
-[mentioned] (p.11) Passing mention only.
-
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -327,11 +376,6 @@ char_id: wang-mei-yu · status: minor
 [rel:ayanokouji-kiyotaka] (p.159) The standing-room-only plan.
 
 
-
-
-
-
-
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->
@@ -365,8 +409,6 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -379,7 +421,6 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.17, 70, 141) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.141 -->
-
 
 
 ## y2v9.5
@@ -395,8 +436,6 @@ char_id: wang-mei-yu · status: minor
 [rel:maezono] (p.66–70) She's at peace with the gathering, follows her lead.
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
-
-
 
 
 ## y2v10
@@ -420,7 +459,6 @@ char_id: wang-mei-yu · status: minor
 [says] (p.78) "If ‘someone’ tries to ostracize me, they’d better be prepared."
 [rel:kouenji-rokusuke] (p.66–80) She recognizes his subtle kindness to her during her absence; out-and-proud attempt to return the favor.
 [rel:ayanokouji-kiyotaka] (p.60–80) Present throughout; he carries the embarrassing conversations.
-
 
 
 ### y2v10 p.9-235 — wang-mei-yu mentioned in passing

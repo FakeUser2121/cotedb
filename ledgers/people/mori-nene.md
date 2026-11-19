@@ -20,6 +20,25 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.28–60 — Ch.1: The couple incident; possible Shinohara fallout
+[scene] (p.28) She was one of the people who made fun of Ike and Shinohara as a couple behind Shinohara's back — Shinohara is not talking to her (and not to Kei and Matsushita).
+[mentioned] (p.60) Shinohara may not be talking to Satou and Maezono either; her circle is a reduced one.
+[rel:karuizawa-kei] (p.28) Fellow couple-making-fun member; Shinohara not talking to either of them.
+[rel:matsushita-chiaki] (p.28) Fellow couple-making-fun member; Shinohara not talking to either of them.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.73–73 — Ch.2: The making-fun trio — exposed
+[mentioned] (p.73) “Kei, Matsushita and Mori” — the trio that made fun of her and Ike's couple; Shinohara's flipped bad-mouthing campaign might target “Kei, Matsushita, Mori and the rest” next.
+[rel:karuizawa-kei] (p.73) Fellow couple-making-fun offender; possibly about to face a flipped campaign.
+[rel:matsushita-chiaki] (p.73) Fellow couple-making-fun offender; possibly about to face a flipped campaign.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -75,18 +94,6 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [note] (p.79) (p.197) — the page locator's "mori" hits on p.79 and p.197 match "memories" — substring noise ("mem-o-r-ies" contains "mori"); Mori Nene appears nowhere on those pages.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — mori-nene mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.60, p.73, p.190, p.318.
-[mentioned] (p.11) Passing mention only.
-
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -95,7 +102,6 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [scene] (p.208–209) Mentioned only — Kei receives a photo from "Nene-chan" showing Ayanokōji and Ichinose leaving the gym together; when Satō asks, Kei confirms it came from Mori and checks when it was taken.
 
 <!-- walk: y2v9 Epilogue → p.209 -->
-
 
 
 ## y2v9.5
@@ -107,6 +113,3 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [rel:sudou-ken] (p.66–70) Sits through his defense of Ayanokōji.
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
-
-
-

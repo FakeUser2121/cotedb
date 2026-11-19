@@ -1452,6 +1452,276 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.362–363) Awe-struck by his casually stated 400 points (an A-equivalent) and his claim that he controls his score; decides to study with "my boyfriend," and is delighted when he comes to sit beside her — "a gentle breeze had taken his scent along with it" — resolving to focus so they can spend a fun school life together.
 [rel:ayanokouji-kiyotaka] (p.362–363) Her boyfriend; amazed by his ability and happy to study side by side with him.
 [rel:ishigami-kyou] (p.362) 400 points would let him compete with Yukimura.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.27–28 — Ch.1: The couple-making-fun incident; her weekend plans cancelled on her?
+[scene] (p.28) She was one of the people making fun of Ike and Shinohara as a couple behind Shinohara's back — along with Matsushita and Mori; Shinohara is not talking to her (and not to Matsushita and Mori).
+[rel:shinohara-satsuki] (p.28) She is one of the people Shinohara is not talking to.
+[rel:ike-kanji] (p.28) Ike is the other half of the couple she helped make fun of.
+[rel:matsushita-chiaki] (p.28) Matsushita is the one who canceled this weekend's arrangements because of Shinohara.
+[rel:mori-nene] (p.28) Mori is her fellow couple-making-fun offender.
+
+### y2v6 p.48–49 — Ch.1: Intercepts Horikita — “I caaan’t let you have Kiyotaka.”
+[scene] (p.48) At lunch she runs up and physically comes between Horikita and AK — “We’re about to eat together. Sorry? I caaan’t let you have Kiyotaka.” — she spreads out her hands with a “no”; she peeks at the phone Horikita turns her way faster than anyone; when she learns it is the student council president, she gives up immediately and calls over Satou.
+[says] (p.48) “We’re about to eat together. Sorry? I caaan’t let you have Kiyotaka.”
+[says] (p.48) “I mean, I think it’s pretty weird to ask out a guy who already has a girlfriend?”
+[says] (p.48) “Yagami… Takuya? Who?”
+[says] (p.49) “Tch. Well if it’s the student council president, I guess there’s nothing you can do… Satou-saaan, let’s have lunch together?”
+[scene] (p.49) Horikita calls her “quick to switch over, isn’t she? Your girlfriend.”
+[rel:ayanokouji-kiyotaka] (p.48–49) She guards her claim on him at lunch; switches to Satou's table the moment the student council enters the picture.
+[rel:horikita-suzune] (p.48) She physically blocks Horikita's lunch invitation; Horikita exasperates at her switching.
+[rel:satou-maya] (p.49) She flees to her lunch table after giving up on AK.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.67–70 — Ch.2: Early bird at AK's room — omurice
+[scene] (p.67–69) She arrives at 5:30 with a cat sticker and a message “Can I come over and hang out right now?” — dinner together; AK's reputation has risen exponentially since the expulsion; the girls accept her and AK's relationship “pretty smoothly,” but everyone is all about the “Hirata Yousuke brand” — girls openly call it a waste; some wonder if, actually, Yousuke dumped her.
+[says] (p.67) "Can I come over and hang out right now?"
+[says] (p.67) “And while we’re at it, let’s have dinner together?”
+[says:ayanokouji-kiyotaka] (p.67) “You were very quick.”
+[says] (p.68) “That’s because I messaged you just before I got on the elevator~”
+[says] (p.68) “Maybe it’s because I’m always in your room lately, Kiyotaka, but I’m getting used to it—like it’s my own room.”
+[says] (p.68) “E-ehh? It’s a bit embarrassing and…w-well, maybe one day if I feel like it!”
+[says] (p.68) “The girls? Surprisingly, they’re accepting it pretty smoothly, I guess? Or like… nevermind.”
+[says] (p.68) “Well, y’know? It’s that, for now, everyone’s all about the Hirata Yousuke brand. There are quite a lot of girls saying it’s a waste.”
+[says] (p.69) “In a way, I’m taking hits because of it too. Even though it’s supposed to be that I broke things off with Yousuke-kun, people are wondering if, actually,…he dumped me.”
+[says] (p.69) “But like, that’s only some of them. These days, your reputation has also been going up expotentially.”
+[says:ayanokouji-kiyotaka] (p.69) “You want to say exponentially. What kind of mistake is that?”
+[says] (p.69) “Even I know that muuuch.”
+[says] (p.69) “I’m always grateful, sensei. Thanks to your secret private lessons, my scores are going up.”
+[says] (p.69) “I’ll eat it, I’ll eat it! I’d like the ketchup to be a bit thicker please, chef.”
+[scene] (p.70–72) She snuggles against AK's back while he cuts the onion squares; her hands around his waist; he prods her about the efficiency drop; she mutters she is happier than ever; he probes what would make her happier — “Nope, there’s nothing. Even if there was, I don’t need it. This happiness I have now is more than enough.”; she flutters her eyes for a reward; he bargains chocolate; she pouts and takes up a sentry position on the bed.
+[says] (p.70) “What are you doing?”
+[says] (p.70) “Just watchiiing.”
+[says] (p.70) “It’s okay to just ignore me. I’ll stay still.”
+[says] (p.70) “I see, got it.”
+[says] (p.70) “What are you doing this time?”
+[says] (p.70) “Hmmm…? Just watchiiing.”
+[says] (p.70) “I really can’t see how you’re ‘just watching’ though? If anything, this is sabotage.”
+[says] (p.71) “Ahh, I’m so happy. Is there anything else that could make me this happy?”
+[says] (p.71) “That’s a very cheap happiness. Aren’t there more amazing sources of happiness out there? Like buying something you want or watching something you were looking forward to on TV?”
+[says] (p.71) “That kinda thing wouldn’t make me anywhere near as happy.”
+[says] (p.71) “I was speaking at random just now, but there actually is something, right?”
+[says] (p.71) “Nope, there’s nothing. Even if there was, I don’t need it. This happiness I have now is more than enough.”
+[says] (p.71) “Can I start cooking again?”
+[says] (p.71) “I’d reeeally like some kinda reward for behaving.”
+[says] (p.71) “Wrong answer. That’s not what I’m talking about, but… we went out of sync somewhere, didn’t we? Well, that is very you, Kiyotaka. Then, I’ll wait quietly~”
+
+### y2v6 p.72–74 — Ch.2: The Shinohara fallout — she asks AK for a plan
+[scene] (p.72–74) Over dinner she brings up Shinohara on her own — Kei's at fault too, and her getting exposed had quite the effect — she won't even talk to Kei; AK tells her the cardinal rule: the one thing to avoid is having the target overhear the group bad-mouthing them; Kei floats a plan — talking it out “but it's kinda like she's disapproachable right now”; she asks AK what she should do to make up; she obsesses over the exam — “You know how you chose to expel Sakura-san on the basis of her OAA in the special exam? If—” then chokes up; she asks the fearful question: had she scored lowest — friendless, unpopular, would AK have expelled her?
+[says] (p.72) “Oh, by the waaay, it’s about Shinohara-san, but…”
+[says:ayanokouji-kiyotaka] (p.72) “It’s only natural.”
+[says:ayanokouji-kiyotaka] (p.72) “Do you and the others hate Shinohara?”
+[says] (p.73) “I don’t hate her at all. Shinohara-san’s a fun girl, like, she’s well known for brightening the mood.”
+[says] (p.73) “…I guess. We were laughing while talking about things that would’ve hurt her if she’d heard.”
+[says] (p.73) “I tried talking it out, about all the misunderstandings… no, about how I hurt her, but it’s kinda like she’s disapproachable right now.”
+[says:ayanokouji-kiyotaka] (p.73) “Unapproachable, you mean.”
+[says] (p.73) “That, yeah that… th-that was on purpose, ’kay?”
+[says] (p.73) “So, you know… what do you think I should do so we can make up?”
+[says] (p.73) “Isn’t it obvious? If it’s you, Kiyotaka, I’m sure you’ll come up with a clever plan.”
+[says] (p.74) “Say, it’s a completely different topic, but can I ask you something a bit weird?”
+[says] (p.74) “Actually, it’s fine. It’s nothing.”
+[says:ayanokouji-kiyotaka] (p.74) “I said it at that time with Ike; even if you had similar scores, the difference between the number of friends you have would be overwhelming. I wouldn’t expel you.”
+[says] (p.74) “Then if I didn’t have any friends? If my status among the girls was low?”
+[note] (p.67) Her opening message (“Can I come over and hang out right now?”) is printed as a phone message, not as speech.
+[rel:ayanokouji-kiyotaka] (p.67–84) Her boyfriend; her confidant on Shinohara; her anxious exam thoughts.
+[rel:shinohara-satsuki] (p.72–74) Shinohara is a fun girl, not someone she hates — but she won't speak to Kei now; Kei wants AK's plan to fix it.
+[rel:sakura-airi] (p.74–76) The exam's shadow — she can't help asking whether she'd have been expelled too.
+[rel:ike-kanji] (p.74) Her line “I said it at that time with Ike” — the reminder that friends mean survival in the exam.
+
+### y2v6 p.74–78 — Ch.2: Would he have expelled a friendless Kei?
+[scene] (p.75–78) Her anxiety pours out in quick succession; AK deconstructs the question — he would have expelled a “completely different” friendless Kei, and that is why she survived in her actual form; she pouts — “‘I would’ve protected any version of you’. That’s the correct answer, ’kay?” — he learns his lesson: when it comes to those things, there's no need for logic; she sprawls across his lap; the talk turns to Horikita's decision to keep Kushida — “She’ll only be in the way, right?”; AK explains his theory: Kushida may become “an important piece in awakening Horikita Suzune as a leader”; Kushida has perspectives and statements only she can make — even without popularity; Hasebe-san resents AK more; Horikita “couldn't stop running once she'd started” — the hurdle scenario.
+[says] (p.75) “…That’s… yeah. That might be right, but… if I was that completely different me, and I wasn’t dating you, Kiyotaka, would I have been expelled?”
+[says] (p.75) “Ugh…”
+[says] (p.75) “‘I would’ve protected any version of you’. That’s the correct answer, ’kay?”
+[says] (p.76) “Eh? Studying and sports, right? Kushida is pretty amazing. She’s quite good at everything.”
+[says] (p.76) “…What do you mean?”
+[says] (p.76) “Kushida-san will…?”
+[says] (p.77) “That’s what Kushida-san has that Sakura-san doesn’t…”
+[says] (p.77) “But isn’t Hasebe-san more resentful of you, Kiyotaka?”
+[says] (p.77) “You mean Horikita-san?”
+[says] (p.78) “Eh…? U-umm… do a bunch of practice before trying to jump it?”
+[says:ayanokouji-kiyotaka] (p.78) “And if you can’t practice?”
+[says] (p.78) “That’s… you’d have to just go for it, right? Like, that’s the only way…”
+[says] (p.78) “In short, you’re saying that Horikita failed the challenge and fell down?”
+[says] (p.78) “So it’s like that. But yeah, I really can’t accept Horikita-san’s decision. She broke her promise as well. On top of all that, she even went as far as to say she would protect Kushida-san.”
+[rel:kushida-kikyou] (p.76–78) Kei wonders if Kushida is merely in the way; AK argues she may be Horikita's catalyst.
+[rel:horikita-suzune] (p.76–78) Kei can't accept her decision; AK frames it as a leap at a hurdle.
+[rel:hasebe-haruka] (p.77) Kei names that Hasebe is more resentful of AK.
+
+### y2v6 p.79–84 — Ch.2: The doorbell — Yousuke's advice session; she still has doubts
+[scene] (p.79–81) The clock strikes 7; AK does the dishes; she pats the bed for him to sit with her; a stolen kiss; “I’ve been waiting for this ever since I came to the room today.”; he wonders if he can read her; wordless kisses; “I love you…” — the doorbell; Kei panics and moves away; Yousuke arrives still in his uniform; she acts as if the room were her own — he smiles happily to see her so genuine; she tells Yousuke: “Honestly, I’m not even thinking about the competition right now” — she's trying to fix her friendship with Shinohara; when AK tells Yousuke to take it to Horikita, she pitches in — “Me too, y’know? Like, if I left it to you, you’d come up with the perfect answer.”
+[says] (p.79) “Hey, hey, come over here and chat with me~.”
+[says:ayanokouji-kiyotaka] (p.79) “Later. I’m going to do the dishes.”
+[says] (p.79) “Ehh? Buuuut it’ll be 7:30 when you’re done!”
+[says] (p.79) “C’mon, c’mon, come here, don’t be shy. ’kay? ’kay?”
+[says] (p.79) “Your cheek sure is soft for a boy~. Are you taking care of it?”
+[says] (p.80) “I’ve been waiting for this ever since I came to the room today.”
+[says:ayanokouji-kiyotaka] (p.80) “… I see.”
+[says] (p.80) “I love you…”
+[says:ayanokouji-kiyotaka] (p.81) “Welcome, make yourself home~”
+[says] (p.81) “I was just talking to Kiyotaka about Shinohara-san. Honestly, I’m not even thinking about the competition right now.”
+[says] (p.82) “Me too, y’know? Like, if I left it to you, you’d come up with the perfect answer.”
+[says] (p.84) “OK! Then, I’ll go back first.”
+[rel:ayanokouji-kiyotaka] (p.79–84) His girlfriend; the omurice dinner; the stolen kiss; “I love you…” — she leaves before the private Yousuke talk.
+[rel:hirata-yousuke] (p.80–84) The “Hirata Yousuke brand” she was traded against; she defers to AK's plan to route his problems through Horikita.
+[rel:shinohara-satsuki] (p.81–84) She is not thinking about the competition; she is consumed by making up with Shinohara.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.223–233 — Ch.4: The birthday shopping date — the mall meet-cute with Ishizaki (AK POV)
+[scene] (p.223–224) October; after school; Keyaki Mall; the linked arms; Ishizaki-Albert run-in; Ryuuen and AK share October 20 as a birthday — this is news to AK; Ishizaki's double-birthday idea; Kei pushes for the celebration anyway because she feels Ishizaki's friendliness toward AK is real and the group is broken.
+[says] (p.223) “What do you intend to buy?”
+[says:karuizawa-kei] (p.223) “Eh? I don’t really want anything though? Ah, well, it’s not that I don’t want anything, but we didn’t come here for my sake today.”
+[says:karuizawa-kei] (p.223) “Isn’t it gonna be your birthday soon? I was thinking of surprising you, but then I thought getting you something you really want would be good.”
+[says:karuizawa-kei] (p.223) “I was thinking we could walk around and find something you want.”
+[says] (p.223) “I see.”
+[says] (p.223) “You’ll have to spend private points, you know?”
+[says:karuizawa-kei] (p.223) “I know what you mean, but I think it’s alright for your birthday. Just get what you like!”
+[says:karuizawa-kei] (p.224) “I know exactly what you’re thinking, you knooow?”
+[says:karuizawa-kei] (p.224) “I’ll buy what, you, want! Got it?”
+[says] (p.224) “… yes.”
+[says:karuizawa-kei] (p.224) “Ehehe. I’m so happy.”
+[says:karuizawa-kei] (p.224) “There’s nothing I’m hiding from you anymore. I’ve let you know anything and everything about me. I never thought that there would be someone more important to me than my mom and dad.”
+[says:karuizawa-kei] (p.224) “Kiyotaka, you hiding anything from me is a no-no too, you got that?”
+[says] (p.224) “Uh huh.”
+[says:satou-maya] (p.225) “Lo, Lovey dovey aren’t you. Sorry for bothering yooouuu.”
+[says:karuizawa-kei] (p.225) “Ah, wai- wait a minute!?”
+[says:karuizawa-kei] (p.225) “Ah, damn…”
+[says] (p.225) “You’re still being considerate to Satou?”
+[says:karuizawa-kei] (p.225) “It’s not really that… but it really isn’t a nice feeling, you know…”
+[says:karuizawa-kei] (p.225) “Nope.”
+[says:ishizaki-daichi] (p.226) “On a date with Karuizawa? You guys are even linking arms… such normies…”
+[says:ishizaki-daichi] (p.226) “Oh, this? The 20th of this month is Ryuuen-san’s birthday. We’re just picking something out for him.”
+[says:karuizawa-kei] (p.226) “Eh? The 20th… you guys have the same birthday?”
+[says] (p.226) “This is the first I’ve heard of it.”
+[says:ishizaki-daichi] (p.226) “Who has the same birthday?”
+[says:ishizaki-daichi] (p.227) “What’s wrong, I’m asking you to tell me───”
+[says:ishizaki-daichi] (p.227) “… ah, that’s, right…”
+[says:ishizaki-daichi] (p.227) “Damn it.”
+[says:ishizaki-daichi] (p.227) “I’m… sorry. I think I should have said it earlier… I, on the rooftop───”
+[says] (p.227) “Don’t talk about that here.”
+[says] (p.227) “Let’s go someplace else.”
+[says:karuizawa-kei] (p.228) “… you don’t have to. It would be troubling even if you did. In fact, it just makes me more irritated.”
+[says:karuizawa-kei] (p.228) “You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize.”
+[says:karuizawa-kei] (p.228) “If Kiyotaka didn’t come to the rooftop… or if he lost to you guys, you wouldn’t apologize like this. Am I wrong? You guys are just annoying me.”
+[says:karuizawa-kei] (p.228) “I’m not really blaming you. The strong being on top is natural. I hated being at the bottom too, so in order to be on top I took this high and mighty attitude. Isn’t that right?”
+[says:karuizawa-kei] (p.229) “I get what you’re trying to say. But – since we’ve also started to interact, there is something I do understand, if only a little: Ishizaki has definitely matured in a good way.”
+[says:ishizaki-daichi] (p.229) “What’s this good way? It seems to me like he hasn’t changed at all?”
+[says:karuizawa-kei] (p.229) “Well, at the end of the day it’s just how I feel, but I think that if Ryuuen right now asked Ishizaki to do to someone else the same thing they did to you, Ishizaki would not simply obey.”
+[says:ishizaki-daichi] (p.229) “Really? I don’t think he would go against Ryuuen, though.”
+[says:karuizawa-kei] (p.229) “That’s enough. Right now, you are Kiyotaka’s friend, right? I won’t forgive you but I will stop blaming you.”
+[says:ishizaki-daichi] (p.229) “Is- is that alright?”
+[says:karuizawa-kei] (p.229) “I’ve already said it, haven’t I? It’s over, got it?”
+[says:ishizaki-daichi] (p.229) “Y, yes!”
+[says:ishizaki-daichi] (p.229) “Umm… So about that. Earlier, whose birthday was it?”
+[says:ishizaki-daichi] (p.230) “Eh? Really? Ayanokouji’s birthday is also October 20th!?”
+[says:ishizaki-daichi] (p.230) “This is fate, isn’t it!?”
+[says:karuizawa-kei] (p.230) “What fate, there’s more than 400 people in this school, it’s not strange that there are some people with the same birthday.”
+[says:ishizaki-daichi] (p.230) “But, isn’t it amazing that it’s Ayanokouji and Ryuuen?”
+[note] (p.230) “Can we return to the store now?” — untagged (Ishizaki or Albert); recorded without assignment.
+[says:ishizaki-daichi] (p.230) “Ah! Right! Wait a sec!”
+[says:ishizaki-daichi] (p.230) “I have a suggestion – if it’s okay with you, why don’t we celebrate both their birthdays together? Ryuuen-san’s and Ayanokouji’s double birthday party, won’t it be amazing?”
+[says:karuizawa-kei] (p.230) “If he apologizes, I’m okay?”
+[says:ishizaki-daichi] (p.230) “Eh?”
+[says:karuizawa-kei] (p.231) “I said if that guy, Ryuuen lowers his head then I accept.”
+[says:ishizaki-daichi] (p.231) “Ryuuen won’t apologize to me, right?”
+[says:ishizaki-daichi] (p.231) “If both of you agree, then I will suggest it to him!”
+[note] (p.231) “You probably shouldn’t?” — untagged (Kei or AK); recorded without assignment.
+[says:ishizaki-daichi] (p.231) “I’ll do something about it! If I can get the promise of an apology, it’ll be a birthday party!”
+[says:karuizawa-kei] (p.231) “Well… if you can really make it happen I’ll think about it…”
+[says:karuizawa-kei] (p.233) “I mean, for me, being together on your birthday, just the two of us would be great… but……”
+[says] (p.233) “Are you betting on the chance that Ryuuen will apologize?”
+[says:karuizawa-kei] (p.233) “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.”
+[says:karuizawa-kei] (p.233) “Also? Ishizaki-kun did say he would once again apologize, and I just thought it wouldn’t be a bad thing to accept that.”
+[note] (p.225) Satou fled at full speed upon seeing them — recorded in her own person record.
+[note] (p.226) The corpus prints “Ohh? Ayanokouji!” — an untagged call-out from someone approaching — recorded without assignment.
+[note] (p.230) “Can we return to the store now?” — untagged (Ishizaki or Albert).
+[rel:ayanokouji-kiyotaka] (p.223–233) Her boyfriend; her birthday gift hunt; the mall date; "This is the first I've heard of it."
+[rel:satou-maya] (p.225) She fled when she saw them arm in arm; Kei feels bad but won't give up linking arms.
+[rel:ishizaki-daichi] (p.226–233) The rooftop bully begging forgiveness; she is willing to try because he likes being AK's friend; she accepts his second apology "Also?"
+[rel:yamada-albert] (p.226–233) Ishizaki's partner; the three are unwelcome together; "such normies" — he says nothing but is visibly pleased.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.223–233 — Ch.4: The birthday shopping date — the mall meet-cute with Ishizaki (AK POV)
+[scene] (p.223–224) October; after school; Keyaki Mall; the linked arms; Ishizaki-Albert run-in; Ryuuen and AK share October 20 as a birthday — this is news to AK; Ishizaki's double-birthday idea; Kei pushes for the celebration anyway because she feels Ishizaki's friendliness toward AK is real and the group is broken.
+[says] (p.223) “What do you intend to buy?”
+[says:karuizawa-kei] (p.223) “Eh? I don’t really want anything though? Ah, well, it’s not that I don’t want anything, but we didn’t come here for my sake today.”
+[says:karuizawa-kei] (p.223) “Isn’t it gonna be your birthday soon? I was thinking of surprising you, but then I thought getting you something you really want would be good.”
+[says:karuizawa-kei] (p.223) “I was thinking we could walk around and find something you want.”
+[says] (p.223) “I see.”
+[says] (p.223) “You’ll have to spend private points, you know?”
+[says:karuizawa-kei] (p.223) “I know what you mean, but I think it’s alright for your birthday. Just get what you like!”
+[says:karuizawa-kei] (p.224) “I know exactly what you’re thinking, you knooow?”
+[says:karuizawa-kei] (p.224) “I’ll buy what, you, want! Got it?”
+[says] (p.224) “… yes.”
+[says:karuizawa-kei] (p.224) “Ehehe. I’m so happy.”
+[says:karuizawa-kei] (p.224) “There’s nothing I’m hiding from you anymore. I’ve let you know anything and everything about me. I never thought that there would be someone more important to me than my mom and dad.”
+[says:karuizawa-kei] (p.224) “Kiyotaka, you hiding anything from me is a no-no too, you got that?”
+[says] (p.224) “Uh huh.”
+[says:satou-maya] (p.225) “Lo, Lovey dovey aren’t you. Sorry for bothering yooouuu.”
+[says:karuizawa-kei] (p.225) “Ah, wai- wait a minute!?”
+[says:karuizawa-kei] (p.225) “Ah, damn…”
+[says] (p.225) “You’re still being considerate to Satou?”
+[says:karuizawa-kei] (p.225) “It’s not really that… but it really isn’t a nice feeling, you know…”
+[says:karuizawa-kei] (p.225) “Nope.”
+[says:ishizaki-daichi] (p.226) “On a date with Karuizawa? You guys are even linking arms… such normies…”
+[says:ishizaki-daichi] (p.226) “Oh, this? The 20th of this month is Ryuuen-san’s birthday. We’re just picking something out for him.”
+[says:karuizawa-kei] (p.226) “Eh? The 20th… you guys have the same birthday?”
+[says] (p.226) “This is the first I’ve heard of it.”
+[says:ishizaki-daichi] (p.226) “Who has the same birthday?”
+[says:ishizaki-daichi] (p.227) “What’s wrong, I’m asking you to tell me───”
+[says:ishizaki-daichi] (p.227) “… ah, that’s, right…”
+[says:ishizaki-daichi] (p.227) “Damn it.”
+[says:ishizaki-daichi] (p.227) “I’m… sorry. I think I should have said it earlier… I, on the rooftop───”
+[says] (p.227) “Don’t talk about that here.”
+[says] (p.227) “Let’s go someplace else.”
+[says:karuizawa-kei] (p.228) “… you don’t have to. It would be troubling even if you did. In fact, it just makes me more irritated.”
+[says:karuizawa-kei] (p.228) “You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize.”
+[says:karuizawa-kei] (p.228) “If Kiyotaka didn’t come to the rooftop… or if he lost to you guys, you wouldn’t apologize like this. Am I wrong? You guys are just annoying me.”
+[says:karuizawa-kei] (p.228) “I’m not really blaming you. The strong being on top is natural. I hated being at the bottom too, so in order to be on top I took this high and mighty attitude. Isn’t that right?”
+[says:karuizawa-kei] (p.229) “I get what you’re trying to say. But – since we’ve also started to interact, there is something I do understand, if only a little: Ishizaki has definitely matured in a good way.”
+[says:ishizaki-daichi] (p.229) “What’s this good way? It seems to me like he hasn’t changed at all?”
+[says:karuizawa-kei] (p.229) “Well, at the end of the day it’s just how I feel, but I think that if Ryuuen right now asked Ishizaki to do to someone else the same thing they did to you, Ishizaki would not simply obey.”
+[says:ishizaki-daichi] (p.229) “Really? I don’t think he would go against Ryuuen, though.”
+[says:karuizawa-kei] (p.229) “That’s enough. Right now, you are Kiyotaka’s friend, right? I won’t forgive you but I will stop blaming you.”
+[says:ishizaki-daichi] (p.229) “Is- is that alright?”
+[says:karuizawa-kei] (p.229) “I’ve already said it, haven’t I? It’s over, got it?”
+[says:ishizaki-daichi] (p.229) “Y, yes!”
+[says:ishizaki-daichi] (p.229) “Umm… So about that. Earlier, whose birthday was it?”
+[says:ishizaki-daichi] (p.230) “Eh? Really? Ayanokouji’s birthday is also October 20th!?”
+[says:ishizaki-daichi] (p.230) “This is fate, isn’t it!?”
+[says:karuizawa-kei] (p.230) “What fate, there’s more than 400 people in this school, it’s not strange that there are some people with the same birthday.”
+[says:ishizaki-daichi] (p.230) “But, isn’t it amazing that it’s Ayanokouji and Ryuuen?”
+[note] (p.230) “Can we return to the store now?” — untagged (Ishizaki or Albert); recorded without assignment.
+[says:ishizaki-daichi] (p.230) “Ah! Right! Wait a sec!”
+[says:ishizaki-daichi] (p.230) “I have a suggestion – if it’s okay with you, why don’t we celebrate both their birthdays together? Ryuuen-san’s and Ayanokouji’s double birthday party, won’t it be amazing?”
+[says:karuizawa-kei] (p.230) “If he apologizes, I’m okay?”
+[says:ishizaki-daichi] (p.230) “Eh?”
+[says:karuizawa-kei] (p.231) “I said if that guy, Ryuuen lowers his head then I accept.”
+[says:ishizaki-daichi] (p.231) “Ryuuen won’t apologize to me, right?”
+[says:ishizaki-daichi] (p.231) “If both of you agree, then I will suggest it to him!”
+[note] (p.231) “You probably shouldn’t?” — untagged (Kei or AK); recorded without assignment.
+[says:ishizaki-daichi] (p.231) “I’ll do something about it! If I can get the promise of an apology, it’ll be a birthday party!”
+[says:karuizawa-kei] (p.231) “Well… if you can really make it happen I’ll think about it…”
+[says:karuizawa-kei] (p.233) “I mean, for me, being together on your birthday, just the two of us would be great… but……”
+[says] (p.233) “Are you betting on the chance that Ryuuen will apologize?”
+[says:karuizawa-kei] (p.233) “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.”
+[says:karuizawa-kei] (p.233) “Also? Ishizaki-kun did say he would once again apologize, and I just thought it wouldn’t be a bad thing to accept that.”
+[note] (p.225) Satou fled at full speed upon seeing them — recorded in her own person record.
+[note] (p.226) The corpus prints “Ohh? Ayanokouji!” — an untagged call-out from someone approaching — recorded without assignment.
+[note] (p.230) “Can we return to the store now?” — untagged (Ishizaki or Albert).
+[rel:ayanokouji-kiyotaka] (p.223–233) Her boyfriend; her birthday gift hunt; the mall date; "This is the first I've heard of it."
+[rel:satou-maya] (p.225) She fled when she saw them arm in arm; Kei feels bad but won't give up linking arms.
+[rel:ishizaki-daichi] (p.226–233) The rooftop bully begging forgiveness; she is willing to try because he likes being AK's friend; she accepts his second apology "Also?"
+[rel:yamada-albert] (p.226–233) Ishizaki's partner; the three are unwelcome together; "such normies" — he says nothing but is visibly pleased.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1796,8 +2066,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.217–224) She calls him from her room; they say "I love you"; she says he'll protect her; he calls her "I love you" back, awkwardly.
 
 
-
-
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
 ### y2v4.5 p.268–274 — The last secret date; the kiss
@@ -1895,31 +2163,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.242) "Kei scene, Shiina showing off her own brilliance without getting even a word of dialogue" — Amadeus's credit.
 [note] (p.95) (p.100) (p.101) (p.102) (p.103) (p.171) (p.172) — the locator's "kei" hits on those pages are substring matches inside "Keisei"; no Kei references on those pages.
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.65–80 — Kei visits Ayanokōji's room; omurice and affection
-[scene] (p.67) Arrives at his room grinning, adopts it as her own ("Welcome, make yourself home~" when Hirata later arrives); eats the omurice he cooks with obvious pleasure.
-[note] (p.70) She clings to his back as he cooks, teasingly telling him to just wait.
-[says] (p.80) "I love you…"
-[trait] (p.65–80) Playful and affectionate — clings to him while cooking, nuzzles and kisses him repeatedly (the kisses tasted of omurice), and says "I love you"; still sharp about class matters, she believes Kushida should have been expelled and struggles to accept Horikita's choice, but comes to partly accept Ayanokōji's explanation of Kushida's unique value.
-[rel:ayanokouji-kiyotaka] (p.65–80) His girlfriend — a tender evening together.
-[rel:shinohara-satsuki] (p.72–74) Trying to repair her friendship with Shinohara, whom Kushida's leaks hurt.
-[rel:kushida-kikyou] (p.76–78) Thinks she should have been expelled; unconvinced by his argument that Kushida has a unique value.
-
-### y2v6 p.223–233 — Kei's birthday date; forgiving Ishizaki
-[scene] (p.223) On a date at Keyaki Mall, shopping for Ayanokōji's upcoming birthday (Oct 20, which she learns he shares with Ryūen); bent on buying him what he really wants despite his attempts to pick something cheap.
-[says] (p.224) "I'll buy what, you, want! Got it?"
-[says] (p.225) "There's nothing I'm hiding from you anymore. I've let you know anything and everything about me."
-[says] (p.225) "Kiyotaka, you hiding anything from me is a no-no too, you got that?"
-[says] (p.228) "You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize."
-[says] (p.229) "Right now, you are Kiyotaka's friend, right? I won't forgive you but I will stop blaming you."
-[says] (p.233) "I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know."
-[trait] (p.223–233) Loving and generous — says she's told him "everything" about herself (unaware he's told her nothing true); runs into Ishizaki/Albert, accepts their apology for the rooftop bullying (after knowing Ayanokōji won), and even agrees to a joint birthday party with Ryūen — partly because she knows his group is in pieces and wants him to have friends.
-[rel:ayanokouji-kiyotaka] (p.223–233) His girlfriend — shopping for his birthday; she wants him to have friends.
-[rel:ishizaki-daichi] (p.226–233) She accepts his apology ("I won't forgive you but I will stop blaming you") — a genuine, if grudging, reconciliation.
-[rel:ryuuen-kakeru] (p.230) She won't accept the joint party unless Ryūen himself apologizes — a "pretense to refuse."
 ## y2v7
 
 <!-- walk: y2v7 → start -->

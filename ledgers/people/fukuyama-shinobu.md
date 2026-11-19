@@ -17,22 +17,22 @@ char_id: fukuyama-shinobu · class: unknown · status: unknown
 <!-- walk: y2v3 Ch.4 → p.157 -->
 
 
-
-
 <!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v6
 
+### y2v6 p.277–278 — Ch.5: Fukuyama — the second Class A volunteer (Horikita's POV)
+[mentioned] (p.277) “Kushida-san was speaking to Rokkaku-san, a member of Sakayanagi-san’s class. After talking to her for a bit, she then did the same to Fukuyama-san, a member of the same class.”
+[rel:kushida-kikyou] (p.277) She enlists them in under a minute.
+[rel:rokkaku-momoe] (p.277) Her partner in the final.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — fukuyama-shinobu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.277-278.
-[mentioned] (p.11) Passing mention only.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 
 
-
-
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->

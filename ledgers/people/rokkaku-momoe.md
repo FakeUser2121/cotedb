@@ -22,15 +22,16 @@ char_id: rokkaku-momoe · status: minor
 
 ## y2v6
 
+### y2v6 p.277–278 — Ch.5: Rokkaku and Fukuyama — the Class A volunteers (Horikita's POV)
+[scene] (p.277) Kushida recruits her and Fukuyama in under a minute — half a minute of conversation with each; both sign on for the volleyball briefing.
+[mentioned] (p.277) “Kushida-san was speaking to Rokkaku-san, a member of Sakayanagi-san’s class. After talking to her for a bit, she then did the same to Fukuyama-san, a member of the same class.” — she recruits both; half a minute of conversation; they sign on.
+[rel:kushida-kikyou] (p.277) She enlists them in under a minute.
+[rel:fukuyama-shinobu] (p.277) Her partner in the final — Class A volunteer.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — rokkaku-momoe mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.277-278.
-[mentioned] (p.11) Passing mention only.
 
-
-
+<!-- walk: y2v6 Ch.5 → p.301 -->
 
 ## y2v8
 
@@ -48,8 +49,6 @@ char_id: rokkaku-momoe · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.71.
 [mentioned] (p.11) Passing mention only.
-
-
 
 
 ## y2v12

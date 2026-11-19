@@ -88,7 +88,6 @@ char_id: onodera · class: Class 1-D · status: minor
 <!-- walk: y2v3 Ch.7 → p.243 -->
 
 
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -110,16 +109,42 @@ char_id: onodera · class: Class 1-D · status: minor
 <!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
+[mentioned] (p.90–97) “Onodera” is printed with no given name on these pages; the roster row onodera-kayano carries the scene detail — this legacy roster row is flagged as a duplicate of onodera-kayano for owner resolution; the doubles pact (Sudou as partner, aiming for first place at all costs) is written in full there.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — onodera mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.5, p.90-95, p.99, p.183, p.246-247.
-[mentioned] (p.11) Passing mention only.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.5 — Coverage gate: TOC mention
+[mentioned] (p.5) “Onodera Kayano SS: That’s What I Believe In” — the TOC lists the short story under the alternate roster row this file represents; the story appears in `onodera-kayano.md`.
 
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.90–323 — Coverage gate: onodera (duplicate roster row)
+[note] (p.90) The roster carries duplicate rows onodera and onodera-kayano; every y2v6 scene appearance is written in full in `onodera-kayano.md` (p.90–97, p.179–183, p.246–301, p.323, p.342–344, p.162–170).
+[note] (p.183) "Sudou-kun and Onodera-san will make a bundle for us" — Horikita's stated festival plan; the same study of record lives in onodera-kayano.md.
+[note] (p.246) She takes first place in both of her events; Sudou had three straight.
+[note] (p.247) The pair continues into successive doubles events — "We're gonna keep this winning streak rolling."
+[note] (p.286) She partners Sudou to the doubles tennis finals; watches Housen menacingly; Sudou-side close-third.
+[note] (p.292) Housen keeps aiming at her; she drops her racket mid-match; her injury from the awkward cover costs her the ability to play the rest of the tournament.
+[note] (p.298) Onodera hears Sudou shout out that the two of them did so well.
+[note] (p.301) He spirals after seeing Housen; she watches him crumple.
+[note] (p.323) Chabashira announces the Sports Festival results — the Sudou-Onodera pair top every individual ranking.
+[note] (p.325) "We're gonna keep this winning streak rolling."
+[note] (p.342) Short story entry in onodera-kayano.md: "That's What I Believe In" — Onodera POV of the tennis final; Sudou hugs her; she starts believing she's interested in him.
+[note] (p.343) The short story closes with Sudou wanting to find Suzune; she lies pale about her feelings.
+[note] (p.162) Her worry about the others — she saw Karuizawa leaving and watched quietly from the entrance.
+[note] (p.170) Yuichi's return is a non-factor — the festival is just around the corner.
+[note] (p.171) The first name heard in the class is Mii-chan returning.
+[note] (p.173) Kushida approaches; she is frozen; Kushida's apology comes for Wang and becomes theater.
+[note] (p.174) The apology theater; Kushida promises to maintain the facade.
+[note] (p.181) Scheduled Sports Festival — her doubles pact with Sudou is her pitch toward Class A.
+[note] (p.323) Mention of her first place finishes.
+[note] (p.325) First place across the board with Sudou.
 
-
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -160,8 +185,6 @@ char_id: onodera · class: Class 1-D · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.40-42, p.93, p.128, p.169.
 [mentioned] (p.11) Passing mention only.
-
-
 
 
 ## y2v9.5

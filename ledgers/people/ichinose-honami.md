@@ -1473,6 +1473,65 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v1 ch3 → p.141 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.53–58 — Ch.1: Daily lunches with Nagumo in the student council room
+[scene] (p.53–54) She arrives at the student council room carrying a plastic bag — “Excuse me,” then “Eh──” from Nagumo when he notices her; she has been having lunch with Nagumo in the student council room every day; Nagumo says she tells him her worries “every day.”; she prepares her lunch with a slightly downcast look, eyes away from AK.
+[says] (p.53) “Excuse me.”
+[says] (p.53) “…Sorry to keep you waiting, Nagumo-senpai.”
+[says] (p.53) “It’s nothing…”
+[says] (p.54) “Y-yes.”
+[scene] (p.55–57) The two of them are not even halfway through their meal by the time AK finishes his; she keeps her eyes away from him; AK leaves first; he walks away thinking Nagumo may be grooming her for the student council presidency — and that, if so, her spirit would not last a year if he cut her off at the last minute.
+[note] (p.53–57) Whether Nagumo's attentiveness will elevate her to the presidency, or whether AK's suspicion (Nagumo keeping her close only because of him) comes true, the page leaves open; the lunch pattern is recorded as observed.
+[rel:nagumo-miyabi] (p.53–57) He lunches with her every day in the student council room; he tells AK she confides in him daily; he keeps her close.
+[rel:ayanokouji-kiyotaka] (p.53–58) Her eyes stray away from him during the meal; AK suspects she is being cultivated.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.98–99 — Ch.2: Her class is fumbling at the gym
+[mentioned] (p.98–99) Students from Ichinose's class and Ryūen's class are at the gym but “fumbling about,” unlike Class A's intense squad; AK ranges them into the same tent.
+[rel:sakayanagi-arisu] (p.98) Her class is the only one seriously practicing — the benchmark.
+[rel:ryuuen-kakeru] (p.98) His class is fumbling too.
+
+<!-- walk: y2v6 Ch.2 → p.100 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.106–139 — Ch.3: Ichinose — the good-person benchmark
+[mentioned] (p.106) Chabashira: “even for Ryuuen, Sakayanagi, or Ichinose.”
+[mentioned] (p.120) Ibuki: “Not Kushida, not Hirata, not even Ichinose.” — no nice-guy image is real to her.
+[mentioned] (p.123) Ibuki: “if we’re ranking good people, then Ichinose’s probably above you.”
+[mentioned] (p.130) Ibuki: “Not Kushida, not Hirata, not even Ichinose”
+[scene] (p.139–140) The test case: if someone said Ichinose Honami-san was violent and wanted nothing but to crush enemies — whether anyone would believe it? Kushida: “She seems like a genuinely good person.” Ibuki doubts — “I have my doubts.”; Horikita: her class spent a year and a half being good.
+[rel:kushida-kikyou] (p.139) The good-person test case.
+[rel:ibuki-mio] (p.120, 123, 130) “Not even Ichinose.”
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.199–213 — Ch.4: Ichinose — the alternative that wasn't chosen
+[mentioned] (p.199) “The two remaining options are Ichinose-san’s class or your class. In my analysis, even if Ichinose-san is by far and away the best in terms of trust, it’s hard to say she has many classmates who are physically gifted.” — Sakayanagi as the target forces the choice between Ichinose and Ryuuen; Ichinose is the best in terms of trust but weak in physical gifts.
+[mentioned] (p.202–203) Katsuragi reasons Class A is out of reach — the rugby-less analysis — his alternative to Horikita's plan would have been Ichinose's class; the arithmetic 40 vs 37 turns on her class.
+[mentioned] (p.213–214) Ryuuen analyzes her class freely — 40 people; if she joins forces with Sakayanagi, Ichinose's class has the advantage; the three-person difference is decisive.
+[rel:horikita-suzune] (p.199) She named Ichinose as the but-for option; she chose Ryuuen's class by the physical-abilities reading.
+[rel:ryuuen-kakeru] (p.213) He reads her class as the strongest fallback alliance — the three-person gap.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.258–258 — Ch.5: Ichinose — at the venue with Horikita (minute-by-minute)
+[mentioned] (p.258) “Up against Horikita and Ichinose, who were assessing the status and participants of competitions minute-by-minute, Class A’s Matoba and Shimizu continued to struggle in the absence of their leader.” — Ichinose is at the athletics field with Horikita, assessing the festival's state minute-by-minute; her class continues to perform despite Sakayanagi's absence.
+[note] (p.258) Her own class's fortunes in the festival are not detailed on these pages; recorded as present and working.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.323–323 — Ch.6: Ichinose — third place
+[mentioned] (p.323) “The rankings in the sports festival were: Horikita’s class in first place, Ryuuen’s class in second place, Ichinose’s class in third place and Sakayanagi’s class in fourth place.”
+
+<!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1919,15 +1978,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.242) "I have a soft spot for Ichinose though." — Amadeus's credit.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — ichinose-honami mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.20, p.33, p.53-55, p.57, p.82.
-[mentioned] (p.11) Passing mention only.
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -1982,8 +2032,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kanzaki-ryuuji] (p.112–113) He reports the sweets-stall math; his priorities have shifted.
 ### y2v7 p.120 — The counter-flyer war spreads
 [mentioned] (p.120) Ordinary students begin to hear about the one-on-one match-up; speculation led to rumors, and rumors led to speculation — "Did you hear Horikita's class and Ryūen's class are playing for a lot of money?" / "I heard that the leader of the losing class is getting expelled?" — spreading through the school.
-
-
 
 
 <!-- walk: y2v7 Ch.5 → p.130 -->
@@ -2158,8 +2206,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.38) "If you ever need help, just let me know. I want to support you and Karuizawa-san."
 [note] (p.38) He cannot figure out what she actually wanted on the call; it ends soon.
 [rel:ayanokouji-kiyotaka] (p.37–38) Reaches out with support; he gives practical answers and no commitment.
-
-
 
 
 ### y2v9.5 p.59–65 — Ichinose: the 46-photo memory day at Keyaki Mall

@@ -6,6 +6,42 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Keisei named in Miyake's group (Miyake's POV)
+[scene] (p.12) Named “Keisei” among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group that felt strangely comfortable.
+[mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
+
+<!-- walk: y2v6 Prologue → p.14 -->
+
+### y2v6 p.22–22 — Ch.1: Contact without the Airi topic
+[scene] (p.22) Ayanokōji tells Horikita he had some contact with him and Akito over the weekend — “that’s about it.” — nothing about Airi was discussed.
+[mentioned] (p.22) Keisei contacted AK over the weekend; the Airi topic was not broached.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.170–193 — Ch.3: Keisei — the cafe test
+[mentioned] (p.170–171) Monday — his hems and haws; he steels himself and calls out to Haruka; she glances at AK then quickly turns to her phone; a small beginning of repair.
+[rel:hasebe-haruka] (p.170–171) He tries to step toward her — the first step since the expulsion.
+[scene] (p.184–193) The cafe scene — Keisei listens calmly in silence; his honest confession at the end: “I don't think either of you, Horikita or Haruka, are wrong. It might seem unfair, but those are my honest thoughts. At the end of the day, so long as I survive it’s alright, that’s at the core of it.”; “The group is half broken now. But still, I will be useful to the class as myself. While I might not do well in the Sports Festival, in turn I will study more and more to contribute to the class. If I don’t… I wouldn’t be able to rule out the possibility that I’ll get thrown out.”
+[says:ishigami-kyou] (p.193) “I don’t think either of you, Horikita or Haruka, are wrong. It might seem unfair, but those are my honest thoughts. At the end of the day, so long as I survive it’s alright, that’s at the core of it.”
+[says:ishigami-kyou] (p.193) “That’s why I can’t understand Haruka’s feelings just now. But despite that, I don’t think I have the right to tell her to stop. Even if it ends up causing trouble for the class.”
+[says:ishigami-kyou] (p.193) “The group is half broken now. But still, I will be useful to the class as myself. While I might not do well in the Sports Festival, in turn I will study more and more to contribute to the class. If I don’t… I wouldn’t be able to rule out the possibility that I’ll get thrown out.”
+[rel:hasebe-haruka] (p.193) Her plan for revenge horrifies him; he still refuses to order her to stop; he will serve the class on his own terms.
+[rel:horikita-suzune] (p.193) His "half broken" group verdict — he stays with the class in his own way.
+[rel:miyake-akito] (p.171, 193) Akito escorts Haruka; Keisei follows to the cafe; the half-broken group.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.327–327 — Epilogue: Keisei — estranged
+[mentioned] (p.327) “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.” — he is cut off from the group after agreeing to Sakura's expulsion; he is at the school entrance that morning but does not approach her.
+[rel:hasebe-haruka] (p.327) Estranged from each other — since he agreed to Sakura's expulsion.
+[rel:sakura-airi] (p.327) He agreed to expel her — the wound that estranged him.
+
+<!-- walk: y2v6 Epilogue → p.330 -->
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -50,25 +86,10 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
 
-
-
-
 ### y2v4.5 p.10–290 — Relations in this volume (depth pass)
 [rel:ayanokouji-kiyotaka] (p.116) The pool-side Keisei reference points at Yukimura, not at this file; recorded for completeness.
 [rel:hasebe-haruka] (p.105) The Keisei label in Haruka's file is Yukimura; kept for completeness.
 [rel:sakura-airi] (p.108) Airi's Keisei reference is Yukimura; no separate presence in this row.
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — ishigami-kyou mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: none.
-[mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -90,8 +111,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -100,7 +119,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [scene] (p.61–66) Named in conversation only — when Horikita says she is meeting "Ishigami-kun," Ayanokōji assumes it is the second-year Keisei he has in mind ("There were no other first-year students with the same surname"), before realizing Horikita means the first-year; Keisei himself is not on-page.
 
 <!-- walk: y2v9 Ch.2 → p.66 -->
-
 
 
 ## y2v11
@@ -120,8 +138,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 ### y2v12 p.10-228 — ishigami-kyou
 [scene] (p.28) Unverifiable — the volume names “Ishigami” as one of two first-year Class A leaders; the referent is almost certainly the Class 1-A Ishigami Kyō (a different Ishigami from this roster row).
 [note] (p.28) Identity between this roster row (Keisei Ishigami, Class 2-D) and the Class A co-leader named on p.28 cannot be established from these pages; no other occurrence of this name appears in the volume text on a line-by-line read.
-
-
 
 
 ## y3v2

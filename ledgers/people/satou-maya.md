@@ -340,6 +340,42 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.49–60 — Ch.1: Rushed to by Kei; maid café originator; possible Shinohara fallout
+[scene] (p.49) Kei, giving up on intercepting AK, calls to her: “Satou-saaan, let’s have lunch together?” — she is quick to switch over, as Horikita notes.
+[says] (p.49) “Tch. Well if it’s the student council president, I guess there’s nothing you can do… Satou-saaan, let’s have lunch together?”
+[scene] (p.58) She is one of the maid café originators — AK has asked them for a pause on preparations; there is no sign she has heard yet.
+[scene] (p.60) Shinohara may not be talking to her for the same reason as Kei / Matsushita / Mori — unconfirmed on the page.
+[rel:maezono] (p.58) Fellow maid café originator.
+[rel:matsushita-chiaki] (p.58) Fellow maid café originator.
+[rel:karuizawa-kei] (p.49) Kei fled to her lunch table after the interruption.
+
+<!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.225–237 — Ch.4: Satou Maya — the cafe overheard; the first-year's offer
+[scene] (p.225) Near the home-electronics corner — she bumps into AK and Kei arm in arm; their eyes glue to the linked arms; she panics and bolts at full speed; she facepalms; she stops in front of the girls' restroom; hugging her knees: “I’ll have to try not to panic next time…”
+[says:satou-maya] (p.225) “Lo, Lovey dovey aren’t you. Sorry for bothering yooouuu.”
+[says:satou-maya] (p.234) “Ughh, why did I run off!”
+[says:satou-maya] (p.234) “I’ll have to try not to panic next time…”
+[scene] (p.234–237) A first-year student appears behind her — an unfamiliar voice; does she want to meet? — it is about Ayanokouji-senpai and Karuizawa Kei-senpai; “Can you please come with me, so we can go somewhere else and discuss this comfortably, just the two of us?”; they draw so close their lips are almost at her ear — “If Karuizawa-senpai were expelled─don’t you think you’d have a chance, Satou-senpai?”; if she refuses, she will regret it for the rest of her life; a dorm room number is spoken; the student walks away; the words “You’d have a chance.” crawl into her and won't leave; she is confused and terrified; her feelings for AK are revealed.
+[note] (p.234) The unnamed first-year opens: “Excuse me for butting in, but are you Satou Maya-senpai?” — the corpus prints no speaker name for them.
+[says:satou-maya] (p.235) “Yes, I am, but… Erm, who are you? You must be a first-year, right?”
+[note] (p.235) The first-year’s opening words — “Excuse me for butting in, but are you Satou Maya-senpai?” — are theirs; tagged here: the speaker is the unnamed first-year, not Satou.
+[says:satou-maya] (p.235) “E-eh? What do you mean?”
+[says:satou-maya] (p.235) “That’s…”
+[says:satou-maya] (p.235) “… Ayanokouji-kun?”
+[note] (p.236) The first-year’s ultimatum — “If Karuizawa-senpai were expelled─don’t you think you’d have a chance, Satou-senpai?” — is untagged in the corpus; the asker is the unnamed first-year; recorded without attribution to a named character.
+[note] (p.237) The first-year offers only a dorm room number and vanishes; the corpus prints no name for them; their identity is not resolved on these pages.
+[note] (p.237) Satou's closing interior — “I─” — the corpus cuts off mid-word; kept as printed.
+[trait] (p.225–237) Jealous, insecure, hung up — she knows her dear friend is in love with the same boy; she can't stand seeing them arm in arm; the stranger's words lodge themselves — “You’d have a chance.”
+[rel:karuizawa-kei] (p.225) The girl who has AK; her best friend; the reason she fled at full speed.
+[rel:ayanokouji-kiyotaka] (p.225, 235–237) AK — the boy she likes — the boy her best friend is with; the stranger's words plant a seed in her.
+[note] (p.234) POV note: third-person narration focusing on her; not her first person; lines tagged by printed adjacency/alternation and by printed speaker tags; the first-year's lines are printed without speaker names.
+
+<!-- walk: y2v6 Ch.4 → p.240 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -507,19 +543,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [mentioned] (p.54) "she could be as good as Matsushita, Satō, and Mii-chan." — Satō named third among the maid-café trio.
 [mentioned] (p.82) "Satō sat down to my right. The students began to arrive one after another."
 
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.234–237 — Satou: a first-year whispers "you'd have a chance"
-[scene] (p.234) From her own POV, after running off from Ayanokōji and Kei holding arms at the mall, sits by the girls' restroom feeling guilty; an unfamiliar first-year student approaches with an "urgent message."
-[narrates] (p.235) "It has to do with Ayanokouji-senpai."
-[narrates] (p.235) "If Karuizawa-senpai were expelled─don't you think you'd have a chance, Satou-senpai?"
-[narrates] (p.237) "Whether you want to hear me out or not is up to you, Satou-senpai. However, if you choose not to, I'm sure you will come to regret it for the rest of your life."
-[trait] (p.234–237) Still in love with Ayanokōji (he occupies "99% of her brain's processing capacity"), panicked and guilty about running off; the first-year's words — that if Kei were expelled she'd "have a chance" — awaken an "emotion she didn't want to know," though she's wary; the identity of the first-year (and the plot against Kei) is not revealed here.
-[rel:ayanokouji-kiyotaka] (p.234–235) The boy she likes — the first-year uses him to lure her.
-[rel:karuizawa-kei] (p.235) Her close friend — the first-year suggests her expulsion would give Satou a chance with Ayanokōji; Satou is conflicted.
-[note] (p.234) The first-year student is not named on these pages — no speaker attribution assigned (§7).
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -606,11 +629,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.110) Kei continues to back Satō.
 [rel:matsushita-chiaki] (p.131) She substituted her shift while ill.
 [rel:wang-mei-yu] (p.131) The other ace of the team.
-
-
-
-
-
 
 
 <!-- walk: y2v7 Ch.6 → p.160 -->

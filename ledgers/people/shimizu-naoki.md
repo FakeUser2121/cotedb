@@ -37,15 +37,27 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 [trait] (p.64) The first to voice dissatisfaction at aiming for second — an orthodox honors student who cannot hide his objection to the passive target.
 ## y2v6
 
+### y2v6 p.258–267 — Ch.5: Shimizu Naoki — Class A's bump target (close-third, Shimizu-side)
+[scene] (p.258–267) He was walking from the direction of the penalty shootout — Ishizaki “bumped” into him; shoulder collision twice as strong as expected; Shimizu tries to raise his voice; Ishizaki preempts — “Fuck, that hurt…! Watch where you’re walking, asshole!”; Matoba tries to mediate — “Just leave it”; they both refuse; Hashimoto steps in; they both apologize; nothing comes of it.
+[says:shimizu-naoki] (p.259) “You’re the one who wasn’t watching where you were going, I could’ve gotten hurt!”
+[says:shimizu-naoki] (p.260) “You’re the one who wasn’t facing forward!”
+[says:shimizu-naoki] (p.260) “Huh?! You playing victim or what? …You didn’t bump into me on purpose, did you?”
+[says:shimizu-naoki] (p.260) “No, what? No matter how you look at it, you deliberately bumped into me. Right?”
+[says:shimizu-naoki] (p.261) “What’s dirty? No matter how you look at it, you’re in the wrong.”
+[says:shimizu-naoki] (p.262) “I can’t accept this, though.”
+[says:shimizu-naoki] (p.264) “Are you kidding me? I kept quiet and listened ’cause you said you’d do something about it. And now you’re telling me to do whatever they want and unilaterally apologize? There’s no fucking way.”
+[says:shimizu-naoki] (p.265) “Shit…!”
+[says:shimizu-naoki] (p.266) “But!”
+[says:shimizu-naoki] (p.266) “That’s—!”
+[rel:matoba-shinji] (p.258–267) His Class A comrade — they abandon the penalty shootout together for doubles tennis.
+[rel:ishizaki-daichi] (p.258–262) The one who bumps into him — twice as hard as expected; no meeting of the eyes.
+[rel:ryuuen-kakeru] (p.258–267) The mastermind — Ishizaki is his pawn in this performance.
+[rel:hashimoto-masayoshi] (p.262–267) He brokers the peace; he spares the class from losing the tournament.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — shimizu-naoki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.258-262, p.265-266.
-[mentioned] (p.11) Passing mention only.
 
-
-
+<!-- walk: y2v6 Ch.5 → p.301 -->
 
 ## y2v12
 

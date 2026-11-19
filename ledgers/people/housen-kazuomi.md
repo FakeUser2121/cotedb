@@ -137,7 +137,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 <!-- walk: y2v2 → start -->
 
 
-
 ### y2v2 p.225–231 — Hōsen at the first-year rep gathering
 [scene] (p.225) Arrives last at the gathering, "with his terrifying white teeth as usual," refusing to pay or cooperate.
 [says] (p.225) "Don't call out my name like we're close, or I'll kill ya."
@@ -163,7 +162,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [trait] (p.40–42) Reckless and attention-seeking.
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
-
 
 
 ## y2v4
@@ -243,7 +241,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:tsubaki-sakurako] (p.126–139) Pretends to cooperate; secretly intends to do it alone with violence against Ayanokōji-senpai.
 [rel:utomiya-riku] (p.128–133) Negotiates over the walkie-talkie; Utomiya warns him not to touch Katagiri.
 [rel:yagami-takuya] (p.136) Utomiya observes the conversation from the walkie-talkie.
-
 ### y2v4 p.168–183 — Hōsen's trap and his brutal fight with Ryūen
 [scene] (p.167) Pretends to follow Tsubaki's instructions to surround Ayanokōji, intending instead to attack him directly; but Ayanokōji anticipated it (via Nanase), and Ryūen intercepts.
 [says] (p.168) “Housen.”
@@ -294,16 +291,34 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 ## y2v6
 
+### y2v6 p.286–301 — Ch.5: Housen — the first-year menace who plays by different rules (third-person, Sudou-side)
+[scene] (p.286) Onodera notices Sudou staring at him — Class 1-B's Housen — so big he can't imagine he's a first year, "this incredible aura"; his pair crushes their match; his win sets the final; he draws close: "Didn’t think the finals would be against’cha, Sudou-paisen."; the atmosphere changes; his serving game is fearsome; he aims his smash accordingly to break Onodera and Sudou both mentally.
+[says:housen-kazuomi] (p.288) “Didn’t think the finals would be against’cha, Sudou-paisen.”
+[says:housen-kazuomi] (p.288) “You better not think you can beat me just ‘cus it’s tennis. I’m gonna destroy you, so you better be ready for that.”
+[says:housen-kazuomi] (p.290) “You ain’t worth shit, Sudou. You’re a loser.”
+[says:housen-kazuomi] (p.291) “Huh? ‘Course you aim at your opponent’s body in tennis. Keep shooting away from them and they’ll catch up and return it. Ya don’t even know that? Kickin’ up a fuss after just one ball!”
+[says:housen-kazuomi] (p.292) “How many times do I need to tell you? That stupid woman of yours is just bad. Worthless!”
+[says:housen-kazuomi] (p.292) “Sucks, I fumbled the game. But you lot are gonna have to play one more. Ain’t that just hell for you?”
+[says:sudou-ken] (p.297) “We won, Onodera! Thanks to you!”
+[says:housen-kazuomi] (p.300) “Oi, Sudou. Don’t let this win get to yer head, eh? If I was serious, you’d be toast. Ya know that, right?”
+[says:housen-kazuomi] (p.300) “Come with me, let’s play some more behind the gym.”
+[says:housen-kazuomi] (p.301) “Huh? Ain’t about whether you’re interested or not. From now on, you’re my sandbag.”
+[says:housen-kazuomi] (p.301) “Boring fool. Don’t mess with me again.”
+[trait] (p.286–301) Predatory, abusive, unbeaten in raw talent — Class 1-B's terror; aims at Onodera's face and Sudou's pride; throws his racket at the ground when he loses; sucker-punches Sudou behind the gym; a classmate who forgot he's supposed to exist in society.
+[rel:sudou-ken] (p.286–301) The first-year menace Sudou can't place — his brutality makes Sudou throw the racket; Sudou refuses to engage him after the match.
+[rel:onodera-kayano] (p.286–301) His target — she freezes before the ball aims at her; sprains her ankle; survives it.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — housen-kazuomi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.47.
-[mentioned] (p.11) Passing mention only.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.47 — Coverage gate: substring noise
+[note] (p.47) “you would have been chosen as well.” — the word ‘chosen’ contains ‘Hosen’; not a Hōsen occurrence.
+[mentioned] (p.286) “Housen… I think? He’s so big it’s hard to imagine he’s a first year,” — Sudō picking him out of the 1-B tennis pair.
 
 
-
-
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -348,8 +363,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -360,7 +373,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [mentioned] (p.185) Passing mention only.
 
 <!-- walk: y2v9 Ch.6 → p.185 -->
-
 
 
 ## y2v9.5
@@ -374,8 +386,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:nanase-tsubasa] (p.64–65) Uses her to approach; she plays wing-woman reluctantly.
 
 <!-- walk: y2v9.5 Ch.3 → p.65 -->
-
-
 
 
 ## y2v11
