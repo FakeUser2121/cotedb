@@ -1879,7 +1879,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.186) "You're so selfish. If I don't declare my intentions, how am I going to avoid being expelled? You won't be able to go to Class A because your time is up? So what? Kiyotaka is everything to me, I don't care if I'm in Class B or Class D."
 [says] (p.202) "Ha... breasts! What do you mean, "breasts"?"
 [note] (p.202) The print gives no name tag for the breast-scene interjection lines; the vocative "Kei" and the surrounding narration anchor the sequence to her; adjacent-context attribution.
-[says] (p.190) "Yeah, I agree with you...! That's the person who should take responsibility for...
+[note] (p.190) The print carries the utterance “Yeah, I agree with you...! That's the person who should take responsibility for...” — the utterance trails off mid-sentence with no closing quote in the source; speaker adjacent-narration-neutral; kept as a fragment.
 [scene] (p.227–228) Walks out past everyone; not a word to anyone; her mourning is private.
 [note] (p.202) The print gives no name tag for the interjection lines in the breast scene; the vocative "Kei" and the surrounding narration ("Kei has been venting her anger relentlessly") anchor the sequence to her.
 [trait] (p.176–228) Publicly, passionately, and then silently protective — erupts at Kushida's insinuation; spends everything she has to keep him safe; walks out without a word; she is frozen but intact.

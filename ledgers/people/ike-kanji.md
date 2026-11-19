@@ -1238,7 +1238,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [mentioned] (p.9) Sudō wonders whether "that Kanji guy has already kissed Shinohara" — Ike is the romantic benchmark for the class boys.
 [mentioned] (p.13) Sudō starts chatting with his good friends Ike and Hondō once at school.
 [mentioned] (p.25) Horikita names him as better suited to the maid café than the boys'-side selection ("Ike-kun, Hondō-kun and the others may have better eyes for this kind of thing. But if you tell them about this, it could lead to a leak.").
-[mentioned] (p.27) Chabashira-sensei agrees with Ayanokōji that "people like Ike and Hondō are many times more suited to this kind of thing.
+[mentioned] (p.27) Chabashira-sensei agrees with Ayanokōji that “I think people like Ike and Hondō are many times more suited to this kind of thing to be perfectly honest.”
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
