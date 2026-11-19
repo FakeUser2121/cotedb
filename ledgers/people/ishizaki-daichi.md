@@ -691,11 +691,11 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [says] (p.159) “Right. And then when the exam starts, you’ll combine your group with another three person group from Class B, so it’ll be a perfect six person group. With five people from our class, and you being the sixth, Ayanakouji, let’s aim for first place!”
 [says] (p.160) “Really?”
 [says] (p.161) “Ain’t no point in worrying about things I don’t understand.”
-[says] (p.162) “Well, ‘course it’s just you. I reckon you’re just as powerful as Ryuuen… Nah, if I had to say, it’s cuz I now think that you’re even better than him. You’re strong as hell at fighting, and your mental agility is even acknowledged by him. Plus, in the spring exam, you got a perfect score in math. That was truly incredible. The group which has Ayanokouji has the exam in the bag. So I see no reason for us not to invite you, eh?”
+[says] (p.162) “Well, ‘course it’s just you. I reckon you’re just as powerful as Ryuuen… Nah, if I had to say, it’s cuz I now think that you’re even better than him …  … . You’re strong as hell at fighting, and your mental agility is even acknowledged by him. Plus, in the spring exam, you got a perfect score in math. That was truly incredible. The group which has Ayanokouji has the exam in the bag. So I see no reason for us not to invite you, eh?”
 [says] (p.162) “The heck, of course you can’t be the only one who doesn’t get any benefits! If we’re promoted to Class A, we’ll give you 20 million points to come to our class, Ayanokouji. Waddya say?”
 [says] (p.162) “In other words, you can get either your class into Class A, or our class into Class A. This way, you have a 50% chance of graduating from Class A.”
 [says] (p.163) “It’s my own decision. Ryuuen knows nothing about it.”
-[says] (p.163) “Never thought about it! No need to dwell on that! Even so… I’m ready for that.”
+[says] (p.163) “Never thought …  about it! No need to dwell on that! Even so… I’m ready for that.”
 [says] (p.164) “The rules allow us to form groups with students from within the same year, right? So I thought Ayanokouji was absolutely necessary in order to form the best team. What’s wrong about that? ”
 [says] (p.164) “The key point of this special exam is to prevent the 2nd year students’ class points from being taken away by the others. Of course, it’s also necessary to aim for the top spots in the overall ranking. For which, Ayanokouji is indispensable.”
 [says] (p.164) “Then, will you join our group?”
@@ -729,7 +729,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [says] (p.191) “I get it now, but, love isn’t something that others can interfere with.”
 [says] (p.192) “Something in return? I won’t ask for anything. It’s normal to want to help out a friend who is in trouble.”
 [says] (p.193) “… Ah, Komiya? Sorry to call you right before club activities start. Ah no, I’ve got something I wanted to ask you. Did you talk to Shinohara from Class D this morning? … Just as I thought. No, we formed a pact of not getting a girlfriend before telling each other, but I think you might be leaving me behind in that respect.”
-[says] (p.193) “You’re telling me you aren’t dating? Really? If you’re lying, then you’ll be in trouble later, eh?”
+[says] (p.193) “You’re telling …  me you aren’t dating? Really? If you’re lying, then you’ll be in trouble later, eh?”
 [says] (p.193) “Eh… Seriously? Oh, oh, I see, ahh…”
 [says] (p.194) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
 [says] (p.194) “What can we do? In the end, there’s no way we can stop it.”

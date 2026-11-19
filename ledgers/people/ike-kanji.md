@@ -1201,12 +1201,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.171–172) Kushida taps his shoulder mid-sentence; he's gone before Shinohara can answer.
 [says] (p.171) “What, what is it!? I’m super free right now!”
 [says] (p.171) “Seriously? Let’s go, let’s go! I’ll go right now!”
-[says] (p.171) “You’re the one who’s been bothering me!”
+[says] (p.171) “You’re the one who’s …  been bothering me!”
 [scene] (p.175–177) Back in class he erupts; then trails Shinohara out and follows Komiya's lead to the café; he sulks at a distance.
 [says] (p.175) “Huh? You, er… found someone to group up with?!”
 [says] (p.176) “Ah, that wasn’t like that! I even turned them down for you, you know!”
 [says] (p.176) “Group… Who did you decide to group up with?”
-[says] (p.176) “Nothing, but I’m just curious, okay?”
+[says] (p.176) “Nothing, but …  I’m just curious, okay?”
 [says] (p.176) “Ah? Komiya? Komiya, he’s that flashy guy on the basketball team, right? Unbelievable!”
 [note] (p.172) Shinohara simply watches from beside him as he runs off with Kushida — not speech.
 [scene] (p.185–186) He slumps outside the café as Komiya and Shinohara laugh inside.

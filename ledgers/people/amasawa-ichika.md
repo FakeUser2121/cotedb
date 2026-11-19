@@ -168,7 +168,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says] (p.94) “This, can you unlock it for me?”
 [says] (p.94) “Senpai, you look like you are alone anyway, so cook for me.”
 [says] (p.95) “I have that right, right? The thing about teaming up with Sudou-senpai, you haven’t forgotten about that have you?”
-[says] (p.95) “I’m sorry, but I ran out of ingredients. There’s nothing in the fridge.”
+[says] (p.95) “I’m sorry, but I …  ran out of ingredients. There’s nothing in the fridge.”
 [says] (p.95) “Eeeh—— Is that so—? You should have reserves~”
 [says] (p.95) “If it has to be today, how about I go and get ready now, and we can buy the ingredients together?”
 [says] (p.95) “I see, you don’t have any ingredients~That’s too bad~”
@@ -224,7 +224,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says] (p.236) “Worth? Is it worth a lot? I don’t have the time to care for things I hate.”
 [says] (p.236) “So, what do you want from me?”
 [says] (p.236) “You want me to help you out again, huh? And on the uninhabited island? Are you thinking ’bout doing something vulgar?”
-[says] (p.237) “Want to see my panties? You can sneak a peek at them under the table, yeah?”
+[says] (p.237) “Want to see my panties? You can sneak a peek at them under the table … , yeah?”
 [says] (p.237) “Well, that’s true? The other guys either knew about the bounty and didn’t do anything, or wanted to do something but gave up halfway. 20 million points is a large amount, isn’t it normal to go all out?”
 [says] (p.237) “Then what’s my reward if I group with you? I’m not cheap, yeah?”
 [says] (p.238) “Equal? You have a cute face, but your words are so bitter. So this boldness is what Housen-kun likes about you?”

@@ -820,7 +820,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [says:ryuuen-kakeru] (p.306) “Ah, I got my ass handed to me. Thanks to that, I almost decided to quit school.”
 [says] (p.306) “No, I can’t accept this after all. I can’t believe that Ayanokouji beat you. Coming back to what I said earlier, if you have three classes working together, even if you come in first place, you’ll only get an average of 100 points. The gap between you and Class A will be impossible to close.”
 [says] (p.307) “No matter what you say, there’s no chance of me working with you. It’s true that I have a semi-antagonistic relationship with Sakayanagi. However, I don’t want to trouble my classmates. I don’t want to work with you.”
-[says] (p.308) “It was a fair contract, we got 200 points from your class, and in return Class-A pays off the loan. All of my actions were only to lead Class-A along a better path.”
+[says] (p.308) “It was a fair contract, we got 200 points from your class, and in return Class-A pays off the loan. All of my actions were only to lead Class-A along a …  …  better path.”
 [says] (p.308) “So… So what!?”
 [says] (p.309) “Are you crazy? You’re asking me to come to Class B?”
 [says] (p.309) “Even if you have the necessary points, why should I come to Class B? You think I would give up my place in Class A?”

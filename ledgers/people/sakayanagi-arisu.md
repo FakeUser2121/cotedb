@@ -1343,7 +1343,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.211) “That is— trust. Ichinose-san, I can say for sure that as long as we are joining forces, you would not betray me no matter what happens. That is a very important factor to consider when creating an alliance.”
 [says] (p.214) “Just like last year, I am unable to move around the uninhabited island because of my handicap. However, I am allowed to participate in this exam, just in somewhat of a special position.”
 [says] (p.214) “Students who are unable to participate due to ill health are eliminated from the start of the exam, right? However, I will be participating as a ‘semi-eliminated’ student.”
-[says] (p.214) “Even though I can’t walk around the island freely because of my legs, I have the right to remain at the starting point and compete within the same rules as everyone else. In other words, if you asked me for advice, I can help you, and if there’s a difficult problem, we can solve it together. Though, when I am the only person left in the group, at that point the group will be eliminated.”
+[says] (p.214) “Even though I can’t walk around the island freely because of my legs, I have the right to remain at the starting point and compete within the same rules as everyone else. In other words, if you asked me for advice, I can help you, and if there’s a difficult problem, we can solve it together. Though, when I am the …  …  only person left in the group, at that point the group will be eliminated.”
 [says] (p.215) “From my class, you are free to choose from 4 students – Hashimoto-kun, Kitou-kun, Masumi-san and myself. We are undoubtedly the main forces of Class A. From Class B, there are you and Kanzaki-kun, as well as Shibata-kun, right?”
 [says] (p.216) “I guess I’ve underestimated you a little, Ichinose-san.”
 [says] (p.216) “If you work with me, I can give you three people’s worth of deposits. I’ll lend to you a total of 3 million points for the students who are at a high risk of expulsion. If they receive the penalty, you can use this to pay for their relief. To you, who doesn’t want anyone to drop out more than any other class, this should be a proposal of great help to you.”
@@ -1370,7 +1370,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.33) “And in fact, at that time, Ayanokouji-kun was at risk of dropping out due to Sakayanagi-san’s strategy. Although that was when he was completely average and was coincidentally chosen as a patsy, it’s possible that it really was aimed at him.”
 [mentioned] (p.44) “Speaking of Sakayanagi-san, she got similar scores in all her subjects, right?”
 [mentioned] (p.45) “I know she was smart, but ever since the introduction of the OAA, her strength has become more apparent.”
-[mentioned] (p.49) “there’s a limit to test scores… the second in the year.” — Sakayanagi-san named on this page.
+[mentioned] (p.49) there’s a limit to test scores… the second in the year. — Sakayanagi-san named on this page.
 [mentioned] (p.67) “Class A’s Sakayanagi knew about me from before, and Ryuuen had the experience of being beaten down by me, so he would naturally know that I wasn’t only good at math.”
 [mentioned] (p.81) “Sakayanagi, Ichinose, Ryuuen. Those people would probably cry from the joy.”
 [mentioned] (p.104) “Or maybe she was the same as Sakayanagi, honing her abilities in a place that had nothing to do with the White Room.”
@@ -1389,11 +1389,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.309) “Without Sakayanagi, their head, it would be difficult for Class A to continue fighting on the front lines.”
 [mentioned] (p.309) “After negotiating with Sakayanagi, I’m giving this thing up for 5 million points.”
 [mentioned] (p.309) “albeit half the original value, Sakayanagi would be able to predict what Ryuuen would do with the money.”
-[mentioned] (p.309) “However, Sakayanagi accepted such a favourable proposal despite knowing the risks.”
+[mentioned] (p.309) The narration prints: however, Sakayanagi accepted such a favourable proposal despite knowing the risks — the sentence runs across the page turn with the printed footer in between; kept as printed.
 [mentioned] (p.310) “If I were Sakayanagi, I would have agreed to Ryuuen’s proposal as well.”
 [mentioned] (p.312) “Katsuragi had buried his desire for vengeance against Sakayanagi in his heart.”
 [mentioned] (p.335) “The fierce competitors and representatives of the other classes, Sakayanagi, Ichinose, and Ryuuen, were also aiming for that very same goal.”
-[mentioned] (p.337) “Sakayanagi” — the chairman’s allegations; see Tsukishiro’s ledger.
+[mentioned] (p.337) “Sakayanagi” — the chairman’s allegations; see Tsukishiro’s person record.
 [mentioned] (p.342) “Our first choice of student to invite wasn’t Sakayanagi-san, Ichinose-san or even Horikita-san.”
 
 <!-- walk: y2v2 Coverage note → p.342 -->

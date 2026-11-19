@@ -1791,8 +1791,8 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.48–52) She holds off Kanzaki; then privately tells Ayanōji to trust his classmates; she will leave first if anyone must.
 [says] (p.48) “Ayanokouji-kun is not our enemy.”
 [says] (p.50) “I’m sorry, but given the current situation, Kanzaki-kun definitely doesn’t have much legroom.”
-[says] (p.51) “There may be students who want to change their own class appearing from … now on, just like Kanzaki. Or there may be some that are dissatisfied with you and want to stop you. Maybe even some that will betray the class too. It won’t be surprising to think some will do whatever just to make a change. Class 1-B, the class that only you protected, that class doesn’t exist anymore.”
-[says] (p.51) “No matter what happens from here, I want for you to trust your classmates, put their safety first and continue the fight.”
+[says] (p.51) “There may be s …  … tudents who want to change their own class appearing from …  …  … now on, just like Kanzaki. Or there may be some that are dissatisfied with you and want to stop you. Maybe even some that will betray the class too. It won’t be surprising to think some will do whatever just to make a change. Class 1-B, the class that only you protected, that class doesn’t exist anymore.”
+[says] (p.51) “No matter what …  happens from here, I want for you to trust your classmates, put their safety first and continue the fight.”
 [says] (p.52) “Dissatisfied…?”
 [says] (p.52) “T-that… y-yeah… I’ll …definitely…stay.”
 [says] (p.52) “…I need to leave soon. We’re standing too much out here, and I feel bad letting Kanzaki wait for me.”
@@ -1828,9 +1828,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.215) “Special?”
 [says] (p.215) “So Sakayanagi-san, you can participate under this special position?”
 [says] (p.215) “Sakayanagi-san, may I tell you how I really feel?”
-[says] (p.216) “Sakayanagi-san, you don’t want the three classes to fight together, more than I originally thought. Or to say, you’re afraid of that situation, right?”
+[says] (p.216) “Sakayanagi-san … , you don’t want the three classes to fight together, more than I originally thought. Or to say, you’re afraid of that situation, right?”
 [says] (p.216) “What do you mean?”
-[says] (p.216) “You said we were someone you could trust, and I think you meant that. However, the most important thing for you is to prevent Class B, Class C, and Class D from working together to catch up to Class A. Indeed, the amount of class points we can get if we win together will decrease, but there’s no guarantee that such a development wouldn’t appear in the future— That the three classes would continue to help each other.”
+[says] (p.216) “You said we were someone you could trust, and I think you meant that. However, the most important thing for you is to prevent Class B, Class C … , and Class D from working together to catch up to Class A. Indeed, the amount of class points we can get if we win together will decrease, but there’s no guarantee that such a development wouldn’t appear in the future— That the three classes would continue to help each other.”
 [says] (p.216) “An alliance between the three classes to force Class A out. If that is successful, you would be forced into a bitter battle from now on, Sakayanagi-san… Isn’t that so?”
 [says] (p.217) “Then can you give me five people’s worth? That way I would feel completely reassured.”
 [says] (p.217) “With that our contract is complete. Even if you hadn’t offered to loan me the deposit points, I would have chosen to join forces with you. Our main goal is of course to reach Class A, but as you said, we fell to Class C and we can’t afford to fall even more. Since, if we fall down to Class D, our class’s motivation would surely be greatly reduced, and that is something we want to avoid.”

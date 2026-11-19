@@ -265,7 +265,7 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [says] (p.182) “Of course, during the exam, I’ll completely follow your instructions.”
 [says] (p.183) “I do. That’s why I think it’s important for me to cooperate with you to help you.”
 [says] (p.183) “…So I’ve been exposed?”
-[says] (p.183) “I don’t think it’d be difficult to stay in the top ranks if it were you. Even if we don’t end up on the podium, we’re bound to reach the top 30%. It would be more dangerous if I put my friends first and make a half-assed group with them.”
+[says] (p.183) “I don’t think …  it’d be difficult to stay in the top ranks if it were you. Even if we don’t end up on the podium, we’re bound to reach the top 30%. It would be more dangerous if I put my friends first and make a half-assed group with them.”
 [says] (p.183) “I thought you’d get snapped up quickly, Ayanokouji-kun.”
 [says] (p.184) “I won’t decide on my group, at least for this month.”
 [says] (p.184) “You mean that you want to wait and watch how things go?”

@@ -2256,7 +2256,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.298) “What kind of meeting is this supposed to be, anyway?”
 [says] (p.298) “Kuku, don’t admire him too much, Katsuragi– that’s in the past.”
 [says] (p.299) “Fuck off. Ichinose was off sinking on her own, she was never even on my radar.”
-[says] (p.299) “The past? You ought to be careful when an unexpectedly strong enemy appears. You’ve gotten too cocky after defeating Ichinose’s Class B.”
+[says] (p.299) “The past? You ought to be careful when an unexpectedly strong enemy …  …  appears. You’ve gotten too cocky after defeating Ichinose’s Class B.”
 [says] (p.299) “What is Class A aiming for in the next exam?”
 [says] (p.299) “Are you aiming to monopolize the class points? Or is it something else? I’ve checked the group composition using the OAA, and while you guys seem to have formed groups with Class C and D, Kitou seems to be alone. And then, no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy. Are you working together?”
 [says] (p.300) “I don’t want any of that diplomatic crap, I want just straight answers.”
@@ -2323,8 +2323,8 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.165) “Don’t be ridiculous! Do you think Ryuuen-kun will ever approve of our plan!?”
 [mentioned] (p.166) “Kaneda-kun is the same, he won’t ignore Ryuuen-kun’s orders and participate in a strategy he’s unsure of.”
 [mentioned] (p.205) “B led by Ryuuen, whom she was chasing after, was only 26 points.”
-[mentioned] (p.205) “when Ryuuen’s class rose to Class B, there were no holes found in his class from such everyday actions that would have decreased their class points.”
-[mentioned] (p.206) “when Ryuuen’s class rose to Class B, there were no holes found in his class from such everyday actions that would have decreased their class points.”
+[mentioned] (p.205) when Ryuuen’s class rose to Class B, there were no holes found in his class from such everyday actions that would have decreased their class points.
+[mentioned] (p.206) when Ryuuen’s class rose to Class B, there were no holes found in his class from such everyday actions that would have decreased their class points.
 [mentioned] (p.208) “However, both Ryuuen-kun and I are able to bare our fangs even if we’re in a disadvantageous situation, you know?”
 [mentioned] (p.213) “Although the gap with our class wouldn’t be narrowed, you can catch up with Ryuuen-kun’s class, and widen the gap with Class D.”
 [mentioned] (p.214) “But if you and I group up, Horikita-san and Ryuuen-kun might also group up…”

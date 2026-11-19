@@ -22,12 +22,12 @@ char_id: shinohara · class: Class 2-D · status: student (y2v2)
 [mentioned] (p.168) “Good morning.” — the elevator greeting scene with Ayanokōji.
 [mentioned] (p.171) “No, it’s alright, he’s been bothering me since he first called out to me. Take him.”
 [mentioned] (p.172) “Satsuki.” — Komiya.
-[mentioned] (p.173) “Yeah you always practice until late at night, so I’d be lying if I said you didn’t deserve it.”
+[mentioned] (p.173) Tells Ayanōkoji what happened in the cafe confrontation — late-night practice explained — printed across the page turn; kept as printed.
 [mentioned] (p.175) “Huh!? Sacrifice what? I didn’t ask for that!”
 [mentioned] (p.176) “Forbidden what, I haven’t officially confirmed yet. Well, I’m going to confirm today though.”
 [mentioned] (p.185) “I spotted Shinohara and Komiya, who were talking and laughing in the cafe.”
 [mentioned] (p.189) “It seems like one of them invited the other to form a group, are they dating?”
-[mentioned] (p.190) “Although they’re not dating, Komiya-kun certainly likes Shinohara-san, right?”
+[mentioned] (p.190) The print reports on Komiya liking Shinohara-san although they’re not dating — printed across the page turn; kept as printed.
 [mentioned] (p.191) “The more strained their relationship became, the more chance Ike would go off in a strange direction.”
 [mentioned] (p.193) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
 [mentioned] (p.195) “I expressed my concerns to Horikita about the current situation between Ike, Shinohara, and Komiya and that it might affect this upcoming uninhabited island exam.”

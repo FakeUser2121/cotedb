@@ -183,7 +183,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [mentioned] (p.288) “I heard something from Kiriyama. I would have never thought that someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji.”
 [mentioned] (p.289) “Up till now, Nagumo had competed with Kiriyama’s class many times in the past special exams.”
 [mentioned] (p.290) “Kiriyama simply glared at Kiryuuin, who was merrily talking, but didn’t interfere with their conversation.”
-[mentioned] (p.290) “After he said that, Nagumo turned his attention to Kiriyama, who was waiting for him.”
+[mentioned] (p.290) After he said that, Nagumo turned his attention to Kiriyama, who was waiting for him.
 [mentioned] (p.291) “Or maybe it’ll be Kiriyama, who’s been dying to fight me.”
 [mentioned] (p.292) “Nagumo gave instructions to withdraw and headed over to Kiriyama.”
 [mentioned] (p.335) “then there were the elites of the 3rd year- Nagumo, Kiriyama and Kiryuuin.”

@@ -391,7 +391,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.19) Stands beside Ike; the class's talk turns to cheating; she cannot parse the leap.
 [says] (p.19) “Cheat? How would he even cheat?”
 [scene] (p.37–38) Recruited by Karuizawa to ratify the cover story; plays along with flawless instinct.
-[says] (p.37) “That’s right! I feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
+[says] (p.37) “That’s right! I …  feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
 [trait] (p.15–38) Quick, trusting, literal — a player piece without knowing it; the class uses her credibility both ways.
 [rel:karuizawa-kei] (p.37) She does Karuizawa's bidding without realizing the play.
 [rel:yukimura-teruhiko] (p.15–38) She watches his meltdown and echoes it.
@@ -432,7 +432,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 ### y2v2 p.185–198 — Coverage note: passing mentions
 [mentioned] (p.185) “I spotted Shinohara and Komiya, who were talking and laughing in the cafe.”
 [mentioned] (p.189) “It seems like one of them invited the other to form a group, are they dating?” — the Ishizaki exchange about her and Komiya.
-[mentioned] (p.190) “Although they’re not dating, Komiya-kun certainly likes Shinohara-san, right?”
+[mentioned] (p.190) The print carries: although they’re not dating, Komiya-kun certainly likes Shinohara-san, right? — printed across the page turn; kept as printed.
 [mentioned] (p.191) “If that happened, the relationship between Ike and Shinohara might become even more tenuous than it is now.”
 [mentioned] (p.192) “And if we forcefully separated Komiya and Shinohara, it would invite Nishino’s ire.”
 [mentioned] (p.192) “So you just want to know if he actually likes Shinohara, Ayanokouji?”

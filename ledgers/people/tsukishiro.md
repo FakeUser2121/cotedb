@@ -269,7 +269,7 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [says] (p.336) “Please, are you done with your analysis yet? Prolonging it anymore won’t help you.”
 [says] (p.336) “Is that too much for you?”
 [says] (p.337) “I’ll cooperate as much as I can. That being said, I can’t possibly provide any more support than this.”
-[says] (p.337) “Yes. I’ve been quite unreasonable with pressuring for an increase in the budget for this special exam. More importantly, I’ve also been forced to silence the school authorities about the strict rules I placed for the exam, after all.”
+[says] (p.337) “Yes. I’ve been quite unreasonable with pressuring for an increase in the budget for this special exam. More importantly, I’ve also been forced to silence the school authorities about the strict rules I placed for the exam, after …  …  all.”
 [says] (p.337) “Probably. The allegations against Chairman Sakayanagi should have cleared by now. I can see my role here ending soon. That’s why I’ve prepared some splendid fireworks for the end. I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?”
 [says] (p.337) “That’s good to hear. In that case, you’re free to go berserk during this… special exam. Once everything is taken care of, you will also return to your previous life. We will both return to the ‘place’ we are supposed to be.”
 [says] (p.337) “I’m expecting great things from you— Nanase Tsubasa-san.”

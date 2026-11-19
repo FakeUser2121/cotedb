@@ -967,7 +967,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y2v2 p.23–45 — The fight for his trust
 [scene] (p.23–26) After Chabashira's exchange with Ayanokōji (unseen by him), the classroom empties of club students; he waits through the whole thirty minutes.
 [scene] (p.27–29) Ayanokōji returns; he leads the charge with Haruka and Airi behind him; he confronts the perfect score head-on.
-[says] (p.27–28) “You… what’s with the 100 points in math? I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get … perfect scores. You’re the only one in the entire year.”
+[says] (p.27–28) “You… what’s with the 100 points in math? I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get … p … erfect score … s. You’re the only one in the entire year.”
 [says] (p.28) “I’m… asking Kiyotaka.”
 [says] (p.28) “… What do you mean?”
 [says] (p.29) “That’s right… To be honest, my head is a mess. I said this before, right? The questions at the end of the paper were impossible to solve. But Kiyotaka did them all like nobody’s business, and I just can’t understand it.”
@@ -990,7 +990,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [says] (p.42) “Yeah, I’m serious. Until I heard Horikita’s explanation, I was determined to leave because I didn’t think Kiyotaka could be trusted at all. But…even so, after being in the same group for so long, I can still understand some things. I know that Kiyotaka isn’t a bad person. Since he was hiding something for the sake of the entire class, it’s understandable that he didn’t want to tell anyone. Kiyotaka could have told me that he didn’t need tutoring, that is true, but he’s bad with words, so he couldn’t say it. I can understand that too.”
 [says] (p.42) “It’s just…yeah, it’s just… I need some time to sort my thoughts out.”
 [says] (p.42) “There’s no advantage in taking this further… In the end, what I wanted to say, what I wanted to express is… it doesn’t matter even if you hide your strength in other areas. It’s not like you’re holding the class back like Koenji, so no one has the right to complain. If I continue to criticize you forcefully, the atmosphere will become even worse.”
-[says] (p.42–43) “Even though my rational side is clear with that, I can’t suppress it emotionally, so I’ll need to reflect on that. Next, I’ll recognize the part of your strength that you revealed as a real thing. As for the other subjects, I’ll … continue to use my previous assumption that you’re passable, and I’ll continue to tutor you. Is that fine?”
+[says] (p.42–43) “Even though my rational side is clear with that, I can’t suppress it emotionally, so I’ll need to reflect on that. Next, I’ll recognize the part of your strength that you revealed as a real thing. As for the other subjects, I’ll …  … continue to …  use my previous assumption that you’re passable, and I’ll continue to tutor you. Is that fine?”
 [says] (p.43) “Don’t, it’s embarrassing.”
 [says] (p.43) “I know, I know…!”
 [says] (p.44) “I’m fine with it, but Akito still doesn’t know anything.”
@@ -1026,7 +1026,8 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 <!-- walk: y2v2 Epilogue → p.328 -->
 
 ### y2v2 p.59 — Coverage note: passing mentions
-[mentioned] (p.59) “Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel good to know that someone by my side was hiding his powers and is actually more powerful than me.”
+[mentioned] (p.59) “Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel” — fragment torn at the page turn; the sentence continues on the next page.
+[mentioned] (p.60) “good to know that someone by my side was hiding his powers and is actually more powerful than me.” — continuation of the same utterance, printed on the next page.
 [mentioned] (p.59) “Sudou, just like Keisei, had started to digest things by himself.”
 
 <!-- walk: y2v2 Coverage note → p.59 -->

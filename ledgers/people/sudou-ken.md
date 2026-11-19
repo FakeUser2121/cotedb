@@ -1823,7 +1823,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.55) “You call them facts, but you didn’t know the truth at that time either.”
 [says] (p.55) “It was a secret that you’re a genius at math, but is the fact that you’re good at fighting also a secret?”
 [scene] (p.56) He relives the Housen fight out loud — the first time he felt scared.
-[says] (p.55–56) “Don’t play dumb with me. I fought with Housen, so I’m clear on it. His … superhuman strength is the real deal. And he’s faster than anyone I’ve fought so far. Honestly, he’s a monster.”
+[says] (p.55–56) “Don’t play dumb with me. I fought with Housen, so I’m clear on it. His …  …  … superhuman strength is the real deal. And he’s faster than anyone I’ve fought so far. Honestly, he’s a monster.”
 [says] (p.56) “That was the first time I’ve ever felt scared in a fight. Even now his smiling face is burnt into my brain.”
 [says] (p.56) “Well, there was no other choice. That guy has more than a few screws loose.”
 [says] (p.56) “Who knows… In a real, serious fight, I don’t think I can win against him.”
@@ -1842,12 +1842,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.59) “Powerful or not, there’s no point if I don’t see it with my own eyes.”
 [says] (p.59) “But I understand now that you’re a pretty unbelievable guy. You’re seriously powerful, Ayanokouji.”
 [scene] (p.59–62) He lands his own position: admiration without envy; the Suzune question; the relief.
-[says] (p.59–60) “Well, in the beginning I thought, what’s with that?, and I get how Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel … good to know that someone by my side was hiding his powers and is actually more powerful than me. But it’s not like I can’t understand what you’re thinking, you don’t like to stand out, right? Somehow, I’ve come to understand your approach, I guess.”
+[says] (p.59–60) “Well, in the beginning I thought, what’s with that?, and I get how Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel …  …  … good to know that someone by my side was hiding his powers and is actually more powerful than me. But it’s not like I can’t understand what you’re thinking, you don’t like to stand out, right? Somehow, I’ve come to understand your approach, I guess.”
 [says] (p.60) “It would definitely be a lie if I said I didn’t care, but I’m doing my best in my own way to grow. That’s got nothing to do with how other guys are, that’s what I think.”
 [says] (p.60) “Besides, no matter how amazing you are, at basketball, I’m definitely better.”
 [says] (p.60) “Spare me. I don’t want to become your punching bag.”
 [says] (p.60) “Hahahahah! I see you understand that!”
-[says] (p.60–61) “So I won’t talk about the situation with Housen to anyone. I feel like this … was very roundabout, but that was what I wanted to say today.”
+[says] (p.60–61) “So I won’t talk about the situation with Housen to anyone. I feel like this …  …  … was very roundabout, but that was what I wanted to say today.”
 [says] (p.61) “Ah yes, let’s not talk about Housen again, but can I ask one last thing?”
 [says] (p.61) “Did you not think I would tell anybody else about the fight with Housen?”
 [says] (p.61) “If it were the old me?”

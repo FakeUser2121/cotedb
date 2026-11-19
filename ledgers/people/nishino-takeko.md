@@ -47,17 +47,17 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 [scene] (p.187) She shows up mid-meeting between Ishizaki and Ayanokōji.
 [says] (p.187) “What, you said you ‘something’, did you mean a meeting with Ayanokouji-kun?”
 [says] (p.187) “You’re rather close with Ishizaki. That’s a surprise.”
-[says] (p.187) “Ostracized? … I’m hardly troubled by that.”
+[says] (p.187) “Ostracized …  … ? … I’m hardly troubled by that.”
 [says] (p.188) “But I’m curious as to why you and Ayanokouji-kun are secretly meeting, Ishizaki.”
 [says] (p.189) “Because of Komiya-kun? What’s going on?”
 [says] (p.189) “Eh? Th-that’s hard to say…”
 [says] (p.189) “Even if you ask Ishizaki these things, he wouldn’t understand. You don’t know anything about love, do you?”
 [says] (p.189) “Shut up! Do you understand it then?’”
-[says] (p.189) “At least more than you. Although they’re not dating, Komiya-kun certainly likes Shinohara-san, right?”
+[says] (p.189) “At least more than you. Although they’re not dating, Komiya-kun certainly …  …  likes Shinohara-san, right?”
 [says] (p.190) “But why do you care about that?”
 [says] (p.191) “I also agree with that, meddling in someone else’s business is out of the question.”
 [says] (p.192) “Isn’t there a saying, that yesterday’s enemies are tomorrow’s friends?”
-[says] (p.192) “Ayanokouji-kun, you saw the two of them enjoying each other’s company, right? Then let’s just pretend that Ishizaki was the one who witnessed this instead of you and use it to find out whether they’re dating. As a guy who’s not popular with girls, it would simply look like he cared that his friend might have gotten a girlfriend before him, right?”
+[says] (p.192) “Ayanokouji-kun, you saw the two of them enjoying each other’s company, right? Then let’s just pretend that Ishizaki was the one who witnessed this instead of you and use it to find out whether they’re dating. As a guy who’s …  …  not popular with girls, it would simply look like he cared that his friend might have gotten a girlfriend before him, right?”
 [note] (p.187–192) She is isolated in her class; she chirps nonstop; she has zero filter and a sharp eye.
 [rel:ishizaki-daichi] (p.187–192) She chases his meetings.
 [rel:ayanokouji-kiyotaka] (p.187–192) She tags him onto the investigation.

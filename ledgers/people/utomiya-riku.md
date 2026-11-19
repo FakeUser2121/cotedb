@@ -102,7 +102,7 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 [says] (p.268) “That.”
 [says] (p.269) “We can’t answer that.”
 [says] (p.269) “I apologize for that. We’ve already given up on the bounty.”
-[says] (p.270) “If we get you expelled, news of that’ll spread throughout the school. We’ll be enemies with the 2nd year Class D. Them hating the people who got their classmate expelled is to be expected.”
+[says] (p.270) “If we get you expelled, news of that’ll spread throughout the school. We’ll be enemies with the 2nd year Class D. Them hating the people who got their …  …  classmate expelled is to be expected.”
 [says] (p.270) “No. The reason for that is because all the Class 1-D students are afraid of Housen. Rather, there’re a lot of students who wish that he be expelled.”
 [says] (p.270) “Anyway, remember. Please remember this. The only thing we care about is defeating Housen.”
 [rel:ayanokouji-kiyotaka] (p.264–270) He wants him on board against Housen.

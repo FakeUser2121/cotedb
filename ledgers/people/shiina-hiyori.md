@@ -514,7 +514,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [says] (p.164) “I’m not saying anything like that. I think it’s certainly an exceptional amount, that is, in terms of quantity. But in effect, the only thing we’d really be giving him is the right to transfer over to our class, yes?”
 [says] (p.165) “Additionally, Ishizaki-kun did say that it’d be fine so long as Ayanokouji-kun joins up with somebody from Class B, but there’s a problem with that as well. Surviving on the uninhabited island won’t be a one-man effort. If you’re really aiming for the top spot, you’ll be better off with a strong team to back you up.”
 [says] (p.165) “If it was up to me to choose the small group Hmm. Ryuuen-kun, Kaneda-kun, and Ayanokouji-kun, those three. It’s fine if Kaneda-kun is replaced by Yamada-kun, but Ryuuen-kun is indispensable.”
-[says] (p.166) “I don’t think he will.”
+[says] (p.166) “I don’t think …  …  …  he will.”
 [says] (p.166) “Kaneda-kun is the same, he won’t ignore Ryuuen-kun’s orders and participate in a strategy he’s unsure of.”
 [says] (p.166) “At this stage, I guess it can’t be helped.”
 [says] (p.166) “We were able to convey ours and Ishizaki’s thoughts to you, so we should be satisfied with that for now.”

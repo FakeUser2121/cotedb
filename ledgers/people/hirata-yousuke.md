@@ -1904,7 +1904,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.21) When the speculation crests, he steps in as the class's assumed arbitrator.
 [says] (p.21) “Let’s all calm down a bit. We can’t solve the problem by just getting heated up here, can we?”
 [says] (p.21) “Sudo-kun, isn’t it almost time for your club activities?”
-[says] (p.21) “I know you’re concerned about this topic, but there are many things that are uncertain right now. I do not think it is good to let your club activities be affected by mere speculation. You know by now that the … excuse won’t work, right?”
+[says] (p.21) “I know you’re concerned about this topic, but there are many things that are uncertain right now. I do not think it is good to let your club activities be affected by mere speculation. You know by now that the …  …  … excuse won’t work, right?”
 [note] (p.21–22) He usually leads by unifying the class; this time he keeps quiet until the end, reads the temperature precisely, then breaks the impasse by dispersing the room.
 [rel:sudou-ken] (p.21–22) He redirects Sudō to club.
 
@@ -1941,7 +1941,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.178) “It seems like we can only form groups that leave us with no regrets.”
 [says] (p.178) “For me, I’d like to select 2 people from Class D to form a group. Instead of aiming for the top places, I’d rather fight to not get penalized.”
 [says] (p.179) “Miyake-kun has good motor skills, so I feel the group is well balanced.”
-[says] (p.185) “I don’t think it’ll be as bad as it can be, but…”
+[says] (p.185) “I don’t think …  it’ll be as bad as it can be, but…”
 [says] (p.186) “Anyway, I wanted to ask about Komiya first. Why did Komiya invite Shinohara to his group? If we’re not sure about that, we can’t take any action.”
 [rel:ike-kanji] (p.177–186) He knows Ike's potential is rotting in private.
 [rel:sakura-airi] (p.179) He worries about Airi in Sakura's circle.

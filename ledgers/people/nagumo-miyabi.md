@@ -611,8 +611,8 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.78) “Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune.”
 [says] (p.78) “As a congratulations for joining, I’ll tell you something interesting. The past presidents of the student council have always graduated in Class A. Remember that and work towards a higher goal.”
 [says] (p.80) “Then show me that isn’t just all talk.”
-[says] (p.80) “Are you going to join the student council by the way? Ayanokouji.”
-[says] (p.80) “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
+[says] (p.80) “Are you going to …  join the student council by the way? Ayanokouji.”
+[says] (p.80) “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t …  …  have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
 [says] (p.81) “I knew you would say that.”
 [says] (p.81) “Ayanokouji.”
 [says] (p.81) “There’s a lot more work in the student council than I thought , but everything has started to calm down now, so when summer starts, I’ll spend my time with my kouhais.”
@@ -667,7 +667,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [mentioned] (p.73) “If Nagumo is going in the wrong direction, there’s a need to stop him.”
 [mentioned] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
 [mentioned] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
-[mentioned] (p.83) “Kiriyama was someone who had struggled to overthrow Nagumo… the battle between Kiriyama and Nagumo had already been settled.”
+[mentioned] (p.83) Kiriyama was someone who had struggled to overthrow Nagumo… the battle between Kiriyama and Nagumo had already been settled.
 [mentioned] (p.116) “But as long as Nagumo continues to pursue his policies, we would definitely compete with each other sooner or later.”
 [mentioned] (p.250) “President Nagumo about the uninhabited island survival exam held two years ago, and he kindly told me.”
 [mentioned] (p.254) “It all started when I was contacted by President Nagumo of the student council.”

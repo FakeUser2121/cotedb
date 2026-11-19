@@ -285,13 +285,13 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v2 → start -->
 
 ### y2v2 p.68–72 — Named by Ayanokōji (Ch.2 backreference)
-[note] (p.68–72) He names her in his secret-exam intel exchange with Horikita; not present in those pages — see Horikita's ledger and Ayanokōji's.
+[note] (p.68–72) He names her in his secret-exam intel exchange with Horikita; not present in those pages — see Horikita's person record and Ayanokōji's.
 
 ### y2v2 p.111–116 — The confession on the way to school
 [scene] (p.111) She is on her way to school alone on the mid-June morning; she falls into step with him or he falls into hers.
 [says] (p.112) “Good morning, Ayanokouji-senpai.”
 [says] (p.112) “Is there something in the sky?”
-[says] (p.112) “Looking at the blue sky, huh?”
+[says] (p.112) “Looking at the …  …  blue sky, huh?”
 [says] (p.112) “What a beautiful day.”
 [says] (p.112) “Yes, we haven’t met for about a month and a half.”
 [says] (p.112) “I’ve always felt sorry for what I did to you, Ayanokouji-senpai.”

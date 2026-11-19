@@ -867,7 +867,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says] (p.140) “That applies to you as well, Ayanokouji boy.”
 [says] (p.140) “Yeah… Speaking of that, can I join your group?”
 [says] (p.140) “Fufufu, is that so, there’s no helping it then.”
-[says] (p.140) “That’s true, if I quit without doing anything.”
+[says] (p.140) “That’s true, if …  I quit without doing anything.”
 [says] (p.140) “What should I do? I’ll carefully think about it until it officially starts.”
 [note] (p.137–141) His sick-leave gambit is priced at 6M private points — a sum he cannot produce; the exam's designers anticipated his exact move.
 [trait] (p.137–141) He confesses nothing and hints everything; his silence after the bell rings is a fuse burning in plain sight.
@@ -908,7 +908,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says] (p.334) “But this is a rare opportunity. I have managed to get him to promise us his future commitment in the end.”
 [says:horikita-suzune] (p.334) “If he actually could get a rank in the top spots, it would be great, we could surpass the other classes like that.”
 [says:horikita-suzune] (p.335) “That’s true, but to easily take the top spot is a completely different matter altogether.”
-[says:horikita-suzune] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate what Kouenji is going to do.”
+[says:horikita-suzune] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate …  …  what Kouenji is going to do.”
 [note] (p.333–334) He agrees to go solo with the future-exam condition; the deal is sealed; he leaves the classroom.
 [rel:horikita-suzune] (p.330–334) She cage the untamed talent with the condition.
 [rel:ayanokouji-kiyotaka] (p.334–335) The race will be settled on the island.

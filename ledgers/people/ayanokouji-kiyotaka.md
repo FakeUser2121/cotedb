@@ -7580,13 +7580,13 @@ walk: y1v1 → DONE
 
 ### y2v2 p.27–38 — The class confronts him; Horikita's cover story
 [scene] (p.27) About thirty minutes after the summons he is back in class; students without club activities are waiting for him; Keisei leads the charge with Haruka and Airi behind him; Miyake is at archery club; Horikita has not answered his call but stays.
-[says:yukimura-teruhiko] (p.27–28) “You… what’s with the 100 points in math? I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get … perfect scores. You’re the only one in the entire year.”
+[says:yukimura-teruhiko] (p.27–28) “You… what’s with the 100 points in math? I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get … p …  … erfect score …  … s. You’re the only one in the entire year.”
 [says:horikita-suzune] (p.28) “Well, let me explain this.”
 [says:yukimura-teruhiko] (p.28) “I’m… asking Kiyotaka.”
 [says:horikita-suzune] (p.28) “Yes. But, Yukimura-kun, I am the one who has the answers you are looking for.”
 [says:yukimura-teruhiko] (p.28) “… What do you mean?”
 [says:horikita-suzune] (p.29) “Yukimura-kun and I- no, the entire 2nd year couldn’t get this perfect score, so how was Ayanokouji-kun able to achieve that? Don’t you all think that’s inconceivable?”
-[says:yukimura-teruhiko] (p.29) “That’s right… To be honest, my head is a mess. I said this before, right? The questions at the end of the paper were impossible to solve. But Kiyotaka did them all like nobody’s business, and I just can’t understand it.”
+[says:yukimura-teruhiko] (p.29) “That’s right … … To be honest, my head is a mess. I said this before, right? The questions at the end of the paper were impossible to solve. But Kiyotaka did them all like nobody’s business, and I just can’t understand it.”
 [says:yukimura-teruhiko] (p.29) “Kiyotaka should know very well that nobody in the class could solve those problems. Yet we didn’t even see him brag about how he solved them. Isn’t that weird? It even makes it seem like he has something he can’t reveal… maybe he did something bad, and knew the answers from the start, or something like that.”
 [says:horikita-suzune] (p.29) “He cheated… Of course, it’s not surprising that you want to think that.”
 [says:horikita-suzune] (p.29) “In this situation, it’s hard not to be suspicious. If I were a student who knew nothing, I would definitely feel the same way, and believe that Ayanokouji-kun had been secretly cheating. However, that isn’t the case here.”
@@ -7594,7 +7594,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.30) “We have since switched seats, but it must still be fresh in your memory that until recently, we were seatmates, right? Not long after school started, when I was talking to Ayanokouji-kun, I happened to find out that he was extremely good at academics… Even better than me.”
 [says:yukimura-teruhiko] (p.30) “Better than you in academics? Hold on. I remember Kiyotaka’s scores being about average all around since school started. I’m sorry, but I can’t see anything about it being worthy of special attention. Isn’t his grade on the OAA a C, the overall average?”
 [says:horikita-suzune] (p.30) “Of course. That’s because my strategy was already in motion before the first exam was completed.”
-[says:horikita-suzune] (p.30) “From the very start he had the knowledge to get perfect scores in math. As I knew this before anyone else, I thought up a little strategy.”
+[says:horikita-suzune] (p.30) “From the very …  start he had the knowledge to get perfect scores in math. As I knew this before anyone else, I thought up a little strategy.”
 [says:yukimura-teruhiko] (p.30) “…A little strategy?”
 [says:horikita-suzune] (p.31) “Last April, we of Class D were overjoyed to have received such a large sum of money. I’m ashamed to say that I was also one of them. But I had a feeling something unexpected was going to happen in turn. During that time, I asked Ayanokouji-kun, who sat next to me, if he could hold back in the exam. You could call this a reserve tactic or a trump card. Of course, I told him to keep it at a level which wouldn’t hold the class back. And that’s how his academic ability got rated C by the school.”
 [says:yukimura-teruhiko] (p.32) “Your words are hardly convincing. If you had doubts surrounding the rules of the school, it would be beneficial for the class as a whole for him to get higher scores from the start. Since he got a perfect score on this exam, getting an A or A+ in academic ability isn’t impossible. You could say it was just one person’s grades, but even that could’ve slowly increased the number of points of our class.”
@@ -7602,21 +7602,21 @@ walk: y1v1 → DONE
 [says:yukimura-teruhiko] (p.32) “What I think his future would have been like…?”
 [says:horikita-suzune] (p.32) “Let us go by what Yukimura-kun said, and assume that Ayanokouji-kun had gone all out since April of last year. If that was the case, then by May, Sakayanagi-san, Ichinose-san, and Ryuuen-kun would definitely have learned of his name. If they ignored the person who was the best in math in the entire year, he would become an obstacle to them sooner or later. It wouldn’t be surprising if someone moved to try and get him expelled.”
 [says:yukimura-teruhiko] (p.32) “So you’re saying, people might have targeted him?”
-[says:horikita-suzune] (p.32–33) “Correct. Anything can happen in this school. After all, there was even an … exam which forcibly expelled people through an intra-class vote. And in fact, at that time, Ayanokouji-kun was at risk of dropping out due to Sakayanagi-san’s strategy. Although that was when he was completely average and was coincidentally chosen as a patsy, it’s possible that it really was aimed at him.”
+[says:horikita-suzune] (p.32–33) “Correct. Anything can happen in this school. After all, there was even an …  …  … exam which forcibly expelled people through an intra-class vote. And in fact, at that time, Ayanokouji-kun was at risk of dropping out due to Sakayanagi-san’s strategy. Although that was when he was completely average and was coincidentally chosen as a patsy, it’s possible that it really was aimed at him.”
 [says:yukimura-teruhiko] (p.33) “No, that’s wrong. If Kiyotaka had been serious from the start, even if we were to put Yamauchi and him at different ends of a balance the result would have been clear as day.”
 [says:horikita-suzune] (p.33) “I wonder. In order to avoid getting expelled, Yamauchi would have been more careful when making his moves, and Sakayanagi-san’s strategy would have been more complex and harder to see through. Besides, Yamauchi-kun had at least had more people close to him than Ayanokouji-kun. As the things put on both ends of the scales would be different, opinions would follow that change.”
 [says:yukimura-teruhiko] (p.33) “So why are you revealing this now? If you carelessly reveal his strength, the results will be the same. He’s been drawing attention now that you suddenly showed his strength to everyone, and soon he could also become a target.”
-[says:horikita-suzune] (p.33–34) “No, there’s a huge difference between showing his strength a year ago and revealing his strength now. In the past year, the unity of our Class D had … grown by leaps and bounds, and each of us has grown in individual strength. We’ve become able to make the right decisions.”
+[says:horikita-suzune] (p.33–34) “No, there’s a huge difference between showing his strength a year ago and revealing his strength now. In the past year, the unity of our Class D had …  …  … grown by leaps and bounds, and each of us has grown in individual strength. We’ve become able to make the right decisions.”
 [says:horikita-suzune] (p.34) “But now, if someone has their attention on Ayanokouji-kun, we could now work together to protect him. That is how I have judged it. And that’s why I’ve made Ayanokouji-kun’s true strength public, and started to raise the overall strength of our class.”
 [says:hirata-yousuke] (p.35) “I understand, if only a little bit, this reserve strategy of yours, Horikita. On that basis, I have another question. Is Ayanokouji outstanding at math alone?”
 [says:horikita-suzune] (p.35) “I can’t comment on that at this stage.”
-[says:yukimura-teruhiko] (p.36) “The student known as Ayanokouji Kiyotaka, has he shown the full extent of his abilities, or is he still holding back? No matter what the real truth is, we can hide it to ensure Ayanokouji continues to remain a thorn on their side for the other classes.”
+[says:yukimura-teruhiko] (p.36) “The student …  known as Ayanokouji Kiyotaka, has he shown the full extent of his abilities, or is he still holding back? No matter what the real truth is, we can hide it to ensure Ayanokouji continues to remain a thorn on their side for the other classes.”
 [says:hirata-yousuke] (p.36) “I see. I clearly understand what Horikita-san is trying to say.”
 [says:hirata-yousuke] (p.36) “I didn’t get it at first, but I’ve been listening to the discussion, and now I understand. It’s true that an enemy whose abilities are unknown can be dangerous. They will then want to know more and try to gather information. But if even our own classmates don’t know the truth, it’ll be pointless for them to keep digging.”
 [says:horikita-suzune] (p.36) “Yeah. He’s bound to attract attention in the future anyway, so let’s just make full use of him. Letting our opponents see him as an unknown factor is the better course of action. There might even be students outside listening in on us right now. This is that kind of school.”
-[says:karuizawa-kei] (p.37) “Horikita-san really is good, isn’t she? I’m a little moved.”
+[says:karuizawa-kei] (p.37) “Horikita-san …  …  really is good, isn’t she? I’m a little moved.”
 [says:karuizawa-kei] (p.37) “Don’t you think so as well, Shinohara-san?”
-[says:shinohara-satsuki] (p.37) “That’s right! I feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
+[says:shinohara-satsuki] (p.37) “That’s right! I …  feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
 [says:yukimura-teruhiko] (p.37) “A strategy of hiding our strength…. That’s true, the other classes must also be quite shocked now.”
 [says:horikita-suzune] (p.37) “Although I didn’t completely understand the situation of the school, I thought keeping an insurance plan would be good. I don’t know if this is fortunate or unfortunate, but Ayanokouji-kun is bad at communicating, and it seems like he didn’t like to stand out. For those reasons as well, I also wanted him to hide it.”
 [says:horikita-suzune] (p.38) “That’s the secret of how Ayanokouji-kun got a full score in math. Sorry for surprising you all.”
@@ -7632,7 +7632,7 @@ walk: y1v1 → DONE
 [says:yukimura-teruhiko] (p.39) “Kiyotaka.”
 [says:hasebe-haruka] (p.40) “Going back without even saying hello, isn’t that a bit cruel?”
 [says:yukimura-teruhiko] (p.40) “Why didn’t you tell us before?… If it’s to hide information as Horikita said, does that mean that you don’t trust us at all?”
-[says] (p.40–41) “I’ve always trusted you guys. But I judged that not revealing it to anyone … was better for the plan in the future. It’s because I’ve been so close to you guys that I’ve had to stifle my desire to tell you and keep quiet.”
+[says] (p.40–41) “I’ve always trusted you guys. But I judged that not revealing it to anyone …  …  … was better for the plan in the future. It’s because I’ve been so close to you guys that I’ve had to stifle my desire to tell you and keep quiet.”
 [says] (p.41) “I completely understand your anger over this incident. After all, this is related to the group you’re closest with, and you even tutored me. I’m truly sorry.”
 [says:yukimura-teruhiko] (p.41) “To be honest, I’m still angry. You could have told me from the start that you didn’t need to be taught, that you could have passed the exam without any problems, and that you could have handled it on your own.”
 [says] (p.41) “You’re right.”
@@ -7642,7 +7642,7 @@ walk: y1v1 → DONE
 [says:yukimura-teruhiko] (p.42) “Yeah, I’m serious. Until I heard Horikita’s explanation, I was determined to leave because I didn’t think Kiyotaka could be trusted at all. But…even so, after being in the same group for so long, I can still understand some things. I know that Kiyotaka isn’t a bad person. Since he was hiding something for the sake of the entire class, it’s understandable that he didn’t want to tell anyone. Kiyotaka could have told me that he didn’t need tutoring, that is true, but he’s bad with words, so he couldn’t say it. I can understand that too.”
 [says:yukimura-teruhiko] (p.42) “It’s just…yeah, it’s just… I need some time to sort my thoughts out.”
 [says:yukimura-teruhiko] (p.42) “There’s no advantage in taking this further… In the end, what I wanted to say, what I wanted to express is… it doesn’t matter even if you hide your strength in other areas. It’s not like you’re holding the class back like Koenji, so no one has the right to complain. If I continue to criticize you forcefully, the atmosphere will become even worse.”
-[says:yukimura-teruhiko] (p.42–43) “Even though my rational side is clear with that, I can’t suppress it emotionally, so I’ll need to reflect on that. Next, I’ll recognize the part of your strength that you revealed as a real thing. As for the other subjects, I’ll … continue to use my previous assumption that you’re passable, and I’ll continue to tutor you. Is that fine?”
+[says:yukimura-teruhiko] (p.42–43) “Even though my rational side is clear with that, I can’t suppress it emotionally, so I’ll need to reflect on that. Next, I’ll recognize the part of your strength that you revealed as a real thing. As for the other subjects, I’ll …  …  … continue to …  …  use my previous assumption that you’re passable, and I’ll continue to tutor you. Is that fine?”
 [says] (p.43) “Thank you, Keisei.”
 [says:sakura-airi] (p.43) “H-how about you two do a…reconciliation handshake?”
 [says:hasebe-haruka] (p.43) “A reconciliation handshake? That’s nice!”
@@ -7671,7 +7671,7 @@ walk: y1v1 → DONE
 [says:ichinose-honami] (p.47) “Ayanokouji-kun, are you waiting for someone?”
 [says] (p.47) “I’m waiting for my friends to go eat. How about you guys?”
 [says] (p.47) “There’s a lot of reasons for this. It was only after discussing with my comrades that I decided to hide the fact that I’m good at math.”
-[says:kanzaki-ryuuji] (p.48) “So you’re saying that you’ve been hiding it all this time. It looks like you’re even more of an issue than I thought.”
+[says:kanzaki-ryuuji] (p.48) “So you’re saying that …  you’ve been hiding it all this time. It looks like you’re even more of an issue than I thought.”
 [says:ichinose-honami] (p.48) “Ayanokouji-kun is not our enemy.”
 [says:kanzaki-ryuuji] (p.48) “Our alliance has been dissolved. There’s no doubt that Class 2-D is our enemy.”
 [says:ichinose-honami] (p.48) “That’s…but there’s no point for us to engage in a pointless dispute!”
@@ -7682,13 +7682,13 @@ walk: y1v1 → DONE
 [says:ichinose-honami] (p.49) “Our overall scores in Class C are much higher than that. The point difference from Ayanokouji-kun after showing his true strength, we just have to make up for that with our whole class.”
 [says:kanzaki-ryuuji] (p.49) “That might be true if it’s just a written test… but-”
 [says:ichinose-honami] (p.49) “We should stop here, Kanzaki-kun. You also know that this isn’t a thing we should be arguing about heatedly here, right?”
-[says:kanzaki-ryuuji] (p.49) “It seems like I’ve indeed lost my cool.”
+[says:kanzaki-ryuuji] (p.49) “It seems like …  I’ve indeed lost my cool.”
 [says:kanzaki-ryuuji] (p.50) “I’ll go first.”
 [says:ichinose-honami] (p.50) “I’m sorry, but given the current situation, Kanzaki-kun definitely doesn’t have much legroom.”
 [says:ichinose-honami] (p.50) “Do you remember what I told you before?”
 [says] (p.50) “Yes, you told me to stick with my classmates and go forward, right, didn’t you?”
-[says:ichinose-honami] (p.51) “There may be students who want to change their own class appearing from … now on, just like Kanzaki. Or there may be some that are dissatisfied with you and want to stop you. Maybe even some that will betray the class too. It won’t be surprising to think some will do whatever just to make a change. Class 1-B, the class that only you protected, that class doesn’t exist anymore.”
-[says:ichinose-honami] (p.51) “No matter what happens from here, I want for you to trust your classmates, put their safety first and continue the fight.”
+[says:ichinose-honami] (p.51) “There may be s …  … tudents who want to change their own class appearing from …  …  … now on, just like Kanzaki. Or there may be some that are dissatisfied with you and want to stop you. Maybe even some that will betray the class too. It won’t be surprising to think some will do whatever just to make a change. Class 1-B, the class that only you protected, that class doesn’t exist anymore.”
+[says:ichinose-honami] (p.51) “No matter what …  happens from here, I want for you to trust your classmates, put their safety first and continue the fight.”
 [says] (p.51) “It’s okay. I’m definitely going to protect them. If there comes a time someone from my class has to leave, I think I will be the first one.”
 [says] (p.51) “I won’t ever let you get expelled.”
 [says:ichinose-honami] (p.52) “Dissatisfied…?”
@@ -7697,7 +7697,7 @@ walk: y1v1 → DONE
 [says] (p.52) “It may be my only redeeming feature at school, though.”
 [says:ichinose-honami] (p.52) “Even so that’s still amazing. It just means you have a weapon that won’t lose to anyone else.”
 [says] (p.52) “You are the same too. You certainly have such a weapon yourself.”
-[says:ichinose-honami] (p.52) “That would be nice, but…”
+[says:ichinose-honami] (p.52) “That would be …  nice, but…”
 [says:ichinose-honami] (p.52) “…I need to leave soon. We’re standing too much out here, and I feel bad letting Kanzaki wait for me.”
 [note] (p.46–52) Ichinose will certainly sacrifice herself for the class if it comes to it; her way of including people kills her classmates' individuality — a weapon she wields without noticing, with too few people around who can use it well.
 [rel:ichinose-honami] (p.46–52) Between trust and duty; he vows never to let her be expelled.
@@ -7714,8 +7714,8 @@ walk: y1v1 → DONE
 [says:sudou-ken] (p.55) “You call them facts, but you didn’t know the truth at that time either.”
 [says] (p.55) “’Course I know that!”
 [says:sudou-ken] (p.55) “It was a secret that you’re a genius at math, but is the fact that you’re good at fighting also a secret?”
-[says] (p.55) “I don’t know what you mean.”
-[says:sudou-ken] (p.55–56) “Don’t play dumb with me. I fought with Housen, so I’m clear on it. His … superhuman strength is the real deal. And he’s faster than anyone I’ve fought so far. Honestly, he’s a monster.”
+[says] (p.55) “I don’t know what you …  mean.”
+[says:sudou-ken] (p.55–56) “Don’t play dumb with me. I fought with Housen, so I’m clear on it. His …  …  … superhuman strength is the real deal. And he’s faster than anyone I’ve fought so far. Honestly, he’s a monster.”
 [says:sudou-ken] (p.56) “That was the first time I’ve ever felt scared in a fight. Even now his smiling face is burnt into my brain.”
 [says] (p.56) “You were scared, huh. Even so, it looked like you fought bravely for Horikita.”
 [says:sudou-ken] (p.56) “Well, there was no other choice. That guy has more than a few screws loose.”
@@ -7733,19 +7733,19 @@ walk: y1v1 → DONE
 [says] (p.58) “I don’t remember ever measuring my grip strength properly.”
 [says:sudou-ken] (p.58) “How is that even possible? We have physical evaluations so many times in primary and middle school!”
 [says:sudou-ken] (p.58) “You really don’t know?”
-[says] (p.58–59) “Back then, I heard that a grip strength of 60kg was the average for a 1st year at high school, so I adjusted my strength to around that. I was trying not … to stand out.”
+[says] (p.58–59) “Back then, I heard that a grip strength of 60kg was the average for a 1st year at high school, so I adjusted my strength to around that. I was trying not …  …  … to stand out.”
 [says:sudou-ken] (p.59) “I’m talking about you, how strong is the real you?”
 [says:sudou-ken] (p.59) “Forget it. You don’t have to answer.”
 [says:sudou-ken] (p.59) “Powerful or not, there’s no point if I don’t see it with my own eyes.”
 [says:sudou-ken] (p.59) “But I understand now that you’re a pretty unbelievable guy. You’re seriously powerful, Ayanokouji.”
 [says] (p.59) “Doesn’t it upset you that I’ve always been hiding my strength?”
-[says:sudou-ken] (p.59–60) “Well, in the beginning I thought, what’s with that?, and I get how Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel … good to know that someone by my side was hiding his powers and is actually more powerful than me. But it’s not like I can’t understand what you’re thinking, you don’t like to stand out, right? Somehow, I’ve come to understand your approach, I guess.”
+[says:sudou-ken] (p.59–60) “Well, in the beginning I thought, what’s with that?, and I get how Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel …  …  … good to know that someone by my side was hiding his powers and is actually more powerful than me. But it’s not like I can’t understand what you’re thinking, you don’t like to stand out, right? Somehow, I’ve come to understand your approach, I guess.”
 [says:sudou-ken] (p.60) “It would definitely be a lie if I said I didn’t care, but I’m doing my best in my own way to grow. That’s got nothing to do with how other guys are, that’s what I think.”
 [says:sudou-ken] (p.60) “Besides, no matter how amazing you are, at basketball, I’m definitely better.”
 [says] (p.60) “If it’s basketball, we can have a match any time!”
 [says:sudou-ken] (p.60) “Spare me. I don’t want to become your punching bag.”
 [says:sudou-ken] (p.60) “Hahahahah! I see you understand that!”
-[says:sudou-ken] (p.60–61) “So I won’t talk about the situation with Housen to anyone. I feel like this … was very roundabout, but that was what I wanted to say today.”
+[says:sudou-ken] (p.60–61) “So I won’t talk about the situation with Housen to anyone. I feel like this …  …  … was very roundabout, but that was what I wanted to say today.”
 [says] (p.61) “Alright.”
 [says:sudou-ken] (p.61) “Ah yes, let’s not talk about Housen again, but can I ask one last thing?”
 [says] (p.61) “If it’s something that I can answer.”
@@ -7798,7 +7798,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.71) “In other words, there’s someone in the same or a higher grade that had prepared that many points?”
 [says] (p.71) “Although we can’t rule out the chance that this was a game set up by a first year, I don’t think they have the trust or the capital to make a deal under those conditions because they’ve just entered school, so the probability for that is low.”
 [note] (p.71) “Someone who can pay 20 million points, and is also trusted by the first years.” — his inner line; printed in quotes, speaker is himself.
-[says:horikita-suzune] (p.71) “–The student council president.”
+[says:horikita-suzune] (p.71) “–The student …  council president.”
 [says:horikita-suzune] (p.71) “Could it be that President Nagumo might have something to do with this?”
 [says] (p.71) “How would that work? It’s true that he doesn’t like me, but using such a large amount of points as 20 million all to get me expelled? I have many doubts about that. And using 1st-year students of unknown ability in itself is extremely strange.”
 [says] (p.72) “But, there might be a chance that it has nothing to do with him.”
@@ -7808,7 +7808,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.72) “But if I can’t get Nagumo’s approval, it’s not my responsibility.”
 [says] (p.72) “As I told you before, the president won’t reject anyone who comes to him.”
 [says:horikita-suzune] (p.72) “…You did say that.”
-[says:horikita-suzune] (p.72–73) “The reason why you wanted me to join the student council… It was so I … could spy on President Nagumo, but actually, that’s not the only reason, right?”
+[says:horikita-suzune] (p.72–73) “The reason why you wanted me to join the student council… It was so I …  …  … could spy on President Nagumo, but actually, that’s not the only reason, right?”
 [says] (p.73) “I think you already slightly noticed. What your brother thinks is completely different from what Nagumo thinks. It’s because he values tradition that he thinks Nagumo’s reforms are wrong. He said it to me right before he left. The class is a community that should share the same fate. He didn’t want the framework to be changed.”
 [says] (p.73) “But I’m not going to judge who’s right and who’s wrong. Now, I just want to see Nagumo’s reforms.”
 [says:horikita-suzune] (p.73) “So that’s why you won’t give me specific instructions?”
@@ -7816,12 +7816,12 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.73) “Then why do you need me to join, if the only thing you want is to see Nagumo’s reforms? There’s no need for me to monitor the student council at all, then!”
 [says] (p.73) “If Nagumo is going in the wrong direction, there’s a need to stop him.”
 [says:horikita-suzune] (p.73) “There’s still some things I’m not satisfied with, but I’ll put it as convenient.”
-[says:horikita-suzune] (p.74) “I don’t think it’s good for me to ask anything of you since I lost the match, but will you come with me?”
+[says:horikita-suzune] (p.74) “I don’t think …  it’s good for me to ask anything of you since I lost the match, but will you come with me?”
 [says] (p.74) “Come with you?”
 [says:horikita-suzune] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
 [says:horikita-suzune] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
 [says] (p.74) “I see. After school, then?”
-[trait] (p.65–74) Reads the OAA like a ledger; weighs the bounty's possibilities — special exam vs private contract vs scam — in sequence, never landing on one until Horikita lands on Nagumo.
+[trait] (p.65–74) Reads the OAA like an account book; weighs the bounty's possibilities — special exam vs private contract vs scam — in sequence, never landing on one until Horikita lands on Nagumo.
 [rel:horikita-suzune] (p.65–74) They walk and reason together; she commits to the council; he gets her in the room for him.
 [rel:nagumo-miyabi] (p.71–74) Suspected of the bounty by elimination; the cold open of the duel.
 [rel:chabashira-sae] (p.70) She shows no sign of knowing about the bounty.
@@ -7839,12 +7839,12 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.76) “I had an argument with my brother in the past, and so I chose to enter this school to settle them. But my relationship with my brother hasn’t changed since I’ve entered this school.”
 [says:horikita-suzune] (p.76) “My brother couldn’t possibly approve of me who hadn’t grown in the slightest. As a result, I hadn’t spoken to him properly this year, at least up until his graduation.”
 [says:nagumo-miyabi] (p.76) “And then? Have you reconciled?”
-[says:horikita-suzune] (p.76–77) “Yes. At the very last second, I’ve reconciled with him. And then, for the first time, I became interested in the student council that my brother devoted … his school life to. Although I’ve taken a long detour, I also want to walk the same path my brother has.”
+[says:horikita-suzune] (p.76–77) “Yes. At the very last second, I’ve reconciled with him. And then, for the first time, I became interested in the student council that my brother devoted …  …  … his school life to. Although I’ve taken a long detour, I also want to walk the same path my brother has.”
 [says:nagumo-miyabi] (p.77) “The road brother took, it really is a nice story.”
 [says:nagumo-miyabi] (p.77) “In other words, can I assume that you have the intention to become the student council president?”
 [says:horikita-suzune] (p.77) “That’s right. Just like the road my brother walked, I also want to become student council president.”
 [says:nagumo-miyabi] (p.77) “I see. But Honami has been working hard behind the scenes for a year as a member of the student council. You’re already a year behind her in your quest in becoming the student council president. You can understand that, right?”
-[says:horikita-suzune] (p.77) “I don’t think it’s a distance that can’t be recovered.”
+[says:horikita-suzune] (p.77) “I don’t think …  it’s a distance that can’t be recovered.”
 [says:kiriyama-ikuto] (p.78) “She doesn’t look that similar to him, but she really is Horikita-senpai’s little sister!”
 [says:kiriyama-ikuto] (p.78) “I’m kind of comfortable calling you Horikita. I may have referred to you with that already but I’ll call you Suzune from now on, okay?”
 [says:horikita-suzune] (p.78) “Do as you wish.”
@@ -7852,12 +7852,12 @@ walk: y1v1 → DONE
 [says:nagumo-miyabi] (p.78) “Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune.”
 [says:horikita-suzune] (p.78) “Of course.”
 [says:nagumo-miyabi] (p.78) “As a congratulations for joining, I’ll tell you something interesting. The past presidents of the student council have always graduated in Class A. Remember that and work towards a higher goal.”
-[says:horikita-suzune] (p.80) “Don’t worry. I don’t plan to graduate outside of Class A.”
+[says:horikita-suzune] (p.80) “Don’t worry. I …  don’t plan to graduate outside of Class A.”
 [says:nagumo-miyabi] (p.80) “Then show me that isn’t just all talk.”
 [says:kiriyama-ikuto] (p.80) “It’s a pleasure.”
-[says:nagumo-miyabi] (p.80) “Are you going to join the student council by the way? Ayanokouji.”
+[says:nagumo-miyabi] (p.80) “Are you going to …  join the student council by the way? Ayanokouji.”
 [says:kiriyama-ikuto] (p.80) “What are you thinking, Nagumo? You would even invite him into the council?”
-[says:nagumo-miyabi] (p.80) “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
+[says:nagumo-miyabi] (p.80) “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t …  …  have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
 [says] (p.81) “I’ll pass, my personality isn’t suited to being on the council.”
 [says:nagumo-miyabi] (p.81) “I knew you would say that.”
 [says:nagumo-miyabi] (p.81) “Ayanokouji.”
@@ -7897,7 +7897,7 @@ walk: y1v1 → DONE
 [says:karuizawa-kei] (p.87) “Because you’ve gotten a full score in math, it’s become harder for me to come out with the dating thing.”
 [says] (p.88) “Who knows what would happen if we publicize that we’re dating now…”
 [says:karuizawa-kei] (p.88) “So is this situation going to continue as it is for a while?”
-[says:karuizawa-kei] (p.88) “It can’t be helped… It’s annoying, making it feel like I’m dating you because of your status.”
+[says:karuizawa-kei] (p.88) “It can’t be helped … … It’s annoying, making it feel like I’m dating you because of your status.”
 [says] (p.88) “Is it bad to date someone for status?”
 [says:karuizawa-kei] (p.88) “No, I’m not saying it’s bad either…”
 [says] (p.88) “Like dating a cute girl is a symbol of status for guys, right? Wouldn’t it be a little too harsh to ask for people not to want that?”
@@ -7920,7 +7920,7 @@ walk: y1v1 → DONE
 [says] (p.94) “It’s late in the evening already, so can we talk tomorrow? It’ll be a problem bringing in a kouhai in my room without any reason.”
 [says:amasawa-ichika] (p.94) “Senpai, you look like you are alone anyway, so cook for me.”
 [says:amasawa-ichika] (p.95) “I have that right, right? The thing about teaming up with Sudou-senpai, you haven’t forgotten about that have you?”
-[says] (p.95) “I’m sorry, but I ran out of ingredients. There’s nothing in the fridge.”
+[says] (p.95) “I’m sorry, but I …  ran out of ingredients. There’s nothing in the fridge.”
 [says:amasawa-ichika] (p.95) “Eeeh—— Is that so—? You should have reserves~”
 [says] (p.95) “If it has to be today, how about I go and get ready now, and we can buy the ingredients together?”
 [says:amasawa-ichika] (p.95) “I see, you don’t have any ingredients~That’s too bad~”
@@ -7952,7 +7952,7 @@ walk: y1v1 → DONE
 [says:amasawa-ichika] (p.102) “Let me guess what senpai is thinking about now. I played a part in Housen’s plan to get you expelled, which raised the possibility of your expulsion. That’s why you think it’s ridiculous for someone like that to say that they were not an enemy. Is that right? I’ve been underestimated by senpai.”
 [says] (p.102) “I don’t remember underestimating you. I’ve made a full evaluation of you.”
 [says:amasawa-ichika] (p.102) “Really? I don’t think so.”
-[says:karuizawa-kei] (p.102–103) “Wa-wait a minute. You said you were going to get Kiyotaka expelled… What does that mean?”
+[says:karuizawa-kei] (p.102–103) “Wa-wait a minute. You said you were going to get Kiyotaka expelled …  … … What does that mean?”
 [says:amasawa-ichika] (p.103) “Ayanokouji-senpai, haven’t you told your girlfriend about that? Then what about the 20 million point bounty?”
 [says:karuizawa-kei] (p.103) “W-what!? You said 20 million?”
 [says:amasawa-ichika] (p.103) “Let your boyfriend tell you the details later, alright, senpai?”
@@ -8030,7 +8030,7 @@ walk: y1v1 → DONE
 [note] (p.121) Schedule on the screen: July 19 assemble/bus/port boarding; July 20 briefing/exam start; Aug 3 exam end, rankings on the ship, rewards; Aug 4–11 cruise; Aug 16 closing ceremony.
 [says:nishimura-ryuuko] (p.121) “Sensei, based on this schedule, won’t our summer vacation be very short?”
 [says:chabashira-sae] (p.121) “Unfortunately, there will be no making up for that time. The shortening of the summer vacation is final.”
-[says:chabashira-sae] (p.121) “However, as compensation, there’ll be a week’s voyage on the luxury cruise ship. Based on how you think about it, this week should be worth more than the two weeks that you will lose. As I just said, that period of time during the voyage would be free time purely for your enjoyment.”
+[says:chabashira-sae] (p.121) “However, as compensation, there’ll be a week’s voyage on the luxury cruise ship. Based on how you think about it, this week should be worth more than …  …  the two weeks that you will lose. As I just said, that period of time during the voyage would be free time purely for your enjoyment.”
 [says:chabashira-sae] (p.122) “Okay, now back to the topic at hand. Although the uninhabited island survival exam was also held last year, the biggest difference between them can be said to be “scale”. The duration of the exam is two weeks, and the area of the uninhabited island used for this exam will be larger than before.”
 [says:chabashira-sae] (p.122) “Also, not just students from the same year, but all the students from all the school years will be competing against each other.”
 [says:chabashira-sae] (p.122) “The number of people you’ll have to fight will also be higher than ever before.”
@@ -8041,24 +8041,24 @@ walk: y1v1 → DONE
 [says:chabashira-sae] (p.124) “In order to understand the rules of the uninhabited island survival exam, you must understand the groups.”
 [says:chabashira-sae] (p.124) “The next special exam, the uninhabited island survival exam, will have a rule which allows a maximum of 6 people to form a big group to work with each other. Remember this first; if the people you group with are in the same year, you will be allowed to form the group regardless of any class boundaries.”
 [says:horikita-suzune] (p.124) “Which means… the students in the 2nd year, are our allies…?”
-[says:chabashira-sae] (p.124–125) “In the period from today till Friday, July 16 inclusive, approximately four weeks, you have the right to select up to two second-year students of your choice to form a small group of a maximum of 3 people. The small groups form the basis of the big groups. However, although I said you could form the group with whoever you liked, there are still rules that exist. First, as I already said, you can only group up with students from the same grade. You can’t form a group with 1st or 3rd years.”
+[says:chabashira-sae] (p.124–125) “In the period from today till Friday, July 16 inclusive, approximately four …  …  weeks, you have the right to select up to two second-year students of your choice to form a small group of a maximum of 3 people. The small groups form the basis of the big groups. However, although I said you could form the group with whoever you liked, there are still rules that exist. First, as I already said, you can only group up with students from the same grade. You can’t form a group with 1st or 3rd years.”
 [says:chabashira-sae] (p.125) “And then, for the ratio of boys to girls in the next exam, when both boys and girls form a mixed group, the proportion of girls to boys must be at least 2 to 3.”
-[says:chabashira-sae] (p.126) “What happens if you don’t form a group… or if you can’t form a group?”
+[says:chabashira-sae] (p.126) “What happen … s if you don’t form a group… or if you can’t form a group?”
 [says:chabashira-sae] (p.126) “Although there will also be students who think that it would be easier with only one person, there would be nothing better than having as many people as possible. Apart from the advantages of having more people, special privileges are afforded to groups with more people. Therefore, I would not recommend choosing to fight on your own except as a last resort.”
 [says:chabashira-sae] (p.126) “There’s nothing but advantages to forming a group, but there’s also a point worthy of attention. That is, once you’ve established a group, you can’t switch to another group whatever the reason may be.”
 [says:hirata-yousuke] (p.126) “We can’t change groups, but we could form a group of up to 6 for the special exam, right? But so far, we can only form small groups of up to three people. What’s up with that?”
-[says:chabashira-sae] (p.126) “Yeah, that’s the key point. After the special exam starts, the small groups will be allowed to come together. 2 groups of 3 people or 3 groups of 2 people or even 6 lone wolves could form one big group. However, the conditions for forming a group still exist. In a big group of more than 4 people, the percentage of girls in the group must be at least 50%.”
+[says:chabashira-sae] (p.126) “Yeah, that’s the key point. After the special exam starts, the small groups will be allowed to come together. 2 groups of 3 people or 3 groups of 2 p … eople or even 6 lone wolves could form one big group. However, the conditions for forming a group still exist. In a big group of more than 4 people, the percentage of girls in the group must be at least 50%.”
 [says:chabashira-sae] (p.128) “In last year’s uninhabited island survival exam, there were many students who were worried because they didn’t get a chance to show their potential. But this year’s exam can be considered to require ‘all types of abilities’. Academic ability, physical ability, mental ability, communication ability. In addition to the abilities I just listed, there’s a high likelihood that you’ll need to use the abilities in which you’re good at.”
 [says:chabashira-sae] (p.128) “Although forming a group with students who you are close with is important, it’s very likely that the overall ability of the group will directly relate to the results you’ll get on the special exam, so I advise everyone to consider the right talents when forming your groups.”
 [says:chabashira-sae] (p.129) “Suppose that during the special exam, Hirata is met with some kind of accident and could not continue the exam. Of course, if he was participating alone, his group would be disqualified immediately, and will pay the penalties.”
 [says:chabashira-sae] (p.129) “While Hirata will be disqualified and sent back to the ship, the other two members can continue the exam without any issues. And if that group persevered until the very end and got first place, Hirata, as one of the group members, would also be considered as ending up in first place.”
-[says:chabashira-sae] (p.129) “No matter how many people drop out in the middle of the exam, the group can continue to function without any issues until the last person drops out. To put it simply, the more people there are in a group, the more chances they have to survive.”
+[says:chabashira-sae] (p.129) “No matter how many …  people drop out in the middle of the exam, the group can continue to function without any issues until the last person drops out. To put it simply, the more people there are in a group, the more chances they have to survive.”
 [note] (p.130–133) Rewards/penalties printed: 1st 300 CP + 1,000,000 pts + 1 protection point; 2nd 200 CP + 500,000; 3rd 100 CP + 250,000; top-50% 50,000; top-70% 10,000; top-3 classes take 600 CP from bottom-3 groups; bottom-5 groups expelled (relief 6M pts, 1M each for six); mixed-class group rewards split per class (6 firsts 75 CP each).
 [says:horikita-suzune] (p.133) “If you form a group with the other classes, the reward will be split equally among the classes. Wouldn’t that rule result in only choosing people from your own class to form the groups?”
 [says:chabashira-sae] (p.133) “If you decide that there’s no benefit in that, then you can just form groups with students of your own class. That is all.”
 [says:chabashira-sae] (p.135) “These are like items that can affect the uninhabited island survival exam, and everyone will receive one of these. Except for one of them, there is no harm to having one of these. You can more or less understand that by reading the instructions.”
 [says:chabashira-sae] (p.135) “Each student will receive one of these eight cards at random. The cards will be distributed tomorrow morning, and until the special exam begins, you can transfer or trade the card you get, so long as it is within your school year. Anyone can look up who holds what card in the OAA. You can either sell them to students who want to buy them, or you could collect multiple cards by buying them. But the effects of the same cards do not stack, so there’s absolutely no point in getting two identical cards.”
-[says:chabashira-sae] (p.136) “Also, of the three special cards, they will be randomly distributed, and each school year will get only one of each type. Therefore, it is possible that one class might coincidentally end up with all three of the special cards. That is all.”
+[says:chabashira-sae] (p.136) “Also, of the three special cards, they will be randomly distributed, and each school year will get only one of each type. Therefore, it is possible that one …  …  class might …  …  coincidentally end up with all three of the special cards. That is all.”
 [says:chabashira-sae] (p.137) “There’s plenty of time for you to think slowly about what strategy for grouping to use.”
 [rel:horikita-suzune] (p.124–133) She cross-examines the rules from the front row.
 [rel:hirata-yousuke] (p.123–126) He challenges the fairness gap and the small-group rule.
@@ -8079,12 +8079,12 @@ walk: y1v1 → DONE
 [says:kouenji-rokusuke] (p.139) “You seem to be good at hiding yourself. But I can’t see through your truths and lies, Ayanokouji boy. I won’t trust the words of someone like that.”
 [says:kouenji-rokusuke] (p.140) “Fufufu, that’s true. I have no trust in anyone except myself. Rather, it’s more like I have no interest in anyone else.”
 [says:kouenji-rokusuke] (p.140) “That applies to you as well, Ayanokouji boy.”
-[says] (p.140) “What are you going to do in this special exam?”
+[says] (p.140) “What are you …  going to do in this special exam?”
 [says:kouenji-rokusuke] (p.140) “Yeah… Speaking of that, can I join your group?”
 [says] (p.140) “Sorry, but I’ll have to reject you. I don’t have the leisure to accept someone who’s guaranteed to quit at the very beginning.”
 [says:kouenji-rokusuke] (p.140) “Fufufu, is that so, there’s no helping it then.”
 [says] (p.140) “But is that way of thinking really good? Even if you find a group that you can join, you’ll end up having to trust others with your fate of getting expelled.”
-[says:kouenji-rokusuke] (p.140) “That’s true, if I quit without doing anything.”
+[says:kouenji-rokusuke] (p.140) “That’s true, if …  I quit without doing anything.”
 [says:kouenji-rokusuke] (p.140) “What should I do? I’ll carefully think about it until it officially starts.”
 [note] (p.137–141) His mirror-look; his sick-leave loophole priced at 6M — he can't afford it; his “join your group” line half-expecting the refusal.
 [rel:kouenji-rokusuke] (p.137–141) He tries the loophole, sizes Ayanokōji up, and withdraws the idea.
@@ -8099,7 +8099,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.144) “Class A, who is in the leading position, probably wouldn’t be troubled by the mixing together of the classes. It doesn’t matter which group wins, as long as the gap of points between their class and the other classes does not become narrower. On the contrary, the next three classes that rank below them, including us, would like to narrow that gap.”
 [says:sudou-ken] (p.144) “Then how about an alliance between the three classes? If the gap is extended by Class A, let’s first establish an alliance from Class B to D. To be able to narrow that gap with Class A wouldn’t be bad.”
 [says:horikita-suzune] (p.144) “The enemy of my enemy is my friend, is what you mean. It’s not a bad objective to isolate Class A. If it is Ichinose, she probably will accept this proposal.”
-[says:horikita-suzune] (p.144) “But if we propose to isolate Class A, we have to be prepared for Class A’s hostility. Considering Sakayanagi’s character, I think that, even with our Class D, the bottommost class, she’ll still mercilessly use her resources to deal with us.”
+[says:horikita-suzune] (p.144) “But if we propose to isolate Class A, we have to be prepared for Class A’s hostility. Considering Sakayanagi’s character, I think that, even with our Class D, the bottommost class, she’ll still mercilessly use her resources to …  …  deal with us.”
 [says:horikita-suzune] (p.145) “We still need to quietly get closer to the top classes as much as possible.”
 [says:horikita-suzune] (p.145) “Even if the three classes are to fight together, it’s better if it’s not us who makes that proposal.”
 [says:horikita-suzune] (p.145) “It would be of great help if another class raises a similar proposal…”
@@ -8114,12 +8114,12 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.147) “You knew it already, and you still had to mention it deliberately. You’re a nasty guy. So, did anyone contact you? Ayanokouji-kun, who got a perfect score in math? Your cell phone is surprisingly quiet.”
 [says] (p.147) “Unfortunately, my battery’s dead. I haven’t charged it for two or three days.”
 [says:horikita-suzune] (p.148) “If you don’t use your phone frequently, you’ll charge it less often.”
-[says:horikita-suzune] (p.148) “I’ve already instructed them on what they should do earlier. I summed it up in an easy to understand way and sent it to everyone. But you didn’t seem to notice it, since your battery’s dead.”
+[says:horikita-suzune] (p.148) “I’ve already …  instructed them on what they should do earlier. I summed it up in an easy to understand way and sent it to everyone. But you didn’t seem to notice it, since your battery’s dead.”
 [note] (p.148) Her instruction text, printed on the tablet: “Please don’t form a group before Class D reaches an agreement.” / “Nevertheless, if you absolutely want to decide on your group as early as possible, please contact Horikita.”
 [says:horikita-suzune] (p.148) “This is not enforced, because this matter ultimately depends on personal judgement.”
 [says:horikita-suzune] (p.149) “This time’s uninhabited island exam… Can you get first place by yourself?”
 [says] (p.149) “Leave me alone. The only thing we know now is that it’s an uninhabited island special exam.”
-[says:horikita-suzune] (p.149) “I was wondering if you, who got a perfect score in math, even needed a group.”
+[says:horikita-suzune] (p.149) “I was wondering if …  you, who got a perfect score in math, even needed a group.”
 [says:horikita-suzune] (p.149) “If we come in first place, our Class D will gain points for certain. We can let the 1st and 3rd years fight for the 2nd and 3rd place. Better than letting the other 2nd years get it.”
 [says:horikita-suzune] (p.149) “If that is the case, we can form the groups with the core objective of avoiding any dropouts, and forming the groups would be easier .”
 [says] (p.150) “Not everyone can afford to pay the private points for relief.”
@@ -8170,7 +8170,7 @@ walk: y1v1 → DONE
 [says] (p.160) “Really?”
 [says:shiina-hiyori] (p.160) “If you organize the exam description, that’s what it means. Basically, depending on the situation, we might have to work with a group we didn’t expect or want.”
 [says:shiina-hiyori] (p.161) “During the exam there might just be certain conditions that we need to meet in order to combine our groups. That’s what I’m talking about.”
-[says:ishizaki-daichi] (p.162) “Well, ‘course it’s just you. I reckon you’re just as powerful as Ryuuen… Nah, if I had to say, it’s cuz I now think that you’re even better than him. You’re strong as hell at fighting, and your mental agility is even acknowledged by him. Plus, in the spring exam, you got a perfect score in math. That was truly incredible. The group which has Ayanokouji has the exam in the bag. So I see no reason for us not to invite you, eh?”
+[says:ishizaki-daichi] (p.162) “Well, ‘course it’s just you. I reckon you’re just as powerful as Ryuuen… Nah, if I had to say, it’s cuz I now think that you’re even better than him …  … . You’re strong as hell at fighting, and your mental agility is even acknowledged by him. Plus, in the spring exam, you got a perfect score in math. That was truly incredible. The group which has Ayanokouji has the exam in the bag. So I see no reason for us not to invite you, eh?”
 [says:yamada-albert] (p.162) “That was high praise, Ayanokouji-kun, but my opinion is also the same.”
 [says] (p.162) “Then, the third… this proposal, how does it benefit me? If I assume that the top places are taken by Class B, then it’s just you guys that benefit.”
 [says:ishizaki-daichi] (p.162) “The heck, of course you can’t be the only one who doesn’t get any benefits! If we’re promoted to Class A, we’ll give you 20 million points to come to our class, Ayanokouji. Waddya say?”
@@ -8180,7 +8180,7 @@ walk: y1v1 → DONE
 [says:yamada-albert] (p.163) “YES.”
 [says] (p.163) “Was it Ryuuen who decided to invite me? Or is this Ishizaki’s arbitrary decision?”
 [says:ishizaki-daichi] (p.163) “It’s my own decision. Ryuuen knows nothing about it.”
-[says:ishizaki-daichi] (p.163) “Never thought about it! No need to dwell on that! Even so… I’m ready for that.”
+[says:ishizaki-daichi] (p.163) “Never thought …  about it! No need to dwell on that! Even so… I’m ready for that.”
 [says:ishizaki-daichi] (p.164) “The rules allow us to form groups with students from within the same year, right? So I thought Ayanokouji was absolutely necessary in order to form the best team. What’s wrong about that? ”
 [says:ishizaki-daichi] (p.164) “The key point of this special exam is to prevent the 2nd year students’ class points from being taken away by the others. Of course, it’s also necessary to aim for the top spots in the overall ranking. For which, Ayanokouji is indispensable.”
 [says] (p.164) “That’s right.”
@@ -8197,11 +8197,11 @@ walk: y1v1 → DONE
 [says:ishizaki-daichi] (p.165) “Th-then anyone would be fine!”
 [says:shiina-hiyori] (p.165) “If it was up to me to choose the small group Hmm. Ryuuen-kun, Kaneda-kun, and Ayanokouji-kun, those three. It’s fine if Kaneda-kun is replaced by Yamada-kun, but Ryuuen-kun is indispensable.”
 [says:ishizaki-daichi] (p.165) “Don’t be ridiculous! Do you think Ryuuen-kun will ever approve of our plan!?”
-[says:shiina-hiyori] (p.166) “I don’t think he will.”
+[says:shiina-hiyori] (p.166) “I don’t think …  …  …  he will.”
 [says:ishizaki-daichi] (p.166) “Exactly!”
 [says:shiina-hiyori] (p.166) “Kaneda-kun is the same, he won’t ignore Ryuuen-kun’s orders and participate in a strategy he’s unsure of.”
 [says:shiina-hiyori] (p.166) “At this stage, I guess it can’t be helped.”
-[says] (p.166) “I don’t know if I can do what you want, let me think about it for now.”
+[says] (p.166) “I don’t know if …  I can do what you want, let me think about it for now.”
 [note] (p.167) He confirms they moved on him solo — Tsukishiro's shadow covers the exam; he resolves to keep casualties minimal.
 [rel:ishizaki-daichi] (p.152–167) He recruits him; Ayanokōji owes him nothing and takes the meeting seriously.
 [rel:yamada-albert] (p.152–166) The wall of a man; he carries him.
@@ -8233,7 +8233,7 @@ walk: y1v1 → DONE
 [says:ike-kanji] (p.171) “Seriously? Let’s go, let’s go! I’ll go right now!”
 [says:kushida-kikyou] (p.171) “Ah, but just now you seemed to be talking to Shinohara-san about that… Is it alright?”
 [says:shinohara-satsuki] (p.171) “No, it’s alright, he’s been bothering me since he first called out to me. Take him.”
-[says:ike-kanji] (p.171) “You’re the one who’s been bothering me!”
+[says:ike-kanji] (p.171) “You’re the one who’s …  been bothering me!”
 [scene] (p.172–173) Outside, Shinohara stops and stands alone; he passes her; Komiya finds her there (red eyes).
 [says:komiya-kyogo] (p.172) “Satsuki.”
 [says:shinohara-satsuki] (p.172) “Ah, Komiya-kun… Good morning.”
@@ -8243,7 +8243,7 @@ walk: y1v1 → DONE
 [says:shinohara-satsuki] (p.172) “Ah, you got me, huh? Something got in my eyes just now… Oww.”
 [says:komiya-kyogo] (p.172) “By the way, I heard from Sudo-kun that you’re gonna be a regular on the basketball team?”
 [says:shinohara-satsuki] (p.172) “Yeah, it’s been a long time coming.”
-[says:komiya-kyogo] (p.173) “Yeah you always practice until late at night, so I’d be lying if I said you didn’t deserve it.”
+[says:komiya-kyogo] (p.173) “Yeah you always practice until late at night, so I’d be lying if I said you …  …  didn’t deserve it.”
 [scene] (p.174–176) Horikita needles him about the Trial card in class; Ike erupts at Shinohara's Komiya announcement.
 [says:horikita-suzune] (p.174) “You’re having a string of bad luck, huh, drawing the Trial card and all. I’m sure you’re drawing attention again.”
 [says] (p.174) “I, too, was distressed by the same thing this morning.”
@@ -8265,7 +8265,7 @@ walk: y1v1 → DONE
 [says:shinohara-satsuki] (p.176) “Turned someone down? Ah, you’re really pissing me off. You really are a horrible person.”
 [says:ike-kanji] (p.176) “Group… Who did you decide to group up with?”
 [says:shinohara-satsuki] (p.176) “What’s it got to do with you?”
-[says:ike-kanji] (p.176) “Nothing, but I’m just curious, okay?”
+[says:ike-kanji] (p.176) “Nothing, but …  I’m just curious, okay?”
 [says:shinohara-satsuki] (p.176) “Class B’s Komiya-san. He invited me just after the special exam started yesterday.”
 [says:ike-kanji] (p.176) “Ah? Komiya? Komiya, he’s that flashy guy on the basketball team, right? Unbelievable!”
 [says:shinohara-satsuki] (p.176) “He isn’t flashy, and I promised to meet up at the cafe after school to discuss it.”
@@ -8297,7 +8297,7 @@ walk: y1v1 → DONE
 [says] (p.182) “Although I’m happy that you’re willing to assist me, if we don’t make it to the top 30%, you’ll be penalized. You know the risks, right?”
 [says:matsushita-chiaki] (p.183) “I do. That’s why I think it’s important for me to cooperate with you to help you.”
 [says:matsushita-chiaki] (p.183) “…So I’ve been exposed?”
-[says:matsushita-chiaki] (p.183) “I don’t think it’d be difficult to stay in the top ranks if it were you. Even if we don’t end up on the podium, we’re bound to reach the top 30%. It would be more dangerous if I put my friends first and make a half-assed group with them.”
+[says:matsushita-chiaki] (p.183) “I don’t think …  it’d be difficult to stay in the top ranks if it were you. Even if we don’t end up on the podium, we’re bound to reach the top 30%. It would be more dangerous if I put my friends first and make a half-assed group with them.”
 [says:matsushita-chiaki] (p.183) “I thought you’d get snapped up quickly, Ayanokouji-kun.”
 [says] (p.184) “I won’t decide on my group, at least for this month.”
 [says:matsushita-chiaki] (p.184) “You mean that you want to wait and watch how things go?”
@@ -8306,13 +8306,13 @@ walk: y1v1 → DONE
 [says:matsushita-chiaki] (p.185) “Ah, right. Here’s my contact information.”
 [scene] (p.185–186) They spot Shinohara and Komiya laughing in the café; Ike depressed behind them.
 [says] (p.186) “I’ll think about who would be the best person for Ike to group up with if he can’t group with Shinohara.”
-[says:hirata-yousuke] (p.185) “I don’t think it’ll be as bad as it can be, but…”
+[says:hirata-yousuke] (p.185) “I don’t think …  it’ll be as bad as it can be, but…”
 [says] (p.186) “Anyway, I wanted to ask about Komiya first. Why did Komiya invite Shinohara to his group? If we’re not sure about that, we can’t take any action.”
 [scene] (p.187–194) He calls Ishizaki; Nishino corners them; the Komiya investigation; Komiya plans to confess on the island.
 [says:nishino-takeko] (p.187) “What, you said you ‘something’, did you mean a meeting with Ayanokouji-kun?”
 [says:nishino-takeko] (p.187) “You’re rather close with Ishizaki. That’s a surprise.”
 [says:ishizaki-daichi] (p.188) “Hey, you didn’t listen to me at all! This is why you’re ostracized!”
-[says:nishino-takeko] (p.188) “Ostracized? … I’m hardly troubled by that.”
+[says:nishino-takeko] (p.188) “Ostracized …  … ? … I’m hardly troubled by that.”
 [says:nishino-takeko] (p.188) “But I’m curious as to why you and Ayanokouji-kun are secretly meeting, Ishizaki.”
 [says] (p.188) “Our relationship became better after being in the same group in last year’s Mixed Training Camp.”
 [says] (p.188) “I contacted Ishizaki because I wanted to ask him a few questions about Komiya from your class. I decided to meet here because this conversation isn’t meant for others to hear.”
@@ -8322,7 +8322,7 @@ walk: y1v1 → DONE
 [says:ishizaki-daichi] (p.189) “It seems like one of them invited the other to form a group, are they dating?”
 [says:nishino-takeko] (p.189) “Eh? Th-that’s hard to say…”
 [says:nishino-takeko] (p.189) “Even if you ask Ishizaki these things, he wouldn’t understand. You don’t know anything about love, do you?”
-[says:nishino-takeko] (p.189) “At least more than you. Although they’re not dating, Komiya-kun certainly likes Shinohara-san, right?”
+[says:nishino-takeko] (p.189) “At least more than you. Although they’re not dating, Komiya-kun certainly …  …  likes Shinohara-san, right?”
 [says:ishizaki-daichi] (p.190) “Eh? Komiya likes Shinohara, really? Oh, but he did say he liked a girl from another class… although I only vaguely remember it…”
 [says:nishino-takeko] (p.190) “But why do you care about that?”
 [says] (p.190) “I saw the two of them together this morning. Since Komiya called Shinohara by her first name, I felt that they were close, which is why I thought it might be the case.”
@@ -8341,9 +8341,9 @@ walk: y1v1 → DONE
 [says] (p.192) “Although that’s very generous of you, I’d be troubled if you want something in return.”
 [says:ishizaki-daichi] (p.192) “Something in return? I won’t ask for anything. It’s normal to want to help out a friend who is in trouble.”
 [says] (p.192) “In that case, hmmm… Could you first ask about Komiya’s feelings for me, Ishizaki?”
-[says:nishino-takeko] (p.192) “Ayanokouji-kun, you saw the two of them enjoying each other’s company, right? Then let’s just pretend that Ishizaki was the one who witnessed this instead of you and use it to find out whether they’re dating. As a guy who’s not popular with girls, it would simply look like he cared that his friend might have gotten a girlfriend before him, right?”
+[says:nishino-takeko] (p.192) “Ayanokouji-kun, you saw the two of them enjoying each other’s company, right? Then let’s just pretend that Ishizaki was the one who witnessed this instead of you and use it to find out whether they’re dating. As a guy who’s …  …  not popular with girls, it would simply look like he cared that his friend might have gotten a girlfriend before him, right?”
 [says:ishizaki-daichi] (p.193) “… Ah, Komiya? Sorry to call you right before club activities start. Ah no, I’ve got something I wanted to ask you. Did you talk to Shinohara from Class D this morning? … Just as I thought. No, we formed a pact of not getting a girlfriend before telling each other, but I think you might be leaving me behind in that respect.”
-[says:ishizaki-daichi] (p.193) “You’re telling me you aren’t dating? Really? If you’re lying, then you’ll be in trouble later, eh?”
+[says:ishizaki-daichi] (p.193) “You’re telling …  me you aren’t dating? Really? If you’re lying, then you’ll be in trouble later, eh?”
 [says:ishizaki-daichi] (p.193) “Eh… Seriously? Oh, oh, I see, ahh…”
 [says:ishizaki-daichi] (p.194) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
 [says:ishizaki-daichi] (p.194) “What can we do? In the end, there’s no way we can stop it.”
@@ -8355,13 +8355,13 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.195) “I thought we had a serious problem on our hands, since you’re the one coming to consult me… but this isn’t our problem to fix. Besides, I’ve evaluated Ike-kun’s ability as a boy scout to be high, so we should group him with regards to his ability, not his feelings.”
 [says:horikita-suzune] (p.195) “So he could be expelled due to his feelings for Shinohara leading him by the nose?”
 [says] (p.196) “I can’t say that he definitely won’t be.”
-[says:horikita-suzune] (p.196) “… That would be problematic. This is so stupid.”
+[says:horikita-suzune] (p.196) “… That would be …  problematic. This is so stupid.”
 [says] (p.196) “It seems like Komiya and Shinohara have already agreed to form a group, but because of your orders, they haven’t confirmed yet. However, if you give them permission, 9 times out of 10, they’ll form a group. You’re the leader of Class D now, so if you tell Shinohara that grouping up with Komiya is strategically disadvantageous, she can’t forcefully disobey.”
 [says:horikita-suzune] (p.196) “So you’re saying it’s necessary to prevent that? But if we stop them from forming a group, won’t Komiya-kun just change the timing of his confession? Depending on the situation, he might just confess on that same day.”
 [says] (p.196) “We can’t discount that possibility.”
 [says:horikita-suzune] (p.196) “This is a lot more complicated than it sounds. We can’t take care of them until they start dating.”
 [says:horikita-suzune] (p.196) “Why don’t we just make Ike-kun confess? If Shinohara-san accepts, Ike-kun will fight hard to stay at the school no matter what group he’s in, right? On the other hand, if he gets rejected, he can forget about this whole matter and focus on the exam.”
-[says:horikita-suzune] (p.197) “Although you’re good at many things, you don’t seem to be good at romance at all.”
+[says:horikita-suzune] (p.197) “Although you’re good at many things, you don’t seem to be good at …  …  romance at all.”
 [says:horikita-suzune] (p.197) “Unfortunately, it seems like we’re too late.”
 [says:horikita-suzune] (p.197) “Since we’ve already reached this point, we must take measures to prevent Ike-kun’s loss of motivation.”
 [says] (p.197) “Let’s discuss this with Yosuke as well. He’s thinking about the best group for Ike right now.”
@@ -8377,7 +8377,7 @@ walk: y1v1 → DONE
 [says:karuizawa-kei] (p.199) “Just answering that there’s a 50% chance is already super impressive…”
 [says] (p.199) “Anyway, the thing you should be worried about isn’t who you should group up with, Kei.”
 [says:karuizawa-kei] (p.199) “Right, this special exam does involve expulsion. If you are in the bottom 5 groups, you’ll have to face that penalty. That’s why you can’t randomly choose who you group up with.”
-[says:karuizawa-kei] (p.200) “Yeah. That’s why, I wanted to group up with you, Kiyotaka… I hoped you could protect me.”
+[says:karuizawa-kei] (p.200) “Yeah. That’s why, I wanted to group up with you, Kiyotaka… I hoped you …  …  could protect me.”
 [says] (p.200) “Even if I don’t protect you, there’s still a way to save yourself, right? That is, to keep a deposit of the amount of private points needed to nullify the expulsion.”
 [says:karuizawa-kei] (p.200) “That’s true, but even if you do form a group of 6 students in the exam, you’ll still need 1 million points to avoid expulsion, right? I don’t have that much.”
 [says] (p.200) “Um… 240,000 points…. E-even so, I’m considered to be someone who has saved up a lot recently!”
@@ -8404,7 +8404,7 @@ walk: y1v1 → DONE
 <!-- walk: y2v2 Ch.3 → p.218 -->
 
 ### y2v2 p.219–242 — The 1st-year gathering (not present)
-[note] (p.219–242) He is not present in either the 1st-year representatives’ gathering or the Housen–Amasawa–Nanase café scene; those scenes belong to Yagami, Utomiya, Takahashi, Housen, Nanase and Amasawa — see their ledgers.
+[note] (p.219–242) He is not present in either the 1st-year representatives’ gathering or the Housen–Amasawa–Nanase café scene; those scenes belong to Yagami, Utomiya, Takahashi, Housen, Nanase and Amasawa — see their person records.
 
 ### y2v2 p.243–262 — Kushida; the first-year defection
 [scene] (p.243–244) After school the Ayanokōji group gathers near his seat; Kushida calls him; the 1st year wants a meeting.
@@ -8439,7 +8439,7 @@ walk: y1v1 → DONE
 [says:yagami-takuya] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students.”
 [says:kushida-kikyou] (p.254) “Eh?! To get Ayanokouji-kun expelled?”
 [says:yagami-takuya] (p.254) “The special exam was to get the 2nd year student Ayanokouji-senpai expelled from the school.”
-[says:yagami-takuya] (p.255) “The deadline was the beginning of the 2nd semester, and you could use any means. In addition, we weren’t allowed to tell anyone about the special exam. However, since Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
+[says:yagami-takuya] (p.255) “The deadline was the beginning of the 2nd semester, and you could use any means. In addition, we weren’t allowed to tell anyone about the special exam … . However, since Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
 [says:yagami-takuya] (p.255) “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
 [says:kushida-kikyou] (p.255) “Th-that’s a lot of points… I-is that sort of thing allowed?”
 [says:kushida-kikyou] (p.255) “Isn’t it a bit strange that the student council president is conducting this special exam on his own…?”
@@ -8458,7 +8458,7 @@ walk: y1v1 → DONE
 [says:yagami-takuya] (p.258) “It’s fine, Kushida-senpai. I didn’t hear about any punishment for talking about this to anyone.”
 [says:yagami-takuya] (p.258) “Plus I’m already prepared to be hated by the 1st years, because I’m going to have to face the other classes sooner or later.”
 [says:yagami-takuya] (p.259) “Generally speaking, Housen-san from Class 1-D is someone you need to be alert against. His complete disregard for the rules is very troublesome.”
-[says:yagami-takuya] (p.259) “I feel like this isn’t something I should be telling you senpais. If I list the names of who to watch out for, they’ll of course be marked by the senpais. While I think that is important for you to know, I don’t think it’s fair to them if I tell you, although I already marked Housen-kun.”
+[says:yagami-takuya] (p.259) “I feel like this isn’t something I should be telling you senpais. If I list the names of who to watch out for, they’ll of course be marked by the senpais. While I think that is important for you to know, I don’t think it’s fair to them …  …  if I tell you, although I already marked Housen-kun.”
 [says:yagami-takuya] (p.260) “I’ll try to investigate in the next special exam. Once I’m sure that he’s a threat, I’ll tell you, Ayanokouji-senpai.”
 [says:kushida-kikyou] (p.260) “Be careful, Yagami-kun.”
 [says:yagami-takuya] (p.260) “Yeah. Also… after the exam on the uninhabited island is over, can I meet you alone for a bit? I’d like to talk to you, Kushida-senpai.”
@@ -8469,7 +8469,7 @@ walk: y1v1 → DONE
 [says:kushida-kikyou] (p.262) “It doesn’t make a difference either way.”
 [says] (p.262) “In other words—”
 [says:kushida-kikyou] (p.262) “I’ll have to get rid of him as soon as possible. Yagami-kun, that is.”
-[says] (p.263) “It would be harder to eliminate an underclassman compared to Horikita and I.”
+[says] (p.263) “It would be hard … er to eliminate an underclassman compared to Horikita and I.”
 [says:kushida-kikyou] (p.263) “That only depends on the method.”
 [says:kushida-kikyou] (p.263) “The more arrogant you are about your own excellence, the more simple you are. Horikita-san and youself are no exception to this.”
 [says:kushida-kikyou] (p.263) “Didn’t you agree to a ceasefire?”
@@ -8506,7 +8506,7 @@ walk: y1v1 → DONE
 [says:tsubaki-sakurako] (p.269) “Because we were also aiming for the 20 million point bounty.”
 [says] (p.269) “But, even if I had partnered up with Tsubaki, you still wouldn’t have been able to force me out of the school.”
 [says:utomiya-riku] (p.270) “We can’t answer that.”
-[says:utomiya-riku] (p.270) “If we get you expelled, news of that’ll spread throughout the school. We’ll be enemies with the 2nd year Class D. Them hating the people who got their classmate expelled is to be expected.”
+[says:utomiya-riku] (p.270) “If we get you expelled, news of that’ll spread throughout the school. We’ll be enemies with the 2nd year Class D. Them hating the people who got their …  …  classmate expelled is to be expected.”
 [says] (p.270) “Then wouldn’t it be the same if Housen was expelled?”
 [says:utomiya-riku] (p.270) “No. The reason for that is because all the Class 1-D students are afraid of Housen. Rather, there’re a lot of students who wish that he be expelled.”
 [says:utomiya-riku] (p.270) “Anyway, remember. Please remember this. The only thing we care about is defeating Housen.”
@@ -8552,7 +8552,7 @@ walk: y1v1 → DONE
 [scene] (p.278–284) Kiryūin Fuūka intervenes on the bench; Ayanokōji is left alone with her.
 [says:kiryuin-fuuka] (p.278) “Kiriyama.”
 [says:kiryuin-fuuka] (p.279) “Fufu. You’re with an interesting underclassman, so I said hello.”
-[says:kiryuin-fuuka] (p.279) “Ayanokouji Kiyotaka, right? I heard you became famous after a perfect score on a difficult math test.”
+[says:kiryuin-fuuka] (p.279) “Ayanokouji …  …  Kiyotaka, right? I heard you became famous after a perfect score on a difficult math test.”
 [says:kiriyama-ikuto] (p.278) “What do you want from me?”
 [says:kiriyama-ikuto] (p.278) “What are you doing, Ayanokouji? We’re leaving.”
 [says:kiryuin-fuuka] (p.279) “You won’t get anything from being with a guy like that, you know?”
@@ -8569,13 +8569,13 @@ walk: y1v1 → DONE
 [says:kiryuin-fuuka] (p.283) “I’m not interested in the system of aiming for Class A of this school. Although the biggest selling point of the school is that you can go to whatever university you want and find employment wherever you want, I believe I can achieve whatever I want with my own abilities. I simply chose to come to this school on a whim.”
 [says:kiryuin-fuuka] (p.283) “Would you have chosen this place if you knew before you came here that the structure of this school is centered around cooperation?”
 [says:kiryuin-fuuka] (p.284) “That’s not the case. I like this school. In fact, I haven’t had a single complaint about life here since I arrived. The point system is also very pleasant.”
-[says:kiryuin-fuuka] (p.284) “It seems that you are fine with being hated by others.”
-[says:kiryuin-fuuka] (p.284) “Other people’s evaluations don’t matter to me.”
+[says:kiryuin-fuuka] (p.284) “It seems that …  …  you are fine with being hated by others.”
+[says:kiryuin-fuuka] (p.284) “Other people’s …  …  evaluations don’t matter to me.”
 [says:kiryuin-fuuka] (p.284) “I wanted to ask you something, but instead you’re the one asking the questions.”
 [says:kiryuin-fuuka] (p.284) “It’s about time you told me about yourself.”
 [says:kiryuin-fuuka] (p.284) “Why me? There are many students who excel in their studies.”
 [says:kiryuin-fuuka] (p.284) “Are you planning to get first place in the uninhabited island exam?”
-[says:kiryuin-fuuka] (p.284) “There’s no student who doesn’t want to be first. Except maybe, for people like you, Kiryuuin-senpai.”
+[says:kiryuin-fuuka] (p.284) “There’s no student who doesn’t want to be first. Except maybe, for people …  …  like you, Kiryuuin-senpai.”
 [says:kiryuin-fuuka] (p.284) “Letting aside first place, I’m also one of the people who is aiming for a top spot. If I get a high position, I can get private points. I’m the type to spend whatever I have, so I’m always short of money.”
 [says:kiryuin-fuuka] (p.284) “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right? The upcoming special exam will determine the top student at the school.”
 [says:kiryuin-fuuka] (p.284) “Whether my interest in you disappears or not, it all depends on what you do in the uninhabited island exam.”
@@ -8588,7 +8588,7 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.271–285) His presence looms over all of it.
 
 ### y2v2 p.286–292 — Nagumo and Kiryūin (he is not present)
-[note] (p.286–292) Ayanokōji leaves before this scene; it belongs to Kiryūin and Nagumo; recorded in their ledgers.
+[note] (p.286–292) Ayanokōji leaves before this scene; it belongs to Kiryūin and Nagumo; recorded in their person records.
 
 <!-- walk: y2v2 Ch.4 → p.292 -->
 
@@ -8597,8 +8597,8 @@ walk: y1v1 → DONE
 [says:kanzaki-ryuuji] (p.295) “Going to Keyaki mall at this time?”
 [says] (p.296) “It seems like most of the people in Class D have formed groups, but you’re still on your own?”
 [says:kanzaki-ryuuji] (p.296) “Unlike the others, I don’t have many friends, so.”
-[says:kanzaki-ryuuji] (p.296) “You and Horikita, are both of you going to act as reinforcements for your class’s groups? After all, excellent students could leave their mark in any group during the exam.”
-[says:kanzaki-ryuuji] (p.296) “Ayanokouji, Ichinose seems to trust you a lot, but can ‘we’ really trust you?”
+[says:kanzaki-ryuuji] (p.296) “You and Horikita … , are both of you going to act as reinforcements for your class’s groups? After all, excellent students could leave their mark in any group during the exam.”
+[says:kanzaki-ryuuji] (p.296) “Ayanokouji … , Ichinose seems to trust you a lot, but can ‘we’ really trust you?”
 [says] (p.296) “If I said you could trust me, would you, Kanzaki?”
 [says:kanzaki-ryuuji] (p.296) “I’d consider it, at least.”
 [says] (p.297) “Although we’ve broken off the alliance, I don’t consider Ichinose to be an enemy.”
@@ -8671,7 +8671,7 @@ walk: y1v1 → DONE
 [says:ryuuen-kakeru] (p.307) “A serious negotiation? You knew that was impossible from the start, didn’t you? But you still came. Were you asked to spy for Class A?”
 [says:ryuuen-kakeru] (p.307) “You’re a dead man, and you’re looking for a chance to come back to life. Am I right?”
 [says:katsuragi-kouhei] (p.308) “Whether or not that’s true, it has nothing to do with you.”
-[says:katsuragi-kouhei] (p.308) “It was a fair contract, we got 200 points from your class, and in return Class-A pays off the loan. All of my actions were only to lead Class-A along a better path.”
+[says:katsuragi-kouhei] (p.308) “It was a fair contract, we got 200 points from your class, and in return Class-A pays off the loan. All of my actions were only to lead Class-A along a …  …  better path.”
 [says:ryuuen-kakeru] (p.308) “Sure, if you only look at the numbers. However, what about the psychological impact that your class suffers every month? Why should all of you have to share your private points with us for so long?”
 [says:ryuuen-kakeru] (p.308) “Come to Class B, Katsuragi.”
 [says:katsuragi-kouhei] (p.308) “Of course, we’ll pay for the points you don’t have.”
@@ -8814,7 +8814,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.334) “But this is a rare opportunity. I have managed to get him to promise us his future commitment in the end.”
 [says:horikita-suzune] (p.335) “If he actually could get a rank in the top spots, it would be great, we could surpass the other classes like that.”
 [says:horikita-suzune] (p.335) “We come in first, and Kouenji comes in 2nd or 3rd. If we can do that, our class will gain a huge advantage, and we’ll be able to redeem ourselves after falling behind up to now.”
-[says:horikita-suzune] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate what Kouenji is going to do.”
+[says:horikita-suzune] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate …  …  what Kouenji is going to do.”
 [says:horikita-suzune] (p.335) “That’s true, but to easily take the top spot is a completely different matter altogether.”
 [note] (p.333–335) The first-place race: Sakayanagi, Ichinose, Ryuuen, Housen, Amasawa, Nagumo, Kiriyama, Kiryūin — and him. He aims for a high spot.
 [rel:yukimura-teruhiko] (p.327–328) The private exchange before the storm.
@@ -8832,7 +8832,7 @@ walk: y1v1 → DONE
 [says:nanase-tsubasa] (p.336) “It’s confirmed that he isn’t an easy opponent to beat. No, it’s something we’ve known from the very beginning.”
 [says:tsukishiro] (p.337) “I’ll cooperate as much as I can. That being said, I can’t possibly provide any more support than this.”
 [says:nanase-tsubasa] (p.337) “You mean you’ve been forced to be unreasonable?”
-[says:tsukishiro] (p.337) “Yes. I’ve been quite unreasonable with pressuring for an increase in the budget for this special exam. More importantly, I’ve also been forced to silence the school authorities about the strict rules I placed for the exam, after all.”
+[says:tsukishiro] (p.337) “Yes. I’ve been quite unreasonable with pressuring for an increase in the budget for this special exam. More importantly, I’ve also been forced to silence the school authorities about the strict rules I placed for the exam, after …  …  all.”
 [says:tsukishiro] (p.337) “Probably. The allegations against Chairman Sakayanagi should have cleared by now. I can see my role here ending soon. That’s why I’ve prepared some splendid fireworks for the end. I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?”
 [says:nanase-tsubasa] (p.337) “—Yes. I won’t hesitate anymore.”
 [says:tsukishiro] (p.337) “That’s good to hear. In that case, you’re free to go berserk during this… special exam. Once everything is taken care of, you will also return to your previous life. We will both return to the ‘place’ we are supposed to be.”

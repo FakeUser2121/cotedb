@@ -1962,7 +1962,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 ### y2v2 p.36–39 — Karuizawa protects Horikita
 [scene] (p.36–37) She strikes with a casual statement that pulls the room off Ayanokōji and onto Horikita.
-[says] (p.37) “Horikita-san really is good, isn’t she? I’m a little moved.”
+[says] (p.37) “Horikita-san …  …  really is good, isn’t she? I’m a little moved.”
 [says] (p.37) “Don’t you think so as well, Shinohara-san?”
 [scene] (p.39) Laughs with the girls at the center as the class empties after the meeting.
 [trait] (p.15–39) Fast, insincere on the surface, shrewd in the play: she senses the temperature of the room and shifts the spotlight when it matters.
@@ -1989,7 +1989,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [scene] (p.87–89) Tea becomes café-au-lait; they study as cover; the chit-chat thins; the room changes temperature.
 [says] (p.87) “By the way, I was thinking of telling you this when we met, but Kiyotaka, you have a big responsibility.”
 [says] (p.87) “Because you’ve gotten a full score in math, it’s become harder for me to come out with the dating thing.”
-[says] (p.88) “It can’t be helped… It’s annoying, making it feel like I’m dating you because of your status.”
+[says] (p.88) “It can’t be helped … … It’s annoying, making it feel like I’m dating you because of your status.”
 [says] (p.88) “No, I’m not saying it’s bad either…”
 [says] (p.88) “A-am I cute?”
 [says] (p.89) “Ahhh… me too, I also think you’re super handsome, Kiyotaka.”
@@ -2003,7 +2003,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.98) “It was just a precaution because we didn’t tell anyone that we were dating yet.”
 [scene] (p.100–108) Amasawa probes the couple; the contraceptive is produced; the 20-million bounty drops on the table; Kei panics and hears it all.
 [says] (p.100) “Well isn’t that normal! Anyway, why did you come here all of a sudden!”
-[says] (p.102–103) “Wa-wait a minute. You said you were going to get Kiyotaka expelled… What does that mean?”
+[says] (p.102–103) “Wa-wait a minute. You said you were going to get Kiyotaka expelled …  … … What does that mean?”
 [says] (p.103) “W-what!? You said 20 million?”
 [says] (p.105) “…I’ll do it.”
 [says] (p.105) “Argh! I got it, I got it!”
@@ -2030,7 +2030,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.199) “So, so… even you don’t think you can win, Kiyotaka?”
 [says] (p.199) “Just answering that there’s a 50% chance is already super impressive…”
 [says] (p.199) “Right, this special exam does involve expulsion. If you are in the bottom 5 groups, you’ll have to face that penalty. That’s why you can’t randomly choose who you group up with.”
-[says] (p.199) “Yeah. That’s why, I wanted to group up with you, Kiyotaka… I hoped you could protect me.”
+[says] (p.199) “Yeah. That’s why, I wanted to group up with you, Kiyotaka… I hoped you …  …  could protect me.”
 [scene] (p.200–202) The math of her survival; his Trial card is the way out.
 [says] (p.200) “That’s true, but…”
 [says] (p.200) “That’s true, but even if you do form a group of 6 students in the exam, you’ll still need 1 million points to avoid expulsion, right? I don’t have that much.”

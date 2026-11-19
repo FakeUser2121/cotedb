@@ -26,7 +26,7 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [says] (p.278) “Kiriyama. Can you not hear me?”
 [says:kiriyama-ikuto] (p.278) “Speak of the devil…”
 [says] (p.278) “Fufu. You’re with an interesting underclassman, so I said hello.”
-[says] (p.279) “Ayanokouji Kiyotaka, right? I heard you became famous after a perfect score on a difficult math test.”
+[says] (p.279) “Ayanokouji …  …  Kiyotaka, right? I heard you became famous after a perfect score on a difficult math test.”
 [says:kiriyama-ikuto] (p.279) “What are you doing, Ayanokouji? We’re leaving.”
 [says] (p.279) “You won’t get anything from being with a guy like that, you know?”
 [says:kiriyama-ikuto] (p.279) “Staying with you is meaningless.”
@@ -42,13 +42,13 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [says] (p.283) “I’m not interested in the system of aiming for Class A of this school. Although the biggest selling point of the school is that you can go to whatever university you want and find employment wherever you want, I believe I can achieve whatever I want with my own abilities. I simply chose to come to this school on a whim.”
 [says] (p.283) “Would you have chosen this place if you knew before you came here that the structure of this school is centered around cooperation?”
 [says] (p.284) “That’s not the case. I like this school. In fact, I haven’t had a single complaint about life here since I arrived. The point system is also very pleasant.”
-[says] (p.284) “It seems that you are fine with being hated by others.”
-[says] (p.284) “Other people’s evaluations don’t matter to me.”
+[says] (p.284) “It seems that …  …  you are fine with being hated by others.”
+[says] (p.284) “Other people’s …  …  evaluations don’t matter to me.”
 [says] (p.284) “I wanted to ask you something, but instead you’re the one asking the questions.”
 [says] (p.284) “It’s about time you told me about yourself.”
 [says] (p.284) “Why me? There are many students who excel in their studies.”
 [says] (p.284) “Are you planning to get first place in the uninhabited island exam?”
-[says:ayanokouji-kiyotaka] (p.284) “There’s no student who doesn’t want to be first. Except maybe, for people like you, Kiryuuin-senpai.”
+[says:ayanokouji-kiyotaka] (p.284) “There’s no student who doesn’t want to be first. Except maybe, for people …  …  like you, Kiryuuin-senpai.”
 [says] (p.284) “Letting aside first place, I’m also one of the people who is aiming for a top spot. If I get a high position, I can get private points. I’m the type to spend whatever I have, so I’m always short of money.”
 [says] (p.284) “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right? The upcoming special exam will determine the top student at the school.”
 [says] (p.284) “Whether my interest in you disappears or not, it all depends on what you do in the uninhabited island exam.”
@@ -65,7 +65,7 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [says] (p.286) “If you’re getting mad at this, then that means that you know what I’m talking about. Right now, no one should know who’s the loyal dog and who’s the owner, as I don’t remember declaring who was who. I’m simply stating from the perspective of an outsider who doesn’t know anything. Why? Because the one who left and as returned is you, Kiriyama, and so that fits the image of a loyal dog.”
 [says:kiriyama-ikuto] (p.286) “This woman’s a real pain in the ass…”
 [says:nagumo-miyabi] (p.286) “You’ve got a dirty mouth, Kiriyama, it doesn’t suit the image of a serious vice president.”
-[says] (p.286) “Agreed. So can the two of you disappear from my sight right now? It’s a waste of my precious time.”
+[says] (p.286) “Agreed. So can the two of you disappear from my sight right now? It’s a …  …  waste of my precious time.”
 [says] (p.287) “A beloved comrade? You didn’t say that with any sort of emotion at all.”
 [says:nagumo-miyabi] (p.287) “That’s just your imagination.”
 [says] (p.287) “Well. What does the student council president want from me? I thought I’d never see you again.”

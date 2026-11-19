@@ -160,7 +160,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says] (p.254) “It all started when I was contacted by President Nagumo of the student council. He instructed that one or two representatives were to be sent from each class and would secretly gather in the student council room. Actually, we were summoned there shortly after entering the school.”
 [says] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students.”
 [says] (p.254) “The special exam was to get the 2nd year student Ayanokouji-senpai expelled from the school.”
-[says] (p.255) “The deadline was the beginning of the 2nd semester, and you could use any means. In addition, we weren’t allowed to tell anyone about the special exam. However, since Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
+[says] (p.255) “The deadline was the beginning of the 2nd semester, and you could use any means. In addition, we weren’t allowed to tell anyone about the special exam … . However, since Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
 [says] (p.255) “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
 [says] (p.255) “I too think the problem lies in how I expressed it as. I’m calling it a special test, but it would be easier to understand if you think of it as a challenge that President Nagumo made up on his own and gave to the first year students.”
 [says] (p.256) “Wh-why is it Ayanokouji-kun? Are there no other students apart from him?”
@@ -174,7 +174,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says] (p.258) “Plus I’m already prepared to be hated by the 1st years, because I’m going to have to face the other classes sooner or later.”
 [says] (p.259) “Yeah.”
 [says] (p.259) “Generally speaking, Housen-san from Class 1-D is someone you need to be alert against. His complete disregard for the rules is very troublesome.”
-[says] (p.259) “I feel like this isn’t something I should be telling you senpais. If I list the names of who to watch out for, they’ll of course be marked by the senpais. While I think that is important for you to know, I don’t think it’s fair to them if I tell you, although I already marked Housen-kun.”
+[says] (p.259) “I feel like this isn’t something I should be telling you senpais. If I list the names of who to watch out for, they’ll of course be marked by the senpais. While I think that is important for you to know, I don’t think it’s fair to them …  …  if I tell you, although I already marked Housen-kun.”
 [says] (p.260) “I’ll try to investigate in the next special exam. Once I’m sure that he’s a threat, I’ll tell you, Ayanokouji-senpai.”
 [says] (p.260) “Yeah. Also… after the exam on the uninhabited island is over, can I meet you alone for a bit? I’d like to talk to you, Kushida-senpai.”
 [says] (p.261) “No problem. I felt bad that you were the only one at a disadvantage, Ayanokouji-senpai.”

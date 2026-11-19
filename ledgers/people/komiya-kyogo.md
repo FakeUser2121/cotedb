@@ -145,7 +145,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [says] (p.172) “What’s wrong? Are you crying?”
 [says] (p.172) “Well, because your eyes are red.”
 [says] (p.172) “By the way, I heard from Sudo-kun that you’re gonna be a regular on the basketball team?”
-[says] (p.173) “Yeah you always practice until late at night, so I’d be lying if I said you didn’t deserve it.”
+[says] (p.173) “Yeah you always practice until late at night, so I’d be lying if I said you …  …  didn’t deserve it.”
 [scene] (p.185–186) He keeps her company at the café; Ike can't watch.
 [note] (p.168–193) He invited her the day after the rules dropped; the group is him, her and Kinoshita Minori of Class B; he told Ishizaki he'll confess on the island.
 [rel:shinohara-satsuki] (p.172–177) He is the one who gets the seat beside her.

@@ -4925,13 +4925,13 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.30) “I’m planning to explain the same thing for the people who aren’t here now. To solve the mystery of Ayanokouji-kun’s perfect score, we’ll have to go back to spring of last year.”
 [says] (p.30) “We have since switched seats, but it must still be fresh in your memory that until recently, we were seatmates, right? Not long after school started, when I was talking to Ayanokouji-kun, I happened to find out that he was extremely good at academics… Even better than me.”
 [says] (p.30) “Of course. That’s because my strategy was already in motion before the first exam was completed.”
-[says] (p.30) “From the very start he had the knowledge to get perfect scores in math. As I knew this before anyone else, I thought up a little strategy.”
+[says] (p.30) “From the very …  start he had the knowledge to get perfect scores in math. As I knew this before anyone else, I thought up a little strategy.”
 [says] (p.31) “Last April, we of Class D were overjoyed to have received such a large sum of money. I’m ashamed to say that I was also one of them. But I had a feeling something unexpected was going to happen in turn. During that time, I asked Ayanokouji-kun, who sat next to me, if he could hold back in the exam. You could call this a reserve tactic or a trump card. Of course, I told him to keep it at a level which wouldn’t hold the class back. And that’s how his academic ability got rated C by the school.”
 [says] (p.32) “That, huh. If we were only looking at the class points in front of us, that would be fine. But if he had gone all out from the start – what do you think would’ve happened to Ayanokouji by now? No, to put it more accurately, what do you think his future would have been like?”
 [says] (p.32) “Let us go by what Yukimura-kun said, and assume that Ayanokouji-kun had gone all out since April of last year. If that was the case, then by May, Sakayanagi-san, Ichinose-san, and Ryuuen-kun would definitely have learned of his name. If they ignored the person who was the best in math in the entire year, he would become an obstacle to them sooner or later. It wouldn’t be surprising if someone moved to try and get him expelled.”
-[says] (p.32–33) “Correct. Anything can happen in this school. After all, there was even an … exam which forcibly expelled people through an intra-class vote. And in fact, at that time, Ayanokouji-kun was at risk of dropping out due to Sakayanagi-san’s strategy. Although that was when he was completely average and was coincidentally chosen as a patsy, it’s possible that it really was aimed at him.”
+[says] (p.32–33) “Correct. Anything can happen in this school. After all, there was even an …  …  … exam which forcibly expelled people through an intra-class vote. And in fact, at that time, Ayanokouji-kun was at risk of dropping out due to Sakayanagi-san’s strategy. Although that was when he was completely average and was coincidentally chosen as a patsy, it’s possible that it really was aimed at him.”
 [says] (p.33) “I wonder. In order to avoid getting expelled, Yamauchi would have been more careful when making his moves, and Sakayanagi-san’s strategy would have been more complex and harder to see through. Besides, Yamauchi-kun had at least had more people close to him than Ayanokouji-kun. As the things put on both ends of the scales would be different, opinions would follow that change.”
-[says] (p.33–34) “No, there’s a huge difference between showing his strength a year ago and revealing his strength now. In the past year, the unity of our Class D had … grown by leaps and bounds, and each of us has grown in individual strength. We’ve become able to make the right decisions.”
+[says] (p.33–34) “No, there’s a huge difference between showing his strength a year ago and revealing his strength now. In the past year, the unity of our Class D had …  …  … grown by leaps and bounds, and each of us has grown in individual strength. We’ve become able to make the right decisions.”
 [says] (p.34) “It isn’t just Ayanokouji-kun. Let’s say, yes… He isn’t here, but it might be easier to understand with the example of Sudo-kun. This time last year, he was hard to look at, and undoubtedly the biggest burden to our class. But what about now? Although there’s still remnants of his wild nature left over, he has improved dramatically. In terms of academic ability, he’s shown outstanding growth. And with his already excellent physical abilities combined, his OAA evaluation as of May is even higher than yours, Yukimura-kun.”
 [says] (p.34) “When we first entered this school, did either of us have the strength or willingness to protect Sudo-kun?”
 [says] (p.34) “But now, if someone has their attention on Ayanokouji-kun, we could now work together to protect him. That is how I have judged it. And that’s why I’ve made Ayanokouji-kun’s true strength public, and started to raise the overall strength of our class.”
@@ -4965,18 +4965,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.70) “Yes. Although I tried to confirm it with Chabashira-sensei tactfully, she didn’t show signs she knew about it.”
 [says] (p.71) “I see. It would make sense if an individual set the bounty on you.”
 [says] (p.71) “In other words, there’s someone in the same or a higher grade that had prepared that many points?”
-[says] (p.71) “–The student council president.”
+[says] (p.71) “–The student …  council president.”
 [says] (p.71) “Could it be that President Nagumo might have something to do with this?”
 [note] (p.72) “Without realizing it, maybe you aroused Nagumo’s jealousy. President Nagumo had always been interested in brother’s affairs, because he had always been only interested in your affairs. Even if he has complicated feelings like me, it’s not strange.” — speaker untagged by the translation (Nagumo's name precedes it; Horikita's rapport with Ayanokōji says this is hers); unassigned as printed.
 [says] (p.72) “Although it’s a bit late, this is the topic of today’s conversation with you. I’m preparing after school to go to the student council, and ask President Nagumo about joining it.”
 [says] (p.72) “But if I can’t get Nagumo’s approval, it’s not my responsibility.”
 [says] (p.72) “…You did say that.”
-[says] (p.72–73) “The reason why you wanted me to join the student council… It was so I … could spy on President Nagumo, but actually, that’s not the only reason, right?”
-[says] (p.73) “What the student council is doing now, that’s certainly the complete opposite.”
+[says] (p.72–73) “The reason why you wanted me to join the student council… It was so I …  …  … could spy on President Nagumo, but actually, that’s not the only reason, right?”
+[says] (p.73) “What the student council …  is doing now, that’s certainly the complete opposite.”
 [says] (p.73) “So that’s why you won’t give me specific instructions?”
 [says] (p.73) “Then why do you need me to join, if the only thing you want is to see Nagumo’s reforms? There’s no need for me to monitor the student council at all, then!”
 [says] (p.73) “There’s still some things I’m not satisfied with, but I’ll put it as convenient.”
-[says] (p.74) “I don’t think it’s good for me to ask anything of you since I lost the match, but will you come with me?”
+[says] (p.74) “I don’t think …  it’s good for me to ask anything of you since I lost the match, but will you come with me?”
 [says] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
 [says] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
 [note] (p.65–74) The 20-million bounty reasoning lands on Nagumo by elimination; she's the one who says it aloud.
@@ -4992,12 +4992,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.76) “What condition?”
 [says] (p.76) “I had an argument with my brother in the past, and so I chose to enter this school to settle them. But my relationship with my brother hasn’t changed since I’ve entered this school.”
 [says] (p.76) “My brother couldn’t possibly approve of me who hadn’t grown in the slightest. As a result, I hadn’t spoken to him properly this year, at least up until his graduation.”
-[says] (p.76–77) “Yes. At the very last second, I’ve reconciled with him. And then, for the first time, I became interested in the student council that my brother devoted … his school life to. Although I’ve taken a long detour, I also want to walk the same path my brother has.”
+[says] (p.76–77) “Yes. At the very last second, I’ve reconciled with him. And then, for the first time, I became interested in the student council that my brother devoted …  …  … his school life to. Although I’ve taken a long detour, I also want to walk the same path my brother has.”
 [says] (p.77) “That’s right. Just like the road my brother walked, I also want to become student council president.”
-[says] (p.77) “I don’t think it’s a distance that can’t be recovered.”
+[says] (p.77) “I don’t think …  it’s a distance that can’t be recovered.”
 [says] (p.78) “Do as you wish.”
 [says] (p.78) “Of course.”
-[says] (p.80) “Don’t worry. I don’t plan to graduate outside of Class A.”
+[says] (p.80) “Don’t worry. I …  don’t plan to graduate outside of Class A.”
 [says] (p.82) “I understand.”
 [note] (p.77–78) Nagumo sees through the half-truths but accepts them; Kiriyama lingers as her handler-ish vice president; “Honami” is the 1st 2nd-year council member she's compared against — an Ichinose mention.
 [trait] (p.75–82) She sells the council a truth-shaped motive; membership earned by admission of intent, and she signs the record as Class D.
@@ -5020,10 +5020,10 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.147) “No, I didn’t.”
 [says] (p.147) “You knew it already, and you still had to mention it deliberately. You’re a nasty guy. So, did anyone contact you? Ayanokouji-kun, who got a perfect score in math? Your cell phone is surprisingly quiet.”
 [says] (p.148) “If you don’t use your phone frequently, you’ll charge it less often.”
-[says] (p.148) “I’ve already instructed them on what they should do earlier. I summed it up in an easy to understand way and sent it to everyone. But you didn’t seem to notice it, since your battery’s dead.”
+[says] (p.148) “I’ve already …  instructed them on what they should do earlier. I summed it up in an easy to understand way and sent it to everyone. But you didn’t seem to notice it, since your battery’s dead.”
 [says] (p.148) “This is not enforced, because this matter ultimately depends on personal judgement.”
 [says] (p.149) “This time’s uninhabited island exam… Can you get first place by yourself?”
-[says] (p.149) “I was wondering if you, who got a perfect score in math, even needed a group.”
+[says] (p.149) “I was wondering if …  you, who got a perfect score in math, even needed a group.”
 [says] (p.149) “If we come in first place, our Class D will gain points for certain. We can let the 1st and 3rd years fight for the 2nd and 3rd place. Better than letting the other 2nd years get it.”
 [says] (p.149) “If that is the case, we can form the groups with the core objective of avoiding any dropouts, and forming the groups would be easier .”
 [says] (p.150) “Yes. For the students who are a little worried, I would like to collect as many private points as possible, but if the student who lends me points receives the penalty of expulsion, there’s no helping it.”
@@ -5046,11 +5046,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.195) “Isn’t it fine to just leave them alone?”
 [says] (p.195) “I thought we had a serious problem on our hands, since you’re the one coming to consult me… but this isn’t our problem to fix. Besides, I’ve evaluated Ike-kun’s ability as a boy scout to be high, so we should group him with regards to his ability, not his feelings.”
 [says] (p.195) “So he could be expelled due to his feelings for Shinohara leading him by the nose?”
-[says] (p.196) “… That would be problematic. This is so stupid.”
+[says] (p.196) “… That would be …  problematic. This is so stupid.”
 [says] (p.196) “So you’re saying it’s necessary to prevent that? But if we stop them from forming a group, won’t Komiya-kun just change the timing of his confession? Depending on the situation, he might just confess on that same day.”
 [says] (p.196) “This is a lot more complicated than it sounds. We can’t take care of them until they start dating.”
 [says] (p.196) “Why don’t we just make Ike-kun confess? If Shinohara-san accepts, Ike-kun will fight hard to stay at the school no matter what group he’s in, right? On the other hand, if he gets rejected, he can forget about this whole matter and focus on the exam.”
-[says] (p.197) “Although you’re good at many things, you don’t seem to be good at romance at all.”
+[says] (p.197) “Although you’re good at many things, you don’t seem to be good at …  …  romance at all.”
 [says] (p.197) “I’m studying hard right now.”
 [says] (p.197) “Unfortunately, it seems like we’re too late.”
 [says] (p.197) “Since we’ve already reached this point, we must take measures to prevent Ike-kun’s loss of motivation.”
@@ -5129,7 +5129,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.334) “But this is a rare opportunity. I have managed to get him to promise us his future commitment in the end.”
 [says] (p.335) “If he actually could get a rank in the top spots, it would be great, we could surpass the other classes like that.”
 [says] (p.335) “We come in first, and Kouenji comes in 2nd or 3rd. If we can do that, our class will gain a huge advantage, and we’ll be able to redeem ourselves after falling behind up to now.”
-[says] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate what Kouenji is going to do.”
+[says] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate …  …  what Kouenji is going to do.”
 [says] (p.335) “That’s true, but to easily take the top spot is a completely different matter altogether.”
 [rel:kouenji-rokusuke] (p.330–335) The deal closes; she paints him into a corner he keeps smiling through.
 [rel:ayanokouji-kiyotaka] (p.334–335) Her wildest allies are both watching.
@@ -5156,18 +5156,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 ### y2v2 p.12–342 — Coverage note: passing mentions (Suzune)
 [mentioned] (p.12) Yukimura gave up waiting for Ayanokōji after school because of Horikita’s appearance.
-[mentioned] (p.26) “After that, I tried to call Horikita… Right now, Horikita seemed like the most helpful person to resolve the situation” — Ayanokōji’s narration.
+[mentioned] (p.26) After that, I tried to call Horikita… Right now, Horikita seemed like the most helpful person to resolve the situation — Ayanokōji’s narration.
 [mentioned] (p.39) “I’ll thank Horikita and Yosuke another day. They might have understood what I intended, as Horikita was the first to leave.”
-[mentioned] (p.40) “Why didn’t you tell us before?… If it’s to hide information as Horikita said… The easy way to get this over with was to put all the blame on Horikita.”
+[mentioned] (p.40) The print debates how Horikita handled it being easier to pin blame on him than to be honest — kept as printed.
 [mentioned] (p.41) “And based on what Horikita said, you’ll continue to hold back after this, right?”
 [mentioned] (p.42) “Yeah, I’m serious. Until I heard Horikita’s explanation, I was determined to leave because I didn’t think Kiyotaka could be trusted at all.”
 [mentioned] (p.54) Suzune’s name — “because of Suzune’s strategy, right?” — Sudō’s question.
 [mentioned] (p.55) “Well, you two have been close ever since school started.” — Sudō’s assumption.
 [mentioned] (p.56) “Even carefully selected people such as Horikita’s older brother, Horikita Manabu, who had studied martial arts…”
 [mentioned] (p.57) “And there were things he could see only because of his fondness for Horikita.”
-[mentioned] (p.61) “I thought about asking Horikita to force his mouth shut about it… I’d even go so far as to request Horikita to tell you to keep quiet.”
+[mentioned] (p.61) I thought about asking Horikita to force his mouth shut about it… I’d even go so far as to request Horikita to tell you to keep quiet.
 [mentioned] (p.62) “You and Suzune… We’re not dating.” — Sudō’s question.
-[mentioned] (p.83) “supported Manabu and had been scheming… he discovered that Manabu’s sister Horikita was going to join the student council, so he might have wanted to take some kind of action.”
+[mentioned] (p.83) supported Manabu and had been scheming… he discovered that Manabu’s sister Horikita was going to join the student council, so he might have wanted to take some kind of action.
 [mentioned] (p.92) “Horikita? Or is it one of the boys? As I thought of this, I confirmed who the visitor was through the peephole.”
 [mentioned] (p.139) “Horikita told me to keep an eye out on your actions. We don’t know how Kouenji will act, she said.”
 [mentioned] (p.207) “Horikita-san and her class are also rapidly gaining strength. In terms of individual strength, some of them wouldn’t lose to anyone in the other classes…”

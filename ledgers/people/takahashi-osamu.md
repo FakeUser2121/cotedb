@@ -29,7 +29,7 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [says] (p.226) “Wait a minute, wait a minute, wait. I just slipped and fell, so calm down, Riku.”
 [says] (p.226) “He’s saying that’s the case, no?”
 [says] (p.226) “Calm down, both of you. If you start a fight here, you’ll be doing exactly what Kazuomi wants.”
-[says] (p.231) “Ah, wait a moment. I have a question about what Takuya said. Why only make one team? All top three teams will get Class Points, right? If we also take into consideration that we could merge into big groups during the official exam, isn’t it better to form a lot more strong teams?”
+[says] (p.231) “Ah, wait a moment. I have a question about what Takuya said. Why only make one team? All top three teams will get Class Points, right? If we also …  …  take into consideration that we could merge into big groups during the official exam, isn’t it better to form a lot more strong teams?”
 [says] (p.232) “So as long as we get 1st place, it doesn’t matter what we sacrifice to achieve it.”
 [says] (p.235) “By the way, Takuya, who do you plan to choose from Class B?”
 [note] (p.223–235) “Osamu-kun, did you come because you were given this troublesome task again?” and “So only Kazuomi isn't here yet?” — untagged in the translation; speakers unassigned as printed.
