@@ -244,7 +244,18 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [says] (p.95) “It's a good way to show off as an adult that you gotta memory of participatin' in a cultural festival.” — Hōsen; the politician-related guests will communicate their participation as a kind of charity or community activity; his idea of laminated student photos (male and female) as handmade prizes.
 [note] (p.94–95) The bullet fired from the projectile gun he held up flew straighter than imagined and hit the lighter — it shook but showed no sign of falling over; his childhood was clearly not normal.
 [rel:ayanokouji-kiyotaka] (p.94–95) The pinpoint-lighter shot; his philosophy about adults and greed; his pitch for laminated student photos as handmade prizes for the politician guests.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.187–202 — The gunsmith's class; twelfth place
+[mentioned] (p.187–188) “First year Class D, Housen-kun's class, right? What about it?” — printed untagged; flagged untagged.
+[mentioned] (p.188) “The 11th-ranked class is third-year Class A. They were priced out of the competition from the start. It was only about entertaining to please the guests, right?” — printed untagged; flagged untagged.
+[note] (p.188) It was confirmed that the haunted house and other activities could be played for 100 points; the top class got 100 points for this festival; it means that behind the scenes, Hosen might have gotten something else.
+[note] (p.188) “Doesn't this remind you of last year's desert island test?” — printed untagged; flagged untagged; Hōsen's childhood-gambler instinct may have metastasized into the desert-island agreement.
+[note] (p.188) There was an agreement between Ryūen and Katsuragi to receive private points in exchange for letting them earn class points; it would not surprise him if something similar happened between Sakayanagi and Hōsen.
+[note] (p.202) 12th place, 1st year D class; class points at the end of the November festival: Class D led by Ichinose: 675.
+[note] (p.202) Housen's class ended 12th (+0 class points).
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

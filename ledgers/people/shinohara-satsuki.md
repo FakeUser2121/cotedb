@@ -420,19 +420,20 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:satou-maya] (p.26) She is the friend Shinohara is drawn toward.
 [rel:karuizawa-kei] (p.26) She is part of the pair whose warmth pulls Shinohara in.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.54 — Joins Kei and Satō
 [mentioned] (p.54) “Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — invited by Satō; the circle's newest member after their recent fight.
 [rel:satou-maya] (p.54) She is the one who invites her.
 [rel:karuizawa-kei] (p.54) Shinohara and Kei have a new chapter after fighting.
+
+
 <!-- walk: y2v7 Ch.2 → p.71 -->
-
-
 ### y2v7 p.110 — Shoulder to shoulder with Ike
-[mentioned] (p.110) “Ike stands shoulder to shoulder with Shinohara” — the narration; she's at the festival opening beside him.
+[mentioned] (p.110) Ike stands shoulder to shoulder with Shinohara — the narration (unquoted); she's at the festival opening beside him.
 [rel:ike-kanji] (p.110) Shoulder to shoulder all morning.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
-
-
 ### y2v7 p.132–133 — The 3:00 break; the held hallway
 [scene] (p.132) Ike suggested Satsuki to Ayanokōji — she was practising to be a maid, even if only lightly; she was working on the cooking side of the stall; Ayanokōji called her to the hall; she asks to be relieved at 3:00.
 [note] (p.132) Fifteen minutes later, Shinohara was asked to go to the hall, and Azuma was asked to join Kushida in the hallway to hold up the customers waiting there; but Kushida's expression in the hallway was grim, and it was not a development she seemed to relish.

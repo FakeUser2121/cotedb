@@ -115,6 +115,7 @@ char_id: onodera-kayano · status: minor
 [rel:sudou-ken] (p.8) They share the club activity maximum.
 [rel:horikita-suzune] (p.8) They share the club activity maximum; Horikita holds the third 10,000 (student council member bonus).
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.99–100 — Onodera: the maid envy, the legs, and the arrow
 [scene] (p.98) Sudō's role during the simulation was bodyguard — he forcibly interrupted any boy who called out to the maids and asked them to leave the room.
 [scene] (p.98–100) Onodera shows up after the cleanup — she had been sent out to the outdoor stalls and made a disappointed sound as soon as she returned.

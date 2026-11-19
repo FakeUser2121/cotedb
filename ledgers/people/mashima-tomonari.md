@@ -418,7 +418,32 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [trait] (p.54–57) A teacher who tells what can and cannot be exercised under the school's unstated rules; he gives Ayanokōji the permission without endorsing it.
 [rel:chabashira-sae] (p.55–57) He is her schoolmate; asks about her change; withdraws the question.
 [rel:ayanokouji-kiyotaka] (p.54–57) He confirms the unstated-rule path — the future 100,000-point maid hiring was vetted here.
+
+
 <!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.175–182 — The teacher who stood between them
+[scene] (p.175) §2 — Mashima-sensei showed up later in the student council room; he stood up in pain at the end.
+[says] (p.176) “Ryūen!” — Mashima-sensei scolded him for his violent behavior, but he showed no sign of paying attention.
+[says] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei; Sakagami-sensei confirmed Mashima-sensei, as if remembering something.
+[note] (p.177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
+[scene] (p.180) At 3:00 p.m. the room had been surrounded by Ryūen-kun, Komiya-kun and others who unexpectedly appeared as well as the teachers.
+[says] (p.180) “Stop it, Yagami!” — Mashima-sensei scolded him for his violent behavior.
+[scene] (p.181) However, we must do something to hold him here; Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[says] (p.181) “Stop it, Yagami. And Ryūen, too. If you cause a commotion here, it will be a serious penalty.” — Mashima-sensei.
+[note] (p.181) Still, Mashima-sensei, as a teacher, stepped in between Yagami-kun and Ryūen-kun.
+[note] (p.181) “Get lost.” He kicked Mashima-sensei in the knee, and when he staggered over, he slammed his fist into his face.
+[note] (p.181) Sakagami-sensei witnessed it up close and took a frightened step away.
+[note] (p.181) Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[scene] (p.182) Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+[note] (p.182) Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+[says] (p.182) “You people are...” — Mashima-sensei confirmed as he stood up in pain.
+[note] (p.182) “We are related to Yagami and Amasawa. We will settle this situation, so please go ahead and get treated. Please do not tell anyone about what happened here, not even the teachers and students. Rest assured that we will pass everything on to Chairman Sakayanagi.” — printed untagged; flagged untagged.
+[note] (p.182) “I understand.” — with Sakagami-sensei's help, Mashima-sensei left the student council room; the room, which had been so noisy, was suddenly enveloped in silence.
+[rel:yagami-takuya] (p.176–181) Yagami's violence against him: the kick in the knee and the fist to the face.
+[rel:ryuuen-kakeru] (p.180–181) He was between Ryūen and Yagami; Yagami kicked him; he staggered over.
+[rel:sakagami] (p.175–182) Sakagami-sensei witnessed the kick; helped Mashima-sensei leave.
+[rel:nagumo-miyabi] (p.176–183) Nagumo brought him into the room; Nagumo revealed the special-exam rumor.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

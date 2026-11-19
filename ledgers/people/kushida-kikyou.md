@@ -1869,13 +1869,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [scene] (p.12) The midterm results list: Kushida is named among the honor roll alongside Yōsuke, Matsushita and Wang.
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration; the surprise in the results is Sudō's 11th place, not theirs.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.75 — The contributions question; her profound change
 [scene] (p.75) At the convenience store with Horikita and Ayanokōji; the conversation turns to Kushida — Horikita hasn't been charged for “contributions” since her personality changed profoundly.
 [note] (p.75) “You're no longer paying contributions to Kushida-san, right?” — “Not really, since I haven't been charged for it.” — “Would you really pay if she charged you?” — “Do you think she will charge me?” — “No, I don't think so. I don't want her to come back to haunt me.” — Kushida's personality underwent a profound change; “it's heading in the direction of growth, I have to believe.”
 [rel:horikita-suzune] (p.75) The contributions stopped; Horikita watches for any return of the old Kushida.
 [rel:ayanokouji-kiyotaka] (p.75) He raises the question; she does not want Kushida "to come back to haunt me."
-<!-- walk: y2v7 Ch.3 → p.83 -->
 
+<!-- walk: y2v7 Ch.3 → p.83 -->
 ### y2v7 p.84–86 — Kushida's silence; Satō's failed appeal
 [scene] (p.84) The day before the festival; Kushida hardly interfered with any of the festival's activities in the weeks leading up; she's been going home immediately after school without helping out; she visits Horikita several times to come up with ideas (some have been adopted, though minor) — but she did not participate in any practice sessions to make sure they were all on the same page.
 [scene] (p.85) Satō called out to Kushida as she got up — Kushida stopped and turned around on the spot.
@@ -1888,7 +1889,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:satou-maya] (p.85) Satō's failed appeal — the representative complaint.
 [rel:horikita-suzune] (p.85–86) She visits Horikita for ideas; Horikita holds the line of trust — "Just believe in Kushida-san."
 [rel:matsushita-chiaki] (p.85–86) Matsushita backs Satō's complaint — "That may be so. I don't know why she doesn't participate in practice either."
-
 ### y2v7 p.101–104 — §4: the Yagami confrontation; "I'm the leader of the 1st year Class B"
 [scene] (p.101) §4 — on the street leading to Keyaki Mall; a man and a woman face each other; the preliminary preparations for the festival had already begun and there were no students to be seen in this vicinity at all; the Yagami pushed her to this location.
 [says] (p.101) “We can finally talk, Yagami-kun.” — Kushida greets him.
@@ -1944,9 +1944,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [narrates] (p.105) “Before I fight that guy, I have something to do.” — Kushida.
 [note] (p.105) "She knew that the problem that needed to be solved goes above just Yagami. She had no desire to go back to being a gentle honor student, but she must show a solid contribution to maintain a firm position in the class. Kushida Kikyo knew how to survive by herself." — the narration.
 [rel:yagami-takuya] (p.101–104) Yagami — the desperate interrogator; the unanimous-exam night call; the lone wolf from the 1st year Class B; the warning and counter-warning.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.121–130 — The cookie run; the hidden meeting; the 3 p.m. warning
 [scene] (p.121) §5 — Ayanokōji lets her out of customer service for a while — she has an idea; the waiting customers are just bored, and they're probably hungry too; the only solution was to make the visitors wait in line; the cookie run begins.
 [says:ayanokouji-kiyotaka] (p.121) “What are you going to do?” — Ayanokōji.
@@ -2043,8 +2043,8 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.121–130) The cookie run; the pool grab; the wrist lock; the 3 p.m. warning.
 [rel:amasawa-ichika] (p.125–130) The indoor pool grab; the wrist lock; the White Room score comparison.
 [rel:hirata-yousuke] (p.124–125) His cookie-run commentary; the line talk.
-<!-- walk: y2v7 Ch.5 → p.130 -->
 
+<!-- walk: y2v7 Ch.5 → p.130 -->
 ### y2v7 p.131–135 — The staffing crisis; the 600-point warning
 [scene] (p.131) §1 — the maid café overcrowded; Kushida recovered brilliantly and held the line; the overcrowding caused a shortage of staff; the maids, who had taken a one-hour break, were still tired; their movements had slowed considerably.
 [note] (p.131) Sato and Mii-chan were the aces of the team; Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day; the remaining three were Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira, who specialized in handing out flyers.
@@ -2093,7 +2093,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.135) “You have a reliable ally. I guess it's thanks to this person that you found out where I was.”
 [says:ayanokouji-kiyotaka] (p.135) “Ah. They're the perfect person to look or keep an eye on someone.” — Ayanokōji; they always knew where Haruka and the others were.
 [says:ayanokouji-kiyotaka] (p.135) “But at the end of the day, there's only so much I can do. Whether or not I can make those two people's hearts beat is another matter altogether. I'm leaving.” — Ayanokōji.
-
 ### y2v7 p.145–151 — The Keyaki Mall walk-in with the SNS; her regret
 [scene] (p.145) §1 continues — dressed as a maid, which was out of place in this tense atmosphere, she slowly approached.
 [says] (p.145) “Is everything alright at the store?” — Kushida.
@@ -2189,7 +2188,19 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:miyake-akito] (p.135–152) His withdrawal letter torn; he stays.
 [rel:ayanokouji-kiyotaka] (p.131–151) The staffing crisis; the Keyaki Mall bench; the SNS gambit.
 [rel:sakura-airi] (p.139–151) Shizuku; the auditions; the idol SNS.
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.185 — The class learns of Airi's idol SNS
+[scene] (p.185) §Epilogue — the class gathered; Haruka speaks; Kushida's name is mentioned; everyone's eyes are drawn to Kushida.
+[says] (p.185) “Sakura-san, she seems to be working hard to become an idol; you can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — Kushida.
+[note] (p.185) The majority didn't understand what was going on, so Kushida opened her mouth as if to add something.
+[note] (p.185) Some students were surprised, others thought it was a good idea; but the common perception that emerged was the fact that Airi had taken a new step forward.
+[note] (p.184) “I guess Chabashira-sensei's cosplay really struck!” — printed untagged; not assigned.
+[note] (p.202) The class found a strategy in the suggestion of a maid café and was able to win first place; class points at the end of the November festival: Class B led by Horikita: 966.
+[rel:hasebe-haruka] (p.184–186) The SNS reveal moves her from "she can't survive" to "that girl could be a big shot" — Kushida is the one whose discovery moved the mountain.
+[rel:sakura-airi] (p.185) She tells the class Airi is working hard as an idol; SNS account exists; discoverable.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

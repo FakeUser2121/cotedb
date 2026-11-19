@@ -312,6 +312,7 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [note] (p.28) “Ryūen led the way, with Ishizaki, Albert, and Kaneda following behind.” — no lines; present as part of the group.
 [rel:ryuuen-kakeru] (p.28) He arrives with Ryūen.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.96–97 — The protein scam's English mumbler
 [scene] (p.96) §3 — Ishizaki's booth; a desk, cardboard, disposable chopsticks and cups; Albert is Ishizaki's partner — "an idea of mine and Albert's"; Albert mumbles English as the protein expert.
 [says:ishizaki-daichi] (p.96) “Yes, it is, isn't it? It's an idea of mine and Albert's, you know.” — Ishizaki; the booth they set up together.

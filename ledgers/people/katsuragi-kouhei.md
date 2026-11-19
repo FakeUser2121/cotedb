@@ -920,6 +920,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.30) “I can finally see the true meaning of Katsuragi-kun's words in regards to the avoidance of a penalty agreement.” — Horikita's line to Ryūen; Katsuragi's engineering of the penalty-avoidance framework.
 [rel:ryuuen-kakeru] (p.19) The relay person between the classes in Ryūen's class.
 [rel:horikita-suzune] (p.19, 30) She trusts him as the go-between; she quotes his penalty-avoidance words at Ryūen.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ## y2v8
 

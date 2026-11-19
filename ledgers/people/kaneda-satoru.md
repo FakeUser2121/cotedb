@@ -299,6 +299,7 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [says] (p.28) “That's correct. We were planning to follow up with everyone a little further down the road. We were told early on about the content of the stalls and yesterday about the location.” — Kaneda smirks as he adds the details.
 [note] (p.29) “even Kanzaki and other unrelated students from other classes overheard Ryūen's declaration of war.” — Kaneda is part of the leak reaching the whole grade.
 [rel:ryuuen-kakeru] (p.28) He is Ryūen's spokesman on the deal terms.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ## y2v8
 

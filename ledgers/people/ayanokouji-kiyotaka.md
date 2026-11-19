@@ -9277,8 +9277,8 @@ walk: y1v1 → DONE
 ### y2v7 p.6 — Prologue: named in Haruka's monologue
 [scene] (p.6) The Prologue is Hasebe Haruka's monologue; she names Horikita Suzune and Ayanokōji Kiyotaka as the two people she blames for Airi's expulsion.
 [mentioned] (p.6) “Horikita Suzune and Ayanokōji Kiyotaka.” — printed in Haruka's monologue as the two students she holds responsible; she decides on revenge.
-<!-- walk: y2v7 Prologue → p.6 -->
 
+<!-- walk: y2v7 Prologue → p.6 -->
 ### y2v7 p.7–13 — Cultural festival rules; additional funds; midterm results
 [scene] (p.7) Monday, November 1st; Chabashira opens the class with a review of the cultural festival rules and the announcement of additional funds.
 [rule] (p.7) Each second-year class receives 5,000 private points per student for festival preparation (first-years 5,500; third-years 4,500); additional funds are granted for social contributions; unused allocations forfeit after the festival.
@@ -9296,7 +9296,6 @@ walk: y1v1 → DONE
 [number] (p.11–12) Second-semester midterm results: Keisei took first place (perfect score in all subjects); Horikita second, 3 points behind; Sudō 11th with 367 (73 Modern Japanese, 76 Chemistry, 70 Social Studies, 78 Mathematics, 70 English); honor roll: Yōsuke, Kushida, Matsushita, Wang; Ayanokōji 14th (perfect Mathematics only).
 [note] (p.12) Sudō's OAA: academic ability C+, physical ability A+, adaptability C, social contribution D — “a well-known fact that Sudō was working hard on his studies”; Ayanokōji's own 14th place was deliberate (he did not want to startle the class).
 [note] (p.13) The narration ties Sudō's motivation to his love for Horikita, who taught him how to study, and notes that the expulsion of Sakura Airi pushed the lower-ranked students to work even harder.
-
 ### y2v7 p.13–16 — Maid café planners; stall-location inspection; Satō's distance
 [scene] (p.13) The six maid café planners (Satō, Matsushita, Mii-chan [Wang], Maezono, Horikita, Ayanokōji) meet after school; the outdoor option is crossed out; the café location (the classroom) is fixed; stall location undecided; meetings move to cell phones to prevent leaks.
 [says:matsushita-chiaki] (p.13) “Hasebe-san and Miyake-kun, what will you do about them?” — Matsushita asks about Haruka and Akito.
@@ -9312,7 +9311,6 @@ walk: y1v1 → DONE
 [says:wang-mei-yu] (p.16) “But we should make a decision soon. It's getting pretty full.” — Mii-chan makes a sour face at her phone.
 [says:matsushita-chiaki] (p.16) “That's right. Two of the five places we picked up are now occupied... However, there are still candidates from the first to the third floor, which I'd say is a bit of a problem.”
 [note] (p.16–17) Satō is off all day; Matsushita suspects she “wants to talk but can't… keeps things inside”; Ayanokōji does not know why; the “Satō whisperer” speculation is Matsushita's, unconfirmed.
-
 ### y2v7 p.17–22 — Sakayanagi scouts the special building; the Ryūen cooperation leak
 [scene] (p.17) Hashimoto (Class A) calls out to the group outside the second floor; Sakayanagi and Kamuro arrive with him; they, too, are scouting stall locations; Hashimoto needles Horikita about teaming with Ryūen.
 [says:hashimoto-masayoshi] (p.17) “Yo, Ayanokōji. Are you also looking for a place to open a stand for the festival?”
@@ -9360,7 +9358,6 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.17–18) He probes the Ryūen alliance (“do you think you can trust him forever?”); smiles thinly at Ayanokōji later when the leak goes public (p.30).
 [rel:kamuro-masumi] (p.17–18) Is with Sakayanagi and Hashimoto; needles at Hashimoto (“She doesn't like you, does she?”).
 [rel:horikita-suzune] (p.19–22) He informs her of the detailed plan; male-customer targeting; Cheki pricing; she applies for the first floor.
-
 ### y2v7 p.23–26 — Keyaki Mall: Sudō's growth; Akito and Haruka; Kei's morning
 [scene] (p.23) §2 Keyaki Mall — Ayanokōji goes alone for a price survey; finds Sudō at a building map; Keyaki Mall in late November.
 [says] (p.23) “You were the center of attention today, Sudō.”
@@ -9410,7 +9407,6 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.23–25) He's grown through studying for Horikita; admits he might need Ayanokōji's help with Haruka/Akito's deterioration; offers him help in return.
 [rel:karuizawa-kei] (p.26) She stayed the night past curfew; blushing; grown more confident and mature.
 [rel:satou-maya] (p.26) She spots Kei arriving and gives him “a gaze” — still hurt/jealous; tries hard not to show it.
-
 ### y2v7 p.27–31 — Ryūen publicly copies the maid café; the 5-million-point wager declared
 [scene] (p.27) Monday, a few days later; Ike bursts into the classroom shouting that the maid café leaked — Ishizaki, Suzuki and Nomura were talking loudly in the lobby; Ayanokōji stays calm on the surface while Maezono and Matsushita react.
 [says:ike-kanji] (p.27) “Hey, is it true that our class is going to have a maid café?” — Ike bursts in.
@@ -9475,8 +9471,7 @@ walk: y1v1 → DONE
 [rel:nomura-yuuji] (p.27) Nomura is named as one of the three talking loudly in the lobby.
 [rel:suzuki-hidetoshi] (p.27) Suzuki is named as one of the three talking loudly in the lobby.
 [rel:hashimoto-masayoshi] (p.29–30) He learned of the fact before Horikita's class did; watches somewhat amusedly; his eyes meet Ayanokōji's with a thin smile.
-[rel:horikita-suzune] (p.27–31) She greets Ryūen in the hallway, disputes the “revelation” framing, confirms the equal framing, keeps the 5-million-point wager “under consideration.”
-
+[rel:horikita-suzune] (p.27–31) She greets Ryūen in the hallway, disputes the framing that Ryūen 'revealed' anything, confirms the equal framing, and keeps the 5-million-point wager under consideration.
 ### y2v7 p.32–43 — The third-year Class A pre-opening; Asahina's warning; Kanzaki's confession
 [scene] (p.31) 3rd-year Class A (Nagumo's class) rents out gymnasium space for a combined “haunted house”/“maze” exhibit; a pre-opening soliciting opinions is announced the day before.
 [scene] (p.32) After school, Ayanokōji goes to the gymnasium; Ichinose and Kanzaki are ahead of him in line; Ichinose bows and averts her eyes; Kanzaki silently joins the line behind them both.
@@ -9558,7 +9553,6 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.36–41) Nagumo's hands-off festival; the non-A's compete, one student from the winning class picked; Asahina reads him after three years at his side.
 [rel:horikita-manabu] (p.40) His line recalled: “Nagumo's methods make a lot of people unhappy.” — Ayanokōji wrote the plan that broke it
 [rel:kiryuin-fuuka] (p.40) Named in narration as one of the few talented students near Nagumo “such as Kiryūin” — never tried to close the gap.
-
 ### y2v7 p.44–53 — §6: the Nagumo negotiation — a match and a favor
 [scene] (p.44) It is Friday; Ayanokōji comes to a place he does not usually visit; after knocking, he opens the door to the student council room; Nagumo Miyabi looks surprised; Asahina informed him the room would be empty; his cell phone is in his left hand.
 [says:nagumo-miyabi] (p.44–45) “I waited for you because Nazuna insisted on giving you some time, but I’m not going to assume anything. So, are you here for the student council or for me?”
@@ -9619,8 +9613,8 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.44–53) He secures a future match with Nagumo by agreeing not to interfere with Nagumo's harassment — a calculated trade; Nagumo accepts.
 [rel:karuizawa-kei] (p.51–52) He publicly bluffs indifference to her expulsion to make the deal credible — his “solution.”
 [rel:ichinose-honami] (p.52) Nagumo's plan also targets her; his deal covers her too.
-<!-- walk: y2v7 Ch.1 → p.53 -->
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.54–57 — Kei's maturity; Mashima and the unstated rules
 [scene] (p.54) Monday, 8 November — the festival liability: Horikita countered Ryūen's bet with a one-million-private-point match with the agreement of the classes — the class with more festival sales would receive that number of points from the other class; after school, Ayanokōji messages Kanzaki and heads to the special wing.
 [says] (p.54) “I have some time. Head to the designated place.” — the preface message; Kanzaki has not responded yet.
@@ -9663,7 +9657,6 @@ walk: y1v1 → DONE
 [rel:shinohara-satsuki] (p.54) Shinohara, who recently had a rough relationship with Kei, joins the walk home.
 [rel:mashima-tomonari] (p.55–57) He confirms unstated rules are exercisable and points to efficiency as the only concern; he asks about Chabashira's change and then withdraws the question.
 [rel:chabashira-sae] (p.55–57) Teachers gossip about her laugh; Mashima notices; Ayanokōji doesn't explain.
-
 ### y2v7 p.57–68 — The Kanzaki–Himeno plan: changing Ichinose's class
 [scene] (p.57) §1 — the countdown to Ichinose's class's collapse is progressing faster than expected; the leader isn't contacted — a difference must be created to the classmates unified under Ichinose; the procedure must be done with caution.
 [scene] (p.58) After school, he goes to the designated place as he had been informed; Kanzaki is already there waiting, face grim.
@@ -9770,7 +9763,6 @@ walk: y1v1 → DONE
 [rel:kanzaki-ryuuji] (p.57–68) He comes for advice; Ayanokōji manipulates him into revealing his doubts and transfer threat to Himeno; his voice is alarmed when he shouts back.
 [rel:himeno] (p.62–68) He draws out her true feelings; she explodes and capitulates.
 [rel:ichinose-honami] (p.59–64) They discuss how to change her without Ayanokōji's direct intervention — she won't listen to others but would change if the class did.
-
 ### y2v7 p.70–71 — Kanzaki's resolve
 [scene] (p.70) After a year and a half, Horikita's class students have had their weaknesses exposed and some are now showing incredible growth; Ayanokōji tells the two of them what to do next.
 [says] (p.70) “But what should you do?” — Ayanokōji asked the two of them.
@@ -9792,8 +9784,8 @@ walk: y1v1 → DONE
 [trait] (p.70–71) Kanzaki leaves with renewed resolve — he and Himeno may now work to change Ichinose's class before the end-of-year exam; Himeno whisks him away to a girl she's curious about.
 [rel:kanzaki-ryuuji] (p.71) He vows to repay the "debt" by changing his class.
 [rel:himeno] (p.71) She keeps him close; they take a childlike step forward together.
-<!-- walk: y2v7 Ch.2 → p.71 -->
 
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.72–74 — Tuesday, Nov 9: the preliminary festival; the convenience store
 [scene] (p.72) Tuesday, November 9 — running into Horikita at the elevator; the walk to school; the third-years announce a rehearsal just like the real thing the day before the cultural festival — announced on the bulletin board last night as if to inform all grades; the source was Nagumo — "probably what Nagumo meant last week, when he said that the student council would make a not-so-bad proposal."
 [says:horikita-suzune] (p.72) “Have you heard? The day before the cultural festival, the third year students are going to do a rehearsal just like the real thing.” — Horikita at the dormitory elevator.
@@ -9843,7 +9835,6 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.75) “No, I don't think so. I don't want her to come back to haunt me.” — Horikita, muttering with distaste; Kushida underwent a profound change — "And it's heading in the direction of growth, I have to believe."
 [rel:horikita-suzune] (p.72–75) The bus walk; the lost-streak anxiety; she grabs his shoulders; the Kushida-contribution exchange; Kushida's profound change noted.
 [rel:kouenji-rokusuke] (p.74) Kōenji's festival non-assignment; Horikita's read on him.
-
 ### y2v7 p.75–77 — Ichihashi's love letter for Nagumo
 [scene] (p.75) After school that day — Ichihashi approaches Horikita with some hesitation, who was sitting in front of her; a love letter with a heart sticker clasped on the envelope's mouth; the addressee is Nagumo Miyabi, the student council president.
 [says:ichihashi-ruri] (p.75) “Um, Horikita-san... Can I have a minute?” — Ichihashi rarely speaks to Horikita; the item in her hand implied something different from the festival.
@@ -9876,8 +9867,8 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.75–77) She takes the delivery job reluctantly; she doesn't dig into who the letter is from.
 [rel:ichihashi-ruri] (p.75–77) The courier; Horikita rarely speaks to her; the item in her hand was implied to be something other than the festival.
 
-<!-- walk: y2v7 Ch.3 → p.83 -->
 
+<!-- walk: y2v7 Ch.3 → p.83 -->
 ### y2v7 p.84–92 — The rehearsal; Kushida's silence; Ryūen's café
 [scene] (p.84) Friday, November 12 — the day before the festival; after school is the rehearsal led by the student council; Horikita's class runs four booths (the maid café; outdoor takoyaki/okonomiyaki stalls; the Western-style pasta and bread stalls; an outdoor quiz competition for children, added on short notice with the extra budget); 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
 [says:maezono] (p.84) “You guys didn't make Hasebe-san and Miyake-kun come?” — Maezono asked as her eyes followed Haruka and Akito leaving the classroom.
@@ -9933,7 +9924,6 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.89–90) The Class A guard; the sign; the "good luck".
 [rel:sakayanagi-arisu] (p.89–90) Her class's floor is locked down; boxes only; no one allowed.
 [rel:kouenji-rokusuke] (p.84) The only classmate exempted along with Hasebe and Miyake.
-
 ### y2v7 p.90–92 — Matsushita's calm; the sabotage fear
 [scene] (p.90) §2 — the rehearsal of the maid café; boys from other classes rushed to watch the girls in cosplay; the girls are not used to being the center of attention; Mii-chan slips a glass of water on the tray; Matsushita immediately moves.
 [says:matsushita-chiaki] (p.90) “I am terribly sorry.” — Matsushita, gently patting Mii-chan on the shoulder.
@@ -9953,7 +9943,6 @@ walk: y1v1 → DONE
 [note] (p.92) “Did you notice that?” — "Huh?" "No, it's nothing." — the exchange; he hopes he's just imagining things; Matsushita wobbles slightly as she walks away.
 [note] (p.92) “So how did it go? What did the other classes put on?” — "I don't know if there will be another festival next year, but I learned a lot." — the exchange.
 [rel:matsushita-chiaki] (p.90–92) She's the rehearsal's stabilizer; the sabotage fear; the wobble he alone notices.
-
 ### y2v7 p.92–100 — The scouting walk; the shooting game; Ishizaki's protein scam
 [scene] (p.92) §3 — while Horikita does her checks, Ayanokōji decides to parade around the entire school; Kei appears as if she had been waiting for that moment and takes him in her arms.
 [says:karuizawa-kei] (p.92) “Let's go together.” — Kei took him in arms.
@@ -10031,7 +10020,6 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.92–98) She pokes him in the stomach; she demands to watch; the protein scene turns ugly.
 [rel:hosen-kazuomi] (p.94–95) The Class D games stall — the childhood gambler; the ripped-off adults' greed; the student photos for the politician guests; he nailed Ayanokōji's miss.
 [rel:sudou-ken] (p.98) Sudō forcibly interrupted any boy who called out to the maids and asked them to leave the room; the two-hour festival simulation.
-
 ### y2v7 p.98–100 — The rehearsal wraps; Sudō and Onodera
 [scene] (p.98) The two-hour festival simulation would soon be over; Sudō-kun, the other boys and he started cleaning up; Onodera showed up.
 [says:onodera-kayano] (p.99) “We're done here, too,” — Onodera; she had been sent out to the outdoor stalls and made a disappointed sound as soon as she returned.
@@ -10061,7 +10049,6 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.98–100) Sudō's face goes grim as he reorganizes; he goes to think at the food stalls.
 [rel:hirata-yousuke] (p.100) Yōsuke heard the Onodera nudge; he worries about Ayanokōji's meddling.
 [note] (p.99) Roster note: the onodera row duplicated onodera-kayano is left untouched; this content is recorded under onodera-kayano.
-
 ### y2v7 p.100–101 — The 1-hour break announcement
 [scene] (p.100) After the cleanup, Horikita announces tomorrow's schedule; only Ayanokōji and Horikita remain in the classroom.
 [says] (p.100) “I've been thinking about it a lot, but it just doesn't feel right for you to be a maid,” — Ayanokōji.
@@ -10074,7 +10061,6 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
 [rule] (p.101) Festival staffing rule: All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; during the break they are forbidden from assisting with any of the stalls, regardless of business.
 [rel:horikita-suzune] (p.100–101) The schedule sign-off; the Kei-maid question; the mandatory break notice.
-
 ### y2v7 p.105–106 — Sakayanagi's midnight call
 [scene] (p.105) §5 — in the middle of the night, he receives a phone call; Sakayanagi lets out a little chuckle on the other end; she cuts right to the chase.
 [says:sakayanagi-arisu] (p.105) “Indeed you may be right. May I have a few minutes of your time now?” — Sakayanagi.
@@ -10085,6 +10071,7 @@ walk: y1v1 → DONE
 [says:sakayanagi-arisu] (p.106) “So you want to experience your remaining school life and what is normal for a student as much as possible.” — Sakayanagi replied in agreement with his way of thinking.
 [rel:sakayanagi-arisu] (p.105–106) The midnight call; the warning about outside threats; the chairman's decline; their alignment.
 
+<!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.107–109 — 6 a.m.; Matsushita's illness; the leak rumor
 [scene] (p.107) The festival arrives; the gates open at 6:00 a.m.; students required by 8:30; the festival begins at 9:00; Ayanokōji and Horikita meet at the lobby of the dormitory at 6:00 to do a final confirmation; a cardboard box of hand-me-downs drops at the classroom first.
 [says:horikita-suzune] (p.107) “Good morning. Is that cardboard by any chance the one you were talking about?” — Horikita turning her attention to the box he holds.
@@ -10116,7 +10103,6 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.109) “You have to accept some complaints.” — Horikita.
 [says] (p.109) “I agree and sympathize with you that academics are a difficult goal for you.” — Ayanokōji.
 [note] (p.109) “I know that I am not inferior to Manabu in terms of pure academics and physical ability.” — Ayanokōji.
-
 ### y2v7 p.110–113 — The morning; the café opens; the line forms
 [scene] (p.110) 9:00 a.m. arrives at the maid café; an announcement was made to all students at once; guests stepped through the main gate and the opening of the festival was announced; Ike stands shoulder to shoulder with Shinohara.
 [says:ike-kanji] (p.110) “What do I do, I'm getting nervous...” — Ike.
@@ -10160,7 +10146,6 @@ walk: y1v1 → DONE
 [says:kanzaki-ryuuji] (p.113) “Probably, but my priorities have shifted so I'm not entirely concerned about this festival at the moment.” — Kanzaki; “Apparently, the first step towards change with Himeno may have worked.” — the narration.
 [says:kanzaki-ryuuji] (p.113) “I'm going to the gym now. I want to learn what I can from the third years for the future.” — Kanzaki.
 [says] (p.113) “I see. See you later.” — Ayanokōji.
-
 ### y2v7 p.113–116 — The photo counter; the Darjeeling sellout; the folded note
 [scene] (p.113) §3 — Ayanokōji is in charge of taking pictures of guests who want to have their picture taken; Horikita is in charge of outdoor advertising, dressed as a maid, but did not smile in person — inorganic voice; if this were a real maid café, Horikita would have been fired during her training period after passing her interview.
 [says:horikita-suzune] (p.113) “New customers, please show them around.” — Horikita, in an inorganic voice at outdoor advertising.
@@ -10190,7 +10175,6 @@ walk: y1v1 → DONE
 [note] (p.116) After confirming that Yōsuke had left, he unfolded the paper he had been holding in his right hand.
 [note] (p.116) “[I'm here to pick you up. Decide for yourself what to do. I'll wait for you at the front gate.]” — the note; he even politely included his phone number; the paper passed through his hands; he rolled it up, put it in his mouth, and swallowed it; the person who handed this to him was connected to the White Room.
 [note] (p.116) “I decide what to do? If they are really giving me a choice, did they really think I would choose to leave?” — Ayanokōji.
-
 ### y2v7 p.117–120 — The counter-flyer war; Ibuki at the corridor
 [scene] (p.117) Three hours had passed since the festival began; noon; new guests were arriving to replace the families who had gone to the school first thing in the morning; following a report from Ike and the others, who had gone out to scout the area, he was walking near the entrance when I heard a voice saying, “There it is!” — Ike pointed to where several girls from Ryūen's class were shouting.
 [note] (p.117) “We, the 2nd year C class, are currently competing with the 2nd year B class for sales at the concept café! If we lose, someone might be held responsible and expelled from school!” — several girls from Ryūen's class shouting; the air was clearly alien.
@@ -10244,7 +10228,6 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.117–119) The flyer spot; the counter-plan; his nervousness about “1 million private points.”
 [rel:hondou-ryoutaro] (p.118) Hondo helps carry the counter-flyers.
 [rel:tonomura] (p.118) The name Tonomura — not rostered; see the volume ledger.
-
 ### y2v7 p.121–124 — The line crisis; Kushida's cookie run
 [scene] (p.121) §5 — the maid café was on the road to success; Ryūen's movements at an early stage may have backfired; there were no other classes other than Ryūen's that followed suit; there were too many customers due to the confrontational attitude.
 [note] (p.121) The classroom seats were filled to the limit, and cramming in more would only make it more suffocating; the only solution was to make the visitors wait in line; maid cafes don't have a fast turnover; what would a customer with 3,000 points left do if he/she received a numbered ticket and was asked to come back in an hour?
@@ -10267,7 +10250,6 @@ walk: y1v1 → DONE
 [note] (p.124) So, in addition to her own talent, she was practicing well behind the scenes; if Yōsuke's reading of Kushida's life was correct, it was a reminder of Kushida's greatness; it would also confirm Horikita's confidence that Kushida was in good hands.
 [rel:kushida-kikyou] (p.121–125) The cookie run; the line stabilization; her talent finally recognized.
 [rel:hirata-yousuke] (p.124) His respectful nod; his late-night practice deduction.
-
 ### y2v7 p.125–130 — The pool area; the wrist lock; the 3 p.m. warning
 [scene] (p.125) §6 — three hours after the festival began, he operated his cell phone; the inside-information network delivered Kushida's location within minutes; she was behind the indoor pool facility.
 [says:wang-mei-yu] (p.125) “Um, Ayanokōji-kun, where is Kushida-san?” — Mii-chan came out of the room, looking busy.
@@ -10366,6 +10348,7 @@ walk: y1v1 → DONE
 [rel:amasawa-ichika] (p.125–130) The indoor pool grab; the wrist lock; the White Room score comparison; the 3 p.m. warning.
 [rel:kushida-kikyou] (p.121–130) The cookie run; the pool grab rescue; the truth exchange; her bowed thanks.
 
+<!-- walk: y2v7 Ch.5 → p.130 -->
 ### y2v7 p.131–134 — The staffing crisis; the 600-point warning
 [scene] (p.131) §1 — the maid café restored; Kushida recovered brilliantly and held the line; however, the overcrowding caused a shortage of staff; the maids, who had taken a one-hour break, were still tired; their movements had slowed considerably; eight maid outfits prepared — two were basically considered spares; no more than six maids could work at any one time; Ishikura had substituted for Matsushita; Kushida as well; Inokashira specialized in handing out flyers.
 [note] (p.131) Sato and Mii-chan were the aces of the team, working hard all the time; Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day; the remaining three were Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira, who specialized in handing out flyers; Kushida was working in the hallway to keep people from leaving.
@@ -10510,7 +10493,6 @@ walk: y1v1 → DONE
 [rel:hasebe-haruka] (p.135–142) The withdrawal letters; the uniform box; the Airi memories.
 [rel:miyake-akito] (p.135–142) He holds a withdrawal letter too; he steps in front of Haruka once; he stays.
 [rel:sakura-airi] (p.139–142) The uniform she left for Haruka.
-
 ### y2v7 p.143–147 — The Shizuku SNS; “spread her wings”
 [scene] (p.143) §1 continues — Haruka walks out with news; the girl she loves reimagined; Haruka denial phase.
 [says:hasebe-haruka] (p.143) “This is... different...” — wiping her tears with the sleeve of her uniform, Haruka stood up and denied it.
@@ -10573,7 +10555,6 @@ walk: y1v1 → DONE
 [says:kushida-kikyou] (p.150–151) “Well, that's okay. If I keep wasting my time talking about it, it's going to interfere with the operation of the maid café. Why don't you just leave school like this without knowing anything? There's no point in knowing the truth now, is there?” — Kushida; then stopping in her tracks, Kushida turned her back to Haruka.
 [says:hasebe-haruka] (p.151) “Wait a minute, what's this about Airi?” — Haruka; the phone was now in her hand; the screen held someone's social networking account.
 [says:kushida-kikyou] (p.151) “You want to know?” — Kushida; frustrated that she had been taken advantage of, she forcefully closed the distance and grabbed Kushida's shoulder.
-
 ### y2v7 p.145–148 — The Shizuku reveal: "spread her wings"
 [scene] (p.145) “That girl can't do anything without me. She needed help.” — Haruka, grabbing the phone half-heartedly in her hand, tapped the screen with her finger and accessed the Internet; there was someone's social networking account.
 [note] (p.145) It was a convenient application that allowed you to send your thoughts to the whole world by tweeting; since this school does not allow students to reveal their identities, they were basically restricted, and there were probably almost no students who use this app; however, those who do not belong to this school can use it as much as they want.
@@ -10672,7 +10653,6 @@ walk: y1v1 → DONE
 [note] (p.151) He looked through the lens for a chance to take a picture, but she wouldn't give him one.
 [says] (p.151) “Shall I switch with Yōsuke?” — Ayanokōji.
 [says:hasebe-haruka] (p.151) “Wait. It's okay.” — Haruka raised her hand; it wasn't a full smile, but it was a good enough expression for a picture, so he released the shutter; one was taken alone; the other two were two-shot photos with the guests.
-
 ### y2v7 p.151–156 — The Japanese concept café line; the Chabashira-sensei hire
 [scene] (p.151) §3 — it was getting close to 3:00 pm.; he left the maid café to prepare for his final move; no one knew exactly how much they needed to sell in order to win first place.
 [note] (p.151) Of course, it would be possible to win first place for sure if one could sell more than half of the private points in circulation, but that was almost impossible due to the way the system worked; in other words, it was important to earn as much money as possible until the moment the festival was over.
@@ -10726,7 +10706,6 @@ walk: y1v1 → DONE
 [says] (p.158) “That's fine. I don't expect anything from the teacher.” — Ayanokōji.
 [note] (p.158) Chabashira-sensei staying inside the classroom in a maid outfit; that fact alone was enough to win.
 [rel:chabashira-sae] (p.153–158) The 100,000-point hire; the clumsy maid; the standing-room-only idea.
-
 ### y2v7 p.157–160 — Standing room only; the third slot
 [scene] (p.157) §4 — after pushing the reluctant Chabashira-sensei into the locker room, he pasted the text he had prepared on his cell phone and sent it to all his classmates at once as a bulk message; the purpose was to inform the students that Chabashira-sensei will be working as a maid for the last hour only, and to inform the students who were available that they were to go around the school advertising the event.
 [note] (p.157–158) As intended, the buzz spreaded swiftly through word of mouth; using teachers, this was a limited, oversized event that students would never be able to pull off; the air in the hallway was buzzing so much that it instantly turned into an uproar.
@@ -10787,16 +10766,190 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.160) Sudō and his team make the wall for the adults pouring in.
 [rel:wang-mei-yu] (p.161) Mii-chan's scream about the second slot filling.
 
-### y2v7 p.184–187 — Epilogue: Haruka's apology; the results
-[scene] (p.184) After the festival, Haruka addresses the class — she hasn't forgiven them, but the person she can't forgive most is herself; she and Akito were going to withdraw as revenge (costing 600 class points), but Airi's SNS (idol) showed her Airi had "spread her wings," so she wants to stay and graduate Class A to see her without embarrassment.
-[says] (p.184) "I have not forgiven everyone here."
-[says] (p.185) "After this festival ended, I was going to leave school."
-[says] (p.185) "Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her."
-[says] (p.186) "From now on, you can think of me as your regular Hasebe-san, okay?" — Haruka
-[trait] (p.184–187) Notes Haruka's speech, Horikita's grace ("if you are going to be punished, it will only be by remaining classmates with me"), and that Keisei, Akito and Haruka reconcile — "the group of five was now three," but the bond stronger; he deliberately doesn't approach them (a "farewell"), sensing they don't need him anymore; the results: Horikita's class 1st, Ryūen's 2nd, Sakayanagi's 4th, Nagumo's 3rd-year Class A 11th.
-[rel:hasebe-haruka] (p.184–186) She apologizes and stays; he doesn't rejoin the group — "that place doesn't need me."
-[rel:horikita-suzune] (p.186) She handles Haruka's return with grace — "you made a good decision."
-[note] (p.186) The final ranking: 1st 2nd-year B (Horikita), 2nd 2nd-year C (Ryūen), 3rd 3rd-year B, 4th 2nd-year A (Sakayanagi), 11th 3rd-year A (Nagumo) — "everything is going according to plan."
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.161 — Named as the architect of the trap
+[mentioned] (p.161) “I never thought that you would really make Chabashira-sensei into a maid.” — Horikita, leaving the classroom; the hidden gem worked as planned.
+[note] (p.161) “He seemed to have a connection with Amasawa-san and was extremely physically dangerous.” — Horikita's interior about Yagami-kun (unquoted); a person who may end up being a reason for Ayanokōji-kun to leave school; she handles the problem herself while he runs the maid café.
+[rel:horikita-suzune] (p.161) She leaves the festival to him; she goes to handle the Yagami problem.
+### y2v7 p.174–178 — Named by Yagami as the mastermind
+[mentioned] (p.174) “Everything is under the direction of Ayanokōji-senpai, who created the anagram of this letter, isn't it?” — Yagami-kun, addressing both Horikita and Nagumo; Yagami names him as the architect of the anagram letter.
+[mentioned] (p.174) “I feel bad for him. I'm sure he had already arrived at this conclusion far before I even had to show you the notes, Horikita-senpai.” — Yagami-kun; Yagami's inference, not fact.
+[mentioned] (p.175) “Ha-ha-ha! I knew Ayanokōji-senpai was here! I'm so happy!” — Yagami-kun; Yagami-kun laughed loudly and opened his arms to welcome the slowly opening door.
+[mentioned] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
+[mentioned] (p.178) “It would not be at all surprising... if Ayanokōji-kun was behind this event.” — Horikita's interior; she suspects him of orchestrating the trap.
+[mentioned] (p.181) “I was just going to close out the cultural festival today in an interesting way by exposing that guy's past, but he's done something absurd.” — Yagami.
+[mentioned] (p.181) “Get out of my way; I'm going to make Ayanokōji regret it. I'll make it so funny you won't stop laughing.” — Yagami.
+[mentioned] (p.181) “I knew you were devoted to Ayanokōji, but I didn't know you were that stupid.” — Amasawa.
+[mentioned] (p.181) “If you insist on going to Ayanokōji-senpai, I'll stop you before you do.” — Amasawa.
+[rel:yagami-takuya] (p.161, 174–183) Yagami's vendetta target; the trap crew took him away.
+[rel:horikita-suzune] (p.161, 178, 183) She handled the trap for him; she suspects him of orchestrating it.
+[rel:nagumo-miyabi] (p.172–183) He invokes him in front of Yagami; the letter is the anagram.
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.184–202 — The Epilogue: the results, the planners, the final call
+[scene] (p.184) §Epilogue — finally, 4:00 PM arrived, and the cultural festival finally came to an end; the accounting application was forcibly shut down; the results could be checked via cell phone starting 6 PM two hours later.
+[note] (p.184) The guests who had stayed until the end began to leave their seats as the café was closing, and gave their impressions of the maid café to the students; all of them had positive comments such as, “it was interesting,” and, “it was fun.”
+[note] (p.184) Incidentally, Chabashira-sensei ran out of the classroom like a rabbit as soon as 4 o'clock came; it was around 5:30 when all the customers left and all the classmates (except Kōenji) gathered at the maid café.
+[says:horikita-suzune] (p.184) “Good work, everyone. A lot happened, but at least we were able to end the festival in an ideal way. I don't think the sales could have been any better.” — Horikita.
+[note] (p.184) Ike and the others gathered in the classroom having just finished taking down the outdoor stalls; Horikita stepped up to sum up the cultural festival.
+[says:horikita-suzune] (p.184) “The results will be announced later, but there is something I want to talk to you about before that.” — Horikita.
+[note] (p.184) Yes, there were 37 students in the classroom; Akito and Haruka also remained behind.
+[note] (p.184) Although not prompted by Horikita, Haruka, who was the star of the show, stepped forward.
+[says:hasebe-haruka] (p.184) “I would like to be the first to tell you. I have not forgiven everyone here.” — Haruka.
+[says:hasebe-haruka] (p.184) “But the person I can't forgive the most is myself. I assumed that everyone who left the school would be unhappy. Yamauchi-kun, who disappeared last year, and Airi.” — Haruka.
+[note] (p.185) At the mention of Yamauchi's name, Sudō, Ike, and the others seemed to be thinking back.
+[says:hasebe-haruka] (p.185) “I had assumed that it was best for Airi to stay at this school. I assumed that was the happiest thing to do. That's why I hated all of them …… and wanted to take revenge.” — Haruka.
+[note] (p.185) Haruka clutched the skirt of her school uniform tightly as she expressed her frustration.
+[says:hasebe-haruka] (p.185) “After this festival ended, I was going to leave school.” — Haruka; it was a fact that she didn't have to tell, but she didn't want to hide it, so she confessed.
+[says:miyake-akito] (p.185) “I was going to go along with Haruka too.” — Akito.
+[says:miyake-akito] (p.185) “If we had dropped out, our class would not have reached Class A. It's the easiest and most powerful way to get revenge.” — Akito.
+[note] (p.185) No tricks would be needed; just leaving school was enough to make them lose a large number of class points.
+[says:hasebe-haruka] (p.185) “But if you give me a chance, please let me stay in this class.” — Haruka.
+[says] (p.185) “You've had a change of heart, haven't you?” — printed untagged (Horikita); flagged untagged.
+[says:hasebe-haruka] (p.185) “That girl is trying to spread her wings in the outside world. Kushida-san told me about it.” — Haruka.
+[note] (p.185) At this point, Kushida's name was mentioned, and everyone's eyes were drawn to her; the majority of them didn't understand what was going on, so Kushida opened her mouth as if to add something.
+[says:kushida-kikyou] (p.185) “Sakura-san, she seems to be working hard to become an idol; you can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — Kushida.
+[note] (p.185) Some students were surprised, others thought it was a good idea; but the common perception that emerged was the fact that Airi had taken a new step forward.
+[says:hasebe-haruka] (p.185–186) “Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her. I want to be able to show myself without embarrassment.” — Haruka.
+[note] (p.186) The class learned that this was why she chose to stay at this school.
+[says:horikita-suzune] (p.186) “You made a good decision, Hasebe-san.” — Horikita.
+[says:hasebe-haruka] (p.186) “I'm going to accept punishment for the trouble I caused.” — Haruka.
+[says:miyake-akito] (p.186) “I'm just as guilty. I didn't help with most of the festival and caused trouble for the class.” — Akito.
+[says:horikita-suzune] (p.186) “Skipping the festival is a problematic behavior, but fortunately it doesn't violate any rules. Kouenji-kun hasn't shown up once since this morning, so it's the same thing.” — Horikita.
+[note] (p.186) Horikita approached Haruka with a look of dismay and relief on her face.
+[says:horikita-suzune] (p.186) “If you are going to be punished, it will only be by remaining classmates with me. Can you face that reality?” — Horikita.
+[note] (p.186) I wonder what Haruka thought of the reflection in Horikita's eyes.
+[says:hasebe-haruka] (p.186) “I'm going to try my best. Yes. From now on, you can think of me as your regular Hasebe-san, okay?” — Haruka.
+[says:horikita-suzune] (p.186) “Don't worry. I won't bother you.” — Horikita nodded and declared. “Miyake-kun is the same as before as well. Is that okay?”
+[says:miyake-akito] (p.186) “Of course.” — Akito.
+[says:horikita-suzune] (p.186) “That's all for today then. Let's all finish the rest of the cleanup quickly.” — Horikita.
+[note] (p.186) Keisei walked up to Haruka and Akito, somewhat hesitantly; starting with Akito's apology, Keisei's eyes reddened a bit and he spoke with relief; Haruka's apology brought the three of them together for the first time while, and they smiled slightly at each other; Akito and Keisei turned their attention to Haruka as if they had made up their minds; the two of them signaled to Haruka as well, and the eyes of those three turned to him in confusion.
+[note] (p.186) If he were to approach them here and now, the group might be resumed; that was no longer necessary; he turned his back and went to send words of thanks to Satō and the others.
+[note] (p.186) The group of five was now three, but he hoped that the bond between them would be stronger than before; that place doesn't need him; they could sense his actions as a sign of farewell; they didn't approach him or call out to him.
+[note] (p.186–187) It was quick after that; the cleanup that was left to be done would soon be back on track with 37 people; the cleanup was done before 6:00 PM; then the results of the festival were announced.
+[note] (p.186–187) The results: 1st place, 2nd year B class (+ 100 class points); 2nd place, 2nd year C class (+ 100 class points); 3rd place, 3rd year B class (+ 100 class points); 4th place, 2nd year A class (+ 100 class points); 5th place, 1st year A class (+ 50 class points); 6th place, 3rd year C class (+ 50 class points); 7th place, 2nd year D class (+ 50 class points); 8th place, 1st year C class (+ 50 class points); 9th place, 3rd year D class; 10th place, 1st year B class; 11th place, 3rd year A class; 12th place, 1st year D class.
+[says] (p.187) “We're in first place! We did it!” — printed untagged (classmates); flagged untagged.
+[says] (p.187) “I guess Chabashira-sensei's cosplay really struck!” — printed untagged; flagged untagged.
+[says] (p.187) “But Ryūen's place is also in second place, and Sakayanagi's class is in fourth place, which is quintessential.” — printed untagged; flagged untagged.
+[says] (p.187) “Ayanokōji-kun.” — printed untagged (a classmate calling him); flagged untagged.
+[says] (p.187) “Yeah, everything is going according to plan.” — Ayanokōji.
+[note] (p.187) It was a certainty that Horikita's class would take the top place, and it was assumed from the beginning that Ryūen's class would also be in the top position.
+[says] (p.187) “I wondered how the one-liners would fare, but you've managed to outsmart them.” — printed untagged; flagged untagged.
+[says] (p.187) “But there was also something unexpected: Sakayanagi came in fourth.” — printed untagged; flagged untagged.
+[says] (p.187) “Yes. Did you see their performance?” — printed untagged; flagged untagged.
+[says] (p.187) “No, I didn't go to the third floor of the special wing today. Did you see them?” — printed untagged; flagged untagged.
+[says] (p.187) “Class A was selling brochures and stuff about the school for a low price. They didn't have any other food, drink, or other offerings. I wonder what kind of tricks they used …….” — printed untagged; flagged untagged.
+[says] (p.187–188) “The clue is probably at the bottom of the list.” — printed untagged; flagged untagged.
+[says] (p.188) “First year Class D, Housen-kun's class, right? What about it?” — printed untagged; flagged untagged.
+[says] (p.188) “If they were the bottom of the class as a result of a struggle, fine. But that's unthinkable. The class's entertainment, which was mainly a reenactment of the festival, was quite successful. I thought it was one of the top classes. Did you think that was lower than the third-year A class?” — printed untagged; flagged untagged.
+[says] (p.188) “The 11th-ranked class is third-year Class A. They were priced out of the competition from the start. It was only about entertaining to please the guests, right?” — printed untagged; flagged untagged.
+[note] (p.188) It was confirmed that the haunted house and other activities could be played for 100 points; on the other hand, the shooting and other stalls that Hosen had set up were priced appropriately; the top class got 100 points for this festival; it means that behind the scenes, Hosen might have gotten something else.
+[says] (p.188) “The top class got 100 points for this festival. It means that behind the scenes, Hosen might have gotten something else.” — printed untagged; flagged untagged.
+[says] (p.188) “Conceivably, you mean private points?” — printed untagged; flagged untagged.
+[says] (p.188) “Doesn't this remind you of last year's desert island test?” — printed untagged; flagged untagged.
+[note] (p.188) There was an agreement between Ryūen and Katsuragi to receive private points in exchange for letting them earn class points; it would not surprise him if something similar happened between Sakayanagi and Hōsen.
+[says] (p.188) “It's not impossible. Or maybe they signed a similar contract to replace it.” — printed untagged; flagged untagged.
+[note] (p.188) The accounting was done through a cell phone; it would be a viable enough strategy if Hōsen and his friends had received cell phones from the second-year A class for accounting purposes and donated all sales; if they were also providing funds to Hōsen's class for the festival, it would make sense for the size of the festival to grow.
+[says] (p.188) “But she did,” he said. — printed untagged; flagged untagged.
+[says] (p.188) “Because if you notice, she's taking the choice to win.” — printed untagged; flagged untagged.
+[note] (p.188) Either way, it meant that Sakayanagi won't be easily satisfied; it was clear that they were steadily producing results, even though they appeared to have abandoned the game.
+[scene] (p.188) §1 — the meeting was then dismissed, but Horikita called some members of the group to the Class B classroom; they were the three maid café planners, with the exception of Matsushita, who was absent due to illness.
+[says:horikita-suzune] (p.188) “Actually, I have something I have to apologize to you guys for.” — Horikita.
+[says] (p.188) “What? Apologize for what? What is it?” — printed untagged (Satō); flagged untagged.
+[note] (p.188) It had been a tough day, but there had been no particular occasion in which Horikita had shown any fault; since Satō and the others had absolutely nothing in mind, they tilted their heads curiously.
+[says:horikita-suzune] (p.188) “You remember how Ryūen-kun leaked the maid cafe and how it spread throughout the school, don't you?” — Horikita.
+[says] (p.188) “Yeah. That was a bit of a panic, wasn't it?” — printed untagged (Satō or Mii-chan or Maezono); flagged untagged.
+[says:horikita-suzune] (p.189) “Actually, it was already decided from the beginning that he would leak the maid café.” — Horikita; the story stemmed from his suggestion to somehow join hands in order to cooperate with each other and win the top positions at the festival.
+[says] (p.189) “What do you mean, the leak was set in stone? What do you mean?” — printed untagged; flagged untagged.
+[says:horikita-suzune] (p.189) “It was all planned. Ryūen-kun and I would work together, he would betray us and make the maid cafe's performance known.” — Horikita.
+[says] (p.189) “What? No way!” — printed untagged; flagged untagged.
+[note] (p.189) Of course they would be surprised; Horikita and he were the only ones in the class who knew about this.
+[says:horikita-suzune] (p.189) “So you also had a bet where the winner gets private points?” — Horikita.
+[says:horikita-suzune] (p.189) “That was Ryūen-kun's idea. I was a little nervous when he suddenly said it. Hashimoto and the others, who had been looking forward to the result of the bet, must have been decisive in the betting.” — Horikita.
+[says:horikita-suzune] (p.189) “Yes, Sakayanagi-san heard a lot of information from third parties. I'm sure that Hashimoto-kun and other spies must've told her about this as well. The two classes were supposed to cooperate with each other, but they got into a dispute, and Ryūen-kun unilaterally betrayed them.” — Horikita.
+[says:horikita-suzune] (p.189) “Then what about the one million points you'd get if you won first place?” — Horikita.
+[says:horikita-suzune] (p.189) “I'm sorry, but we've also confirmed that in fact, no matter who won, no points will be handed over to either of them. He was willing to do it himself, but I think he's a bit chilled by now. I kept this fact a secret from our classmates, including Kei, with the exception of Horikita. And no one in Ryūen's class, except Ryūen and Katsuragi, had heard about it.” — Horikita.
+[note] (p.189) Even close associates such as Ishizaki and Albert were no exception; that was why she could only take it as a sign that Ryūen was serious about keeping the agreement.
+[says:horikita-suzune] (p.189) “One of their strategies was to put up a Japanese-style concept café as a rival. Besides appealing to the public that we were enemies, it was also to keep other rivals out.” — Horikita.
+[note] (p.189) Rivalry; the higher the excitement, the more responsibility and money down the drain for the adults; if they knew that there was a battle they couldn't lose, it would be natural to want to let the ones who have the better shoulder win; on the other hand, other classes and grades were not in a fight to the death.
+[says:horikita-suzune] (p.189) “I'm really sorry. I even kept quiet to you guys, even though I was trying to win.” — Horikita.
+[note] (p.190) Horikita was always feeling guilty because she wanted to reveal the plan as soon as possible; he was sure the three of them could tell that she was sincerely sorry.
+[says] (p.190) “It's okay. We were first in the results, hey?” — printed untagged (Satō, happily confirming to Mii-chan and Maezono); flagged untagged.
+[says] (p.190) “Well, you know. If you do well, I guess I don't mind so much.” — printed untagged (Mii-chan); flagged untagged.
+[says] (p.190) “Yes. If I had been told beforehand, it might have shown on my face.” — printed untagged (Mii-chan); flagged untagged.
+[says] (p.190) “Good for you, Horikita.” — printed untagged; flagged untagged.
+[says:horikita-suzune] (p.190) “Yes, it's a weight off my shoulders. You guys can tell Matsushita-san about this. And as soon as the private points are transferred to us, we'll pay you all.” — Horikita.
+[says] (p.190) “We did it!” — printed untagged (the three high-fived each other); flagged untagged.
+[says] (p.190) “Was Chabashira-sensei becoming a maid also discussed from the beginning? That was probably the biggest surprise.” — printed untagged; flagged untagged.
+[says] (p.190) “That was amazing… we were on top of the scores within an hour.” — printed untagged; flagged untagged.
+[says:horikita-suzune] (p.190) “I know you have a lot to talk about, but we're going to end today off. Thank you so much.” — Horikita.
+[note] (p.190) The class found a strategy in the suggestion of a maid café and was able to win first place; he was grateful that other uncalculated factors also worked positively.
+[note] (p.190) After seeing the three of them off, only Horikita and he were left in the classroom.
+[says:horikita-suzune] (p.190) “Are you sure you're okay with it? Most of the plan was your own idea. You could've claimed more credit, you know? Staging the confrontation and making Chabashira-sensei the maid, it was undeniably your ability that contributed to the first place.” — Horikita.
+[says] (p.190) “It was only possible because of Horikita's stand as leader.” — Ayanokōji.
+[says:horikita-suzune] (p.190–191) “If it had been you in the past, you wouldn't have included me in this scheme, would you?” — Horikita.
+[note] (p.191) In the empty classroom, Horikita muttered without looking at me.
+[says:horikita-suzune] (p.191) “I guess so.” — Horikita.
+[says:horikita-suzune] (p.191) “You don't deny it, do you?” — Horikita.
+[says:horikita-suzune] (p.191) “It's a fact, so it can't be helped. You knew it too, that's why you asked me, right?” — Horikita.
+[says:horikita-suzune] (p.191) “Well, yeah, that's probably true.” — Horikita.
+[note] (p.191) It's not that he, Ryūen, and Katsuragi couldn't have forced the issue by themselves; but when he made this proposal, he told Horikita at the same time without hesitation; he wasn't sure if she could play the role or not, but it was not something that could be done without the leader; if the proposal had been completely rejected, he would've been fine with it.
+[says:horikita-suzune] (p.191) “I wouldn't hesitate to consider deceiving my colleagues if it's an effective means to win. When it's time to proceed, I will proceed, even if it's at a risk. Do you understand?” — Horikita.
+[note] (p.191) The idea of creating strategies herself became more ingrained in Horikita's body.
+[says:horikita-suzune] (p.191) “Maybe now I can understand. I think I'm starting to see it, little by little.” — Horikita.
+[note] (p.191) It may not be a very strong feeling yet, but she was definitely getting a feel for it.
+[says:horikita-suzune] (p.191) “That's enough for today. The sun will be setting soon.” — Horikita.
+[says:horikita-suzune] (p.191) “Wait. Ayanokōji-kun, I really need to ask you something right now.” — Horikita.
+[note] (p.191) He had a hunch that Horikita would refuse to leave when he tried to encourage her to do so; he had a feeling that Horikita and Ibuki's presence in the student council room was not a mere coincidence; it must be because they had arrived at that place by following some sort of thread.
+[says:horikita-suzune] (p.191) “What is it?” — Horikita.
+[note] (p.191) Just in time or not, his cell phone rang; he looked at the screen and saw that it was an incoming call from an unknown number.
+[says] (p.191) “Sorry, hold on a second.” — Ayanokōji.
+[says:horikita-suzune] (p.191) “Yeah, yeah.” — Horikita.
+[note] (p.191) “Hello?” — Ayanokōji answered.
+[note] (p.191) “Are you still in school? I'd like to talk to you for a minute if you'd like.” — the caller; the voice sounds familiar — Tsubaki Sakurako, first-year Class C.
+[note] (p.191) “Are you alone now?” — Ayanokōji.
+[note] (p.192) “Unfortunately not.” — the caller.
+[note] (p.192) “Then why don't we meet up?” — the caller.
+[note] (p.192) “Where are you?” — Ayanokōji.
+[note] (p.192) “I just left the front door. You're still on campus, right?” — the caller.
+[note] (p.192) “Give me five minutes.” — Ayanokōji.
+[note] (p.192) “Okay.” — the caller.
+[note] (p.192) After a short call, he told Horikita, “I'm sorry, but I'm going to have to step out for a bit…I'll be back in about 10 or 20 minutes. Then we'll continue our conversation.” — Horikita: “Okay, I'll wait here.”
+[note] (p.192) Once he was alone, he decided to call the person who had helped him the most today.
+[says] (p.192) “The third-year's information network is top-notch; whether it was Kushida Kikyo or Hasebe Haruka, you're able to find them immediately. I've once again realized the power of Student Council President Nagumo.” — Ayanokōji.
+[says] (p.192) “Did you call me to say that?” — printed untagged (Nagumo); flagged untagged.
+[says] (p.192) “I just wanted to thank you in advance. You were very helpful in today's search.” — Ayanokōji.
+[note] (p.192) The number of eyes and the leadership among the third-year students who quickly located Haruka and Kushida were magnificent.
+[says] (p.192) “I never thought you'd use the strategy I used on you for your own benefit.” — printed untagged (Nagumo); flagged untagged.
+[says] (p.192) “It was helpful that you were able to tell me what was going on in the student council room. Thanks to you, I was able to respond quickly.” — Ayanokōji.
+[says] (p.192) “At first, I thought it was Yagami's crazy delusion, but was there actually a trick to that letter?” — printed untagged (Nagumo); flagged untagged.
+[says] (p.192) “It seems to be a love letter to Student Council President Nagumo, but as Yagami complained, it had a somewhat complicated anagram in it. If someone deciphers it, they arrive at the sentence, ‘I have an important meeting in the student council room after 3:00 p.m.’ I also mixed in a few other words that I thought would be interesting. If he had a strong interest, he would naturally take me up on the offer.” — Ayanokōji.
+[note] (p.192) In addition to the anagram, the love letter had a few other little touches; the envelope used for the letter and the stickers that held it together were made available to anyone at any time at the Keyaki Mall; if he had custom-made and bought them on the Internet, Yagami might've hesitated, fearing that the contents might be seen and evidence would be left behind.
+[note] (p.192–193) That's why he could check the contents without hesitation; furthermore, by writing directly, he could give Yagami information about the handwriting; white room students were thoroughly trained in calligraphy, so their handwriting were sure to be professional; the love letter prepared in this way was passed to Horikita through another girl using Kei; then, she was led to hand it to Yagami, giving him time to examine it; since there was a possibility that Horikita would hand it directly to Nagumo, he had him act like he was in a bad mood that day so that she couldn't hand it over immediately.
+[says] (p.193) “I didn't think he was the guy who went rogue on the island. How much did you know about him?” — printed untagged (Nagumo); flagged untagged.
+[says] (p.193) “I don't know anything. Yagami just confessed on his own.” — Ayanokōji.
+[says] (p.193) “What kind of a trick was used for Komiya and the others to name Yagami? Was it a coincidence that the teacher showed up?” — printed untagged (Nagumo); flagged untagged.
+[says] (p.193) “I just told them that the person at the center of the trouble might be lured out. They couldn't identify the culprit, and Ryuen's side wanted a hint. I asked them to take the suggestion knowing the risk that no one would come to the student council. Or even if they did, nothing would happen.” — Ayanokōji.
+[says] (p.193) “I see? Well, I wonder how much you're telling the truth.” — printed untagged (Nagumo); flagged untagged.
+[note] (p.193) He left it to his imagination; what he did was really nothing but trivial; nothing of note.
+[says] (p.193) “Oh well. Now you're ready to make good on your promise, aren't you?” — printed untagged (Nagumo); flagged untagged.
+[says] (p.193) “Of course. I'm looking forward to it, President Nagumo.” — Ayanokōji.
+[note] (p.193) As he approached the front door, he ended his call and reached for his shoe box.
+[scene] (p.202) The episode ends with class points at the end of the November festival: Class A led by Sakayanagi: 1201; Class B led by Horikita: 966; Class C led by Ryūen: 740; Class D led by Ichinose: 675.
+[rel:horikita-suzune] (p.184–191) She leads, apologizes to the planners, keeps the secret, tests his credit, sleeps at her desk.
+[rel:hasebe-haruka] (p.184–202) The speech; the uniform; the reconciliation; she stays.
+[rel:kushida-kikyou] (p.185) She speaks for Airi in front of everyone; her name echoes now.
+[rel:nagumo-miyabi] (p.191–193) The final call; the plan confirmed; the promise.
+[rel:satou-maya] (p.188–190) The planner apology; the high-five.
+[rel:wang-mei-yu] (p.188–190) The planner apology.
+[rel:maezono] (p.188–190) The planner apology.
+[rel:tsubaki-sakurako] (p.191–199) The White Room mover; the expulsion.
+[rel:utomiya-riku] (p.191–199) The call.
+[rel:sakayanagi-arisu] (p.187–188, 202) The brochure trick; 4th place; 1,201 class points.
+[rel:housen-kazuomi] (p.187–188, 202) 12th place; the rumor about the Hōsen contract.
+[rel:chabashira-sae] (p.184, 199–202) She runs out at 4; the staff room praise; the final plan.
+<!-- walk: y2v7 Epilogue → p.202 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

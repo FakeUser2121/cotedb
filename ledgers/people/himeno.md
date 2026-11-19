@@ -32,10 +32,9 @@ char_id: himeno · class: Class 2-D (Ichinose) · status: student (y2v7)
 [says] (p.68) “But if we don't do it now, there's no way we will be able to, no matter how we think about it! It can't be done!” — Himeno shouted, exploding with emotion.
 [says] (p.68) “Even Kanzaki-kun knows that!” — her shout echoed down the hallway.
 [trait] (p.62–68) Quietly perceptive — she privately thinks Kanzaki's resistance was right but stayed silent due to peer pressure (white is black when the class says so); refuses to stand in a minority; Kanzaki's transfer threat — leaving the class without its only capable leader — shakes her until she finally explodes: she wants to graduate from Class A.
-[rel:ayanokouji-kiyotaka] (p.62–68) He draws out her true feelings by letting Kanzaki unload first and by confronting her with Kanzaki's resolve — “Even if you don't say it, I see you.”
+[rel:ayanokouji-kiyotaka] (p.62–68) He draws out her true feelings by letting Kanzaki unload first and by confronting her with Kanzaki's transfer threat — her explosion is the breakthrough.
 [rel:kanzaki-ryuuji] (p.62–68) His transfer threat hurts her; he gives her every opening to speak; her explosion is the breakthrough.
 [rel:ichinose-honami] (p.62–68) She is critical of the class's "pretty things" and Ichinose's direction but stays silent — until she can't.
-
 ### y2v7 p.70–71 — The spark; "a girl she is curious about"
 [scene] (p.70–71) After the meeting, Himeno and Kanzaki begin to plan real change; Ayanokōji urges them to find students like them and to keep building the circle — a small spark into a big flame.
 [says] (p.71) “We have the same desire to graduate from Class A. Until now, I couldn't tell anyone, but…” — Himeno confides her goal to Kanzaki.
@@ -43,9 +42,10 @@ char_id: himeno · class: Class 2-D (Ichinose) · status: student (y2v7)
 [says] (p.71) “You know… After listening to Ayanokōji-kun's story, there's a girl I'm a little curious about. Would you like to go see her after this?” — Himeno; Kanzaki nodded vigorously at her suggestion.
 [note] (p.71) Ayanokōji's closing read: "it looks like they may be more successful than expected. They may really beat Horikita's class in the end-of-year exam. Either way, it doesn't hurt my plans."
 [trait] (p.70–71) Passionate and decisive once roused — she reveals her long-hidden wish to graduate from Class A, takes a “childlike step forward,” and recruits Kanzaki for a girl she is curious about.
-<!-- walk: y2v7 Ch.2 → p.71 -->
 
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.113 — Named in narration
 [mentioned] (p.113) “Apparently, the first step towards change with Himeno may have worked.” — the narration.
 [note] (p.113) Named only — the first step of the two-person plan may be working.
 <!-- walk: y2v7 Ch.5 → p.130 -->
+

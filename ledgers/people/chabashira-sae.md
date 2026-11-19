@@ -1502,6 +1502,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.7–12) The additional-funds and OAA motivations hang on her choices; Chabashira watches her hand raise the tie question with genuine interest.
 [rel:ike-kanji] (p.10) The pocket-money question — she answered without looking.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.153–164 — The 100,000-point hire; standing room only; 63 photos
 [scene] (p.153) §3 — it was getting close to 3:00 pm; he left the maid café to prepare for his final move; he called Chabashira-sensei, who would have been using her points for a non-second year class on campus.
 [says:ayanokouji-kiyotaka] (p.153) “Sorry for calling you all the way here, Chabashira-sensei.” — Ayanokōji.
@@ -1604,8 +1605,60 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:kushida-kikyou] (p.158–164) The stunned Kushida; "He's a nuisance to have as an enemy."
 [rel:sudou-ken] (p.160) Sudō and his team make the wall for the adults pouring in.
 [rel:wang-mei-yu] (p.161) Mii-chan's scream about the second slot filling.
+
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
+<!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.184–202 — The Epilogue: first place; the fallout
+[scene] (p.184) §Epilogue — finally, 4:00 PM arrived, and the cultural festival finally came to an end; the accounting application was forcibly shut down; the results could be checked via cell phone starting 6 PM two hours later; it was around 5:30 when all the customers left and all the classmates (except Kōenji) gathered at the maid café.
+[note] (p.184) Chabashira-sensei ran out of the classroom like a rabbit as soon as 4 o'clock came; running around in that outfit would've been conspicuous, but let's leave it at that.
+[note] (p.187) “I guess Chabashira-sensei's cosplay really struck!” — printed untagged; not assigned.
+[scene] (p.198) “After finishing my conversation with Tsubaki and Utomiya,” — Ayanokōji ran into an exhausted Chabashira-sensei on her way back to class.
+[says:ayanokouji-kiyotaka] (p.199) “Thanks for your hard work today. You were very active.” — Ayanokōji.
+[says] (p.199) “What's with the compliment?” — Chabashira-sensei was clearly angry as she turned her childlike glare on him without hiding it.
+[says:ayanokouji-kiyotaka] (p.199) “Did you really hate it so much that we made you wear a maid's uniform?” — Ayanokōji asked knowingly; she shook her head and looked down.
+[says] (p.199) “When I went back to the staff room, my pictures were on the desks of teachers everywhere. That's not all. I wonder how many teachers I've been accosted by in the short time I've been there, how many stories about my maid's uniform, how many embarrassments I've suffered. For the time being, I sincerely wish to be a shellfish.” — Chabashira-sensei.
+[note] (p.199) It must have been a really hard time for her, because she felt the pressure so intensely.
+[says:ayanokouji-kiyotaka] (p.199) “That's not for me to know. It must be symbolic of the teacher's popularity.” — Ayanokōji.
+[says] (p.199) “I am definitely not popular. You've gone the extra mile.” — Chabashira-sensei.
+[note] (p.199) If you really believe there was such a thing as no popularity, you were going to have a hard time in the future; there must've been many adults who appreciated Chabashira-sensei as a member of the opposite sex, even if they hadn't surfaced until now.
+[says] (p.199) “That's it. The class won first place, so that's good.” — Chabashira-sensei swallowed hard and held back, as if she thought there was no point in blaming him any more.
+[says] (p.199) “Not good at all. If anything, the top sales amount was a sure thing even if I didn't do anything.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.199) “I see. Well, first place looks better than second and third place, doesn't it?” — Ayanokōji.
+[says] (p.199) “That's not like you to say.” — Chabashira-sensei.
+[says] (p.199) “Even so, I didn't think you were cooperating with Ryūen's class under the guise of being hostile to them.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.200) “If one class fights alone, the maximum strength is about 40 people. But if two classes join hands, nearly twice that number of people will join hands though, not foolproof.” — Ayanokōji.
+[note] (p.200) Propaganda doesn't necessarily have to go hand in hand on the surface; if you get a lot of people together, albeit in different forms, you can make a big show without spending a lot of money.
+[says] (p.200) “Even the staff room was surprised. Everyone thought it was a real showdown.” — Chabashira-sensei only mentioned the festival's success, but not Yagami's withdrawal.
+[note] (p.200) Even first-year students who were not directly involved in the event should know about it as well as teachers, but none have spoken about it with him, who they think was uninvolved; as a teacher at this school, she was making the right decision.
+[says] (p.200) “By the way, aren't you going home?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.200) “I have Horikita waiting in the classroom. Are you still working overtime?” — Ayanokōji.
+[says] (p.200–201) “I'm making the rounds of the school. There have been several reports of forgotten items filed by guests.” — Chabashira-sensei; so even when the festival was over, the teachers were still busy cleaning up afterwards.
+[scene] (p.201) When he returned to the classroom with Chabashira-sensei, Horikita was lying on her desk with her upper body on top; Chabashira-sensei and he looked at each other and decided not to talk to her; he went closer to check and found that she seemed to be asleep.
+[note] (p.201) A strong breeze was coming in through the opened window; for a moment, he wondered if I should cover her with her uniform jacket, but decided against it.
+[note] (p.201) “Nn……” — she was talking in her sleep; it was a bit of a startling statement.
+[note] (p.201) “No…” — she was talking in her sleep.
+[note] (p.201) Horikita must've been tired today; he closed the window quietly so she wouldn't catch a cold before heading back to the corridor.
+[says] (p.202) “I'm going to let her sleep a little longer.” — Chabashira-sensei.
+[says] (p.202) “Are you waiting for her to wake up?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.202) “Well, we did manage to get first place at the school festival. She deserves this much.” — Ayanokōji.
+[says] (p.202) “You can leave. I'll take over here.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.202) “Are you sure?” — Ayanokōji.
+[says] (p.202) “As the man behind the scenes, you deserve that much.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.202) “Then I'll take you up on your offer.” — Ayanokōji.
+[says] (p.202) “But Ayanokōji, don't ever think of a plan to humiliate me again, okay?” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.202) “You still care?” — Ayanokōji.
+[says] (p.202) “This is a day I will never forget in my life.” — Chabashira-sensei.
+[says:ayanokouji-kiyotaka] (p.202) “Well, Chabashira-sensei, thank you for your efforts. Someday that will be a good memory too.” — Ayanokōji.
+[says] (p.202) “Don't get cocky, student.” — Chabashira-sensei; she sighed and leaned against the classroom door.
+[note] (p.202) Well then, I'm going home now; class points at the end of the November festival: Class A led by Sakayanagi: 1201; Class B led by Horikita: 966; Class C led by Ryūen: 740; Class D led by Ichinose: 675.
+[trait] (p.202) The results: first place, 2nd year B class (+100 class points); class points at the end of the November festival: Sakayanagi's Class A 1,201 (4th place finish), Horikita's Class B 966 (1st place finish), Ryūen's Class C 740 (2nd place finish), Ichinose's Class D 675 (7th place finish).
+[rel:horikita-suzune] (p.184–202) He watches over her through the festival; she sleeps at her desk; Chabashira stands guard.
+[rel:kushida-kikyou] (p.184–185) She speaks about Airi.
+[rel:hasebe-haruka] (p.184–186) She's the star of the sum-up.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

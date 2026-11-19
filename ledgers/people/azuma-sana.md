@@ -10,17 +10,7 @@ char_id: azuma-sana · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — azuma-sana mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.132-133, p.148.
-[mentioned] (p.7) Passing mention only.
-
-
-
-
-
 <!-- walk: y2v8 Epilogue → p.208 -->
-
 
 ### y2v7 p.132–133 — The persuaded volunteer
 [scene] (p.132) “Later, with a recommendation from Shinohara, he strongly persuaded Azuma. It was decided that she would join us.” — she joined Kushida in the hallway to hold up the customers waiting there.

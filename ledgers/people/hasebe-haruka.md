@@ -692,8 +692,8 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.6) Named as one of the two people she blames for Airi's expulsion.
 [rel:ayanokouji-kiyotaka] (p.6) Named as one of the two people she blames for Airi's expulsion.
 [rel:sakura-airi] (p.6) Airi is the friend whose expulsion broke her reconnection; she names her among those she made friends with again.
-<!-- walk: y2v7 Prologue → p.6 -->
 
+<!-- walk: y2v7 Prologue → p.6 -->
 ### y2v7 p.13–16 — Maid café approach; Haruka and Akito under watch
 [scene] (p.13–16) The maid café planners discuss Haruka and Akito — they antagonize the class, do not talk to anyone, and Haruka may try to do something to the class; Horikita and Ayanokōji refuse to question her yet and give them a general role instead.
 [note] (p.14) The responder to Matsushita's first question prints untagged; the translation does not say whether Horikita or Ayanokōji answered; not assigned.
@@ -704,19 +704,19 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:miyake-akito] (p.13–16) She and Akito keep distance from the class; a general role was assigned to both together.
 [rel:matsushita-chiaki] (p.13–16) Matsushita is the one who senses the revenge plan coming and keeps watch.
 [rel:horikita-suzune] (p.13–16) Horikita refuses to exclude her — “If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.”
-
 ### y2v7 p.25 — Seen with Akito at Keyaki Mall
 [mentioned] (p.25) Sudō spots Akito and Haruka's backs at Keyaki Mall; Ayanokōji asks, “It's not a date, is it?” (untagged); Sudō grinds his teeth — “I wasn't particularly close to Sakura, but I've had similar experiences.” — the echo of withdrawal.
 [note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.84 — The early departure before the rehearsal
 [scene] (p.84) The day before the festival; Haruka and Akito left the classroom before the rehearsal began; Maezono asked about them; Horikita notes there's no point in forcing them.
 [note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
 [rel:miyake-akito] (p.84) He left with her.
 [rel:horikita-suzune] (p.84) Horikita's read: let them be tested in isolation.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.135–152 — The Keyaki Mall confrontation; her return to the café
 [scene] (p.135) §1 — Haruka sits on a bench in a place with benches for students to take a rest on the road leading to the Keyaki Mall; Akito stands nearby, staring at him; AK approaches.
 [says] (p.135) “How did you find this place, Kiyopon?” — Haruka.
@@ -941,8 +941,8 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:kushida-kikyou] (p.145–151) The SNS reveal; the phone snatch.
 [rel:sakura-airi] (p.139–151) Shizuku; the auditions; the idol SNS.
 [rel:hirata-yousuke] (p.151) The Yōsuke switch offer.
-<!-- walk: y2v7 Ch.6 → p.160 -->
 
+<!-- walk: y2v7 Ch.6 → p.160 -->
 ### y2v7 p.184–186 — Haruka's apology; staying for Airi
 [says] (p.184) "I have not forgiven everyone here."
 [says] (p.184) "But the person I can't forgive the most is myself."
@@ -955,6 +955,8 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.185) She wants to graduate Class A to see Airi (now an idol) without shame.
 [rel:miyake-akito] (p.185) He was going to withdraw with her; stays when she does.
 [rel:ishigami-kyou] (p.186) He reconciles with her and Akito — the three of them smiled slightly at each other.
+<!-- walk: y2v7 Epilogue → p.202 -->
+
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

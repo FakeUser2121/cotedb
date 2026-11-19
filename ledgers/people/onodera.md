@@ -117,14 +117,6 @@ char_id: onodera · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — onodera mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.8-9, p.99-100.
-[mentioned] (p.7) Passing mention only.
-
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->

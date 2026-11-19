@@ -931,8 +931,8 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says:horikita-suzune] (p.74) “Good morning, Kōenji-kun.” — Horikita.
 [note] (p.74) “I heard that Kōenji is the only one not assigned work for the cultural festival.” — "He told me he wouldn't do anything. I'm sure I won't change his mind." — Horikita's exchange about him.
 [rel:horikita-suzune] (p.74) She notes his festival non-assignment; he doesn't engage.
-<!-- walk: y2v7 Ch.3 → p.83 -->
 
+<!-- walk: y2v7 Ch.3 → p.83 -->
 ### y2v7 p.84 — The three exempted from festival work
 [scene] (p.84) The day before the festival; Horikita's class runs four booths; 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
 [note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.

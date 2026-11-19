@@ -390,11 +390,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — tsukishiro mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.115, p.171.
-[mentioned] (p.7) Passing mention only.
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->

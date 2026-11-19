@@ -115,13 +115,23 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kinoshita-minori mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.175-177.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.175–176 — Brought by Ryūen; the identification
+[scene] (p.175) §2 — Kinoshita showed up with Ryūen-kun with Komiya; she stood discreetly behind Ryūen; two of Ryūen's classmates also showed up; Sakagami-sensei and Mashima-sensei also showed up later in the student council room.
+[says:ryuuen-kakeru] (p.175) “Oh, you look pretty good in that outfit, Ibuki. What do you think, Kinoshita?” — Ryūen.
+[says] (p.175) “Honestly. I think you look cute with your little bow.” — Kinoshita.
+[says:ryuuen-kakeru] (p.176) “This is the one you guys were talking about, right?” — Ryūen-kun asked Kinoshita-kun and the others standing discreetly behind him, confirming something.
+[says] (p.176) “Yes. I'm sure.” — Kinoshita.
+[note] (p.176) Komiya-kun and Kinoshita nodded strongly with nervous looks on their faces.
+[note] (p.176) “Yes, sir. I'm sure of it.” — Komiya.
+[note] (p.176) Ryūen-kun heard this and, with a wan smile on his face as usual, moved even closer to Yagami-kun.
+[says:ryuuen-kakeru] (p.176) “Don't play dumb. Komiya and Kinoshita reminded me just the other day. The reason they got seriously injured during the desert island test was because you violently attacked them.” — Ryūen.
+[note] (p.176) Severe injuries on a deserted island; they were seriously injured with broken bones; as Horikita recalled, an accident caused by carelessness.
+[says:ryuuen-kakeru] (p.176–177) “These guys had lost their memories due to the shock of their injuries, but once it was put away as an accident, they remembered. They remember now that you were the culprit.” — Ryūen.
+[note] (p.177) Shinohara is named as one of those injured; the fourth injured student; her name is mentioned only in this sentence.
+[rel:yagami-takuya] (p.176) Yagami was behind her injury; she and Komiya remember now.
+[rel:komiya-kyogo] (p.176) The other of the two injured brought by Ryūen to identify Yagami.
+[rel:ryuuen-kakeru] (p.175–182) He brought them; they nodded; she spoke only the compliment about Ibuki's bow and “Yes. I'm sure.”
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v12
 

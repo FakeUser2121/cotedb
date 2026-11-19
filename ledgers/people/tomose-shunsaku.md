@@ -52,10 +52,3 @@ char_id: tomose-shunsaku · role: Illustrator · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — tomose-shunsaku mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.204.
-[mentioned] (p.7) Passing mention only.
-
-
-

@@ -877,6 +877,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 ### y2v7 p.25 — The three idiots; withdrawal
 [mentioned] (p.25) “Sudō used to hang out with Yamauchi so much that he was once called one of the three idiots alongside Ike.” — the narration; “That must be why Yamauchi's withdrawal was particularly painful for him.” — his withdrawal is the model Sudō measures Haruka's situation against.
 [rel:sudou-ken] (p.25) His withdrawal is the personal wound Sudō carries into the Haruka/Akito crisis.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ## y2v8
 

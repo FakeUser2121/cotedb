@@ -373,6 +373,7 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.17) “With all three of them moving at the same time, surely they weren't just out for a light stroll.” — the trio's real purpose stays hidden.
 [rel:hashimoto-masayoshi] (p.17–18) He plays with Hashimoto's probe; she deflects.
 [rel:sakayanagi-arisu] (p.17–18) The three scout together.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ## y2v8
 

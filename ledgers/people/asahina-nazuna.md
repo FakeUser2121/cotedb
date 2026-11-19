@@ -163,6 +163,7 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [rel:ayanokouji-kiyotaka] (p.36–41) The ankle-infirmary walk; the private warning about Nagumo; the “test case” framing is his, not hers.
 [rel:ichinose-honami] (p.38) Nagumo's plan concentrates points on Ichinose (Asahina's and, later, Kanzaki's account).
 [rel:horikita-manabu] (p.39) Her “like former student council president Horikita” comparison of competitors.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ## y2v9
 

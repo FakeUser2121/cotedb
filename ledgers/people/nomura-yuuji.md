@@ -46,6 +46,7 @@ char_id: nomura-yuuji · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.27) “Just now, in the lobby, Ishizaki, Suzuki... and Nomura, the three of them were talking about it as loud as they could.” — the leak's origin.
 [rel:ishizaki-daichi] (p.27) He is named with Suzuki and Nomura as one of the three.
 [rel:suzuki-hidetoshi] (p.27) He is named with Ishizaki and Nomura as one of the three.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ## y2v10
 

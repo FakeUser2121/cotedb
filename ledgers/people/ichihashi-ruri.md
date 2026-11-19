@@ -56,9 +56,9 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 [says] (p.77) “I'm glad you accepted. I'm sure she'll be very happy.” — Ichihashi.
 [note] (p.77) “Although reluctantly, Horikita agreed to deliver the love letter to Nagumo.” — the narration; normally she would've asked who the letter is from, but she wasn't interested and didn't try to dig deeply.
 [rel:horikita-suzune] (p.75–77) Her rare contact with Horikita; the delivery job; her brusque acceptance.
+
+
 <!-- walk: y2v7 Ch.3 → p.83 -->
-
-
 ### y2v7 p.114 — The bill-charging assignment
 [scene] (p.114) §3 — Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment for a photo shoot with Mii-chan.
 [note] (p.114) "Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment." — no scene lines beyond the business; named.

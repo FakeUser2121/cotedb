@@ -1256,13 +1256,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.10) During Chabashira's rules review; Ike asks the preemptive question about pocket money.
 [says] (p.10) “Is it possible to use more than 10,000 points in pocket money?”
 [says:chabashira-sae] (p.10) “No. The guests can't spend more than the given points. The maximum amount is immovable.” — Chabashira answers without paying much attention, though she seems to be enjoying such an unchanging Ike.
-
 ### y2v7 p.11–13 — The 11th-place reveal; OAA stunned
 [scene] (p.11–13) The midterm results: Ike is almost on the same side of the rankings as Sudō; he reacts to Sudō's 11th place with honest stunned amazement.
 [says] (p.12) “Seriously, Ken is ranked 11th... Amazing...” — Ike, honest, or rather, stunned response; a crazy turnaround, a leap beyond imagination.
 [note] (p.12) “The difficulty level of this test was moderate, and the difference in overall score between Sudō and the bottom 20 was only about 15 points” — the class average is improving; Sudō wasn't ahead by a hair, yet the surprise was widespread.
 [note] (p.12) Keisei took first place with a perfect score; Horikita second (3 points behind); Sudō 11th; Yōsuke, Kushida, Matsushita, Wang the honor roll group ahead of him; Ayanokōji 14th.
-
 ### y2v7 p.27 — Ike carries the leak into the classroom
 [scene] (p.27) Ike bursts into the classroom, shouting the maid café leak he heard in the lobby — Ishizaki, Suzuki and Nomura talking loudly.
 [says] (p.27) “Hey, is it true that our class is going to have a maid café?” — Ike bursts in.
@@ -1274,18 +1272,17 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:horikita-suzune] (p.27) His announcement threatens her secrecy; she stays calm while Maezono reacts.
 
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.110 — The nervous Ike; shoulder to shoulder with Shinohara
 [scene] (p.110) The opening of the festival; Ike stands shoulder to shoulder with Shinohara; he's getting nervous; he hasn't had any contact with outsiders since entering the school.
 [says] (p.110) “What do I do, I'm getting nervous...” — Ike.
 [says] (p.110) “I haven't had any contact with outsiders since I entered this school.” — Ike.
 [rel:shinohara-satsuki] (p.110) Shoulder to shoulder at the festival opening.
-
 ### y2v7 p.112–113 — The first delivery
 [scene] (p.112) Ike and Hondo came out in a hurry — "We took the order as fast as possible!"
 [says] (p.112–113) “We took the order as fast as possible! I'm going to the food stall to get it now!” — Ike.
 [says:ayanokouji-kiyotaka] (p.113) “That's fine, but please be a little more calm.” — Ayanokōji.
 [says] (p.113) “Oh, right. Sorry!” — Ike.
-
 ### y2v7 p.117–119 — The flyer panic; the counter-flyer plan
 [scene] (p.117) Three hours had passed since the festival began; noon; new guests were arriving; Ike pointed to where several girls from Ryūen's class were shouting.
 [says] (p.117–118) “Nah what? This is bad, right?” — Ike.
@@ -1301,9 +1298,9 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ryuuen-kakeru] (p.117–118) The flyer panic; his class C vs B bet.
 [rel:hondou-ryoutaro] (p.112–113) The first delivery run with him.
 [rel:ayanokouji-kiyotaka] (p.118) The counter-flyer plan.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
-
-
 ### y2v7 p.132 — The Satsuki suggestion
 [scene] (p.132) The staffing crisis; Ike wonders about Shinohara; “I think she'll be fine. Besides, she was practising to be a maid, even if only lightly.” — Shinohara was working on the cooking side of the stall.
 [says] (p.132) “Oh no, I heard you say you're short on staff right now. ……. I was wondering if you could leave it to Satsuki.” — Ike.

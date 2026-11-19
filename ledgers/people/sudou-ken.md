@@ -1870,7 +1870,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [number] (p.8) Sudō's additional funds: 10,000 (club activity, the maximum); the class's total 39,400.
 [rel:horikita-suzune] (p.8) Shared the 10,000 maximum with her and Onodera.
 [rel:onodera-kayano] (p.8) Shared the 10,000 maximum with her and Horikita.
-
 ### y2v7 p.11–13 — Midterm results: 11th place, 367 points
 [scene] (p.11–13) Second-semester midterm results announced; Keisei first (perfect score), Horikita second (3 points behind), Sudō 11th of 38 with a well-balanced 367 — the surprise of the class.
 [number] (p.11–12) Sudō's scores: 73 Modern Japanese, 76 Chemistry, 70 Social Studies, 78 Mathematics, 70 English — total 367; only ~15 points above the bottom 20.
@@ -1879,7 +1878,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration lists him among none of them; his jump was unexpected.
 [note] (p.13) Narration ties his result to “his love for Horikita, who taught him how to study” and to the class's post-Airi-expulsion shift; the midterm was “moderate” difficulty.
 [trait] (p.12) He makes only a small gut-punch at the result — does not brag, does not mock those below him.
-
 ### y2v7 p.23–26 — Keyaki Mall: eyesight, university options, Akito and Haruka
 [scene] (p.23) Monday after the maid café meetings; at Keyaki Mall, staring at a guide map; Ayanokōji finds him and probes his 11th place.
 [says] (p.23) “Eh? Oh Ayanokōji? What do you mean, the center of attention?” — Sudō startled; he had graded himself in detail after the midterm.
@@ -1918,12 +1916,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:miyake-akito] (p.25) Akito is part of the pair he watches at the mall.
 [rel:sakura-airi] (p.25) “Sakura” — the friend whose expulsion echoes in Sudō's and Haruka's situations.
 [trait] (p.23–25) No longer a “one-trick pony”; aware of his plateau; weighing university; deteriorating eyesight; quietly anchored in studying learned from Horikita.
-
 ### y2v7 p.27–29 — Ike's leak; Ryūen arrives with the declaration of war
 [scene] (p.27) After school (a few days later); Ike bursts into the classroom with the leaked maid café; Sudō comes in, a little flustered.
 [says] (p.27) “Hey! Ryūen and the others are coming this way.” — Sudō announces Ryūen's approach.
 [rel:ryuuen-kakeru] (p.28–29) Ryūen arrives with Ishizaki/Albert/Kaneda; publicly leaks and copies the maid café — the “declaration of war.”
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.93–100 — The bodyguard; Sudō's grim discovery
 [scene] (p.98) Sudō suit the role of a bodyguard and was in charge of dealing with trouble — he forcibly interrupted any boy who called out to the maids and asked them to leave the room.
 [scene] (p.98–100) The two-hour festival simulation would soon be over; As Sudō and the other boys started cleaning up, Onodera showed up — wanting to see everyone's maid outfits.
@@ -1948,14 +1946,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.99–100) The nudge; the seed grows on the walk home.
 [rel:hirata-yousuke] (p.100) Yōsuke overheard — he worries.
 [rel:horikita-suzune] (p.100) Sudō's feelings were strongly directed toward Horikita.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.110 — The boys' final meeting
 [scene] (p.110) The final check — Sudō and some of the male team members were not listening to the announcements and were having their final meeting with Yōsuke.
 [note] (p.110) We had to keep our feet on the ground about what to do when it gets crowded or in case of trouble.
 [rel:hirata-yousuke] (p.110) The boys' final meeting together.
 [rel:ike-kanji] (p.110) Ike stands shoulder to shoulder with Shinohara nearby.
+<!-- walk: y2v7 Ch.5 → p.130 -->
 
 ## y2v8
 

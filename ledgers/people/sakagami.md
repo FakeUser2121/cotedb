@@ -279,10 +279,24 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sakagami mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.175-176, p.181-182.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.175–182 — The witness; the assist
+[scene] (p.175) §2 — Sakagami-sensei also showed up later in the student council room; with Mashima-sensei.
+[note] (p.175) Sakagami-sensei confirmed Mashima-sensei, as if remembering something; Nagumo spoke first — “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.”
+[note] (p.176) “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo.
+[says:nagumo-miyabi] (p.176) “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
+[scene] (p.181) Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[note] (p.181) Still, Mashima-sensei, as a teacher, stepped in between Yagami-kun and Ryūen-kun.
+[note] (p.181) “Get lost.” He kicked Mashima-sensei in the knee, and when he staggered over, he slammed his fist into his face.
+[note] (p.181) Sakagami-sensei witnessed it up close and took a frightened step away.
+[note] (p.181) Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[scene] (p.182) Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+[note] (p.182) Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+[note] (p.182) “I understand.” — with Sakagami-sensei's help, Mashima-sensei left the student council room; the room, which had been so noisy, was suddenly enveloped in silence.
+[rel:mashima-tomonari] (p.176–182) He witnessed the kick in the knee and the fist to the face; he helped Mashima-sensei leave.
+[rel:yagami-takuya] (p.175–182) He showed up; he said nothing publicly; he witnessed the removal.
+[rel:nagumo-miyabi] (p.176) Nagumo called him; Sakagami remembered.
+[rel:ryuuen-kakeru] (p.181) Ryūen was just about to jump on Yagami-kun — Sakagami watched.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

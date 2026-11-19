@@ -863,12 +863,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:horikita-suzune] (p.17–18) He probes the Ryūen alliance; she replies on the same level, relaxed.
 [rel:ayanokouji-kiyotaka] (p.17–18) The harem jab; the “teaming up with Ryūen” warning.
 [rel:sakayanagi-arisu] (p.17–18) His silent leader watches with a wry smile; he keeps "the good luck" for last.
-
 ### y2v7 p.29–30 — Amused spectator of the declaration
 [scene] (p.29) Students from other classes — spectators — begin to approach after the announcement; Hashimoto learned of the fact before Horikita's class did; his eyes meet Ayanokōji's with a thin smile and a shrug.
 [note] (p.29–30) “He learned of this fact before Horikita's class learned of it” — the narration; Hashimoto would change the subject as if the conversation never took place.
 [rel:ryuuen-kakeru] (p.29–30) He watches amused as Ryūen declares the copy and the five-million-point wager.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.89–90 — The Class A guard
 [scene] (p.89) §1 — the third floor of the special wing — the exclusive floor of the 2nd year Class A; Hashimoto, keeping an eye on the students coming, approaches and calls out.
 [says] (p.89) “Surprised by the unexpected?” — Hashimoto.

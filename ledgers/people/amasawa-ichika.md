@@ -420,7 +420,39 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [note] (p.130) If he did consider her to be in his debt because of what happened, she wouldn't really be able to repay him.
 [rel:ayanokouji-kiyotaka] (p.125–130) The wrist lock; the White Room score comparison; the 3 p.m. warning.
 [rel:kushida-kikyou] (p.125–130) The hidden meeting; the grab; the rescue.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.161 — The connection mentioned in the trap-setting
+[mentioned] (p.161) “He seemed to have a connection with Amasawa-san and was extremely physically dangerous.” — Horikita's read of Yagami-kun; his link to Amasawa is one of the reasons he might leave school.
+[note] (p.161) Narration (unquoted); Horikita decides to watch him before he forces Ayanokōji-kun out.
+[rel:yagami-takuya] (p.161) Named as physically dangerous and tied to Amasawa.
+### y2v7 p.181–182 — She arrives with red, swollen eyes
+[scene] (p.181) The door to the student council room opened, revealing Amasawa-san with red, swollen eyes; Yagami-kun stopped moving in a situation where no one's words were likely to reach him.
+[says] (p.181) “Let's stop now, Takuya.” — Amasawa.
+[says:yagami-takuya] (p.181) “Ah? Why are you here?” — Yagami-kun.
+[says] (p.181) “What's it going to take for you to get any more out of control? Do you think that will make them accept you? They're already done with-” — Amasawa.
+[says:yagami-takuya] (p.181) “No, it's not! The instructors are waiting for me! I'm going to be the best!” — Yagami-kun.
+[note] (p.181) Who are the instructors, Horikita wondered? At least she could guess that they were not the teachers of this school.
+[says:yagami-takuya] (p.181) “I was just going to close out the cultural festival today in an interesting way by exposing that guy's past, but he's done something absurd.” — Yagami.
+[note] (p.181) “Takuya, I knew you were going to do that. ……” — printed untagged (Amasawa, by the scene order); flagged untagged.
+[says:yagami-takuya] (p.181) “Get out of my way; I'm going to make Ayanokōji regret it. I'll make it so funny you won't stop laughing.” — Yagami.
+[says] (p.181) “If you insist on going to Ayanokōji-senpai, I'll stop you before you do.” — Amasawa.
+[says:yagami-takuya] (p.181) “You? You've never beaten me once. Don't make me laugh.” — Yagami.
+[says] (p.181) “Maybe I can't beat you with force. But I'll give it a try.” — Amasawa.
+[says] (p.181) “I knew you were devoted to Ayanokōji, but I didn't know you were that stupid.” — Amasawa.
+[note] (p.182) “I just learned that a frog in a well doesn't know the ocean. It's just like that story we learned about before... Don't you remember?” — Amasawa had a sad look in her eyes.
+[note] (p.182) Yagami-kun seemed to falter for a moment, before returning to his murderous gaze.
+[says:yagami-takuya] (p.182) “Then it's time for you to die. There is no reason for you to be alive.” — Yagami.
+[note] (p.182) Just as Amasawa-san was about to make up her mind, she heard multiple footsteps coming from the other side of the hallway.
+[note] (p.182) Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+[note] (p.182) Yagami-kun, who had been untouchable until a moment ago, suddenly began to tremble.
+[says:yagami-takuya] (p.182) “W-why are you guys here? Hey, why...?” — Yagami-kun.
+[note] (p.182) “We even got a call to come pick you up at the student council office. It wasn't exactly what we had in mind.” — printed untagged (one of the five adults); flagged untagged.
+[note] (p.182) Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+[rel:yagami-takuya] (p.161, 181–182) She arrives with red, swollen eyes; stops his rampage; walks out with him under adult escort.
+[rel:ayanokouji-kiyotaka] (p.181) She knows Yagami is devoted to Ayanokōji; "but I didn't know you were that stupid."
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

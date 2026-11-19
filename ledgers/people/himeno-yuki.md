@@ -103,6 +103,10 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [note] (p.62–71) The name printed throughout this arc is "Himeno" only. This roster row (Himeno Yuki) and the 2026-11-added row `himeno` (Himeno, Class 2-D, Ichinose) both match the printed form. The y2v7 walk writes this volume's entries to `himeno`; the identity of the printed "Himeno" against Yuki Himeno is left to the owner — not assigned as fact.
 [mentioned] (p.62–71) Named in the Kanzaki arc — see himeno.md for the scene entries.
 [mentioned] (p.113) Named in narration mid-festival ("the first step towards change with Himeno may have worked") — from the 2026-11 locator cross-check of this volume.
+<!-- walk: y2v7 Ch.2 → p.71 -->
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
 
 ## y2v8
 

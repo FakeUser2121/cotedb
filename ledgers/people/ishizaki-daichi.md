@@ -826,6 +826,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:suzuki-hidetoshi] (p.27) He is named by Ike as one of the three in the lobby.
 [rel:nomura-yuuji] (p.27) He is named by Ike as one of the three in the lobby.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.96–98 — The protein scam
 [scene] (p.96) §3 — Ishizaki's booth — a desk and cardboard; disposable chopsticks and cups on the table give the impression of dining; Kei stares at the booth suspiciously.
 [says] (p.96) “Yo, Ayanokōji!” — Ishizaki.

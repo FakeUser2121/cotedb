@@ -658,25 +658,24 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 ### y2v7 p.8 — Additional funds: 100 points
 [scene] (p.8) The additional-funds display: Akito received 100 points (club activity) — the smallest amount mentioned alongside Yōsuke's 3,000; the class total is 39,400.
 [number] (p.8) Akito's additional funds: 100 — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100.”
-
 ### y2v7 p.13–16 — Haruka and Akito: the general role
 [scene] (p.13–16) The maid café planners discuss Haruka and Akito; Horikita explains she gave them a general role — not a maid assignment, not exclusion.
 [says:horikita-suzune] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on. If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.”
 [note] (p.13–16) Present at the meetings; he knows about the maid café; Haruka proposed the idea; the general role keeps them close without important assignments.
 [rel:hasebe-haruka] (p.13–16) The general role is assigned to them together; they keep distance from the class.
-
 ### y2v7 p.25 — Seen with Haruka at Keyaki Mall
 [mentioned] (p.25) Sudō and Ayanokōji spot Akito and Haruka's backs at Keyaki Mall; the pair's situation echoes Yamauchi's withdrawal — Sudō grinds his teeth.
 [note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.84 — The early departure before the rehearsal
 [scene] (p.84) The day before the festival; Akito and Haruka left the classroom before the rehearsal began; Maezono asked about them.
 [note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
 [rel:hasebe-haruka] (p.84) He left with her.
 [rel:horikita-suzune] (p.84) Horikita's read: let them be tested in isolation.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.131–152 — The Keyaki Mall confrontation; the withdrawal letters torn
 [scene] (p.135) §1 — Akito stands near Haruka on the bench on the road leading to the Keyaki Mall; the two withdrawal letters are in their pockets; AK arrives.
 [says:ayanokouji-kiyotaka] (p.135) “I know you and Airi used to chat around here after school.” — Ayanokōji.

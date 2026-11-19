@@ -1921,14 +1921,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y2v7 p.7–8 — Additional funds: 3,000-point club activity bonus
 [scene] (p.8) The additional-funds breakdown is displayed: Yōsuke received 3,000 points for his club activity bonus; Akito received 100; Horikita, Sudō and Onodera got the 10,000 maximum; the class total 39,400.
 [number] (p.8) Yōsuke's additional funds: 3,000 (club activity) — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100. Many students who seemed to be active, mainly in club activities, were mentioned.”
-
 ### y2v7 p.12 — The honor roll
 [scene] (p.12) The midterm results list: Yōsuke is named among the honor roll alongside Kushida, Matsushita and Wang.
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
-
 ### y2v7 p.15 — Excluded from the inspections for club reasons
 [note] (p.15) “It would be more effective to include boys such as Yōsuke in the meeting, but unfortunately, they were busy with club activities at the moment.” — excluded from the maid café inspections for club reasons.
-
 ### y2v7 p.28–31 — Yōsuke learns of the Ryūen alliance
 [scene] (p.28–31) After Ryūen's group announces the leak and the copy, Yōsuke asks the questions the class needs answered; he suggests shifting to a different concept — rejected.
 [says] (p.28–29) “Is what you just said true, Horikita-san?” — Yōsuke asked, since Horikita had not yet gotten around to informing the rest of the class.
@@ -1939,6 +1936,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.28–31) She informed only herself, Ayanokōji and the maid café planners; Yōsuke learns from the scene like everyone else.
 [rel:ryuuen-kakeru] (p.28–31) Yōsuke pushes the clarifying question at him; Ryūen's answer confirms the copy and the wager.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.100 — Yōsuke heard the Onodera nudge
 [scene] (p.100) §After the cleanup; Yōsuke, standing by, seemed to have heard Ayanokōji's conversation with Sudō.
 [says] (p.100) “Kiyotaka-kun, was that… okay?” — Yōsuke.
@@ -1947,21 +1945,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.100) Ayanokōji apologized to Yōsuke with a blank expression on his face.
 [rel:ayanokouji-kiyotaka] (p.100) He worries about Ayanokōji's meddling in Sudō's heart; he is a little nervous about how it might look.
 [rel:sudou-ken] (p.100) The nudge was overheard; Yōsuke flags it.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.110 — The boys' final meeting
 [scene] (p.110) The final check; Sudō and some of the male team members were not listening to the announcements and were having their final meeting with Yōsuke; they were short two students; he approaches the problem immediately.
 [note] (p.110) We had to keep our feet on the ground about what to do when it gets crowded or in case of trouble; after giving out all the instructions, they realized they were short two students.
 [rel:sudou-ken] (p.110) The final meeting with the boys before the festival.
-
 ### y2v7 p.116 — The stalls are doing better than expected
 [scene] (p.116) Yōsuke came out of the classroom, concerned that Ayanokōji didn't come back right away.
 [says] (p.116) “What's wrong, Kiyotaka-kun?” — Yōsuke.
 [says:ayanokouji-kiyotaka] (p.116) “Sorry, I was approached by a guest who got a little lost and had to be dealt with. Any trouble?” — Ayanokōji.
 [says] (p.116) “Orders are starting to not turn out well. The stalls seem to be doing better than expected.” — Yōsuke.
 [says:ayanokouji-kiyotaka] (p.116) “I see, the turnover is getting out of control. I'll be right there.” — Ayanokōji.
-
 ### y2v7 p.124–125 — Kushida's cookie run; the missing ace
 [scene] (p.124) The line crisis; Yōsuke watches Kushida's cookie run with respect.
 [says] (p.124) “Kushida-san's abilities are quite something. This is her element, I guess.” — Yōsuke nodded his head in respect.

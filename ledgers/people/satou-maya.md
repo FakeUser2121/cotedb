@@ -497,7 +497,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:matsushita-chiaki] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
 [rel:maezono] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
 [rel:horikita-suzune] (p.13) The planners' circle including Horikita.
-
 ### y2v7 p.15–22 — Quiet and distracted; the floor vote
 [scene] (p.15) On the floor-inspection walk, Satō — who was always high-spirited and often speaks even when she's not heard — has been rather quiet since this morning; her friends look at her with concern; she looks as if her mind is somewhere else.
 [says] (p.15) “Oh, um. I was thinking... yeah, I guess I think it's a little far away too.” — Satō hurriedly replies, looking up at them.
@@ -509,7 +508,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.18–22) Satō is at every planning beat — floors, rock-paper-scissors, the butler-café talk, the cleanliness check, the uniforms; present in the circle, silent at the edges.
 [rel:matsushita-chiaki] (p.16–18) Matsushita is the one who notices Satō's unusually quiet state and keeps watch over her.
 [rel:wang-mei-yu] (p.15–18) Mii-chan checks in with Satō on the walk and after the Hashimoto probe.
-
 ### y2v7 p.26 — Kei arrives; Satō's gaze
 [scene] (p.26) The next morning at the dormitory-side street, Kei and Ayanokōji arrive at the classroom; Satō, who arrived early, spotted Kei and got up to run to her.
 [says] (p.26) “G-Good morning, Kei-chan.” — Satō runs to Kei.
@@ -520,6 +518,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:wang-mei-yu] (p.26) Mii-chan is drawn into the circle too.
 [rel:ayanokouji-kiyotaka] (p.26) She gives him a “gaze” of hurt and jealousy — remembered from the morning with Kei.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.54 — The pivot to Kei's plan
 [scene] (p.54) After school, Satō — still in the classroom; Kei switches to her after being declined by Ayanokōji; she accepts with a smile; invites Shinohara and other girls to join; they leave together.
 [note] (p.54) “You're not going with Ayanokōji-kun?” / “Come on, come on, don't say that. See?” — printed untagged (one is Satō's, one is Kei's); not assigned.
@@ -527,8 +526,8 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.54) Kei's quick switch lands on her; she takes it with a smile.
 [rel:shinohara-satsuki] (p.54) She invites Shinohara to join the walk home.
 [rel:ayanokouji-kiyotaka] (p.54) She leaves with the girls instead of him.
-<!-- walk: y2v7 Ch.2 → p.71 -->
 
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.85 — The failed appeal
 [scene] (p.85) Satō calls out to Kushida as she gets up — Kushida stops and turns around on the spot; Satō tries as much as possible not to let her guard down; the atmosphere turns sour; Yōsuke stops Horikita from intervening.
 [says] (p.85) “I'd like to do some final checks for tomorrow's event and also practice my activities for the day. Do you think you'll have time today?” — Satō.
@@ -537,9 +536,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:hirata-yousuke] (p.85) Yōsuke, standing beside Horikita, stops her from intervening.
 [rel:horikita-suzune] (p.85) Horikita wants to act, but Yōsuke stops her; the hard decision deferred.
 [rel:matsushita-chiaki] (p.85–86) Matsushita backs her complaint to Horikita — “But it's a lie that she has to do things every day, isn't it?”
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.110 — The cheek-slap ritual; the opening
 [scene] (p.110) The maid café's opening morning; Satō and the other maids discuss the shift change due to Matsushita's absence; Satō clasped her hands together in anxiety, but quickly slapped her own cheeks between her palms to regain confidence.
 [says] (p.110) “We can do it, we can do it!” — Satō.
@@ -555,9 +554,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:matsushita-chiaki] (p.110–112) The shift change due to Matsushita's illness.
 [rel:ike-kanji] (p.110–113) Ike stands shoulder to shoulder with Shinohara.
 [rel:shinohara-satsuki] (p.110) She stands shoulder to shoulder with Ike.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
-
-
 ### y2v7 p.131–161 — The §3 closing; the aces; Satō's “Welcome back!”
 [scene] (p.131) §1 — the overcrowding caused a shortage of staff; Sato and Mii-chan were the aces of the team, working hard all the time; Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day.
 [note] (p.131) Eight maid outfits prepared — two were basically considered as spares; no more than six maids could work at any one time; Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira.
@@ -569,6 +568,8 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:matsushita-chiaki] (p.131) She substituted her shift while ill.
 [rel:wang-mei-yu] (p.131) The other ace of the team.
 <!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

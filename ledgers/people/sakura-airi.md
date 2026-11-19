@@ -1190,22 +1190,22 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.6) Sakura Airi is the friend whose expulsion broke Hasebe Haruka's reconnection; Haruka names “Kiyopon, Yukimū, Miyachi and… Airi” as the friends she made again, and Airi's expulsion as the wound.
 [note] (p.6) “Who stole it? That's obvious. Horikita Suzune and Ayanokōji Kiyotaka.” — Haruka's monologue; “I became a victim of the selfish actions of those two people. I can't forgive them. There's no way I can.” — “I decided to get revenge.”
 [rel:hasebe-haruka] (p.6) Her expulsion is the wound at the root of Haruka's revenge decision.
-<!-- walk: y2v7 Prologue → p.6 -->
 
+<!-- walk: y2v7 Prologue → p.6 -->
 ### y2v7 p.13 — The reason the lower ranks study
 [mentioned] (p.13) “Anyways, one could even say, due to the expulsion of Airi from the school, the lower ranked students started working even harder.” — the narration; the post-expulsion shift in the class's motivation.
-
 ### y2v7 p.25 — Sudō's “Sakura”
 [mentioned] (p.25) Sudō, grinding his teeth at the sight of Haruka and Akito: “I wasn't particularly close to Sakura, but I've had similar experiences.” — he measures Haruka's situation against his own past with Yamauchi.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.102 — “Sakura-senpai was expelled”
 [mentioned] (p.102) “…Sakura-senpai was expelled instead of Kushida-senpai. What I want to know are the details of it.” — Yagami; the unanimous exam's casualty was her.
 [note] (p.102) “I did nothing in that special exam. So, Sakura-san, who was the lowest in OAA, was inevitably cut. That's it.” — Kushida's version; the class knew the details were not for outsiders.
 [rel:kushida-kikyou] (p.102) The casualty of the unanimous exam's outcome.
 [rel:yagami-takuya] (p.102) The interrogator who wants the details.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.136–151 — The uniform box; the Shizuku reveal
 [scene] (p.135–147) AK approaches the bench at Keyaki Mall with a cardboard box; Airi's maid uniform inside; the withdrawal letters.
 [note] (p.136) “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka's worldview breaks in one moment.
@@ -1222,7 +1222,15 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.136–151) The maid uniform Airi left for Haruka; the SNS account reveal.
 [rel:kushida-kikyou] (p.145–151) She found the account; Airi's Shizuku reveal.
 [rel:ayanokouji-kiyotaka] (p.136–151) The uniform box; he had no idea about her SNS until now.
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.185 — Named in the Epilogue
+[mentioned] (p.185) “That girl is trying to spread her wings in the outside world. Kushida-san told me about it.” — Haruka, to the class; Airi is attempting to become an idol.
+[mentioned] (p.185) “Sakura-san, she seems to be working hard to become an idol; you can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — Kushida.
+[note] (p.185) The common perception that emerged was the fact that Airi had taken a new step forward; “You can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — the students were surprised; others thought it was a good idea.
+[note] (p.185) “Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her.” — Haruka; she chose to stay at this school.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

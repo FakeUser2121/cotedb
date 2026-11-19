@@ -1315,7 +1315,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.9) Chabashira displays the numbers: Sakayanagi's Class A has 18,800 points in additional funds — second behind this class (39,400), ahead of Ryūen's (17,000) and Ichinose's (26,600).
 [says:chabashira-sae] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds.”
 [number] (p.9) Sakayanagi's class additional funds: 18,800.
-
 ### y2v7 p.17–19 — Scouting the special building; says nothing
 [scene] (p.17) Sakayanagi, Hashimoto and Kamuro tour the special building — scouting for their own stall; she watches Ayanokōji's group with a wry smile; says nothing; goes into the classroom they had been watching.
 [says:hashimoto-masayoshi] (p.17) “Yo, Ayanokōji. Are you also looking for a place to open a stand for the festival?” — the call that draws Sakayanagi into view.
@@ -1325,6 +1324,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hashimoto-masayoshi] (p.17–18) Her silent partner in the probe.
 [rel:kamuro-masumi] (p.17–18) Her scouting partner.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.88–90 — The Class A floor: locked down
 [scene] (p.88) §1 sweep — the third floor of the special wing is the farthest from the school gate and the hardest to reach; Sakayanagi's class rented everything there; the 2nd year Class A students roamed the third floor corridors as they pleased.
 [note] (p.89) “I didn't think that Sakayanagi's class would rent everything there, though.” — Ayanokōji; there were three classrooms available here, but until the previous day, they were not popular and had not been rented.
@@ -1342,7 +1342,18 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.105–106) The midnight call; the warning; the chairman's decline; their alignment.
 [rel:hashimoto-masayoshi] (p.89–90) The guard of the Class A floor; his amused exchange with Ayanokōji.
 [rel:ryuuen-kakeru] (p.88–90) He came to check; he left satisfied with the mystery.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.187–188 — The brochure trick; fourth place; Hōsen's bottom line
+[mentioned] (p.187) “Class A was selling brochures and stuff about the school for a low price. They didn't have any other food, drink, or other offerings. I wonder what kind of tricks they used …….” — the classmate(s) in conversation (untagged); flagged untagged.
+[mentioned] (p.187–188) “If they were the bottom of the class as a result of a struggle, fine. But that's unthinkable. The class's entertainment, which was mainly a reenactment of the festival, was quite successful.” — printed untagged; flagged untagged; the conversation at the end of the festival compares Sakayanagi's low-priced brochure stall vs Hōsen's 1st-year Class D stall.
+[mentioned] (p.188) There was an agreement between Ryūen and Katsuragi to receive private points in exchange for letting them earn class points; it would not surprise him if something similar happened between Sakayanagi and Hōsen.
+[mentioned] (p.188) The accounting was done through a cell phone; it would be a viable enough strategy if Hōsen and his friends had received cell phones from the second-year A class for accounting purposes and donated all sales; if they were also providing funds to Hōsen's class for the festival, it would make sense for the size of the festival to grow.
+[note] (p.188) Either way, it meant that Sakayanagi won't be easily satisfied; it was clear that they were steadily producing results, even though they appeared to have abandoned the game.
+[note] (p.202) Class A led by Sakayanagi: 1201; Class B led by Horikita: 966; Class C led by Ryūen: 740; Class D led by Ichinose: 675.
+[note] (p.186–187) 4th place, 2nd year A class (+ 100 class points).
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

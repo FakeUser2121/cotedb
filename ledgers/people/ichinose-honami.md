@@ -1879,7 +1879,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says:chabashira-sae] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds.”
 [number] (p.9) Ichinose's class additional funds: 26,600 — “this class has the most additional funds among the second-year students.”
 [rel:horikita-suzune] (p.9) Both their classes lead the second-year additional funds; both received the 10,000 student-council member bonus.
-
 ### y2v7 p.32–33 — Scouting Class A's exhibit; awkward around Ayanokōji
 [scene] (p.32) After school, Ichinose is in line at the gymnasium haunted-house pre-opening — with Kanzaki; Ayanokōji arrives; she bows and averts her eyes; Kanzaki silently joins the line behind them both; the awkwardness is mutual.
 [says] (p.32) “That's great of the president. I can't believe he's going to show it off to the public so openly.” — Ichinose.
@@ -1891,10 +1890,12 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.32) She bows and averts her eyes; an old, polite distance.
 [rel:nagumo-miyabi] (p.38) Kanzaki says Nagumo's plan concentrates points on her — “Concentrating private points on Ichinose is what we've been doing.”
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.57–71 — Discussed; never present
 [mentioned] (p.57–71) Kanzaki and Ayanokōji discuss her in the special wing — she cannot reach Class A under her “protect everyone” policy; she never really listens to dissent; concentrating points on her is the planned move ("Concentrating private points on Ichinose is what we've been doing"); she does not appear on-page until Ch.3+.
 [rel:kanzaki-ryuuji] (p.57–71) He comes to Ayanokōji for advice on her; envious of nothing but sees she can't win.
 
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.78–80 — The student council meeting: this time her suggestion passes
 [scene] (p.78) §2 — the student council room; Ichinose attends and reports; Nagumo arrives with the rumor.
 [says:nagumo-miyabi] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
@@ -1906,13 +1907,12 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:nagumo-miyabi] (p.78–80) She reports; she is surprised by the suspension.
 [rel:yagami-takuya] (p.78) Yagami was sitting down and chatting with her.
 [rel:kiriyama-ikuto] (p.78) The thorny remarks.
+
+
 <!-- walk: y2v7 Ch.3 → p.83 -->
-
-
 ### y2v7 p.112–113 — The sweets stall report
 [mentioned] (p.112–113) Ichinose's class's offering was, as Kanzaki recalls, sweets-based — crepes and chocolate bananas; "The kids love them. But the adults are not as receptive as we thought they would be, so we're not sure if we can aim for the top spot in terms of sales." — Kanzaki.
 [rel:kanzaki-ryuuji] (p.112–113) He reports the sweets-stall math; his priorities have shifted.
-
 ### y2v7 p.120 — The counter-flyer war spreads
 [mentioned] (p.120) Ordinary students begin to hear about the one-on-one match-up; speculation led to rumors, and rumors led to speculation — "Did you hear Horikita's class and Ryūen's class are playing for a lot of money?" / "I heard that the leader of the losing class is getting expelled?" — spreading through the school.
 <!-- walk: y2v7 Ch.5 → p.130 -->

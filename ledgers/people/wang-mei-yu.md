@@ -257,7 +257,6 @@ char_id: wang-mei-yu · status: minor
 [scene] (p.12) The midterm results list: Wang Mei-Yu is named among the honor roll alongside Yōsuke, Kushida and Matsushita; “the difficulty level of this test was moderate.”
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
 [rel:sudou-ken] (p.12) The narration groups Wang with the honor roll Sudō jumped past.
-
 ### y2v7 p.13–22 — Planner; Hashimoto's probe; the floors
 [scene] (p.13) The six maid café planners include Mii-chan (Wang); Wang is the quiet organizer tracking stall candidates on her phone.
 [says] (p.15) “It's a lot farther than I thought it would be.” — Mii-chan's first impression of the third floor.
@@ -273,15 +272,16 @@ char_id: wang-mei-yu · status: minor
 [rel:maezono] (p.16) The floor debate: second floor vs third floor.
 [rel:horikita-suzune] (p.15, 20) The planner circle; Horikita decides and applies by phone.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.90–92 — Mii-chan's slip; the rehearsal
 [scene] (p.90) §2 — the maid café rehearsal; boys from other classes rushed to watch the girls in cosplay; Mii-chan slips a glass of water on the tray; the person in question froze.
 [note] (p.90) “Sato and Mii-chan's movements seemed to be much more sluggish than during practice.” — the narration.
 [says:matsushita-chiaki] (p.90) “I am terribly sorry.” — Matsushita immediately moves after the slip.
 [rel:matsushita-chiaki] (p.90) She steadies Mii-chan after the slip.
 [rel:satou-maya] (p.90) Sato's movements seem sluggish at the rehearsal.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
-
-
 ### y2v7 p.114–125 — Mii-chan: the closed-eye shot; the Darjeeling runout
 [scene] (p.114) §3 — A photo shoot with Mii-chan; Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment; the guest wanted a two-shot of the laughing Mi-chan; Mii-chan's eyes closed just as the shutter released.
 [says] (p.114) “Ugh, sorry Ayanokōji-kun……” — Mii-chan.
@@ -293,9 +293,9 @@ char_id: wang-mei-yu · status: minor
 [rel:ichihashi-ruri] (p.114) The bill-charging assignment — Ichihashi, who was in charge of the bill.
 [rel:kushida-kikyou] (p.125) The missing Kushida; the customer wants a photo with her.
 [rel:ayanokouji-kiyotaka] (p.114–125) The reshoot; the Darjeeling rescue; the search for Kushida.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
-
-
 ### y2v7 p.131–161 — The §3 closing; Mii-chan's scream
 [scene] (p.131) §1 — the aces of the team, working hard all the time — Sato and Mii-chan; the overcrowding caused a shortage of staff.
 [note] (p.131) Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day and was now moving around.
@@ -304,6 +304,8 @@ char_id: wang-mei-yu · status: minor
 [rel:kushida-kikyou] (p.159) The second slot fills.
 [rel:ayanokouji-kiyotaka] (p.159) The standing-room-only plan.
 <!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

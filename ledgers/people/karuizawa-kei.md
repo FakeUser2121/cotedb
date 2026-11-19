@@ -1884,11 +1884,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.26) “Kei ascended another step up on the staircase of adulthood after yesterday's experience.” — the narration; she had support behind her and stood her ground anyway.
 [rel:satou-maya] (p.26) She greets him with bright “Maya ~” warmth; the moment's growth is witnessed by her.
 [rel:ayanokouji-kiyotaka] (p.26) She stayed the night past curfew; visibly grown more confident.
-
 ### y2v7 p.51–52 — Named by Nagumo as the hostage card
 [mentioned] (p.51–52) Nagumo plays her as the card to sway Ayanokōji — “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?” — Ayanokōji's answer: “It doesn't matter who it is.” — “If she disappears, she's gone, and that's all there is to it.” — Nagumo appears genuinely shaken: “You have loose screws.”
 [rel:nagumo-miyabi] (p.51–52) She is the card Nagumo plays; it fails.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.54 — Snubbed; the Shinohara pivot
 [scene] (p.54) After school; Kei asks Ayanokōji to come home; he declines — “Sorry, I've got plans later today.”; she switches to Satō without flinching; invites Shinohara too; they walk off together.
 [says] (p.54) “Hey, Kiyotaka. Come home with me.” — Kei asks him to come home.
@@ -1900,8 +1900,8 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:satou-maya] (p.54) Satō goes home with her with a smile; their closest friendship anchors her growth.
 [rel:shinohara-satsuki] (p.54) She invites Shinohara, who recently had a rough relationship with Kei.
 [rel:ayanokouji-kiyotaka] (p.54) He declines; she doesn't miss a beat.
-<!-- walk: y2v7 Ch.2 → p.71 -->
 
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.92–98 — The scouting walk; the shooting game; Ishizaki's protein scam
 [scene] (p.92) §3 — Kei appears as if she had been waiting for that moment and takes him in her arms; they walk the school together — scouting.
 [says] (p.92) “Let's go together.” — Kei took him in arms.
@@ -1965,8 +1965,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hosen-kazuomi] (p.94–96) The Class D games stall; the childhood gambler; she poked him in the stomach with her elbow.
 [rel:sudou-ken] (p.98) Sudō's bodyguard role during the simulation.
 [rel:ayanokouji-kiyotaka] (p.92–98) The scouting walk; his missed targets; the armed scam.
-<!-- walk: y2v7 Ch.4 → p.106 -->
-
 ### y2v7 p.100–101 — The Kei-maid refusal; the break rule
 [scene] (p.100) After the cleanup; Horikita announces tomorrow's schedule; only Ayanokōji and Horikita remain in the classroom.
 [says:horikita-suzune] (p.100) “I don't want to do it, but it would be nice to have more hands, wouldn't it? It would have been a little easier if your girlfriend had cooperated.” — Horikita.
@@ -1978,6 +1976,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:horikita-suzune] (p.100–101) The maid question; the schedule sign-off; the mandatory break notice.
 
 
+<!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.110–114 — The backstop for Satō; the first-photo revival
 [scene] (p.110) Matsushita's absence; the shift change; Satō claps her own cheeks; Kei cheers her up from behind the scenes.
 [says] (p.110) “Maya-chan will be fine. I'll back you up too.” — Kei, cheerfully encouraging her.

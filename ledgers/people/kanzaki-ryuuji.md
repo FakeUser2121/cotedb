@@ -714,7 +714,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.32) “Do you think I'm doing good?” — face grim.
 [note] (p.33) “By the time I finished reading the rules, Kanzaki left the line and turned his back to me. He was probably waiting for Ichinose to come back.”
 [rel:ichinose-honami] (p.32) He accompanies her; she leaves the line before entering; he silently waits for her.
-
 ### y2v7 p.42–44 — Ichinose's class can't win; the confession
 [scene] (p.42) After watching Ichinose exit, Kanzaki approaches Ayanokōji; alone; Ichinose's class cannot make Class A; he carries a negative invisible from class points.
 [says] (p.42) “You're back after all. It seems her injuries were not too serious.”
@@ -747,6 +746,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ayanokouji-kiyotaka] (p.42–44) He vents to him — his only outlet; he asked for advice on a different matter (the real target surfaces at p.59).
 [rel:nagumo-miyabi] (p.43) He knows and uses Nagumo's system (point concentration; transfer tickets) as the escape hatch.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.57–61 — The special wing; the unload
 [scene] (p.57) §1 — after school, Ayanokōji heads to the special wing; Kanzaki is already there waiting, face grim, not in a light mood.
 [says] (p.58) “What do you want from me?” — Kanzaki from another class; lately distrustful of Ayanokōji's presence.
@@ -783,7 +783,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says:ayanokouji-kiyotaka] (p.61) “Isn't that exactly the kind of narrow-mindedness you're talking about, Kanzaki?” — Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.57–61) He comes for advice on Ichinose; Ayanokōji lets him unload first — then flips the table by revealing Himeno.
 [rel:ichinose-honami] (p.57–61) Frustrated by her refusal to listen to dissent; believes she can be changed via the class.
-
 ### y2v7 p.62–68 — Himeno arrives; the change-the-class argument; the transfer threat
 [scene] (p.62) Himeno arrives — "Why is Kanzaki-kun here too?" — she assumed Ayanokōji would be the only one here; Ayanokōji starts his orchestration; Kanzaki realizes he's being used.
 [says:himeno] (p.62) “Huh? Why is Kanzaki-kun here too?” — Himeno arrived a little earlier than promised; her amused tone at being second to him.
@@ -853,7 +852,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ayanokouji-kiyotaka] (p.57–68) He comes for advice, then realizes Ayanokōji manipulated the conversation with Himeno — still resolves to change the class.
 [rel:himeno] (p.62–68) His transfer threat hurts her; his gamble is to make her speak up.
 [rel:ichinose-honami] (p.59–68) Frustrated by her refusal to listen to dissent — but still believes she can be changed via the class.
-
 ### y2v7 p.70–71 — The resolve; "a girl she's curious about"
 [scene] (p.70–71) After the meeting, Himeno and Kanzaki begin to plan real change; Ayanokōji urges them to find students like them and to keep growing the circle — a small spark into a big flame.
 [note] (p.71) “It's not too late. Be strong. And defeat the class led by Horikita in the final exam.” — printed untagged (the coach's line by context); flagged untagged.
@@ -867,9 +865,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.71) “Yeah, I guess so. Sorry… but I'm leaving, I don't want to waste a single minute. No, not even a second.” — Kanzaki.
 [note] (p.71) Ayanokōji's closing read: "They may really beat Horikita's class in the end-of-year exam. Either way, it doesn't hurt my plans, but it's one more thing to look forward to."
 [trait] (p.70–71) He could never claim, having seen Himeno's example, that he is alone in the class; the two of them take a childlike step forward.
+
+
 <!-- walk: y2v7 Ch.2 → p.71 -->
-
-
 ### y2v7 p.112–113 — Kanzaki's visit; the Himeno note
 [scene] (p.112) Afternoon — Kanzaki approaches Ayanokōji; "Looks like you're already thriving."
 [says] (p.112–113) “Looks like you're already thriving.” — Kanzaki.

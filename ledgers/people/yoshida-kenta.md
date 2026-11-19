@@ -106,14 +106,6 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — yoshida-kenta mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.112.
-[mentioned] (p.7) Passing mention only.
-
-
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
