@@ -278,14 +278,10 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.234, 331–334 — Shibata mentioned in passing
-[scene] (p.234) Named in the context of the class meeting.
-[scene] (p.331–334) Named in the Epilogue context.
-[note] (p.234, 331–334) Passing mentions; not a distinct scene presence.
-[mentioned] (p.234, 331–334) Passing mention only.
+### y2v3 p.234 — Shibata named by Sakayanagi
+[mentioned] (p.234) “Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.” — named as Sakayanagi's working group; not present; POV Ayanokōji.
 
-<!-- walk: y2v3 Epilogue → p.334 -->
-
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

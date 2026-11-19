@@ -253,14 +253,10 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.216 — Kaneda mentioned in passing
-[scene] (p.216) Named in the Ryūen meeting context.
-[note] (p.216) Passing mention; not a distinct scene presence.
-[mentioned] (p.216) Passing mention only.
+### y2v3 p.216 — Kaneda named at the riverbed
+[mentioned] (p.216) “Ishizaki or Kaneda probably wouldn’t have been able to control Ryūen to such an extent.” — named by Ayanokōji (his assessment); not present; POV Ayanokōji.
 
-<!-- walk: y2v3 Ch.6 → p.216 -->
-
-
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4.5
 

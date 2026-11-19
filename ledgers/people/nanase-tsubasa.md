@@ -332,6 +332,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.58–59 — First crossing: Nanase at D7
 [scene] (p.58) Reaches the clearing (29 people); Amasawa and Hōsen nowhere to be seen; she greets him and scouts the crowd.
 [says] (p.58) “Good morning to you, Ayanokōji-senpai.”
@@ -340,6 +341,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.59) “I think I’m going to leave. It can’t hurt to take a look around.”
 [says] (p.59) “Indeed! You’re all alone, so please be careful Senpai. Goodbye, then.”
 [rel:ayanokouji-kiyotaka] (p.58–59) Their first encounter on the island; he gauges her independence; she releases him to probe the area.
+
 
 
 
@@ -362,12 +364,14 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.78 — Third rendezvous at E6
 [scene] (p.78) Sits down for a break at E6; he seems to be waiting for a Task; she shows up alone a third time.
 [says] (p.78) “Ayanokōji-senpai, it seems we meet again.”
 [says:ayanokouji-kiyotaka] (p.78) “By any chance, do you think that we might share the same Table?”
 [says] (p.78) “Maybe.”
 [trait] (p.78–82) Her third crossing in six areas; she pauses instead of leaving — unlike the last two quick encounters; she asks for the favor.
+
 
 
 
@@ -395,6 +399,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.82–84 — The E5 feint; the F8 quiz registration
 [scene] (p.82) 1:00 PM; an hour plus until the next designation; several new Tasks; he picks the F8 quiz; she sees through it.
 [says] (p.82) “We just have to make sure you and I really have the same Table. We on the same page?”
@@ -418,6 +423,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.85–90 — Ike out of it; anime-genre quiz; Nanase 5/20
 [scene] (p.85–87) Waiting for the 12th group; Ike looks listless; Hondō struggles to talk to him; she quietly takes it in; Sudō points at AK with a warning about her.
 [says] (p.86) “It’s Nanase, Sudō-senpai.”
@@ -425,6 +431,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [note] (p.90) “Those questions were all pretty challenging, huh?” — speaker untagged in the print; recorded unassigned.
 [says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
 [says:ike-kanji] (p.90) “Yay…”
+
 
 
 
@@ -454,6 +461,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.97–99 — The beach/the clearing camp
 [scene] (p.97) 5:30 beach meet; Sudō's group arrives breathless; the replacement Task netted only third; they walk to H9's clearing; Hondō wheezing; Ike unresponsive.
 [says:sudou-ken] (p.97) “Ehhh… Not so great. After we split, a buncha new Tasks popped up so we ended up goin’ for three of ‘em. We took third place in one, but the other two had so many people that we couldn’t even register.”
@@ -469,6 +477,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:ike-kanji] (p.98) “Eh? Oh, uh, well… it’s already kinda late and I’m pretty tired, so yeah. Sorry.”
 [says:sudou-ken] (p.98) “Well, I guess it can’t be helped then.”
 [says] (p.99) “Seems like his mind is somewhere else.”
+
 
 
 
@@ -498,6 +507,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:hondou-ryoutaro] (p.103) “There’s no need for us to hold off, Nanase-chan. In the end it’s probably nothin’ big.”
 [says:sudou-ken] (p.103) “No. It might be a bit too early to say that Ryōtarō. Let’s try waitin’.”
 [says:hondou-ryoutaro] (p.103) “Eh? A-ah… Well I guess we can try.”
+
 
 
 
@@ -540,6 +550,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.110–115 — Pre-dawn: her Ike-worry; I8 over H7
 [scene] (p.110) Just after 6 AM; wakes him from outside his tent — the others still asleep; she asks whether she said too much at the fire; his response relieves her only partly; the split-up question; her resolve to keep eyes on Ike while keeping pace.
 [says] (p.110) “Uhm, Ayanokōji-senpai, are you awake yet?”
@@ -573,6 +584,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.114) “…Is that so?”
 
 
+
 ### y2v3 p.116–119 — The J9 sprint; the Beach Flags Showdown
 [scene] (p.116–118) Southeast of I8; Sudō's group bolts for the I9 Task; J9 ahead; adult Task setup in J6 — “Beach Flags Showdown”; they look the other way to reach the area; arrive first in J5 (Early Bird gone to AK; her Arrival Bonus 1 point).
 [says:ayanokouji-kiyotaka] (p.116) “For now, let’s head over to J9.”
@@ -585,6 +597,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.119) “Perhaps…”
 [says:ayanokouji-kiyotaka] (p.119) “Let’s go check it out for the time being.”
 [says] (p.119) “Right!”
+
 
 
 ### y2v3 p.120–127 — Kiriyama's rush; the Beach Flags runs; her landslide
@@ -607,6 +620,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.127) “Seeing you stare at me so closely like that, it’s… well, it’s a little unsettling, you know…?”
 [says:ayanokouji-kiyotaka] (p.127) “Ah… Yeah. Sorry.”
 [says:kiriyama-ikuto] (p.127) “Ayanokōji, don’t say anything unnecessary.”
+
 
 
 ### y2v3 p.133–138 — The water limit; the H5 approach; middle school
@@ -650,8 +664,10 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:ayanokouji-kiyotaka] (p.138) “Right.”
 
 
+
 ### y2v3 p.139–145 — The rest stop; the History Test win
 [scene] (p.140–145) She rests in the shade; he sprints for the History Test; she watches him thread between two three-person groups; he takes first (100); chemistry win (+5); 48 points on day 3.
+
 
 
 ### y2v3 p.146–152 — The Sakagami water race; the strategy probes
@@ -689,6 +705,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.152) “Y-yes.”
 
 
+
 ### y2v3 p.153–158 — The river camp; Ike's fire; Kei's group
 [scene] (p.154–158) I4, bonuses denied; day 3 curtain; Sudō/Ike/Hondō meet them across the river; the fish grill; Class 2-A shows up with them — Shimazaki Ikkei, Fukuyama Shinobu and Kei.
 [says:ike-kanji] (p.154) “Heeey-! Ayanokōji-!”
@@ -713,6 +730,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
 
+
 ### y2v3 p.164–167 — The double Emergency Alert; the formation
 [scene] (p.164) Just before 5 AM; a faint, continuous electronic noise; both tents stir; she pokes out of hers — an Emergency Alert (continuous, echoing twice out of sync).
 [says] (p.164) “Can you hear something?”
@@ -731,6 +749,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:ike-kanji] (p.166) “Well, but ya know… Outta all of us, I think I’m prolly the best one to─”
 [says] (p.166) “Ayanokōji-senpai, could I ask you to lead us? I’d be willing to follow your judgment without hesitation.”
 [says:ayanokouji-kiyotaka] (p.166) “Nanase, Ike, and I will each take a flashlight. Nanase will be behind me, followed by Sudō and Hondō. Ike, I’ll have you take up the rear.”
+
 
 ### y2v3 p.167–176 — The search; Komiya and Kinoshita found
 [scene] (p.167–170) Into the forest; two distinct alerts; they comb the area; a fallen boy (Komiya); a second body a few meters off (Kinoshita); both left legs ruined; the mystery gate-reader footprints.
@@ -765,6 +784,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.176) “That’s when something hit your calf, yes?”
 [says:komiya-kyogo] (p.176) “I remember it hurt like hell… But the pain didn’t last long ‘cause the next thing I knew I was rolling down the slope… And then, when I came to, Sudō and the rest of you guys were here.”
 
+
 ### y2v3 p.177–188 — After the presence (her POV)
 [scene] (p.177–181) AK says “I’ll leave the tablet with you. Wait here” — he follows Ike up the slope; she waits; fearing nobody answers, she leaves AK with the tablet he left her? no — he kept his? no: “I’ll leave the tablet with you. Wait here until we get back.” — she gets the tablet; she spots the presence watching; suspicion builds; she throws herself after it.
 [says:ayanokouji-kiyotaka] (p.177) “I know. I’ll leave the tablet with you. Wait here until we get back.”
@@ -781,6 +801,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.186) “What, you!?”
 [says] (p.187) “Dammit…!”
 [says] (p.187) “Don’t tell me… They… pushed Komiya-senpai and Kinoshita-senpai…? But, why…?”
+
 
 ### y2v3 p.188–195 — The road back; the first-years; Sakagami's pressure
 [scene] (p.188–191) After the failure, she returns walking alone; AK finds her; she deflects his “nothing”; her genuine sigh of relief on finding Shinohara safe; they take the reins.
@@ -837,6 +858,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:chabashira-sae] (p.198) “The first to arrive at the scene after the alerts went off was a group of five students, yourself included. The next to arrive was a group of four first-year students. We were the last to arrive.”
 [says:chabashira-sae] (p.199) “Yeah. We’ll do a more detailed examination of their injuries back on the ship.”
 
+
 ### y2v3 p.199–210 — Komiya's blessing; her bunker advice; her stay
 [scene] (p.199–204) Komiya calls Ike in close: “Show me how much of a man you are.”; her bunker recommendation to Shinohara; Chabashira endorses; Shinohara bursts into tears and bolts; Ike gives chase; she refuses him.
 [says:shinohara-satsuki] (p.199) “I-I can’t go on like this…! There’s no way I can do this alone…!”
@@ -892,6 +914,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
 
+
 ### y2v3 p.260–266 — Nanase's cliff struggle and her strange air
 [says] (p.261) "I… I can do this!"
 [says] (p.261) "Oww, that hurt…!"
@@ -903,6 +926,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.265) "While it feels like graduation is a long ways away, it'll probably be here in the blink of an eye."
 [trait] (p.260–266) Falls while tying up her hair to climb, but insists on following Ayanokōji; exhausted, she accepts his hand; afterward she asks if he enjoys the school and speaks of living without regrets — her bearing briefly resembles the Nanase he first met, a faint, unsettling change Ayanokōji notes.
 [rel:ayanokouji-kiyotaka] (p.260–266) Follows him up the cliff; her "loyal dog" devotion and subtle shift in demeanor hint at her true nature.
+
 
 
 
@@ -932,6 +956,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.347–353 — Nanase's motive; accepting Ayanokōji's hand
 [scene] (p.347) In the rain, defeated, admits her loss and explains why she targeted him.
 [says] (p.347) "It's my loss… Ayanokōji-senpai."
@@ -954,6 +979,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.360–362 — Short story: "Unfathomable" — the cliff climb from her POV
 [scene] (p.360) From her own POV, reflects that her belief in equal stamina with Ayanokōji was naive — he clears obstacles at 50–60% capacity while she struggles, and she fears falling too far behind.
 [narrates] (p.360) "Don't… mind me. I will, catch up to you, at my own pace…!"
@@ -969,6 +995,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.365–366 — Tapestry SS: "What Could Be Seen From that Back" — Beach Flags from her POV
 [scene] (p.365) From her own POV, lies prone for the Beach Flags final against third-year Tokunaga, aware Ayanokōji is watching.
 [narrates] (p.365) "Fuu…"
@@ -978,6 +1005,158 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.365–366) Goes "all out" despite the demerit of showing her abilities, because she feels she must display full power at all times; wins decisively via flawless timing (synced to the pistol) and preparation (studied Tokunaga's OAA), then accepts the congratulations.
 [rel:ayanokouji-kiyotaka] (p.365–366) Watches her victory; she's conscious of performing for him.
 [rel:tokunaga] (p.366) The third-year opponent she studied and defeated.
+
+### y2v3 p.211–213 — Day 5: south along the river; the fisherman
+[scene] (p.211–212) Day 5 at just before 7 AM; pushing south along the river from D4 to D5; four areas missed in a row (I8 first designation of the day); Shinohara's bottom-eight status; Nagumo first; Kiriyama second; she points out a fisherman; they approach quietly.
+[says] (p.212) “Ah, Senpai. There’s someone fishing up ahead.”
+[says:ayanokouji-kiyotaka] (p.212) “Mind if we make a detour, Nanase?”
+[says] (p.212) “I’m just your travelling companion, Ayanokōji-senpai. Please don’t feel the need to ask for my opinion.”
+
+### y2v3 p.213–219 — Katsuragi and Ryūen; the plan table; her dismissal
+[scene] (p.213–219) Two Class 2-B students; the Komiya/Kinoshita retirement; the plan pitched to Ryūen behind her back; she is sent away from the sidebar.
+[says:katsuragi-kouhei] (p.213) “You started off on your own, but it doesn’t seem like you’ve dropped to the bottom ten yet.”
+[says:ayanokouji-kiyotaka] (p.213) “Somehow. But if I took it easy for a day, my rank would probably plummet.”
+[says:ryuuen-kakeru] (p.213) “So you’re strollin’ ‘round the island with a lass on your arm, eh? You get tired of that Karuizawa chick and ditch her?”
+[says:katsuragi-kouhei] (p.213) “Karuizawa? Why are you bringing her up?”
+[says:ryuuen-kakeru] (p.213) “Kuku, it’s nothin’. Don’t mind it.”
+[says:ayanokouji-kiyotaka] (p.213) “It seems you two have been doing pretty well for yourselves.”
+[says:ryuuen-kakeru] (p.213) “Oh shove it with the sarcasm. Isn’t that freak with a few screws loose one of your classmates?”
+[says:ayanokouji-kiyotaka] (p.213) “Well, that’s true.”
+[says:ayanokouji-kiyotaka] (p.214) “What’s your next designated area?”
+[says:katsuragi-kouhei] (p.214) “Hah?”
+[says:ayanokouji-kiyotaka] (p.214) “It’s already past 7:00 AM. You two sure seem to be taking it easy.”
+[says:ryuuen-kakeru] (p.216) “We’ve been moving at a rapid pace these past four days as we worked on Tasks and map movement. That being said, our first designated area today turned out to be the random designation down in E10, so we’d have to push ourselves fairly hard if we wanted to arrive within the time limit. I decided that the one or two points we’d get for making it there wouldn’t be worth the effort.”
+[says] (p.216) “So, have you caught anything?”
+[says:katsuragi-kouhei] (p.216) “Sadly, not much. We’d have to go to the sea if we wanted to catch a lot of fish.”
+[says:ayanokouji-kiyotaka] (p.216) “I take it you’re doing fine on the food front, then?”
+[says:katsuragi-kouhei] (p.216) “There’s plenty of food to gather from the sea, rivers, and forest. Water is no different too since all you have to do is boil river water.”
+[note] (p.216) “But isn’t it risky to drink river water?” — speaker untagged in the print; recorded unassigned.
+[says:katsuragi-kouhei] (p.216) “You’re not wrong. Boiling it doesn’t guarantee that it’s perfectly safe, but that’s why I’m the only one who drinks it. Ryūen drinks the water we started out with and whatever we get from Tasks.”
+[says:ayanokouji-kiyotaka] (p.217) “It just so happens that I’ve been looking for you, Ryūen.”
+[says:ryuuen-kakeru] (p.217) “Lookin’ for me, eh?”
+[says:ayanokouji-kiyotaka] (p.217) “I assume you’re aware of which groups are in the bottom ten right now, right?”
+[says:ryuuen-kakeru] (p.217) “Well, sure. I dunno what those idiots from my class are doin’ down there in the bottom eight though.”
+[says:ayanokouji-kiyotaka] (p.217) “Komiya and Kinoshita retired.”
+[says:katsuragi-kouhei] (p.217) “They retired? What happened?”
+[says] (p.217) “They were seriously injured. It’s unlikely that either of them will be able to walk anytime soon.” — hers ✓ per the print.
+[says:katsuragi-kouhei] (p.217) “Was it an accident?”
+[says] (p.217) “Well, that’s─” — hers, cut off by AK. ✓ per the print.
+[says:ayanokouji-kiyotaka] (p.217) “According to Shinohara, the last remaining member of their group, they were attacked by someone.”
+[says:ryuuen-kakeru] (p.217) “I assume this ‘someone’ was kicked outta here right along with ‘em then, right?”
+[says:ayanokouji-kiyotaka] (p.217) “Unfortunately, Shinohara’s testimony was the only evidence they had. Neither Komiya nor Kinoshita could recall whether they were actually attacked or not. The school should still be investigating it, but I wouldn’t get my hopes up.”
+[note] (p.217) “They’re looking at it under the pretense that Shinohara-senpai lied because she didn’t want her fellow group members to retire.” — speaker untagged in the print; recorded unassigned.
+[says:ayanokouji-kiyotaka] (p.218) “What should we do Ryūen? Even if we manage to place in the top three, it’ll be meaningless if Komiya and Kinoshita get expelled.”
+[says:ryuuen-kakeru] (p.218) “You said you were lookin’ for me, right? Shinohara’s your classmate, so I assume you’ve already come up with a plan to stop the expulsions. Or am I wrong?”
+[says:ayanokouji-kiyotaka] (p.218) “Sorry Nanase, but I can’t let you listen to the rest of this conversation. The survival of the second-years is at stake here.”
+[says] (p.218) “I understand.” — hers ✓ per the print.
+[says:ryuuen-kakeru] (p.218) “Kuku, I see. With a plan like that there really is a way for Shinohara to survive. That said… will it all go smoothly?”
+[says:ayanokouji-kiyotaka] (p.218) “It should have a decent chance as long as you cooperate. The rest will happen naturally.”
+[says:ryuuen-kakeru] (p.218) “You’ve got balls changing shit up like this. If the other groups realize what’s happening, they’ll start takin’ action too.”
+[note] (p.218) “There are some clever first-year students out there as well. There’s a chance that they might catch on sooner than anticipated.” — speaker untagged in the print; recorded unassigned.
+[says:ryuuen-kakeru] (p.218) “If it were a couple of small fry I wouldn’t even hesitate to let ‘em go, but Komiya and Kinoshita still have their uses.”
+[says:ayanokouji-kiyotaka] (p.219) “So you’ll work with me… is that what you’re saying?”
+[says:ryuuen-kakeru] (p.219) “Our interests align so there’s no way I wouldn’t take advantage of this strat of yours.”
+[says:ayanokouji-kiyotaka] (p.219) “If you run into Ichinose, can you tell her the plan as well?”
+[says:ryuuen-kakeru] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.”
+[note] (p.219) “She’s not the type to sit back and let the first-years look down on her.” — speaker untagged in the print; recorded unassigned.
+[says:ryuuen-kakeru] (p.219) “Kuku, I guess so.”
+
+### y2v3 p.220–232 — C5 summit: Tug of War; her girls' victory by default
+[scene] (p.220–229) A single-Task day — Tug of War; Kōenji Rokusuke at the summit, no pack; his swim-self baptism; they register; one boy each; she is the only girl — wins by default; Kōenji's raw power unbeatable; the count at zero.
+[note] (p.221) “He got here pretty quickly didn’t he? He must’ve been even closer than we were.” — speaker untagged in the print; recorded unassigned.
+[note] (p.221) “I wonder.” — speaker untagged in the print; recorded unassigned.
+[says:ayanokouji-kiyotaka] (p.221) “I’m not sure whether this will help clear things up for you or not, but that’s Kōenji Rokusuke.”
+[says] (p.221) “Kōenji…? The same Kōenji from your class who’s currently in fourth place overall? …Well, he does seem to give off an… aura of greatness of some sort.”
+[says] (p.221) “He seems to be saying… something… Is he talking to us…?”
+[says:ayanokouji-kiyotaka] (p.221) “No, he’s definitely talking to himself. He’s probably just immersed in his own beauty.”
+[says] (p.221) “I-is that so…”
+[says:kouenji-rokusuke] (p.224) “It seeeeems that my opponent is you, Ayanokōji-boy.”
+[says:kouenji-rokusuke] (p.225) “Fufu, so you’re a man who thinks about things from the perspective of efficiency, hmmmm?”
+[says] (p.225) “Is… Is that true, Senpai?”
+[says:kouenji-rokusuke] (p.226) “Ayanokōji-boy, quit overselling your worth inside that head of yours. After all, it’s not every day that you’ll get the chance to compete against my motivated self.”
+[note] (p.226) “Now then, if you’ll each take up your positions, I’ll begin the countdown. You may start pulling when I get to zero.” — the Task staff; speaker unidentified in print; recorded unassigned.
+[says:kouenji-rokusuke] (p.227) “To win at Tug of War, one needs not these paltry parlor tricks, but raw, unbridled power.”
+[says:kouenji-rokusuke] (p.228) “So you chose to prioritize efficiency until the bitter end, did you?”
+[says] (p.228) “It’s quite unfortunate, Senpai.”
+[says:ayanokouji-kiyotaka] (p.228) “No, even if I were to seriously face off against him, I wouldn’t stand a chance. It’s only natural that it ended up this way.”
+[says:ayanokouji-kiyotaka] (p.229) “Can you keep going, Nanase?”
+[says] (p.229) “If I’m being honest, my legs are slightly sore.”
+[says:ayanokouji-kiyotaka] (p.229) “Full speed ahead then.”
+[says] (p.229) “Yes!”
+
+### y2v3 p.230–232 — The harbor; the swim entry
+[scene] (p.230–232) The harbor; she enters the Open Water Swimming at the last minute; AK goes to find someone; Kōenji wins his race by landslide.
+[says] (p.230) “Haaaa… I finally managed to catch up.”
+[says:ayanokouji-kiyotaka] (p.230) “It’s hard to believe you’re a first-year high school girl. I didn’t expect you to have so much stamina.”
+[says] (p.231) “No no, compared to me, you’re not even short of breath, Ayanokōji-senpai… You’re just as outstanding as I thought.”
+[says:ayanokouji-kiyotaka] (p.231) “I’m just putting on a stoic front. Well, that aside, take a look over there.”
+[says] (p.231) “Wow─! So many people!”
+[says] (p.231) “So… Why did we come all the way here to the starting area, Senpai?”
+[says:ayanokouji-kiyotaka] (p.231) “Before that, let’s check out the Task.”
+[says] (p.232) “Senpai… Is… Is that Kōenji-senpai?”
+[says:ayanokouji-kiyotaka] (p.232) “If you want to compete in the Task, you’d better hurry up and register. That said, are you sure you’re feeling okay?”
+[says] (p.232) “Although I’m reluctant to say I’m in perfect condition… it’s a rare opportunity, so I’d like to give it my best shot.”
+[says:ayanokouji-kiyotaka] (p.232) “I’ll be waiting over there then. Come find me when it’s over.”
+[says] (p.232) “Will do!”
+
+### y2v3 p.242–250 — Third place; the random designation; his strategy out in the open
+[scene] (p.242–249) She swims to third; his deliberate heat-hint; his open books at last — he lays out the bottom-ten complacency math and his minimal-risk design; he admits she is (technically) his enemy; she soaks it in silently.
+[says] (p.243) “That girl who took first place is my classmate Onodera. She’s a highly formidable opponent when it comes to swimming, so you shouldn’t let the loss get to you.” — hmm — AK's line. Fix: [says:ayanokouji-kiyotaka].
+[says] (p.243) “Yes. Onodera-senpai was certainly amazing. However, the one I’m truly concerned about is…”
+[says:ayanokouji-kiyotaka] (p.243) “He’s as much a freak as he is a superhuman. Thinking about him any more than necessary isn’t worth the time.”
+[says] (p.244) “Senpai. In terms of distance it’s certainly manageable, but…”
+[says:ayanokouji-kiyotaka] (p.244) “It’ll be hard if we try to go straight through the forest. However, we can take the beach in D8 and C8 and cut through a shorter patch of forest to the beach in B8 instead. Then, if we just head north from there, we can get to B6 without too much trouble.”
+[says] (p.245) “We’ve only just started and I’m already thirsty.” — hmm — whose? untagged; flow: whoever; [note].
+[says] (p.245) “There are more groups huddled around the starting area than I expected. I wonder if that’s due to the stress and difficulty that comes with living on the island for four or five days in a row? What do you think, Senpai?”
+[says:ayanokouji-kiyotaka] (p.245) “I think that’s part of it, but that’s not the only reason. I’d say the largest factor is the revelation of the bottom ten groups.”
+[says] (p.245) “…Is that so? Well, the expulsion penalty only applies to the bottom five groups, and since they were given the ability to find out their current situation through their tablets on the fourth day, I suppose it makes sense that they’ve grown complacent…”
+[says] (p.246) “But, even if you have a 10 to 20 point lead on the bottom five, there’s no absolute guarantee that you’ll be safe, right? If it were me, I’d try my best to establish a 30 to 40 point lead and work to maintain it.”
+[says:ayanokouji-kiyotaka] (p.246) “Of course, at some level, everyone knows that they should be doing it that way. After all, everyone wants to face the special exam with the resolve to give it their all from start to finish. But reality is not that kind. Just like how you and I are eager to get a drink of water right now, once you get a taste of something sweet, whatever resolve you might have is bound to falter.”
+[note] (p.246) “She looked embarrassed as she spoke, as though this was a retelling of something she had experienced firsthand.” — narration (about her); recorded as a [note].
+[says:ayanokouji-kiyotaka] (p.247) “Rest is important. There are times where you’ll have no choice but to overwork yourself to earn points, but the key to that is knowing when to push yourself and when to take a step back and take a break. You ultimately just have to avoid doing the same things as the majority of other students.”
+[says] (p.247) “I’ve been thinking that you’ve been taking on the exam fairly negligently these past few days, Ayanokōji-senpai. But, you’ve just been conducting yourself that way because you don’t want to stand out too much during the first half, haven’t you?”
+[says:ayanokouji-kiyotaka] (p.247) “That’s about right. Of course, I’ll bite if an adequate opportunity presents itself, but even if I made it into a highly contested Task, the number of points I can earn would be limited.”
+[says] (p.248) “Uhm, if I may ask… why are you telling me about your plan? Up until now, it has always seemed that you’ve been looking to placate or deceive me whenever the topic comes up, Senpai.”
+[says:ayanokouji-kiyotaka] (p.249) “Put simply, there’s no questioning the fact you’re my enemy, Nanase. Not only because this exam requires us to compete against each other as students from different school years, but also because there’s 20 million private points in it for you for getting me expelled.”
+[says] (p.249) “…That’s right. After all, I tried to plot against you before, Senpai.”
+[says:ayanokouji-kiyotaka] (p.249) “That being said, your actions so far have made it impossible for me to see you as an enemy.”
+[says] (p.249) “Even though I’ve acted with blatant hostility before…?”
+
+### y2v3 p.250–259 — B5; Hamaguchi's camp; the “Honami-chan” dinner
+[scene] (p.250–259) She collapses at B5 (class reception area); a camp of three (Hamaguchi Tetsuya; Andō Sayo; Minamikata Kozue); the 50% Head Start card group (22,500 points); the yakiniku invitation; the “Honami-chan” gossip as they dine.
+[says] (p.250) “Phew~! Somehow we finally managed to make it to our last area.”
+[says:ayanokouji-kiyotaka] (p.250) “It seems like you’ve been pushing yourself quite a lot.”
+[says:hamaguchi-tetsuya] (p.251) “Yo!”
+[says:hamaguchi-tetsuya] (p.251) “You guys in a hurry to get somewhere?”
+[says:ayanokouji-kiyotaka] (p.251) “No. We’ve already reached our designated area for the day. We were just thinking of finding somewhere a bit closer to the ocean.”
+[says:hamaguchi-tetsuya] (p.251) “Then how about you take it easy and stick around for a bit?”
+[says:hamaguchi-tetsuya] (p.252) “Though, you don’t have to force yourself if you don’t want to.”
+[says:ayanokouji-kiyotaka] (p.252) “Well, I suppose we’ll take a short break.”
+[says:hamaguchi-tetsuya] (p.252) “Come on over then, make yourself at home.”
+[says:andou-sayo] (p.253) “No, no, nothin’ like that. We were whisperin’ ‘bout somethin’ else. It just so happens we wanted to talk with you, Ayanokōji-kun, so it’s totally fine by us if you guys camp here tonight. Right Kozue?”
+[says:minamikata-kozue] (p.253) “Yep.”
+[says:minamikata-kozue] (p.256) “Eh? Wait, then has there really not been any progress yet? For real?”
+[says:minamikata-kozue] (p.256) “No way! I thought for sure that they’d at least be at that ‘more than friends, less than lovers’ stage by now!”
+[says:andou-sayo] (p.256) “I know right? Honami-chan’s been dropping his name pretty much all the time these days.”
+[note] (p.256) “Is that so?” — speaker untagged in the print; recorded unassigned.
+[says:andou-sayo] (p.256) “Well, like… ya know…”
+[says:andou-sayo] (p.256) “I know it’s not our place to say this an’ all, but… is there even any reason why they shouldn’t be going out at this point?”
+[says:ayanokouji-kiyotaka] (p.256) “…I’m not 100% certain I get what you two are going on about, but I don’t think we should go out with each other.”
+[says:andou-sayo] (p.256) “No no no no no no. What are you saying? I’ll say it again just to be sure, but you do know that this is THE Honami-chan we’re talkin’ about, right?”
+[says:minamikata-kozue] (p.257) “I can’t really speak for all the boys out there, but prolly like 80 to 90% of the second-years like Honami-chan, right?”
+[says:ayanokouji-kiyotaka] (p.257) “That sounds like a safe bet to me.”
+[says:andou-sayo] (p.257) “You two are in different classes, sure, but you don’t have to let that get in the way of love! There’re tons of couples out there going steady with each other regardless of their class or grade.”
+[says:ayanokouji-kiyotaka] (p.257) “Isn’t the bigger issue here the fact that Ichinose isn’t even interested in me?”
+[says:andou-sayo] (p.257) “Ooooo, is that modesty I see? You do know that you were quite the hit with the girls back when we first enrolled here, right Ayanokōji-kun?”
+[says] (p.257) “It sounds like you’re quite a hit with the ladies, Ayanokōji-senpai.”
+[says:ayanokouji-kiyotaka] (p.257) “No, I’m not. Nothing of the sort. No girls have ever said anything like that to me before.”
+[says:andou-sayo] (p.258) “Reeeally~? Ah, well I can think of one time when you came up in a conversation, but the topic changed real fast.”
+[says:minamikata-kozue] (p.258) “Well, ain’t no helpin’ that. There’s no way to tell if you’re gonna like a guy unless you up and talk with ‘em face-to-face, and Ayanokōji-kun wasn’t the type a’ guy to talk with people a year ago.”
+[says:minamikata-kozue] (p.258) “Doesn’t seem to me like he’s changed much since then either though~!”
+[says] (p.258) “Ayanokōji-senpai has changed a little from how he used to be, then?”
+[says:hamaguchi-tetsuya] (p.258) “Well, I guess in some ways he seems a lot… softer now?”
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

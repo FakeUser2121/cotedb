@@ -153,14 +153,25 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.251–258 — Hamaguchi mentioned in passing
-[scene] (p.251–258) Named in the first-year representative meeting context.
-[note] (p.251–258) Passing mentions; not a distinct scene presence.
-[mentioned] (p.251–258) Passing mention only.
+### y2v3 p.251–258 — Hamaguchi at his camp
+[scene] (p.251–258) Class 2-C; the camping trio of the asahi wagon-esque dinner host; all three with the 50% Head Start card (22,500 points); the yakiniku; the “Honami-chan” gossip.
+[says] (p.251) “Yo!”
+[says] (p.251) “You guys in a hurry to get somewhere?”
+[says] (p.251) “Then how about you take it easy and stick around for a bit?”
+[says] (p.252) “Though, you don’t have to force yourself if you don’t want to.”
+[says] (p.252) “Come on over then, make yourself at home.”
+[says] (p.254) “You guys alright with some yakiniku?”
+[says] (p.254) “We’ve at least gotta treat you guys to a solid dinner. Right you two?”
+[says] (p.255) “You guys really don’t gotta worry ‘bout it. We just so happened to get our hands on some nice beef as a reward from a Task today. It’s not gonna last for long in storage either way, so we might as well dig in while we can.”
+[says] (p.255) “Oh stop it with the formalities. Don’t hold back.”
+[says] (p.256) “It’s cause we’ve been hearing a lot of talk about you lately, Ayanokōji-kun. We wanted to get a chance to talk to you ourselves. Ain’t that right guys?”
+[says] (p.257) “Isn’t the bigger issue here the fact that Ichinose isn’t even interested in me?”
+[says] (p.258) “Well, I guess in some ways he seems a lot… softer now?”
+[trait] (p.251–258) The dense, good-natured host; his group acts as the class's kitchen corps (point-backed provisions for everyone).
+[rel:andou-sayo] (p.251–258) Group member.
+[rel:minamikata-kozue] (p.251–258) Group member.
 
-<!-- walk: y2v3 Ch.7 → p.258 -->
-
-
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v9
 

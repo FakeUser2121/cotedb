@@ -1342,6 +1342,43 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:nanase-tsubasa] (p.358) Knows she left his side, freeing a girls' spot for the Task.
 [rel:ichinose-honami] (p.357) Has her doing her best in the exam.
 [rel:shibata-sou] (p.357) Has him doing his best too.
+### y2v3 p.234–239 — Sakayanagi at the parasol
+[scene] (p.234–239) Seated elegantly under a parasol (Ichinose and Shibata nearby, putting forth their best efforts for her sake); the Early Bird exception explained; his pitch; her counter-offer.
+[says] (p.234) “Good day to you, Ayanokōji-kun. It seems the weather is going to be awfully hot today, don’t you think?”
+[says:ayanokouji-kiyotaka] (p.234) “How are you doing, Sakayanagi?”
+[says] (p.234) “Reasonably well, I suppose. Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.”
+[says:ayanokouji-kiyotaka] (p.234) “I’ve been curious about whether or not your group is eligible for Early Bird Bonuses.”
+[says] (p.234) “The school has graciously decided to make an exception for my group. After all, it’s not my fault that I’m forced to stay sedentary.”
+[says] (p.234) “I must ask, what brings you to the starting area today?”
+[says:ayanokouji-kiyotaka] (p.234) “There were a few reasons, but the first didn’t play out according to plan.”
+[says] (p.234) “He was in fourth place just this morning, and yet now he’s already in second? As a classmate of yours, he’s quite the prodigy, isn’t he?”
+[says:ayanokouji-kiyotaka] (p.234) “I hold the same opinion.”
+[says] (p.234) “It should be about half an hour until the Task is over and Nanase-san comes back, so you’re welcome to come join me if you’d like. The shade here is wonderfully refreshing, I must say.”
+[says] (p.236) “Fufu, by all means. Don’t be shy.”
+[says:ayanokouji-kiyotaka] (p.236) “How do you know about Nanase?”
+[says] (p.236) “Because I receive regular updates about the various going-ons of the island.”
+[says:ayanokouji-kiyotaka] (p.236) “Are you sure it’s okay for me to join you? I’m an enemy after all.”
+[says] (p.238) “Actually, there’s a favor I’d like to ask of you, Sakayanagi.”
+[says:ayanokouji-kiyotaka] (p.238) “Ayanokōji-kun himself is asking me? Well now isn’t that intriguing? Please, do go on.”
+[says] (p.238) “Five days have passed since the exam started, and yet only two people have retired.”
+[says:ayanokouji-kiyotaka] (p.238) “Komiya-kun and Kinoshita-san, right? It seems you’re fairly well informed yourself.”
+[says] (p.238) “Incidentally, I just happened to be there when they retired.”
+[says] (p.238) “From what I’ve gathered by looking at the rankings, the remaining Shinohara-san still seems to be putting forth the effort to stay afloat… As such, I would reckon that she’s working with someone else now in order to get through the rest of the exam, is that right?”
+[says:ayanokouji-kiyotaka] (p.238) “Correct.”
+[says] (p.238) “Though, given her abilities, it would be considerably difficult for her to navigate the second half of the battle on her own. Ideally, she should look to get absorbed by some other group sooner rather than later… Ah, I see what you’re after.”
+[says] (p.238) “So you want to get me to cooperate? Have you already met with Ryūen-kun?”
+[says:ayanokouji-kiyotaka] (p.238) “He’s on board with my plan. It seems he thinks quite highly of Komiya and Kinoshita.”
+[says] (p.238) “Is that so?”
+[says] (p.239) “It’s only natural that Ryūen-kun would lend a hand given the circumstances, but I don’t see any merit in doing so myself. At some level, I suppose that it would be prudent to prevent second-year Class Points from falling into the hands of the other school years. But to be honest, if there’s no harm done to Class 2-A, I don’t think it warrants any kind of intervention on my part.”
+[says] (p.239) “But, if you’re willing to stomach working with me under the same conditions, I wouldn’t be opposed to helping you out.”
+[says:ayanokouji-kiyotaka] (p.239) “I’d like to agree to your condition, but I lack the necessary manpower right now.”
+[says] (p.239) “I’ll gladly wait for when you’re ready, of course. This strategy of yours will require both time and effort to execute, so if you want to take action, it’d be best to do so sooner rather than later.”
+[says:ayanokouji-kiyotaka] (p.239) “I’ll contact you later.”
+[says] (p.239) “I’ll leave it to you to decide on a messenger then. Whether it be Horikita-san or Ryūen-kun, it’s of no concern to me.”
+[rel:ayanokouji-kiyotaka] (p.234–239) The counter-questioning/negotiation over the Shinohara rescue; counter-offer accepted in principle, awaiting his call.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

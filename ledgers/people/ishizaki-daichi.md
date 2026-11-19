@@ -714,12 +714,18 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
 
+
 ### y2v3 p.40–41 — The giant backpack and the water plan
 [scene] (p.40) At the end of the briefing, a loud wail comes from the front of the theater — Class 2-B's Ishizaki is struggling to stand upright with one of the largest-sized backpacks strapped to his back.
 [says] (p.40) “Graaaaaagh!”
 [note] (p.41) A student nearby asks a friend: “Seems like he's trying to carry a whole lot of water in that backpack or somethin'.” — speaker pair untagged in the translation; recorded unassigned. Ayanokōji judges the plan flawed: water is heavy, and overloading a pack mid-trek dooms the carrier.
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
+
+### y2v3 p.216 — Ishizaki named at the riverbed
+[mentioned] (p.216) “Ishizaki or Kaneda probably wouldn’t have been able to control Ryūen to such an extent.” — named by Ayanokōji (his assessment); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

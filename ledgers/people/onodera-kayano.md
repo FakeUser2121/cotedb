@@ -66,13 +66,11 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.243 — Onodera mentioned in passing
-[scene] (p.243) Named in the context of the first-year meeting.
-[note] (p.243) Passing mention; not a distinct scene presence.
-[mentioned] (p.243) Passing mention only.
+### y2v3 p.243 — Onodera wins the Open Water Swim (Kayano row)
+[mentioned] (p.243) “That girl who took first place is my classmate Onodera. She’s a highly formidable opponent when it comes to swimming, so you shouldn’t let the loss get to you.” — named as the girls' winner of the Open Water Swimming Task; not present; POV Ayanokōji.
+[mentioned] (p.243) “Yes. Onodera-senpai was certainly amazing.” — named by Nanase; not present; same scene.
 
-<!-- walk: y2v3 Ch.7 → p.243 -->
-
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v5
 

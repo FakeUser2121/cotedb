@@ -355,6 +355,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:hoshinomiya-chie] (p.16, 23–24) Class 2-C homeroom teacher sharing the stage; hands him the watch.
 [rel:tsukishiro] (p.32–34) Yields the microphone to him; later whispers to him on stage.
 
+
 ### y2v3 p.23–27 — The watches and the twelve Tables
 [scene] (p.23) Hoshinomiya-sensei comes up on stage and hands him a digital wristwatch; a staff member fastens it with a special tool; his live metrics appear on the screen.
 [says] (p.24) “Starting tomorrow, all students will be required to wear one of these watches until the end of the exam.”
@@ -370,6 +371,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rule] (p.24–27) Warning Alert: 5 seconds, then repeats after 10 minutes while abnormal, escalating to a louder second warning, then the Emergency Alert (continuous unless disabled; 24-hour checkup required, else retirement/punishment; if it sounds for over five minutes, faculty and medical personnel are dispatched by GPS); the watch is fastened with a special tool, and forcible removal stops point tallying; damage/malfunction disables point scoring until a swap at the starting area; twelve ‘Tables’ pre-program each watch's designated-area sequence; whole groups share a table; linked members take the main group's table.
 [rel:hoshinomiya-chie] (p.23–24) Hands him the watch mid-briefing.
 
+
 ### y2v3 p.28–32 — Tasks and the Main Link
 [scene] (p.28) Shows a Math Test Task example on the screen (red dot in C3); explains Task categories, staffing and registration rules.
 [says] (p.28) “Next, I'll explain the second way to earn points. Simply put, you can earn points by completing ‘Tasks’ set up throughout the island.”
@@ -383,6 +385,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rule] (p.28–32) Tasks appear as tablet red dots only, 7:00–17:00 (from 10:00 on the first day; until 15:00 on the last); identical Tasks may recur; staff on standby for registration with watch and tablet; examples given: Math Test (1/group, max 10 groups, 5/3/1 + provisions), Shot Put (3 throwing aggregate distance, max 6 groups, 10/5/3 + free prize), Fishing (2 participants, biggest fish in one hour, max 8 groups, 15 pts); expansion Tasks from day 4 (1st +3 spots / 2nd +2 / 3rd +1; six-member cap; only ~20–30% of groups unlock); group-size tasks never offered to six-person groups; standings (top and bottom ten plus own) visible days 4–12; GPS search from day 6 (1 pt per search); on link, points average; a solo climber needs two expansions to reach six.
 [rel:tsukishiro] (p.32–34) Invites him to the stage; yields the microphone to him before stepping down.
 
+
 ### y2v3 p.35–39 — Provisions and tablets
 [scene] (p.35) Staff wheel out a cart of provisioned goods; the Uninhabited Island Survival Manual is distributed from the front row; purchases open until 6:00 AM tomorrow; a hands-on exhibition runs until midnight; the port shop sells at double price later.
 [says] (p.35) “Everybody will be given a base of 5000 points. You're free to use them to buy whatever you'd like from what you see up here.”
@@ -395,6 +398,26 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:tsukishiro] (p.32–34) Introduces him: “Thank you very much, Acting Director Tsukishiro.” (p.34) — yields the stage to him before provisions.
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
+
+### y2v3 p.240–241 — Mashima at the provisions desk (Ch.6)
+[scene] (p.240–241) Manning the provisions desk near the harbor; pulls Ayanokōji aside with a look; the two-boats disclosure; his daily watch for the Acting Director's moves.
+[says] (p.240) “Ah, Ayanokōji. Perfect timing actually. I have something to tell you, so make it seem like you’re looking through the merchandise and listen up.”
+[says] (p.240) “Acting Director Tsukishiro hasn’t done anything noteworthy so far, at least not since the exam started. I haven’t noticed him planning anything to interfere with you.”
+[says:ayanokouji-kiyotaka] (p.240) “So you’re saying I don’t need to worry about him doing anything?”
+[says] (p.240) “…That’s what I’d like to tell you, but there are still certain things that seem a bit strange.”
+[says] (p.240) “In this exam, there’s no telling when or where someone might run into danger. In the event that a student suffers a particularly time-critical injury, the school has prepared a small boat and a helicopter to help expedite the rescue process.”
+[says:ayanokouji-kiyotaka] (p.240) “That seems reasonable to me.”
+[says] (p.240) “We originally planned on bringing along one helicopter and one boat… found that the Acting Director had arranged it as a supposed safety precaution.”
+[says:ayanokouji-kiyotaka] (p.241) “So then, maybe it’s possible that he did so expecting the need for two boats to arise at once?”
+[says] (p.241) “That’s certainly true. In the end, it’s just something peculiar that I thought would be worth mentioning. Take it for what you will.”
+[says:ayanokouji-kiyotaka] (p.241) “Where does the Acting Director usually spend his time?”
+[says] (p.241) “Generally, he stays in the tent where the monitoring equipment has been set up, making sure that nothing has gone wrong with any of the students’ watches. Of course, other staff members are in there monitoring the watches as well. Outside of that, he tends to go out and patrol the island once or twice a day, sometimes for several hours at a time.”
+[says:ayanokouji-kiyotaka] (p.241) “The Acting Director goes out of his way to patrol the island, all on his own?”
+[says] (p.241) “Yes.”
+[says] (p.241) “In any case, I have a bad feeling about all of this, so be sure to watch your back, Ayanokōji.”
+[says:ayanokouji-kiyotaka] (p.241) “Thank you for going to the trouble of providing me with this warning.”
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

@@ -1831,10 +1831,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:shiba-katsunori] (p.342–344) Class 1-D's teacher, who moves to "dispose of" her with rubber gloves.
 [rel:ayanokouji-kiyotaka] (p.345) Tsukishiro's warning targets her loyalty to him; she considers whether to tell him.
 [rel:shibata-sou] (p.331) Her group member, worried about her broken watch.
+
 ### y2v3 p.104 — Ichinose guessed at the fire
 [mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+
+### y2v3 p.234 — Ichinose named by Sakayanagi
+[mentioned] (p.234) “Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.” — named as Sakayanagi's working group; not present; POV Ayanokōji.
+[mentioned] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.” — named by Ryūen; not present; same scene.
+[mentioned] (p.219) “If you run into Ichinose, can you tell her the plan as well?” — named by Ayanokōji; not present; same scene.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

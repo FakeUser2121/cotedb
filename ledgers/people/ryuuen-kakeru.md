@@ -2283,21 +2283,38 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.213–219 — Ryūen agrees to the Shinohara rescue plan
-[scene] (p.213) Emerges from his tent at the bottom-eight commotion; later fishing by a river with Katsuragi when Ayanokōji seeks him out.
-[says] (p.217) "Well, sure. I dunno what those idiots from my class are doin' down there in the bottom eight though."
-[says] (p.217) "I assume this 'someone' was kicked outta here right along with 'em then, right?"
-[says] (p.218) "What should we do Ryūen? Even if we manage to place in the top three, it'll be meaningless if Komiya and Kinoshita get expelled." — Katsuragi
-[says] (p.218) "You said you were lookin' for me, right?"
-[says] (p.218) "will it all go smoothly?"
-[says] (p.218) "If the other groups realize what's happening, they'll start takin' action too."
-[says] (p.218) "If it were a couple of small fry I wouldn't even hesitate to let 'em go, but Komiya and Kinoshita still have their uses."
-[says] (p.219) "That doormat Ichinose aside, I don't think Sakayanagi'll choose to lend a hand so easily."
-[trait] (p.213–219) Serious the moment he hears Komiya/Kinoshita retired; helps Ayanokōji keep the rescue plan secret from Nanase, praises his audacity, and agrees to cooperate because their interests align — Komiya and Kinoshita are useful to him.
-[rel:ayanokouji-kiyotaka] (p.216–219) Agrees to the secret strategy to save Shinohara; trusts him to execute it.
-[rel:katsuragi-kouhei] (p.216–218) His classmate; has persuaded him to take breaks and manage risk.
-[rel:ichinose-honami] (p.219) Dismisses her as a "doormat."
-[rel:sakayanagi-arisu] (p.219) Doubts she'll help easily.
+### y2v3 p.213–219 — Ryūen at the riverbed
+[scene] (p.213–219) Comes out of the tent, surprised — fishing with Katsuragi; tenth place with 92 points (29 Arrival, 41 Early Bird, 22 Tasks); his instinct: Komiya and Kinoshita backed him when it counted; the rescue plan.
+[says] (p.213) “So you’re strollin’ ‘round the island with a lass on your arm, eh? You get tired of that Karuizawa chick and ditch her?”
+[says:katsuragi-kouhei] (p.213) “Karuizawa? Why are you bringing her up?”
+[says] (p.213) “Kuku, it’s nothin’. Don’t mind it.”
+[says:ayanokouji-kiyotaka] (p.213) “It seems you two have been doing pretty well for yourselves.”
+[says] (p.213) “Oh shove it with the sarcasm. Isn’t that freak with a few screws loose one of your classmates?”
+[says:ayanokouji-kiyotaka] (p.213) “Well, that’s true.”
+[says] (p.216) “We’ve been moving at a rapid pace these past four days as we worked on Tasks and map movement. That being said, our first designated area today turned out to be the random designation down in E10, so we’d have to push ourselves fairly hard if we wanted to arrive within the time limit. I decided that the one or two points we’d get for making it there wouldn’t be worth the effort.”
+[says:ayanokouji-kiyotaka] (p.217) “It just so happens that I’ve been looking for you, Ryūen.”
+[says] (p.217) “Lookin’ for me, eh?”
+[says:ayanokouji-kiyotaka] (p.217) “I assume you’re aware of which groups are in the bottom ten right now, right?”
+[says] (p.217) “Well, sure. I dunno what those idiots from my class are doin’ down there in the bottom eight though.”
+[says:ayanokouji-kiyotaka] (p.217) “Komiya and Kinoshita retired.”
+[says:katsuragi-kouhei] (p.217) “They retired? What happened?”
+[says] (p.217) “I assume this ‘someone’ was kicked outta here right along with ‘em then, right?”
+[says:ayanokouji-kiyotaka] (p.217) “Unfortunately, Shinohara’s testimony was the only evidence they had. Neither Komiya nor Kinoshita could recall whether they were actually attacked or not. The school should still be investigating it, but I wouldn’t get my hopes up.”
+[says:ayanokouji-kiyotaka] (p.218) “What should we do Ryūen? Even if we manage to place in the top three, it’ll be meaningless if Komiya and Kinoshita get expelled.”
+[says] (p.218) “You said you were lookin’ for me, right? Shinohara’s your classmate, so I assume you’ve already come up with a plan to stop the expulsions. Or am I wrong?”
+[says:ayanokouji-kiyotaka] (p.218) “Sorry Nanase, but I can’t let you listen to the rest of this conversation. The survival of the second-years is at stake here.”
+[says] (p.219) “Kuku, I see. With a plan like that there really is a way for Shinohara to survive. That said… will it all go smoothly?”
+[says:ayanokouji-kiyotaka] (p.218) “It should have a decent chance as long as you cooperate. The rest will happen naturally.”
+[says] (p.218) “You’ve got balls changing shit up like this. If the other groups realize what’s happening, they’ll start takin’ action too.”
+[says] (p.218) “If it were a couple of small fry I wouldn’t even hesitate to let ‘em go, but Komiya and Kinoshita still have their uses.”
+[says:ayanokouji-kiyotaka] (p.219) “So you’ll work with me… is that what you’re saying?”
+[says] (p.219) “Our interests align so there’s no way I wouldn’t take advantage of this strat of yours.”
+[says:ayanokouji-kiyotaka] (p.219) “If you run into Ichinose, can you tell her the plan as well?”
+[says] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.”
+[says] (p.219) “Kuku, I guess so.”
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->
