@@ -1200,39 +1200,111 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.164–186 — Ike searches for Shinohara
-[scene] (p.164–186) He panics when Shinohara is missing; he runs into the forest and finds her; he is relieved.
-[trait] (p.164–186) Emotional and desperate — he is frantic about Shinohara.
+### y2v3 p.164–176 — The 5 AM wake; the search; Komiya found
+[scene] (p.164–167) Shaken awake by Nanase; volunteers to take the lead; vetoed by Nanase (crisis discernment jobs); takes rear-guard; shouts for Shinohara.
+[says] (p.166) “Eh? W-why?”
+[says] (p.166) “Well, but ya know… Outta all of us, I think I’m prolly the best one to─”
+[says] (p.166) “No…? Ah, I mean, that’s not a problem, but… Are you sure you’ll be alright, Ayanokōji?”
+[scene] (p.172–176) His instincts demand Shinohara; he bolts; Komiya revives faintly; he can't keep Shinohara's name out of his mouth.
+[says] (p.171) “T-that’s, I know that but still!”
+[says] (p.171) “Y-yeah. That’s why we gotta hurry up and find her!”
+[says] (p.171) “That’s… that’s… Well, you’re not wrong…”
+[says] (p.171) “So, you’re sayin’ she might be lost…?”
+[says] (p.176) “Komiya, where’s Shinohara!?”
 
-<!-- walk: y2v3 Ch.5 → p.186 -->
+### y2v3 p.177–181 — The climb; Shinohara's push account
+[scene] (p.177–181) Dashing toward a sound on the slope; cliff climb; caught up to AK; she emerges from the bushes; they crash into each other; his anger at the push; the first-year group detail (three girls and one boy); they take the detour down.
+[says] (p.177) “Shinohara-!!”
+[says] (p.178) “A-Ayanokōji!?”
+[says] (p.178) “Oh, ah…!?”
+[says] (p.178) “…G-got it. I’ll chill out and follow you so… please don’t take me back…”
+[says] (p.179) “Shinohara-!!”
+[says] (p.179) “Shinohara? Shinohara!!!”
+[says] (p.179) “Y-you’ve been here this whole time?”
+[says] (p.180) “Then why didn’t you call out sooner!? Do you have any idea how worried I’ve been!?”
+[says:shinohara-satsuki] (p.179) “…Ike? Is that you?”
+[says:shinohara-satsuki] (p.179) “Y-yeah.”
+[says:shinohara-satsuki] (p.180) “K-Komiya-kun and Kinoshita-san, where are they!?”
+[says] (p.180) “They’re both seriously injured at the bottom of the slope, what the hell happened to them?”
+[says:shinohara-satsuki] (p.180) “I-I couldn’t move… I was scared, so scared… a-and… I saw…”
+[says] (p.180) “You saw? Saw what?”
+[says:shinohara-satsuki] (p.180) “…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push them off…”
+[says] (p.180) “Somebody? Who the hell was it!?”
+[says:shinohara-satsuki] (p.180) “I-I don’t know! I really don’t! …But why, why would they do such a thing!?”
 
+### y2v3 p.188–198 — The return; the GPS record; Sakagami's pressure
+[scene] (p.188–198) Back at the injured pair; her testimony repeats; the four first-years arrive; Sakagami and Chabashira arrive; GPS record; the “convenient tale” charge; his outburst overlooked (once).
+[says:dogami-mitsuko] (p.192) “Uhm~… Has something happened here?”
+[says:sakagami] (p.193) “Let’s get down to business and hear what happened here, shall we?”
+[says] (p.194) “Uhm, is it alright if I explain? Shinohara told me what happened.”
+[says:sakagami] (p.194) “…Well, I suppose that’s fine. Go ahead and speak.”
+[says] (p.194) “Shinohara said that they were pushed off the slope.”
+[says:sakagami] (p.194) “Pushed off? …How awfully unsettling.”
+[says] (p.194) “So they won’t have to retire because of that, right? That’s right, right?”
+[says:sakagami] (p.194) “If that’s the truth, then yes, of course they won’t.”
+[says] (p.194) “What do you mean ‘if that’s the truth’? Shinohara said so herself!”
+[says:sakagami] (p.194) “Then, I assume she must have evidence of some sort to back that up, yes?”
+[says:sakagami] (p.195) “So how about it, Shinohara-san? You can’t just keep crying, so how about you give us an answer?”
+[says] (p.195) “Shinohara would never lie!”
+[says:sakagami] (p.195) “You’re her classmate. It’s only natural that you would say that.”
+[says] (p.195) “Are you saying that you don’t believe her!?”
+[says:sakagami] (p.195) “If she’s telling the truth, then this is quite a serious matter. However, this testimony alone is not enough.”
+[says] (p.195) “How could you! Then what’s gonna happen to Komiya and Kinoshita!?”
+[says:sakagami] (p.195) “No matter how things play out, I’d say that their only real option is retirement. As their homeroom teacher, I certainly can’t say I’m happy to see them withdraw from the exam either, but from the look of their legs, it would be impossible for them to continue.”
+[says:sakagami] (p.195) “Given the current situation, we have no choice but to conclude that Shinohara-san is lying in order to gloss over the injuries caused by this accident.”
+[says] (p.196) “You’re fuckin’ kidding me! Who in their right mind would buy that bullshit!?”
+[says:sakagami] (p.197) “I’ll overlook that careless outburst of yours just this once. Are we clear?”
+[says] (p.198) “Tsk…!”
+[says:chabashira-sae] (p.198) “We relied on Komiya and Kinoshita’s GPS signals to get here. Komiya’s Emergency Alert went off at 4:56:24 AM, whereas Kinoshita’s went off seven seconds later. The only other signal that was in the nearby area in that timeframe was Shinohara’s and Shinohara’s alone.”
 
+### y2v3 p.199–209 — Komiya's blessing; the rescue pact; the plan
+[scene] (p.199–204) Komiya — the rival in love — gives her away: “Show me how much of a man you are.”; her breakdown and flight; her refusal; his first three stops abandoned; give a shit anyway; his pact with Sudō and Hondō; his stubborn claim.
+[says:shinohara-satsuki] (p.199) “I-I can’t go on like this…! There’s no way I can do this alone…!”
+[says:komiya-kyogo] (p.200) “Ike… come here real quick.”
+[says:komiya-kyogo] (p.200) “Show me how much of a man you are.”
+[says:sudou-ken] (p.200) “That’s gotta be tough…”
+[says] (p.202) “…What?”
+[says] (p.202) “Are you really just gonna go back to the starting area and wait there!?”
+[says] (p.202) “But, but like─”
+[says] (p.202) “I… I’ll do something about it!”
+[says] (p.202) “It’s not impossible!”
+[says] (p.203) “Happy? What kind of shit are you spouting!? There’s no way I’d be happy!”
+[says] (p.203) “I mean, we’ll lose a whole lotta class points if you get expelled! I’ve, uhm, you know, I’ve gotta stop that from happening! That’s why I’ll lend you a hand to make sure!”
+[says] (p.203) “That─”
+[says] (p.203) “W-wait…!”
+[says:sudou-ken] (p.203) “Kanji.”
+[says] (p.204) “Wait, I said wait!”
+[says] (p.204) “There is! There’s all sorts of stuff! I really don’t want you to get expelled! That’s why I’m gonna save you whether you like it or not!”
+[says:sudou-ken] (p.204) “Right-oh! If this is how Kanji wants to do it, let’s discuss battle plans, Ryōtarō!”
+[says:hondou-ryoutaro] (p.204) “G-gotcha!”
+[says:shinohara-satsuki] (p.204) “Huh…? What the? Are you guys stupid? Even though you shouldn’t waste your time on someone like me, you guys…”
+[scene] (p.204–209) Nanase lectures; the three-slot math; his stubbornness grows; his belief in the plan; Komiya's last vision.
+[says:sudou-ken] (p.205) “Is there really no way for her to get into a group smoothly, Ayanokōji?”
+[says:ayanokouji-kiyotaka] (p.205) “It’s not like it’s impossible. There is one idea that comes to mind that has a high probability of working out.”
+[says:sudou-ken] (p.206) “R-really? What is it!?”
+[note] (p.206) “What are you gonna be doing?” — speaker untagged in the print; recorded unassigned.
+[says:ayanokouji-kiyotaka] (p.206) “The only thing you can do right now is have Ike take the lead in protecting Shinohara and focus on earning as many points as possible. Beyond that, you should try to take part in Tasks that increase the maximum number of people allowed in your group if you get the chance.”
+[says:ayanokouji-kiyotaka] (p.206) “But, like I said earlier, there’s no way to guarantee anything here. Furthermore, if any of our other classmates were to fall into the bottom five as well, then… we might be forced to make a tough choice about who to save.”
+[says:ayanokouji-kiyotaka] (p.207) “Don’t forget that, Ike.”
+[says] (p.207) “…I won’t.”
+[rel:shinohara-satsuki] (p.164–209) His blaze-of-passion rescue attempt; Komiya's blessing behind him.
+[rel:komiya-kyogo] (p.200–207) The rival's final act.
+[rel:sudou-ken] (p.164–209) His backbone; the pact.
+[rel:hondou-ryoutaro] (p.164–209) The third wheel of the ride.
 
-### y2v3 p.169–207 — Ike's ordeal: Shinohara's accident and his confession
-[scene] (p.169) Rushes to Komiya's side; learns Shinohara is missing and calls her name into the forest.
-[says] (p.172) "Shinohara-!!"
-[says] (p.176) "Komiya, where's Shinohara!?"
-[says] (p.178) "Shinohara-!!"
-[says] (p.195) "Shinohara would never lie!"
-[says] (p.196) "How could you! Then what's gonna happen to Komiya and Kinoshita!?"
-[says] (p.202) "I… I'll do something about it!"
-[says] (p.202) "I won't! You think I'm gonna let you get expelled cuz of somethin' like this?"
-[says] (p.204) "There is! There's all sorts of stuff! I really don't want you to get expelled! That's why I'm gonna save you whether you like it or not!"
-[trait] (p.169–207) Desperate and lovesick but transformed — defends Shinohara furiously against Sakagami's suggestion she's lying, and after Komiya entrusts her to him ("Show me how much of a man you are"), repeatedly takes her wrist and finally blurts an inelegant, emotion-filled declaration that he'll save her "whether you like it or not" — his own way of confessing.
-[rel:shinohara-satsuki] (p.172–204) Desperately searches for her and refuses to let her be expelled.
-[rel:komiya] (p.195–200) His rival in love; defends his account and receives his entrustment.
-[rel:sudou-ken] (p.203) Sudō and Hondō back his resolve; Sudō beats his chest to encourage him.
-[rel:ayanokouji-kiyotaka] (p.205–207) Receives his plan and instructions for protecting Shinohara.
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ### y2v3 p.65 — Ike named at the Grip Strength Task
 [mentioned] (p.65) “His group members, Ike and Hondō, were nowhere to be seen, suggesting that he had probably split off and rushed here on his own to secure a spot in the Task.” — named as Sudō's group member at the Task site; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
 
+
 ### y2v3 p.85–90 — The funk; the anime quiz; "Yay…"
 [scene] (p.85–86) Sits a bit away from the registration desk, waiting for the quiz; visibly out of it — bored, uninterested; Hondō fails to strike up a conversation; Sudō sizes him up ("Though, well, Ike's been kinda out of it."); Shinohara/Komiya context: the pressure of the expulsion risk + the girl he has his eye on.
 [scene] (p.88–90) 『Quiz Genre・Anime』; his hands are reliable on these — 95% with Sudō and Hondō; the class credit for miscellaneous knowledge; the high-five comes weak.
 [says] (p.90) “Yay…”
+
 
 ### y2v3 p.97–109 — Shinohara comes out
 [scene] (p.97) Sudō and Hondō press him about camping; he points them to the clearing near H9; he's listless through the trek.

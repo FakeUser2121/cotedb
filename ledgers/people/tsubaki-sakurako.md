@@ -102,6 +102,7 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 
 
+
 ### y2v3 p.267–273 — Tsubaki's trap: exposing and coercing Yagami
 [scene] (p.267) At 9 PM on day six, the first-year reps meet at F9 beach (bonfire signal) — Tsubaki (the unlikely organizer), Takahashi, Yagami, Utomiya, Hōsen (absent).
 [says] (p.268) "Well, he doesn't really seem the type to show up on time. Or maybe he's just not coming."
@@ -119,6 +120,12 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:kushida-kikyou] (p.271–272) Knows Yagami is connected to her and threatens her to force cooperation.
 [rel:ayanokouji-kiyotaka] (p.271) Wants him expelled before Hōsen succeeds.
 [rel:housen-kazuomi] (p.268) Notes he never showed up to the meeting.
+### y2v3 p.192–193 — Tsubaki at the slope
+[scene] (p.192–193) Tsubaki Sakurako of Class 1-C; present with the first-year group; perfectly calm; undeterred; watches everything.
+[note] (p.192–193) The group composition matches Shinohara's description of the group passing them after 8:30 PM last night (three girls and one boy; the girls 1-A/1-B/1-C, the boy 1-D). The match is an observation, not a conclusion — the identity of the perpetrator is not printed on these pages.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

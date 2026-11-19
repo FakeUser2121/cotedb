@@ -167,6 +167,31 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+### y2v3 p.169–176 — Komiya: the found victim
+[scene] (p.169–176) Collapsed at the bottom of the slope with Kinoshita; left leg wrecked; he recounts being struck in the calf; then the rolling descent; the wait for Satsuki; the last loyalty: entrusts Shinohara to Ike.
+[note] (p.174) Komiya (2-B) is recovering consciousness with memory intact up to the impact.
+[says:sudou-ken] (p.171) “Komiya! Can you hear me Komiya!?”
+[says] (p.171) “Ugh… guh…!”
+[says] (p.173) “M-my leg… it hurts…!”
+[says] (p.174) “I-I don’t know… it just happened out of nowhere. I suddenly felt something strike my calf and the next thing I knew I was rolling down the slope… Agh…!”
+[says] (p.175) “M-maybe? I don’t really remember very well… Sorry.”
+[says] (p.175) “Eh…? N-no, I have no idea. Why is Kinoshita here…? If I remember correctly, when it happened we…”
+[says] (p.175) “That’s right…! Satsuki, where’s Satsuki!? Did she fall too!?”
+[says] (p.176) “Satsuki was─ Agh…!!”
+[says] (p.176) “N-no, I’m worried about Satsuki… Sorry Sudō, but can you help me sit up…?”
+[says] (p.176) “…I don’t know… We… We were trying to move quickly…”
+[says] (p.176) “Then, we were waiting… for Satsuki to come back…”
+[says] (p.176) “Let me start from the beginning. We were in a hurry because we missed the last two designated areas yesterday. After talking it out last night, we ultimately decided to try and close the distance early this morning… It was still fairly dark when we set out, so we were keeping tabs on each other as we traveled, but… at some point, Satsuki said she needed to go to the restroom, so she split off for a bit while Kinoshita and I waited for her to finish. Of course, we were using our flashlights to keep track of each other…”
+[says] (p.176) “I remember it hurt like hell… But the pain didn’t last long ‘cause the next thing I knew I was rolling down the slope… And then, when I came to, Sudō and the rest of you guys were here.”
+
+### y2v3 p.200–207 — The rival's final act
+[scene] (p.200) Moments before being carried to the stretcher, he lurches up to call Ike close, entrusts Shinohara to him with a rival-in-love-to-rival-in-love handoff, then collapses back.
+[says] (p.200) “Ike… come here real quick.”
+[says] (p.200) “Show me how much of a man you are.”
+[note] (p.200) Komiya had planned on confessing to Shinohara during this exam; whether he did is not printed; his final gesture is unambiguous.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

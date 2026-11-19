@@ -263,6 +263,29 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
+### y2v3 p.193–201 — Sakagami at the scene (Ch.5)
+[scene] (p.193) One hour after the alert; arrives with Chabashira + three medical personnel; takes charge; retells Shinohara's account and razes it; the “convenient tale” verdict.
+[says] (p.193) “Let’s get down to business and hear what happened here, shall we?”
+[says] (p.193) “Crying isn’t going to get us anywhere, I hope you know that.”
+[says] (p.194) “…Well, I suppose that’s fine. Go ahead and speak.”
+[says] (p.194) “Pushed off? …How awfully unsettling.”
+[says] (p.194) “If that’s the truth, then yes, of course they won’t.”
+[says] (p.194) “Then, I assume she must have evidence of some sort to back that up, yes?”
+[says] (p.194) “So how about it, Shinohara-san? You can’t just keep crying, so how about you give us an answer?”
+[says] (p.195) “Dark? So dark that you couldn’t see the culprit’s face?”
+[says] (p.195) “So, it was dark to the extent that you couldn’t see their face, and yet you were able to see them get pushed without any problems…? It pains me to say this, but that’s an awfully convenient tale you’ve spun, now isn’t it?”
+[says] (p.195) “You’re her classmate. It’s only natural that you would say that.”
+[says] (p.195) “If she’s telling the truth, then this is quite a serious matter. However, this testimony alone is not enough.”
+[says] (p.195) “No matter how things play out, I’d say that their only real option is retirement. As their homeroom teacher, I certainly can’t say I’m happy to see them withdraw from the exam either, but from the look of their legs, it would be impossible for them to continue.”
+[says] (p.195) “Given the current situation, we have no choice but to conclude that Shinohara-san is lying in order to gloss over the injuries caused by this accident.”
+[says] (p.197) “I’ll overlook that careless outburst of yours just this once. Are we clear?”
+[trait] (p.193–201) Strict, procedural, humane but locked into the school's math; he never buys the conspiracy; the expulsion of Shinohara means a lighter burden for the rest of his class.
+[rel:shinohara-satsuki] (p.193–201) The interrogation axis.
+[rel:ike-kanji] (p.193–201) The outburst he overlooks.
+[rel:chabashira-sae] (p.193–201) His co-examiner.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

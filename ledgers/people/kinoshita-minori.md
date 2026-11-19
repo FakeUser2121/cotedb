@@ -87,13 +87,13 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.169–180 — Kinoshita injured in the emergency
-[scene] (p.169–180) He is found unconscious and injured alongside Komiya; Shinohara reports seeing someone push them.
-[note] (p.169–180) Kinoshita is injured; not a distinct scene presence beyond the emergency.
+### y2v3 p.169–176 — Kinoshita: found unconscious
+[scene] (p.169–176) Found lying unconscious a few meters from Komiya; dirt and scratches all over her jersey; her left leg in terrible shape; both she and Komiya lost consciousness in quick succession.
+[note] (p.170) Her jersey is covered in dirt and scratches; her left leg is a worst-case scenario (possibly broken).
+[note] (p.172) The three-set scenic: Komiya and Kinoshita fell off the slope near each other; both left legs are the critical clue.
+[note] (p.176) Komiya's testimony never mentions seeing Kinoshita's fall — she may not have been the first down the slope.
 
-<!-- walk: y2v3 Ch.5 → p.180 -->
-
-
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ## y2v4
 

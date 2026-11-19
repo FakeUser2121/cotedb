@@ -1489,6 +1489,24 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+### y2v3 p.193–205 — Chabashira at the scene (Ch.5)
+[scene] (p.193–205) Same arrival with Sakagami; the GPS record readout; her quiet confirming nod; her help-plan for Shinohara; her last look at Shinohara as she vanishes; her small private smile.
+[says] (p.193) “From a cursory observation, it seems like it’ll be difficult for Komiya and Kinoshita to continue the exam.”
+[says] (p.193) “Yes. Their retirement seems virtually unavoidable.”
+[says] (p.193) “Well… I imagine we’ll find out soon enough.”
+[says] (p.198) “We relied on Komiya and Kinoshita’s GPS signals to get here. Komiya’s Emergency Alert went off at 4:56:24 AM, whereas Kinoshita’s went off seven seconds later. The only other signal that was in the nearby area in that timeframe was Shinohara’s and Shinohara’s alone.”
+[says] (p.198) “The first to arrive at the scene after the alerts went off was a group of five students, yourself included. The next to arrive was a group of four first-year students. We were the last to arrive.”
+[says] (p.199) “Yeah. We’ll do a more detailed examination of their injuries back on the ship.”
+[says] (p.201) “Shinohara. I don’t want it to sound like I’m expecting you to get expelled, but… what’s your plan? It’ll be difficult to continue with the exam on your own.”
+[says] (p.201) “Then, like Nanase said, you can at least head back to the harbor and hold out until the end of the exam. It’s not like it would be impossible for you to pick up the Tasks that show up in the nearby area either.”
+[says] (p.201) “I hope that, somehow, you’re able to make it to the starting area on your own.”
+[note] (p.198–199) She never asks the one question he might have an answer to (who was watching NW) — she respects the quiet investigation he requested.
+[trait] (p.193–205) Her heavy expression read her own Taiga-class triage; her help-plan to Shinohara is as kind as cruelty permits.
+[rel:sakagami] (p.193–201) Co-examiner; the harder half of the grilling.
+[rel:shinohara-satsuki] (p.193–205) Her quiet ally.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

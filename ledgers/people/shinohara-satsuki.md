@@ -406,12 +406,71 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.179–181 — Shinohara found hiding
-[scene] (p.179–181) She is found hiding in the forest; she says she saw someone push Komiya and Kinoshita.
-[says] (p.180) "…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push"
-[trait] (p.179–181) Terrified and traumatized — she was too scared to move.
+### y2v3 p.179–181 — Shinohara: the hiding witness
+[scene] (p.179–181) Found hiding in a thicket of bushes after the search — emaciated fear in her face; she broke down into Ike's chest; her testimony: somebody pushed them.
+[says] (p.179) “…Ike? Is that you?”
+[says:ike-kanji] (p.179) “Shinohara? Shinohara!!!”
+[says:ike-kanji] (p.179) “Shinohara-!!”
+[says] (p.179) “Y-yeah.”
+[says:ike-kanji] (p.180) “Then why didn’t you call out sooner!? Do you have any idea how worried I’ve been!?”
+[says] (p.180) “K-Komiya-kun and Kinoshita-san, where are they!?”
+[says:ike-kanji] (p.180) “They’re both seriously injured at the bottom of the slope, what the hell happened to them?”
+[says] (p.180) “I-I couldn’t move… I was scared, so scared… a-and… I saw…”
+[says:ike-kanji] (p.180) “You saw? Saw what?”
+[says] (p.180) “…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push them off…”
+[says:ike-kanji] (p.180) “Somebody? Who the hell was it!?”
+[says] (p.180) “I-I don’t know! I really don’t! …But why, why would they do such a thing!?”
+[says] (p.181) “I think after 8:30 last night… there were, um, first-years… Yeah… we came across a group of first-years camping out together… We passed them back that way.”
+[says] (p.181) “Sorry, I don’t really know most of the first-years yet. All I remember is that there were three girls and one boy.”
 
-<!-- walk: y2v3 Ch.5 → p.181 -->
+### y2v3 p.193–209 — Sakagami's pressure; the Bunker; the flight
+[scene] (p.193–198) The school officials arrive; her testimony is retold by Ike; under Sakagami's grilling, she crumbles in tears; the “convenient tale” verdict; the GPS record leaves no room; retirement for herself; the Bunker plan laid out; her ultimate flight and refusal of Ike.
+[says:sakagami] (p.193) “Crying isn’t going to get us anywhere, I hope you know that.”
+[says] (p.195) “I-it was dark…”
+[says:sakagami] (p.195) “Dark? So dark that you couldn’t see the culprit’s face?”
+[says:sakagami] (p.195) “So, it was dark to the extent that you couldn’t see their face, and yet you were able to see them get pushed without any problems…? It pains me to say this, but that’s an awfully convenient tale you’ve spun, now isn’t it?”
+[says:ike-kanji] (p.195) “Shinohara would never lie!”
+[says:sakagami] (p.195) “You’re her classmate. It’s only natural that you would say that.”
+[says:ike-kanji] (p.195) “Are you saying that you don’t believe her!?”
+[says:sakagami] (p.195) “If she’s telling the truth, then this is quite a serious matter. However, this testimony alone is not enough.”
+[says:sakagami] (p.195) “No matter how things play out, I’d say that their only real option is retirement. As their homeroom teacher, I certainly can’t say I’m happy to see them withdraw from the exam either, but from the look of their legs, it would be impossible for them to continue.”
+[says:sakagami] (p.195) “Given the current situation, we have no choice but to conclude that Shinohara-san is lying in order to gloss over the injuries caused by this accident.”
+[says:ike-kanji] (p.196) “You’re fuckin’ kidding me! Who in their right mind would buy that bullshit!?”
+[says:ike-kanji] (p.198) “Tsk…!”
+[says] (p.199) “I-I can’t go on like this…! There’s no way I can do this alone…!”
+[says:chabashira-sae] (p.201) “Shinohara. I don’t want it to sound like I’m expecting you to get expelled, but… what’s your plan? It’ll be difficult to continue with the exam on your own.”
+[says] (p.201) “I-I know…”
+[says:chabashira-sae] (p.201) “Then, like Nanase said, you can at least head back to the harbor and hold out until the end of the exam. It’s not like it would be impossible for you to pick up the Tasks that show up in the nearby area either.”
+[says:chabashira-sae] (p.201) “I hope that, somehow, you’re able to make it to the starting area on your own.”
+[says] (p.201) “Yes… Understood.”
+[says:ike-kanji] (p.202) “Are you really just gonna go back to the starting area and wait there!?”
+[says] (p.202) “What other choice do I have? Komiya-kun and Kinoshita-san aren’t here anymore… There’s absolutely no way I can make it through this special exam on my own.”
+[says:ike-kanji] (p.202) “But, but like─”
+[says] (p.202) “I’m just gonna be expelled anyway, so leave me alone!”
+[says:ike-kanji] (p.202) “I… I’ll do something about it!”
+[says] (p.202) “Just stop. It’s impossible. Absolutely impossible.”
+[says:ike-kanji] (p.202) “It’s not impossible!”
+[says] (p.203) “Why not!? This has nothing to do with you Ike! With me outta the way, there’ll be less of a chance for your group to get expelled… You should be happy!”
+[says:ike-kanji] (p.203) “Happy? What kind of shit are you spouting!? There’s no way I’d be happy!”
+[says:ike-kanji] (p.203) “I mean, we’ll lose a whole lotta class points if you get expelled! I’ve, uhm, you know, I’ve gotta stop that from happening! That’s why I’ll lend you a hand to make sure!”
+[says] (p.203) “Well, that’s true, but… What’ll you do if your group sinks down to the bottom because you’re helping me? Not to mention, it’ll just end up making trouble for Sudō-kun and Hondō-kun.”
+[says] (p.203) “Ike, you never think things through, do you? If you keep going on like that, then sooner or later you’re gonna get yourself expelled.”
+[says] (p.203) “Anyway, I’m not going to give up until the very end, so you should do your best too Ike.”
+[says:ike-kanji] (p.203) “W-wait…!”
+[says:sudou-ken] (p.203) “Kanji.”
+[says:ike-kanji] (p.204) “Wait, I said wait!”
+[says] (p.204) “M-my god, you scared me. I heard you already, jeez… Is there still something you want from me?”
+[says:ike-kanji] (p.204) “There is! There’s all sorts of stuff! I really don’t want you to get expelled! That’s why I’m gonna save you whether you like it or not!”
+[says:sudou-ken] (p.204) “Right-oh! If this is how Kanji wants to do it, let’s discuss battle plans, Ryōtarō!”
+[says:hondou-ryoutaro] (p.204) “G-gotcha!”
+[says] (p.204) “Huh…? What the? Are you guys stupid? Even though you shouldn’t waste your time on someone like me, you guys…”
+[rel:ike-kanji] (p.164–209) His blaze-of-passion rescue; her refusal.
+[rel:komiya-kyogo] (p.169–207) Her group partner; he died socially/is retiring physically.
+[rel:kinoshita-minori] (p.169–207) Her group partner; incapacitated.
+[rel:sakagami] (p.193–201) The interrogator.
+[rel:chabashira-sae] (p.193–205) Her quiet ally.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ### y2v3 p.103–108 — Shinohara named at the fire: the confession
 [mentioned] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.” — named by Ike at the tent-fire circle; not present; POV Ayanokōji.

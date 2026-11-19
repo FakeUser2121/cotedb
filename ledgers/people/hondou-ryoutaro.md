@@ -91,6 +91,7 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
 
 
+
 ### y2v3 p.97–108 — The tremulous tent-neighbor; Ike's support
 [scene] (p.97) Follows Ike into the clearing; gasping after the replacement-Task day; says nothing about it.
 [scene] (p.98–99) Watches for dinner; eyes the unused fishing rod.
@@ -119,12 +120,26 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
 
+
 ### y2v3 p.113 — Hondō at the joint trek
 [scene] (p.113) His group takes the same route to I8; splits off for the I9 Task with Sudō and Ike once they arrive.
 [note] (p.154–157) He rejoins at the riverside camp after dinner prep; not much quoted in this volume segment.
 [mentioned] (p.113) “Sure thing. You down, Kanji?” — Sudō's invite to Ike in the trek conversation.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.164–204 — The rear-guard; the ghost jokes
+[scene] (p.164–170) Shaken awake by Nanase; groggy; follows into the forest; the ghost joke; terror mounts as the pair of alerts is realized.
+[says] (p.167) “Gosh, why the heck are we movin’ around so early in the mornin’?”
+[says] (p.167) “Why aren’t they sayin’ anything…? D-do you think this might be the work of a g-ghost?”
+[says] (p.167) “If that’s the case, then they might be in a real bad spot.”
+[says] (p.168) “Peculiar? Well, it certainly sounds eerie. That’s prolly just cuz we’ve been sloggin’ through this dark-ass forest though…”
+[says] (p.168) “Scary… Are you guys… Are you guys sure it’s safe to keep going…?”
+[scene] (p.204) Sudō signs him up for battle plans without asking.
+[says:sudou-ken] (p.204) “Right-oh! If this is how Kanji wants to do it, let’s discuss battle plans, Ryōtarō!”
+[says] (p.204) “G-gotcha!”
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ## y2v4.5
 

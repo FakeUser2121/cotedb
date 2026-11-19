@@ -1857,12 +1857,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.87) “We can talk more afterward. A Task is a Task, just like you said, so let’s do our best.”
 
 
+
 ### y2v3 p.88–90 — Anime quiz: 95%, first place
 [scene] (p.88) The genre lands: 『Quiz Genre・Anime』; Question 1 — the Mobile Samurai Bombdam question; his group digs it; Question 2 — Dashu Sea Chicken.
 [says:hondou-ryoutaro] (p.88) “Forreal!? This is uber-mega-easy!”
 [scene] (p.90) Sudō’s group tops the quiz (95%, ~19/20); he calls it in with a high-five — Ike’s is barely there.
 [says] (p.90) “We freakin’ did it Kanji!”
 [trait] (p.84–90) His anime knowledge quietly carries the team; physical strength and knowledge, not just academics; deadly serious about threats to friends.
+
 
 
 ### y2v3 p.94–99 — The G9 beach plan; the clearing camp
@@ -1879,6 +1881,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.98) “Welp, let’s get these tents set up pronto and get some grub. I’m starving.”
 [says] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
 [says] (p.98) “Well, I guess it can’t be helped then.”
+
 
 
 ### y2v3 p.100–109 — The tent-fire: Ike's Shinohara confession
@@ -1909,11 +1912,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
 
+
 ### y2v3 p.113 — Sudō's I8 ticket
 [scene] (p.113) South-east to northeast trek with Ayanokōji and Nanase; the I8 designation; the I9 Task pull once the area clears.
 [says] (p.113) “We got I8 so if you two are goin’ the same way we can head out together. I’m fired up so let’s get this done!”
 [says] (p.113) “Sure thing. You down, Kanji?”
 [says] (p.114) “There’s no use worryin’ ‘bout that. Ayanokōji’s always got that sorta look on his face.”
+
 
 ### y2v3 p.154–158 — The river camp; the fish negotiation
 [scene] (p.154–158) Meets them at the river; the group's cumulative 4th C; the fish dinner; the class 2-A trio joins; the Kei/Ichinose probe talk.
@@ -1926,14 +1931,38 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
-### y2v3 p.164–186 — Sudō helps in the emergency
-[scene] (p.164–186) He helps carry Komiya and Kinoshita; he is worried about Shinohara.
-[trait] (p.164–186) Protective and concerned — he helps the injured.
-[rel:komiya-kyogo] (p.169–176) He helps carry Komiya.
 
-<!-- walk: y2v3 Ch.5 → p.186 -->
+### y2v3 p.164–176 — The 5 AM wake; the search; Komiya found
+[scene] (p.164–167) Shaken awake before dawn by Nanase and AK; they get plans; Ike takes rear-guard; he leads the initial shout-outs.
+[says] (p.166) “Don’t worry ‘bout that. Just hurry up and follow along Kanji. Ayanokōji’ll prolly be fine.”
+[says] (p.167) “If someone’s there, respond to us-!”
+[says] (p.167) “Is that… Komiya!?”
+[says] (p.169) “O-oi! The hell is this? P-pull yourself together man! Komiya!”
+[says] (p.169) “Oi Komiya! What happened to Shinohara!?”
+[says] (p.169) “There’s no use, he’s not waking up at all…”
+[scene] (p.171–176) Komiya revives faintly; the left-leg verdict; his calf; the wait-for-Satsuki testimony; Komiya caves in; Sudō keeps him steady.
+[says] (p.171) “Komiya! Can you hear me Komiya!?”
+[says] (p.173) “Your fuckin’ leg man…!”
+[says] (p.176) “Y-yeah. But don’t overdo it.”
+[says] (p.176) “You were waiting? What? I don’t understand what you’re sayin’ here!”
 
+### y2v3 p.177–181 — Ike bolts; the climb; Shinohara's push account
+[scene] (p.177–181) Hearing a sound from the slope, Ike bolts; Sudō shouts after him; AK handles it; his own job — holding the line — is the only one he can do.
+[says] (p.177) “Oi Kanji! Hold on! It’s dangerous!”
 
+### y2v3 p.188–209 — The return; Sakagami; the standings; the pact
+[scene] (p.188–208) Back at camp; Shinohara found; the four first-years arrive; Sakagami presses; the Bunker plan; Komiya's last words to Ike; they resolve to protect her; the fourth-day standings (their classmates in the bottom ten; Nagumo first).
+[note] (p.198) GPS records read aloud by Chabashira — his silence through the ordeal.
+[says] (p.200) “That’s gotta be tough…”
+[says] (p.203) “Kanji.”
+[says] (p.204) “Right-oh! If this is how Kanji wants to do it, let’s discuss battle plans, Ryōtarō!”
+[note] (p.205) “But wouldn’t it be better to assume that there won’t be any Tasks that she can win by herself? She’d prolly end up having to pin her hopes on getting lucky or some kinda freak coincidence where there aren’t enough participants or something.” — speaker untagged in the print; recorded unassigned (Sudō by flow).
+[says] (p.205) “Is there really no way for her to get into a group smoothly, Ayanokōji?”
+[says] (p.206) “O-oi, Ayanokōji? What’s this plan of yours?”
+[says] (p.206) “R-really? What is it!?”
+[says] (p.207) “R-right, leave it to me.”
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ### y2v3 p.65–67 — Sudō's first-place grip at C6
 [scene] (p.65) Takes part in the Grip Strength Measurement Task at site C6 without Ike and Hondō, who are nowhere to be seen (he likely split off to grab a spot); Yuu third-year Oshio goes first; registered participants wait their turn.

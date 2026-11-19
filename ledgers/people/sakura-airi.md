@@ -1170,6 +1170,12 @@ aliases used for anchors: sakura, airi, sakura-san
 <!-- walk: y2v3 Ch.2 → p.57 -->
 
 
+### y2v3 p.208 — The standings reveal: ninth-from-bottom, 28 points
+[mentioned] (p.208) “The lone second-year group was composed of three of my classmates: Akito, Haruka, and Airi.” — named in the bottom-ten table; not present; POV Ayanokōji.
+[mentioned] (p.208) “Currently, they were ranked ninth from the bottom with a total of 28 points, which was worse than I expected. It required a certain amount of strength and fortitude to continuously travel between designated areas. Since they had Airi in their group, who tended to struggle when it came to stamina, it would probably be difficult to earn Arrival Bonuses.” — named; not present; same scene.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

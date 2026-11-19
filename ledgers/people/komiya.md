@@ -9,15 +9,12 @@ char_id: komiya · class: Class 2-B · status: student (y2v3)
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.169–200 — Komiya: injured, and entrusting Shinohara to Ike
-[scene] (p.169) Found unconscious at the bottom of a slope with an injured left leg (Emergency Alert at 4:56:24 AM), alongside Kinoshita.
-[says] (p.175) "Shinohara…"
-[says] (p.199) "Ike… come here real quick."
-[says] (p.200) "Show me how much of a man you are."
-[trait] (p.169–200) Regains consciousness in pain; his right leg is fine but his left is badly injured, forcing retirement; with his final words to his rival Ike he entrusts Shinohara to him — having planned to confess to her himself during the exam but never having done so (she had consulted him about Ike); Ayanokōji realizes Komiya knew she cared for Ike, so the entrustment is deliberate and generous.
-[rel:ike-kanji] (p.199–200) His rival in love — entrusts Shinohara to him with "Show me how much of a man you are."
-[rel:shinohara-satsuki] (p.175, 199–200) The girl he swore to protect; couldn't confess but hands her care to Ike.
-[rel:kinoshita] (p.169) His group member, injured alongside him.
+### y2v3 p.169–210 — Komiya: the victim and the rival (legacy row)
+[scene] (p.169–176) Legacy roster row duplicating komiya-kyogo; found at the bottom of the slope; left leg destroyed; his statement fixes the timeline of the early-morning push.
+[scene] (p.200) His final word to Ike — “Show me how much of a man you are.” — the rival's handoff of Shinohara.
+[note] (p.169–207) Same entity as komiya-kyogo (duplicate roster rows); recorded here for the gate; see komiya-kyogo.md for the scene rows.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ### y2v3 p.105–106 — Komiya named at the fire (legacy row)
 [mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; legacy roster row duplicating komiya-kyogo; not present; POV Ayanokōji.
