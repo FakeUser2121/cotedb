@@ -259,7 +259,6 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 <!-- walk: y2v4 Ch.6 → p.250 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

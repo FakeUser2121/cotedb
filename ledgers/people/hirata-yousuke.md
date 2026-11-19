@@ -1866,7 +1866,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v4 Epilogue → p.278 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

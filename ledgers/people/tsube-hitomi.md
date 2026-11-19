@@ -33,4 +33,3 @@ char_id: tsube-hitomi · class: unknown · status: unknown
 
 <!-- walk: y2v4 Ch.4 → p.119 -->
 
-

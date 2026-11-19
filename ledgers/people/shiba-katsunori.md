@@ -43,7 +43,6 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 <!-- walk: y2v4 Ch.6 → p.284 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

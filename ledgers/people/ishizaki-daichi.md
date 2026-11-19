@@ -721,7 +721,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [mentioned] (p.116–125) Passing mention only.
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

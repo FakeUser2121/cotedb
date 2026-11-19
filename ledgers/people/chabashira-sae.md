@@ -1353,7 +1353,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [mentioned] (p.269–271) Passing mention only.
 
 <!-- walk: y2v4 Ch.6 → p.271 -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

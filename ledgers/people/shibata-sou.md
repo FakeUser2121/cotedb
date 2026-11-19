@@ -299,7 +299,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 <!-- walk: y2v4 Ch.1 → p.284 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

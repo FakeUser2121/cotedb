@@ -54,7 +54,6 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 <!-- walk: y2v4 Ch.5 → p.160 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

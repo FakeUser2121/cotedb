@@ -850,7 +850,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v4 Ch.6 → p.280 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

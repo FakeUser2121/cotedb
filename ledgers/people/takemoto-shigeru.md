@@ -56,4 +56,3 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y2v4 Ch.4 → p.164 -->
 
-

@@ -174,7 +174,6 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 <!-- walk: y2v4 Ch.6 → p.284 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -356,7 +356,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [mentioned] (p.269–272) Passing mention only.
 
 <!-- walk: y2v4 Ch.6 → p.272 -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

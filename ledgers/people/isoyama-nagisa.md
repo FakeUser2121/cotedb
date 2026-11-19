@@ -27,7 +27,6 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 <!-- walk: y2v4 Ch.4 → p.116 -->
 
 
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->

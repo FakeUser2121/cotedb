@@ -904,7 +904,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

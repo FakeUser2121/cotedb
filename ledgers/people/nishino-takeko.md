@@ -77,7 +77,6 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 <!-- walk: y2v4 Ch.4 → p.124 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

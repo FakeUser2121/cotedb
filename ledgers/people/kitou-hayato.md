@@ -169,7 +169,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 <!-- walk: y2v4 Ch.5 → p.189 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

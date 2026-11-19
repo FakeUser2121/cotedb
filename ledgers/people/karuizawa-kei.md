@@ -1765,7 +1765,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.200) Passing mention only.
 
 <!-- walk: y2v4 Ch.5 → p.200 -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

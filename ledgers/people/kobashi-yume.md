@@ -48,7 +48,6 @@ char_id: kobashi-yume · class: unknown · status: unknown
 <!-- walk: y2v4 Ch.3 → p.93 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
