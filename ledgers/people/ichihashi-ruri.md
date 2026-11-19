@@ -58,6 +58,14 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.75–77) Her rare contact with Horikita; the delivery job; her brusque acceptance.
 <!-- walk: y2v7 Ch.3 → p.83 -->
 
+
+### y2v7 p.114 — The bill-charging assignment
+[scene] (p.114) §3 — Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment for a photo shoot with Mii-chan.
+[note] (p.114) "Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment." — no scene lines beyond the business; named.
+[rel:wang-mei-yu] (p.114) The subject of the billing photo shoot.
+[rel:ayanokouji-kiyotaka] (p.114) The photo counter.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v10
 
 <!-- walk: y2v10 → start -->

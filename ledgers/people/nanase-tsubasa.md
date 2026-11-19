@@ -574,13 +574,10 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — nanase-tsubasa mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.108.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.108 — Named in Ayanokōji's count of first-years he talks to
+[mentioned] (p.108) “I talk to Nanase or Amasawa once in a while, but that's about it.” — Ayanokōji's list of first-year acquaintances.
+[note] (p.108) Named only — no scene presence.
+<!-- walk: y2v7 Ch.5 → p.130 -->
 
 ## y2v8
 

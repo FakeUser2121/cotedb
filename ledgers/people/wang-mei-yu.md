@@ -281,6 +281,20 @@ char_id: wang-mei-yu · status: minor
 [rel:satou-maya] (p.90) Sato's movements seem sluggish at the rehearsal.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.114–125 — Mii-chan: the closed-eye shot; the Darjeeling runout
+[scene] (p.114) §3 — A photo shoot with Mii-chan; Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment; the guest wanted a two-shot of the laughing Mi-chan; Mii-chan's eyes closed just as the shutter released.
+[says] (p.114) “Ugh, sorry Ayanokōji-kun……” — Mii-chan.
+[says:ayanokouji-kiyotaka] (p.114) “Never mind. I'll take another picture.” — Ayanokōji.
+[says] (p.115) “Ayanokōji-kun, what should I do, I seem to have run out of Darjeeling!” — Mii-chan in a panicked look.
+[scene] (p.125) Mii-chan came out of the room, looking busy; Kushida-san, who was supposed to be organizing the line, had disappeared.
+[says] (p.125) “Um, Ayanokōji-kun, where is Kushida-san?” — Mii-chan came out of the room, looking busy.
+[says] (p.125) “There's a customer who wants to take a picture with Kushida-san, but I can't find her.” — Mii-chan.
+[rel:ichihashi-ruri] (p.114) The bill-charging assignment — Ichihashi, who was in charge of the bill.
+[rel:kushida-kikyou] (p.125) The missing Kushida; the customer wants a photo with her.
+[rel:ayanokouji-kiyotaka] (p.114–125) The reshoot; the Darjeeling rescue; the search for Kushida.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

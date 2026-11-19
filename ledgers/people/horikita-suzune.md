@@ -4816,6 +4816,89 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:horikita-manabu] (p.77) Her undelivered letter to her brother — unnamed on the page.
 <!-- walk: y2v7 Ch.3 → p.83 -->
 
+### y2v7 p.107–109 — 6 a.m.; the leak rumor; the council headcount
+[scene] (p.107) The festival arrives; the gates open at 6:00 a.m.; the festival begins at 9:00; Ayanokōji and Horikita meet at the lobby of the dormitory at 6:00 to do a final confirmation.
+[says] (p.107) “Good morning. Is that cardboard by any chance the one you were talking about?” — Horikita.
+[says:ayanokouji-kiyotaka] (p.107) “I'm sorry for making you come up with an unplanned budget.” — Ayanokōji.
+[says] (p.107) “It wasn't a big amount, so the impact is minimal. We second years should've been given 5,000 points each to spend as we see fit.” — Horikita.
+[note] (p.107) “Did you receive the call from Matsushita-san?” — “I checked. It must be hard for her since she's one of the leading figures who led the maid café to this point.” — Matsushita contacted him early in the morning and reported she had to take the day off due to illness.
+[says] (p.107) “But it's a wise decision.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.107) “Besides, this is the kind of preparation we need to make in advance.” — Ayanokōji.
+[says] (p.107–108) “Speaking of which, did you hear? It's rumored that Hasebe-san and Miyake-kun may have been the ones who leaked the information about the maid cafe.” — Horikita; information came down from Kei (who is in close contact with the girls).
+[says:ayanokouji-kiyotaka] (p.108) “Sounds like it. But we could've foreseen that at an early stage, couldn't we?” — Ayanokōji.
+[says] (p.108) “I guess so. But I wonder if it was really a good idea to leave it alone.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.108) “Rumors are rumors. Haruka and Akito didn't actually leak the information.” — Ayanokōji.
+[note] (p.108) Horikita's self-loathing at not being able to help Haruka and the others peeked out.
+[says:ayanokouji-kiyotaka] (p.108) “You shouldn't show your weakness so easily. It will only give them an opening to take advantage of you.” — Ayanokōji.
+[says] (p.108) “You're always so calm as if you're a stranger to the situation.” — Horikita; she was looking at him as if to check his expression.
+[says] (p.108) “I have a few questions…do you usually interact with the first-year students?” — Horikita.
+[says:ayanokouji-kiyotaka] (p.108) “First-year students? No, I don't. I talk to Nanase or Amasawa once in a while, but that's about it.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.108) “Is that what you wanted to ask?” — Ayanokōji.
+[says] (p.108) “It's not a big deal.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.108) “Speaking of interaction, what about you? You talk to first years in the student council, don't you?” — Ayanokōji.
+[says] (p.108) “Well, I do. I'm getting a little bit more involved with the juniors.” — Horikita.
+[note] (p.108) “The student council had gained three people from this year's first years; the second years only had Ichinose for a long time.” — the most recent addition was Horikita.
+[says] (p.109) “At first, I thought it was useless. I would rather be in my room studying than doing student council work because it would better benefit me.” — Horikita's confession.
+[says:ayanokouji-kiyotaka] (p.109) “There's a lot to be learned in futility. You're beginning to see that.” — Ayanokōji.
+[says] (p.109) “Your brother was student council president, too.” — Horikita.
+[says] (p.109) “My brother's case is different from mine. He was able to carry out his student council duties flawlessly while also achieving impeccable results in his schoolwork. I don't think he ever felt that the student council was a burden, nor did he suffer from a lack of studying.” — Horikita.
+[note] (p.109) “Even if we'll never know the actual truth, there was always plenty of room for Horikita to study.” — Horikita didn't let it show in vain.
+[says] (p.109) “I'm grateful to you, if only for the results. Joining the student council has helped me see things I couldn't see.” — Horikita.
+[says] (p.109) “It made me realize how great my brother is again, and I have to do a lot of extra work.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.109) “I wish you had just been honest and thanked me.” — Ayanokōji.
+[says] (p.109) “You have to accept some complaints.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.109) “I agree and sympathize with you that academics are a difficult goal for you.” — Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.107–109) The 6 a.m. meeting; her brother-president confession; the leak rumor.
+
+### y2v7 p.110–113 — The morning; the café opens; the missing pair debate
+[scene] (p.110) 9:00 a.m. arrives at the maid café; an announcement was made to all students at once; guests stepped through the main gate; the festival was declared open.
+[scene] (p.110–111) The final check — only two students missing; Horikita and Ayanokōji look at each other; the classroom is bursting with the rehearsal's momentum.
+[says] (p.111) “Hasebe-san and Miyake-kun seem to be missing.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.111) “I guess it's not like they're in the restroom.” — Ayanokōji.
+[says] (p.111) “I knew there was something going on at this festival, but ……” — Horikita.
+[says:ayanokouji-kiyotaka] (p.111) “If it's just simply slacking off, I guess I'm rather grateful.” — Ayanokōji.
+[says] (p.111) “But it also adds fuel to the fire because of the rumors.” — Horikita.
+[says] (p.111–112) “I've been keeping an eye on it so far, thinking only time will tell, but …… I still think we should do something about it early on. We should at least dispel the rumors.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.112) “I understand what you're saying, but we should focus on the festival today.” — Ayanokōji.
+[says] (p.112) “Is that what you want?” — Horikita.
+[says:ayanokouji-kiyotaka] (p.112) “Even if we can erase the rumors, we can't erase the fact that those two have slipped out. Besides, there is still a possibility that they could embarrass the class in some other way at the festival.” — Ayanokōji.
+[says] (p.112) “I agree.” — Horikita.
+[says] (p.112) “I'm sure you'll be able to handle Hasebe-san and Miyake-kun just fine.” — Horikita.
+[rel:hasebe-haruka] (p.110–113) She and Akito are missing — the rumors' fuel; Horikita hopes he can handle them.
+[rel:miyake-akito] (p.110–113) The other half of the missing pair.
+[rel:ike-kanji] (p.110–113) Ike stands shoulder to shoulder with Shinohara; visibly nervous all morning.
+[rel:shinohara-satsuki] (p.110) She stands shoulder to shoulder with Ike.
+
+### y2v7 p.113 — The inorganic voice at outdoor advertising
+[scene] (p.113) §3 — Horikita is in charge of outdoor advertising; dressed as a maid to attract customers' attention, she did not smile in person; if this were a real maid café, Horikita would have been fired during her training period after passing her interview.
+[says] (p.113) “New customers, please show them around.” — Horikita, in an "inorganic voice" reaching the classroom.
+[rel:ayanokouji-kiyotaka] (p.113) The advertising voice; he doesn't smile for the guests.
+
+### y2v7 p.117–121 — The counter-flyer war; the crowd forms
+[scene] (p.117) Three hours had passed since the festival began; noon; new guests were arriving; Ike pointed to where several girls from Ryūen's class were shouting.
+[note] (p.117) “We, the 2nd year C class, are currently competing with the 2nd year B class for sales at the concept café! If we lose, someone might be held responsible and expelled from school!” — several girls from Ryūen's class; Ryūen was probably threatening his classmates with expulsion.
+[says:ike-kanji] (p.117–118) “Nah what? This is bad, right?” — Ike.
+[note] (p.118) “Is he seriously trying to get someone expelled, that Ryūen guy?” — reasoned aloud.
+[says:ayanokouji-kiyotaka] (p.118) “What do you want to do?” — Ayanokōji.
+[says:ike-kanji] (p.118) “You mean threaten to expel someone too!?” — Ike.
+[says:ayanokouji-kiyotaka] (p.118) “Open the cardboard box I brought for you.” — Ayanokōji.
+[says:ike-kanji] (p.118) “This is…! It's a flyer just like theirs!” — Ike.
+[note] (p.118–119) The counter-flyers — "flyers to drive the guests to the event if necessary" — the plan was executed; Hondo and Tonomura distribute; word spread that the two classes were competing against each other; speculation led to rumors, and rumors led to speculation.
+[says:ike-kanji] (p.119) “I'm going back. Let me know if you need anything else.” — Ike and the others who delivered meals.
+[scene] (p.120) The maid café line forms; the somewhat relaxed atmosphere is gone; the largest crowd of the day has begun to form a line; Horikita joined the lineup, guiding the visitors.
+[says] (p.120) “It looks like you've started handing out the flyers without any problems,” — Horikita.
+[says:ayanokouji-kiyotaka] (p.120) “Yes. From this point on, yours and Ryūen's class should start to outpace the others.” — Ayanokōji.
+[says] (p.120) “Everything is going according to your plan, isn't it?” — Horikita.
+[note] (p.120) "I'm not the one who added the unique color to it, though." — Ayanokōji.
+[rel:ryuuen-kakeru] (p.117–120) The Ryūen Class C flyer war; the one-on-one match bet.
+[rel:ibuki-mio] (p.119) She's at the corridor wearing the kimono and handing out leaflets.
+
+### y2v7 p.121 — The line crisis
+[scene] (p.121) §5 — the confrontational attitude from the flyer war drew too many customers; the classroom seats were filled to the limit; the only solution was to make the visitors wait in line.
+[says] (p.121) “That's not good. Customers are starting to leave the line.” — Horikita's side of the phone line.
+[rel:kushida-kikyou] (p.121) She volunteers to leave customer service with "I have an idea" — the cookie run begins.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ### y2v7 p.161–183 — Horikita's trap: Yagami exposed (from her POV)
 [scene] (p.161) On break, changes out of her maid uniform and slips to the student council room to check the meeting notes — the "love letter" (anagram) was designed to lure Yagami there; she had intended to ask Yagami (the council's contact) but used the festival as cover.
 [narrates] (p.162) "Yagami Takuya. Why would he be calling me at this time?"
@@ -4827,6 +4910,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:amasawa-ichika] (p.181–182) She arrives and tries to stop Yagami ("a frog in a well doesn't know the ocean"), then leaves with him.
 [rel:nagumo-miyabi] (p.169–183) He helps expose Yagami (reveals the anagram) and claims coincidence afterward.
 [rel:ryuuen-kakeru] (p.175–180) He appears with Komiya/Kinoshita and identifies Yagami as the one who hurt them.
+
+
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

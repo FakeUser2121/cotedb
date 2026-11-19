@@ -1946,6 +1946,105 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:yagami-takuya] (p.101–104) Yagami — the desperate interrogator; the unanimous-exam night call; the lone wolf from the 1st year Class B; the warning and counter-warning.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.121–130 — The cookie run; the hidden meeting; the 3 p.m. warning
+[scene] (p.121) §5 — Ayanokōji lets her out of customer service for a while — she has an idea; the waiting customers are just bored, and they're probably hungry too; the only solution was to make the visitors wait in line; the cookie run begins.
+[says:ayanokouji-kiyotaka] (p.121) “What are you going to do?” — Ayanokōji.
+[says] (p.121–122) “The waiting customers are just bored, and they're showing a strong interest in the maid café. But they're probably hungry, too, and it's too much to ask them to leave.” — Kushida.
+[note] (p.122) Since it was also right around lunchtime, it was obvious from the adults now in the classroom that many of them were there for food and drinks; Kushida picked up one of the bags filled with homemade cookies that she has been selling, prepared for souvenirs and started walking down the hallway with it.
+[says] (p.122) “Sorry to keep you waiting” — Kushida; she then pulled a cookie out of the bag and started handing them out to the waiting crowd.
+[note] (p.124) If Kushida were to leave her current post, it would not be difficult for someone to run away from the line with some guilt on their back, but she stayed and continued to talk to them with a smile on her face; after receiving the cookies, it was no longer easy to leave the line, even though they were impatient.
+[note] (p.124) She could see what was going on in the restaurant better than anyone else; what could she do to get as many people on her side as possible?
+[note] (p.124) She knew how to get close to adults of the opposite sex, engaged them in conversation that made them feel good, and sometimes even held their hand or did other skinship with them; the other girls had been working hard all day, but Kushida was the only one who had managed to do all of these things perfectly; even when she was accounting at times, she made as few mistakes as possible.
+[says:hirata-yousuke] (p.124) “Kushida-san's abilities are quite something. This is her element, I guess.” — Yōsuke.
+[says:hirata-yousuke] (p.124) “It seems that Kushida-san and Horikita-san, who have been facing strong headwinds, will also have some tailwinds.” — Yōsuke.
+[scene] (p.125) Mii-chan came out of the room, looking busy; Kushida-san, who was supposed to be organizing the line, had disappeared; Yōsuke called out to the guests in line.
+[says:hirata-yousuke] (p.125) “Excuse me, have you seen a girl standing in line here?” — Yōsuke called out to the guests in line.
+[note] (p.125) “Oh, you mean the girl who was handing out cookies? It looks like she was approached by a girl from the same school and followed her about five minutes ago.” — a guest; “What was she like?” — “Um, a girl with her hair tied up in two knots.”
+[scene] (p.125) The indoor pool facility — Kushida was dressed in an out-of-place maid's outfit; Amasawa was holding her.
+[says] (p.125) “So don't make me say it again…” — Kushida, shouting at Amasawa.
+[says:amasawa-ichika] (p.126) “Wow…” — meanwhile, the other person immediately noticed him and told Kushida to stop talking.
+[says] (p.126) “What? Why is... Ayanokōji-kun here..?” — Kushida.
+[says:amasawa-ichika] (p.126) “ Of course he's going to look for the ace when you've disappeared.” — Amasawa.
+[says:amasawa-ichika] (p.126) “I thought I had taken her to a secretive location, but I'm surprised you found this place, senpai.” — Amasawa.
+[note] (p.126) He was actually keeping an eye on her the moment she stepped out into the line.
+[says:ayanokouji-kiyotaka] (p.126) “Unfortunately for you, I've created an alliance with someone I can rely on now. No matter where anyone goes, I'll be sure to know where they are.” — Ayanokōji.
+[says:amasawa-ichika] (p.126) “She was going to go right back after this, right senpai~?” — Amasawa.
+[says] (p.126) “Yeah. She's right. I'm sorry I slipped out without telling you, but I also wanted to talk to Amasawa-san for a minute.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.126) “Then you could have just stood there and talked, that's no reason to leave for 10 or 20 minutes.” — Ayanokōji.
+[note] (p.126) “Why was Kushida so adamant about expelling me from the school in a unanimous special exam, and why did she take a reckless gamble?” — his private question; Amasawa probes his knowledge.
+[says:amasawa-ichika] (p.126) “You are not the least bit surprised to see me and Kushida-senpai together, are you? Did you know about our history?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.126) “No.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.126) “But today, with this timely contact, I understand everything. Even information that seemed unnecessary was derived in my head on its own.” — Ayanokōji.
+[says:amasawa-ichika] (p.127) “Kushida-senpai will pay you back later, so can you give me a little time?” — Amasawa.
+[says] (p.127) “Sorry Ayanokōji-kun, could you please excuse me. I'll be back as soon as I can. I also really need to talk to Amasawa-san.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.127) “I see what you mean, but it's not going to happen. This is enough, Amasawa.” — Ayanokōji.
+[says:amasawa-ichika] (p.127) “Senpai's eyes are so naughty, aren't they? You're looking at me like I'm naked or something~” — Amasawa; she pressed the tip of her finger against her lips in a seductive manner, but the tone wasn't sexual.
+[says:ayanokouji-kiyotaka] (p.127) “Kushida, you have a weakness regarding your past with Amasawa and one other person. That's why you forced the class to get into an uproar so that Horikita and I would be expelled from the unanimous special exam. Or maybe they were working on something before that.” — Ayanokōji.
+[says] (p.127) “Eh?” — Kushida simply looked surprised.
+[says:amasawa-ichika] (p.127) “Let's stop now, senpai. This is a time for me and Kushida-senpai.” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.127) “I'm sorry, but it doesn't work that way. Kushida is a necessary part of the class, even before her work as a maid.” — Ayanokōji.
+[says:amasawa-ichika] (p.127) “What do you mean by that?” — Amasawa.
+[says:amasawa-ichika] (p.127–128) “You may be right, but I'm not so sure about the other one.” — as she replied, Amasawa's demeanour changed for the first time; without warning, Amasawa, with an eerie smile on her face, grabbed Kushida's wrist tightly.
+[says] (p.127) “What?!” — Kushida.
+[note] (p.127–128) Amasawa pulled her close and stood behind Kushida with her right hand locked in place and forcefully closed Kushida's mouth with her left hand.
+[says] (p.128) “Nngh!” — Kushida; her pain.
+[says:amasawa-ichika] (p.128) “Perhaps you have an idea who the other student is, senpai?” — Amasawa.
+[note] (p.128) Kushida's words were silenced before she could ask the question since Kushida knew that person firsthand.
+[says:amasawa-ichika] (p.128) “You know, Kushida-senpai, if you say anything bad, I'll have you expelled, okay?” — Amasawa; Kushida's face contorted in pain.
+[says:ayanokouji-kiyotaka] (p.128) “This isn't like you, Amasawa. You seem like you've been cornered pretty hard.” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “Wait, senpai, I didn't say anything, did I?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.128) “Every single action speaks for itself.” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “Let's talk about it again later, just the two of us next time. Please pretend you didn't see this and leave, Ayanokōji-senpai. If you do that, I'll let her go in about ten minutes.” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.128) “What if I don't say yes?” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “If you don't say yes, I might cripple Kushida-senpai here.” — Amasawa; she said and squeezed her right arm even tighter.
+[says] (p.128) “Nngh!” — Kushida.
+[says:amasawa-ichika] (p.128) “I'm a pretty girl, but I can easily break an arm or two.” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.128) “Then let's give it a try. Let's see if you break Kushida's arm first, or if I can stop you.” — Ayanokōji.
+[note] (p.128) The distance between them was about 5 meters.
+[says:amasawa-ichika] (p.128) “Are you serious?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.128) “Are you serious about breaking her arm? Or are you saying that you don't think I can stop you?” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “Both.” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.128) “Then you're wrong about both. You really shouldn't forget who I am.” — Ayanokōji.
+[note] (p.128–129) Laughing, Amasawa loosened her grip on Kushida's right hand, even if only slightly; at that moment he kicked the ground and dove in just as Amasawa switched to a motion to break her arm; his right hand slid down Kushida's arm and reached her wrist as his left hand went around her mouth to her back, he grabbed Amasawa's right hand.
+[says:amasawa-ichika] (p.129) “No way...” — Amasawa; it must have been a defensive instinct.
+[note] (p.129) In an instant, she abandoned the action of breaking Kushida's arm and shifted her attention to him, and tried to make a left fist with a tight grip.
+[says:amasawa-ichika] (p.129) “Fuu~!” — the forceful hold on the ground caused Amasawa to lose her breath for a moment and gasp for air; her breath caused a slight dust cloud to rise.
+[says:amasawa-ichika] (p.129) “Oh my, that was... a little unexpected.” — Amasawa; Amasawa's pride, which was always high, was deeply wounded.
+[says:ayanokouji-kiyotaka] (p.129) “Did you think there wasn't much difference between you and me?” — Ayanokōji.
+[says:amasawa-ichika] (p.129) “You mean I was wrong about your abilities?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.129) “Probably.” — Ayanokōji.
+[note] (p.129) “I'll tell you this, you seem to think that the other student might push me out of school, but did you ever wonder why I never asked for the other student's name?” — Ayanokōji; the smile slowly faded from Amasawa.
+[says:amasawa-ichika] (p.129) “You're serious, aren't you, senpai?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.129) “It's not you who doesn't understand that, right, Amasawa?” — Ayanokōji.
+[note] (p.129) Even if you had only half-heartedly practiced martial arts, you would not have had any real feeling for it yet; but Amasawa was different; in less than 10 seconds of total movement, the match had already been decided by a wide margin.
+[says:ayanokouji-kiyotaka] (p.129–130) “You and the other student should have challenged me at an early stage. You shouldn't have gone around and involved the people around you in the fun.” — Ayanokōji.
+[says:amasawa-ichika] (p.130) “So, you understood why I contacted Kushida-senpai...” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.130) “It all connected just now. And now the unexpected is about to happen.” — Ayanokōji.
+[says:amasawa-ichika] (p.130) “The unexpected?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.130) “After 3 p.m., keep an eye on the student council chambers. You are not to be seen in front of anyone. Then you'll have all the answers.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.130) “We've wasted a lot of time. Let's go back to the maid cafe.” — Ayanokōji.
+[says:amasawa-ichika] (p.130) “Is it okay leaving her?” — Amasawa.
+[says:ayanokouji-kiyotaka] (p.130) “It's okay. You don't have to worry about your past being exposed.” — Ayanokōji.
+[says] (p.130) “How could Ayanokōji-kun know that?” — Kushida rushed after him.
+[says:ayanokouji-kiyotaka] (p.130) “Don't worry about it, but you can trust me.” — Ayanokōji.
+[says] (p.130) “Who is Ayanokōji-kun?” — Kushida.
+[says] (p.130) “I don't know anything about fighting, but I can tell you you're not normal.” — Kushida.
+[note] (p.130) That question would be inevitable if you had witnessed the conversation and fight with Amasawa earlier.
+[says:ayanokouji-kiyotaka] (p.130) “It's not uncommon for classmates to learn martial arts. Horikita and Ibuki, even Ryūen and Akito should be strong in fights, even if they are self-taught. It's not like boys and girls can compete with each other from the start.” — Ayanokōji.
+[says] (p.130) “Yeah, sure.” — Kushida.
+[says] (p.130) “Thank you for helping me.” — Kushida.
+[note] (p.130) An unexpected thank you from Kushida.
+[says] (p.130) “You don't think I'm sincerely grateful, but that's fine. I just felt like saying so, even if it's a lie.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.130) “It's not a big deal. It's more of a natural behaviour for a classmate.” — Ayanokōji.
+[says] (p.130) “Then you don't have to consider this as a debt, right?” — Kushida.
+[says:ayanokouji-kiyotaka] (p.130) “Of course.” — Ayanokōji.
+[note] (p.130) If he did consider her to be in his debt because of what happened, she wouldn't really be able to repay him.
+[rel:ayanokouji-kiyotaka] (p.121–130) The cookie run; the pool grab; the wrist lock; the 3 p.m. warning.
+[rel:amasawa-ichika] (p.125–130) The indoor pool grab; the wrist lock; the White Room score comparison.
+[rel:hirata-yousuke] (p.124–125) His cookie-run commentary; the line talk.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

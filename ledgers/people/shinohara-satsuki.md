@@ -426,6 +426,12 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:karuizawa-kei] (p.54) Shinohara and Kei have a new chapter after fighting.
 <!-- walk: y2v7 Ch.2 → p.71 -->
 
+
+### y2v7 p.110 — Shoulder to shoulder with Ike
+[mentioned] (p.110) “Ike stands shoulder to shoulder with Shinohara” — the narration; she's at the festival opening beside him.
+[rel:ike-kanji] (p.110) Shoulder to shoulder all morning.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

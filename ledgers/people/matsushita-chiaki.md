@@ -343,6 +343,13 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.92) Ayanokōji repeats her reassurance — he may be the calmest of the three on this.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.107 — The illness call
+[mentioned] (p.107) Matsushita contacted Ayanokōji early in the morning and reported that she had to take the day off due to illness — a cough and other symptoms; she could not perform a job that required customer service, and if the cold spread it would affect the class during the festival; she could not be entrusted with a heavy workload even if reassigned — she led the maid café to this point.
+[rel:satou-maya] (p.107) Her illness triggers the shift-change discussion; Satō carries the opening.
+[rel:ayanokouji-kiyotaka] (p.107) The early call; he understands the need for reassignment preparation.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

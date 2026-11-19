@@ -1977,6 +1977,18 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rule] (p.101) All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; they may not assist with any of the stalls during the break.
 [rel:horikita-suzune] (p.100–101) The maid question; the schedule sign-off; the mandatory break notice.
 
+
+### y2v7 p.110–114 — The backstop for Satō; the first-photo revival
+[scene] (p.110) Matsushita's absence; the shift change; Satō claps her own cheeks; Kei cheers her up from behind the scenes.
+[says] (p.110) “Maya-chan will be fine. I'll back you up too.” — Kei, cheerfully encouraging her.
+[says:satou-maya] (p.110) “We can do it, we can do it!” — Satō.
+[says:satou-maya] (p.110) “Yeah, I'll do my best!” — Satō.
+[scene] (p.114) §3 — Kei is in charge of the first photos; the maids' voices echo through the store — “I got one shot~!”
+[note] (p.114) “I got one shot~!” — the maids' voices echo through the store; the speaker is not printed as one name; not assigned.
+[note] (p.114) Since overcoming a big hurdle, the two of them have really grown closer; their relationship as best friends won't be broken in the slightest from now on.
+[rel:satou-maya] (p.110) She backs her; their friendship won't break.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

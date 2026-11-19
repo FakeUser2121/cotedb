@@ -10085,23 +10085,286 @@ walk: y1v1 → DONE
 [says:sakayanagi-arisu] (p.106) “So you want to experience your remaining school life and what is normal for a student as much as possible.” — Sakayanagi replied in agreement with his way of thinking.
 [rel:sakayanagi-arisu] (p.105–106) The midnight call; the warning about outside threats; the chairman's decline; their alignment.
 
-### y2v7 p.107–116 — Festival day: the maid café's success; a former guest
-[scene] (p.107) The festival begins at 9 a.m.; rumors swirl that Haruka/Akito may be the ones who leaked the maid café info (Kei says not to jump to conclusions); overall OAA ranking shown — Horikita's class is strong.
-[says] (p.108) "Rumors are rumors. Haruka and Akito didn't actually leak the information."
-[says] (p.113) "New customers, please show them around." — Horikita, in an "inorganic voice" at outdoor advertising
-[trait] (p.107–116) Observes the maid café running smoothly (Horikita awkward at "customer service" but effective at advertising); photos sell for 800 pts; recognizes a guest who visited during the sports festival — connected to the political figures backing the school (Tsukishiro forced the festival through); he's prepared for the if the festival were stuck in a bad situation scenario.
-[rel:horikita-suzune] (p.108–113) She's in charge of the café, awkward as a "maid" but managing.
-[rel:hasebe-haruka] (p.107–108) She and Akito are missing — suspected of leaking the info (unfairly).
+### y2v7 p.107–109 — 6 a.m.; Matsushita's illness; the leak rumor
+[scene] (p.107) The festival arrives; the gates open at 6:00 a.m.; students required by 8:30; the festival begins at 9:00; Ayanokōji and Horikita meet at the lobby of the dormitory at 6:00 to do a final confirmation; a cardboard box of hand-me-downs drops at the classroom first.
+[says:horikita-suzune] (p.107) “Good morning. Is that cardboard by any chance the one you were talking about?” — Horikita turning her attention to the box he holds.
+[says] (p.107) “I'm sorry for making you come up with an unplanned budget.” — Ayanokōji.
+[says:horikita-suzune] (p.107) “It wasn't a big amount, so the impact is minimal. We second years should've been given 5,000 points each to spend as we see fit.” — Horikita.
+[note] (p.107) “Did you receive the call from Matsushita-san?” — “I checked. It must be hard for her since she's one of the leading figures who led the maid café to this point.” — Matsushita contacted him early in the morning and reported she had to take the day off due to illness (cough and other symptoms; COVID risk to the class; reassignment required).
+[says:horikita-suzune] (p.107) “But it's a wise decision.” — Horikita.
+[note] (p.107) “Besides, this is the kind of preparation we need to make in advance.” — the reassignment of personnel must be planned in advance.
+[says:horikita-suzune] (p.107–108) “Speaking of which, did you hear? It's rumored that Hasebe-san and Miyake-kun may have been the ones who leaked the information about the maid cafe.” — Horikita; information came down from Kei (who is in close contact with the girls).
+[says:horikita-suzune] (p.108) “Sounds like it. But we could've foreseen that at an early stage, couldn't we?” — Horikita.
+[says:horikita-suzune] (p.108) “Rumors are rumors. Haruka and Akito didn't actually leak the information.” — Horikita; her self-loathing at not being able to help Haruka peeked out.
+[says] (p.108) “You shouldn't show your weakness so easily. It will only give them an opening to take advantage of you.” — Ayanokōji.
+[says:horikita-suzune] (p.108) “You're always so calm as if you're a stranger to the situation.” — Horikita looks at him as if to check his expression for five or ten seconds; her face changes to a difficult expression with a wrinkle between her eyebrows.
+[says:horikita-suzune] (p.108) “I have a few questions…do you usually interact with the first-year students?” — Horikita.
+[says] (p.108) “First-year students? No, I don't. I talk to Nanase or Amasawa once in a while, but that's about it.” — Ayanokōji.
+[says] (p.108) “Is that what you wanted to ask?” — Ayanokōji.
+[says:horikita-suzune] (p.108) “It's not a big deal.” — Horikita.
+[says] (p.108) “Speaking of interaction, what about you? You talk to first years in the student council, don't you?” — Ayanokōji.
+[says:horikita-suzune] (p.108) “Well, I do. I'm getting a little bit more involved with the juniors.” — Horikita.
+[note] (p.108) “The student council had gained three people from this year's first years; the second years only had Ichinose for a long time.” — the most recent addition was Horikita, but it was likely that the number of members was adjusted to fill the gap; there was no limit to the number of members, but generally eight to twelve members: three third-year students, two second-year students, and three first-year students; they were following past conventions.
+[note] (p.109) “At first, I thought it was useless. I would rather be in my room studying than doing student council work because it would better benefit me.” — Horikita's confession.
+[says] (p.109) “There's a lot to be learned in futility. You're beginning to see that.” — Ayanokōji.
+[says:horikita-suzune] (p.109) “Your brother was student council president, too.” — Horikita.
+[says:horikita-suzune] (p.109) “My brother's case is different from mine. He was able to carry out his student council duties flawlessly while also achieving impeccable results in his schoolwork. I don't think he ever felt that the student council was a burden, nor did he suffer from a lack of studying.” — Horikita.
+[note] (p.109) “Even if we'll never know the actual truth, there was always plenty of room for Horikita to study.” — Horikita didn't let it show in vain.
+[says:horikita-suzune] (p.109) “I'm grateful to you, if only for the results. Joining the student council has helped me see things I couldn't see.” — Horikita.
+[says:horikita-suzune] (p.109) “It made me realize how great my brother is again, and I have to do a lot of extra work.” — Horikita.
+[says] (p.109) “I wish you had just been honest and thanked me.” — Ayanokōji.
+[says:horikita-suzune] (p.109) “You have to accept some complaints.” — Horikita.
+[says] (p.109) “I agree and sympathize with you that academics are a difficult goal for you.” — Ayanokōji.
+[note] (p.109) “I know that I am not inferior to Manabu in terms of pure academics and physical ability.” — Ayanokōji.
 
-### y2v7 p.117–130 — Amasawa restrains Kushida; Ayanokōji intervenes
-[scene] (p.121) Kushida asks to leave her post briefly; she slips away to an indoor pool area to meet Amasawa; Ayanokōji tracks her via phone (a "hidden gem" location) and follows.
-[says] (p.126) "What? Why is... Ayanokōji-kun here..?" — Kushida
-[says] (p.127) "Kushida-senpai will pay you back later, so can you give me a little time?"
-[says] (p.128) "You know, Kushida-senpai, if you say anything bad, I'll have you expelled" — Amasawa
-[says] (p.129) "Let's see if you break Kushida's arm first, or if I can [stop you]."
-[trait] (p.121–130) Finds Amasawa holding Kushida in a painful wrist lock (threatening to break her arm if she reveals something); he calmly challenges her — "let's see if you break Kushida's arm first, or if I can stop you" — then, in under 10 seconds, dives in, frees Kushida and twists Amasawa into a restraint on the ground (Amasawa's fighting skills, learned in the White Room, are real); he understands *why* Amasawa contacted Kushida (to silence her about something important), lets Amasawa go, and returns with Kushida — whose "thank you" surprises him.
-[rel:amasawa-ichika] (p.126–130) She grabbed Kushida to silence her; Ayanokōji overpowers her — she realizes he understood her motive.
-[rel:kushida-kikyou] (p.121–130) She met Amasawa secretly; he saves her from a broken arm — she's shocked and grateful.
+### y2v7 p.110–113 — The morning; the café opens; the line forms
+[scene] (p.110) 9:00 a.m. arrives at the maid café; an announcement was made to all students at once; guests stepped through the main gate and the opening of the festival was announced; Ike stands shoulder to shoulder with Shinohara.
+[says:ike-kanji] (p.110) “What do I do, I'm getting nervous...” — Ike.
+[says:ike-kanji] (p.110) “I haven't had any contact with outsiders since I entered this school.” — Ike.
+[note] (p.110) Meanwhile, Satō and the other maids discuss the shift change due to Matsushita's absence; the burden on each of them would inevitably increase, but the time adjustment was nearing completion; Satō clasped her hands together in anxiety, but quickly slapped her own cheeks between her palms to regain confidence.
+[says:satou-maya] (p.110) “We can do it, we can do it!” — Satō.
+[says:karuizawa-kei] (p.110) “Maya-chan will be fine. I'll back you up too.” — Kei, cheerfully encouraging her.
+[says:satou-maya] (p.110) “Yeah, I'll do my best!” — Satō.
+[note] (p.110) Since overcoming a big hurdle, the two of them have really grown closer; their relationship as best friends won't be broken in the slightest from now on.
+[scene] (p.110–111) The final check — Sudō and some of the male team members were not listening to the announcements and were having their final meeting with Yōsuke; they were short two students; Horikita and Ayanokōji look at each other.
+[says:horikita-suzune] (p.111) “Hasebe-san and Miyake-kun seem to be missing.” — Horikita; the other students seemed to be too busy minding their own business to have noticed yet.
+[says] (p.111) “I guess it's not like they're in the restroom.” — Ayanokōji.
+[says:horikita-suzune] (p.111) “I knew there was something going on at this festival, but ……” — Horikita.
+[says] (p.111) “If it's just simply slacking off, I guess I'm rather grateful.” — Ayanokōji.
+[note] (p.111) For Horikita, who had not calculated them as a force to be reckoned with from the start, there was no need to get worked up if they just didn't help out; however, if they were to sabotage the project, that would be a different story.
+[says:horikita-suzune] (p.111) “But it also adds fuel to the fire because of the rumors.” — Horikita.
+[note] (p.111) “If you leak information and then skip the festival, well, that's enough blame, isn't it?” — reasoned aloud.
+[says:horikita-suzune] (p.111–112) “I've been keeping an eye on it so far, thinking only time will tell, but …… I still think we should do something about it early on. We should at least dispel the rumors.” — Horikita.
+[says] (p.112) “I understand what you're saying, but we should focus on the festival today.” — Ayanokōji.
+[says:horikita-suzune] (p.112) “Is that what you want?” — Horikita.
+[says] (p.112) “Even if we can erase the rumors, we can't erase the fact that those two have slipped out. Besides, there is still a possibility that they could embarrass the class in some other way at the festival.” — Ayanokōji.
+[note] (p.112) With multiple sources of anxiety, a poor response could lead to unnecessary animosity.
+[says:horikita-suzune] (p.112) “I agree.” — Horikita; she was a bit nervous, but she cleared her throat to get rid of her thoughts.
+[says:horikita-suzune] (p.112) “I'm sure you'll be able to handle Hasebe-san and Miyake-kun just fine.” — Horikita.
+[scene] (p.112) §2 — “Welcome!” — Satō's cheerful voice echoed in the classroom; the first guest to enter the store was a man who appeared to be in his 40s; all six maids respond in unison.
+[says:satou-maya] (p.112) “Let me show you to your seat.” — Satō.
+[note] (p.112) Satō's voice was cheerful, but her movements were stiff; still, thanks to the rehearsal the day before, there were no major mistakes; slowly but surely, the number of guests began to increase.
+[note] (p.112) “A good start, huh?” — printed untagged; not assigned.
+[note] (p.112) The sales of each class were unknown until the end of the festival; they had no choice but to gather information personally; fortunately, all students were required to take a one-hour break, so there were always a certain number of students who were not busy.
+[note] (p.112) Yoshida from Sakayanagi's class was peeking into the maid café without trying to hide.
+[scene] (p.112–113) The classroom door opened vigorously — Ike and Hondo came out in a hurry.
+[says:ike-kanji] (p.112–113) “We took the order as fast as possible! I'm going to the food stall to get it now!” — Ike.
+[says] (p.113) “That's fine, but please be a little more calm.” — Ayanokōji.
+[says:ike-kanji] (p.113) “Oh, right. Sorry!” — Ike.
+[note] (p.113) It was not an ideal situation for customers or potential customers to watch a flurry of restaurant personnel run to get their food; with a warning, the two looked at each other, nodded, and began to move, albeit at a rather fast pace.
+[says:kanzaki-ryuuji] (p.113) “Looks like you're already thriving.” — Kanzaki approached him.
+[note] (p.113) Ichinose's class's offering was, as he recalled, sweets-based — crepes and chocolate bananas.
+[says] (p.113) “What about you?” — Ayanokōji.
+[says:kanzaki-ryuuji] (p.113) “The kids love them. But the adults are not as receptive as we thought they would be, so we're not sure if we can aim for the top spot in terms of sales.” — Kanzaki.
+[says] (p.113) “You may have a hard time, then.” — Ayanokōji.
+[says:kanzaki-ryuuji] (p.113) “Probably, but my priorities have shifted so I'm not entirely concerned about this festival at the moment.” — Kanzaki; “Apparently, the first step towards change with Himeno may have worked.” — the narration.
+[says:kanzaki-ryuuji] (p.113) “I'm going to the gym now. I want to learn what I can from the third years for the future.” — Kanzaki.
+[says] (p.113) “I see. See you later.” — Ayanokōji.
+
+### y2v7 p.113–116 — The photo counter; the Darjeeling sellout; the folded note
+[scene] (p.113) §3 — Ayanokōji is in charge of taking pictures of guests who want to have their picture taken; Horikita is in charge of outdoor advertising, dressed as a maid, but did not smile in person — inorganic voice; if this were a real maid café, Horikita would have been fired during her training period after passing her interview.
+[says:horikita-suzune] (p.113) “New customers, please show them around.” — Horikita, in an inorganic voice at outdoor advertising.
+[says:satou-maya] (p.113) “Sato-san will show you around. “ — Satō.
+[says:satou-maya] (p.113) “Well then, if you'll follow me....” — Satō.
+[note] (p.114) The maid café was maintaining its customer base as planned; the important thing was how well they could handle the goods in stock; the film cost about 70 points per roll; the instant camera cost nearly 9,000 points, with a spare on hand in case the current one broke down.
+[says:karuizawa-kei] (p.114) “I got one shot~!” — the maids' voices echo through the store; he moves out of the waiting room, camera in hand.
+[note] (p.114) A photo shoot with Mii-chan; Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment; the guest wanted a two-shot of the laughing Mi-chan; Mii-chan's eyes closed just as the shutter released.
+[says:wang-mei-yu] (p.114) “Ugh, sorry Ayanokōji-kun……” — Mii-chan.
+[says] (p.114) “Never mind. I'll take another picture.” — Ayanokōji; each picture could be taken for 800 points, and two, in some cases three, sheets of film were needed.
+[says] (p.115) “Missing an opportunity…” — Ayanokōji, reviewing the festival's arrangements.
+[note] (p.114–115) “But still… this festival, with so many people connected to politics, was the perfect opportunity for that man.” — no matter how many people were around, he would try some kind of trick to set him up; this must have been the same for Chairman Sakayanagi; as noon approached, there was no sign of any change — the memory of the Tsukishiro conversation (“But no matter how good you are, you are still just a child. You should understand that that person has already factored in that strength of yours and sent me to you.” — “After eliminating Tsukishiro, all we have to do is eliminate the white room students and peace will return.”).
+[says:wang-mei-yu] (p.115) “Ayanokōji-kun, what should I do, I seem to have run out of Darjeeling!” — Mii-chan in a panicked look.
+[note] (p.115) The Darjeeling, which used high-end tea leaves, sold out immediately; the sales were unexpectedly high; the inexpensive tea bags sold poorly; it was impossible to buy more on the day of the show.
+[says] (p.115) “Put a sell-out sticker on all the menu boards right away. I'll write corrections on the signs that are posted outside.” — Ayanokōji.
+[note] (p.115) He grabbed a pen and immediately corrected the sign at the entrance of the restaurant; both were cheap props from the bargain bin, but they would work; he wrote the words “Sold Out due to popular demand” next to the Darjeeling — a way to showcase the popularity of the maid café.
+[note] (p.115) “There we go.” — Ayanokōji.
+[scene] (p.115–116) Immediately after — an arm reached out from the left side behind him; the fabric of a suit, not a school uniform.
+[note] (p.116) “Take this without turning around.” — a white paper, folded in half, swayed in the slight breeze coming in through the window; the person who approached him at such short distance without giving him any sign of him was not an ordinary person.
+[says] (p.116) “May I ask your name?” — Ayanokōji.
+[note] (p.116) “That's needless prying.” — the man in the suit.
+[note] (p.116) As soon as he grabbed the paper, his left arm disappeared from his sight; he held that position for a while, and then he sensed another presence approaching.
+[says:hirata-yousuke] (p.116) “What's wrong, Kiyotaka-kun?” — Yōsuke came out of the classroom, concerned that he didn't come back right away.
+[says] (p.116) “Sorry, I was approached by a guest who got a little lost and had to be dealt with. Any trouble?” — Ayanokōji.
+[says:hirata-yousuke] (p.116) “Orders are starting to not turn out well. The stalls seem to be doing better than expected.” — Yōsuke.
+[says] (p.116) “I see, the turnover is getting out of control. I'll be right there.” — Ayanokōji.
+[note] (p.116) After confirming that Yōsuke had left, he unfolded the paper he had been holding in his right hand.
+[note] (p.116) “[I'm here to pick you up. Decide for yourself what to do. I'll wait for you at the front gate.]” — the note; he even politely included his phone number; the paper passed through his hands; he rolled it up, put it in his mouth, and swallowed it; the person who handed this to him was connected to the White Room.
+[note] (p.116) “I decide what to do? If they are really giving me a choice, did they really think I would choose to leave?” — Ayanokōji.
+
+### y2v7 p.117–120 — The counter-flyer war; Ibuki at the corridor
+[scene] (p.117) Three hours had passed since the festival began; noon; new guests were arriving to replace the families who had gone to the school first thing in the morning; following a report from Ike and the others, who had gone out to scout the area, he was walking near the entrance when I heard a voice saying, “There it is!” — Ike pointed to where several girls from Ryūen's class were shouting.
+[note] (p.117) “We, the 2nd year C class, are currently competing with the 2nd year B class for sales at the concept café! If we lose, someone might be held responsible and expelled from school!” — several girls from Ryūen's class shouting; the air was clearly alien.
+[note] (p.117) “Please, can we ask for your cooperation! Please help us!” — one after another, they handed out the flyers they seemed to have been producing.
+[note] (p.117) The flyers — offerings for a kimono concept café on the second floor of the special wing were detailed, but it didn't mention the menu or any other price; instead, it put the confrontation front and center, strongly emphasizing that this was a battle they absolutely could not lose.
+[says:ike-kanji] (p.117–118) “Nah what? This is bad, right?” — Ike.
+[note] (p.118) The girls' earnest appeals couldn't have been left unspoken; in all likelihood, Ryūen was probably threatening his classmates with expulsion; “Is he seriously trying to get someone expelled, that Ryūen guy?” — “I doubt it. If a forced expulsion is a penalty, that means he threatened to expel them without their consent. It would be a problem. In fact, if the student who was threatened told the school, Ryūen's position would be jeopardized, and a sharp drop in class points would be inevitable.” — reasoned aloud.
+[says:ike-kanji] (p.118) “Then that means he's lying! Let's go there now and make them stop!” — Ike.
+[says] (p.118) “Impossible. His classmates strongly fear the chance he's telling the truth. Besides, if you listen to the words out loud, all they've said is that they might be expelled from school.” — Ayanokōji.
+[says:ike-kanji] (p.118) “If we lose, they'll take away 1 million private points, right? Oh no!” — Ike held his head.
+[says] (p.118) “What do you want to do?” — Ayanokōji.
+[says] (p.118) “If they want to do this, we'll just fight back with a similar strategy.” — Ayanokōji.
+[says:ike-kanji] (p.118) “You mean threaten to expel someone too!?” — Ike.
+[says] (p.118) “No, not that way. We're going to show them that we're also putting all of our effort into the concept café competition as a second year B class. We are ready for that.” — Ayanokōji.
+[says:ike-kanji] (p.118) “What? And what do you mean ready?” — Ike.
+[says] (p.118) “Open the cardboard box I brought for you.” — Ayanokōji.
+[note] (p.118) He had Hondo and Tonomura take the box down to the ground and remove the duct tape; out of it came a bunch of flyers.
+[says:ike-kanji] (p.118) “This is…! It's a flyer just like theirs!” — Ike.
+[note] (p.118) “I was planning to put up flyers to drive the guests to the event if necessary. They beat me to it, but I'm sure it'll be effective nonetheless.” — Ayanokōji.
+[note] (p.118) The flyers prepared by Horikita's and Ryūen's class were quickly circulated throughout the school, and word spread that the two classes were competing against each other; this way, it was also self-evident that they were making big bets on the one-on-one match-up; knowing about this confrontation will give the illusion that both classes were taking similar risks; it doesn't create the need for him to go out of his way to threaten his classmates.
+[says] (p.118) “I'm going to call the girls who have free hands now and ask them to spread the flyers all at once.” — Ayanokōji.
+[says:ike-kanji] (p.118–119) “Okay, okay! I'll let them know right away!” — Ike.
+[note] (p.119) The process was to have them use their feet directly and have Hondo and the others communicate the information to their classmates; then, in addition to the predetermined points for distributing flyers, he notified the boys who were running the stalls to let them know that they were confronting Ryūen's class as well.
+[note] (p.119) “Did you hear Horikita's class and Ryūen's class are playing for a lot of money?” / “I heard that the leader of the losing class is getting expelled?” — word of the one-on-one match was beginning to reach the ears of ordinary students; speculation led to rumors, and rumors led to speculation.
+[says:ike-kanji] (p.119) “I'm going back. Let me know if you need anything else.” — Ike and the others who delivered meals.
+[scene] (p.119) On the way back to the special wing, he spotted a Japanese-style girl holding a leaflet in a corner of a largely empty corridor — Ibuki.
+[says:ibuki-mio] (p.119) “Shisase!” — the way she handed the leaflets to the occasional adult passing by; it reminded him of the lethargic adults he sometimes saw at the Keyaki Mall handing out tissues without much enthusiasm.
+[says] (p.119) “Can I have one?” — Ayanokōji.
+[says:ibuki-mio] (p.119) “Shassu.” — Ibuki.
+[note] (p.119) She offered him a small thank-you and a leaflet; as he took it, her eyes locked onto him.
+[says:ibuki-mio] (p.119–120) “Geez.” — Ibuki.
+[says] (p.120) “You've been handing out flyers in a place like this, Ibuki?” — Ayanokōji.
+[says:ibuki-mio] (p.120) “Go away.” — Ibuki with a disgusted expression on her face.
+[says] (p.120) “I'd heard about you, but I guess that means you're keeping your word.” — Ayanokōji.
+[note] (p.120) He had heard that she would dress in a kimono after losing the match with Ryūen, but it suited her better than he expected.
+[says] (p.120) “I guess clothes make the man, huh?” — Ayanokōji.
+[note] (p.120) She stared at him intensely, but he was relieved that she didn't seem to understand much of what he meant.
+[says:ibuki-mio] (p.120) “It's nothing.” — Ibuki.
+[note] (p.120) It wasn't easy to get rid of all the flyers when you're handing them out in an unpopular place.
+[says] (p.120) “By the way, what did you confront Ryūen with?” — Ayanokōji.
+[says:ibuki-mio] (p.120) “I would have preferred a tie-up, but he suggested we play a card game.” — Ibuki.
+[says] (p.120) “Card game? You mean like poker or something like that?” — Ayanokōji.
+[says:ibuki-mio] (p.120) “Well, it's similar.” — Ibuki; the content of the game itself was not important; the fact that it was a suggestion from Ryūen was what caught her attention; maybe Ibuki was successfully entrapped; regardless, at least Ibuki wasn't getting in his way any more.
+[says] (p.120) “I'll spread the word later about what you've been working so hard to promote here.” — Ayanokōji.
+[says:ibuki-mio] (p.120) “Don't spread it. I'll kick your ass.” — Ibuki; he quickly dodged a sharp kick as her costume shook.
+[note] (p.120) “Damn it.” — Ibuki.
+[says:ibuki-mio] (p.120) “Oh, by the way, the greeting at the café is 'Welcome home, master.' Try it out.” — Ibuki.
+[says] (p.120) “I'll say it if you'll take my kick to your face.” — Ayanokōji.
+[says:ibuki-mio] (p.120) “I think I'll have to pass.” — Ibuki; she raised her leg slightly to threaten him, so he shrugged and left.
+[rel:ibuki-mio] (p.119–120) The kimono; the corridor handouts; the card game; the kick; “Welcome home, master.”
+[rel:ike-kanji] (p.117–119) The flyer spot; the counter-plan; his nervousness about “1 million private points.”
+[rel:hondou-ryoutaro] (p.118) Hondo helps carry the counter-flyers.
+[rel:tonomura] (p.118) The name Tonomura — not rostered; see the volume ledger.
+
+### y2v7 p.121–124 — The line crisis; Kushida's cookie run
+[scene] (p.121) §5 — the maid café was on the road to success; Ryūen's movements at an early stage may have backfired; there were no other classes other than Ryūen's that followed suit; there were too many customers due to the confrontational attitude.
+[note] (p.121) The classroom seats were filled to the limit, and cramming in more would only make it more suffocating; the only solution was to make the visitors wait in line; maid cafes don't have a fast turnover; what would a customer with 3,000 points left do if he/she received a numbered ticket and was asked to come back in an hour?
+[says:horikita-suzune] (p.121) “That's not good. Customers are starting to leave the line.” — Horikita's inorganic voice from the end of the line.
+[says:kushida-kikyou] (p.121) “Ayanokōji-kun, can I get out of customer service for a while? I have an idea.” — Kushida called out to him.
+[says] (p.121) “What are you going to do?” — Ayanokōji.
+[says:kushida-kikyou] (p.121–122) “The waiting customers are just bored, and they're showing a strong interest in the maid café. But they're probably hungry, too, and it's too much to ask them to leave.” — Kushida.
+[note] (p.122) Since it was also right around lunchtime, it was obvious from the adults now in the classroom that many of them were there for food and drinks; Kushida picked up one of the bags filled with homemade cookies that she has been selling, prepared for souvenirs and started walking down the hallway with it.
+[says:kushida-kikyou] (p.122) “Sorry to keep you waiting” — Kushida; she then pulled a cookie out of the bag and started handing them out to the waiting crowd; she may be aiming to fill their bellies just a little, but there was more to it than that; once they receive something in return, they may feel guilty about leaving the place.
+[note] (p.124) If Kushida were to leave her current post, it would not be difficult for someone to run away from the line with some guilt on their back, but she stayed and continued to talk to them with a smile on her face; after receiving the cookies, it was no longer easy to leave the line, even though they were impatient; there were some disadvantages to Kushida leaving the hall, but the customers who had already taken their seats were certain to spend some money.
+[note] (p.124) She could see what was going on in the restaurant better than anyone else, and she also knew how to make the most of herself; what could she do to get as many people on her side as possible?
+[note] (p.124) She knew how to get close to adults of the opposite sex, engaged them in conversation that made them feel good, and sometimes even held their hand or did other skinship with them; the other girls had been working hard all day, but Kushida was the only one who had managed to do all of these things perfectly; even when she was accounting at times, she made as few mistakes as possible, even when she stumbled over a calculation; this was truly a gift, as she had never participated in any real-life practice sessions.
+[says:hirata-yousuke] (p.124) “Kushida-san's abilities are quite something. This is her element, I guess.” — Yōsuke nodded his head in respect as he looked at her workmanship.
+[says:hirata-yousuke] (p.124) “It seems that Kushida-san and Horikita-san, who have been facing strong headwinds, will also have some tailwinds.” — Yōsuke.
+[note] (p.124) They'd done such a good job, he had to admit that to some extent.
+[note] (p.124) “People are creatures that resent easily, but on the other hand, they are also creatures that admit easily. Especially when you are young, evaluations are like the two sides of a coin.” — the narration (unquoted).
+[says:hirata-yousuke] (p.124) “Still, I'm fine with it, as long as Kushida-san is able to fight alongside everyone in the class.” — Yōsuke.
+[says:hirata-yousuke] (p.124) “I'm really impressed by what I'm seeing.” — Yōsuke.
+[says:hirata-yousuke] (p.124) “I think it's a cumulative process. During the preparations for the festival, Kushida-san visited Horikita-san's room late at night several times. I think they were practicing.” — Yōsuke's deduction.
+[note] (p.124) So, in addition to her own talent, she was practicing well behind the scenes; if Yōsuke's reading of Kushida's life was correct, it was a reminder of Kushida's greatness; it would also confirm Horikita's confidence that Kushida was in good hands.
+[rel:kushida-kikyou] (p.121–125) The cookie run; the line stabilization; her talent finally recognized.
+[rel:hirata-yousuke] (p.124) His respectful nod; his late-night practice deduction.
+
+### y2v7 p.125–130 — The pool area; the wrist lock; the 3 p.m. warning
+[scene] (p.125) §6 — three hours after the festival began, he operated his cell phone; the inside-information network delivered Kushida's location within minutes; she was behind the indoor pool facility.
+[says:wang-mei-yu] (p.125) “Um, Ayanokōji-kun, where is Kushida-san?” — Mii-chan came out of the room, looking busy.
+[says:wang-mei-yu] (p.125) “There's a customer who wants to take a picture with Kushida-san, but I can't find her.” — Mii-chan.
+[note] (p.125) “Kushida-san, who was supposed to be organizing the line, had disappeared?” — he immediately looked down the hallway; Kushida was out of sight.
+[says:hirata-yousuke] (p.125) “Excuse me, have you seen a girl standing in line here?” — Yōsuke called out to the guests in line.
+[note] (p.125) “Oh, you mean the girl who was handing out cookies? It looks like she was approached by a girl from the same school and followed her about five minutes ago.” — a guest.
+[says:hirata-yousuke] (p.125) “What was she like?” — Yōsuke; he didn't seem to have a clue about the girl with her hair tied up in two knots.
+[note] (p.125) He had a strong idea.
+[says:hirata-yousuke] (p.125) “I'm sorry, but I need you to take care of the store for a bit and direct me to another maid the way Kushida did.” — Ayanokōji to Yōsuke.
+[scene] (p.125) The indoor pool facility; Kushida's back facing him, dressed in an out-of-place maid's outfit; Amasawa with her; a heated conversation.
+[says:kushida-kikyou] (p.125) “So don't make me say it again…” — Kushida, who was probably having a heated conversation with her friend, was shouting at her.
+[says:amasawa-ichika] (p.126) “Wow…” — meanwhile, the other person immediately noticed him and told Kushida to stop talking.
+[says:kushida-kikyou] (p.126) “What? Why is... Ayanokōji-kun here..?” — Kushida.
+[says:amasawa-ichika] (p.126) “ Of course he's going to look for the ace when you've disappeared.” — Amasawa.
+[says:amasawa-ichika] (p.126) “I thought I had taken her to a secretive location, but I'm surprised you found this place, senpai.” — Amasawa.
+[note] (p.126) He was actually keeping an eye on her the moment she stepped out into the line.
+[says] (p.126) “Unfortunately for you, I've created an alliance with someone I can rely on now. No matter where anyone goes, I'll be sure to know where they are.” — Ayanokōji.
+[says:amasawa-ichika] (p.126) “She was going to go right back after this, right senpai~?” — Amasawa.
+[says:kushida-kikyou] (p.126) “Yeah. She's right. I'm sorry I slipped out without telling you, but I also wanted to talk to Amasawa-san for a minute.” — Kushida.
+[says] (p.126) “Then you could have just stood there and talked, that's no reason to leave for 10 or 20 minutes.” — Ayanokōji.
+[note] (p.126) “Why was Kushida so adamant about expelling me from the school in a unanimous special exam, and why did she take a reckless gamble?” — his private question.
+[says:amasawa-ichika] (p.126) “You are not the least bit surprised to see me and Kushida-senpai together, are you? Did you know about our history?” — Amasawa.
+[says] (p.126) “No.” — Ayanokōji.
+[says] (p.126) “But today, with this timely contact, I understand everything. Even information that seemed unnecessary was derived in my head on its own.” — Ayanokōji.
+[says:amasawa-ichika] (p.127) “Kushida-senpai will pay you back later, so can you give me a little time?” — Amasawa.
+[says:kushida-kikyou] (p.127) “Sorry Ayanokōji-kun, could you please excuse me. I'll be back as soon as I can. I also really need to talk to Amasawa-san.” — Kushida.
+[says] (p.127) “I see what you mean, but it's not going to happen. This is enough, Amasawa.” — Ayanokōji.
+[says:amasawa-ichika] (p.127) “Senpai's eyes are so naughty, aren't they? You're looking at me like I'm naked or something~” — Amasawa; she pressed the tip of her finger against her lips in a seductive manner, but the tone wasn't sexual.
+[says] (p.127) “Kushida, you have a weakness regarding your past with Amasawa and one other person. That's why you forced the class to get into an uproar so that Horikita and I would be expelled from the unanimous special exam. Or maybe they were working on something before that.” — Ayanokōji.
+[says:kushida-kikyou] (p.127) “Eh?” — Kushida simply looked surprised.
+[says:amasawa-ichika] (p.127) “Let's stop now, senpai. This is a time for me and Kushida-senpai.” — Amasawa.
+[says] (p.127) “I'm sorry, but it doesn't work that way. Kushida is a necessary part of the class, even before her work as a maid.” — Ayanokōji.
+[says:amasawa-ichika] (p.127) “What do you mean by that?” — Amasawa.
+[says:amasawa-ichika] (p.127–128) “You may be right, but I'm not so sure about the other one.” — as she replied, Amasawa's demeanour changed for the first time; without warning, Amasawa, with an eerie smile on her face, grabbed Kushida's wrist tightly.
+[says:kushida-kikyou] (p.127) “What?!” — Kushida.
+[note] (p.127–128) Amasawa pulled her close and stood behind Kushida with her right hand locked in place and forcefully closed Kushida's mouth with her left hand.
+[says:kushida-kikyou] (p.128) “Nngh!” — Kushida's pain.
+[says:amasawa-ichika] (p.128) “Perhaps you have an idea who the other student is, senpai?” — Amasawa.
+[note] (p.128) Kushida's words were silenced before she could ask the question since Kushida knew that person firsthand.
+[says:amasawa-ichika] (p.128) “You know, Kushida-senpai, if you say anything bad, I'll have you expelled, okay?” — Amasawa; Kushida's face contorted in pain, probably due to the tight grip on her right arm.
+[says] (p.128) “This isn't like you, Amasawa. You seem like you've been cornered pretty hard.” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “Wait, senpai, I didn't say anything, did I?” — Amasawa.
+[says] (p.128) “Every single action speaks for itself.” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “Let's talk about it again later, just the two of us next time. Please pretend you didn't see this and leave, Ayanokōji-senpai. If you do that, I'll let her go in about ten minutes.” — Amasawa.
+[says] (p.128) “What if I don't say yes?” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “If you don't say yes, I might cripple Kushida-senpai here.” — Amasawa; she said and squeezed her right arm even tighter.
+[says:kushida-kikyou] (p.128) “Nngh!” — Kushida.
+[says:amasawa-ichika] (p.128) “I'm a pretty girl, but I can easily break an arm or two.” — Amasawa.
+[says] (p.128) “Then let's give it a try. Let's see if you break Kushida's arm first, or if I can stop you.” — Ayanokōji.
+[note] (p.128) The distance between them was about 5 meters.
+[says:amasawa-ichika] (p.128) “Are you serious?” — Amasawa.
+[says] (p.128) “Are you serious about breaking her arm? Or are you saying that you don't think I can stop you?” — Ayanokōji.
+[says:amasawa-ichika] (p.128) “Both.” — Amasawa.
+[says] (p.128) “Then you're wrong about both. You really shouldn't forget who I am.” — Ayanokōji.
+[note] (p.128–129) Laughing, Amasawa loosened her grip on Kushida's right hand, even if only slightly; at that moment he kicked the ground and dove in just as Amasawa switched to a motion to break her arm; his right hand slid down Kushida's arm and reached her wrist as his left hand went around her mouth to her back, he grabbed Amasawa's right hand.
+[says:amasawa-ichika] (p.129) “No way...” — Amasawa; it must have been a defensive instinct.
+[note] (p.129) In an instant, she abandoned the action of breaking Kushida's arm and shifted her attention to him, and tried to make a left fist with a tight grip.
+[says:amasawa-ichika] (p.129) “Fuu~!” — the forceful hold on the ground caused Amasawa to lose her breath for a moment and gasp for air; her breath caused a slight dust cloud to rise.
+[says:amasawa-ichika] (p.129) “Oh my, that was... a little unexpected.” — Amasawa; Amasawa's pride, which was always high, was deeply wounded.
+[says] (p.129) “Did you think there wasn't much difference between you and me?” — Ayanokōji.
+[says:amasawa-ichika] (p.129) “You mean I was wrong about your abilities?” — Amasawa.
+[says] (p.129) “Probably.” — Ayanokōji.
+[note] (p.129) Amasawa's fighting skills, which she had learned in the white room, are real; the fact that she and the other student had been in the white room for a long time and had learned to fight in the white room was a real advantage; even if the opponent's skill had increased from 5 to 20, or even 30, it meant nothing because his score was still 100.
+[says:amasawa-ichika] (p.129) “Since when did you think you could beat me?” — Amasawa.
+[says] (p.129) “From the moment we met.” — Ayanokōji.
+[says:amasawa-ichika] (p.129) “If that wasn't a line from Ayanokōji-senpai, you'd be rubbing salt in my wounds.” — Amasawa.
+[says] (p.129) “I'll tell you this, you seem to think that the other student might push me out of school, but did you ever wonder why I never asked for the other student's name?” — Ayanokōji.
+[note] (p.129) The smile slowly faded from Amasawa; up until now, he had never willingly sought out a white room student on his own.
+[says] (p.129) “That's because I didn't think they would be a match for me from the start.” — Ayanokōji.
+[says:amasawa-ichika] (p.129) “You're serious, aren't you, senpai?” — Amasawa.
+[says] (p.129) “It's not you who doesn't understand that, right, Amasawa?” — Ayanokōji.
+[note] (p.129) Even if you had only half-heartedly practiced martial arts, you would not have had any real feeling for it yet; but Amasawa was different; in less than 10 seconds of total movement, the match had already been decided by a wide margin.
+[says] (p.129–130) “You and the other student should have challenged me at an early stage. You shouldn't have gone around and involved the people around you in the fun.” — Ayanokōji.
+[says:amasawa-ichika] (p.130) “So, you understood why I contacted Kushida-senpai...” — Amasawa.
+[says] (p.130) “It all connected just now. And now the unexpected is about to happen.” — Ayanokōji.
+[says:amasawa-ichika] (p.130) “The unexpected?” — Amasawa.
+[says] (p.130) “After 3 p.m., keep an eye on the student council chambers. You are not to be seen in front of anyone. Then you'll have all the answers.” — Ayanokōji; seeing Amasawa's strength slowly slipping away, he released the restraints.
+[says] (p.130) “We've wasted a lot of time. Let's go back to the maid cafe.” — Ayanokōji.
+[says:amasawa-ichika] (p.130) “Is it okay leaving her?” — Amasawa.
+[says] (p.130) “It's okay. You don't have to worry about your past being exposed.” — Ayanokōji.
+[says:kushida-kikyou] (p.130) “How could Ayanokōji-kun know that?” — Kushida rushed after him.
+[says] (p.130) “Don't worry about it, but you can trust me.” — Ayanokōji.
+[says:kushida-kikyou] (p.130) “Who is Ayanokōji-kun?” — Kushida.
+[says:kushida-kikyou] (p.130) “I don't know anything about fighting, but I can tell you you're not normal.” — Kushida.
+[note] (p.130) That question would be inevitable if you had witnessed the conversation and fight with Amasawa earlier.
+[says] (p.130) “It's not uncommon for classmates to learn martial arts. Horikita and Ibuki, even Ryūen and Akito should be strong in fights, even if they are self-taught. It's not like boys and girls can compete with each other from the start.” — Ayanokōji; he would explain that it was only overwhelming due to the gender difference; whether Kushida would be convinced by that is another matter.
+[says:kushida-kikyou] (p.130) “Yeah, sure.” — Kushida replied, bowing her head as if she had made up her mind to do something.
+[says:kushida-kikyou] (p.130) “Thank you for helping me.” — Kushida.
+[note] (p.130) An unexpected thank you from Kushida; of course, Kushida was easily more down-to-earth than most people on the external front.
+[says:kushida-kikyou] (p.130) “You don't think I'm sincerely grateful, but that's fine. I just felt like saying so, even if it's a lie.” — Kushida.
+[says] (p.130) “It's not a big deal. It's more of a natural behaviour for a classmate.” — Ayanokōji.
+[says:kushida-kikyou] (p.130) “Then you don't have to consider this as a debt, right?” — Kushida.
+[says] (p.130) “Of course.” — Ayanokōji.
+[note] (p.130) If he did consider her to be in his debt because of what happened, she wouldn't really be able to repay him.
+[rel:amasawa-ichika] (p.125–130) The indoor pool grab; the wrist lock; the White Room score comparison; the 3 p.m. warning.
+[rel:kushida-kikyou] (p.121–130) The cookie run; the pool grab rescue; the truth exchange; her bowed thanks.
 
 ### y2v7 p.131–142 — Haruka's revenge; Airi's maid uniform and SNS
 [scene] (p.131) With the café overcrowded, Kushida suggests using the spare maid uniforms; Ayanokōji realizes Haruka and Akito plan to *withdraw* after the festival as revenge (costing ~600 class points), and that Haruka plans to visit Airi afterward.

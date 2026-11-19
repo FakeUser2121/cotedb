@@ -1949,6 +1949,35 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:sudou-ken] (p.100) The nudge was overheard; Yōsuke flags it.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.110 — The boys' final meeting
+[scene] (p.110) The final check; Sudō and some of the male team members were not listening to the announcements and were having their final meeting with Yōsuke; they were short two students; he approaches the problem immediately.
+[note] (p.110) We had to keep our feet on the ground about what to do when it gets crowded or in case of trouble; after giving out all the instructions, they realized they were short two students.
+[rel:sudou-ken] (p.110) The final meeting with the boys before the festival.
+
+### y2v7 p.116 — The stalls are doing better than expected
+[scene] (p.116) Yōsuke came out of the classroom, concerned that Ayanokōji didn't come back right away.
+[says] (p.116) “What's wrong, Kiyotaka-kun?” — Yōsuke.
+[says:ayanokouji-kiyotaka] (p.116) “Sorry, I was approached by a guest who got a little lost and had to be dealt with. Any trouble?” — Ayanokōji.
+[says] (p.116) “Orders are starting to not turn out well. The stalls seem to be doing better than expected.” — Yōsuke.
+[says:ayanokouji-kiyotaka] (p.116) “I see, the turnover is getting out of control. I'll be right there.” — Ayanokōji.
+
+### y2v7 p.124–125 — Kushida's cookie run; the missing ace
+[scene] (p.124) The line crisis; Yōsuke watches Kushida's cookie run with respect.
+[says] (p.124) “Kushida-san's abilities are quite something. This is her element, I guess.” — Yōsuke nodded his head in respect.
+[says] (p.124) “It seems that Kushida-san and Horikita-san, who have been facing strong headwinds, will also have some tailwinds.” — Yōsuke.
+[says] (p.124) “Still, I'm fine with it, as long as Kushida-san is able to fight alongside everyone in the class.” — Yōsuke.
+[says] (p.124) “I'm really impressed by what I'm seeing.” — Yōsuke.
+[says] (p.124) “I think it's a cumulative process. During the preparations for the festival, Kushida-san visited Horikita-san's room late at night several times. I think they were practicing.” — Yōsuke's deduction.
+[note] (p.124) “People are creatures that resent easily, but on the other hand, they are also creatures that admit easily.” — the narration.
+[scene] (p.125) Mii-chan came out of the room, looking busy; Kushida-san, who was supposed to be organizing the line, had disappeared; Yōsuke called out to the guests in line.
+[says] (p.125) “Excuse me, have you seen a girl standing in line here?” — Yōsuke called out to the guests in line.
+[says:wang-mei-yu] (p.125) “Um, Ayanokōji-kun, where is Kushida-san?” — Mii-chan came out of the room, looking busy.
+[rel:kushida-kikyou] (p.124–125) Her cookie run; her disappearance; the guests say she followed a girl with two knots.
+[rel:wang-mei-yu] (p.125) The messenger for the missing Kushida.
+[rel:karuizawa-kei] (p.110) Kei encourages Satō from behind the scenes.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

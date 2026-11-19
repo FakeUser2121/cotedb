@@ -539,6 +539,24 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:matsushita-chiaki] (p.85–86) Matsushita backs her complaint to Horikita — “But it's a lie that she has to do things every day, isn't it?”
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.110 — The cheek-slap ritual; the opening
+[scene] (p.110) The maid café's opening morning; Satō and the other maids discuss the shift change due to Matsushita's absence; Satō clasped her hands together in anxiety, but quickly slapped her own cheeks between her palms to regain confidence.
+[says] (p.110) “We can do it, we can do it!” — Satō.
+[says:karuizawa-kei] (p.110) “Maya-chan will be fine. I'll back you up too.” — Kei, cheerfully encouraging her.
+[says] (p.110) “Yeah, I'll do my best!” — Satō.
+[scene] (p.112) “Welcome!” — Satō's cheerful voice echoed in the classroom; the first guest to enter the store was a man who appeared to be in his 40s; Satō showed him to his seat and took the menu list and cold drinks to his table.
+[says] (p.112) “Let me show you to your seat.” — Satō.
+[note] (p.112) Satō's voice was cheerful, but her movements were stiff, since she wasn't entirely comfortable yet; still, thanks to the rehearsal the day before, there were no major mistakes.
+[says] (p.113) “Sato-san will show you around. “ — Satō.
+[says] (p.113) “Well then, if you'll follow me....” — Satō.
+[note] (p.113) Satō immediately approached to serve the customer and began to lead him to an empty seat.
+[rel:karuizawa-kei] (p.110) She backs her firmly; their bond deepened after the hurdle.
+[rel:matsushita-chiaki] (p.110–112) The shift change due to Matsushita's illness.
+[rel:ike-kanji] (p.110–113) Ike stands shoulder to shoulder with Shinohara.
+[rel:shinohara-satsuki] (p.110) She stands shoulder to shoulder with Ike.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

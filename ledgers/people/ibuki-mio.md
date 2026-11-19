@@ -1114,6 +1114,33 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:shiina-hiyori] (p.88–89) Hiyori names Ibuki as her upcoming coworker at checkout — she lost.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.119–120 — The corridor flyer girl in the kimono
+[scene] (p.119) §4 — on the way back to the special wing, Ayanokōji spotted a Japanese-style girl holding a leaflet in a corner of a largely empty corridor — Ibuki; she hands leaflets to the occasional adult passing by, halfheartedly.
+[says] (p.119) “Shisase!” — the way she handed the leaflets; it reminded him of the lethargic adults at the Keyaki Mall handing out tissues.
+[says:ayanokouji-kiyotaka] (p.119) “Can I have one?” — Ayanokōji.
+[says] (p.119) “Shassu.” — Ibuki.
+[note] (p.119) She offered him a small thank-you and a leaflet; as he took it, her eyes locked onto him.
+[says] (p.119–120) “Geez.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “You've been handing out flyers in a place like this, Ibuki?” — Ayanokōji.
+[says] (p.120) “Go away.” — Ibuki with a disgusted expression on her face.
+[says:ayanokouji-kiyotaka] (p.120) “I'd heard about you, but I guess that means you're keeping your word.” — Ayanokōji; he had heard that she would dress in a kimono after losing the match with Ryūen.
+[says:ayanokouji-kiyotaka] (p.120) “I guess clothes make the man, huh?” — Ayanokōji; she stared at him intensely, but he was relieved that she didn't seem to understand much of what he meant.
+[says] (p.120) “It's nothing.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “By the way, what did you confront Ryūen with?” — Ayanokōji.
+[says] (p.120) “I would have preferred a tie-up, but he suggested we play a card game.” — Ibuki; the content of the game itself was not important; the fact that it was a suggestion from Ryūen was what caught her attention; maybe Ibuki was successfully entrapped.
+[says:ayanokouji-kiyotaka] (p.120) “Card game? You mean like poker or something like that?” — Ayanokōji.
+[says] (p.120) “Well, it's similar.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “I'll spread the word later about what you've been working so hard to promote here.” — Ayanokōji.
+[says] (p.120) “Don't spread it. I'll kick your ass.” — Ibuki; he quickly dodged a sharp kick as her costume shook.
+[note] (p.120) “Damn it.” — Ibuki.
+[says] (p.120) “Oh, by the way, the greeting at the café is 'Welcome home, master.' Try it out.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “I'll say it if you'll take my kick to your face.” — Ayanokōji.
+[says] (p.120) “I think I'll have to pass.” — Ibuki; she raised her leg slightly to threaten him, so he shrugged and left.
+[rel:ryuuen-kakeru] (p.119–120) The match she lost for complete exemption — she still works here, handing out leaflets.
+[rel:ayanokouji-kiyotaka] (p.119–120) The kimono; the corridor handouts; the card game; the kick.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

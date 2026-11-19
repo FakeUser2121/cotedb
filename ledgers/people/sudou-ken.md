@@ -1950,6 +1950,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.100) Sudō's feelings were strongly directed toward Horikita.
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+
+### y2v7 p.110 — The boys' final meeting
+[scene] (p.110) The final check — Sudō and some of the male team members were not listening to the announcements and were having their final meeting with Yōsuke.
+[note] (p.110) We had to keep our feet on the ground about what to do when it gets crowded or in case of trouble.
+[rel:hirata-yousuke] (p.110) The boys' final meeting together.
+[rel:ike-kanji] (p.110) Ike stands shoulder to shoulder with Shinohara nearby.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

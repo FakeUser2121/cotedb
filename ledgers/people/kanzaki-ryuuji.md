@@ -869,6 +869,22 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [trait] (p.70–71) He could never claim, having seen Himeno's example, that he is alone in the class; the two of them take a childlike step forward.
 <!-- walk: y2v7 Ch.2 → p.71 -->
 
+
+### y2v7 p.112–113 — Kanzaki's visit; the Himeno note
+[scene] (p.112) Afternoon — Kanzaki approaches Ayanokōji; "Looks like you're already thriving."
+[says] (p.112–113) “Looks like you're already thriving.” — Kanzaki.
+[note] (p.113) Ichinose's class's offering was, as he recalled, sweets-based — crepes and chocolate bananas.
+[says:ayanokouji-kiyotaka] (p.113) “What about you?” — Ayanokōji.
+[says] (p.113) “The kids love them. But the adults are not as receptive as we thought they would be, so we're not sure if we can aim for the top spot in terms of sales.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.113) “You may have a hard time, then.” — Ayanokōji.
+[says] (p.113) “Probably, but my priorities have shifted so I'm not entirely concerned about this festival at the moment.” — Kanzaki; “Apparently, the first step towards change with Himeno may have worked.” — the narration.
+[says] (p.113) “I'm going to the gym now. I want to learn what I can from the third years for the future.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.113) “I see. See you later.” — Ayanokōji.
+[rel:ichinose-honami] (p.112–113) The sweets stall; her class's fate is no longer his top priority.
+[rel:himeno] (p.113) The narration notes the first step toward change with Himeno may have worked.
+[rel:ayanokouji-kiyotaka] (p.112–113) The quiet checkpoint between them.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

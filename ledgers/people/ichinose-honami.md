@@ -1908,6 +1908,15 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kiriyama-ikuto] (p.78) The thorny remarks.
 <!-- walk: y2v7 Ch.3 → p.83 -->
 
+
+### y2v7 p.112–113 — The sweets stall report
+[mentioned] (p.112–113) Ichinose's class's offering was, as Kanzaki recalls, sweets-based — crepes and chocolate bananas; "The kids love them. But the adults are not as receptive as we thought they would be, so we're not sure if we can aim for the top spot in terms of sales." — Kanzaki.
+[rel:kanzaki-ryuuji] (p.112–113) He reports the sweets-stall math; his priorities have shifted.
+
+### y2v7 p.120 — The counter-flyer war spreads
+[mentioned] (p.120) Ordinary students begin to hear about the one-on-one match-up; speculation led to rumors, and rumors led to speculation — "Did you hear Horikita's class and Ryūen's class are playing for a lot of money?" / "I heard that the leader of the losing class is getting expelled?" — spreading through the school.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

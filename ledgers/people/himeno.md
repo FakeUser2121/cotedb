@@ -44,3 +44,8 @@ char_id: himeno · class: Class 2-D (Ichinose) · status: student (y2v7)
 [note] (p.71) Ayanokōji's closing read: "it looks like they may be more successful than expected. They may really beat Horikita's class in the end-of-year exam. Either way, it doesn't hurt my plans."
 [trait] (p.70–71) Passionate and decisive once roused — she reveals her long-hidden wish to graduate from Class A, takes a “childlike step forward,” and recruits Kanzaki for a girl she is curious about.
 <!-- walk: y2v7 Ch.2 → p.71 -->
+
+### y2v7 p.113 — Named in narration
+[mentioned] (p.113) “Apparently, the first step towards change with Himeno may have worked.” — the narration.
+[note] (p.113) Named only — the first step of the two-person plan may be working.
+<!-- walk: y2v7 Ch.5 → p.130 -->
