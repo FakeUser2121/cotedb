@@ -1608,6 +1608,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 
 
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->

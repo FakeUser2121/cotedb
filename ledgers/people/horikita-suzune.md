@@ -4813,6 +4813,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:horikita-manabu] (p.77) Her undelivered letter to her brother — unnamed on the page.
 
 <!-- walk: y2v7 Ch.3 → p.83 -->
+### y2v7 p.90–101 — The rehearsal; Satō's failed appeal; the sign-off
+[scene] (p.84) The day before the festival; after school is the rehearsal led by the student council; Horikita's class runs four booths; 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
+[note] (p.84) Horikita being about to get up from her seat when Satō confronted Kushida — Yōsuke stopped her as if he had anticipated this; tactically, to avoid showing Kushida's special treatment to the class.
+[says] (p.86) “I know what you mean. But I don't intend to remove her at the moment.” — Horikita, on Kushida.
+[says] (p.86) “That may be so. I don't know why she doesn't participate in practice either.” — Horikita.
+[says] (p.86) “Don't worry. She's thinking about the festival and the maid cafe in her own way. Just believe in Kushida-san.” — Horikita.
+[note] (p.86) “Well, I guess you could say that we won't get anywhere if I don't believe in her...” — Matsushita looked unconvinced, but nodded and turned to follow Satō.
+[note] (p.89) Horikita examined the completed room before leaving to check its condition.
+[note] (p.92) Horikita was standing nearby; Matsushita's expression was a little stiff; Horikita joined Yōsuke's read on Kushida's late-night practice sessions; she confirmed the sabotage fear was unfounded — “Don't worry about that. It's not in their best interest to interfere in the practice stage.”
+[note] (p.100–101) “Maybe I should reassign you to the stalls too.” — Ayanokōji. — “Don't reassign me just because of a personal gripe.” — Horikita, starting to say something nasty, but quickly backing down because she wasn't serious.
+[note] (p.100) “I've been thinking about it a lot, but it just doesn't feel right for you to be a maid,” — Ayanokōji's line to her; orientation only.
+[says] (p.100) “I don't want to do it, but it would be nice to have more hands, wouldn't it? It would have been a little easier if your girlfriend had cooperated.” — Horikita.
+[note] (p.101) It seemed that Satō and the others, including Ayanokōji, had approached Kei, but she refused to wear the maid's uniform; not everyone understood Kei's body and her past.
+[says] (p.101) “I've made some adjustments based on today's simulation.” — Horikita.
+[says] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
+[rel:kushida-kikyou] (p.85, 91) She holds the line of trust — “Believe in Kushida-san.”
+[rel:matsushita-chiaki] (p.86) She took Matsushita's worry seriously — Kushida's silence before the festival.
+[rel:satou-maya] (p.84, 92) Satō's failed appeal; her trust line; her certification of Kushida.
+[rel:karuizawa-kei] (p.100–101) The maid question — Kei's refusal; Horikita nobly leaves it to Kei's will.
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.107–109 — 6 a.m.; the leak rumor; the council headcount
 [scene] (p.107) The festival arrives; the gates open at 6:00 a.m.; the festival begins at 9:00; Ayanokōji and Horikita meet at the lobby of the dormitory at 6:00 to do a final confirmation.
 [says] (p.107) “Good morning. Is that cardboard by any chance the one you were talking about?” — Horikita.
@@ -4890,6 +4911,10 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.121) §5 — the confrontational attitude from the flyer war drew too many customers; the classroom seats were filled to the limit; the only solution was to make the visitors wait in line.
 [says] (p.121) “That's not good. Customers are starting to leave the line.” — Horikita's side of the phone line.
 [rel:kushida-kikyou] (p.121) She volunteers to leave customer service with "I have an idea" — the cookie run begins.
+### y2v7 p.126, 127 — The pool episode runs without her
+[mentioned] (p.126) “Why was Kushida so adamant about expelling me from the school in a unanimous special exam?” — Horikita kept to her role; the pool-area confrontation (Kushida vs Amasawa vs Ayanokōji) unfolded without her.
+[mentioned] (p.127) “This is enough, Amasawa.” — Ayanokōji's line; the intercession happens without Horikita; she is on her mandatory break.
+[note] (p.124, 127) The maid café sold everything out by 4:00; Horikita was on her mandatory break at 3:00; she saw or learned the outcome later — neither page has her speaking; the fight happened in parallel while she was away.
 
 <!-- walk: y2v7 Ch.5 → p.130 -->
 ### y2v7 p.131–151 — The backstage hold; the Haruka return
@@ -4926,7 +4951,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:miyake-akito] (p.148) He arrived with her at the same time.
 [rel:satou-maya] (p.148) “Welcome back!” — Satō shouts.
 [rel:matsushita-chiaki] (p.131) Ishikura substituted for her.
-
+### y2v7 p.153 — The hidden gem: Chabashira-sensei's hire
+[mentioned] (p.153) “About two weeks ago. I had it in mind as a hidden gem for the festival.” — Ayanokōji; the 100,000-point hire was decided without her input; the whole school heard about it at once; Horikita was not on the inside of this plan either.
+[rel:chabashira-sae] (p.153) The Chabashira maid hire was a final push — “About two weeks ago. I had it in mind as a hidden gem for the festival.” — she finds out only afterward.
 <!-- walk: y2v7 Ch.6 → p.160 -->
 ### y2v7 p.161 — 3:00 p.m.; the break; slipping away to the student council room
 [scene] (p.161) At 3:00 p.m., Horikita's job at the festival had come to an end; she left the classroom, leaving Ayanokōji-kun in charge, just as their hidden gem made an exciting appearance.
@@ -5391,6 +5418,8 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:miyake-akito] (p.184–186) His return; he leaves with her again.
 [rel:hasebe-haruka] (p.184–202) The plan; the uniform; the reconciliation.
 [rel:kushida-kikyou] (p.185) She speaks for Airi in front of everyone.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

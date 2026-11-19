@@ -1870,6 +1870,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [number] (p.8) Sudō's additional funds: 10,000 (club activity, the maximum); the class's total 39,400.
 [rel:horikita-suzune] (p.8) Shared the 10,000 maximum with her and Onodera.
 [rel:onodera-kayano] (p.8) Shared the 10,000 maximum with her and Horikita.
+### y2v7 p.9 — Named as a standout student
+[mentioned] (p.9) “Other students, such as Sudō and Onodera, were considered to be head and shoulders above the rest in their contributions to club activities throughout the entire school year.” — the narration.
+[note] (p.9) Sudō and Onodera received the additional-funds maximum (10,000 each) for club activity; Horikita's class's total 39,400.
 ### y2v7 p.11–13 — Midterm results: 11th place, 367 points
 [scene] (p.11–13) Second-semester midterm results announced; Keisei first (perfect score), Horikita second (3 points behind), Sudō 11th of 38 with a well-balanced 367 — the surprise of the class.
 [number] (p.11–12) Sudō's scores: 73 Modern Japanese, 76 Chemistry, 70 Social Studies, 78 Mathematics, 70 English — total 367; only ~15 points above the bottom 20.
@@ -1954,7 +1957,16 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.110) We had to keep our feet on the ground about what to do when it gets crowded or in case of trouble.
 [rel:hirata-yousuke] (p.110) The boys' final meeting together.
 [rel:ike-kanji] (p.110) Ike stands shoulder to shoulder with Shinohara nearby.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.158 — The wall Sou and his team make
+[mentioned] (p.158) “Sudō and his team rushed to create a wall of people and tried to get them to form a line, but it was becoming a crowd as some adults sought to somehow look into the classroom.” — the wall; the adults poured in; it kept them in line somehow.
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.185 — At Yamauchi's name
+[mentioned] (p.185) “At the mention of Yamauchi's name, Sudō, Ike, and the others seemed to be thinking back.” — Yamauchi is named in Haruka's confession speech; Sudō and Ike are in the room.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

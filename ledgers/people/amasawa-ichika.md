@@ -334,6 +334,11 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.104, 108 — Named in passing
+[mentioned] (p.104) “Rather, she was clearly more tolerant than the average student, perhaps due to her repeated contact with unusual people like Ayanokōji, Ryūen, or Amasawa.” — the narration; she is named as one of the unusual people Kushida learned from.
+[mentioned] (p.108) “First-year students? No, I don't. I talk to Nanase or Amasawa once in a while, but that's about it.” — Ayanokōji's answer to Horikita; she is named as one of his rare contacts among first-years.
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.125–130 — The indoor pool grab; the wrist lock; the 3 p.m. warning
 [scene] (p.125) Behind the indoor pool facility; Amasawa has Kushida; Ayanokōji finds them; Kushida was about to slip away for 10-20 minutes to talk to Amasawa-san.
 [says:kushida-kikyou] (p.125) “So don't make me say it again…” — Kushida, who was probably having a heated conversation with her friend, was shouting at her.
@@ -427,6 +432,9 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [mentioned] (p.161) “He seemed to have a connection with Amasawa-san and was extremely physically dangerous.” — Horikita's read of Yagami-kun; his link to Amasawa is one of the reasons he might leave school.
 [note] (p.161) Narration (unquoted); Horikita decides to watch him before he forces Ayanokōji-kun out.
 [rel:yagami-takuya] (p.161) Named as physically dangerous and tied to Amasawa.
+### y2v7 p.168 — The island letter: torn up by Amasawa
+[mentioned] (p.168) “I'm afraid that's impossible. I had a little trouble and lost that paper.” — Horikita; “Amasawa-san confronted me on the island and tore it up into little pieces.” — the paper on the island was destroyed by Amasawa-san.
+[rel:horikita-suzune] (p.168) Amasawa destroyed the island letter — that's why Horikita can't confirm the handwriting.
 ### y2v7 p.181–182 — She arrives with red, swollen eyes
 [scene] (p.181) The door to the student council room opened, revealing Amasawa-san with red, swollen eyes; Yagami-kun stopped moving in a situation where no one's words were likely to reach him.
 [says] (p.181) “Let's stop now, Takuya.” — Amasawa.
@@ -452,6 +460,8 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [note] (p.182) Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
 [rel:yagami-takuya] (p.161, 181–182) She arrives with red, swollen eyes; stops his rampage; walks out with him under adult escort.
 [rel:ayanokouji-kiyotaka] (p.181) She knows Yagami is devoted to Ayanokōji; "but I didn't know you were that stupid."
+
+
 <!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8

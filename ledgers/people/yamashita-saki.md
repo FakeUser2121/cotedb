@@ -64,6 +64,12 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y2v7 → start -->
 
+
+### y2v7 p.119 — Yamashita seen handing out over there
+[mentioned] (p.119) “Maybe you should move to more places. I saw Yamashita and the others handing them out over there.” — a line on p.119; Yamashita and others were handing outleaflets at a different spot; the festival crowd is deep in the §2 "Hand them out" beat.
+[note] (p.119) No class, no status, no further detail on this page — Yamashita's role in the festival is limited to handing out at the other spot.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v11
 
 <!-- walk: y2v11 → start -->

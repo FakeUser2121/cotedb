@@ -827,6 +827,10 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:nomura-yuuji] (p.27) He is named by Ike as one of the three in the lobby.
 
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.91 — Named as the sabotage candidate
+[mentioned] (p.91) “When Ryuen-kun's class came over to the maid cafe, I was afraid they'd bring Ishizaki-kun and the others over and say there were bugs in the cups or something...” — Matsushita's sabotage fear names Ishizaki and his friends.
+[rel:matsushita-chiaki] (p.91) Her fear puts him in the sabotage line-up.
+[rel:yamada-albert] (p.91) The sabotage line-up includes Albert alongside Ishizaki.
 ### y2v7 p.96–98 — The protein scam
 [scene] (p.96) §3 — Ishizaki's booth — a desk and cardboard; disposable chopsticks and cups on the table give the impression of dining; Kei stares at the booth suspiciously.
 [says] (p.96) “Yo, Ayanokōji!” — Ishizaki.
@@ -874,7 +878,12 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ishizaki-daichi] (p.96–98) The protein scam; Ryūen's blessing; Kei's conditions.
 [rel:yamada-albert] (p.96–97) Albert's mumbled English — the duo.
 [rel:karuizawa-kei] (p.96–98) The scam attempt; her vomiting reflex; the resentful glances.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.189 — Named as a close associate left out of the secret
+[mentioned] (p.189) “Even close associates such as Ishizaki and Albert were no exception.” — not informed of the planned-leak agreement; they were kept in the dark.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

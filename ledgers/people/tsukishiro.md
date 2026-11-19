@@ -390,6 +390,16 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v7 → start -->
 
+
+### y2v7 p.115 — Tsukishiro's shadow on the festival
+[mentioned] (p.115) “After eliminating Tsukishiro, all we have to do is eliminate the white room students and peace will return.” — the mysterious man's line, recalled.
+[mentioned] (p.115) “In fact, they decided to use Tsukishiro to forcefully hold the festival, so it” — the backroom agreement that forced the festival to happen.
+[note] (p.171) “But I didn't break any rules, you know? It's just school policy. I was standing in as student council president with Director Tsukishiro to maintain fairness. Am I right? Yagami.” — Nagumo's line to Yagami; Nagumo lied about being powerless; he was actually standing in for Tsukishiro as student council president.
+[note] (p.171) "There had been relentless special exams at this school, but she (Horikita) didn't think that was even possible." — the reliability of the 2nd-year special exam chronicles remains unresolved.
+[rel:nagumo-miyabi] (p.115, 171) Nagumo was standing in as student council president when Director Tsukishiro was involved.
+[rel:yagami-takuya] (p.171) Yagami knew about Tsukishiro's involvement.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

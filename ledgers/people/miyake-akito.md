@@ -676,6 +676,16 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.107 — Named in the leak rumor
+[mentioned] (p.107) “Speaking of which, did you hear? It's rumored that Hasebe-san and Miyake-kun may have been the ones who leaked the information about the maid cafe.” — Horikita; information came down from Kei.
+[rel:hasebe-haruka] (p.107) Both are suspected — unfairly, in Ayanokōji's read.
+[rel:karuizawa-kei] (p.107) The source of the rumor chain.
+### y2v7 p.110 — The missing pair
+[mentioned] (p.110) “Hasebe-san and Miyake-kun seem to be missing.” — Horikita's flag to Ayanokōji.
+[mentioned] (p.111) “I'm sure you'll be able to handle Hasebe-san and Miyake-kun just fine.” — Horikita; she trusts Ayanokōji to handle them.
+[rel:hasebe-haruka] (p.110–111) They have not shown up.
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
 ### y2v7 p.131–152 — The Keyaki Mall confrontation; the withdrawal letters torn
 [scene] (p.135) §1 — Akito stands near Haruka on the bench on the road leading to the Keyaki Mall; the two withdrawal letters are in their pockets; AK arrives.
 [says:ayanokouji-kiyotaka] (p.135) “I know you and Airi used to chat around here after school.” — Ayanokōji.
@@ -854,7 +864,13 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.135–151) He finds them; the uniform box; the SNS gambit.
 [rel:kushida-kikyou] (p.145–151) The SNS discovery; the phone snatch.
 [rel:sakura-airi] (p.139–151) Shizuku; the auditions; the idol SNS.
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.186 — The group of five becomes three
+[mentioned] (p.186) “Keisei walked up to Haruka and Akito, somewhat hesitantly.” — the three of them made up their minds to signal to Haruka and Akito.
+[note] (p.186) "The group of five was now three, but I hoped that the bond between them would be stronger than before. That place doesn't need me." — Ayanokōji's farewell; Keisei is part of the reconciled trio.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

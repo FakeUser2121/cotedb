@@ -1924,6 +1924,8 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y2v7 p.12 — The honor roll
 [scene] (p.12) The midterm results list: Yōsuke is named among the honor roll alongside Kushida, Matsushita and Wang.
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
+### y2v7 p.13 — Named among the meeting candidates
+[mentioned] (p.13) “It would be more effective to include boys such as Yōsuke in the meeting, but” — the narrator lamenting Yōsuke's absence from the maid-café meeting preparation; he was busy with club activities.
 ### y2v7 p.15 — Excluded from the inspections for club reasons
 [note] (p.15) “It would be more effective to include boys such as Yōsuke in the meeting, but unfortunately, they were busy with club activities at the moment.” — excluded from the maid café inspections for club reasons.
 ### y2v7 p.28–31 — Yōsuke learns of the Ryūen alliance
@@ -1937,6 +1939,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ryuuen-kakeru] (p.28–31) Yōsuke pushes the clarifying question at him; Ryūen's answer confirms the copy and the wager.
 
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.85 — The one who stopped Horikita
+[mentioned] (p.85) “seat, but Yōsuke, who was standing beside her, stopped her as if he had anticipated this” — Yōsuke stops Horikita from getting up when Satō confronted Kushida; tactically, to avoid showing Kushida's special treatment to the class.
+[note] (p.85) “It can be said that this is an uncharacteristic behavior of Yōsuke” — he kept a level head when Horikita couldn't.
+[rel:horikita-suzune] (p.85) He stops her from intervening.
+[rel:kushida-kikyou] (p.85) His foresight on the scene keeps things even.
 ### y2v7 p.100 — Yōsuke heard the Onodera nudge
 [scene] (p.100) §After the cleanup; Yōsuke, standing by, seemed to have heard Ayanokōji's conversation with Sudō.
 [says] (p.100) “Kiyotaka-kun, was that… okay?” — Yōsuke.
@@ -1972,7 +1979,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.124–125) Her cookie run; her disappearance; the guests say she followed a girl with two knots.
 [rel:wang-mei-yu] (p.125) The messenger for the missing Kushida.
 [rel:karuizawa-kei] (p.110) Kei encourages Satō from behind the scenes.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.147 — Named in Ayanokōji's promise
+[mentioned] (p.147) “Kushida is there, Horikita is there, Yōsuke is there. Whatever the situation, we'll get along fine.” — Ayanokōji's reassurance to Akito about Haruka's return.
+[rel:hasebe-haruka] (p.147) Yōsuke is named as one of those she will have trouble getting along with.
+### y2v7 p.151 — The switch offer
+[mentioned] (p.151) “Shall I switch with Yōsuke?” — Ayanokōji offers to switch with Yōsuke at the maid café; Haruka raises her hand to stop him.
+[rel:hasebe-haruka] (p.151) His switch offer to his classmate is rebuffed gently.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v8
 

@@ -271,6 +271,10 @@ char_id: wang-mei-yu · status: minor
 [rel:matsushita-chiaki] (p.16) Matsushita took a peek at her phone and reported the occupied candidates.
 [rel:maezono] (p.16) The floor debate: second floor vs third floor.
 [rel:horikita-suzune] (p.15, 20) The planner circle; Horikita decides and applies by phone.
+### y2v7 p.26 — Named among the struggling girls
+[mentioned] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the narration; Shinohara and Wang also drawn into the Satō–Kei circle.
+[note] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the default circle of friends failing; Wang's own struggle is only half resolved.
+[rel:shinohara-satsuki] (p.26) Shinohara shares her struggling status.
 
 <!-- walk: y2v7 Ch.1 → p.53 -->
 ### y2v7 p.90–92 — Mii-chan's slip; the rehearsal
@@ -303,9 +307,18 @@ char_id: wang-mei-yu · status: minor
 [says] (p.159) “I can't let any more people in! The second slot is filled up!” — Mii-chan's voice echoed like a scream.
 [rel:kushida-kikyou] (p.159) The second slot fills.
 [rel:ayanokouji-kiyotaka] (p.159) The standing-room-only plan.
+
+
+
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.190 — The honest reaction on the planner confession
+[mentioned] (p.190) “Not particularly blaming us, Satō happily confirmed to Mii-chan and Maezono.” — Satō's acceptance; Mii-chan hesitates.
+[mentioned] (p.190) “Mii-chan replied honestly, ‘I'm not even sure I'm confident enough to act.’” — Mii-chan's honest answer about the performance.
+[mentioned] (p.190) “Yes. If I had been told beforehand, it might have shown on my face.” — Mii-chan concedes that the effect would have landed differently.
+[note] (p.190) "Mii-chan replied honestly" — she concedes; she is not amused by the nerve of the plan.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

@@ -2188,7 +2188,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:miyake-akito] (p.135–152) His withdrawal letter torn; he stays.
 [rel:ayanokouji-kiyotaka] (p.131–151) The staffing crisis; the Keyaki Mall bench; the SNS gambit.
 [rel:sakura-airi] (p.139–151) Shizuku; the auditions; the idol SNS.
-
+### y2v7 p.157 — Kushida sees the standing-room crowd
+[mentioned] (p.157) “Kushida, who had been staring at the board, looked back and saw the” — Kushida watches the customers who paid the full amount to get into the viewing position disappear one by one into the classroom; she is floored by the sight of the wave.
+[note] (p.157–160) During the Chabashira-sensei hire she's the witness to the spectacle — "Wow, that's a lot of people, Ayanokōji-kun." — a stunned reply to millions of points of sales.
 
 <!-- walk: y2v7 Ch.6 → p.160 -->
 ### y2v7 p.185 — The class learns of Airi's idol SNS
@@ -2200,7 +2202,19 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.202) The class found a strategy in the suggestion of a maid café and was able to win first place; class points at the end of the November festival: Class B led by Horikita: 966.
 [rel:hasebe-haruka] (p.184–186) The SNS reveal moves her from "she can't survive" to "that girl could be a big shot" — Kushida is the one whose discovery moved the mountain.
 [rel:sakura-airi] (p.185) She tells the class Airi is working hard as an idol; SNS account exists; discoverable.
+### y2v7 p.192 — The caller explains what happened
+[mentioned] (p.192) “It seems to be a love letter to Student Council President Nagumo, but as Yagami complained, it had a somewhat complicated anagram in it. If someone deciphers it, they arrive at the sentence, ‘I have an important meeting in the student council room after 3:00 p.m.’” — Ayanokōji's account of the anagram.
+[mentioned] (p.192) “The love letter prepared in this way was passed to Horikita through another girl using Kei.” — Ayanokōji's account of the letter's relay.
+[rel:ayanokouji-kiyotaka] (p.192) Ayanokōji explains the anagram to Nagumo; she had no idea.
+### y2v7 p.197 — Named as the target of Yagami's strings-pulling
+[mentioned] (p.197) “He contacted Kushida Kikyo, pretending to be her former junior, and he used the information he was given to control and manipulate her.” — the caller's recap of Yagami's playbook.
+[mentioned] (p.197) “He provoked unrelated students on a deserted island by inflicting serious injuries to them.” — the island attack chain; the same pattern.
+[note] (p.197) The caller runs the whole playbook in one breath — the Kushida manipulation, the island attack, the letter. She's the thread connecting all of it.
+
 <!-- walk: y2v7 Epilogue → p.202 -->
+### y2v7 p.207 — Named in the credits
+[mentioned] (p.207) “Kushida is the best girl in ANHS.” — Cast#5942's editor quote on the RoyalMTL's credits page; she's named among the fan-favorite characters.
+<!-- walk: y2v7 Afterword → p.207 -->
 
 ## y2v8
 

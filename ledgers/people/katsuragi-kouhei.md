@@ -920,7 +920,18 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.30) “I can finally see the true meaning of Katsuragi-kun's words in regards to the avoidance of a penalty agreement.” — Horikita's line to Ryūen; Katsuragi's engineering of the penalty-avoidance framework.
 [rel:ryuuen-kakeru] (p.19) The relay person between the classes in Ryūen's class.
 [rel:horikita-suzune] (p.19, 30) She trusts him as the go-between; she quotes his penalty-avoidance words at Ryūen.
+
+
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.188–193 — The hidden agreement between Ryūen and Katsuragi
+[mentioned] (p.188) “There was an agreement between Ryūen and Katsuragi to receive private points in exchange for letting them earn class points. It would not surprise me if something similar happened between Sakayanagi and Hōsen.” — the epilogue's proposed explanation for the odd finale.
+[note] (p.189) “That was Ryūen-kun's idea. I was a little nervous when he suddenly said it.” — Horikita, to the planners about the bet; Ryūen-kun's idea, not hers.
+[note] (p.189) “Hashimoto and the others, who had been looking forward to the result of the bet, must have been decisive in the betting.” — Katsuragi's side was behind the bet.
+[mentioned] (p.189) “It's not that I, Ryūen, and Katsuragi couldn't have forced the issue by ourselves.” — Ayanokōji's own line; the trio of him + Ryūen + Katsuragi together.
+[note] (p.189–190) Katsuragi's three-game alliance is the hidden mover behind the 5-million-point bet's bluff: “I was a little nervous when he suddenly said it.”
+[rel:ryuuen-kakeru] (p.188–193) The two-class agreement for points over class-points — Katsuragi was the go-between.
+[rel:horikita-suzune] (p.188–193) Horikita was in on this from the start.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

@@ -1014,6 +1014,10 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.11–12) Identity recorded as printed. The roster's Keisei-adjacent rows (ishigami-kyou, ishigami-kyo-1a) carry no y2v7 cell, and the translation prints one character as both Yukimura Teruhiko and “Keisei” (the Y2V10 identical defect); the identification is NOT assigned as fact — see Coverage notes.
 
 <!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.93 — "Oh, it's Yukimura-kun and the others!"
+[mentioned] (p.93) Kei pointed at Keisei, Sotomura and the other boys busily preparing at the first-year stalls — “Oh, it's Yukimura-kun and the others!” — she and Ayanokōji left them alone.
+[note] (p.93) Identity recorded as printed; the translation prints this character here as “Yukimura-kun” — the on-page form coincides with Yukimura Teruhiko's name; not assigned as fact.
+<!-- walk: y2v7 Ch.4 → p.106 -->
 ### y2v7 p.148 — Keisei on break
 [mentioned] (p.148) “It was probably due in large to the fact that he was not the central figure in a particularly contentious situation. Unfortunately, Keisei, formerly of the Ayanokōji group, was not in sight as he had just gone on a break.” — Keisei; formerly of the Ayanokōji group; not in sight.
 [note] (p.148) Identity recorded as printed; the roster's Keisei-adjacent rows are untouched; the Keisei/Yukimura identity unresolved; not assigned.
@@ -1025,13 +1029,9 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.186) Keisei's name here matches the translation's Y2V10-era defect of printing one character one way (“Yukimura-kun” at p.93) and another (“Keisei”) here and at p.11 and p.148 and p.186; identity not assigned — see Coverage notes.
 [rel:miyake-akito] (p.186) Akito's apology; Keisei's eyes reddened; they smile slightly at each other.
 [rel:hasebe-haruka] (p.186) Haruka's apology; Keisei's eyes reddened; the eyes of those three turned to him in confusion.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
-
-
-### y2v7 p.93 — "Oh, it's Yukimura-kun and the others!"
-[mentioned] (p.93) Kei pointed at Keisei, Sotomura and the other boys busily preparing at the first-year stalls — “Oh, it's Yukimura-kun and the others!” — she and Ayanokōji left them alone.
-[note] (p.93) Identity recorded as printed; the translation prints this character here as “Yukimura-kun” — the on-page form coincides with Yukimura Teruhiko's name; not assigned as fact.
-<!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v8
 

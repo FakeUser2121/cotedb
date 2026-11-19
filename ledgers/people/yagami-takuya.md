@@ -639,7 +639,22 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:sakagami] (p.178–182) He arrived with Ryūen; helped Mashima leave.
 [rel:kinoshita-minori] (p.175–176) He is identified as such by Kinoshita.
 [trait] (p.161–183) A first-year student council secretary with document-grade handwriting; his handwritten meeting notes match the island-exam letter; physically dangerous despite his average OAA rank (C) — beat two classmates nearly to death with almost no witnesses; a White-Room-adjacent case; he was removed by the adults mid-rampage; “I'm going to be the best!” — his end.
+
+
 <!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.192 — The letter call explained
+[mentioned] (p.192) “It seems to be a love letter to Student Council President Nagumo, but as Yagami complained, it had a somewhat complicated anagram in it. If someone deciphers it, they arrive at the sentence, ‘I have an important meeting in the student council room after 3:00 p.m.’” — Ayanokōji's account to Nagumo; Yagami's name appears.
+[mentioned] (p.192) “The envelope used for the letter and the stickers that held it together were made available to anyone at any time at the Keyaki Mall.” — same explanation; anything ordinary, except the handwriting.
+[note] (p.192–193) “The love letter prepared in this way was passed to Horikita through another girl using Kei.” — Ayanokōji's recount of the letter's relay; he arranged the whole thing.
+### y2v7 p.195 — The trap on Satō names him
+[mentioned] (p.195) “Then, you most likely told Satō that it was Yagami who was behind the threats, not you.” — Ayanokōji to Tsubaki; Tsubaki framed Yagami as the phantom stalker.
+[mentioned] (p.195) “Yagami-kun is a bad guy, isn't he?” — Tsubaki's bait question; Ayanokōji declined the theatrics.
+[note] (p.195) “If Yagami was using Tsubaki to contact Satō, there's no need to bother naming names.” — Ayanokōji's deduction of Yagami's playbook; he was not behind the threats.
+
+<!-- walk: y2v7 Epilogue → p.202 -->
+### y2v7 p.206 — Yagami in the credits
+[mentioned] (p.206) “Nagumo > Yagamid.” — BGS003#2745's editor quote in the RoyalMTL's credits page — Yagami is named in the credits as the losing side of Nagumo-Yagami.
+<!-- walk: y2v7 Afterword → p.207 -->
 
 ## y2v8
 

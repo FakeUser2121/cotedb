@@ -11,5 +11,6 @@ char_id: tonomura · class: unknown · status: unknown
 [note] (p.118) "Hondo and Tonomura" — the only page in the corpus that names this person; class, given name, and status are unstated; no further entries.
 [rel:hondou-ryoutaro] (p.118) The flyer-carrying partner.
 [rel:ayanokouji-kiyotaka] (p.118) The counter-flyer run.
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
 

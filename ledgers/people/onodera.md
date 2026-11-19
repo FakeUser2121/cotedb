@@ -117,6 +117,20 @@ char_id: onodera · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
+
+### y2v7 p.8–9 — Additional funds: 10,000 club activity bonus
+[mentioned] (p.8) “● Onodera Kayano, Club Activity Bonus:10,000 points” — the on-screen list; Onodera received 10,000 (club activity) — the maximum.
+[note] (p.8–9) “Other students, such as Sudō and Onodera, were considered to be head and shoulders above the rest in their contributions to club activities throughout the entire school year.” — which Onodera — Kayano or the swimming-club captain — the text names both Sudō and Onodera, not which.
+[rel:sudou-ken] (p.8) They share the 10,000 club-activity maximum.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.99–100 — The maid envy; the unresolved name
+[mentioned] (p.99) “As I, Sudō, and the other boys started cleaning up, Onodera showed up.” — Onodera appears; she remarks on the maid uniform problem.
+[note] (p.99–100) “I like cute things too. Besides, I'm not the kind of person who looks good in a maid's uniform, my legs are too thick.” — Onodera; “They're the legs of a well-trained athlete. Well, it's certainly a little different from what you'd call a maid.” — Sudō.
+[note] (p.99) “It would be nice if both arrows were facing each other, but as it was, both arrows were going the opposite way.” — the narration.
+[note] (p.99–100) The name "Onodera" appears without a given name on these pages; the roster has two matching rows (onodera + onodera-kayano); which one the on-page Onodera is — the swimming-club athlete (Kayano) vs the generic row — has not been resolved in this walk; identity not assigned.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

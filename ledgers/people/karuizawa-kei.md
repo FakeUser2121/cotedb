@@ -1986,7 +1986,20 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.114) “I got one shot~!” — the maids' voices echo through the store; the speaker is not printed as one name; not assigned.
 [note] (p.114) Since overcoming a big hurdle, the two of them have really grown closer; their relationship as best friends won't be broken in the slightest from now on.
 [rel:satou-maya] (p.110) She backs her; their friendship won't break.
+
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.132 — The Kei suggestion Kushida makes and drops
+[mentioned] (p.132) “Yeah, why not Karuizawa-san?” — Kushida suggests Kei for the maid café; “As I recall, she has a break at 2 p.m., right?” — “Yes. She's on break right now, and even if we had her change her clothes after returning at 3:00, it's doubtful to what extent she'd be able to be of any use.” — Ayanokōji's flat answer; no action taken.
+[rel:kushida-kikyou] (p.132) She proposes Kei; Ayanokōji declines to do anything about it.
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.189–196 — The Kei threads: the secret; the squeeze bait
+[mentioned] (p.189) “I kept this fact a secret from our classmates, including Kei, with the exception of Horikita. And no one in Ryūen's class, except Ryūen and Katsuragi, had heard about it.” — Horikita's confession to the planners; Kei excluded.
+[mentioned] (p.193) “The love letter prepared in this way was passed to Horikita through another girl using Kei. Then, she was led to hand it to Yagami, giving him time to examine it.” — the caller's account; Kei was an unknowing courier.
+[mentioned] (p.195) “It seems you called Satō to your room and made cheap threats, but it wasn't a serious attempt to manipulate her into ruining our relationship. It was because you wanted to push her to act, or deal with the threat of Kei's relationship, by indirectly letting her know that we were getting close.” — Ayanokōji to Tsubaki; the bait was Kei's relationship with Satō.
+[rel:satou-maya] (p.195) Her close friendship is the handle the squeeze pulls.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

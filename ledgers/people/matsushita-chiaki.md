@@ -343,7 +343,22 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [mentioned] (p.107) Matsushita contacted Ayanokōji early in the morning and reported that she had to take the day off due to illness — a cough and other symptoms; she could not perform a job that required customer service, and if the cold spread it would affect the class during the festival; she could not be entrusted with a heavy workload even if reassigned — she led the maid café to this point.
 [rel:satou-maya] (p.107) Her illness triggers the shift-change discussion; Satō carries the opening.
 [rel:ayanokouji-kiyotaka] (p.107) The early call; he understands the need for reassignment preparation.
+### y2v7 p.110 — Named in the absence record
+[mentioned] (p.110) “due to Matsushita's absence.” — the shift change discussion; she contacted him early in the morning and reported she had to take the day off due to illness.
+[rel:ayanokouji-kiyotaka] (p.107–110) He cross-checks the personnel situation against his own read.
+
 <!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.131 — The sick substitute
+[mentioned] (p.131) “The remaining three were Ishikura, who had substituted for Matsushita,” — Ishikura substituted for Matsushita at the festival; Kushida and Inogashira covered flyers.
+[note] (p.131) Ishikura's substitution is the unacknowledged difference.
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.188 — Named as absent from the meeting
+[mentioned] (p.188) “They were the three maid cafe planners, with the exception of Matsushita, who was absent due to illness.” — the Three Maid Café Planners met with Horikita; Matsushita absent.
+[note] (p.188–190) The meeting's agenda addressed the leak's true nature; she was not present for the confession.
+### y2v7 p.190 — The sentimental exit
+[mentioned] (p.190) “Yes, it's a weight off my shoulders. You guys can tell Matsushita-san about this.” — Horikita's relief confession; Matsushita gets informed second-hand.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

@@ -10771,6 +10771,10 @@ walk: y1v1 → DONE
 [mentioned] (p.161) “I never thought that you would really make Chabashira-sensei into a maid.” — Horikita, leaving the classroom; the hidden gem worked as planned.
 [note] (p.161) “He seemed to have a connection with Amasawa-san and was extremely physically dangerous.” — Horikita's interior about Yagami-kun (unquoted); a person who may end up being a reason for Ayanokōji-kun to leave school; she handles the problem herself while he runs the maid café.
 [rel:horikita-suzune] (p.161) She leaves the festival to him; she goes to handle the Yagami problem.
+### y2v7 p.168 — Named in the infirmary whisper
+[mentioned] (p.168) "That's what she had learned before with Ayanokōji-kun. But it was clear from her demeanor that it wasn't just a matter of looks." — Ibuki-san's intuition about Yagami-kun; she has learned from Ayanokōji-kun before.
+[note] (p.168–169) Her read on Yagami is informed by Ayanokōji-kun — she warns Horikita about harmless-looking people being the most dangerous.
+[rel:ibuki-mio] (p.168) Her instinct is running on Ayanokōji-kun's old training.
 ### y2v7 p.174–178 — Named by Yagami as the mastermind
 [mentioned] (p.174) “Everything is under the direction of Ayanokōji-senpai, who created the anagram of this letter, isn't it?” — Yagami-kun, addressing both Horikita and Nagumo; Yagami names him as the architect of the anagram letter.
 [mentioned] (p.174) “I feel bad for him. I'm sure he had already arrived at this conclusion far before I even had to show you the notes, Horikita-senpai.” — Yagami-kun; Yagami's inference, not fact.
@@ -10948,6 +10952,8 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.187–188, 202) The brochure trick; 4th place; 1,201 class points.
 [rel:housen-kazuomi] (p.187–188, 202) 12th place; the rumor about the Hōsen contract.
 [rel:chabashira-sae] (p.184, 199–202) She runs out at 4; the staff room praise; the final plan.
+
+
 <!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8

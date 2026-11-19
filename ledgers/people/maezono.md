@@ -117,7 +117,13 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:miyake-akito] (p.84) He left with her.
 [rel:kouenji-rokusuke] (p.84) The only other non-cooperator, along with Hasebe and Miyake.
 [rel:satou-maya] (p.84) The rehearsal proceeds with her and the other planners.
+
+
 <!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.190 — The planner high-five
+[mentioned] (p.190) “The three of them high-fived each other.” — Satō, Mii-chan, Maezono; they celebrate the festival victory.
+[note] (p.190) Maezono is the third high-fiv-er; she says nothing on record here.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v9.5
 

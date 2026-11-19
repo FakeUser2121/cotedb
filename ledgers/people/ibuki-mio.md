@@ -1183,7 +1183,16 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.165–183) She follows her from the maid café; she acts to protect her.
 [rel:ryuuen-kakeru] (p.175–182) She names him as someone who can injure people without them noticing; he helps her leave at the end.
 [rel:komiya-kyogo] (p.182) Komiya is instructed to help her with her chin.
+
+
 <!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.191 — Named in the room where the trap is set
+[mentioned] (p.191) “I had a feeling that Horikita and Ibuki's presence in the student council room was not a mere coincidence.” — Ayanokōji's call; Ibuki is inside the student-council-room scenario with Horikita.
+[rel:horikita-suzune] (p.191) She and Ibuki are there together — by some thread, not coincidence.
+### y2v7 p.197 — Named in the caller's recount
+[mentioned] (p.197) “I don't know why Horikita and Ibuki were there, but I think it was also because he was playing with fire.” — the caller's recount of Yagami's time at the festival; Horikita and Ibuki are there — at the same time.
+[note] (p.197) The caller recounts the whole ploy in one breath.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 
