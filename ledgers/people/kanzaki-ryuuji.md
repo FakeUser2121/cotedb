@@ -716,19 +716,194 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.57–71 — Kanzaki's confession; the resolve to change his class
-[scene] (p.57) Meets Ayanokōji in the special wing at his own request (though Ayanokōji called him), grim and wary.
-[says] (p.58) "What do you want from me?"
-[says] (p.58) "I don't know what I'm going to do with the rest of my school life..."
-[says] (p.58) "I probably don't need to tell you now, but our class can't win."
-[says] (p.59) "I need your advice on... Ichinose."
-[says] (p.60) "How about now? We kept following Ichinose's policy and lost class points. We're at the bottom of a pit."
-[says] (p.66) "I'm not going to sink with the current class and Ichinose forever."
-[says] (p.71) "Ayanokōji, I'll pay you back for this debt in the final exam."
-[trait] (p.57–71) Opens up about his silent struggle — Ichinose's idealism (protect everyone) can't win, and she won't listen to dissent; reveals his Unanimous-exam "yes" votes failed to change the class; through Ayanokōji's orchestration, reveals to Himeno that he may transfer classes (a "betrayal" threat) to shake her out of silence; leaves with renewed resolve to change the class and repay Ayanokōji in the final exam.
-[rel:ayanokouji-kiyotaka] (p.57–71) He seeks his advice, then realizes Ayanokōji manipulated the conversation with Himeno — still resolves to change his class.
-[rel:himeno] (p.62–67) He reveals his transfer threat to her — a calculated gamble to make her speak up.
-[rel:ichinose-honami] (p.59–66) Frustrated by her refusal to listen to dissent — but still believes she can be changed via the class.
+### y2v7 p.29, 41, 54, 206 — Kanzaki acted before they realized he mattered
+[mentioned] (p.29) “The commotion began to grow a little louder, and even Kanzaki and other” — students from other classes overheard Ryūen's declaration of war; Kanzaki hears it too.
+[mentioned] (p.41) “Kanzaki, who I was curious about, and Ichinose, who I expected to have returned.” — Ayanokōji's curiosity line.
+[note] (p.41) “The fact that I couldn’t see Kanzaki in the line made me wonder if he was” — about him after the haunted-house pre-opening.
+[note] (p.41) “oddly, so I don't think Kanzaki, who was waiting for Ichinose's return and my” — Kanzaki stayed silent in the line.
+[note] (p.41) “A few minutes later, Kanzaki slowly appeared from the exit. I wondered if” — he arrived late into the observation.
+[mentioned] (p.54) “Kanzaki, who had called me over.” — Kanzaki pulled Ayanokōji aside; the meeting was set at the special wing.
+[note] (p.206) “Kanzaki hot.” — Akuma#5279's editor quote in the credits; Kanzaki is named as the fan-favorite.
+[rel:ayanokouji-kiyotaka] (p.29) Kanzaki hears the declaration of war.
+<!-- walk: y2v7 Afterword → p.207 -->
+### y2v7 p.32–33 — Scouting the maze with Ichinose
+[scene] (p.32) After school, Kanzaki is in line at the gymnasium haunted-house pre-opening — with Ichinose; Ayanokōji arrives; Kanzaki silently takes one look at Ichinose and Ayanokōji and gets in line; the atmosphere is heavy; he does not enter.
+[says] (p.32) “If it's this big, it's not easy to keep it hidden. It was a wise decision to release the information early if it was also for practice.” — Kanzaki.
+[says:ichinose-honami] (p.32) “Yes, that's right. I'm sorry, Kanzaki-kun, but can I leave it to you...?” — Ichinose; Kanzaki nodded his head in acceptance without question.
+[says] (p.32) “Do you think I'm doing good?” — face grim.
+[note] (p.33) “By the time I finished reading the rules, Kanzaki left the line and turned his back to me. He was probably waiting for Ichinose to come back.”
+[rel:ichinose-honami] (p.32) He accompanies her; she leaves the line before entering; he silently waits for her.
+### y2v7 p.42–44 — Ichinose's class can't win; the confession
+[scene] (p.42) After watching Ichinose exit, Kanzaki approaches Ayanokōji; alone; Ichinose's class cannot make Class A; he carries a negative invisible from class points.
+[says] (p.42) “You're back after all. It seems her injuries were not too serious.”
+[says] (p.42) “Are you wondering why Ichinose isn't here?”
+[says] (p.42) “I didn't call her because I was worried about the possibility of bumping into you coming back from the infirmary. Besides, there are still a few days left for the pre-opening.”
+[says] (p.42) “I want to continue where we left off earlier. Your class seems to be doing quite well.”
+[says] (p.42) “You're not the only ones with invisible risks, but you've made a big difference in terms of the positive points you can see.”
+[says] (p.42) “Classes like yours will eventually have to fight against Sakayanagi's class.” — rather than envy, this was Kanzaki's honest opinion.
+[says:ayanokouji-kiyotaka] (p.42) “Have you given up already? Moving up to Class A?”
+[says] (p.42) “I guess so.” — answering “Have you given up already? Moving up to Class A?”
+[says] (p.43) “No one has yet to notice how the class is slowly sinking. It would still be endearing if they were just pretending not to notice, but they're all genuinely oblivious.”
+[says:ayanokouji-kiyotaka] (p.43) “Only you seem to be different.”
+[says] (p.43) “That was until a little while ago; there's no point in rebelling alone.”
+[says:ayanokouji-kiyotaka] (p.43) “You mean you've given up on trying to change their minds?”
+[says] (p.43) “Our class will never make it to Class A.” — Kanzaki said it clearly.
+[says] (p.43) “If the possibility has been reduced to zero, the only thing left to do is to find another way. If we are going to sink anyway, we should give as many people as possible a chance to escape.”
+[says] (p.43) “Because Student Council President Nagumo Miyabi has actually implemented this and it's shown to be effective. Concentrating private points on Ichinose is what we've been doing. If we execute this plan to the limit, we can move at least two or three people to Class A. In addition, the existence of class transfer tickets was shown for the first time at the sports festival. Of course, it won't be easy to acquire them, but the increase in options is a genuinely pleasing factor.”
+[says:ayanokouji-kiyotaka] (p.43) “Why are you telling me all this?”
+[says] (p.43) “I don't know what I'm doing either.” — an uncharacteristic response.
+[says] (p.43) “I didn't have a place to vent. Maybe that's why.”
+[says] (p.43) “You're the only person I thought was capable of understanding my thoughts without talking out of turn.”
+[says] (p.43–44) “I don't care what happened between you and Ichinose or what kind of relationship you two have. The fact that you're having such a bad influence that she can't even do a satisfactory observation of the third-year Class A's exhibit is a major issue.”
+[says:ayanokouji-kiyotaka] (p.44) “It's a little harsh when you put it that way.”
+[says] (p.44) “You'll have to forgive me. I'm sure you understand how frustrating it is.”
+[says] (p.44) “Why not now? We can take some time to talk about what's to come.”
+[says] (p.44) “I'm sorry, but right now I need to do some research on the third-years. Besides, we can't make any progress if we start talking about it now.”
+[says:ayanokouji-kiyotaka] (p.44) “If that's the case, well, okay. Call me anytime.”
+[note] (p.43) His plan: move two or three students to Class A via point concentration on Ichinose + the class-transfer tickets (first shown at the sports festival) — “the increase in options is a genuinely pleasing factor.”
+[rel:ichinose-honami] (p.42–44) His honest opinion: her class cannot reach Class A; he blames Ayanokōji's bad influence for her poor observation; he plans point concentration on her.
+[rel:ayanokouji-kiyotaka] (p.42–44) He vents to him — his only outlet; he asked for advice on a different matter (the real target surfaces at p.59).
+[rel:nagumo-miyabi] (p.43) He knows and uses Nagumo's system (point concentration; transfer tickets) as the escape hatch.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.57–61 — The special wing; the unload
+[scene] (p.57) §1 — after school, Ayanokōji heads to the special wing; Kanzaki is already there waiting, face grim, not in a light mood.
+[says] (p.58) “What do you want from me?” — Kanzaki from another class; lately distrustful of Ayanokōji's presence.
+[says:ayanokouji-kiyotaka] (p.58) “It's time to talk about the future.”
+[says] (p.58) “About the future?' What on earth... Well, that's fine. I'll let you talk first.” — Kanzaki corrected his posture.
+[says] (p.58) “I've been struggling for a while now. I haven't spoken with anyone about it. I was just struggling on my own.”
+[says] (p.58) “No, to say I was struggling would be an exaggeration, but I was thinking every day about what I was going to do with myself.” — words not typical of the calm and collected Kanzaki.
+[says] (p.58) “I don't know what I'm going to do with the rest of my school life...”
+[says] (p.58) “I probably don't need to tell you now, but our class can't win.” — not the festival, not the end-of-year exam: the class can't move up.
+[says] (p.59) “We’re not far behind other classes in academic, athletic and leadership skills. In fact, I feel that we have some aspects in which we excel. But I have learned that this doesn't always lead to victory.”
+[says] (p.59) “I need your advice on... Ichinose.” — why must it be me?
+[says] (p.59) “She never really listens to me. No, it's the same for everyone.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.59) “That's only when you're on the same side as Ichinose. I don't need to explain it to you now.” — Ayanokōji dared to test him.
+[says] (p.59) “I'm not saying she's heading in the wrong direction. But idealism is idealism.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.59) “There are many occasions when that idealism is necessary.” — Ayanokōji.
+[says] (p.59) “Yes, I know. I'm prepared to go through the trouble when things are going well.” — Kanzaki.
+[says] (p.60) “How about now? We kept following Ichinose's policy and lost class points. We're at the bottom of a pit and haven't a clue how to get out.” — Kanzaki.
+[says] (p.60) “It's a fool's errand.” — he mumbled, as if to laugh himself blind.
+[says] (p.60) “But a plan is a plan, even if it's a fool's errand. Right now, I have no choice but to rely on you.” — he took his somewhat resigned gaze away and stared at the empty corridor floor.
+[says] (p.60) “In the unanimous special exam, I argued that we should get class points even if we had to expel our classmates. I voted yes and tried to get my foot in the door, but that didn't work either.” — Kanzaki voted in favour of expelling the students; nobody, including Ichinose, agreed; they admonished him to work hard together with them.
+[says] (p.60) “…That's funny, isn't it?” — Kanzaki muttered to break the silence.
+[says:ayanokouji-kiyotaka] (p.60) “Ichinose is devoted to you. The only thing that could change Ichinose's policy is unique existence, such as you. She could only see it clearly coming from you.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.60) “It seems that your desire to change the flow and break out of this stagnant situation is true.” — Ayanokōji, watching him closely.
+[says:ayanokouji-kiyotaka] (p.61) “I agree that we need to turn the tide. But I disagree with you on the method.” — Ayanokōji.
+[says] (p.61) “We have no other choice; Ayanokōji is the only one who can move Ichinose.” — Kanzaki's answer.
+[says:ayanokouji-kiyotaka] (p.61) “I don't know. I don't know, but I think there is someone more qualified.” — Ayanokōji.
+[says] (p.61) “I can't think of anyone.” — Kanzaki raised an eyebrow.
+[says:ayanokouji-kiyotaka] (p.61) “Actually, there's another student I called here today after I approached you.” — Ayanokōji.
+[says] (p.61) “Who?” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.61) “It's one of your classmates who Kanzaki knows very well.” — Ayanokōji.
+[says] (p.61) “Don't tell me you called Ichinose?” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.61) “Unfortunately, it's not Ichinose. She's a student who has the potential to turn the tide.” — Ayanokōji.
+[says] (p.61) “I hate to interrupt, but there's no one in our class who can argue with Ichinose except for me. I've seen it firsthand, and I understand it.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.61) “Isn't that exactly the kind of narrow-mindedness you're talking about, Kanzaki?” — Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.57–61) He comes for advice on Ichinose; Ayanokōji lets him unload first — then flips the table by revealing Himeno.
+[rel:ichinose-honami] (p.57–61) Frustrated by her refusal to listen to dissent; believes she can be changed via the class.
+### y2v7 p.62–68 — Himeno arrives; the change-the-class argument; the transfer threat
+[scene] (p.62) Himeno arrives — "Why is Kanzaki-kun here too?" — she assumed Ayanokōji would be the only one here; Ayanokōji starts his orchestration; Kanzaki realizes he's being used.
+[says:himeno] (p.62) “Huh? Why is Kanzaki-kun here too?” — Himeno arrived a little earlier than promised; her amused tone at being second to him.
+[says] (p.62) “Himeno, did you have a connection with Ayanokōji?” — Kanzaki asks Himeno.
+[says:himeno] (p.62) “Sort of, yeah.” — Himeno.
+[says] (p.62) “I find it hard to believe that Himeno is the right person for the job you're talking about.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.62) “I'm going to prove that from now on.” — Ayanokōji.
+[says:himeno] (p.62) “Wait a minute. It seems like you're talking about me, what is it?” — Himeno, perplexed.
+[says:himeno] (p.62) “What, what is it?” — Himeno, perplexed.
+[says:ayanokouji-kiyotaka] (p.62) “I anticipated talking with you about your class today … Did you think you yourself should bring change to your class?” — Ayanokōji.
+[says] (p.62) “No, I don't understand what it means to think or carry out such a thing.” — Kanzaki.
+[says] (p.62) “How far do you see…?” — Kanzaki, asking how far Ayanokōji planned this.
+[note] (p.62) “What?” — printed untagged (Kanzaki addressing Ayanokōji, or Himeno); not assigned.
+[says] (p.62) “What do you mean, Ayanokōuji?” — Kanzaki noticed the discrepancy; the Ayanokōuji spelling kept as printed.
+[says] (p.62) “You called me out, but what on earth were you going to talk about? It seems that Himeno called you beforehand, but this is just like…” — Kanzaki noticed the discrepancy; he almost opened his mouth, closed it, and stared between Himeno and Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.63) “Let's cut to the chase. Let me tell you why I called you here today. There is no need for Ichinose to change by my hand. What needs to change is the class consciousness. By changing the consciousness of the class, you can bring about change in Ichinose.” — Ayanokōji.
+[says] (p.63) “…It's futile. I've seen it firsthand.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.63) “If it was just one person, yes. But if two or three people — all but Ichinose — changed their minds, the results of the unanimous special exam would've been different.” — Ayanokōji.
+[says] (p.63) “It's a pipe dream that everyone's consciousness would change. And even if they had, would it have changed the results of the special exam?” — Kanzaki.
+[says:himeno] (p.64) “Wait a minute; Ichinose-san will protect her classmates even if it costs a heavy penalty.” — Himeno, interjecting from the sidelines.
+[says:ayanokouji-kiyotaka] (p.64) “I wonder if Ichinose really could remain stubborn to the end with 39 people opposing her.” — Ayanokōji.
+[says:himeno] (p.64) “She'll go through with it, Ichinose-san. I think so, right, Kanzaki-kun?” — Himeno asks Kanzaki.
+[says] (p.64) “I think so too, but… I'm also sure she'll be met with inner turmoil.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.64) “Whether Ichinose, driven by remorse, would've been able to fulfill her duties as a leader is another matter.” — Ayanokōji.
+[says] (p.64) “That wouldn't have resulted in a worse outcome than the present.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.64) “Oh, would it not? It would've ended worse than what we have now. What do you think actually would've happened then, Kanzaki?” — Ayanokōji.
+[says] (p.64) “What if all my classmates had the same idea as I did, to accept that there would be expulsion?” — Kanzaki.
+[note] (p.64) Ayanokōji's simulation: 39 people casting votes in favour of the proposal would eventually break Ichinose — she would come around to the side of the proposal and volunteer herself to expel herself; the class would succeed in expelling Ichinose and gain class points, but lose Ichinose's unifying abilities.
+[says] (p.64) “It's impossible,” he said. “The disadvantages would be too great in the unlikely event of such a development.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.64) “Of course, I'm not trying to say that Ichinose should be expelled. But if there's a change in the classmates, the class will change. I don't want to change Ichinose, I want to change the mindset of the class. And the first ones to do that will be Kanzaki and Himeno.” — Ayanokōji.
+[says:himeno] (p.64–65) “Me?” — Himeno.
+[says:himeno] (p.64–65) “...” — Himeno was silent and turned over.
+[says:himeno] (p.64–65) “I thought it was impossible. Classes don't change easily. I'd rather not see others besides myself get hurt, and they're all just saying pretty things.” — Himeno began to talk about what she was feeling.
+[says:himeno] (p.64–65) “I felt that Kanzaki-kun's resistance was simply a waste of time.” — Himeno.
+[says:ayanokouji-kiyotaka] (p.65) “Then why didn't you say it? You could've said it as many times as you wanted, even if it wasn't during the unanimous special exam.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.65) “Why is it that Ichinose's class dropped in the rankings and is now facing a major crisis?” — Ayanokōji's question to Kanzaki.
+[says:himeno] (p.65) “Don't make it sound so easy.” — Himeno.
+[says:himeno] (p.65) “You don't have to answer, but you know what I mean. There's only strong peer pressure in our class. Even if I think it's white, if many say it's black, it's black. It doesn't matter if I'm right or wrong. In such a class, there's no point in a minority speaking up. It's just painful to be surrounded by people who go out of their way to say what they think is black until they're persuaded to say it's white. That's why I've never said anything and I never will.” — Himeno.
+[says:himeno] (p.65) “That's fine. I accept the black claims that others concluded on their own. But still, the color I think of in my mind will remain white because it is.” — Himeno.
+[says:himeno] (p.65) “I wish you would stop expecting me to be like your friend here. I'm sorry, but I can't be as passionate as Kanzaki-kun.” — Himeno took a step back.
+[says] (p.65) “Are you okay with the class as it is?” — Kanzaki; at first he had assumed Himeno was a classmate just like any other — then desperately trying to draw out a conversation without Ayanokōji's involvement.
+[says:himeno] (p.66) “Whether good or bad, it's more important for me to protect myself. I can't be best friends with anyone, but I can't be nasty with anyone either. Sometimes they ask me out, sometimes they don't. I don't want to destroy that level of distance and atmosphere.” — Himeno.
+[says:himeno] (p.66) “If Kanzaki-kun's argument gains momentum and exceeds the majority of the class, I will join your side, too. That's fine, right?” — Himeno.
+[says:himeno] (p.66) “Damn it!” — Himeno.
+[says:himeno] (p.66) “Can I go now? I won't tell anyone about this. It will only get me into trouble if I do.” — Himeno.
+[says] (p.66) “…Wait.” — Kanzaki.
+[says:himeno] (p.66) “I don't want to stay.” — Himeno.
+[says] (p.66) “I wasn't going to tell anyone, but I'm about to make a big decision.” — Kanzaki.
+[says:himeno] (p.66) “What's that?” — Himeno.
+[says] (p.66) “I'm not going to sink with the current class and Ichinose forever.” — Kanzaki.
+[says:himeno] (p.66) “Does that mean you're betraying the… class?” — Himeno.
+[says] (p.66) “I won't deny it. There is no point in staying in a class that can't win.” — Kanzaki.
+[says] (p.66) “I'm not trying to threaten you. But I will tell you that much.” — Kanzaki.
+[note] (p.67) “So you're okay with that, Himeno?” — printed untagged; flagged untagged.
+[says:himeno] (p.67) “That's not fair. That's a threat.” — Himeno.
+[note] (p.67) “That's one way to look at it.” — printed untagged; flagged untagged.
+[note] (p.67) “───Do you really intend to change classes?” — printed untagged; flagged untagged.
+[says] (p.67) “It may not be pleasant, but Ayanokōji is right. I want to believe that changing Ichinose with our own hands is the only way to save the class.” — Kanzaki.
+[says:himeno] (p.67) “But I am…” — Himeno.
+[says:himeno] (p.67) “Even… I'd like to… win if I could.” — Himeno.
+[says] (p.67) “Then we have to act now. Am I wrong?” — Kanzaki.
+[says:himeno] (p.67) “I understand what you're saying… But still…” — Himeno.
+[says] (p.67) “You're not going to say that there is still a possibility of winning with Ichinose's policy, are you?” — Kanzaki.
+[says] (p.67) “Don't you want to graduate from Class A, Himeno?” — Kanzaki.
+[says:himeno] (p.68) “If I could graduate from Class A, I would want to!” — Himeno; a loud, taut voice several times louder than expected.
+[trait] (p.57–68) He opens up about his silent struggle — Ichinose's idealism can't win and she won't listen; his unanimous-exam "yes" votes failed; through Ayanokōji's orchestration, he reveals to Himeno he may transfer classes (a calculated gamble to shake her out of silence); she explodes and capitulates.
+[rel:ayanokouji-kiyotaka] (p.57–68) He comes for advice, then realizes Ayanokōji manipulated the conversation with Himeno — still resolves to change the class.
+[rel:himeno] (p.62–68) His transfer threat hurts her; his gamble is to make her speak up.
+[rel:ichinose-honami] (p.59–68) Frustrated by her refusal to listen to dissent — but still believes she can be changed via the class.
+### y2v7 p.70–71 — The resolve; "a girl she's curious about"
+[scene] (p.70–71) After the meeting, Himeno and Kanzaki begin to plan real change; Ayanokōji urges them to find students like them and to keep growing the circle — a small spark into a big flame.
+[note] (p.71) “It's not too late. Be strong. And defeat the class led by Horikita in the final exam.” — printed untagged (the coach's line by context); flagged untagged.
+[says:himeno] (p.71) “…What are you going to do, Kanzaki-kun?” — Himeno.
+[says] (p.71) “You have to be prepared to work harder than you can imagine. But…it's not a story that can't be done.” — Kanzaki.
+[says:himeno] (p.71) “We have the same desire to graduate from Class A. Until now, I couldn't tell anyone, but…” — Himeno confides in him.
+[says] (p.71) “Yes, yes. I guess our goals haven't changed at all since the beginning.” — Kanzaki.
+[says:himeno] (p.71) “You know… After listening to Ayanokōji-kun's story, there's a girl I'm a little curious about. Would you like to go see her after this?” — Himeno; Kanzaki nodded vigorously.
+[says] (p.71) “Ayanokōji, I'll pay you back for this debt in the final exam.” — Kanzaki's name opens the line.
+[says:ayanokouji-kiyotaka] (p.71) “Horikita's class is tough, Kanzaki.” — Ayanokōji.
+[says] (p.71) “Yeah, I guess so. Sorry… but I'm leaving, I don't want to waste a single minute. No, not even a second.” — Kanzaki.
+[note] (p.71) Ayanokōji's closing read: "They may really beat Horikita's class in the end-of-year exam. Either way, it doesn't hurt my plans, but it's one more thing to look forward to."
+[trait] (p.70–71) He could never claim, having seen Himeno's example, that he is alone in the class; the two of them take a childlike step forward.
+
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.112–113 — Kanzaki's visit; the Himeno note
+[scene] (p.112) Afternoon — Kanzaki approaches Ayanokōji; "Looks like you're already thriving."
+[says] (p.112–113) “Looks like you're already thriving.” — Kanzaki.
+[note] (p.113) Ichinose's class's offering was, as he recalled, sweets-based — crepes and chocolate bananas.
+[says:ayanokouji-kiyotaka] (p.113) “What about you?” — Ayanokōji.
+[says] (p.113) “The kids love them. But the adults are not as receptive as we thought they would be, so we're not sure if we can aim for the top spot in terms of sales.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.113) “You may have a hard time, then.” — Ayanokōji.
+[says] (p.113) “Probably, but my priorities have shifted so I'm not entirely concerned about this festival at the moment.” — Kanzaki; “Apparently, the first step towards change with Himeno may have worked.” — the narration.
+[says] (p.113) “I'm going to the gym now. I want to learn what I can from the third years for the future.” — Kanzaki.
+[says:ayanokouji-kiyotaka] (p.113) “I see. See you later.” — Ayanokōji.
+[rel:ichinose-honami] (p.112–113) The sweets stall; her class's fate is no longer his top priority.
+[rel:himeno] (p.113) The narration notes the first step toward change with Himeno may have worked.
+[rel:ayanokouji-kiyotaka] (p.112–113) The quiet checkpoint between them.
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

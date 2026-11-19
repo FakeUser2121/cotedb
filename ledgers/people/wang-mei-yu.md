@@ -263,13 +263,89 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — wang-mei-yu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.12-13, p.15-16, p.18, p.20, p.26-27.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.12 — The honor roll
+[scene] (p.12) The midterm results list: Wang Mei-Yu is named among the honor roll alongside Yōsuke, Kushida and Matsushita; “the difficulty level of this test was moderate.”
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
+[rel:sudou-ken] (p.12) The narration groups Wang with the honor roll Sudō jumped past.
+### y2v7 p.13–22 — Planner; Hashimoto's probe; the floors
+[scene] (p.13) The six maid café planners include Mii-chan (Wang); Wang is the quiet organizer tracking stall candidates on her phone.
+[says] (p.15) “It's a lot farther than I thought it would be.” — Mii-chan's first impression of the third floor.
+[says] (p.15) “What do you think, Satō-san?” — Mii-chan asks Satō, who had not spoken up so far today.
+[says] (p.15) “Satō-san?” — once again, this time looking up at them, Wang asks again.
+[says] (p.16) “But we should make a decision soon. It's getting pretty full.” — Mii-chan stared at her cell phone and made a sour face.
+[note] (p.20) The vote by rock-paper-scissors: Mii-chan recited it in a whisper, perhaps to avoid confusion, and then looked at her palm — “Here we go.” — four rocks, two papers, zero scissors; third floor eliminated; first floor won; Horikita applied immediately by phone.
+[says] (p.18) “That was a little scary...” — Mii-chan, relieved and patting her chest, murmuring to Satō.
+[note] (p.22) “I heard that there are butler cafés in the world, the opposite of maid cafés. The butler isn't a girl, but a dressed up man.” — per the narration, the planners “were surprised and impressed”; the speaker of the line prints untagged; not assigned.
+[note] (p.21) “Maids and butlers are both a type of concept café.” — printed untagged; not assigned.
+[rel:satou-maya] (p.15–18) She checks in with Satō on the shortest leg of the inspection.
+[rel:matsushita-chiaki] (p.16) Matsushita took a peek at her phone and reported the occupied candidates.
+[rel:maezono] (p.16) The floor debate: second floor vs third floor.
+[rel:horikita-suzune] (p.15, 20) The planner circle; Horikita decides and applies by phone.
+### y2v7 p.26 — Named among the struggling girls
+[mentioned] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the narration; Shinohara and Wang also drawn into the Satō–Kei circle.
+[note] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the default circle of friends failing; Wang's own struggle is only half resolved.
+[rel:shinohara-satsuki] (p.26) Shinohara shares her struggling status.
+### y2v7 p.26 — Named among the struggling girls
+[mentioned] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the narration; Shinohara and Wang also drawn into the Satō–Kei circle.
+[note] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the default circle of friends failing; Wang's own struggle is only half resolved.
+[rel:shinohara-satsuki] (p.26) Shinohara shares her struggling status.
+### y2v7 p.27 — Miichan named among the planners
+[mentioned] (p.27) “The people who came up with the idea, such as Satō, Matsushita, and Miichan, all looked at each other.” — Wang Mei-Yu is named as one of the maid café planners.
+[rel:satou-maya] (p.27) Named with her.
+[rel:matsushita-chiaki] (p.27) Named with her.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.90–92 — Mii-chan's slip; the rehearsal
+[scene] (p.90) §2 — the maid café rehearsal; boys from other classes rushed to watch the girls in cosplay; Mii-chan slips a glass of water on the tray; the person in question froze.
+[note] (p.90) “Sato and Mii-chan's movements seemed to be much more sluggish than during practice.” — the narration.
+[says:matsushita-chiaki] (p.90) “I am terribly sorry.” — Matsushita immediately moves after the slip.
+[rel:matsushita-chiaki] (p.90) She steadies Mii-chan after the slip.
+[rel:satou-maya] (p.90) Sato's movements seem sluggish at the rehearsal.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.114–125 — Mii-chan: the closed-eye shot; the Darjeeling runout
+[scene] (p.114) §3 — A photo shoot with Mii-chan; Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment; the guest wanted a two-shot of the laughing Mi-chan; Mii-chan's eyes closed just as the shutter released.
+[says] (p.114) “Ugh, sorry Ayanokōji-kun……” — Mii-chan.
+[says:ayanokouji-kiyotaka] (p.114) “Never mind. I'll take another picture.” — Ayanokōji.
+[says] (p.115) “Ayanokōji-kun, what should I do, I seem to have run out of Darjeeling!” — Mii-chan in a panicked look.
+[scene] (p.125) Mii-chan came out of the room, looking busy; Kushida-san, who was supposed to be organizing the line, had disappeared.
+[says] (p.125) “Um, Ayanokōji-kun, where is Kushida-san?” — Mii-chan came out of the room, looking busy.
+[says] (p.125) “There's a customer who wants to take a picture with Kushida-san, but I can't find her.” — Mii-chan.
+[rel:ichihashi-ruri] (p.114) The bill-charging assignment — Ichihashi, who was in charge of the bill.
+[rel:kushida-kikyou] (p.125) The missing Kushida; the customer wants a photo with her.
+[rel:ayanokouji-kiyotaka] (p.114–125) The reshoot; the Darjeeling rescue; the search for Kushida.
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.131–161 — The §3 closing; Mii-chan's scream
+[scene] (p.131) §1 — the aces of the team, working hard all the time — Sato and Mii-chan; the overcrowding caused a shortage of staff.
+[note] (p.131) Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day and was now moving around.
+[scene] (p.159) §3 — the line; the standing-room overflow; Mii-chan's voice echoes like a scream.
+[says] (p.159) “I can't let any more people in! The second slot is filled up!” — Mii-chan's voice echoed like a scream.
+[rel:kushida-kikyou] (p.159) The second slot fills.
+[rel:ayanokouji-kiyotaka] (p.159) The standing-room-only plan.
 
 
 
+
+
+
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.190 — The honest reaction on the planner confession
+[mentioned] (p.190) “Not particularly blaming us, Satō happily confirmed to Mii-chan and Maezono.” — Satō's acceptance; Mii-chan hesitates.
+[mentioned] (p.190) “Mii-chan replied honestly, ‘I'm not even sure I'm confident enough to act.’” — Mii-chan's honest answer about the performance.
+[mentioned] (p.190) “Yes. If I had been told beforehand, it might have shown on my face.” — Mii-chan concedes that the effect would have landed differently.
+[note] (p.190) "Mii-chan replied honestly" — she concedes; she is not amused by the nerve of the plan.
+### y2v7 p.190 — The honest reaction on the planner confession
+[mentioned] (p.190) “Not particularly blaming us, Satō happily confirmed to Mii-chan and Maezono.” — Satō's acceptance; Mii-chan hesitates.
+[mentioned] (p.190) “Mii-chan replied honestly, ‘I'm not even sure I'm confident enough to act.’” — Mii-chan's honest answer about the performance.
+[mentioned] (p.190) “Yes. If I had been told beforehand, it might have shown on my face.” — Mii-chan concedes that the effect would have landed differently.
+[note] (p.190) "Mii-chan replied honestly" — she concedes; she is not amused by the nerve of the plan.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

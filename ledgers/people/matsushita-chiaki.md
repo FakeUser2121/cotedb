@@ -284,10 +284,97 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — matsushita-chiaki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.12-18, p.20-21, p.27, p.86, p.90-92.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.12 — The honor roll
+[scene] (p.12) The midterm results list: Matsushita is named among the honor roll alongside Yōsuke, Kushida and Wang.
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration; the surprise in the results is Sudō's, not theirs.
+[rel:sudou-ken] (p.12) The narration groups her with the honor roll that Sudō jumped past.
+### y2v7 p.13–14 — The Haruka question; what Matsushita senses
+[scene] (p.13) After school, the maid café planners meet; Matsushita asks Horikita and Ayanokōji about Hasebe-san and Miyake-kun; nobody says it out loud, but she is the one who voices the danger.
+[says] (p.13) “Hasebe-san and Miyake-kun, what will you do about them?” — Matsushita looked at Horikita and Ayanokōji and asked.
+[note] (p.13–14) “What do you mean, ‘what will I do?’” — printed untagged (Horikita or Ayanokōji); not assigned.
+[says] (p.14) “They come to school every day, but they don't want to talk to anyone. It means they keep antagonizing us, the whole class.”
+[says] (p.14) “I think Hasebe-san is going to try to do something to the class in the future.” — the narration: “a person like Matsushita would've guessed”; Haruka never told her.
+[note] (p.14) “Are you saying you condone revenge?” — printed untagged; not assigned.
+[note] (p.14) “Of course not. I understand why she's angry, but that doesn't mean I don't mind trouble brewing in class without good reason.” — printed untagged (Horikita or Ayanokōji); not assigned.
+[note] (p.14) “There's very little we can do in advance” — printed in Horikita's dialogue run, tagged “Horikita said, looking off into the distance” by the adjacent narration.
+[note] (p.14) “If she's really looking for an opportunity for revenge, she certainly won't put it off for months.” — printed in the same Horikita run; adjacent narration ties it to Horikita; flagged anyway.
+[note] (p.14) “Yeah. But we're not in a situation where that kind of logic would work. It shouldn't take this long for her to recover.” — printed untagged; not assigned.
+### y2v7 p.16–18 — Stall candidates; Hashimoto's probe; Satō's silence
+[scene] (p.16–18) The group inspects floors one through three; Matsushita reports two of five candidates are occupied; Hashimoto (Class A) appears and needles them about Ryūen; Sakayanagi watches with a wry smile; Satō is visibly distracted.
+[says] (p.16) “That's right. Two of the five places we picked up are now occupied... However, there are still candidates from the first to the third floor, which I'd say is a bit of a problem.” — Matsushita took a peek at Mii-chan's phone and said this.
+[note] (p.16) “Come to think of it, Satō hasn't been particularly energetic the last few days.” — printed untagged (Matsushita or Ayanokōji); not assigned.
+[note] (p.16) “I was curious if Ayanokōji-kun would know anything about that, but I guess not.” — Matsushita, if the adjacent narration (“I wondered if Matsushita thought I was some kind of Satō whisperer”) is to be trusted; flagged untagged.
+[says] (p.17) “It's like she wants to talk but can't. She's the type of person who keeps things inside.” — Matsushita, biting down on her lip, continued.
+[says] (p.17) “Maybe when....” — Matsushita, a little unclear; stops talking because the conversation is possible only away from Satō's vicinity.
+[says] (p.18) “Don't try to get anything out of us.” — Matsushita stepped forward, looking the same as usual.
+[says] (p.18) “You appear to want to say something, Hashimoto-kun.” — Matsushita, standing there protecting the three girls, in a slightly irritated tone.
+[says:hashimoto-masayoshi] (p.18) “I'm worried about your class, my friend. It seems that you have teamed up with... Ryūen for the sports festival, but do you think you can trust him forever?” — the probe that makes her hold her ground.
+[note] (p.18) “I just thought you were going to team up with Ryūen again. If you are going to team up with him, be careful,” he said, as if he had the heart of an old woman.
+[says] (p.18) “We're in a hurry, and I don't think we can play word games forever, you know? Everyone?” — Matsushita turned around and asked the girls and Ayanokōji.
+[rel:hashimoto-masayoshi] (p.17–18) His probing reaches her; she stays poker-faced.
+[rel:wang-mei-yu] (p.16) She reports on the occupied candidates; Matsushita peeks at her phone.
+[rel:satou-maya] (p.16–17) She watches Satō's unnatural quiet with concern; reports to Ayanokōji that Satō “keeps things inside”; declines to push.
+### y2v7 p.19–22 — The Ryūen-leak prep; the floor vote
+[scene] (p.19–22) After Hashimoto's probe, the six decide to keep moving; Matsushita votes paper (second floor); the decision for the first floor is made by majority vote.
+[note] (p.19) “Hashimoto-kun said something earlier, did you guys catch it?” — Maezono says crisply; the planners feel the unease; Matsushita and Satō are reassured again after Ayanokōji's follow-up.
+[note] (p.20) The vote: four rocks (first floor), two papers (Ayanokōji and Matsushita), zero scissors; first floor (50,000 pts) wins; Horikita applies immediately by phone.
+[note] (p.21) Talk of butler cafés, cleanliness, and “eros and eroticism have been seen as important elements in art since ancient times” — the planners exchanged surprised and impressed looks at the butler-café fact.
+### y2v7 p.27 — The leak; Matsushita remembers Hashimoto's probe
+[scene] (p.27) Ike bursts in with the leak; Matsushita remembered the contact from Hashimoto and approaches.
+[says] (p.27) “Hey Horikita-san, what does he mean? It was still supposed to be a secret, right?” — Matsushita approached us.
+[rel:horikita-suzune] (p.27) Matsushita's question forces the open conversation about Ryūen's betrayal.
+### y2v7 p.30 — Matsushita asks what Horikita will do
+[scene] (p.30) Maezono and the others approach Horikita with the bottled-up anxiety and frustration spilling out; Matsushita asks what Horikita will do.
+[says] (p.30) “What are you going to do, Horikita-san? We're pretty well prepared, aren't we..?” — Matsushita.
+[note] (p.30) “Is Ryūen really going to turn his class into a maid café?” — printed untagged; Maezono or Yōsuke; not assigned.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.85–86 — Satō's advocate; the trust line
+[scene] (p.85) Matsushita is unable to bear the sight of Satō's downcast and frustrated face; she goes directly to Horikita.
+[says:horikita-suzune] (p.86) “I know what you mean. But I don't intend to remove her at the moment.” — Horikita, on Kushida.
+[note] (p.86) “But it's a lie that she has to do things every day, isn't it?” — Matsushita; Kushida's behavior as of late has been quite puzzling; it can't be helped that she's been keeping her distance from the others since the unanimous special exam.
+[says:horikita-suzune] (p.86) “That may be so. I don't know why she doesn't participate in practice either.” — Horikita.
+[says:horikita-suzune] (p.86) “Don't worry. She's thinking about the festival and the maid cafe in her own way. Just believe in Kushida-san.” — Horikita.
+[note] (p.86) “Well, I guess you could say that we won't get anywhere if I don't believe in her...” — Matsushita looked unconvinced, but nodded and turned to follow Satō.
+[scene] (p.90–92) The rehearsal; Matsushita is the stabilizer of the rehearsal; she's impressed by her own performance at the rehearsal — she calms Mii-chan after the slip; she fears sabotage.
+[says] (p.90) “I am terribly sorry.” — Matsushita's instinct after Mii-chan's slip.
+[says] (p.90) “Thank you.” — Matsushita to the guest's praise.
+[note] (p.90) “You're doing very well, Matsushita-san, I can't believe it's your very first time as a maid.” — a guest to Matsushita; Horikita was also impressed by Matsushita's outstanding actions.
+[rel:horikita-suzune] (p.85–86, 90–92) She holds the trust line; Horikita matches her steadiness.
+[rel:satou-maya] (p.85–86, 90) Her downcast face — the advocate for Satō.
+[rel:wang-mei-yu] (p.90) She steadies Mii-chan after the slip.
+### y2v7 p.92 — The sabotage fear
+[scene] (p.92) After the rehearsal winds down; Matsushita rounds up the rehearsal critique; her voice is a little stiff.
+[says] (p.92) “Thanks. Everyone's getting better. We should be able to start tomorrow in good shape.” — Matsushita said, though her expression was a little stiff.
+[says] (p.92) “I think there might be more sabotage, that's what I'm a little worried about.” — Matsushita; when Ryūen-kun's class came over to the maid cafe, she was afraid they'd bring Ishizaki-kun and the others over and say there were bugs in the cups or something...
+[says:horikita-suzune] (p.92) “Don't worry about that. It's not in their best interest to interfere in the practice stage. Besides, since there is a rule that students can't be guests in the activities, they can't do such a thing.” — Horikita.
+[says] (p.92) “I guess I'll do that.” — Matsushita started to walk away and left the classroom, wobbling slightly.
+[rel:ryuuen-kakeru] (p.92) Her fear: Ryūen's class could sabotage with bugs-in-the-cups claims; Horikita dismisses it.
+[rel:ishizaki-daichi] (p.92) Named as one of the potential saboteurs she fears.
+[rel:ayanokouji-kiyotaka] (p.92) Ayanokōji repeats her reassurance — he may be the calmest of the three on this.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.107 — The illness call
+[mentioned] (p.107) Matsushita contacted Ayanokōji early in the morning and reported that she had to take the day off due to illness — a cough and other symptoms; she could not perform a job that required customer service, and if the cold spread it would affect the class during the festival; she could not be entrusted with a heavy workload even if reassigned — she led the maid café to this point.
+[rel:satou-maya] (p.107) Her illness triggers the shift-change discussion; Satō carries the opening.
+[rel:ayanokouji-kiyotaka] (p.107) The early call; he understands the need for reassignment preparation.
+### y2v7 p.110 — Named in the absence record
+[mentioned] (p.110) “due to Matsushita's absence.” — the shift change discussion; she contacted him early in the morning and reported she had to take the day off due to illness.
+[rel:ayanokouji-kiyotaka] (p.107–110) He cross-checks the personnel situation against his own read.
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.131 — The sick substitute
+[mentioned] (p.131) “The remaining three were Ishikura, who had substituted for Matsushita,” — Ishikura substituted for Matsushita at the festival; Kushida and Inogashira covered flyers.
+[note] (p.131) Ishikura's substitution is the unacknowledged difference.
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.188 — Named as absent from the meeting
+[mentioned] (p.188) “They were the three maid cafe planners, with the exception of Matsushita, who was absent due to illness.” — the Three Maid Café Planners met with Horikita; Matsushita absent.
+[note] (p.188–190) The meeting's agenda addressed the leak's true nature; she was not present for the confession.
+### y2v7 p.190 — The sentimental exit
+[mentioned] (p.190) “Yes, it's a weight off my shoulders. You guys can tell Matsushita-san about this.” — Horikita's relief confession; Matsushita gets informed second-hand.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

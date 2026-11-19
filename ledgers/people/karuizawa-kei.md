@@ -1925,10 +1925,149 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — karuizawa-kei mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11, p.16, p.22, p.25-27, p.51-52.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.11, 16, 22, 25, 27, 108, 148 – Kei's threads: the Keisei shadow
+[note] (p.11) “they were lined up in order from the student with the highest overall score. Keisei” — the midterm results; Keisei (the translation's defect for Yukimura's name) took first place; senior-year Class 2-B student.
+[note] (p.16) “something. Or maybe she was anticipating Kei's closeness with Satō, but either” — the maid café planners; Kei's closeness to Satō.
+[note] (p.22) “prepare high quality food at the lowest possible price. If I invited Kei, it would turn” — the maid café planning; the invite Kei would decline.
+[note] (p.25) “The next morning, I met up with Kei downstairs in the dormitory.” — the dormitory scene on a monday morning; her staying overnight.
+[note] (p.27) “attract, and unify a small group. Without a doubt, Kei possesses these qualities.” — the maid café group; Kei is named as the unifying factor.
+[note] (p.108) “This information came down from Kei, who was in close contact with the” — Kei is the information channel Horikita uses for the missing-pair rumor.
+[note] (p.148) “particularly contentious situation. Unfortunately, Keisei, formerly of the Ayanokōji” — Keisei (alias) is named in passing; he's not on scene.
+[note] (p.186) “Keisei walked up to Haruka and Akito, somewhat hesitantly. Starting with” — aftermath; Akito's apology; Keisei's eyes reddened a bit and he spoke with relief.
+### y2v7 p.26 — Dormitory morning; Kei waiting downstairs
+[scene] (p.26) The next morning, Kei is waiting for Ayanokōji downstairs; past curfew the previous night she remained in his room; fortunately no witnesses when she left; they walk together holding hands; she blushes and thanks him.
+[says] (p.26) “Sorry Kiyotaka, have you been waiting?” — Kei.
+[says:ayanokouji-kiyotaka] (p.26) “Not really. Shall we go then?”
+[says] (p.26) “Yesterday… Thanks for staying up with me until late. I'm very happy.” — Kei squeezed his hand while blushing a little.
+[says:ayanokouji-kiyotaka] (p.26) “But it'd be a problem if we get caught.”
+[says] (p.26) “Ahaha, indeed.” — Kei; “For some reason, Kei's profile looked reliable. Is it possible for her to change this much in half a day?” — the narration.
+[says] (p.26) “Do you even have to ask?” — Kei, asked if it hurt.
+[says] (p.26) “No, but… how do I put this, I thought I was used to it.” — a little embarrassed; delighted.
+[says] (p.26) “In a way, it was my first time so I probably hadn't sorted my thoughts yet. However, I feel reassured that you ignored the curfew and stayed with me the whole time.”
+[says:ayanokouji-kiyotaka] (p.26) “I see.”
+[says] (p.26) “Good morning, Maya ~” — Kei gives him a gaze, excuses herself and starts closely chatting with Satō.
+[says:satou-maya] (p.26) “G-Good morning, Kei-chan.” — Satō, who arrived early, got up to run to her.
+[note] (p.26) “Kei ascended another step up on the staircase of adulthood after yesterday's experience.” — the narration; she had support behind her and stood her ground anyway.
+[rel:satou-maya] (p.26) She greets him with bright “Maya ~” warmth; the moment's growth is witnessed by her.
+[rel:ayanokouji-kiyotaka] (p.26) She stayed the night past curfew; visibly grown more confident.
+### y2v7 p.51–52 — Named by Nagumo as the hostage card
+[mentioned] (p.51–52) Nagumo plays her as the card to sway Ayanokōji — “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?” — Ayanokōji's answer: “It doesn't matter who it is.” — “If she disappears, she's gone, and that's all there is to it.” — Nagumo appears genuinely shaken: “You have loose screws.”
+[rel:nagumo-miyabi] (p.51–52) She is the card Nagumo plays; it fails.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.54 — Snubbed; the Shinohara pivot
+[scene] (p.54) After school; Kei asks Ayanokōji to come home; he declines — “Sorry, I've got plans later today.”; she switches to Satō without flinching; invites Shinohara too; they walk off together.
+[says] (p.54) “Hey, Kiyotaka. Come home with me.” — Kei asks him to come home.
+[says:ayanokouji-kiyotaka] (p.54) “Sorry, I've got plans later today.” — Ayanokōji declines.
+[says] (p.54) “Oh, really? I see....... Well then, Maya-chan, go home with me!” — after a quick switchover, Kei turned to Satō, who was still in the classroom.
+[note] (p.54) “You're not going with Ayanokōji-kun?” / “Come on, come on, don't say that. See?” — printed untagged (one is Satō's, one is Kei's); not assigned.
+[note] (p.54) “Satō rushed in, but didn't show any disapproval at all, but rather accepted Kei's proposal with a smile. She then invited a few other girls to join her and happily left the classroom. Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — the narration.
+[note] (p.54) “After getting closer to Satō, Kei seemed to have grown even more mature than before.” — the narration.
+[rel:satou-maya] (p.54) Satō goes home with her with a smile; their closest friendship anchors her growth.
+[rel:shinohara-satsuki] (p.54) She invites Shinohara, who recently had a rough relationship with Kei.
+[rel:ayanokouji-kiyotaka] (p.54) He declines; she doesn't miss a beat.
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.92–98 — The scouting walk; the shooting game; Ishizaki's protein scam
+[scene] (p.92) §3 — Kei appears as if she had been waiting for that moment and takes him in her arms; they walk the school together — scouting.
+[says] (p.92) “Let's go together.” — Kei took him in arms.
+[says:ayanokouji-kiyotaka] (p.92) “I'd rather not but I don't think you're going to leave me.” — Ayanokōji.
+[says] (p.92) “I won't leave you.” — Kei.
+[says:ayanokouji-kiyotaka] (p.92) “You're free to go together, but remember that you are only scouting.” — Ayanokōji.
+[says] (p.92) “Yes, yes~” — Kei; she seemed to be at ease from start to finish.
+[scene] (p.93) The first-year stalls — target practice, ring toss, marble-dropping machines; “Oh, it's Yukimura-kun and the others!” — Kei points at Keisei, Sotomura and the other boys busily preparing; they leave them alone.
+[says] (p.93) “Shall we try our hand at ring toss?” — Kei.
+[says] (p.93) “I'll try! Oh, that stuffed animal is kind of cute. I might want one.” — Kei shouted and pointed from behind a student who was experiencing it first.
+[says] (p.93) “Try it, Kiyotaka!” — Kei urged him to try it and lightly pushed him in front of a table where five shooting guns were placed in a row.
+[note] (p.93–94) The cork gun; the bullets were distorted in shape; his first shot passed centimeters to the left; his second passed diagonally to the right; his first target shooting ended in a disastrous failure.
+[says:hosen-kazuomi] (p.94) “Ain't no way. The big bad Ayanokouji himself is a shitty shooter?” — Hōsen came out from behind the stall, laughing with a funny smile on his face.
+[says:ayanokouji-kiyotaka] (p.95) “I couldn't win it.” — Ayanokōji to Kei.
+[says] (p.96) “Because I got to see Kiyotaka's cuteness. I'm super satisfied as far as I'm concerned.” — Kei grinned happily and poked him in the stomach area with her elbow.
+[says:ayanokouji-kiyotaka] (p.96) “What do you mean, 'cuteness'?” — Ayanokōji.
+[says] (p.96) “I was happy that it wasn't like an anime, where you hit it on the first shot. I realized again that you can't do everything.” — Kei.
+[says:ayanokouji-kiyotaka] (p.96) “That's cute, huh? I feel like you usually want your boyfriends to be cool.” — Ayanokōji.
+[says] (p.96) “I've been shown enough of that.” — Kei; she didn't blame him, but rather, her emotions seemed to take pleasure in the fact that he didn't take the prize.
+[scene] (p.96) Ishizaki's booth — a desk, cardboard, disposable chopsticks and cups; protein and citric acid powders; Kei stares suspiciously.
+[says:ishizaki-daichi] (p.96) “Yo, Ayanokōji!” — Ishizaki.
+[says:ishizaki-daichi] (p.96) “Yes, it is, isn't it? It's an idea of mine and Albert's, you know.” — Ishizaki.
+[says] (p.96) “Wow, how did an enforcer like you get permission from Ryūen to do this? You couldn't even set up a birthday party.” — Kei; she stared at Ishizaki suspiciously.
+[says:ishizaki-daichi] (p.96–97) “I wanted to make it happen! I made a proposal just like you told me to do, and I got kicked out of it...” — he held his abdomen; October 20, the day of Ayanokōji and Ryūen's birthdays; Kei's condition was that Ryūen apologize to her directly for what he did on the rooftop and bow down to her; Ryūen did not accept her conditions.
+[says:ishizaki-daichi] (p.97) “But I'll get my revenge next year! You'll just have to wait for me!” — Ishizaki.
+[says:ishizaki-daichi] (p.97) “Who cares? Do you care? Okay, you guys go ahead and give it a try.” — Ishizaki.
+[says:ishizaki-daichi] (p.97) “This is chocolate flavored protein. Well, just take a light lick.” — Ishizaki.
+[says] (p.97) “I don't want it.” — Kei refused to drink it as soon as it was served.
+[says:ishizaki-daichi] (p.97) “Oh, don't be like that. It's just protein.” — Ishizaki.
+[says] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get muscular.” — Kei.
+[says:yamada-albert] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
+[says:yamada-albert] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
+[says:ishizaki-daichi] (p.97) “Well, I'll drink it for you then, just in case... it's bad.” — Ishizaki; Kei, who drank protein for the first time, frowned as if it didn't taste good.
+[says:ishizaki-daichi] (p.97) “Tastes bad? Well, it's not undrinkable, right?” — Ishizaki.
+[says] (p.97) “It's not undrinkable, but I don't really want to drink it.” — Kei.
+[says:ishizaki-daichi] (p.97) “Well, you need a palate cleanser.” — Ishizaki; water was handed to him, perhaps to rinse out his mouth.
+[note] (p.98) “I think I like this one better.” — printed untagged; both muttered their impressions of the citric acid drink to each other; not assigned.
+[says:ishizaki-daichi] (p.98) “Well, that's the last one. The two you just drank aren't bad, are they?” — Ishizaki.
+[says] (p.98) “I didn't like the protein.” — Kei.
+[says:ishizaki-daichi] (p.98) “You're good, Karuizawa, how about Ayanokōji?” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.98) “Yes, it wasn't bad at all.” — Ayanokōji.
+[note] (p.98) Ishizaki laughed happily.
+[says:ishizaki-daichi] (p.98) “By the way. If you add citric acid to this chocolate-flavored protein, you get a very strange taste.” — Ishizaki; he handed him the mixed protein.
+[says:ishizaki-daichi] (p.98) “Now drink both of them at the same time.” — Ishizaki.
+[says] (p.98) “I'm kind of scared.” — Kei.
+[says:ayanokouji-kiyotaka] (p.98) “Well, let's drink it.” — Ayanokōji.
+[note] (p.98) The moment he put it in his mouth, he involuntarily stiffened at the taste spreading from the surface of his tongue.
+[says] (p.98) “Shit!” — Kei screamed next to him and spat it out on the spot; she made a vomiting gesture while thrashing about.
+[says] (p.98) “This, that, that tastes like vomit! Eeeeee!” — Kei.
+[note] (p.98) He remembered that taste too — a powerful fist to the abdomen in martial arts training.
+[says:ishizaki-daichi] (p.98) “Hahaha! Yes! That's funny!” — Ishizaki.
+[says] (p.98) “Not funny! Water!!!” — Kei; pushing away Ishizaki, who was laughing exasperatingly, Kei drank from the water bottle.
+[says:ayanokouji-kiyotaka] (p.98) “This is, how can I say this, certainly a mystery drink.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “Even the quintessential Ayanokōji is a bit taken back.” — Ishizaki.
+[says:ishizaki-daichi] (p.98) “I'm going to surprise my customers tomorrow. For 500 points a cup, I'm going to offer them a magical experience.” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.98) “I'm amazed that Ryūen allowed you to do this.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “He said, ‘Do whatever you want with your points. We're doing something else tomorrow.’” — Ishizaki.
+[says] (p.98) “Ugh, a fun date turned into the worst...” — Kei just kept giving Ishizaki resentful glances until she left the place; their relationship, which seemed to have improved a bit, may be back to square one.
+[rel:ishizaki-daichi] (p.96–98) The protein scam; Ryūen's blessing; her conditions; the magical experience plan.
+[rel:yamada-albert] (p.96–97) Albert's mumbled English; the duo.
+[rel:hosen-kazuomi] (p.94–96) The Class D games stall; the childhood gambler; she poked him in the stomach with her elbow.
+[rel:sudou-ken] (p.98) Sudō's bodyguard role during the simulation.
+[rel:ayanokouji-kiyotaka] (p.92–98) The scouting walk; his missed targets; the armed scam.
+### y2v7 p.100–101 — The Kei-maid refusal; the break rule
+[scene] (p.100) After the cleanup; Horikita announces tomorrow's schedule; only Ayanokōji and Horikita remain in the classroom.
+[says:horikita-suzune] (p.100) “I don't want to do it, but it would be nice to have more hands, wouldn't it? It would have been a little easier if your girlfriend had cooperated.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.100) “I'm sorry, but it's out of my jurisdiction. I've left it to Kei's will.” — Ayanokōji.
+[note] (p.101) “It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform… Not everyone understood Kei's body and her past.” — the narration.
+[says:horikita-suzune] (p.101) “I've made some adjustments based on today's simulation.” — Horikita handed him the notebook.
+[says:horikita-suzune] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
+[rule] (p.101) All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; they may not assist with any of the stalls during the break.
+[rel:horikita-suzune] (p.100–101) The maid question; the schedule sign-off; the mandatory break notice.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.110–114 — The backstop for Satō; the first-photo revival
+[scene] (p.110) Matsushita's absence; the shift change; Satō claps her own cheeks; Kei cheers her up from behind the scenes.
+[says] (p.110) “Maya-chan will be fine. I'll back you up too.” — Kei, cheerfully encouraging her.
+[says:satou-maya] (p.110) “We can do it, we can do it!” — Satō.
+[says:satou-maya] (p.110) “Yeah, I'll do my best!” — Satō.
+[scene] (p.114) §3 — Kei is in charge of the first photos; the maids' voices echo through the store — “I got one shot~!”
+[note] (p.114) “I got one shot~!” — the maids' voices echo through the store; the speaker is not printed as one name; not assigned.
+[note] (p.114) Since overcoming a big hurdle, the two of them have really grown closer; their relationship as best friends won't be broken in the slightest from now on.
+[rel:satou-maya] (p.110) She backs her; their friendship won't break.
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.132 — The Kei suggestion Kushida makes and drops
+[mentioned] (p.132) “Yeah, why not Karuizawa-san?” — Kushida suggests Kei for the maid café; “As I recall, she has a break at 2 p.m., right?” — “Yes. She's on break right now, and even if we had her change her clothes after returning at 3:00, it's doubtful to what extent she'd be able to be of any use.” — Ayanokōji's flat answer; no action taken.
+[rel:kushida-kikyou] (p.132) She proposes Kei; Ayanokōji declines to do anything about it.
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.189–196 — The Kei threads: the secret; the squeeze bait
+[mentioned] (p.189) “I kept this fact a secret from our classmates, including Kei, with the exception of Horikita. And no one in Ryūen's class, except Ryūen and Katsuragi, had heard about it.” — Horikita's confession to the planners; Kei excluded.
+[mentioned] (p.193) “The love letter prepared in this way was passed to Horikita through another girl using Kei. Then, she was led to hand it to Yagami, giving him time to examine it.” — the caller's account; Kei was an unknowing courier.
+[mentioned] (p.195) “It seems you called Satō to your room and made cheap threats, but it wasn't a serious attempt to manipulate her into ruining our relationship. It was because you wanted to push her to act, or deal with the threat of Kei's relationship, by indirectly letting her know that we were getting close.” — Ayanokōji to Tsubaki; the bait was Kei's relationship with Satō.
+[rel:satou-maya] (p.195) Her close friendship is the handle the squeeze pulls.
+
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

@@ -129,14 +129,44 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.36–41 — Mii-chan warns Ayanokōji about Nagumo
-[says] (p.38) "Nagumo is saying that he's going to let the non-A's compete and pick one student from the class that takes first place."
-[says] (p.38) "Nagumo and I never went head to head to settle our dispute for good."
-[says] (p.38) "Miyabi could start targeting people close to you."
-[trait] (p.36–41) Meets Ayanokōji privately and warns him — having watched Nagumo for three years, she knows he likes to compete and has never been clearly beaten; she fears he may target people close to Ayanokōji (Kei, Ichinose) and warns "Miyabi could start targeting people close to you."
-[rel:ayanokouji-kiyotaka] (p.36–41) She warns him about Nagumo; they discuss his "dazzling" nature and lack of real opponents.
-[rel:nagumo-miyabi] (p.38) She knows him well (watched Nagumo by his side for the past three years) — he's her class leader.
-[rel:ichinose-honami] (p.38) Nagumo's plan concentrates points on Ichinose — Ayanokōji's old flame.
+### y2v7 p.34–41 — The haunted-house fall; the infirmary warning
+[scene] (p.34) In the haunted house the ghost that jumps out stumbles on a step and falls over; “Ouch, ouch!!!” — it turns out to be Asahina Nazuna, a third-year Class A student.
+[action] (p.36) Ayanokōji lends her a shoulder and checks her ankle — beginning to swell; walks her to the infirmary with a few curious stares; curiously stared at; the doctor treats her on the spot.
+[says] (p.36) “Oh, thank you for that.” — Asahina, unable to stand on her own.
+[says] (p.36) “Don't worry about me. Thank you, Ayanokōji-kun. I'm sure I'll be fine after a little rest.”
+[says] (p.36) “Woah what are you doing?”
+[says] (p.36) “Oh, um, sure…”
+[says] (p.36) “Yeah, I guess. Yeah, I think I'll do that.” — shifting to one leg and hopping.
+[says] (p.37) “Speaking of which, Ayanokōji's class was met with a disaster weren't you?”
+[says] (p.37) “Yes.” — on the leak.
+[says] (p.37) “If you have three or four classes with the same exhibit, it's only going to make the competition for customers much worse.”
+[says] (p.38) “Oh, thank God. I didn't want to bother the class with something like this.”
+[says] (p.38) “That's not going to happen. But there's nothing better than having lots of class points, you know. There are even quite a few of my classmates that are against Miyabi being hands-off this time.”
+[says] (p.38) “In case you're wondering, Nagumo is saying that he's going to let the nonA's compete and pick one student from the class that takes first place,” she said. — Nagumo's plan concentrates points on Ichinose.
+[says] (p.38) “You know what we were talking about earlier, right? How Miyabi wasn't keeping an eye on you anymore?”
+[says] (p.38) “There was never really a clear winner between you and Miyabi, was there?”
+[says] (p.38) “If that's the case, then I don't think it's over.”
+[says] (p.38) “I don't think that even matters. It's not entirely about you anymore, Ayanokōji-kun. Miyabi could start targeting people close to you.”
+[says] (p.39) “Like former student council president Horikita, Nagumo likes to compete, doesn't he?”
+[says] (p.39) “Has Nagumo ever been clearly beaten by someone or something? Has he ever had a slight setback?”
+[says] (p.39) “Miyabi's never stumbled, at least not to my knowledge.”
+[says] (p.39) “It would be an unquestionable fact that Student Council President Nagumo is an excellent person. If he wasn't competent, it would be impossible for him to achieve his OAA or become student council president.”
+[says] (p.39) “That guy likes being number one. That's why he fought to be the top of this school. In the end, he even became the student council president, so he's really a man of his word.”
+[says] (p.39) “How can that be...? He's never lost to anyone in particular.”
+[says] (p.39) “You mean he didn't have a good... Rival?”
+[says] (p.40) “I wish we could just stop fighting in this school.”
+[says] (p.40) “I just hope nothing will happen to me...”
+[says] (p.40) “Did I hear you right?” — on Ayanokōji being “a little interested in Student Council President Nagumo.”
+[says] (p.41) “I knew you were strange.” — after his confession of interest.
+[says] (p.41) “It may have been a coincidence that we met, but maybe that's why Nagumo wants to fight.” — her final word.
+[rel:nagumo-miyabi] (p.36–41) She watches him by her side; three years at his side; warns that he could target people close to Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.36–41) The ankle-infirmary walk; the private warning about Nagumo; the “test case” framing is his, not hers.
+[rel:ichinose-honami] (p.38) Nagumo's plan concentrates points on Ichinose (Asahina's and, later, Kanzaki's account).
+[rel:horikita-manabu] (p.39) Her “like former student council president Horikita” comparison of competitors.
+### y2v7 p.44 — Asahina named in passing
+[mentioned] (p.44) “seemed that he was all alone today, just as I had been informed by Asahina.” — the narrator noted that Asahina informed him of the staff room visit; passing mention.
+<!-- walk: y2v7 Ch.1 → p.53 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

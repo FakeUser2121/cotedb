@@ -448,10 +448,40 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — shinohara-satsuki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.26, p.54, p.110, p.132-133, p.177.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.26 — Drawn into the Satō–Kei circle
+[mentioned] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the narration; Shinohara is drawn into the Satō–Kei circle of happiness spreading from the dormitory-side street to the classroom.
+[rel:satou-maya] (p.26) She is the friend Shinohara is drawn toward.
+[rel:karuizawa-kei] (p.26) She is part of the pair whose warmth pulls Shinohara in.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.54 — Joins Kei and Satō
+[mentioned] (p.54) “Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — invited by Satō; the circle's newest member after their recent fight.
+[rel:satou-maya] (p.54) She is the one who invites her.
+[rel:karuizawa-kei] (p.54) Shinohara and Kei have a new chapter after fighting.
+
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.110 — Shoulder to shoulder with Ike
+[mentioned] (p.110) Ike stands shoulder to shoulder with Shinohara — the narration (unquoted); she's at the festival opening beside him.
+[rel:ike-kanji] (p.110) Shoulder to shoulder all morning.
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.132–133 — The 3:00 break; the held hallway
+[scene] (p.132) Ike suggested Satsuki to Ayanokōji — she was practising to be a maid, even if only lightly; she was working on the cooking side of the stall; Ayanokōji called her to the hall; she asks to be relieved at 3:00.
+[note] (p.132) Fifteen minutes later, Shinohara was asked to go to the hall, and Azuma was asked to join Kushida in the hallway to hold up the customers waiting there; but Kushida's expression in the hallway was grim, and it was not a development she seemed to relish.
+[note] (p.132) “It's hard to say if she's the right person for the job, because Shinohara-san doesn't make much of an impact visually, and she's not very good as customer service.” — Kushida's observation; Shinohara's impact will be limited.
+[rel:ike-kanji] (p.132) The Ike suggestion; she accepts the hall job.
+[rel:azuma-sana] (p.132–133) The recommendation that brought Azuma in; she joins Kushida in holding the line.
+[rel:kushida-kikyou] (p.132–133) The 3:00 lineup; the hallway call.
+[rel:hirata-yousuke] (p.132) Her cooking stall partner.
+
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.177 — Named in the GPS watch failure recount
+[mentioned] (p.177) “Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names.” — the GPS discussion; Shinohara is named as one of the victims.
+[note] (p.177) The fourth injured student was Shinohara; her name appears only here.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

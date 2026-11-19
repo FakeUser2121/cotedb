@@ -585,10 +585,11 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — hoshinomiya-chie mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11-12, p.39-40, p.43, p.49, p.109.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.157 — Chabashira suggests her
+[mentioned] (p.157) “Well, wait. Yes, why don't you ask Chie? She does this kind of thing better. She'd be ready to do it even for a rival class.” — Chabashira-sensei; “I'm sure she would. But what I'm looking for now is not someone who can do this dexterously, but rather someone who is clumsy.” — the Chie suggestion is refused.
+[note] (p.157) Chie — Hoshinomiya Chie (rostered; aliases hoshinomiya and chie); named by Chabashira-sensei; the text prints her as "Chie"; assignment per the roster's Chie alias is reasonable but not guaranteed; not assigned as outright identity; flagged.
+[rel:chabashira-sae] (p.157) The Chie suggestion falls flat.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v8
 

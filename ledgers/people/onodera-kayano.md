@@ -114,13 +114,31 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — onodera-kayano mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.8-9, p.99-100.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.8–9 — Additional funds: 10,000 club activity bonus
+[scene] (p.8) The additional-funds breakdown is displayed: Onodera Kayano earns 10,000 points — club activity bonus, the maximum, shared with Horikita and Sudō; the class's total 39,400.
+[number] (p.8) Onodera Kayano's additional funds: 10,000 (club activity, the maximum) — “● Onodera Kayano, Club Activity Bonus:10,000 points”
+[note] (p.8–9) “Other students, such as Sudō and Onodera, were considered to be head and shoulders above the rest in their contributions to club activities throughout the entire school year.” — the narration.
+[rel:sudou-ken] (p.8) They share the club activity maximum.
+[rel:horikita-suzune] (p.8) They share the club activity maximum; Horikita holds the third 10,000 (student council member bonus).
 
-
-
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.99–100 — Onodera: the maid envy, the legs, and the arrow
+[scene] (p.98) Sudō's role during the simulation was bodyguard — he forcibly interrupted any boy who called out to the maids and asked them to leave the room.
+[scene] (p.98–100) Onodera shows up after the cleanup — she had been sent out to the outdoor stalls and made a disappointed sound as soon as she returned.
+[says] (p.99) “We're done here, too,” — Onodera.
+[says:ayanokouji-kiyotaka] (p.99) “You wanted to see the maids?” — Ayanokōji.
+[says] (p.99) “I like cute things too. Besides, I'm not the kind of person who looks good in a maid's uniform, my legs are too thick.” — Onodera.
+[says:ayanokouji-kiyotaka] (p.99) “You don't know if it looks good on you or not until you try it on.” — Ayanokōji.
+[says] (p.99) “With the limited clothes we have, I'm sure they won't even fit my size.” — Onodera with a wry smile.
+[note] (p.99) Because of her commitment to swimming, Onodera has a well-trained body, including broad shoulders and legs that are more developed than most girls — if they were to provide her with a size-fit maid uniform, it would inevitably be made exclusively for Onodera.
+[note] (p.99) Sudō crouched down and moved his gaze closer to Onodera's thighs.
+[says:sudou-ken] (p.99) “They're the legs of a well-trained athlete. Well, it's certainly a little different from what you'd call a maid.” — Sudō placed his finger to his chin.
+[says] (p.99) “I'm so embarrassed!” — Onodera blushed and ran out of the classroom like a rabbit.
+[note] (p.99) “What's with her?” — "As I watched the two of them interact, I could feel the obvious change in Onodera up close."
+[note] (p.99) "It would be nice if both arrows were facing each other, but as it was, both arrows were going the opposite way." — the narration.
+[rel:sudou-ken] (p.99–100) The legs comment; the flight; Ayanokōji's seed about her feelings for Sudō.
+[rel:ayanokouji-kiyotaka] (p.99–100) The nudge; the seed planted.
+<!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v8
 

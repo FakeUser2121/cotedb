@@ -28,13 +28,49 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ichihashi-ruri mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.75-77, p.114, p.172.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.75–77 — The letter courier
+[scene] (p.75) After school that day — Ichihashi approaches Horikita with some hesitation — a love letter with a heart sticker; anonymous; addressed to Nagumo Miyabi, the student council president.
+[says] (p.75) “Um, Horikita-san... Can I have a minute?” — Ichihashi rarely speaks to Horikita; she hardly has strong connections with her.
+[says:horikita-suzune] (p.75) “What is it?” — Horikita.
+[says] (p.75) “Actually, I have a favor to ask you. You have student council work later today, don't you?” — Ichihashi.
+[says:horikita-suzune] (p.75) “Yes. As I told the class a while ago, I have student council work to do. I can't help you with the festival.” — Horikita.
+[says] (p.75) “Yes, well, that's not what I meant. Can you please send this...?” — she presented a letter; a heart sticker clasped the envelope's mouth.
+[says] (p.75) “It's a love letter...” — Ichihashi.
+[says:horikita-suzune] (p.75) “What's this?” — Horikita.
+[says:horikita-suzune] (p.75) “Eh?” — Horikita.
+[says] (p.75) “Oh, It's not like it's from me to Horikita-san or something. Actually, one of my friends asked me to give it to Nagumo Miyabi, the student council president.” — Ichihashi.
+[says:horikita-suzune] (p.76) “To the student council president? But isn't that something you should give in person?” — Horikita.
+[says] (p.76) “She asked me to deliver it to him because she was too nervous to give it herself. But I don't have the courage to hand it to the student council president in person either...” — Ichihashi.
+[says:horikita-suzune] (p.76) “I understand the situation, but...” — Horikita.
+[says] (p.76) “Please. She's been struggling with it for a long time now, and... she's finally found the courage to do so.” — Ichihashi.
+[says:horikita-suzune] (p.76) “Okay. I'll see if I can somehow find an opening and give it to him for you. Is that okay?” — Horikita.
+[says] (p.76) “Uh, yes.” — Ichihashi answered, but she looked a bit brusque.
+[says:horikita-suzune] (p.76) “Is there still a problem?” — Horikita.
+[says] (p.76) “Um, well, there's a little problem with this love letter.” — Ichihashi.
+[says:horikita-suzune] (p.76) “Can I assume that it is written inside who this letter is from?” — Horikita.
+[says] (p.76) “I don't know... If it were normal, I'd imagine it would be written. That girl, if she was just happy to tell him how she feels, she might not have written it.” — Ichihashi.
+[says:horikita-suzune] (p.76) “That's a little hard to accept. Of course, I'll explain when I give it to him, but if I'm not careful, he might mistake it for a letter from me.” — Horikita.
+[says] (p.77) “Well then, can't you ask someone else? Like a boy you know in the student council or... No? I'd like for you to give it today somehow.” — Ichihashi.
+[note] (p.77) “That's easy for you to say...” — Ichihashi despite her concern.
+[says:horikita-suzune] (p.77) “I'll do my best, but there's no guarantee that I'll be able to give it to him, okay?” — Horikita.
+[says] (p.77) “I'm glad you accepted. I'm sure she'll be very happy.” — Ichihashi.
+[note] (p.77) “Although reluctantly, Horikita agreed to deliver the love letter to Nagumo.” — the narration; normally she would've asked who the letter is from, but she wasn't interested and didn't try to dig deeply.
+[rel:horikita-suzune] (p.75–77) Her rare contact with Horikita; the delivery job; her brusque acceptance.
 
 
+<!-- walk: y2v7 Ch.3 → p.83 -->
+### y2v7 p.114 — The bill-charging assignment
+[scene] (p.114) §3 — Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment for a photo shoot with Mii-chan.
+[note] (p.114) "Ichihashi, who was in charge of the bill, promptly received the points on her cell phone and completed the payment." — no scene lines beyond the business; named.
+[rel:wang-mei-yu] (p.114) The subject of the billing photo shoot.
+[rel:ayanokouji-kiyotaka] (p.114) The photo counter.
 
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.172 — Ichihashi-san named in the vice-president exchange
+[mentioned] (p.172) “From the moment you handed me that letter disguised as a love letter, you” — Yagami's retort; the letter chain — Kiriyama-senpai took out the letter Horikita had received from Ichihashi-san.
+[note] (p.172) The literal line: “Student Council President Nagumo took out from his pocket the love letter I had received from Ichihashi-san.” — Ichihashi-san is the courier named in the letter trail; see horikita-suzune for the full sequence.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v10
 

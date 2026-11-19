@@ -98,13 +98,45 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — maezono mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11, p.13, p.16, p.18-20, p.27-29.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.11 — The equal-sales question answered
+[scene] (p.11) After Horikita's tie question; Maezono doubts the scenario is worth worrying about.
+[says] (p.11) “I don't think an equal number of sales among the classes would be normal. I don't think you need to worry about it.” — Maezono voiced her doubts.
+[note] (p.11) Chabashira agrees it's not a bad thing to know the rule; Horikita had a point; Maezono's worry is that an equal-sales tie is not realistic.
+### y2v7 p.13–22 — Maid café planning: stall location and budget debate
+[scene] (p.13–22) The six planners inspect special-building stall floors; Maezono argues for the first floor; the group votes by rock-paper-scissors; first floor wins.
+[says] (p.16) “I guess the second floor is better than the third floor! More to the point, the first floor would be ideal,” — Maezono muttered as she looked at the view outside the window.
+[note] (p.16) The five candidates: first through third floors; the third floor could be rented for between 1,000 and 13,000 points; the first floor flat 50,000; “the nearly 40,000 point difference could be used to purchase food and other necessities.”
+[note] (p.20) The vote: four rocks (first floor), two papers (Ayanokōji, Matsushita), zero scissors; third floor eliminated for time and effort; Horikita applied for the first floor by phone.
+[says] (p.29) “Does that mean a maid café?” — Maezono immediately responds to the keyword “same.”
+[note] (p.29) When Ryūen declares the same concept, “Maezono who immediately responded to the keyword 'same'” — she is the canary in the planners' cage.
+### y2v7 p.27–31 — The leak hits; Maezono confronts Horikita; the concept collapse
+[scene] (p.27) Maezono stood up in surprise when Ike burst in with the leaked maid café news — a secret kept from all but a few students.
+[says] (p.27) “Where did you hear this, Ike-san?” — Maezono, stiff and angry; Ike choked on his words.
+[says] (p.27–28) “Does this mean that Ryūen-kun betrayed us after all? You said it was okay, didn't you, Horikita-san?” — Maezono angrily confronts Horikita.
+[note] (p.28) Maezono, in particular, was glaring at Ryūen without hiding her annoyance.
+[note] (p.30–31) “What are you going to do, Horikita-san? We're pretty well prepared, aren't we..?” — Matsushita asked; Maezono and the others approached Horikita, letting some of the bottled-up anxiety and frustration spill out.
+[note] (p.31) “We can't do that. Part of the budget's already invested.” — Horikita answers; the planners are trapped between the sunken budget and the copied concept.
+[rel:horikita-suzune] (p.27–31) She confronts Horikita over the Ryūen betrayal; anxiety and frustration spill out.
+[rel:ike-kanji] (p.27) He brings the lobby rumor; she frightens him with her angry look.
+[rel:ryuuen-kakeru] (p.27–29) His leak turns her open hostility public; she glares without hiding it.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.84 — The early departure; four booths
+[scene] (p.84) The day before the festival; Maezono asks about Hasebe and Miyake leaving the classroom; four booths in Horikita's class.
+[says] (p.84) “You guys didn't make Hasebe-san and Miyake-kun come?” — Maezono asked as her eyes followed Haruka and Akito leaving.
+[note] (p.84) The four booths: the maid café (main sales: tea, coffee, and other drinks, plus photo shoots with the maids); two outdoor stalls (powdered food — takoyaki, okonomiyaki — and Western-style pasta and bread stalls); and the outdoor quiz competition for children, added on short notice with the extra budget.
+[note] (p.84) 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
+[rel:hasebe-haruka] (p.84) She left early — potentially planning revenge.
+[rel:miyake-akito] (p.84) He left with her.
+[rel:kouenji-rokusuke] (p.84) The only other non-cooperator, along with Hasebe and Miyake.
+[rel:satou-maya] (p.84) The rehearsal proceeds with her and the other planners.
 
 
-
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.190 — The planner high-five
+[mentioned] (p.190) “The three of them high-fived each other.” — Satō, Mii-chan, Maezono; they celebrate the festival victory.
+[note] (p.190) Maezono is the third high-fiv-er; she says nothing on record here.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v9.5
 

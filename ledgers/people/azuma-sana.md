@@ -10,16 +10,16 @@ char_id: azuma-sana · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — azuma-sana mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.132-133, p.148.
-[mentioned] (p.7) Passing mention only.
-
-
-
-
-
 <!-- walk: y2v8 Epilogue → p.208 -->
+
+### y2v7 p.132–133 — The persuaded volunteer
+[scene] (p.132) “Later, with a recommendation from Shinohara, he strongly persuaded Azuma. It was decided that she would join us.” — she joined Kushida in the hallway to hold up the customers waiting there.
+[note] (p.132–133) Fifteen minutes later, Shinohara was asked to go to the hall, and Azuma was asked to join Kushida in the hallway to hold up the customers waiting there; but Kushida's expression in the hallway was grim, and it was not a development she seemed to relish.
+[scene] (p.148) §2 — Kushida was walking around handing out new cookies while serving customers with a smile; he felt bad for Azuma, who was working hard together with Kushida, and her contribution was more than what any of us expected.
+[rel:kushida-kikyou] (p.132–133, 148) She works beside her all day; her contribution exceeds expectation.
+[rel:shinohara-satsuki] (p.132–133) The recommendation that brought her in.
+[rel:ike-kanji] (p.132) The Ike suggestion led to her joining.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v10
 

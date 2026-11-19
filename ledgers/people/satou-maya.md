@@ -524,10 +524,127 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — satou-maya mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.13, p.15-20, p.26-27, p.54, p.85-86.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.13 — The maid café planner
+[scene] (p.13) Satō is one of the six maid café planners — Satō, Matsushita, Mii-chan (Wang), Maezono, Horikita, Ayanokōji; the planners were mainly held via cell phone after the initial presentation.
+[rel:wang-mei-yu] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
+[rel:matsushita-chiaki] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
+[rel:maezono] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
+[rel:horikita-suzune] (p.13) The planners' circle including Horikita.
+### y2v7 p.15–22 — Quiet and distracted; the floor vote
+[scene] (p.15) On the floor-inspection walk, Satō — who was always high-spirited and often speaks even when she's not heard — has been rather quiet since this morning; her friends look at her with concern; she looks as if her mind is somewhere else.
+[says] (p.15) “Oh, um. I was thinking... yeah, I guess I think it's a little far away too.” — Satō hurriedly replies, looking up at them.
+[note] (p.15) “What do you think, Satō-san?” — Mii-chan asks; “Satō-san?” again; “It's a lot farther than I thought it would be.” — Mii-chan's first impression was still about the distance.
+[note] (p.15) “I don't think all of us will be able to make the trip here unless we have a pretty good show.” — printed untagged (Satō or Wang); not assigned.
+[note] (p.16) “Sato-san has been like that lately.” — Matsushita, noticing Ayanokōji's concern, whispered over to him.
+[note] (p.17) Matsushita on Satō: “It's like she wants to talk but can't. She's the type of person who keeps things inside.” — “Then I guess we'll have to wait and see for a while longer. If your understanding is correct, I'm sure she'll come to you for advice at some point.” — Ayanokōji advises waiting.
+[says] (p.18) “Huh? Oh, um, yeah. A little bit.” — Satō, addressed by Mii-chan (“That was a little scary...”).
+[note] (p.18–22) Satō is at every planning beat — floors, rock-paper-scissors, the butler-café talk, the cleanliness check, the uniforms; present in the circle, silent at the edges.
+[rel:matsushita-chiaki] (p.16–18) Matsushita is the one who notices Satō's unusually quiet state and keeps watch over her.
+[rel:wang-mei-yu] (p.15–18) Mii-chan checks in with Satō on the walk and after the Hashimoto probe.
+### y2v7 p.26 — Kei arrives; Satō's gaze
+[scene] (p.26) The next morning at the dormitory-side street, Kei and Ayanokōji arrive at the classroom; Satō, who arrived early, spotted Kei and got up to run to her.
+[says] (p.26) “G-Good morning, Kei-chan.” — Satō runs to Kei.
+[says:karuizawa-kei] (p.26) “Good morning, Maya ~” — Kei, giving Ayanokōji a gaze, excuses herself and starts closely chatting with Satō.
+[note] (p.26) Their usual chit-chat, or maybe friendlier than usual; the circle of happiness began to spread to the other girls, even those not typically involved — Shinohara, and Mii-chan, who'd been struggling for a while.
+[rel:karuizawa-kei] (p.26) She and Kei are the closest of friends; Kei's growth is immediately visible to her.
+[rel:shinohara-satsuki] (p.26) Shinohara is drawn into the Satō–Kei circle despite struggling.
+[rel:wang-mei-yu] (p.26) Mii-chan is drawn into the circle too.
+[rel:ayanokouji-kiyotaka] (p.26) She gives him a “gaze” of hurt and jealousy — remembered from the morning with Kei.
+### y2v7 p.27, 101 — Sato named among the planners; mentioned at the Kei-maid refusal
+[mentioned] (p.27) “The people who came up with the idea, such as Satō, Matsushita, and Miichan, all looked at each other.” — Satō is named as one of the maid café planners.
+[mentioned] (p.101) “It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform.” — the narration; Satō is in the Kei-maid refusal scene.
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.54 — The pivot to Kei's plan
+[scene] (p.54) After school, Satō — still in the classroom; Kei switches to her after being declined by Ayanokōji; she accepts with a smile; invites Shinohara and other girls to join; they leave together.
+[note] (p.54) “You're not going with Ayanokōji-kun?” / “Come on, come on, don't say that. See?” — printed untagged (one is Satō's, one is Kei's); not assigned.
+[note] (p.54) “Satō rushed in, but didn't show any disapproval at all, but rather accepted Kei's proposal with a smile. She then invited a few other girls to join her and happily left the classroom. Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — the narration.
+[rel:karuizawa-kei] (p.54) Kei's quick switch lands on her; she takes it with a smile.
+[rel:shinohara-satsuki] (p.54) She invites Shinohara to join the walk home.
+[rel:ayanokouji-kiyotaka] (p.54) She leaves with the girls instead of him.
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.85 — The failed appeal
+[scene] (p.85) Satō calls out to Kushida as she gets up — Kushida stops and turns around on the spot; Satō tries as much as possible not to let her guard down; the atmosphere turns sour; Yōsuke stops Horikita from intervening.
+[says] (p.85) “I'd like to do some final checks for tomorrow's event and also practice my activities for the day. Do you think you'll have time today?” — Satō.
+[says] (p.85) “Listen, you keep refusing me like that. When are you seriously going to cooperate?” — Satō.
+[rel:kushida-kikyou] (p.85) Her failed appeal; Kushida refuses her until the very end.
+[rel:hirata-yousuke] (p.85) Yōsuke, standing beside Horikita, stops her from intervening.
+[rel:horikita-suzune] (p.85) Horikita wants to act, but Yōsuke stops her; the hard decision deferred.
+[rel:matsushita-chiaki] (p.85–86) Matsushita backs her complaint to Horikita — “But it's a lie that she has to do things every day, isn't it?”
+### y2v7 p.90 — The nervous maids; the slow start
+[mentioned] (p.90) “Sato and Mii-chan's movements seemed to be much more sluggish than during practice.” — the narration; Satō and Mii-chan underperform at the rehearsal.
+[note] (p.90) Mii-chan spills the water.
+[rel:wang-mei-yu] (p.90) Mii-chan spills the water.
+[rel:matsushita-chiaki] (p.90) Matsushita comes to the rescue.
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.110 — The cheek-slap ritual; the opening
+[scene] (p.110) The maid café's opening morning; Satō and the other maids discuss the shift change due to Matsushita's absence; Satō clasped her hands together in anxiety, but quickly slapped her own cheeks between her palms to regain confidence.
+[says] (p.110) “We can do it, we can do it!” — Satō.
+[says:karuizawa-kei] (p.110) “Maya-chan will be fine. I'll back you up too.” — Kei, cheerfully encouraging her.
+[says] (p.110) “Yeah, I'll do my best!” — Satō.
+[scene] (p.112) “Welcome!” — Satō's cheerful voice echoed in the classroom; the first guest to enter the store was a man who appeared to be in his 40s; Satō showed him to his seat and took the menu list and cold drinks to his table.
+[says] (p.112) “Let me show you to your seat.” — Satō.
+[note] (p.112) Satō's voice was cheerful, but her movements were stiff, since she wasn't entirely comfortable yet; still, thanks to the rehearsal the day before, there were no major mistakes.
+[says] (p.113) “Sato-san will show you around. “ — Satō.
+[says] (p.113) “Well then, if you'll follow me....” — Satō.
+[note] (p.113) Satō immediately approached to serve the customer and began to lead him to an empty seat.
+[rel:karuizawa-kei] (p.110) She backs her firmly; their bond deepened after the hurdle.
+[rel:matsushita-chiaki] (p.110–112) The shift change due to Matsushita's illness.
+[rel:ike-kanji] (p.110–113) Ike stands shoulder to shoulder with Shinohara.
+[rel:shinohara-satsuki] (p.110) She stands shoulder to shoulder with Ike.
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.131–161 — The §3 closing; the aces; Satō's “Welcome back!”
+[scene] (p.131) §1 — the overcrowding caused a shortage of staff; Sato and Mii-chan were the aces of the team, working hard all the time; Horikita, who was not initially supposed to be in charge of the hall, started serving customers in the middle of the day.
+[note] (p.131) Eight maid outfits prepared — two were basically considered as spares; no more than six maids could work at any one time; Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira.
+[scene] (p.148) §2 — Kushida was walking around handing out new cookies while serving customers with a smile; Satō shouted and led them to the entrance.
+[says] (p.148) “Welcome back!” — Satō.
+[scene] (p.150) §2 — Satō's voice reached the waiting room.
+[says] (p.150) “Ayanokōji-kun, Hasebe-san, take three pictures of us! Thank you very much!” — Satō.
+[rel:karuizawa-kei] (p.110) Kei continues to back Satō.
+[rel:matsushita-chiaki] (p.131) She substituted her shift while ill.
+[rel:wang-mei-yu] (p.131) The other ace of the team.
+
+
+
+
+
+
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.184–198 — The Epilogue: the confession, the acceptance, the squeeze
+[scene] (p.184) §2 — finally, 4:00 PM arrived, and the hectic cultural festival finally came to an end; it was around 5:30 when all the customers left and all the classmates (except Kōenji) gathered at the maid café.
+[note] (p.184) It was around 5:30 when all the customers left and all the classmates (except Kōenji) gathered at the maid café.
+[note] (p.188–190) After the festival, Horikita called some members of the group to the Class B classroom; they were the three maid cafe planners, with the exception of Matsushita, who was absent due to illness.
+[note] (p.188) The three maid cafe planners met: Satō, Mii-chan (Wang) and Maezono; Matsushita absent.
+[note] (p.189) Horikita's confession — “Actually, it was already decided from the beginning that he would leak the maid café.” — the leak was planned from day one.
+[note] (p.189) “It was all planned. Ryūen-kun and I would work together, he would betray us and make the maid cafe's performance known.” — Horikita, to the three planners.
+[mentioned] (p.190) “It's okay. We were first in the results, hey?” — Satō happily confirmed to Mii-chan and Maezono.
+[mentioned] (p.190) “Well, you know. If you do well, I guess I don't mind so much.” — Mii-chan.
+[mentioned] (p.190) “Yes. If I had been told beforehand, it might have shown on my face.” — Mii-chan; she concedes it would have affected her performance.
+[mentioned] (p.190) “Good for you, Horikita.” — not assigned to Satō; flagged untagged.
+[mentioned] (p.190) “I know you have a lot to talk about, but we're going to end today off. Thank you so much.” — Horikita; she dismissed them.
+[note] (p.190) After seeing the three of them off, only Horikita and Ayanokōji were left in the classroom.
+[mentioned] (p.190) “The three of them high-fived each other.” — Satō, Mii-chan and Maezono high-fived each other at the news of the plan working.
+[mentioned] (p.184–198) The Tsubaki squeeze: Tsubaki Sakurako approached Satō near the women's restroom at Keyaki Mall; she flashed some bait that would turn things around for her, including a turnaround between his relationship with Kei, which tickled her curiosity; she contacted Satō repeatedly and gradually drove her into a corner; when she couldn't take it anymore, she coordinated and threatened Satō, pushing her until she spat everything out and confided in someone; the goal was not to cage Satō but to wait for her to ask him for help.
+[note] (p.195) Ayanokōji: “Then, you most likely told Satō that it was Yagami who was behind the threats, not you.” — Tsubaki had framed Yagami as the phantom stalker.
+[note] (p.195) “As soon as you saw that Satō wouldn't accept your invitation, you contacted her again as if to follow up and made similar comments and provoked her. When you saw that Satō didn't seem to have consulted anyone, you gradually intensified your threats and hounded her. This was due to the fact that she would eventually come to consult someone, and that would be me.” — Ayanokōji's reconstruction of the squeeze.
+[note] (p.195) "The goal was not to cage Satō, but to wait for her to ask me for help." — Ayanokōji's internal read.
+[note] (p.195) “Tsubaki listened silently, staring at me without denial.” — Ayanokōji's confrontation; Tsubaki didn't deny it.
+[note] (p.195) The two of them elevated their relationship from friends to best friends in the truest sense of the word. That was on November 1. — the text does not state who “the two of them” refers to; ambiguous; not assigned.
+[rel:tsubaki-sakurako] (p.191–198) She was Tsubaki's target — the restroom approach; the three-week bait; the Kei relationship as the bait.
+[rel:karuizawa-kei] (p.195) Her relationship with Kei was the bait Tsubaki used.
+[rel:ayanokouji-kiyotaka] (p.195–198) Satō confided in him; he unraveled the Yagami frame; she and he are now closer in ways that remain unstated.
+[rel:sakura-airi] (p.185) Haruka's speech; Satō is in the audience; the Airi revelation changes the temperature in the room.
+[rel:hasebe-haruka] (p.184–198) Haruka's confession — Satō watches the star of the show.
+[rel:miyake-akito] (p.184) Akito's confession; the two of them will stay at this school.
+
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

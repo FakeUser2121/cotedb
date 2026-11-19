@@ -387,10 +387,63 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — mashima-tomonari mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.54-57, p.175-176, p.181-182.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.54–57 — The corridor gossip; Mashima's chat
+[scene] (p.54) After school, Ayanokōji passes the special-building corridor — the teacher in charge of 2nd year Class A and teachers for the other grades, standing around in the corridor talking; the unusual sight attracted his gaze; the gossip is about Chabashira's change.
+[note] (p.55) “Chabashira-sensei has changed recently.” / “She's become more chirpy, or rather, she seems to be laughing more often.” / “Mashima-sensei, you and Chabashira-sensei were schoolmates, weren't you? Well, I'd like to ask you a few questions...” — the overheard teachers' conversation.
+[says] (p.55) “Ayanokōji, what are you doing here in the special building?” — Mashima notices his presence and interrupts.
+[says:ayanokouji-kiyotaka] (p.55) “I have a short meeting. There are some things I want to talk about that I don't want to be accidentally overheard.” — the teachers, with the exception of Mashima-sensei, look somewhat dismayed and walk away.
+[says:ayanokouji-kiyotaka] (p.55) “Mashima-sensei, perfect timing. I would like to ask you a few questions.” — Ayanokōji takes the opportunity.
+[says] (p.55) “Me? What do you want to ask me?” — Mashima stays.
+[says:ayanokouji-kiyotaka] (p.55) “This is in respect of rules that are not explicitly stated in the festival” — although he looked slightly skeptical, Mashima immediately faced him head-on as a teacher.
+[says] (p.56) “I don't know what you want to ask, but shouldn't you first check with your homeroom teacher, Chabashira-sensei?” — Mashima; he doesn't hesitate to ask this to ensure that the underlying assumption is correct.
+[says:ayanokouji-kiyotaka] (p.56) “Sometimes, depending on the occasion, it is more expedient not to approach Chabashira-sensei.” — Ayanokōji.
+[says] (p.56) “Teachers are supposed to be fair to all pupils. But still, when it comes to other classes in the same grade, it doesn't mean that there won't be any problems at all. I hope you realise that.” — Mashima.
+[says:ayanokouji-kiyotaka] (p.56) “I judge that Mashima-sensei isn't the kind of person who would fail a student.” — Ayanokōji.
+[says] (p.56) “If that's what you think, then let's not go any further.” — Mashima; tone of “ask what you want if you're going to trust me.”
+[says] (p.56) “So what is it that you want to know regarding unstated rules?” — Mashima, giving his permission to ask.
+[says] (p.56) “Surely you're right. It isn't impossible to exercise it, if necessary.” — Mashima's confirmation of the unstated-rule premise.
+[says:ayanokouji-kiyotaka] (p.56) “I knew it.” — Ayanokōji.
+[says] (p.56) “However, it begs the question if it is efficient. As you know, if it were between pupils, no problems would arise. No, it would be precisely to have their own discussions so that they don't arise. You know what I mean, don't you?” — Mashima.
+[says:ayanokouji-kiyotaka] (p.56) “Yes. I thought it was something that didn't need to be specified in the rules and could be done independently.” — Ayanokōji.
+[says] (p.56) “Yes. Of course the risks will be different for each, but for whatever reason we will look at that option.” — Mashima.
+[says:ayanokouji-kiyotaka] (p.56) “I suppose it's only natural to be prepared for contingencies.” — Ayanokōji.
+[says] (p.56) “Whether you exercise it or not - or...? Well, it certainly wouldn't hurt to understand.” — Mashima; he may have had a vague idea of the sales strategy based on what was said.
+[says:ayanokouji-kiyotaka] (p.57) “It was good to get confirmation. Thank you.” — Ayanokōji.
+[says] (p.57) “It's no problem.” — Mashima.
+[says] (p.57) “Ayanokōji, you heard a little of what Chabashira-sensei said… What happened at the unanimous special exam?” — Mashima stops him; Mashima and Chabashira were schoolmates in the same year.
+[says:ayanokouji-kiyotaka] (p.57) “You haven't heard? Not from Chabashira-sensei?” — Ayanokōji.
+[says] (p.57) “With or without the expulsions, she started to look forward and smile. In other words, there was an influential event in that special exam that changed her mind, right?” — Mashima.
+[says] (p.57) “That wasn't the right thing to ask a pupil. Please forget I asked such a thing.” — Mashima.
+[says:ayanokouji-kiyotaka] (p.57) “I understand. Excuse me.” — Ayanokōji; he leaves for the special wing.
+[trait] (p.54–57) A teacher who tells what can and cannot be exercised under the school's unstated rules; he gives Ayanokōji the permission without endorsing it.
+[rel:chabashira-sae] (p.55–57) He is her schoolmate; asks about her change; withdraws the question.
+[rel:ayanokouji-kiyotaka] (p.54–57) He confirms the unstated-rule path — the future 100,000-point maid hiring was vetted here.
+
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.175–182 — The teacher who stood between them
+[scene] (p.175) §2 — Mashima-sensei showed up later in the student council room; he stood up in pain at the end.
+[says] (p.176) “Ryūen!” — Mashima-sensei scolded him for his violent behavior, but he showed no sign of paying attention.
+[says] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei; Sakagami-sensei confirmed Mashima-sensei, as if remembering something.
+[note] (p.177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
+[scene] (p.180) At 3:00 p.m. the room had been surrounded by Ryūen-kun, Komiya-kun and others who unexpectedly appeared as well as the teachers.
+[says] (p.180) “Stop it, Yagami!” — Mashima-sensei scolded him for his violent behavior.
+[scene] (p.181) However, we must do something to hold him here; Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[says] (p.181) “Stop it, Yagami. And Ryūen, too. If you cause a commotion here, it will be a serious penalty.” — Mashima-sensei.
+[note] (p.181) Still, Mashima-sensei, as a teacher, stepped in between Yagami-kun and Ryūen-kun.
+[note] (p.181) “Get lost.” He kicked Mashima-sensei in the knee, and when he staggered over, he slammed his fist into his face.
+[note] (p.181) Sakagami-sensei witnessed it up close and took a frightened step away.
+[note] (p.181) Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[scene] (p.182) Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+[note] (p.182) Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+[says] (p.182) “You people are...” — Mashima-sensei confirmed as he stood up in pain.
+[note] (p.182) “We are related to Yagami and Amasawa. We will settle this situation, so please go ahead and get treated. Please do not tell anyone about what happened here, not even the teachers and students. Rest assured that we will pass everything on to Chairman Sakayanagi.” — printed untagged; flagged untagged.
+[note] (p.182) “I understand.” — with Sakagami-sensei's help, Mashima-sensei left the student council room; the room, which had been so noisy, was suddenly enveloped in silence.
+[rel:yagami-takuya] (p.176–181) Yagami's violence against him: the kick in the knee and the fist to the face.
+[rel:ryuuen-kakeru] (p.180–181) He was between Ryūen and Yagami; Yagami kicked him; he staggered over.
+[rel:sakagami] (p.175–182) Sakagami-sensei witnessed the kick; helped Mashima-sensei leave.
+[rel:nagumo-miyabi] (p.176–183) Nagumo brought him into the room; Nagumo revealed the special-exam rumor.
+<!-- walk: y2v7 Ch.7 → p.183 -->
 
 ## y2v8
 

@@ -1996,13 +1996,77 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — hirata-yousuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.8, p.12-13, p.29, p.31, p.85.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.7–8 — Additional funds: 3,000-point club activity bonus
+[scene] (p.8) The additional-funds breakdown is displayed: Yōsuke received 3,000 points for his club activity bonus; Akito received 100; Horikita, Sudō and Onodera got the 10,000 maximum; the class total 39,400.
+[number] (p.8) Yōsuke's additional funds: 3,000 (club activity) — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100. Many students who seemed to be active, mainly in club activities, were mentioned.”
+### y2v7 p.12 — The honor roll
+[scene] (p.12) The midterm results list: Yōsuke is named among the honor roll alongside Kushida, Matsushita and Wang.
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
+### y2v7 p.13 — Named among the meeting candidates
+[mentioned] (p.13) “It would be more effective to include boys such as Yōsuke in the meeting, but” — the narrator lamenting Yōsuke's absence from the maid-café meeting preparation; he was busy with club activities.
+### y2v7 p.15 — Excluded from the inspections for club reasons
+[note] (p.15) “It would be more effective to include boys such as Yōsuke in the meeting, but unfortunately, they were busy with club activities at the moment.” — excluded from the maid café inspections for club reasons.
+### y2v7 p.28–31 — Yōsuke learns of the Ryūen alliance
+[scene] (p.28–31) After Ryūen's group announces the leak and the copy, Yōsuke asks the questions the class needs answered; he suggests shifting to a different concept — rejected.
+[says] (p.28–29) “Is what you just said true, Horikita-san?” — Yōsuke asked, since Horikita had not yet gotten around to informing the rest of the class.
+[says] (p.29) “May I ask you why, just in case? What's the benefit in betraying us? Did you team up with Sakayanagi-san, or Ichinose-san and the others?” — Yōsuke.
+[says] (p.31) “How about we shift to a different concept now?” — Yōsuke suggested, considering that option in order to turn things around.
+[says:horikita-suzune] (p.31) “We can't do that. Part of the budget's already invested.” — Horikita answers him.
+[note] (p.29) “including Yosuke, were informed by such a scene” — the narration; the whole class, him included, learns of the alliance from the hallway confrontation itself.
+[rel:horikita-suzune] (p.28–31) She informed only herself, Ayanokōji and the maid café planners; Yōsuke learns from the scene like everyone else.
+[rel:ryuuen-kakeru] (p.28–31) Yōsuke pushes the clarifying question at him; Ryūen's answer confirms the copy and the wager.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.85 — The one who stopped Horikita
+[mentioned] (p.85) “seat, but Yōsuke, who was standing beside her, stopped her as if he had anticipated this” — Yōsuke stops Horikita from getting up when Satō confronted Kushida; tactically, to avoid showing Kushida's special treatment to the class.
+[note] (p.85) “It can be said that this is an uncharacteristic behavior of Yōsuke” — he kept a level head when Horikita couldn't.
+[rel:horikita-suzune] (p.85) He stops her from intervening.
+[rel:kushida-kikyou] (p.85) His foresight on the scene keeps things even.
+### y2v7 p.100 — Yōsuke heard the Onodera nudge
+[scene] (p.100) §After the cleanup; Yōsuke, standing by, seemed to have heard Ayanokōji's conversation with Sudō.
+[says] (p.100) “Kiyotaka-kun, was that… okay?” — Yōsuke.
+[says:ayanokouji-kiyotaka] (p.100) “I don't think you should have interfered.” — Ayanokōji.
+[says] (p.100) “Is that so? Well, I'm sorry if that was careless of me. I'm still learning how this works.” — Yōsuke; Ayanokōji apologized to him with a blank expression.
+[note] (p.100) Ayanokōji apologized to Yōsuke with a blank expression on his face.
+[rel:ayanokouji-kiyotaka] (p.100) He worries about Ayanokōji's meddling in Sudō's heart; he is a little nervous about how it might look.
+[rel:sudou-ken] (p.100) The nudge was overheard; Yōsuke flags it.
 
 
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.110 — The boys' final meeting
+[scene] (p.110) The final check; Sudō and some of the male team members were not listening to the announcements and were having their final meeting with Yōsuke; they were short two students; he approaches the problem immediately.
+[note] (p.110) We had to keep our feet on the ground about what to do when it gets crowded or in case of trouble; after giving out all the instructions, they realized they were short two students.
+[rel:sudou-ken] (p.110) The final meeting with the boys before the festival.
+### y2v7 p.116 — The stalls are doing better than expected
+[scene] (p.116) Yōsuke came out of the classroom, concerned that Ayanokōji didn't come back right away.
+[says] (p.116) “What's wrong, Kiyotaka-kun?” — Yōsuke.
+[says:ayanokouji-kiyotaka] (p.116) “Sorry, I was approached by a guest who got a little lost and had to be dealt with. Any trouble?” — Ayanokōji.
+[says] (p.116) “Orders are starting to not turn out well. The stalls seem to be doing better than expected.” — Yōsuke.
+[says:ayanokouji-kiyotaka] (p.116) “I see, the turnover is getting out of control. I'll be right there.” — Ayanokōji.
+### y2v7 p.124–125 — Kushida's cookie run; the missing ace
+[scene] (p.124) The line crisis; Yōsuke watches Kushida's cookie run with respect.
+[says] (p.124) “Kushida-san's abilities are quite something. This is her element, I guess.” — Yōsuke nodded his head in respect.
+[says] (p.124) “It seems that Kushida-san and Horikita-san, who have been facing strong headwinds, will also have some tailwinds.” — Yōsuke.
+[says] (p.124) “Still, I'm fine with it, as long as Kushida-san is able to fight alongside everyone in the class.” — Yōsuke.
+[says] (p.124) “I'm really impressed by what I'm seeing.” — Yōsuke.
+[says] (p.124) “I think it's a cumulative process. During the preparations for the festival, Kushida-san visited Horikita-san's room late at night several times. I think they were practicing.” — Yōsuke's deduction.
+[note] (p.124) “People are creatures that resent easily, but on the other hand, they are also creatures that admit easily.” — the narration.
+[scene] (p.125) Mii-chan came out of the room, looking busy; Kushida-san, who was supposed to be organizing the line, had disappeared; Yōsuke called out to the guests in line.
+[says] (p.125) “Excuse me, have you seen a girl standing in line here?” — Yōsuke called out to the guests in line.
+[says:wang-mei-yu] (p.125) “Um, Ayanokōji-kun, where is Kushida-san?” — Mii-chan came out of the room, looking busy.
+[rel:kushida-kikyou] (p.124–125) Her cookie run; her disappearance; the guests say she followed a girl with two knots.
+[rel:wang-mei-yu] (p.125) The messenger for the missing Kushida.
+[rel:karuizawa-kei] (p.110) Kei encourages Satō from behind the scenes.
 
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.147 — Named in Ayanokōji's promise
+[mentioned] (p.147) “Kushida is there, Horikita is there, Yōsuke is there. Whatever the situation, we'll get along fine.” — Ayanokōji's reassurance to Akito about Haruka's return.
+[rel:hasebe-haruka] (p.147) Yōsuke is named as one of those she will have trouble getting along with.
+### y2v7 p.151 — The switch offer
+[mentioned] (p.151) “Shall I switch with Yōsuke?” — Ayanokōji offers to switch with Yōsuke at the maid café; Haruka raises her hand to stop him.
+[rel:hasebe-haruka] (p.151) His switch offer to his classmate is rebuffed gently.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v8
 

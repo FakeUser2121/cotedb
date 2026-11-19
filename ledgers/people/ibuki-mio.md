@@ -1123,10 +1123,92 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ibuki-mio mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.88, p.119-120, p.130, p.165, p.167-170.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.88–89 — Ibuki: the match she lost
+[mentioned] (p.88–89) “By the way, Ibuki-san will be joining us.” — “Ibuki? I had an image that she would never wear this kind of costume.” — “I heard that she had a match with Ryūen-kun for complete exemption from helping at the festival.” — “And she lost.” — “She's not participating today. She said she absolutely hates wearing it outside of the festival.” — the Hiyori-Ayanokōji exchange.
+[note] (p.88) “Ibuki? I had an image that she would never wear this kind of costume.” — Ayanokōji.
+[rel:ryuuen-kakeru] (p.88) The match Ryūen won against her for complete exemption.
+[rel:shiina-hiyori] (p.88–89) Hiyori names Ibuki as her upcoming coworker at checkout — she lost.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.119–120 — The corridor flyer girl in the kimono
+[scene] (p.119) §4 — on the way back to the special wing, Ayanokōji spotted a Japanese-style girl holding a leaflet in a corner of a largely empty corridor — Ibuki; she hands leaflets to the occasional adult passing by, halfheartedly.
+[says] (p.119) “Shisase!” — the way she handed the leaflets; it reminded him of the lethargic adults at the Keyaki Mall handing out tissues.
+[says:ayanokouji-kiyotaka] (p.119) “Can I have one?” — Ayanokōji.
+[says] (p.119) “Shassu.” — Ibuki.
+[note] (p.119) She offered him a small thank-you and a leaflet; as he took it, her eyes locked onto him.
+[says] (p.119–120) “Geez.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “You've been handing out flyers in a place like this, Ibuki?” — Ayanokōji.
+[says] (p.120) “Go away.” — Ibuki with a disgusted expression on her face.
+[says:ayanokouji-kiyotaka] (p.120) “I'd heard about you, but I guess that means you're keeping your word.” — Ayanokōji; he had heard that she would dress in a kimono after losing the match with Ryūen.
+[says:ayanokouji-kiyotaka] (p.120) “I guess clothes make the man, huh?” — Ayanokōji; she stared at him intensely, but he was relieved that she didn't seem to understand much of what he meant.
+[says] (p.120) “It's nothing.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “By the way, what did you confront Ryūen with?” — Ayanokōji.
+[says] (p.120) “I would have preferred a tie-up, but he suggested we play a card game.” — Ibuki; the content of the game itself was not important; the fact that it was a suggestion from Ryūen was what caught her attention; maybe Ibuki was successfully entrapped.
+[says:ayanokouji-kiyotaka] (p.120) “Card game? You mean like poker or something like that?” — Ayanokōji.
+[says] (p.120) “Well, it's similar.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “I'll spread the word later about what you've been working so hard to promote here.” — Ayanokōji.
+[says] (p.120) “Don't spread it. I'll kick your ass.” — Ibuki; he quickly dodged a sharp kick as her costume shook.
+[note] (p.120) “Damn it.” — Ibuki.
+[says] (p.120) “Oh, by the way, the greeting at the café is 'Welcome home, master.' Try it out.” — Ibuki.
+[says:ayanokouji-kiyotaka] (p.120) “I'll say it if you'll take my kick to your face.” — Ayanokōji.
+[says] (p.120) “I think I'll have to pass.” — Ibuki; she raised her leg slightly to threaten him, so he shrugged and left.
+[rel:ryuuen-kakeru] (p.119–120) The match she lost for complete exemption — she still works here, handing out leaflets.
+[rel:ayanokouji-kiyotaka] (p.119–120) The kimono; the corridor handouts; the card game; the kick.
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.165–182 — The trap; the elbow; the hospital
+[scene] (p.165) §2 — Ibuki-san appeared from behind, confused by the situation, having detained Yagami-kun; dressed in a kimono, she bursts in with her arrest.
+[says] (p.165) “I got him!” — Ibuki-san appeared, dressed in a kimono.
+[says:horikita-suzune] (p.165) “Wait, Ibuki-san!” — Horikita.
+[says] (p.165) “Don't just stand there, let me in, Horikita!” — Ibuki-san forcefully pushed Yagami-kun to enter the student council room.
+[note] (p.167) Ibuki-san appeared from behind, confused by the situation, having detained Yagami-kun.
+[says] (p.167) “You've been saved again by my exploits, Horikita.” — Ibuki-san.
+[says:horikita-suzune] (p.167) “Saved? I didn't ask anything of you...” — Horikita.
+[says] (p.167) “You told me to be very careful with this guy. And you were being pressed by this guy. It's normal to think there's something going on.” — she blurted out things she didn't have to say all at once.
+[note] (p.167) Her single-minded behavior had rendered all her previous conversations useless; to say that she had warned her in front of the person in question was nothing short of nonsense.
+[says:yagami-takuya] (p.167) “Um, who do you want me to pay attention to?” — Yagami-kun.
+[note] (p.167) Now that it's come to this, Horikita had no choice but to throw it all at him.
+[says:horikita-suzune] (p.167) “I apologize for the violent formality. But I have something on my mind about you. Do you remember the other day when you showed me the notes from the meeting?” — Horikita.
+[says:horikita-suzune] (p.168) “Ibuki-san, let him go.” — Horikita instructed Ibuki-san to follow his words.
+[says] (p.168) “I'm sorry, but that's not how it works.” — Ibuki-san's expression was grim and unruffled as she held Yagami-kun down.
+[says:horikita-suzune] (p.168) “Why not?” — Horikita.
+[says] (p.168–169) “Because my intuition tells me that harmless-looking people like you are the most dangerous.” — Ibuki-san.
+[note] (p.169) That's what she had learned before with Ayanokōji-kun; but it was clear from her demeanor that it wasn't just a matter of looks.
+[says:horikita-suzune] (p.169) “Do you have any other grounds?” — Horikita.
+[says] (p.168) “You have a habit of looking weak at a quick glance, but you have a bad sense of humor flying around. You're not just a scrawny kid, are you?” — Ibuki-san.
+[note] (p.169) She thought it was because Ibuki-san was in direct contact with him that she knew what she was thinking.
+[note] (p.169) The door to the student council room, where no one was supposed to come, opened without warning.
+[says:nagumo-miyabi] (p.169) “Oh shit, this is quite an unusual situation, isn't it?” — Nagumo; she and Ibuki were terribly surprised.
+[note] (p.170) Ibuki-san couldn't continue restraining Yagami-kun, so she released him with both hands.
+[scene] (p.175) Sakagami-sensei and Mashima-sensei also showed up later in the student council room; Ryūen-kun also showed up with his classmates.
+[says] (p.175) “Oh, you look pretty good in that outfit, Ibuki. What do you think, Kinoshita?” — Ryūen.
+[says:kinoshita-minori] (p.175) “Honestly. I think you look cute with your little bow.” — Kinoshita.
+[says] (p.175) “What? Wait, Komiya? And even Kinoshita is...?” — Ibuki-san.
+[note] (p.177) “I've learned from the past that the ones who look harmless are the most troublesome. Isn't that right, Ibuki?” — Ryūen.
+[says] (p.177) “No doubt, this guy is strong. He can at least seriously injure Komiya and the others without them noticing.” — Ibuki-san.
+[scene] (p.180) Ibuki-san jumped toward Yagami-kun from behind just as he was about to take a bold step toward Ryūen-kun; “Guh!” — just one shot and Ibuki-san crumpled to the ground, unable to stand up.
+[note] (p.180) Without looking back, Yagami-kun quickly dealt with it and slammed his elbow into her abdomen.
+[scene] (p.182) Only me and Student Council President Nagumo were left in the Student Council Room.
+[says:ryuuen-kakeru] (p.182) “Get up Ibuki, let's pull out.” — Ryūen.
+[says] (p.182) “Come on, at least give me a hand!” — Ibuki.
+[note] (p.182) Ryūen-kun gave instructions to Komiya-kun with his chin to Ibuki-san, who still could not stand up, and then lent her a hand and left the room.
+[trait] (p.165–182) She went to the student council room in the kimono after noticing Yagami following Horikita; physically restrains Yagami-kun alone; he slams his elbow into her abdomen once and she crumples; she needs Ryūen's help to leave the room.
+[rel:yagami-takuya] (p.165–180) She restrains him; he pummels her; she cannot stand afterward.
+[rel:horikita-suzune] (p.165–183) She follows her from the maid café; she acts to protect her.
+[rel:ryuuen-kakeru] (p.175–182) She names him as someone who can injure people without them noticing; he helps her leave at the end.
+[rel:komiya-kyogo] (p.182) Komiya is instructed to help her with her chin.
+
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
+### y2v7 p.191 — Named in the room where the trap is set
+[mentioned] (p.191) “I had a feeling that Horikita and Ibuki's presence in the student council room was not a mere coincidence.” — Ayanokōji's call; Ibuki is inside the student-council-room scenario with Horikita.
+[rel:horikita-suzune] (p.191) She and Ibuki are there together — by some thread, not coincidence.
+### y2v7 p.197 — Named in the caller's recount
+[mentioned] (p.197) “I don't know why Horikita and Ibuki were there, but I think it was also because he was playing with fire.” — the caller's recount of Yagami's time at the festival; Horikita and Ibuki are there — at the same time.
+[note] (p.197) The caller recounts the whole ploy in one breath.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

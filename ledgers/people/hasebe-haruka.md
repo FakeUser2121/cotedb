@@ -701,6 +701,278 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 
 
+### y2v7 p.6 — Prologue: Hasebe Haruka's Monologue
+[scene] (p.6) The volume opens on Hasebe Haruka's monologue: she names small everyday wrongs as not-quite-crimes, then describes how Advanced Nurturing High School let her reconnect with people — until Airi's expulsion broke the feeling in a single day.
+[trait] (p.6) She considers herself “a bad person,” not for traffic-light-style offences, but for dragging her past to high school and deciding she would make no new friends.
+[note] (p.6) The names printed in the monologue — “Kiyopon, Yukimū, Miyachi and… Airi” — cannot be matched to roster rows from this page alone; “Yukimū” surfaces again at p.93 as “Yukimura-kun”; “Kiyopon” and “Miyachi” remain unassigned.
+[note] (p.6) “Who stole it? That's obvious.” — “Horikita Suzune and Ayanokōji Kiyotaka.” — “I became a victim of the selfish actions of those two people. I can't forgive them. There's no way I can.” — “I decided to get revenge.” — her rhetorical build-up and resolve, verbatim from the page.
+[action] (p.6) Decides on revenge — the setup for the whole festival storyline.
+[rel:horikita-suzune] (p.6) Named as one of the two people she blames for Airi's expulsion.
+[rel:ayanokouji-kiyotaka] (p.6) Named as one of the two people she blames for Airi's expulsion.
+[rel:sakura-airi] (p.6) Airi is the friend whose expulsion broke her reconnection; she names her among those she made friends with again.
+
+<!-- walk: y2v7 Prologue → p.6 -->
+### y2v7 p.13–16 — Maid café approach; Haruka and Akito under watch
+[scene] (p.13–16) The maid café planners discuss Haruka and Akito — they antagonize the class, do not talk to anyone, and Haruka may try to do something to the class; Horikita and Ayanokōji refuse to question her yet and give them a general role instead.
+[note] (p.14) The responder to Matsushita's first question prints untagged; the translation does not say whether Horikita or Ayanokōji answered; not assigned.
+[says:matsushita-chiaki] (p.14) “I think Hasebe-san is going to try to do something to the class in the future.”
+[says:horikita-suzune] (p.14) “If she's really looking for an opportunity for revenge, she certainly won't put it off for months.” — Horikita, per the adjacent narration tag.
+[says:horikita-suzune] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on.” — Horikita explains her arrangement.
+[trait] (p.13–16) She attends school, takes tests, and does nothing to cause trouble; she knows about the maid café; she proposed the idea herself — hence included in the group; she is not given maid duties; her “general role” keeps her close but without important assignments.
+[rel:miyake-akito] (p.13–16) She and Akito keep distance from the class; a general role was assigned to both together.
+[rel:matsushita-chiaki] (p.13–16) Matsushita is the one who senses the revenge plan coming and keeps watch.
+[rel:horikita-suzune] (p.13–16) Horikita refuses to exclude her — “If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.”
+### y2v7 p.25 — Seen with Akito at Keyaki Mall
+[mentioned] (p.25) Sudō spots Akito and Haruka's backs at Keyaki Mall; Ayanokōji asks, “It's not a date, is it?” (untagged); Sudō grinds his teeth — “I wasn't particularly close to Sakura, but I've had similar experiences.” — the echo of withdrawal.
+[note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.84 — The early departure before the rehearsal
+[scene] (p.84) The day before the festival; Haruka and Akito left the classroom before the rehearsal began; Maezono asked about them; Horikita notes there's no point in forcing them.
+[note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
+[rel:miyake-akito] (p.84) He left with her.
+[rel:horikita-suzune] (p.84) Horikita's read: let them be tested in isolation.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.107, 110, 111, 133, 134, 192 — The missing pair, named in panic; named in the caller's recount
+[mentioned] (p.107) “It's rumored that Hasebe-san and Miyake-kun may have been the ones who leaked the information about the maid cafe.” — Horikita; information came down from Kei.
+[mentioned] (p.110) “Hasebe-san and Miyake-kun seem to be missing.” — Horikita's note to Ayanokōji.
+[mentioned] (p.111) “I'm sure you'll be able to handle Hasebe-san and Miyake-kun just fine.” — Horikita's trust in Ayanokōji.
+[mentioned] (p.133) “Hasebe-san is still unavailable?” — Kushida.
+[mentioned] (p.134) “You're not going to abandon Hasebe-san and the others, are you?” — Kushida; she can see what Ayanokōji is about to do.
+[mentioned] (p.192) “The third-year's information network is top-notch; whether it was Kushida Kikyo or Hasebe Haruka, you're able to find them immediately.” — the caller's praise; Hasebe Haruka is named as a located student.
+[note] (p.107–111) The accusation chain names her and Miyake together; her absence was noticed at the opening of the festival; Horikita trusts Ayanokōji to handle them; Kushida clocks it immediately.
+[rel:miyake-akito] (p.107–111) The two of them are named together; both were absent.
+[rel:karuizawa-kei] (p.107) Kei is the source of the rumor chain.
+[rel:kushida-kikyou] (p.133–134) She can read Ayanokōji; she fears for Hasebe-san.
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.135–152 — The Keyaki Mall confrontation; her return to the café
+[scene] (p.135) §1 — Haruka sits on a bench in a place with benches for students to take a rest on the road leading to the Keyaki Mall; Akito stands nearby, staring at him; AK approaches.
+[says] (p.135) “How did you find this place, Kiyopon?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.135) “I know you and Airi used to chat around here after school.” — Ayanokōji.
+[says] (p.135) “Quite the former Ayanokōji group. Correct.” — Haruka.
+[says] (p.135) “What are you doing here? I thought I wasn't interrupting the festival?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.135) “Maybe you're right, you're not interfering. But you haven't been cooperating with us either.” — Ayanokōji.
+[says] (p.135) “That's true.” — Haruka.
+[says:miyake-akito] (p.135) “I feel bad for you. No, I feel bad for the class.” — Akito.
+[says] (p.135) “No matter. I know what you're thinking when you're standing by Haruka's side.” — Ayanokōji.
+[says] (p.135) “Let's not worry about that, let's get you to answer my question.” — Ayanokōji.
+[says] (p.135) “What are you doing here? The maid café is more successful than you can imagine, and we are short of maids.” — Ayanokōji.
+[says] (p.135–136) “Hmmm… well, maybe things would have been a little different if Airi had been there. I would have been there too, so you wouldn't have been short two people.” — Haruka.
+[says:ayanokouji-kiyotaka] (p.136) “In that case, Kushida wouldn't be here, and it would've been a much more dire situation.” — Ayanokōji.
+[says] (p.136) “You responded to sarcasm with sarcasm.” — Haruka.
+[says:ayanokouji-kiyotaka] (p.136) “I'm just stating the facts.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.136) “Can you lend me your hand for the last hour?” — Ayanokōji.
+[says] (p.136) “You know the answer to that. Persuasion is pointless.” — Haruka.
+[says] (p.136) “Yes, it is. If there was a condition, it would be that I bring back Airi.” — Haruka.
+[says:ayanokouji-kiyotaka] (p.136) “Well, let's just hear what I have to say. I'm sure you're wondering what this is all about.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.136) “I want you to open this box.” — Ayanokōji.
+[says] (p.136) “What are you trying to do now? I'm sorry, but I don't want to get involved in anything strange.” — Haruka only raised her eyebrows in suspicion.
+[note] (p.136) With that, Haruka pulled out an envelope from her pocket; the white envelope was handwritten with the words, “Withdrawal Letter.”
+[says] (p.136) “You're not surprised, are you?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.136) “I knew there was a good chance you would quit after the festival. And you're planning to go out with her, aren't you, Akito?” — Ayanokōji.
+[says:miyake-akito] (p.136) “Ah.” — Akito.
+[says] (p.136) “That's great, Kiyopon. I guess that's why you were able to expel Airi with apathy.” — Haruka.
+[says] (p.136) “This is the festival that Airi was looking forward to. The cultural festival was supposed to be a big stage for her to change herself and take a big step forward.” — Haruka.
+[says] (p.136–137) “I decided to see it through to the end. I decided to watch the whole thing on her behalf.” — Haruka.
+[says:ayanokouji-kiyotaka] (p.136–137) “I did indeed expel Airi. I also used my heterosexual feelings to handle the situation. I'm not going to say I wasn't at fault for that.” — Ayanokōji.
+[says] (p.137) “She needed me. And Kiyopon needed the Ayanokōji group. How do you think she feels like now that the person she loved expelled her from school? Have you ever thought about it?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.137) “What would that type of person look like? What would she be thinking about? Tell me exactly what she'd be thinking. I don't understand.” — Ayanokōji.
+[says] (p.137) “Of course she'd cry all the time! All the time! She'd be so frustrated, sad, and bitter that she sits in the corner of her room and thinks back to her happy school days. Can't you see that?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.137) “Is that the Airi you see?” — Ayanokōji.
+[says] (p.137–138) “Not just what I see. That's the kind of girl she is! Why can't you understand that?!” — Haruka.
+[says] (p.138) “Kiyopon is really the same! You just don't want to face reality. You just don't want to think about Airi, who is miserable because you're the one who drove her out of school!” — Haruka.
+[note] (p.139) “Kiyopon is attracting attention in a bad way because he got Airi expelled from school. And it's not like you have a strong desire to graduate in Class A, is it? If that's the case, why not just quit?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.140) “It's fine that you want me to withdraw from school, but it doesn't make sense to me. I can't help but be bothered by the fact that Airi is being forced to go along with your self-serving fantasies.” — Ayanokōji.
+[says] (p.140) “What? What are you trying to say?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.140) “I'm just saying that you don't seem to understand how Airi feels. It's really conceited.” — Ayanokōji.
+[says] (p.140) “I understand her better than anyone else, and you don't want to admit that!” — Haruka.
+[says:ayanokouji-kiyotaka] (p.140) “Don't get cocky, Haruka.” — Ayanokōji.
+[says] (p.140) “What did you just say?” — Haruka; Akito, who had mistakenly thought she was going to be attacked, stepped in front of Haruka and extended his left hand as if to defend her.
+[says:ayanokouji-kiyotaka] (p.140) “I was just a little surprised. I'm fine, so move aside, Akito.” — Ayanokōji; Haruka could not sense the danger that Akito instinctively sensed.
+[says] (p.140) “What do you mean, 'conceited'? What are you talking about, Kiyopon?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.140) “I'm just saying that you shouldn't speculate on Airi's feelings and give convenient answers on her behalf; only Airi knows what she's thinking and what she really feels.” — Ayanokōji.
+[says] (p.140) “It's Kiyopon who doesn't understand. Do you think she didn't mind being expelled?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.140) “Surely she must have despaired at that moment. But how do you know how she feels now?” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.140) “No, you can't. In your mind, Airi must be having a hard time right now.” — Ayanokōji.
+[says] (p.140) “What about it?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.140–141) “The hard part isn't that Airi was expelled. It's the disappearance of an existence that was convenient for you. You wanted to be there for Airi, who is inferior to you, and play the role of a protector. You loved the sense of superiority and satisfaction you got from that.” — Ayanokōji.
+[says] (p.141) “Of course not! You don't even remember how we used to be!” — Haruka; she strongly denied it.
+[says] (p.141) “I'm thinking about how she feels right now… I-!” — Haruka.
+[says:ayanokouji-kiyotaka] (p.141) “Are you really thinking about her?” — Ayanokōji.
+[says] (p.141) “I'm thinking about her a lot!” — Haruka; in an exchange that could be described as a parallel line, only Haruka's heart wavers violently.
+[says] (p.141) “I don't know what the truth is.” — Haruka.
+[says:ayanokouji-kiyotaka] (p.141) “There's no way to confirm such a thing directly with the person in question in this situation!” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.141) “There's certainly no way to find out for sure in person. But here's a hint. Here's a cardboard box. This is most likely what you need right now.” — Ayanokōji.
+[says] (p.141) “What? I don't get it. That's not what I need.” — Haruka; Haruka, who had been all bullish up until now, opened her eyes in shock with Akito standing behind her.
+[says] (p.141) “No way. Kiyopon prepared this box, didn't he?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.141) “On the day that Airi's expulsion was decided, she went through the steps to ship a package to me. I think it was because she realized what she had to do in that limited time.” — Ayanokōji.
+[note] (p.141) Haruka's gaze fell to the cardboard box at her feet; Haruka crouched down and looked at the slip attached to the cardboard; there was his name on it as the recipient and the name of the online store as the sender; he himself did not know about this until he received and searched it; he noticed that Haruka was reaching out and trying hard to roll up the edges of the duct tape with her fingertips; after several attempts, she finally succeeded in peeling it off; the cardboard box was opened.
+[note] (p.141) Inside was a maid's uniform.
+[says] (p.141) “This is...” — Haruka must have known what it meant.
+[says] (p.141) “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka.
+[says:ayanokouji-kiyotaka] (p.141–142) “She realized that there was a possibility that you would stop and not participate in the festival. That's why this was supposed to be delivered to you, to prevent that from happening, wasn't it?” — Ayanokōji.
+[says] (p.142) “A-ai...” — Haruka muttered looking down at the uniform.
+[says:ayanokouji-kiyotaka] (p.142) “At least I can sense Airi's strong feelings from this message. It doesn't seem like she's just sad. How about you, Haruka?” — Ayanokōji.
+[says] (p.142) “Airi... Airi!” — Haruka took out the maid's uniform from the cardboard box and hugged it to her chest; she sobbed with tears welling up in her eyes.
+[says] (p.142) “I wanted to do the festival with her. I wanted to push her shyness back and see her unveil it to Kiyopon!” — Haruka.
+[note] (p.143) It's not extravagant at all, but he lamented over the scenery he was supposed to be able to see in the near future; i hope she will now understand and look forward to the future.
+[says] (p.143) “This is... different...” — wiping her tears with the sleeve of her uniform, Haruka stood up and denied it.
+[says:ayanokouji-kiyotaka] (p.143) “No?” — Ayanokōji.
+[says] (p.143) “It's not something she prepared for me because she wants me to participate in the festival.” — Haruka; he's not sure how much he can change things so easily.
+[says] (p.143) “She was just frustrated. She sent it to Kiyopon with resentment, saying that I really could have worn it to the festival. I'm sure that's how it must have been.” — Haruka.
+[note] (p.143) How one interpreted this maid's outfit was left to one's own interpretation, and since Airi did not leave a specific message, not everything that was convenient for us was true.
+[says] (p.143–144) “It is, isn't it? If it was really meant for me to wear, it should have been sent to me. But the reason why it was addressed to Kiyopon was because it has another meaning, no?” — Haruka.
+[note] (p.144) It was interesting to see the difference in viewpoints, and he certainly couldn't rule out that possibility; was it possible that she was harassing the person who expelled her from school? Interesting.
+[says:miyake-akito] (p.144) “Wait Haruka, I think that's a little different.” — Akito; he interjected for the first time here.
+[says:miyake-akito] (p.144) “No, it's not. Yes, yes! Even this package may have been a staged act prepared by Kiyopon!” — Akito.
+[says:miyake-akito] (p.144) “The reason she sent the last memento to Kiyotaka and not you is because she wanted you to have a chance to get to know each other again, right?” — Akito.
+[note] (p.144) If it had been delivered directly to Haruka, and if she had received the gift honestly, then, he would never have had the chance to make contact with her.
+[says] (p.144) “No, absolutely not!” — Haruka; she grabbed Akito by the chest.
+[says] (p.144) “Don't take things as you will! Don't try to make things convenient and forgive Kiyopon!” — Haruka.
+[says:miyake-akito] (p.144) “That's not what I meant...” — Akito.
+[says] (p.144–145) “Even if that were the case, she was deprived of her precious place in the world! That's not going to change that fact! I won't accept a friendship based on sacrifice!” — Haruka.
+[says:ayanokouji-kiyotaka] (p.145) “But whatever anyone's fantasy is, it has no effect on the person in question. What matters is where and what Airi is actually doing right now, isn't that the point?” — Ayanokōji.
+[says] (p.145) “I know. So, I'm leaving school to find out. I'm going to be there for that girl!” — Haruka; as soon as she completed her revenge against the class, she would go to see Airi herself.
+[says:ayanokouji-kiyotaka] (p.145) “You're being too loud. Even here, if you're not subtle, you'll receive a lot of attention, won't you?” — Ayanokōji.
+[note] (p.145) Kushida was a character he never thought he'd see here; dressed as a maid, which was out of place in this tense atmosphere, she slowly approached.
+[says:kushida-kikyou] (p.145) “Is everything alright at the store?” — Kushida.
+[says:ayanokouji-kiyotaka] (p.145) “We just had a change of customers, so we have a little time.” — Ayanokōji.
+[says:kushida-kikyou] (p.145) “What are you doing here?” — Haruka and he were wondering the same thing.
+[says:kushida-kikyou] (p.145–146) “What am I doing here? Ayanokōji-kun told me that Hasebe-san and Miyake-kun might be planning to leave the school.” — Kushida.
+[says] (p.146) “Kushida-san was the cause. If you had been against the expulsion from the beginning, you would have-” — Haruka.
+[says:kushida-kikyou] (p.146) “Sorry, but I don't regret my choice at the time now. That incident was a stain on me, but at the same time, it was an opportunity for me to open a new path.” — Kushida.
+[says] (p.146) “I'm going to tell the class that not leaving behind Kushida-san was a mistake.” — Haruka.
+[says:kushida-kikyou] (p.146) “If you want to leave the school, do whatever you want.” — Kushida.
+[says] (p.146) “Kushida-san you said yourself that the only way left for you was to graduate in class A. That's the only reason why you keep putting up with an uncomfortable class that you don't get along with. So, I'm going to take that away from you.” — Haruka.
+[says:kushida-kikyou] (p.146) “Maybe your revenge against me will work. But is that what's important? I don't think Sakura-san would want that.” — Kushida.
+[says] (p.146) “Don't say the same thing as Kiyopon. What do any of you know about Airi?” — Haruka.
+[says:kushida-kikyou] (p.146–147) “I don't know, but I do know that she's a lot less shy than you think.” — Kushida.
+[says] (p.147) “What?” — Haruka; Haruka seemed to be just a figure of speech — but he wondered if there was any basis for it.
+[says] (p.147) “Sakura-san was weak. That's why she was expelled.” — Haruka.
+[says:kushida-kikyou] (p.147) “How can you say that? It's the same with you, you were greatly embarrassed and lost.” — Kushida.
+[says] (p.147) “It's true that I lost too. I admit that I was weak. But it is also true that Sakura-san was the same. No, she was weaker than me, and that's why she was expelled.” — Haruka.
+[note] (p.147) In fact, Horikita decided that Kushida would be a better and more useful ally than Airi; and at the festival, she lived up to those expectations.
+[says] (p.147) “That girl was definitely weak... that's why I wanted to protect her...” — Haruka.
+[says:kushida-kikyou] (p.147) “Wanted to protect her? You're being very high and mighty, aren't you? So, I'm not the only one who thinks she'll always be weak.” — Kushida.
+[says] (p.147) “You've got to be kidding me.” — Haruka.
+[says:kushida-kikyou] (p.147) “I'm not kidding.” — Kushida.
+[says:kushida-kikyou] (p.147–148) “Ayanokōji-kun, can you take a look at this?” — Kushida; she took her eyes off Haruka and turned them to him.
+[note] (p.148) Whoever the subject was, if there was an opportunity available to Kushida, it was covered; it took an extraordinary amount of mental strength to keep it up for a long period of time.
+[note] (p.148) “I thought maybe there was a use for the secret she had after she left school. Then I found it.” — Kushida took out her cell phone and showed him a screen; he took the phone and scrolled through the details.
+[says:kushida-kikyou] (p.148) “I was wondering if Ayanokouji-kun might be aware of this fact.” — Kushida.
+[says:ayanokouji-kiyotaka] (p.148) “I'm impressed. How did you find it?” — Ayanokōji.
+[says:kushida-kikyou] (p.148) “Ayanokouji-kun used to do a lot of work on this, didn't you? So maybe that's how.” — Kushida.
+[note] (p.148) It had been more than a year, and that was before the Ayanokōji group was formed; Haruka looked at him with concern, partly because of the talk about Airi.
+[says:kushida-kikyou] (p.148–149) “You're wondering, aren't you? And it's a story about your precious Sakura-san.” — Kushida saw through Haruka and flicked her phone off as if to provoke her.
+[says] (p.149) “What?” — Haruka.
+[note] (p.149) “I'm a bad person most of the time, but Hasebe-san is similar. She just finds pleasure in finding someone weaker than herself and helping them. Essentially, you're not worried about Sakura-san, you just miss having someone to take care of, don't you?” — Kushida.
+[note] (p.149) Oddly enough, he said the same things she did; Haruka's eyes squirmed uncomfortably at this unexpected turn of events.
+[says:kushida-kikyou] (p.149) “So you're just like your family?” — Kushida.
+[note] (p.149) Family? he felt caught off guard by this unexpected comment.
+[says] (p.149–150) “Stop it. Don't mention it.” — Haruka.
+[says:kushida-kikyou] (p.150) “Why not? If you're leaving school already, who cares who I tell what you told me? It means you won't have to keep secrets anymore.” — Kushida.
+[says] (p.150) “You're not wrong, I wanted to protect Airi, I wanted to be there for her. Even if it was for my own purposes.” — Haruka.
+[says:kushida-kikyou] (p.150) “I understand how you feel, but I can't accept that Hasebe-san is right. That's why you couldn't even make one decent friend before high school. Am I wrong?” — Kushida.
+[says] (p.150) “I…” — Haruka.
+[says:kushida-kikyou] (p.150–151) “Well, that's okay. If I keep wasting my time talking about it, it's going to interfere with the operation of the maid café. Why don't you just leave school like this without knowing anything? There's no point in knowing the truth now, is there?” — Kushida.
+[says] (p.151) “Wait a minute, what's this about Airi?” — Haruka; the phone was now in her hand; the screen held someone's social networking account.
+[says:kushida-kikyou] (p.151) “You want to know?” — Kushida; frustrated that she had been taken advantage of, she forcefully closed the distance and grabbed Kushida's shoulder.
+[note] (p.145) “That girl can't do anything without me. She needed help.” — Haruka, grabbing the phone half-heartedly in her hand, tapped the screen with her finger and accessed the Internet; there was someone's social networking account.
+[note] (p.145) The name of the account was “Shizuku,” another name Sakura Airi went by when she used to secretly be active as a gravure idol; after an incident, Airi deleted her account, but Kushida found that it had recently been restored; the account had only been created a few days ago but already had over 1,000 followers.
+[says] (p.145) “No way... this is Airi's?” — Haruka.
+[note] (p.145) Credit to Kushida, who was no stranger to gathering information about her classmates.
+[says] (p.145) “There's no guarantee that... that girl made this kind of thing. It's bound to be an imposter fabricated by Ayanokōji-kun or Kushida-san anyway.” — Haruka.
+[says:kushida-kikyou] (p.145) “Do you still think it's us after you read the actual text?” — Kushida; the tweet: "[I've decided to resume my idol activities after a long hiatus.]" — new account, first tweet.
+[note] (p.145–146) "[I decided to do what I could do. To become the person I want to be. To show my best friend that I am not ashamed of myself after she graduates.]" — the second tweet.
+[note] (p.146) "[I finally auditioned yesterday! I was so nervous, but I'm so happy!]" — the social networking site carried her comments upon passing the third round of auditions.
+[note] (p.146) "[The reason I decided to go into show business is because I wanted to make my voice heard.]" — the fourth tweet.
+[note] (p.146) "[I'm bitter and sad, but I want to look forward… I am looking forward. So don't you lose too.]" — the fifth tweet.
+[note] (p.146) Of course, it is possible to create a false account using Shizuku's name. However, it was difficult to disguise the fact that she was followed by an entertainment production company and her social media content.
+[says:kushida-kikyou] (p.146) “From reading that, I don't see the abysmal scene you described for Airi.” — Kushida.
+[says:kushida-kikyou] (p.146) “You were overprotective and assumed you were above it all, weren't you? But she opened up a new path by dropping out of school. She didn't stand still.” — Kushida; Kushida forcefully snatched the phone from Haruka's trembling hands and turned back to him.
+[says:kushida-kikyou] (p.146) “I'm sorry I slipped out again.” — Kushida.
+[note] (p.146–147) “I thought I saved you, but you saved me right away.” — printed untagged; not assigned.
+[says:kushida-kikyou] (p.147) “You owe me this one, right?” — Kushida.
+[says:ayanokouji-kiyotaka] (p.147) “I thought you didn't lend or borrow?” — Ayanokōji.
+[says:kushida-kikyou] (p.147) “I don't like to borrow, but I don't mind lending.” — Kushida; she says this and starts to walk back to the special wing.
+[says] (p.147) “You're a shrewd guy.” — after exposing her various weaknesses, Haruka stood, shocked and broken; it reminded him strongly of the scene with Kushida in the unanimous special exam.
+[says:ayanokouji-kiyotaka] (p.147) “Haruka, I don't think this is an imposter.” — Ayanokōji; Akito must have been looking at Shizuku's social media profile on his own phone, too, because he offered his phone to her instead.
+[says] (p.147) “Ugh, ugh...” — tears welled up in Haruka's eyes as her vision blurred.
+[note] (p.147) She had thought that Airi couldn't do anything without following her, but then she realized that Airi had begun to walk in front of her.
+[note] (p.147–148) “What a fool I was,” she thought — her silent self-verdict.
+[says] (p.148) “This is new knowledge for me. I thought that those who were expelled, those who were defeated, had ended everything there.” — Haruka.
+[note] (p.148) She assumed that the package she was sent was the last remnant of her life; but it wasn't; the loser returned; some people start anew from where they lost.
+[says:ayanokouji-kiyotaka] (p.148) “That girl could be a big shot in the future. And yet you're going to voluntarily leave school going after Airi? Not only will Airi laugh at you, she might not even take you seriously.” — Ayanokōji.
+[note] (p.148–149) It wasn't hard to imagine what would happen if Haruka were to quit school to seek revenge and meet with Airi; instead of being greeted with a smile, she would be seriously offended.
+[says] (p.149) “I-I-I don't know what to do...!” — Haruka.
+[says:ayanokouji-kiyotaka] (p.149) “There's only one answer: be yourself enough to meet Airi with dignity. If you graduated from Class A, that's a different story. You need to get through those three years and be someone who isn't ashamed to stand in front of Airi.” — Ayanokōji.
+[note] (p.149) It's no longer time for Airi to go after Haruka; it's time for Haruka to go after Airi.
+[says:ayanokouji-kiyotaka] (p.149) “Just in case, the cost of this luggage has been included in the budget as something that can be used at the cultural festival.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.150) “I'm not asking you to be as agile as the other maids. But you have to see the view that your beloved Airi would have wanted you to see. You were her best friend, and you owe it to her.” — Ayanokōji.
+[note] (p.150) Haruka made a small apology to Akito, handed him the letter of withdrawal, clutched her maid's uniform to her chest, and ran out; she had only a few hours left, but she still had a chance to be on the stage.
+[says:miyake-akito] (p.150) “Kiyotaka, will your classmates accept Haruka?” — Akito.
+[says:ayanokouji-kiyotaka] (p.150) “Kushida is there, Horikita is there, Yōsuke is there. Whatever the situation, we'll get along fine.” — Ayanokōji.
+[says:miyake-akito] (p.150) “I see.” — Akito; he put his phone away and stacked the two withdrawal papers on top of each other, tearing them down the middle.
+[says:miyake-akito] (p.150) “The reason for my withdrawal is gone. I want to stay with Haruka until the end as well.” — Akito.
+[note] (p.150–151) Even if she can't laugh with everyone now, she still has more than a year of school left; the day when she can truly smile again will not be far off.
+[says:miyake-akito] (p.150) “I'm sure my classmates will blame me for a while, too.” — Akito; he scratched his head and smiled a little.
+[says:miyake-akito] (p.150–151) “I wonder what would have happened if Kushida hadn't shown up, and what would have happened to Kiyotaka?” — Akito.
+[says:ayanokouji-kiyotaka] (p.151) “I don't know, I'm afraid I was out of ideas.” — Ayanokōji.
+[note] (p.151) I took up my smartphone and opened the web browser. Then I wiped the history which contained the link to Shizuku's profile (SNS) that I had prepared in advance; since Kushida was the one who managed to discover the path out of this ordeal, this should be her achievement.
+[says:ayanokouji-kiyotaka] (p.151) “Let's go back, Akito. There's still a few more hours left of the festival.” — Ayanokōji.
+[note] (p.151) The time was around 2:20 PM; Horikita's class had succeeded in getting back its missing members.
+[scene] (p.148) §2 — when he took Akito to the food stall, the boys accepted him without hesitation, even though they were teasing him; Akito's eyes turned a little red as he thanked them; returning to the maid café in the special wing, the line was as long as ever.
+[note] (p.148) It was probably due in large to the fact that he was not the central figure in a particularly contentious situation; Keisei, formerly of the Ayanokōji group, was not in sight as he had just gone on a break.
+[scene] (p.148–149) Satō shouted and led them to the entrance; Two female customers left the classroom, waving to the maids.
+[says:satou-maya] (p.148) “Welcome back!” — Satō.
+[says:kushida-kikyou] (p.148) “It looks like they're here.” — Kushida.
+[says] (p.148) “Ha, ha, ha! It's difficult to run!” — Haruka; Haruka arrived, out of breath, shoulders shifting up and down violently; the maids were momentarily distracted by her presence.
+[scene] (p.149) Kushida, in angel mode because she was in front of so many people, greeted her with a wry smile; Horikita, dressed in a maid's outfit, called out to her and entered the waiting room.
+[says:kushida-kikyou] (p.149) “Hasebe-san, where did you change your clothes?” — Kushida.
+[says] (p.149) “The women's restroom... It was hard.” — Haruka.
+[says:kushida-kikyou] (p.149) “Of course.” — Kushida, with her wry smile.
+[says] (p.149) “What's the... situation?” — Haruka.
+[says:kushida-kikyou] (p.149) “Ask Horikita-san about that. I've got my hands full with the lineup.” — Kushida.
+[scene] (p.149–150) Horikita entered the waiting room; she said a few words of welcome and then gently patted Haruka's stiff-looking back.
+[says:horikita-suzune] (p.149) “Welcome.” — Horikita.
+[says:horikita-suzune] (p.149) “I thought you wouldn't show your face today, but you've made up your mind, haven't you?” — Horikita.
+[says:horikita-suzune] (p.149) “You aren't playing the role of a maid right. You haven't even practiced; I don't expect you to be as agile as Satō-san and the others, but... right now I'm in a tough situation.” — Horikita.
+[says:horikita-suzune] (p.149) “You're here to contribute to the festival. Can I trust in that?” — Horikita.
+[says] (p.149) “Don't worry. I won't do anything to ruin everyone's hard work. I know you won't believe-” — Haruka.
+[says:horikita-suzune] (p.149) “No, I believe you.” — Horikita.
+[says] (p.149) “Why?” — Haruka.
+[says:horikita-suzune] (p.149) “I can tell by the look in your eyes, Ayanokōji-kun must have talked you into it, didn't he?” — Horikita.
+[says:ayanokouji-kiyotaka] (p.149) “Hey.” — Ayanokōji.
+[says:horikita-suzune] (p.149) “And Kushida-san. I didn't expect her to come to me dressed as a maid.” — Horikita.
+[says:horikita-suzune] (p.149) “Kushida-san? I wonder when she left her post.” — Horikita.
+[says:horikita-suzune] (p.150) “Anyway, I'm going to make you forget your grudge against me until after the festival, even if you don't want to.” — Horikita.
+[says] (p.150) “I know.” — Haruka.
+[says:horikita-suzune] (p.150) “Then fine. You'll be in charge of pouring for the customers who have run out of cold water, and if requested, you'll be in charge of taking pictures. Is that okay?” — Horikita.
+[says] (p.150) “I'll see what I can do.” — Haruka; now that she had come this far, Haruka was a carp on the chopping block.
+[says:horikita-suzune] (p.150) “I have to take a mandatory break at 3:00, so I'll leave everything after that to Ayanokōji-kun. Take care of her.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.150) “The best I can do is to take good pictures.” — Ayanokōji.
+[note] (p.150) Haruka nodded, looked at him once, and took a deep breath; then, with a pitcher of water and a slice of lemon, she left the waiting room and began to walk around the store.
+[note] (p.150) Of course, it wasn't smooth, and she was clearly out of practice compared to the other maids; but on the contrary, she was warmly looked at by the adults.
+[says:satou-maya] (p.150) “Ayanokōji-kun, Hasebe-san, take three pictures of us! Thank you very much!” — Satō's voice reached the waiting room.
+[says:horikita-suzune] (p.150–151) “Before we think about winning or losing, I guess we, as a class, can finally breathe a sigh of relief.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.151) “Yes.” — Ayanokōji.
+[says:horikita-suzune] (p.151) “See you later.” — after Horikita left the waiting room, he looked at the board in the room.
+[note] (p.151) The board was designed to show at a glance who had been nominated for the most photos, and Kushida was the one who had taken the most photos during their absence, with 56; Satō, in second place, is a commanding leader by a whopping 24 pictures; Horikita took only 11 pictures.
+[note] (p.151) “Even if Haruka tries to catch up from here, I don't think she'll be able to surpass this record.” — his observation.
+[says:ayanokouji-kiyotaka] (p.151) “Okay Haruka, let's get a shot.” — Ayanokōji.
+[says] (p.151) “Yeah.” — Haruka's expression was stiff, perhaps because she was still reluctant to face him.
+[note] (p.151) He looked through the lens for a chance to take a picture, but she wouldn't give him one.
+[says:ayanokouji-kiyotaka] (p.151) “Shall I switch with Yōsuke?” — Ayanokōji.
+[says] (p.151) “Wait. It's okay.” — Haruka raised her hand; it wasn't a full smile, but it was a good enough expression for a picture, so he released the shutter; one was taken alone; the other two were two-shot photos with the guests.
+[rel:hasebe-haruka] (p.135–152) The withdrawal letters torn; the uniform worn; the festival finished.
+[rel:miyake-akito] (p.135–152) His withdrawal letter torn; he stays.
+[rel:kushida-kikyou] (p.145–151) The SNS reveal; the phone snatch.
+[rel:sakura-airi] (p.139–151) Shizuku; the auditions; the idol SNS.
+[rel:hirata-yousuke] (p.151) The Yōsuke switch offer.
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
 ### y2v7 p.184–186 — Haruka's apology; staying for Airi
 [says] (p.184) "I have not forgiven everyone here."
 [says] (p.184) "But the person I can't forgive the most is myself."
@@ -713,6 +985,10 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.185) She wants to graduate Class A to see Airi (now an idol) without shame.
 [rel:miyake-akito] (p.185) He was going to withdraw with her; stays when she does.
 [rel:ishigami-kyou] (p.186) He reconciles with her and Akito — the three of them smiled slightly at each other.
+
+
+<!-- walk: y2v7 Epilogue → p.202 -->
+
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

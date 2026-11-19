@@ -118,13 +118,23 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — utomiya-riku mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.193, p.196, p.198.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.191–199 — Tsubaki Sakurako's White Room play
+[scene] (p.191) §2 — after the festival ends; Utomiya waits outside the school with Tsubaki; AK receives a phone call from an unknown number at the classroom; the voice sounds familiar — Tsubaki Sakurako, a student in first-year Class C.
+[note] (p.191) The caller: “Are you still in school? I'd like to talk to you for a minute if you'd like.”
+[note] (p.191) Ayanokōji: “Are you alone now?” — the caller: “Unfortunately not.” — the caller: “Then why don't we meet up?” — Ayanokōji: “Where are you?” — the caller: “I just left the front door. You're still on campus, right?” — Ayanokōji: “Give me five minutes.” — the caller: “Okay.”
+[note] (p.191) Tsubaki, making a circle with her finger as if to say, “you passed,” tells him she is very grateful Ayanokōji-senpai successfully extracted information from Satō-senpai and drove Yagami-kun out of school.
+[note] (p.192–193) Utomiya was with Tsubaki at the meeting; Utomiya was talking to someone a little farther away; he was only looking at them.
+[note] (p.193) “Well, the first-year students are in a bit of a mess right now. There was an unexpected expulsion at the school festival.” — Tsubaki; the person in front of him is Tsubaki Sakurako; “I'm satisfied with the result, which is more than I imagined…Ayanokōji-senpai.”
+[note] (p.195) Satō was apparently approached by Tsubaki near the women's restroom at Keyaki Mall; there, she flashed some bait that would turn things around for her, including a turnaround between his relationship with Kei, which tickled her curiosity; she intensified the threats gradually over days because Satō would eventually come to consult someone, and that would be Ayanokōji.
+[note] (p.195) “As soon as you saw that Satō wouldn't accept your invitation, you contacted her again as if to follow up and made similar comments and provoked her. When you saw that Satō didn't seem to have consulted anyone, you gradually intensified your threats and hounded her. This was due to the fact that she would eventually come to consult someone, and that would be me.” — Ayanokōji's read of the three-week squeeze.
+[note] (p.195) The man on the phone: “Yagami had some of Tsubaki's and Utomiya's classmates expelled. That's why those two worked together with me.”
+[note] (p.196) “Go ahead...” — Wary, Utomiya handed the phone to Ayanokōji while it was still connected.
+[note] (p.196) “Utomiya-kun, can you come here for a minute?” — Tsubaki beckoned to Utomiya and instructed him to hand his cell phone to Ayanokōji.
+[note] (p.196) The only people who know about Karuizawa's past are those who are connected with the White Room; others can't easily imitate him.
+[note] (p.198) “Senpai.” — Utomiya, who was forcing himself to pull out the honorific, returned to the dormitory with Tsubaki.
+[rel:utomiya-riku] (p.191–199) He is with her at the meeting; he hands his phone over; “Senpai.”
+[rel:ayanokouji-kiyotaka] (p.191–199) She works with him against Yagami; she reports the expulsion; she leaves the school.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v11
 

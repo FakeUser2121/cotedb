@@ -2373,25 +2373,165 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.9 — Additional funds: 17,000, third among second-years
+[scene] (p.9) Chabashira displays the numbers: Ryūen's Class C has 17,000 points in additional funds — third among second-years (this class 39,400; Ichinose's 26,600; Sakayanagi's 18,800).
+[number] (p.9) Ryūen's class additional funds: 17,000 — “17,000 points for Ryūen's Class C.”
+### y2v7 p.18–27 — Team-up under suspicion; his name said aloud
+[mentioned] (p.18) “I'm worried about your class, my friend. It seems that you have teamed up with... Ryūen for the sports festival, but do you think you can trust him forever?” — Hashimoto to Horikita.
+[mentioned] (p.20) “I agree with Horikita. I don't think they expected Horikita and Ryūen to” — the two of them teamed up in the sports festival; the planners discuss them.
+[mentioned] (p.27) “Does this mean that Ryūen-kun betrayed us after all? You said it was okay,” — Maezono's question.
+[rel:maezono] (p.27) She doubts him; Horikita told her it would work.
 ### y2v7 p.28–31 — Ryūen: the "declaration of war"
-[says] (p.29) "I helped you in the sports festival to destroy Class A."
-[says] (p.29) "We'll have the same concept as you guys." — copying the maid café
-[says] (p.29) "The one who earns as many points as possible will receive 5 million points"
-[says] (p.46) "That guy told me he would give me the right to expel any student I wanted, even himself." — Nagumo on Ryūen's bet
+[says] (p.29) “I helped you in the sports festival to destroy Class A.”
+[says] (p.29) “We'll have the same concept as you guys.” — copying the maid café
+[says] (p.29) “The one who earns as many points as possible will receive 5 million points from the other class.”
 [trait] (p.28–31) Deliberately leaks the secret maid café plan to the whole grade and announces his own class will run a competing maid café — a "declaration of war" to force a direct contest (betting 5 million points on who earns more); he even offered Nagumo students (himself included) as collateral for tens of millions, but Nagumo refused; Ayanokōji suspects he wants the direct confrontation for its own sake.
 [rel:horikita-suzune] (p.28–29) He confirms their alliance then immediately betrays the secret — "equal terms."
 [rel:nagumo-miyabi] (p.29) He tried to bet tens of millions with him; Nagumo turned him down.
 [rel:ishizaki-daichi] (p.28) He arrives with Ishizaki, Albert and Kaneda.
+[rel:kaneda-satoru] (p.28) He smirks as he adds the stall-content details.
+[rel:yamada-albert] (p.28) He arrives with Ishizaki, Albert and Kaneda.
+### y2v7 p.29–31 — The wager at the hallway
+[mentioned] (p.29) “The one who earns as many points as possible will receive 5 million points from the other class. Wouldn't that be an interesting match?” — Рюэн’s gambit in the hall; the bet is declared.
+[note] (p.37) “Ryūen's class also decided to participate in a maid café.” — Asahina's line; the 3rd year Class A's Asahina confirms Ryūen's class joined the same concept.
+[mentioned] (p.54) “N MONDAY 8 NOVEMBER, we were surprised by Ryūen and his friends' entry into the concept café.” — the chapter opens on Monday, November 8; his surprise entry into the concept café is witnessed first-hand.
+[mentioned] (p.54) “In response to the bet proposed by Ryūen, Horikita countered with a one-million-private-point match with the agreement of the classes.” — Horikita's counter.
+### y2v7 p.46 — He pressed Nagumo for a tens-of-millions bet
+[scene] (p.46) At the student council room, Nagumo tells Ayanokōji: Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
+[says:nagumo-miyabi] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo to Ayanokōji.
+[says:nagumo-miyabi] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo, recounting.
+[says:nagumo-miyabi] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
+[note] (p.46) The attempted wager matches the 5-million-point cultural-festival bet he proposed to Horikita at p.29 — he was hunting for a match, not for the money.
+[rel:nagumo-miyabi] (p.46) He tried to buy a wager with him; Nagumo refused.
 
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.73–104 — The festival days of his class
+[mentioned] (p.73) “That's true. And with what happened to Ryūen-kun and the others, too.” — Horikita's line on Tuesday.
+[mentioned] (p.104) “perhaps due to her repeated contact with unusual people like Ayanokōji, Ryūen, or Amasawa.” — the narration about Kushida's tolerance for unusual people.
+
+<!-- walk: y2v7 Ch.3 → p.83 -->
+### y2v7 p.86–90 — The Traditional Japanese café; “Tell Suzune”
+[scene] (p.86) §1 — inside Ryūen's class's stall, “Special 02” is across the way; the concept of Ryūen's class is “Traditional Japanese style.” The food and beverages were also completely different, including Japanese sweets and tea.
+[note] (p.88) “It seems that Ryūen-kun went to check Class A.” — “Class A?” — “Because they haven't disclosed what kind of presentation they were going to put on.” — Hiyori told him.
+[scene] (p.90) Ryūen came out of a classroom in the back and walked toward them with his hands in his pockets; after a quick glance at Ayanokōji and Hashimoto, he walked straight through and headed downstairs.
+[says:hashimoto-masayoshi] (p.90) “Or are you going to do the same as him and take a closer look, even if you know it's useless?” — Hashimoto.
+[says:ryuuen-kakeru] (p.90) “Tell Suzune that it will be our class that wins tomorrow.” — Ryūen turned his back to face him and stopped; raised the corner of his mouth slightly before opening it.
+[says:ayanokouji-kiyotaka] (p.90) “I bet the Japanese attire cost more than the maid uniforms, didn't they? If you're going to challenge her to a match, at that point, you could have just worked together.” — Ayanokōji.
+[says] (p.90) “It's simply my taste.” — Ryūen; he started walking away.
+[note] (p.96) “He said, ‘Do whatever you want with your points. We're doing something else tomorrow.’” — Ishizaki recounts Ryūen's permission for the protein scam booth (Ishizaki self-funds from his own allocation; Ryūen disclaims involvement).
+[note] (p.92) Matsushita's sabotage fear names Ishizaki and the others — but Ryūen can't use his usual tactics in the presence of so many eyes at the exhibit; “There is no need to worry.” — Horikita.
+[rel:matsushita-chiaki] (p.92) Her fear: Ryūen's class coaching Ishizaki to bug the maid café; Horikita rejects the premise.
+[rel:hashimoto-masayoshi] (p.89–90) The Class A guard; his grin about Ryūen's visit.
+[rel:ishizaki-daichi] (p.96–98) The protein scam is union-made by Ryūen's blessing.
+[rel:horikita-suzune] (p.90) “Tell Suzune that it will be our class that wins tomorrow.” — the declaration to deliver.
+[rel:sakayanagi-arisu] (p.88–89) The unknown presentation of Class A; Ryūen went to check.
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.117–130 — The flyer war; the competition
+[mentioned] (p.117) “Ike pointed to where several girls from Ryūen's class were shouting.” — Ryūen's flyer brigade floods the school.
+[mentioned] (p.121) “The maid café was on the road to success. However, the fact that Ryūen made his” — Ryūen's early move's effect; the other classes follow Ryūen's lead.
+[mentioned] (p.130) “even Ryūen and Akito should be strong in fights, even if they are self-taught.” — Ayanokōji's claim; Ryūen is named in the martial-arts bit.
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.151–202 — The final hour; second place; the caller's recount; his class's points
+[mentioned] (p.151) “Ryūen's classes.” — the concept cafes well received by both Horikita's and Ryūen's classes; the one-on-one competition stunned many of the guests.
+[mentioned] (p.153) “to the students in Ryūen's class.” — the Japanese concept café's line is full too; “This one is just as busy as the other one.” — Ayanokōji's observation.
+[mentioned] (p.187) “But Ryūen's place is also in second place, and Sakayanagi's class is in fourth place, which is quintessential.” — the final placement.
+[mentioned] (p.187) “assumed from the beginning that Ryūen's class would also be in the top position.” — the intuition confirmed.
+[mentioned] (p.190) “It's not that I, Ryūen, and Katsuragi couldn't have forced the issue by ourselves.” — Ayanokōji's line; the trio's alliance.
+[mentioned] (p.199) “Even so, I didn't think you were cooperating with Ryūen's class under the guise of being hostile to them.” — Chabashira's line.
+[mentioned] (p.202) “Class C led by Ryūen: 740” — the final class points of the November festival.
+
+
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 ### y2v7 p.175–182 — Ryūen exposes Yagami
-[says] (p.176) "So you're Yagami. I heard you're the one who took care of Komiya and [Kinoshita]."
-[says] (p.177) "I know that the GPS on your watch was not functioning"
-[says] (p.180) "Kuku, I'm surprised too, but I can't help it. He was playing with fire too much."
-[says] (p.180) "Shut up. Don't yell so close to me, you little bitch."
-[trait] (p.175–182) Arrives at the student council room with Komiya and Kinoshita (having been tipped off), grabs Yagami by the bangs and exposes him — the GPS on Yagami's watch was off during the "accident" that injured Komiya/Kinoshita; when Yagami snaps and attacks, Ryūen stops the teachers ("Pull back. He's not fucking around") and prepares to fight him, telling him "you're only a punk."
-[rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — "he was playing with fire too much."
-[rel:komiya-kyogo] (p.176) He brought him — Yagami was behind his injury.
-[rel:ibuki-mio] (p.180) She's knocked down by Yagami; Ryūen helps her up and leaves.
+[scene] (p.175) Ryūen-kun was not the only one who showed up; two of his classmates also showed up; Sakagami-sensei and Mashima-sensei also showed up later in the student council room.
+[says] (p.175) “Oh, you look pretty good in that outfit, Ibuki. What do you think, Kinoshita?” — Ryūen.
+[says:kinoshita-minori] (p.175) “Honestly. I think you look cute with your little bow.” — Kinoshita.
+[says:ibuki-mio] (p.175) “What? Wait, Komiya? And even Kinoshita is...?” — Ibuki-san.
+[note] (p.175) Student Council President Nagumo stood up and forced the letter onto Yagami-kun's chest.
+[note] (p.175–176) “I came to the student council room to talk to Ryūen and the others. Isn't that right?” — printed (Nagumo); flagged untagged.
+[note] (p.175–176) “Yeah, that was the plan, but were you in the middle of taking them in?” — printed (Yagami); flagged untagged.
+[says:yagami-takuya] (p.176) “This can't be true... what's going on?” — Yagami.
+[says] (p.176) “This is the one you guys were talking about, right?” — Ryūen-kun asked Komiya-kun and the others standing discreetly behind him, confirming something.
+[says:komiya-kyogo] (p.176) “Yes, sir. I'm sure of it.” — Komiya.
+[says:kinoshita-minori] (p.176) “Yes. I'm sure.” — Kinoshita.
+[note] (p.176) Ryūen-kun heard this and, with a wan smile on his face as usual, moved even closer to Yagami-kun. He was so close that he could reach Yagami-kun if he stretched out his arm.
+[says] (p.176) “I'm going to have to have a long talk with you, aren't I?” — Ryūen.
+[says:yagami-takuya] (p.176) “About what?” — Yagami.
+[note] (p.176) Ryūen-kun laughed, extended his right arm, and suddenly grabbed Yagami-kun by the bangs.
+[says:mashima-tomonari] (p.176) “Ryūen!” — Mashima-sensei scolded him for his violent behavior, but he showed no sign of paying attention.
+[says] (p.176) “Yo, what's your name again?” — Ryūen.
+[says:yagami-takuya] (p.176) “Yagami, Yagami Takuya, Ryūen-senpai.” — Yagami.
+[note] (p.176) Ryūen-san pulled up his hair and Yagami-kun's face changed to one of anguish.
+[says] (p.176) “So you're Yagami. I heard you're the one who took care of Komiya and Kinoshita.” — Ryūen.
+[says:yagami-takuya] (p.176) “What do you mean? I don't understand.” — Yagami.
+[says] (p.176) “Don't play dumb. Komiya and Kinoshita reminded me just the other day. The reason they got seriously injured during the desert island test was because you violently attacked them.” — Ryūen.
+[note] (p.176) Severe injuries on a deserted island; they were seriously injured with broken bones; as Horikita recalled, an accident caused by carelessness.
+[says:yagami-takuya] (p.176–177) “Me? What in the world is going on?!” — Yagami.
+[says] (p.176–177) “These guys had lost their memories due to the shock of their injuries, but once it was put away as an accident, they remembered. They remember now that you were the culprit.” — Ryūen.
+[says:nagumo-miyabi] (p.176) “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo.
+[says:nagumo-miyabi] (p.176) “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
+[says:nagumo-miyabi] (p.176–177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
+[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei.
+[says:yagami-takuya] (p.177) “Hey, what are you saying? I didn't do anything!” — Yagami.
+[says] (p.177) “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
+[says:yagami-takuya] (p.177) “He couldn't remember, but later he remembered and gave my name? That's impossible! It's obvious that the two of them must have talked past each other to come up with my name!” — Yagami.
+[says] (p.177) “Mutual back-channeling? The fact that your watch was broken is a fact that the average student does not know.” — Ryūen.
+[note] (p.177) Over 400 people were taking the test on a deserted island; two of them were wearing watches with broken GPS at the time they were injured; surely the odds are too low to call it a coincidence.
+[says] (p.177) “They recall seeing the culprit. What's your basis for your doubts about their claims? Tell me.” — Ryūen; with more strength in his fingertips, Ryūen-kun pulled on Yagami-kun's hair.
+[says:yagami-takuya] (p.177) “Gghh! That's...” — Yagami.
+[says] (p.177) “‘No one could have seen me, I must have done it perfectly well.’ That's what you think, right?” — Ryūen.
+[says:yagami-takuya] (p.177) “Well, wait a minute. I didn't do anything. Do you think I'm capable of such a terrible thing?” — Yagami.
+[note] (p.177) Yagami-kun was not a big man; to the casual observer, it would seem strange; but Ryūen-kun didn't trust Yagami-kun's words at all.
+[says] (p.177) “I've learned from the past that the ones who look harmless are the most troublesome. Isn't that right, Ibuki?” — Ryūen.
+[says:ibuki-mio] (p.177) “No doubt, this guy is strong. He can at least seriously injure Komiya and the others without them noticing.” — Ibuki-san.
+[says] (p.177) “Normally, I'd have you suffer an equal or greater injury to avenge our enemy, but unfortunately, we're in front of Sensei. I'll give you a break. What awaits you is nothing but expulsion.” — Ryūen.
+[note] (p.177) If the facts were confirmed and it was proven that Yagami-kun caused serious injury to Komiya-kun and the others, that it would be more than a suspension; expulsion was inevitable, even with no extenuating circumstances.
+[says] (p.178) “So? What are you doing here, Suzune?” — Ryūen.
+[says:horikita-suzune] (p.178) “I had some research to do on Yagami-kun too.” — Horikita.
+[says] (p.178) “Oh? What's that?” — Ryūen.
+[scene] (p.180) At 3:00 p.m. the room had been surrounded by Ryūen-kun, Komiya-kun and others who unexpectedly appeared as well as the teachers; it was a place to surround Yagami-kun, who was evasive, from all sides.
+[says] (p.180) “Kuku, I'm surprised too, but I can't help it. He was playing with fire too much.” — Ryūen-kun; Ryūen-kun started laughing, perhaps feeling the same way.
+[note] (p.180) “I don't know what kind of background you have, but you're trapped.” — printed untagged (Ryūen by scene order); flagged untagged.
+[says:yagami-takuya] (p.180) “Why is this happening, this is beyond stupid.” — Yagami.
+[says] (p.180) “Shut up. Don't yell so close to me, you little bitch.” — Ryūen-kun sticked his pinky in his right ear and muttered in exasperation.
+[note] (p.180) In a clear sign of change, Ibuki-san jumped toward Yagami-kun from behind just as he was about to take a bold step toward Ryūen-kun; without looking back, Yagami-kun quickly dealt with it and slammed his elbow into her abdomen; “Guh!” — just one shot and Ibuki-san crumpled to the ground, unable to stand up.
+[says:mashima-tomonari] (p.180) “Stop it, Yagami!” — Mashima-sensei.
+[says] (p.180) “Pull back. He's not fucking around. Guess it's time for me to step up, isn't it?” — Ryūen-kun; without regard to the fact that this was the student council chambers, clenched his fist.
+[says:yagami-takuya] (p.180) “Oh my god, you can't stop me. I'm not going to tolerate anyone who stands in front of me from now on.” — Yagami.
+[says] (p.180) “Kuku. So that's your true nature. That's funny, isn't it?” — Ryūen.
+[note] (p.180) Without hesitation, Ryūen-kun took a step forward and lightly spread his arms out as if to provoke.
+[says] (p.180) “I'll gladly stand in your way, so come at me. You're only a punk.” — Ryūen.
+[note] (p.180) Ryūen-kun was determined, but she didn't think Yagami-kun could be stopped.
+[scene] (p.181) However, we must do something to hold him here.
+[says:mashima-tomonari] (p.181) “Stop it, Yagami. And Ryūen, too. If you cause a commotion here, it will be a serious penalty.” — Mashima-sensei.
+[says:yagami-takuya] (p.181) “My expulsion is 100% inevitable. If that's the case, there's no reason to stop it, right Mashima?” — Yagami.
+[note] (p.181) Still, Mashima-sensei, as a teacher, stepped in between Yagami-kun and Ryūen-kun.
+[note] (p.181) “Get lost.” He kicked Mashima-sensei in the knee, and when he staggered over, he slammed his fist into his face.
+[note] (p.181) Sakagami-sensei witnessed it up close and took a frightened step away.
+[note] (p.181) Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+[scene] (p.182) Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+[note] (p.182) Yagami-kun, who had been untouchable until a moment ago, suddenly began to tremble.
+[note] (p.182) Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+[scene] (p.182) Only me and Student Council President Nagumo were left in the Student Council Room.
+[says] (p.182) “Get up Ibuki, let's pull out.” — Ryūen.
+[says:ibuki-mio] (p.182) “Come on, at least give me a hand!” — Ibuki.
+[note] (p.182) Ryūen-kun gave instructions to Komiya-kun with his chin to Ibuki-san, who still could not stand up, and then lent her a hand and left the room.
+[trait] (p.175–182) Arrives at the student council room with Komiya and Kinoshita (having been tipped off), grabs Yagami by the bangs and exposes him — the GPS on Yagami's watch was off during the “accident” that injured Komiya/Kinoshita; when Yagami snaps and attacks, Ryūen stops the teachers and prepares to fight him; tells him “you're only a punk”; “I'll gladly stand in your way”; he leaves with Ibuki under his wing.
+[rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — “he was playing with fire too much.”
+[rel:komiya-kyogo] (p.176–182) He brought him — Yagami was behind his injury.
+[rel:kinoshita-minori] (p.175–182) He brought her too.
+[rel:ibuki-mio] (p.180–182) She's knocked down by Yagami; Ryūen helps her up and leaves.
+[rel:sakagami] (p.181–182) Sakagami (his homeroom teacher?) witnesses Yagami kick/punch Mashima; Sakagami assists the wounded Mashima.
+
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->

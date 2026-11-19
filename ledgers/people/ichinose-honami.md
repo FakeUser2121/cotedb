@@ -1892,10 +1892,66 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ichinose-honami mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9, p.29, p.32-33, p.41-43, p.52.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.9 — Additional funds: second among second-years
+[scene] (p.9) Chabashira displays the additional funds: Ichinose's Class D has 26,600 points in additional funds — second among second-year students, behind this class (39,400), ahead of Sakayanagi's (18,800) and Ryūen's (17,000); the student council member bonus gave her and Horikita 10,000 each.
+[says:chabashira-sae] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds.”
+[number] (p.9) Ichinose's class additional funds: 26,600 — “this class has the most additional funds among the second-year students.”
+[rel:horikita-suzune] (p.9) Both their classes lead the second-year additional funds; both received the 10,000 student-council member bonus.
+### y2v7 p.29–108 — Ichinose in the leak discussion; in Nagumo's mouth; in the council
+[mentioned] (p.29) “you team up with Sakayanagi-san, or Ichinose-san and the others?” — Yōsuke's question to Horikita; he asks if she allied with Ichinose.
+[mentioned] (p.52) “toying with Ichinose, Horikita, or anyone else. It would be wise not to think you” — Nagumo's jab to Ayanokōji.
+[note] (p.73) “If it was Ichinose, she would’ve taken it as if it was the only thing that” — the narration: Horikita's read of Ichinose (she would've taken one thing as the only thing).
+[note] (p.108) “The student council had gained three people from this year's first years; the second years only had Ichinose for a long time.”
+[note] (p.108) “There was a distinct lack of” — the narration continues about Ichinose's absence at the student council.
+[note] (p.202) “Class D led by Ichinose: 675” — the final class points of the November festival.
+[rel:nagumo-miyabi] (p.52) Nagumo's jab.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.32–33 — Scouting Class A's exhibit; awkward around Ayanokōji
+[scene] (p.32) After school, Ichinose is in line at the gymnasium haunted-house pre-opening — with Kanzaki; Ayanokōji arrives; she bows and averts her eyes; Kanzaki silently joins the line behind them both; the awkwardness is mutual.
+[says] (p.32) “That's great of the president. I can't believe he's going to show it off to the public so openly.” — Ichinose.
+[says] (p.32) “Yes, that's right. I'm sorry, Kanzaki-kun, but can I leave it to you...?” — Ichinose passes the line duty to Kanzaki; Kanzaki nodded his head in acceptance without question.
+[says] (p.32) “Well, see you later.” — Ichinose, never capable of rudeness.
+[note] (p.32) She never enters; only Kanzaki and Ayanokōji were left behind; the atmosphere was heavy; “Especially for Kanzaki, the situation would be clearer than daylight.”
+[note] (p.41–44) She does not attend the discussion afterwards; Kanzaki — her own class strategist — tells Ayanokōji he didn't call her because he was worried about the possibility of bumping into him coming back from the infirmary; she is never capable of rudeness, and never there when the real talk happens.
+[rel:kanzaki-ryuuji] (p.32) Kanzaki accompanies her in line; she leaves him to face Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.32) She bows and averts her eyes; an old, polite distance.
+[rel:nagumo-miyabi] (p.38) Kanzaki says Nagumo's plan concentrates points on her — “Concentrating private points on Ichinose is what we've been doing.”
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.57–71 — Discussed; never present
+[mentioned] (p.57–71) Kanzaki and Ayanokōji discuss her in the special wing — she cannot reach Class A under her “protect everyone” policy; she never really listens to dissent; concentrating points on her is the planned move ("Concentrating private points on Ichinose is what we've been doing"); she does not appear on-page until Ch.3+.
+[rel:kanzaki-ryuuji] (p.57–71) He comes to Ayanokōji for advice on her; envious of nothing but sees she can't win.
+
+<!-- walk: y2v7 Ch.2 → p.71 -->
+### y2v7 p.78–80 — The student council meeting: this time her suggestion passes
+[scene] (p.78) §2 — the student council room; Ichinose attends and reports; Nagumo arrives with the rumor.
+[says:nagumo-miyabi] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
+[says] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
+[says] (p.79) “What? What do you mean?” — Ichinose asked back.
+[says] (p.80) “Suspended...?” — Ichinose was surprised by this unexpected proposal.
+[note] (p.79–80) The student council will be suspended for a while; the next meeting will be held after the festival.
+[rel:nagumo-miyabi] (p.78–80) She reports; she is surprised by the suspension.
+[rel:yagami-takuya] (p.78) Yagami was sitting down and chatting with her.
+[rel:kiriyama-ikuto] (p.78) The thorny remarks.
+
+
+<!-- walk: y2v7 Ch.3 → p.83 -->
+### y2v7 p.112–113 — The sweets stall report
+[mentioned] (p.112–113) Ichinose's class's offering was, as Kanzaki recalls, sweets-based — crepes and chocolate bananas; "The kids love them. But the adults are not as receptive as we thought they would be, so we're not sure if we can aim for the top spot in terms of sales." — Kanzaki.
+[rel:kanzaki-ryuuji] (p.112–113) He reports the sweets-stall math; his priorities have shifted.
+### y2v7 p.120 — The counter-flyer war spreads
+[mentioned] (p.120) Ordinary students begin to hear about the one-on-one match-up; speculation led to rumors, and rumors led to speculation — "Did you hear Horikita's class and Ryūen's class are playing for a lot of money?" / "I heard that the leader of the losing class is getting expelled?" — spreading through the school.
+
+
+
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+### y2v7 p.206 — Ichinose class in the credits
+[mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji will be 'stolen' from Horikita class, and join Ichinose. Best girl Honami will become relevant again. You heard it here first.” — Cast#5942's editor quote in the RoyalMTL's credits page; Ichinose's class is the editor's prediction for the year-end exam.
+<!-- walk: y2v7 Afterword → p.207 -->
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

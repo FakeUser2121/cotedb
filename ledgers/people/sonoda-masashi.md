@@ -28,13 +28,10 @@ char_id: sonoda-masashi · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sonoda-masashi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.131.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.131 — Named among the students who asked girls to join
+[scene] (p.131) §1 — the maid café staffing crisis; Sonoda and others approached some of the girls, but the embarrassment of wearing a maid's uniform and the rigors of the work led them not to volunteer for the job.
+[note] (p.131) “Sonoda and others approached some of the girls...” — which Sonoda — Sonoda Masashi or Sonoda Chiyo — is not printed; both rostered; unresolvable from this page; not assigned.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v9
 

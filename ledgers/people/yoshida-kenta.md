@@ -106,13 +106,11 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — yoshida-kenta mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.112.
-[mentioned] (p.7) Passing mention only.
 
-
-
+### y2v7 p.112 — Peeking at the maid café
+[mentioned] (p.112) “Yoshida from Sakayanagi’s class was peeking into the maid cafe without trying to hide.” — Yoshida; Sakayanagi’s classmate; he peeks at the maid cafe in the morning’s scramble.
+[rel:sakayanagi-arisu] (p.112) He is one of her classmates doing the stalling job.
+<!-- walk: y2v7 Ch.5 → p.130 -->
 
 ## y2v10
 

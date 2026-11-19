@@ -158,13 +158,74 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — tsubaki-sakurako mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.191, p.193, p.195-196, p.198.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.191–199 — Tsubaki Sakurako's White Room play
+[scene] (p.191) §2 — after the festival ends; Utomiya waits outside the school with Tsubaki; AK receives a phone call from an unknown number at the classroom; the voice sounds familiar — Tsubaki Sakurako, a student in first-year Class C.
+[note] (p.191) “Hello?” — Ayanokōji answers his phone.
+[note] (p.191) “Are you still in school? I'd like to talk to you for a minute if you'd like.” — the caller; the voice sounds familiar.
+[note] (p.191) “Are you alone now?” — Ayanokōji.
+[note] (p.191) “Unfortunately not.” — the caller.
+[note] (p.191) “Then why don't we meet up?” — the caller.
+[note] (p.191) “Where are you?” — Ayanokōji.
+[note] (p.191–192) “I just left the front door. You're still on campus, right?” — the caller.
+[note] (p.192) “Give me five minutes.” — Ayanokōji.
+[note] (p.192) “Okay.” — the caller.
+[note] (p.192) After a short call, he told Horikita: “I'm sorry, but I'm going to have to step out for a bit…I'll be back in about 10 or 20 minutes. Then we'll continue our conversation.” — he returned to the classroom to finish the conversation.
+[note] (p.192) Horikita: “Okay, I'll wait here.” — she agrees to wait.
+[note] (p.192) §2 — “Is Tsubaki alone at the meeting place?” — he thought so for a moment, but it seemed that Utomiya was talking to someone a little farther away; he was only looking at them.
+[note] (p.193) “Is there something you're having trouble communicating over the phone?” — Tsubaki asks Ayanokōji, who was holding the phone.
+[note] (p.193) “Well, the first-year students are in a bit of a mess right now. There was an unexpected expulsion at the school festival.” — Tsubaki.
+[note] (p.193) “Expelled? That's a very disturbing story.” — Ayanokōji.
+[note] (p.193) Someone else was involved in this school expulsion fiasco; that was Tsubaki Sakurako, who was in front of him then; “I'm satisfied with the result, which is more than I imagined…Ayanokōji-senpai.” — Tsubaki.
+[note] (p.195) “Tsubaki made a circle with her finger as if to say, ‘you passed.’” — the narration; “It seems you've successfully extracted information from Satō-senpai and drove Yagami-kun out of school. I am very grateful.” — Tsubaki.
+[note] (p.195) Satō was apparently approached by Tsubaki near the women's restroom at Keyaki Mall; there, she flashed some bait that would turn things around for her, including a turnaround between his relationship with Kei, which tickled her curiosity; she intensified the threats gradually over days because Satō would eventually come to consult someone, and that would be him; the goal was not to cage Satō, but to wait for her to ask him for help.
+[note] (p.195) Ayanokōji to Tsubaki: “It seems you called Satō to your room and made cheap threats, but it wasn't a serious attempt to manipulate her into ruining our relationship. It was because you wanted to push her to act, or deal with the threat of Kei's relationship, by indirectly letting her know that we were getting close.”
+[note] (p.195) Tsubaki listened silently, staring at him without denial.
+[note] (p.195) Ayanokōji: “Then, you most likely told Satō that it was Yagami who was behind the threats, not you.”
+[note] (p.195) Tsubaki played dumb: “I don't know what that means. What a surprise.”
+[note] (p.195) “As soon as you saw that Satō wouldn't accept your invitation, you contacted her again as if to follow up and made similar comments and provoked her. When you saw that Satō didn't seem to have consulted anyone, you gradually intensified your threats and hounded her. This was due to the fact that she would eventually come to consult someone, and that would be me.” — Ayanokōji's read of the three-week squeeze.
+[note] (p.195) “Yagami-kun is a bad guy, isn't he?” — Tsubaki.
+[note] (p.195) “You don't need cheap theatrics. Yagami had nothing to do with this. He's not involved.” — Ayanokōji.
+[note] (p.196) “You don't think it was actually Yagami-kun's order?” — Tsubaki.
+[note] (p.196) The only people who know about Karuizawa's past are those who are connected with the White Room; others can't easily imitate him.
+[note] (p.196) Tsubaki: “Then isn't it the other way around, you found out that I was trying to frame Yagami-kun, didn't you? And yet you did nothing against me and even expelled Yagami-kun, who might be innocent. Isn't that contradictory? There was no indication that Ayanokōji-senpai was looking into it in detail.”
+[note] (p.196) Ayanokōji: “Ah. I didn't investigate Tsubaki or Yagami. No need for that.”
+[note] (p.196) Tsubaki: “What do you mean?”
+[note] (p.196) Ayanokōji: “I'm sorry, but I don't feel like talking any more.” — he was convinced that he had said enough; it wasn't even Tsubaki who was manipulating everything; furthermore, the person lurking in the background was the one who painted this picture.
+[note] (p.196) “Utomiya-kun, can you come here for a minute?” — Tsubaki beckoned to Utomiya, who was on the phone, and instructed him to hand his cell phone to Ayanokōji.
+[note] (p.196) “Go ahead...” — Wary, Utomiya handed the phone to him while it was still connected.
+[note] (p.196) The voice of the man he spoke to last year on the phone and in front of his room: “Yagami had some of Tsubaki's and Utomiya's classmates expelled. That's why those two worked together with me.”
+[note] (p.196) The man on the phone continued: “You left him alone because you knew you could take him down at any time if you moved directly on him. But as a result, there were expulsions from the first year. It wouldn't have happened if it hadn't been for his nuisance.”
+[note] (p.196) Ayanokōji: “I don't deny it.”
+[note] (p.197) The man on the phone: “The only way to avoid further unnecessary sacrifices was to have him expelled. But even if you knew that, it isn't easy to defeat Yagami. I know he is no ordinary high school student.”
+[note] (p.197) Ayanokōji: “That's why you wanted to use me.” — he made this decision because he understood the white room student's purpose and obsession.
+[note] (p.197) The man on the phone: “Eventually, you'll get in touch with someone close to me. And when that happens, there will be expulsions, right?”
+[note] (p.197) Ayanokōji: “That's right. But to drive Yagami into a corner and expel him all at once? That was a little out of the calculations. Did you not take into account the possibility that Yagami was unrelated?”
+[note] (p.197) The man on the phone: “It was up to Yagami's choice whether or not he wanted to be expelled. It wasn't me who decided whether it was black or white. He was playing with fire here and there, just like he expelled a student from 1st year C. He contacted Kushida Kikyo, pretending to be her former junior, and he used the information he was given to control and manipulate her. He provoked unrelated students on a deserted island by inflicting serious injuries to them. He also checked the contents of a love letter for another person, thinking it was a trap. I don't know why Horikita and Ibuki were there, but I think it was also because he was playing with fire.”
+[note] (p.197) “So it was all connected.” — the man on the phone.
+[note] (p.197) “That guy didn't realize he was strangling himself with cotton wool.” — the man on the phone.
+[note] (p.197) “Surely if Yagami hadn't done anything, he wouldn't have been expelled at this stage.” — the man on the phone.
+[note] (p.197) Ayanokōji: “I agree.”
+[note] (p.197) The man on the phone: “The only reason he was expelled was because Yagami admitted to himself that he was black.”
+[note] (p.197) He merely set up the stage for a test; if he was completely white, there would've been no fuss in the first place; he only went to the student council room because he knew him and because he was smart.
+[note] (p.198) The man on the phone: “You seem to be as good as the rumors say you are.”
+[note] (p.198) The man on the phone: “By the way, just to confirm, remember what you told me before? You told me that if I didn't get rid of the people who were in my way, I wouldn't expect peace and quiet to return. That was a bluff, wasn't it? You wanted to create a sense of urgency that if I didn't take care of the problem soon, it would become even more difficult.”
+[note] (p.198) In order to make him move, he had made a move to get Yagami expelled from the school from that stage.
+[note] (p.198) The man on the phone: “Ayanokōji-sensei was right, you were right to choose this school.”
+[note] (p.198) Ayanokōji: “What do you mean?”
+[note] (p.198) The man on the phone: “It's just as you believe, I'm going to enjoy my school life, and as long as we don't bump into each other during the first and second years squabbles, I'll let our relationship end here.”
+[note] (p.198) He said what he wanted to say and the call was unilaterally hung up; a sneak peek at the cell phone screen revealed that the call was deliberately blocked; this was done because they didn't want Utomiya to realize from their address or phone number that they were registered to an address.
+[note] (p.198) Tsubaki: “Have you figured it out?”
+[note] (p.198) Ayanokōji: “Yeah.”
+[note] (p.198) Ayanokōji: “Don't quit just because you've defeated your enemy, Tsubaki.”
+[note] (p.198) Tsubaki: “I know. To be honest, I wasn't attached to this school at first, but that's changed a bit. This school is surprisingly fun.”
+[note] (p.198) Looking at the exchange just now, it was clear that there were a lot of mixed feelings other than simply taking revenge on an enemy.
+[note] (p.199) Tsubaki: “So, we're leaving.”
+[note] (p.199) Utomiya, forcing himself to pull out the honorific: “Senpai.” — returned to the dormitory with Tsubaki.
+[note] (p.199) Ayanokōji: “I should get back to class too.”
+[mentioned] (p.193) “There was an unexpected expulsion at the school festival.” — the school festival expelled someone; the person in front of him is Tsubaki Sakurako; “I'm satisfied with the result, which is more than I imagined…Ayanokōji-senpai.”
+[rel:utomiya-riku] (p.191–199) Utomiya is with Tsubaki at the meeting; he hands his phone over; “Senpai.”
+[rel:ayanokouji-kiyotaka] (p.191–199) She works with him against Yagami; she reports the expulsion; she leaves the school.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v11
 

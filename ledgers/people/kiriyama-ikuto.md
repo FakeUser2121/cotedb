@@ -214,10 +214,15 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kiriyama-ikuto mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.78-79.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.78–79 — The vice president: the thorny remark, the Kishi rumor
+[scene] (p.78) §2 — the student council room; the members are already there except for Student Council President Nagumo; Kiriyama-senpai, the third-year vice president, is present; Yagami and Aga chat with Ichinose-san.
+[says] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
+[says] (p.79) “From my class?” — Kiriyama.
+[says] (p.79) “Sorry, that's news to me. I don't understand why you would bet a lot of money to get someone expelled in the first place.” — Kiriyama.
+[note] (p.79) “Who told you that nonsense?” — printed untagged; not assigned.
+[rel:nagumo-miyabi] (p.78–79) The thorny remarks; the Kishi rumor's origin sits in his class.
+[rel:yagami-takuya] (p.78) Both present in the room — the vice president and the secretary.
+<!-- walk: y2v7 Ch.3 → p.83 -->
 
 ## y2v9
 
@@ -271,4 +276,3 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.169; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-

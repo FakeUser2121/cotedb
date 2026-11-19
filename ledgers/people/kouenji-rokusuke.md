@@ -947,10 +947,27 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kouenji-rokusuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.74, p.84, p.184, p.186.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.74 — The convenience store sighting
+[scene] (p.74) Tuesday morning — Kōenji is just about to pay for his items (a bottle of soy milk and a white meat salad; rarely seen eating in public — his private life remains a mystery to the class); Horikita calls out to him; he only smiles lightly and exchanges no words.
+[says:horikita-suzune] (p.74) “Good morning, Kōenji-kun.” — Horikita.
+[note] (p.74) “I heard that Kōenji is the only one not assigned work for the cultural festival.” — "He told me he wouldn't do anything. I'm sure I won't change his mind." — Horikita's exchange about him.
+[rel:horikita-suzune] (p.74) She notes his festival non-assignment; he doesn't engage.
+
+<!-- walk: y2v7 Ch.3 → p.83 -->
+### y2v7 p.84 — The three exempted from festival work
+[scene] (p.84) The day before the festival; Horikita's class runs four booths; 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
+[note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
+[rel:hasebe-haruka] (p.84) The same exemption.
+[rel:miyake-akito] (p.84) The same exemption.
+[rel:horikita-suzune] (p.84) Her reasoning about the non-cooperators.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.184, 186 — Kōenji absent from the festival's closing ceremony
+[mentioned] (p.184) “classmates (except Kōenji) gathered at the maid café.” — the gathering excludes Kōenji.
+[mentioned] (p.186) “Skipping the festival is a problematic behavior, but fortunately it doesn't violate any rules. Kouenji-kun hasn't shown up once since this morning, so it's the same thing.” — Horikita's line to the class.
+[rel:horikita-suzune] (p.186) She names him as one who skipped all morning.
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

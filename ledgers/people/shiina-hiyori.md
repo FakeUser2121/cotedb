@@ -582,10 +582,25 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — shiina-hiyori mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: none.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.86–89 — The kimono girl at Ryūen's booth
+[scene] (p.86) §1 — the first floor of the special building, stall “Special 02”; the girls mainly did the work, with the boys assisting; inside Ryūen's class's booth — the concept is “Traditional Japanese style” with Japanese sweets and tea — there was a unique presence; a girl sitting alone in a chair reading a book, dressed in the kimono.
+[says] (p.86) “Hello.” — Hiyori lifted her book and, for some reason, hid everything but her gaze.
+[scene] (p.88) The checkout talk — Hiyori specializes in checkout; she's not very good at interacting with people; she's also not very good at moving around; she practiced carrying food on a tray but it didn't work out.
+[says] (p.88) “I specialize in checkout. I'm not very good at interacting with people. I'm also not very good at moving around, and I practiced carrying food on a tray, but it didn't work out.” — Hiyori.
+[note] (p.88) “It's not that I haven't been. I've just, you know, changed my hours a bit.” — Hiyori; she'd changed her library visiting hours.
+[says] (p.88) “By the way, Ibuki-san will be joining us.” — Hiyori.
+[note] (p.88) “I heard that she had a match with Ryūen-kun for complete exemption from helping at the festival.” — Hiyori.
+[note] (p.88) “And she lost.” — Ayanokōji.
+[note] (p.88) “Ibuki? I had an image that she would never wear this kind of costume.” — Ayanokōji.
+[note] (p.88) “She's not participating today. She said she absolutely hates wearing it outside of the festival.” — Hiyori; the Ibu whose loss came at the cost of her usual armor.
+[note] (p.88) Ryūen went to check Class A — “Because they haven't disclosed what kind of presentation they were going to put on.” — the details of Sakayanagi's class had been unknown until the day before the festival.
+[says] (p.89) “Um, Ayanokōji-kun...” — Hiyori seemed to want to say something else, but immediately shook her head from side to side.
+[says] (p.89) “I'll be showing up at the library again next time, so please do so as well, Ayanokōji-kun.” — Hiyori.
+[rel:ayanokouji-kiyotaka] (p.86–89) The booth visit; the library hours; the quiet confidences.
+[rel:ibuki-mio] (p.88–89) Hiyori names Ibuki as her upcoming coworker at checkout; the match for the exemption.
+[rel:ryuuen-kakeru] (p.86–88) His class's Traditional Japanese café; she wears the kimono; checkout.
+[rel:sakayanagi-arisu] (p.88) The unknown presentation of Class A; Ryūen went to check.
+<!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v8
 

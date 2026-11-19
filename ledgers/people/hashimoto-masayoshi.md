@@ -852,10 +852,54 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — hashimoto-masayoshi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.17-19, p.27, p.29-30, p.89-90, p.189.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.17–18 — Scouting the special building; the probe
+[scene] (p.17) Hashimoto (Class A) calls out from the second floor; Sakayanagi and Kamuro appear with him; they, too, are scouting for the festival; he needles Horikita about teaming with Ryūen.
+[says] (p.17) “Yo, Ayanokōji. Are you also looking for a place to open a stand for the festival?”
+[says] (p.17) “No decision? That's an obvious lie. Are you telling me that you're taking Horikita all the way out to the special building to roam around for no reason? Please tell me what kind of show you're going to put on.”
+[says] (p.17–18) “Then you mean he's simply enjoying his harem?” — he pointed out that Ayanokōji is the only male of the six and asked Kamuro to agree.
+[says] (p.18) “Satō, you've been spending a lot of time with people like Matsushita, Wang and Maezono.”
+[says] (p.18) “I didn't mean it like that. It's just...”
+[says] (p.18) “Oops, any more than that would be superfluous?” — grinning, looking at Sakayanagi for the first time since they had arrived.
+[says] (p.18) “I'm worried about your class, my friend. It seems that you have teamed up with... Ryūen for the sports festival, but do you think you can trust him forever?” — his pointed question to Horikita.
+[says] (p.18) “I just thought you were going to team up with Ryūen again. If you are going to team up with him, be careful,” he said, as if he had the heart of an old woman.
+[says] (p.18) “Maybe. I'm just asking for some reasoning... Anyways, good luck with that.”
+[note] (p.17–18) Sakayanagi says nothing; she goes into the class they had watched earlier; Hashimoto's Class A trio watches the second-years scout with relaxed amusement.
+[rel:horikita-suzune] (p.17–18) He probes the Ryūen alliance; she replies on the same level, relaxed.
+[rel:ayanokouji-kiyotaka] (p.17–18) The harem jab; the “teaming up with Ryūen” warning.
+[rel:sakayanagi-arisu] (p.17–18) His silent leader watches with a wry smile; he keeps "the good luck" for last.
+### y2v7 p.19, 27, 189 — Hashimoto's name lands in other people's mouths
+[mentioned] (p.19) “Hashimoto-kun said something earlier, did you guys catch it?” — Maezono's line; Hashimoto's probe is now public gossip in the planning room.
+[note] (p.19) “I want to believe you too. But didn't Hashimoto-kun seem to know” — the others study Hashimoto's knowledge; he seems to know; his class A's scouting is too well-informed.
+[mentioned] (p.27) “Matsushita, who remembered the contact from Hashimoto, approached us.” — the contact from Hashimoto is why she speaks now.
+[note] (p.27) Matsushita remembers his contact — his probe's seeds are already in the soil.
+[mentioned] (p.189) “Hashimoto and the others, who had been looking forward to the result of the bet,” — Horikita's cast list of who cared.
+[mentioned] (p.189) “Yes, Sakayanagi-san heard a lot of information from third parties. I'm sure that Hashimoto-kun and other spies must’ve told her about this as well.” — Horikita; Hashimoto is named as one of Sakayanagi's scouts.
+### y2v7 p.29–30 — Amused spectator of the declaration
+[scene] (p.29) Students from other classes — spectators — begin to approach after the announcement; Hashimoto learned of the fact before Horikita's class did; his eyes meet Ayanokōji's with a thin smile and a shrug.
+[note] (p.29–30) “He learned of this fact before Horikita's class learned of it” — the narration; Hashimoto would change the subject as if the conversation never took place.
+[rel:ryuuen-kakeru] (p.29–30) He watches amused as Ryūen declares the copy and the five-million-point wager.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.89–90 — The Class A guard
+[scene] (p.89) §1 — the third floor of the special wing — the exclusive floor of the 2nd year Class A; Hashimoto, keeping an eye on the students coming, approaches and calls out.
+[says] (p.89) “Surprised by the unexpected?” — Hashimoto.
+[says:ayanokouji-kiyotaka] (p.89) “What's this all about?” — Ayanokōji.
+[says] (p.89) “You can't even understand what you're seeing?” — Hashimoto laughed quietly, perhaps amused that he didn't grasp it.
+[says] (p.89) “That's what it means. I'm sorry you had to come all the way up here, but I'm going to have to ask you to leave.” — Hashimoto; the remainder of the exhibit until we open tomorrow.
+[note] (p.89) A sign was posted on the stairs leading to this floor: “Due to an issue, the second-year Class A will not be presenting their activities today.”
+[says] (p.89) “It looks like Ryūen will be leaving soon, too.” — Hashimoto.
+[scene] (p.90) Ryūen came out of a classroom in the back and walked toward them with his hands in his pockets; after a quick glance at the two, he walked straight through and headed downstairs.
+[says] (p.90) “Or are you going to do the same as him and take a closer look, even if you know it's useless?” — Hashimoto.
+[says:ayanokouji-kiyotaka] (p.90) “I'm going back.” — Ayanokōji.
+[says] (p.90) “Good luck. You'll have to wait until we open to see what happens.” — Hashimoto.
+[rel:sakayanagi-arisu] (p.89–90) He guards her class's floor; he says good luck.
+[rel:ryuuen-kakeru] (p.89–90) Ryūen leaves; Hashimoto chats with him about the mystery.
+[rel:ayanokouji-kiyotaka] (p.89–90) The amused exchange; Hashimoto keeps the gate.
+
+
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 

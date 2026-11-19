@@ -26,13 +26,10 @@ char_id: ishikura-kayoko · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ishikura-kayoko mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.131.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.131 — Ishikura substituted for Matsushita (sick)
+[mentioned] (p.131) “the remaining three were Ishikura, who had substituted for Matsushita, Kushida, as well as Inokashira, who specialized in handing out flyers.” — Ishikura substituted for Matsushita while she was sick.
+[note] (p.131) “Ishikura” — the text does not say whether Ishikura Kayoko or Ishikura (legacy row) is meant; both rostered; not assigned.
+<!-- walk: y2v7 Ch.6 → p.160 -->
 
 ## y2v9
 

@@ -1217,13 +1217,60 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sakura-airi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.6, p.13, p.25, p.102, p.131.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.6 — Prologue: the friend whose expulsion broke things
+[scene] (p.6) Sakura Airi is the friend whose expulsion broke Hasebe Haruka's reconnection; Haruka names “Kiyopon, Yukimū, Miyachi and… Airi” as the friends she made again, and Airi's expulsion as the wound.
+[note] (p.6) “Who stole it? That's obvious. Horikita Suzune and Ayanokōji Kiyotaka.” — Haruka's monologue; “I became a victim of the selfish actions of those two people. I can't forgive them. There's no way I can.” — “I decided to get revenge.”
+[rel:hasebe-haruka] (p.6) Her expulsion is the wound at the root of Haruka's revenge decision.
+
+<!-- walk: y2v7 Prologue → p.6 -->
+### y2v7 p.13 — The reason the lower ranks study
+[mentioned] (p.13) “Anyways, one could even say, due to the expulsion of Airi from the school, the lower ranked students started working even harder.” — the narration; the post-expulsion shift in the class's motivation.
+### y2v7 p.25 — Sudō's “Sakura”
+[mentioned] (p.25) Sudō, grinding his teeth at the sight of Haruka and Akito: “I wasn't particularly close to Sakura, but I've had similar experiences.” — he measures Haruka's situation against his own past with Yamauchi.
+
+<!-- walk: y2v7 Ch.1 → p.53 -->
+### y2v7 p.102 — “Sakura-senpai was expelled”
+[mentioned] (p.102) “…Sakura-senpai was expelled instead of Kushida-senpai. What I want to know are the details of it.” — Yagami; the unanimous exam's casualty was her.
+[note] (p.102) “I did nothing in that special exam. So, Sakura-san, who was the lowest in OAA, was inevitably cut. That's it.” — Kushida's version; the class knew the details were not for outsiders.
+[rel:kushida-kikyou] (p.102) The casualty of the unanimous exam's outcome.
+[rel:yagami-takuya] (p.102) The interrogator who wants the details.
 
 
+<!-- walk: y2v7 Ch.4 → p.106 -->
+### y2v7 p.131, 133, 191, 193 — The Airi-thread's footnotes in his ledger
+[mentioned] (p.131) “What Airi Left Behind” — the chapter title itself.
+[mentioned] (p.133) “You mean payback for Sakura-san's expulsion? You participated in the preliminary discussion, right?” — Kushida to Ayanokōji; Airi's expulsion is invoked.
+[note] (p.133) “Haruka and Airi were looking forward to the cultural festival. That's why they were going to see it through until the end.” — Ayanokōji's read of the pair.
+[mentioned] (p.191) “The voice sounded familiar: It was Tsubaki Sakurako, a student in first year” — the unknown number caller is Tsubaki Sakurako (not Airi).
+[mentioned] (p.193) “Tsubaki Sakurako, who was in front of me then.” — who Tsubaki Sakurako is.
+[note] (p.191–193) Tsubaki Sakurako's given name "Sakurako" echoes Sakura Airi's name — nothing on these pages confirms or denies any relation; not assigned.
+### y2v7 p.136–151 — The uniform box; the Shizuku reveal
+[scene] (p.135–147) AK approaches the bench at Keyaki Mall with a cardboard box; Airi's maid uniform inside; the withdrawal letters.
+[note] (p.136) “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka's worldview breaks in one moment.
+[note] (p.136) The box contained a maid's uniform; his name as the recipient; the online store as the sender; he himself did not know about this until he received and searched it.
+[note] (p.142) “She realized that there was a possibility that you would stop and not participate in the festival. That's why this was supposed to be delivered to you, to prevent that from happening, wasn't it?” — Ayanokōji.
+[note] (p.141) “A-ai...” — Haruka muttered looking down at the uniform.
+[note] (p.145) The name of the account was “Shizuku,” another name Sakura Airi went by when she used to secretly be active as a gravure idol; after an incident, Airi deleted her account, but Kushida found that it had recently been restored; the account had only been created a few days ago but already had over 1,000 followers.
+[note] (p.145) “I've decided to resume my idol activities after a long hiatus.” — her new first tweet.
+[note] (p.145–146) “I decided to do what I could do. To become the person I want to be. To show my best friend that I am not ashamed of myself after she graduates.” — the second tweet.
+[note] (p.146) “I finally auditioned yesterday! I was so nervous, but I'm so happy!” — the third round of auditions; the social networking site carried her comments upon passing.
+[note] (p.146) “The reason I decided to go into show business is because I wanted to make my voice heard.” — the fourth tweet.
+[note] (p.146) “I'm bitter and sad, but I want to look forward… I am looking forward. So don't you lose too.” — the fifth tweet.
+[note] (p.146) “Even now, she was trying her best to walk, even though she must have been heartbroken. It was because she was afraid that Haruka might stop.” — out loud by Haruka's read.
+[rel:hasebe-haruka] (p.136–151) The maid uniform Airi left for Haruka; the SNS account reveal.
+[rel:kushida-kikyou] (p.145–151) She found the account; Airi's Shizuku reveal.
+[rel:ayanokouji-kiyotaka] (p.136–151) The uniform box; he had no idea about her SNS until now.
 
+
+<!-- walk: y2v7 Ch.6 → p.160 -->
+### y2v7 p.185 — Named in the Epilogue
+[mentioned] (p.185) “That girl is trying to spread her wings in the outside world. Kushida-san told me about it.” — Haruka, to the class; Airi is attempting to become an idol.
+[mentioned] (p.185) “Sakura-san, she seems to be working hard to become an idol; you can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — Kushida.
+[note] (p.185) The common perception that emerged was the fact that Airi had taken a new step forward; “You can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — the students were surprised; others thought it was a good idea.
+[note] (p.185) “Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her.” — Haruka; she chose to stay at this school.
+
+
+<!-- walk: y2v7 Epilogue → p.202 -->
 
 ## y2v8
 
