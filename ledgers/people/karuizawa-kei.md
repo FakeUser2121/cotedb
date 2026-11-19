@@ -2002,12 +2002,28 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.11–13 — Kei's secret date on the ship
-[scene] (p.11–13) She meets Ayanokōji on the aft deck for a secret date; she worries about being seen and discusses the upcoming briefing.
-[trait] (p.11–13) Nervous but affectionate — she worries about exposure but enjoys the time together.
-[rel:ayanokouji-kiyotaka] (p.11–13) Secret date on the ship.
+### y2v3 p.11–14 — A secret date on the Saint Venus's aft deck
+[scene] (p.11) July 19th, 12:36 PM — the day before the exam; on the aft deck of the Saint Venus (12-story luxury liner, carrying capacity over 700; third-largest Japanese-registered ship; 5th-floor lobby with movie theater, pool, gym, cafes, restaurants, panoramic bath, game corner, clinic/sickbay); she waves Kiyotaka over; they watch the sun-lit sea together.
+[says] (p.11) “Such an amazing view, huh…?”
+[says:ayanokouji-kiyotaka] (p.12) “Didn't you already see it last year?”
+[says] (p.12) “I mean, I saw a bit of it, but like, the view just wasn't as important as hanging out with my friends onboard the ship and all.”
+[says] (p.12) “So anyway like, is it really okay for us to be on a date together out in the open like this…?”
+[says:ayanokouji-kiyotaka] (p.12) “While I can't guarantee that nobody will see us, we should be fine for the time being.”
+[note] (p.12) First-years ate lunch at 11:00 AM ahead of their noon briefing; second- and third-years an hour later; 1:00 PM is the second-years' own briefing; she suspects the hidden agenda may be more than heatstroke safety, but accepts it's likely mixed motives.
+[says:ayanokouji-kiyotaka] (p.12) “That might be part of it, but that's most likely not the only reason.”
+[says] (p.13) “It still kinda doesn't feel real…”
+[says:ayanokouji-kiyotaka] (p.13) “Well, it's not every day that you get the chance to go on a cruise ship like this. It's understandable that things might feel somewhat surreal.”
+[says] (p.13) “Not that… I'm talking ‘bout how it doesn't feel real that I'm goin' out with you. You're so smart, and yet you totally miss the mark about this kinda stuff, huh?”
+[says:ayanokouji-kiyotaka] (p.13) “Well, I wonder. I'd say it does and it doesn't.”
+[says] (p.13) “The heck?”
+[says:ayanokouji-kiyotaka] (p.13) “I just never imagined that the two of us would get to meet up in secret outside like this.”
+[says:ayanokouji-kiyotaka] (p.14) “Depending on what we're told about the special exam in the upcoming briefing session, there might be a few things I'll need you to do for me.”
+[says] (p.14) “Alright. Only if it's something I'm capable of though.”
+[says] (p.14) “Sounds like the first-years are done. We can't go together, so I'll head off first.”
+[note] (p.13–14) They've been together since spring break; several months with no real dates because the relationship is hidden; dates happen in secret; he called her out mainly to rope her into exam tasks, but physically meeting alone was a different, interesting experience for him; she left alone to avoid suspicion.
+[rel:ayanokouji-kiyotaka] (p.11–14) Boyfriend; their rare solo rendezvous is doubled as a briefing; she agrees to help within her capability.
 
-<!-- walk: y2v3 Ch.1 → p.13 -->
+<!-- walk: y2v3 Ch.1 → p.42 -->
 
 ### y2v3 p.48–49 — Kei mentioned at the start
 [scene] (p.48–49) She is mentioned in passing; Nishino and Tsube are seen heading out; Ayanokōji notes Kei's group situation.
@@ -2015,16 +2031,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 Ch.2 → p.49 -->
 
-### y2v3 p.11–14 — A secret moment with Kiyotaka on the ship
-[scene] (p.11) Waves Ayanokōji over on theaft deck of the "Saint Venus," making sure nobody's around; they stand together looking at the sparkling sea.
-[says] (p.11) "Such an amazing view, huh…?"
-[says] (p.12) "So anyway like, is it really okay for us to be on a date together out in the open like this…?"
-[says] (p.13) "It still kinda doesn't feel real…"
-[says] (p.13) "Not that… I'm talking 'bout how it doesn't feel real that I'm goin' out with you."
-[says] (p.13) "You're so smart, and yet you totally miss the mark about this kinda stuff, huh?"
-[says] (p.14) "Sounds like the first-years are done. We can't go together, so I'll head off first."
-[trait] (p.11–14) Romantic and nervous — enjoys the "date" but restless about being seen; admits it doesn't feel real that she's dating him; takes the initiative to leave alone first so they aren't seen walking together.
-[rel:ayanokouji-kiyotaka] (p.11–14) His girlfriend; they steal a rare private moment and she goes to the briefing separately.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

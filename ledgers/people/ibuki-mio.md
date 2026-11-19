@@ -1000,13 +1000,24 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.14–16 — Ibuki at the briefing, stuck beside Ayanokōji
-[says] (p.15) "…Ugh. Why the hell are you sitting here?"
-[says] (p.15) "You didn't sit there on purpose, right?"
-[says] (p.15) "I'm goin' somewhere else, so don't you dare follow me, got it?"
-[trait] (p.14–16) Tries to leave the back seat when Ayanokōji sits beside her, but Kitō takes her escape seat and the groups fill the rest; grudgingly stays "sandwiched between Kitō and myself" — she'd rather tolerate him than join a group, having chosen to take the exam alone.
-[rel:ayanokouji-kiyotaka] (p.15–16) Refuses to follow him; forced to sit beside him anyway.
-[rel:kitou-hayato] (p.15) Takes the seat she wanted, glowering at him as he folds his arms.
+### y2v3 p.14–16 — The briefing seats: Ibuki sandwiched beside Ayanokōji
+[scene] (p.14) At the movie-theater briefing (no assigned seats; he picks a back-row spot), she is the one already sitting in the targeted back seat; she glares at him for occupying her spot.
+[says] (p.14) “…Ugh. Why the hell are you sitting here?”
+[says:ayanokouji-kiyotaka] (p.15) “You didn't sit there on purpose, right?”
+[says] (p.15) “Not at all.”
+[says] (p.15) “I'm goin' somewhere else, so don't you dare follow me, got it?”
+[scene] (p.15–16) Every back-row seat fills; she means to take the seat one away, but Kitō Hayato (2-A) plops down first; she glowers at him; with nowhere to go she reluctantly sits back beside AK; the groups hate mixing with each other even more.
+[scene] (p.40) End of the briefing; the product exhibition opens until midnight; she idles staring toward the front; he studies her in turn; she fixes him with a glare when she notices.
+[says] (p.40) “What.”
+[says:ayanokouji-kiyotaka] (p.40) “How do I put it? I was just thinking that our personalities can be troublesome sometimes. It's difficult for us to mix in with that crowd.”
+[says] (p.40) “Hah? I ain't like you. I could do it if I wanted.”
+[scene] (p.40) With newfound determination she stands and pushes into the crowd to look at the goods; Kitō, two seats over, flips through the manual, paying her no mind.
+[trait] (p.14–16, 40) Lone wolf by nature; refuses to be lumped in with him; “I could do it if I wanted” — pride keeps her out of the crowd one minute longer, then she dives in.
+[rel:ayanokouji-kiyotaka] (p.14–16, 40) Forced seatmate; mutual recognition as fellow non-conformists; keeps glaring, keeps sitting beside him.
+[rel:kitou-hayato] (p.15, 40) Takes her escape seat; she hates him for it but tolerates him.
+
+<!-- walk: y2v3 Ch.1 → p.42 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

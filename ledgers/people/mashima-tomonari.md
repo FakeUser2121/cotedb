@@ -336,16 +336,66 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.16–27 — Mashima's island exam briefing
-[scene] (p.16) Class 2-A's homeroom teacher stands before the screen in the movie theater, microphone in hand, explaining the rules (with Hoshinomiya handing him the watch).
-[says] (p.16) "Starting tomorrow, your stay on the island will last for the next two weeks."
-[says] (p.18) "The first three groups to arrive at area C8 will receive an 'Early Bird Bonus', with the first receiving 10 points, the second receiving 5 points, and the third receiving 3 points."
-[says] (p.19) "should a group fail to reach a designated area three times in a row, they will lose one point."
-[says] (p.24) "Starting tomorrow, all students will be required to wear one of these watches until the end of the exam."
-[says] (p.25) "the school will continuously monitor the wearer's body temperature, heart rate, blood pressure, blood oxygen level, sleep cycle, stress levels, and so on."
-[says] (p.25) "Instead of a 'Warning Alert', this final alert is known as an 'Emergency Alert'."
-[trait] (p.16–27) Methodical — explains the Basic Movement rule (designated areas, bonuses, penalties), the 12-table system, and demonstrates the health-monitoring watch's Warning/Emergency alerts (with a staff member fastening it, since special tools are needed).
-[note] (p.20) Mashima notes only one member needs to reach a designated area to avoid the penalty, though the Arrival Bonus is per person.
+### y2v3 p.16–22 — The briefing: Basic Movement rule
+[scene] (p.16) Class 2-A's homeroom teacher, Mashima-sensei, stands before the screen with a microphone in hand and opens the uninhabited-island exam briefing; Hoshinomiya-sensei (Class 2-C homeroom) is also on stage; the theater holds nearly 160 second-years.
+[says] (p.16) “Starting tomorrow, your stay on the island will last for the next two weeks.”
+[says] (p.16) “However, once the exam is underway and a certain condition is met, the size restriction will be lifted and small groups will be allowed to work together, raising the maximum group size to six.”
+[says] (p.18) “There are two ways to score points. The first is via the ‘Basic Movement’ rule, whereby you will be directed to go to one of the 100 cells on the map in specified intervals.”
+[says] (p.18) “The first three groups to arrive at area C8 will receive an ‘Early Bird Bonus’, with the first receiving 10 points, the second receiving 5 points, and the third receiving 3 points.”
+[says] (p.18) “Furthermore, everybody who arrives at the area within the fixed interval will receive an individual ‘Arrival Bonus’ of 1 point.”
+[says] (p.18) “The designated area for the Basic Movement rule will change three times a day on the first and last day of the exam, on the remaining twelve days, however, it'll change four times a day.”
+[says] (p.19) “Please also keep in mind that, should a group fail to reach a designated area three times in a row, they will lose one point.”
+[says] (p.20) “When it comes to whether or not a group has missed a designated area, you'll be safe as long as a single member of your group manages to get there in time.”
+[says] (p.20) “There is one caveat to this, however. The Early Bird Bonus given to the first three groups will only be given if nobody in the group has retired and all of its members arrive at the area.”
+[says] (p.20) “Of the 100 areas on the map, some are clearly inaccessible.”
+[says] (p.21) “There are also certain restrictions in place that help decide how designated areas will be chosen. Three out of four times a day, the next designated area will be within two cells laterally or one cell diagonally of the previously designated area.”
+[says] (p.21) “There is an exception to this restriction, however. Of the four new area selections that happen per day, one will shift to a completely random, unknown location.”
+[says] (p.22) “Also, while the same area will never be designated twice in a row, it's entirely possible for it to designate D2, then D3, and then D2 again.”
+[rule] (p.16–22) Up to three per group (six once linked); the five lowest groups face expulsion, nullifiable by points (6M solo / 2M per three-person member); bottom three forfeit class points; a fully retired group is disqualified, points voided; 100 cells, four interval changes daily (three on first/last day); intervals 7–9 / 9–11 / 13–15 / 15–17; ocean cells B1, C1, F10, G10 never designated; the random shift never occurs twice in a row; misses escalate 1/2/3+ points; a single member reaching an area saves the group; Early Bird requires all members, ranked by last arrival; an already-present group earns the 1-point Arrival Bonus but no Early Bird.
+[rel:hoshinomiya-chie] (p.16, 23–24) Class 2-C homeroom teacher sharing the stage; hands him the watch.
+[rel:tsukishiro] (p.32–34) Yields the microphone to him; later whispers to him on stage.
+
+### y2v3 p.23–27 — The watches and the twelve Tables
+[scene] (p.23) Hoshinomiya-sensei comes up on stage and hands him a digital wristwatch; a staff member fastens it with a special tool; his live metrics appear on the screen.
+[says] (p.24) “Starting tomorrow, all students will be required to wear one of these watches until the end of the exam.”
+[says] (p.24) “Your watch will be an indispensable tool for you, not only for telling the time but also for earning points.”
+[says] (p.25) “Additionally, the school will continuously monitor the wearer's body temperature, heart rate, blood pressure, blood oxygen level, sleep cycle, stress levels, and so on. If any of these go beyond a prescribed level, it will sound off a ‘Warning Alert’.”
+[says] (p.25) “This is the Warning Alert. Since the sound is only meant to be a warning, it's automatically configured to stop ringing after five seconds.”
+[says] (p.25) “However, if any of the metrics continue to stay beyond the prescribed level, the Warning Alert will sound off again ten minutes later.”
+[says] (p.25) “Instead of a ‘Warning Alert’, this final alert is known as an ‘Emergency Alert’.”
+[says] (p.25) “As you must have seen earlier, special tools are required to fasten and unfasten the watch from your wrist to prevent dishonest practices during the exam.”
+[says] (p.26) “Alright, now that you all have an understanding of the watch itself, let's revisit the Basic Movement rule for a moment.”
+[says] (p.26) “In other words, from the first day of the exam to the last, every single designated area you're given has been decided internally since before the exam even started.”
+[says] (p.26) “Needless to say, every member of a group will be assigned to the same table.”
+[rule] (p.24–27) Warning Alert: 5 seconds, then repeats after 10 minutes while abnormal, escalating to a louder second warning, then the Emergency Alert (continuous unless disabled; 24-hour checkup required, else retirement/punishment; if it sounds for over five minutes, faculty and medical personnel are dispatched by GPS); the watch is fastened with a special tool, and forcible removal stops point tallying; damage/malfunction disables point scoring until a swap at the starting area; twelve ‘Tables’ pre-program each watch's designated-area sequence; whole groups share a table; linked members take the main group's table.
+[rel:hoshinomiya-chie] (p.23–24) Hands him the watch mid-briefing.
+
+### y2v3 p.28–32 — Tasks and the Main Link
+[scene] (p.28) Shows a Math Test Task example on the screen (red dot in C3); explains Task categories, staffing and registration rules.
+[says] (p.28) “Next, I'll explain the second way to earn points. Simply put, you can earn points by completing ‘Tasks’ set up throughout the island.”
+[says] (p.30) “School faculty or exam managerial staff will always be on standby at the Task location. If you want to participate, they'll help finalize your registration with your watch and tablet.”
+[says] (p.30) “On your tablets, you'll be able to see where the Task will be held along with all of the information you can see up here on the screen right now.”
+[says] (p.30) “Tasks will all be split up into three general categories, with 40% being centered around Academic Ability, 30% around Physical Ability, and 30% Other.”
+[says] (p.31) “Starting on the fourth day of the exam, some Tasks will begin to provide a different reward: the ability to increase the maximum size of your group.”
+[says] (p.31) “Should you manage to satisfy the conditions required to increase the maximum size of your group, you just need to initiate a ‘Main Link’ request with your watch when you want to take in another group.”
+[says] (p.31) “All that being said, Tasks that grant permission to increase the size of your group will be limited in number.”
+[says] (p.31) “Oh, and I forgot to mention this, but when two groups link up, their points will be averaged together.”
+[rule] (p.28–32) Tasks appear as tablet red dots only, 7:00–17:00 (from 10:00 on the first day; until 15:00 on the last); identical Tasks may recur; staff on standby for registration with watch and tablet; examples given: Math Test (1/group, max 10 groups, 5/3/1 + provisions), Shot Put (3 throwing aggregate distance, max 6 groups, 10/5/3 + free prize), Fishing (2 participants, biggest fish in one hour, max 8 groups, 15 pts); expansion Tasks from day 4 (1st +3 spots / 2nd +2 / 3rd +1; six-member cap; only ~20–30% of groups unlock); group-size tasks never offered to six-person groups; standings (top and bottom ten plus own) visible days 4–12; GPS search from day 6 (1 pt per search); on link, points average; a solo climber needs two expansions to reach six.
+[rel:tsukishiro] (p.32–34) Invites him to the stage; yields the microphone to him before stepping down.
+
+### y2v3 p.35–39 — Provisions and tablets
+[scene] (p.35) Staff wheel out a cart of provisioned goods; the Uninhabited Island Survival Manual is distributed from the front row; purchases open until 6:00 AM tomorrow; a hands-on exhibition runs until midnight; the port shop sells at double price later.
+[says] (p.35) “Everybody will be given a base of 5000 points. You're free to use them to buy whatever you'd like from what you see up here.”
+[says] (p.35) “And, students who have a ‘Head Start’ card will receive an additional 2500 points on top of that.”
+[says] (p.35) “Purchases can be made from now until 6:00 AM tomorrow, but you can also choose to save some points for later.”
+[says] (p.38) “When it comes to whether or not a group can share some of their food or provisions with others, the decision is left entirely up to you. The school is fine with you doing whatever you want with what you have while on the island.”
+[says] (p.38) “Later, you'll all be given a special tablet along with your watch. Your tablet will be an essential tool for monitoring basic information, so be sure to charge it whenever you're at the starting area or one of the Task locations.”
+[note] (p.35) Prices shown: drinks 500ml 100 / 1L 150 / 2L 250; water purifier 4,000 (150L; 99.9% bacteria); tents 1,000/1,500/2,500; bags 20–80L flat price; canned goods cheaper; coolers add a day; double price at the port shop; potable water at the starting area from day 2 (drink-only, no take-away); free amenities at the start.
+[note] (p.38–39) The tablets map designated areas and Tasks, show top/bottom ten and own standing (days 4–12), unlock GPS search day 6 (1 pt per search); ~8 hours battery; charge at start/charging points; exhibition on until midnight.
+[rel:tsukishiro] (p.32–34) Introduces him: “Thank you very much, Acting Director Tsukishiro.” (p.34) — yields the stage to him before provisions.
+
+<!-- walk: y2v3 Ch.1 → p.42 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

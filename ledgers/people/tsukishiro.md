@@ -277,12 +277,25 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.32–34 — Tsukishiro's speech at the briefing
-[scene] (p.32–34) He gives a speech warning about sexual misconduct and disputes; he condones but doesn't endorse fighting.
-[says] (p.32) "I am Tsukishiro, your Acting Director. This uninhabited island exam is..."
-[trait] (p.32–34) Authoritative and slightly ominous.
+### y2v3 p.32–34 — Tsukishiro's cautionary speech and the dispute line
+[scene] (p.32) The Acting Director comes up on stage as Mashima yields the microphone; his usual faint smile; he surveys the second-years; his eyes momentarily lock on Ayanokōji for a fraction of a second — a pause unnoticed by anyone else.
+[says] (p.32) “I am Tsukishiro, your Acting Director. This uninhabited island exam is proving to be the most unprecedented, largest-scale special exam yet.”
+[says] (p.33) “As both your guardian and protector, the school strives to ensure your safety and wellbeing to the greatest extent possible.”
+[says] (p.33) “There's a rather… sensitive matter that seems to happen all too often these days due to the differences between boys and girls.”
+[says] (p.33) “In the event of sexual misconduct, the school will not hesitate to impose severe penalties, including immediate expulsion. Furthermore, if we judge that it was done with malicious intent, we will also report the matter to the police. Please be sure to remember this.”
+[says] (p.33) “Oh, and one more thing.”
+[says] (p.33) “As your stay on the island gets longer, tension and bitterness can understandably begin to build up.”
+[says] (p.33) “When it comes to such disputes─ my personal policy is to look the other way, at least to a certain extent.”
+[scene] (p.33–34) Several faculty members react; Mashima draws close and whispers; Tsukishiro openly announces what he was told to retract, to the room.
+[says] (p.34) “Just now, I was told to retract what I said about condoning disputes that arise between students.”
+[says] (p.34) “However, I won't be doing that. If I must put forward a reason, it's because it's virtually impossible for there to be no friction between students. Trouble is bound to present itself where it must, after all.”
+[says] (p.34) “Of course, though I say I condone it, that doesn't mean I endorse it. I'm simply looking past the occasional dispute. The school will still mercilessly intervene in matters it deems severe enough.”
+[says] (p.34) “With the school's rules in mind, acts such as looting or using another student's belongings without express consent will never go unpunished.”
+[says] (p.34) “This is all I have for you. I hope you all conduct yourselves in a manner befitting students of our Advanced Nurturing High School.”
+[rel:mashima-tomonari] (p.32–34) Stage-share; objects to his dispute line; is openly contradicted on the retraction.
+[rel:ayanokouji-kiyotaka] (p.32–34) His eyes fix on AK for a fraction of a second; AK reads the warning as partly a challenge at him.
 
-<!-- walk: y2v3 Ch.1 → p.34 -->
+<!-- walk: y2v3 Ch.1 → p.42 -->
 
 ### y2v3 p.342–346 — Tsukishiro threatens Ichinose; expects his trap to spring
 [scene] (p.342) Arrives (slightly late) with Ichinose's backpack, reining in Shiba from disposing of her; questions her about what she overheard.
@@ -300,6 +313,7 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:shiba-katsunori] (p.342–345) His subordinate, eager to dispose of Ichinose; Tsukishiro restrains him.
 [rel:ayanokouji-kiyotaka] (p.346) Expects his Emergency Alert to go off — his plan to expel him.
 [rel:nanase-tsubasa] (p.346) Believes she's "finally taken action" (unaware she's about to fail).
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

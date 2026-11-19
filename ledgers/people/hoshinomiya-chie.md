@@ -481,6 +481,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v3 Ch.2 → p.67 -->
 
+
 ### y2v3 p.65–67 — Hoshinomiya at the Task site; her transfer proposal
 [scene] (p.65) Keeps Ayanokōji at the Grip Strength Measurement Task site as an excuse to talk, openly dissatisfied that her Class 2-C fell to Class C.
 [says] (p.65) "Sudō-kun has changed an awful lot, don'tcha think? I wonder who's responsible."
@@ -492,6 +493,16 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [trait] (p.65–67) Childlike and flirtatious ("a woman who had never truly graduated from her years as a student"), uses physical contact as a "weapon" but falters recalling his warning; proposes he transfer to her class (now Class C) to aim for Class A — a "revolutionary" idea Ayanokōji finds not at all clever.
 [rel:ayanokouji-kiyotaka] (p.65–67) Tries to recruit him; he declines with reasoned logic (20M points, uncertain Class A outcome) and hopes not to meet her again.
 [rel:sudou-ken] (p.65) Notes his dramatic growth; Ayanokōji credits Horikita.
+### y2v3 p.16–27 — Hoshinomiya on stage with the watch
+[scene] (p.16) The Class 2-C homeroom teacher shares the briefing stage with Mashima; she says nothing on-mic.
+[scene] (p.23) She comes up on stage and hands a digital wristwatch to Mashima; a staff member fastens it with a special tool; the metrics appear on the screen.
+[scene] (p.24) Mashima briefly passes the microphone to her to demonstrate the Warning Alert while she fastens the watch.
+[note] (p.25) No line of hers prints; her watch is given in Mashima's Table B example while he explains the twelve Tables.
+[note] (p.26) Her watch would use Table B with completely different designated areas (e.g. D10, E9, F8) while his uses Table A (D8, D7, C6).
+[rel:mashima-tomonari] (p.23–24) Stage partner for the briefing; hands him the watch; she models Table B.
+
+<!-- walk: y2v3 Ch.1 → p.42 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

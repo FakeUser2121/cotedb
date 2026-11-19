@@ -308,11 +308,23 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v3 → start -->
 
 ### y2v3 p.7–8 — Nanase's prologue monologue
-[scene] (p.7–8) In her own voice she recalls the suicide of someone she admired (Eiichirō) and vows to defeat Ayanokōji Kiyotaka for real, to send him back to the White Room; her "true objective lies far beyond defeating him."
-[note] (p.7–8) This is Nanase's interior monologue (her POV); no spoken line is quoted.
-[trait] (p.7–8) Determined and burdened by guilt — she fights under her own brand of justice.
-[goal] (p.7–8) To defeat Ayanokōji and send him back to the White Room; her true objective lies beyond that.
-[rel:ayanokouji-kiyotaka] (p.7–8) She has resolved to defeat him for real.
+[scene] (p.7–8) First-person interior monologue: the old apartment in the evening light, a long shadow swinging like a pendulum, and her vow — “I” (not the justice-driven others) will defeat Ayanokōji Kiyotaka for real.
+[narrates] (p.7) “I can still vividly remember the shock I felt that day.”
+[narrates] (p.7) “That warm hand that would caress my head.”
+[narrates] (p.7) “That gentle smile that healed my soul.”
+[narrates] (p.7) “That sincere gaze that taught me admiration.”
+[narrates] (p.7) “That silent, blank expression that brought me to the edge of despair.”
+[narrates] (p.7) “But I can't forgive.”
+[narrates] (p.8) “And that's why, 『I』 will.”
+[narrates] (p.8) “To send him back to the place he's meant to be.”
+[narrates] (p.8) “Because, if I don't, there will surely be a second or even third victim that follows.”
+[narrates] (p.8) “And that alone must be avoided, no matter the cost.”
+[narrates] (p.8) “After all, my true objective lies far beyond defeating him.”
+[trait] (p.7–8) Burdened by guilt and unable to support another's “justice”, she fights under her own conviction; the decisive moment will come on the island (“It's right here. Right now.”).
+[goal] (p.7–8) Defeat Ayanokōji Kiyotaka for real — to send him back to where he is meant to be; a second or third victim must be avoided no matter the cost; her true objective lies far beyond defeating him.
+[rel:ayanokouji-kiyotaka] (p.8) Her target; he stands before her with his eyes fixed on her; she resolves to act here and now.
+[note] (p.7–8) Interior monologue; first person. The corpus prints full-width corner brackets 『I』, single curly ‘justice’, and a figure dash in “all of this─ It's right here.” on p.8; the footnote marker “[1]” after “『I』 will.” is printed in the text (p.8). POV Nanase.
+[note] (p.7–8) No Matsuo name prints on these pages; the volume ledger's earlier “Nanase recalls Matsuo Eiichirou's death” claim for the Prologue overreached the print and has been corrected.
 
 <!-- walk: y2v3 Prologue → p.8 -->
 
@@ -324,6 +336,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v3 Ch.2 → p.59 -->
 
+
 ### y2v3 p.75–88 — Nanase accompanies Ayanokōji
 [scene] (p.75–81) She asks to accompany him, explaining her group's issue; he agrees.
 [says] (p.79) "If it's not too much trouble, would you perhaps allow me to accompany you?"
@@ -331,6 +344,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.75–88) She accompanies him.
 
 <!-- walk: y2v3 Ch.3 → p.88 -->
+
 
 ### y2v3 p.110–151 — Nanase accompanies Ayanokōji on day 3
 [scene] (p.110–114) She wakes Ayanokōji and discusses Ike's situation; they head out with Sudō and Hondō.
@@ -342,6 +356,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v3 Ch.4 → p.151 -->
 
+
 ### y2v3 p.164–186 — Nanase helps in the emergency
 [scene] (p.164–186) She helps wake the group and search for Shinohara; she takes a flashlight and follows Ayanokōji.
 [trait] (p.164–186) Helpful and alert — she assists in the emergency search.
@@ -349,19 +364,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v3 Ch.5 → p.186 -->
 
 
-### y2v3 p.7–8 — Nanase's monologue: resolving to defeat Ayanokōji for real
-[scene] (p.7) Reflects on the shock of discovering the cruel reality about Ayanokōji — the evening sun in an old apartment, a long shadow swinging "like the pendulum of a grandfather clock."
-[narrates] (p.7) "That warm hand that would caress my head."
-[narrates] (p.7) "That gentle smile that healed my soul."
-[narrates] (p.7) "That sincere gaze that taught me admiration."
-[narrates] (p.7) "That silent, blank expression that brought me to the edge of despair."
-[narrates] (p.8) "And that's why, 『I』 will."
-[narrates] (p.8) "To send him back to the place he's meant to be."
-[narrates] (p.8) "Because, if I don't, there will surely be a second or even third victim that follows."
-[narrates] (p.8) "after all, my true objective lies far beyond defeating him."
-[trait] (p.7–8) Cannot forgive, and cannot fight under a banner of "justice" with a "fragile heart" — so she (as "I," distinct from the justice-driven others) will defeat Ayanokōji for real, to prevent further victims; her true objective lies beyond defeating him; she sees him standing before her, eyes fixed on her, and decides the time to act is now.
-[rel:ayanokouji-kiyotaka] (p.8) Her target; she is determined to end it on the island and send him "back to the place he's meant to be."
-[rel:tsukishiro] (p.8) Implied — the "others" fight under their own justice; she fights with her own reason rooted in a personal loss.
 
 ### y2v3 p.78–96 — Nanase tags along: "travel companion"
 [scene] (p.78) Appears alone again at his break — the third time they've crossed paths in six designated areas; hints they may share a Table.
@@ -377,6 +379,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.78–96) Travels with him; he suspects her motives but allows it, using it to gauge her.
 [rel:housen-kazuomi] (p.79) Says he and Amasawa chose independent action.
 [rel:amasawa-ichika] (p.79) Likewise.
+
 
 ### y2v3 p.110–138 — Nanase: worry, Beach Flags victory, and mutual probing
 [scene] (p.110) Wakes Ayanokōji early, worried she said too much to Ike the night before.
@@ -399,6 +402,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:housen-kazuomi] (p.138) Says her group (Hōsen/Amasawa) is earning points from Tasks.
 [rel:amasawa-ichika] (p.138) Likewise.
 
+
 ### y2v3 p.164–207 — Nanase in the cliff crisis and rescue planning
 [scene] (p.164) Joins the pre-dawn search; carries a flashlight and later takes charge of leading the group back.
 [says] (p.189) "I wasn't able to see you and Ike-senpai anymore so I─" — she came to find them
@@ -412,6 +416,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:shinohara-satsuki] (p.200) Proposes the harbor-survival strategy to save her.
 [rel:ike-kanji] (p.189) Comes looking for him and Shinohara.
 
+
 ### y2v3 p.260–266 — Nanase's cliff struggle and her strange air
 [says] (p.261) "I… I can do this!"
 [says] (p.261) "Oww, that hurt…!"
@@ -423,6 +428,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.265) "While it feels like graduation is a long ways away, it'll probably be here in the blink of an eye."
 [trait] (p.260–266) Falls while tying up her hair to climb, but insists on following Ayanokōji; exhausted, she accepts his hand; afterward she asks if he enjoys the school and speaks of living without regrets — her bearing briefly resembles the Nanase he first met, a faint, unsettling change Ayanokōji notes.
 [rel:ayanokouji-kiyotaka] (p.260–266) Follows him up the cliff; her "loyal dog" devotion and subtle shift in demeanor hint at her true nature.
+
 
 ### y2v3 p.287–304 — Nanase's trap: the White Room agent reveals herself and attacks
 [scene] (p.287) On the mountain path, stops Ayanokōji, sets down her bag, and reveals she lured him to northern D3 — not E2.
@@ -442,6 +448,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:tsukishiro] (p.289) Her handler who ordered the expulsion and would cover it up.
 [rel:matsuo-eiichiro] (p.299) The persona she impersonates — a real boy whose father was connected to Atsuomi.
 
+
 ### y2v3 p.347–353 — Nanase's motive; accepting Ayanokōji's hand
 [scene] (p.347) In the rain, defeated, admits her loss and explains why she targeted him.
 [says] (p.347) "It's my loss… Ayanokōji-senpai."
@@ -459,6 +466,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:tsukishiro] (p.349–350) Manipulated her with the promise of meeting Atsuomi.
 [note] (p.348) Eiichiro's father (the Matsuo butler who served Atsuomi) burned himself to death; "that man" = Atsuomi.
 
+
 ### y2v3 p.360–362 — Short story: "Unfathomable" — the cliff climb from her POV
 [scene] (p.360) From her own POV, reflects that her belief in equal stamina with Ayanokōji was naive — he clears obstacles at 50–60% capacity while she struggles, and she fears falling too far behind.
 [narrates] (p.360) "Don't… mind me. I will, catch up to you, at my own pace…!"
@@ -469,6 +477,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.360–362) Grudgingly accepts his hand after he descends to help — moved that he offers kindness of his own accord; realizes he possesses "unfathomable abilities" and is "not normal," reaffirming her goal to defeat him and drag out "that person" (Matsuo) — the reason she came to this school.
 [rel:ayanokouji-kiyotaka] (p.360–362) Her target and reluctant climbing partner; she's awed by his effortless strength and resolves to defeat him.
 
+
 ### y2v3 p.365–366 — Tapestry SS: "What Could Be Seen From that Back" — Beach Flags from her POV
 [scene] (p.365) From her own POV, lies prone for the Beach Flags final against third-year Tokunaga, aware Ayanokōji is watching.
 [narrates] (p.365) "Fuu…"
@@ -478,6 +487,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.365–366) Goes "all out" despite the demerit of showing her abilities, because she feels she must display full power at all times; wins decisively via flawless timing (synced to the pistol) and preparation (studied Tokunaga's OAA), then accepts the congratulations.
 [rel:ayanokouji-kiyotaka] (p.365–366) Watches her victory; she's conscious of performing for him.
 [rel:tokunaga] (p.366) The third-year opponent she studied and defeated.
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

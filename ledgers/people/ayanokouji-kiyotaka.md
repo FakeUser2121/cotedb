@@ -8022,22 +8022,130 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.9–13 — On the ship: Hirata and Kei
-[scene] (p.9–10) On the ship approaching the island, he walks with Hirata, who is anxious about the exam; they discuss the island's size and heat.
-[scene] (p.11–13) He meets Kei on the aft deck for a secret date; she worries about being seen, and they discuss the upcoming briefing.
-[trait] (p.9–13) Calm and observant — he reads Hirata's anxiety and manages Kei's nervousness.
-[rel:hirata-yousuke] (p.9–10) They discuss the exam.
-[rel:karuizawa-kei] (p.11–13) Secret date on the ship.
+### y2v3 p.7–8 — Nanase's prologue monologue (POV Nanase)
+[mentioned] (p.8) “Ayanokōji Kiyotaka stood before me, his eyes fixed in my direction.” — named in Nanase's interior monologue; a memory, not a scene; POV Nanase. He does not appear on these pages.
 
-<!-- walk: y2v3 Ch.1 → p.13 -->
+### y2v3 p.9–11 — On the ship: Hirata's resolve
+[scene] (p.9) July 20th; the ship approaches the deserted island (nearly 40°C on the beaches); sits with Hirata Yōsuke at the railing; he has yearned for peace all year.
+[says:hirata-yousuke] (p.9) “This is a much bigger island than the last one, just like Mashima-sensei said it'd be.”
+[says] (p.9) “We'll only have to stay there for two weeks, but some students might end up having to retire at some point.” — speaker untagged in the translation; recorded unassigned.
+[note] (p.9) “Yeah, I think there's a high chance that something unexpected might end up happening. Securing water will probably be our first priority.” — speaker untagged in the translation; recorded unassigned.
+[note] (p.10) “I wonder if people used to live here?” / “Maybe.” — speaker pair untagged in the translation; recorded unassigned.
+[says:ayanokouji-kiyotaka] (p.10) “Have you resolved yourself, Yōsuke?”
+[says:hirata-yousuke] (p.11) “I'll put forth every effort so I have no regrets. That's the only thing I can do for the class.”
+[trait] (p.9–11) Deliberate and probing — he gauges Hirata's state from his clenched fists on the railing, then tests his resolve face-to-face; Yōsuke nods a single time. AK knows the class cannot avoid casualties this time.
+[rel:hirata-yousuke] (p.9–11) Ship conversation; Hirata yearns for peace but accepts unavoidable casualties; resolve steeled.
 
-### y2v3 p.14–42 — The briefing: exam rules and Tsukishiro
-[scene] (p.14–35) Mashima explains the uninhabited island exam rules: Basic Movement, Tasks, watches with health monitoring, group sizes, points, and penalties.
-[scene] (p.32–34) Tsukishiro gives a speech warning about sexual misconduct and disputes; he condones but doesn't endorse fighting.
-[scene] (p.40–42) Housen causes a scene trying to carry excessive water.
-[trait] (p.14–42) He listens carefully and mentally breaks down the rules.
-[rel:tsukishiro] (p.32–34) Tsukishiro gives his speech.
-[rel:housen-kazuomi] (p.40–42) Housen causes a scene.
+### y2v3 p.11–14 — The Saint Venus: a secret date with Kei on the aft deck
+[scene] (p.11) July 19th, 12:36 PM — the day before landing; on the aft deck of the Saint Venus (12-story luxury liner, the third-largest Japanese-registered ship with 700+ capacity) he is signaled over by his girlfriend Karuizawa Kei.
+[says:karuizawa-kei] (p.11) “Such an amazing view, huh…?”
+[says:karuizawa-kei] (p.12) “I mean, I saw a bit of it, but like, the view just wasn't as important as hanging out with my friends onboard the ship and all.”
+[says:karuizawa-kei] (p.12) “So anyway like, is it really okay for us to be on a date together out in the open like this…?”
+[says] (p.12) “While I can't guarantee that nobody will see us, we should be fine for the time being.”
+[note] (p.12) Second-years began lunch an hour after the first-years; the 1:00 PM briefing is one of the few moments the two can be alone; the briefing is probably not held on the beach out of concern for heatstroke, not efficiency.
+[says] (p.12) “That might be part of it, but that's most likely not the only reason.”
+[says:karuizawa-kei] (p.13) “It still kinda doesn't feel real…”
+[says] (p.13) “Well, it's not every day that you get the chance to go on a cruise ship like this. It's understandable that things might feel somewhat surreal.”
+[says:karuizawa-kei] (p.13) “Not that… I'm talking ‘bout how it doesn't feel real that I'm goin' out with you. You're so smart, and yet you totally miss the mark about this kinda stuff, huh?”
+[says:karuizawa-kei] (p.13) “How about you, Kiyotaka? Does it feel real to you?”
+[says] (p.13) “Well, I wonder. I'd say it does and it doesn't.”
+[says:karuizawa-kei] (p.13) “The heck?”
+[says] (p.13) “I just never imagined that the two of us would get to meet up in secret outside like this.”
+[says:karuizawa-kei] (p.13) “Well, I guess.”
+[says] (p.14) “Depending on what we're told about the special exam in the upcoming briefing session, there might be a few things I'll need you to do for me.”
+[says:karuizawa-kei] (p.14) “Alright. Only if it's something I'm capable of though.”
+[says:karuizawa-kei] (p.14) “Sounds like the first-years are done. We can't go together, so I'll head off first.”
+[note] (p.13–14) They started dating as of spring break; several months have passed with no real dates because the relationship is hidden; cell phones usable until end of day, so calling her was possible — yet physically meeting up “just because we're dating” was truly a different, interesting experience for him.
+[rel:karuizawa-kei] (p.11–14) His girlfriend; the aft-deck rendezvous doubles as an exam recruitment; she agrees to help if capable; leaves alone to avoid suspicion.
+
+### y2v3 p.14–16 — The briefing seats: Ibuki next to him, Kitō beyond her
+[scene] (p.14) At the movie-theater briefing there is no assigned seating; he weaves through the groups to a back-row opening; Class 2-B's Ibuki Mio sits beside him; Class 2-A's Kitō Hayato later takes the seat one away from him, closing off her escape.
+[says:ibuki-mio] (p.14) “…Ugh. Why the hell are you sitting here?”
+[says:ayanokouji-kiyotaka] (p.15) “You didn't sit there on purpose, right?”
+[says:ibuki-mio] (p.15) “Not at all.”
+[says:ibuki-mio] (p.15) “I'm goin' somewhere else, so don't you dare follow me, got it?”
+[trait] (p.14–16) Shares the same back-seat instinct as Ibuki; accepts with mild amusement that she'd rather endure him than mix with the groups; neither of them quite mixes in.
+[rel:ibuki-mio] (p.14–16) Seatmate; mutual recognition as loners; she glares but returns to his side.
+[rel:kitou-hayato] (p.15) Takes the seat that blocks Ibuki's escape; AK watches Kitō fold his arms and ignore her glare.
+
+### y2v3 p.16–22 — Mashima explains the exam: points, rankings and the Basic Movement rule
+[scene] (p.16) Class 2-A's homeroom teacher Mashima-sensei (microphone in hand, stood before the screen) opens the briefing; the theater holds nearly 160 students; he is joined on stage at points by Hoshinomiya-sensei (Class 2-C homeroom) and Tsukishiro (Acting Director).
+[says:mashima-tomonari] (p.16) “Starting tomorrow, your stay on the island will last for the next two weeks.”
+[says:mashima-tomonari] (p.16) “However, once the exam is underway and a certain condition is met, the size restriction will be lifted and small groups will be allowed to work together, raising the maximum group size to six.”
+[rule] (p.16–19) Small groups of up to three (expandable to six once the condition is met); the five lowest-ranked groups face expulsion, nullifiable by points (6,000,000 for a one-person group; 2,000,000 per person for a three-person group); the bottom three groups also forfeit class points; in the event of a full group retiring, the group is disqualified and its points invalidated.
+[says:mashima-tomonari] (p.18) “There are two ways to score points. The first is via the ‘Basic Movement’ rule, whereby you will be directed to go to one of the 100 cells on the map in specified intervals.”
+[says:mashima-tomonari] (p.18) “The first three groups to arrive at area C8 will receive an ‘Early Bird Bonus’, with the first receiving 10 points, the second receiving 5 points, and the third receiving 3 points.”
+[says:mashima-tomonari] (p.18) “Furthermore, everybody who arrives at the area within the fixed interval will receive an individual ‘Arrival Bonus’ of 1 point.”
+[says:mashima-tomonari] (p.18) “The designated area for the Basic Movement rule will change three times a day on the first and last day of the exam, on the remaining twelve days, however, it'll change four times a day.”
+[says:mashima-tomonari] (p.19) “Please also keep in mind that, should a group fail to reach a designated area three times in a row, they will lose one point.”
+[says:mashima-tomonari] (p.20) “When it comes to whether or not a group has missed a designated area, you'll be safe as long as a single member of your group manages to get there in time.”
+[says:mashima-tomonari] (p.20) “There is one caveat to this, however. The Early Bird Bonus given to the first three groups will only be given if nobody in the group has retired and all of its members arrive at the area.”
+[says:mashima-tomonari] (p.20) “Of the 100 areas on the map, some are clearly inaccessible.”
+[says:mashima-tomonari] (p.21) “There are also certain restrictions in place that help decide how designated areas will be chosen. Three out of four times a day, the next designated area will be within two cells laterally or one cell diagonally of the previously designated area.”
+[says:mashima-tomonari] (p.21) “There is an exception to this restriction, however. Of the four new area selections that happen per day, one will shift to a completely random, unknown location.”
+[says:mashima-tomonari] (p.22) “Also, while the same area will never be designated twice in a row, it's entirely possible for it to designate D2, then D3, and then D2 again.”
+[rule] (p.18–22) Intervals 7–9, 9–11, 13–15, 15–17; 4 changes/day (3 on first/last, never random on those days); random shift never twice in a row (nor as day's first interval after a random fourth); 3-miss penalty escalates 1/2/3+ with the counter; one member arriving suffices (Arrival Bonus still per person); Early Bird = all members, last-arrival time ranks the bonus; B1, C1, F10, G10 are ocean and never designated; existing groups in a designated area get the Arrival Bonus but not Early Bird.
+[note] (p.19–22) His read of it: a group coasting at the starting area would sink; chasing a distant random designation could exhaust stamina; groups must adapt to their members' abilities.
+
+### y2v3 p.23–27 — The watches, the alerts, and the twelve Tables
+[scene] (p.23) Mashima invites Hoshinomiya-sensei up on stage; she hands him a digital wristwatch; a staff member fastens it with a special tool; the theater screen shows his live metrics.
+[says:mashima-tomonari] (p.24) “Starting tomorrow, all students will be required to wear one of these watches until the end of the exam.”
+[says:mashima-tomonari] (p.24) “Your watch will be an indispensable tool for you, not only for telling the time but also for earning points.”
+[says:mashima-tomonari] (p.25) “Additionally, the school will continuously monitor the wearer's body temperature, heart rate, blood pressure, blood oxygen level, sleep cycle, stress levels, and so on. If any of these go beyond a prescribed level, it will sound off a ‘Warning Alert’.”
+[says:mashima-tomonari] (p.25) “This is the Warning Alert. Since the sound is only meant to be a warning, it's automatically configured to stop ringing after five seconds.”
+[says:mashima-tomonari] (p.25) “However, if any of the metrics continue to stay beyond the prescribed level, the Warning Alert will sound off again ten minutes later.”
+[says:mashima-tomonari] (p.25) “Instead of a ‘Warning Alert’, this final alert is known as an ‘Emergency Alert’.”
+[says:mashima-tomonari] (p.25) “As you must have seen earlier, special tools are required to fasten and unfasten the watch from your wrist to prevent dishonest practices during the exam.”
+[says:mashima-tomonari] (p.26) “Alright, now that you all have an understanding of the watch itself, let's revisit the Basic Movement rule for a moment.”
+[says:mashima-tomonari] (p.26) “In other words, from the first day of the exam to the last, every single designated area you're given has been decided internally since before the exam even started.”
+[says:mashima-tomonari] (p.26) “Needless to say, every member of a group will be assigned to the same table.”
+[rule] (p.24–27) Warning Alert: 5s; repeats after 10 min while abnormal; third escalation = Emergency Alert (continuous unless disabled); Emergency Alert >5 min → faculty and medical personnel dispatched by GPS; 24-hour checkup at the starting area (disregard/fail → retirement or other punishment); watch cannot be forcibly removed (point tally auto-stops); physical damage or malfunction → point scoring disabled until swapped at the starting area; one of twelve ‘Tables’ pre-programs each watch's designated-area sequence; group members take the main group's table on link.
+[inference] (p.27) He wonders whether Tsukishiro could tamper with his own watch to break it and block his points — once or twice would pass as coincidence, three or four times would raise suspicions; without a watch he cannot chase the top, but with a point stockpile he can avoid the bottom.
+
+### y2v3 p.28–32 — Tasks, rewards, and the Main Link
+[scene] (p.28) The screen shows a Math Test Task in C3; Tasks appear as red dots on tablets only; Mashima explains the three categories and example tasks with their rules and rewards.
+[says:mashima-tomonari] (p.28) “Next, I'll explain the second way to earn points. Simply put, you can earn points by completing ‘Tasks’ set up throughout the island.”
+[says:mashima-tomonari] (p.30) “School faculty or exam managerial staff will always be on standby at the Task location. If you want to participate, they'll help finalize your registration with your watch and tablet.”
+[says:mashima-tomonari] (p.30) “On your tablets, you'll be able to see where the Task will be held along with all of the information you can see up here on the screen right now.”
+[says:mashima-tomonari] (p.30) “Tasks will all be split up into three general categories, with 40% being centered around Academic Ability, 30% around Physical Ability, and 30% Other.”
+[says:mashima-tomonari] (p.31) “Starting on the fourth day of the exam, some Tasks will begin to provide a different reward: the ability to increase the maximum size of your group.”
+[says:mashima-tomonari] (p.31) “Should you manage to satisfy the conditions required to increase the maximum size of your group, you just need to initiate a ‘Main Link’ request with your watch when you want to take in another group.”
+[says:mashima-tomonari] (p.31) “Oh, and I forgot to mention this, but when two groups link up, their points will be averaged together.”
+[rule] (p.28–32) Examples shown: Math Test (one participant/group, 10-group limit, 5/3/1 pts + a day's provisions); Shot Put (three participants, aggregate distance, 6-group limit, 10/5/3 pts + free prize); Fishing (two participants, largest fish in one hour, 8-group limit, 15 pts); Tasks 40% Academic / 30% Physical / 30% Other; appear 7:00–17:00 (from 10:00 on day 1, until 15:00 on the final day); day-4+ Tasks can grant group-size increases (1st: +3, 2nd: +2, 3rd: +1 slot; six-person limit; size tasks ~20–30% of groups); standings (top/bottom ten + own group) visible days 4–12; GPS search unlocks day 6 (1 point per search); points average on link; a solo needs two first-places (or first + second) to reach six.
+[note] (p.32) His read: the exam “essentially just boiled down to racking up points through the Basic Movement rule and Tasks.”
+
+### y2v3 p.32–34 — Tsukishiro's warning: sexual misconduct and disputes
+[scene] (p.32) Tsukishiro, the Acting Director, comes up on stage to Mashima's invitation; his usual faint smile; his eyes stop on AK for a fraction of a second — a pause no one else notices.
+[says:tsukishiro] (p.33) “I have just a few words of caution for you all. As both your guardian and protector, the school strives to ensure your safety and wellbeing to the greatest extent possible.”
+[says:tsukishiro] (p.33) “In the event of sexual misconduct, the school will not hesitate to impose severe penalties, including immediate expulsion.”
+[says:tsukishiro] (p.33) “Oh, and one more thing.”
+[says:tsukishiro] (p.33) “When it comes to such disputes─ my personal policy is to look the other way, at least to a certain extent.”
+[scene] (p.33–34) Mashima's expression turns dark; he leans in and whispers; Tsukishiro openly reports the retraction demand to the room and refuses it.
+[says:tsukishiro] (p.34) “Just now, I was told to retract what I said about condoning disputes that arise between students.”
+[says:tsukishiro] (p.34) “However, I won't be doing that. If I must put forward a reason, it's because it's virtually impossible for there to be no friction between students.”
+[says:tsukishiro] (p.34) “Of course, though I say I condone it, that doesn't mean I endorse it. I'm simply looking past the occasional dispute. The school will still mercilessly intervene in matters it deems severe enough.”
+[says:tsukishiro] (p.34) “This is all I have for you. I hope you all conduct yourselves in a manner befitting students of our Advanced Nurturing High School.”
+[note] (p.33–34) AK reads the warning as a challenge aimed at him as well; faculty are visibly shaken by the dispute line. Tsukishiro leaves the microphone with Mashima afterward.
+
+### y2v3 p.35–39 — Provisions: 5,000 points, the manual, and the water purifier
+[scene] (p.35) Mashima wheels out a huge provisions cart; staff hand out a thick Uninhabited Island Survival Manual; purchases until 6:00 AM tomorrow; an exhibition room stays open until midnight; the island port shop later sells at double the price.
+[says:mashima-tomonari] (p.35) “Everybody will be given a base of 5000 points. You're free to use them to buy whatever you'd like from what you see up here.”
+[says:mashima-tomonari] (p.35) “And, students who have a ‘Head Start’ card will receive an additional 2500 points on top of that.”
+[says:mashima-tomonari] (p.35) “You can discuss amongst your group about what you want to buy, or just decide on your own, the choice is up to you.”
+[says:mashima-tomonari] (p.38) “When it comes to whether or not a group can share some of their food or provisions with others, the decision is left entirely up to you. The school is fine with you doing whatever you want with what you have while on the island.”
+[says:mashima-tomonari] (p.38) “Later, you'll all be given a special tablet along with your watch.”
+[rule] (p.35–39) Provisions: 5,000 pts base, +2,500 Head Start; island port shop at double price; potable water at the starting area from day 2 (drink on-site only, none to take away); free toothbrushes/shirts/underwear/toilets/hygiene at the start; drinks 500ml 100 / 1L 150 / 2L 250 pts; in-bottle purifier 4,000 pts (filters 99.9% of E. coli/Echinococcus/microbes; ~150L per unit); bags 20–80L (price independent of size); canned goods cheapest; tents 1,000 (single) / 1,500 (2–3) / 2,500 (6); boys and girls may not share a tent; cooler keeps perishables ~1 extra day; tablet: map, Task red dots, top/bottom-10 standings days 4–12, GPS search from day 6 (1 pt per search), ~8h battery, recharge stations.
+[note] (p.36) The sponsorship flood of products hints the exam may double as a manufacturer's test; the school is under direct government control. AK judges a 4,000-point purifier out of a solo man's reach.
+
+### y2v3 p.40–42 — The exhibition; Ishizaki's backpack; the rules re-stacked in his head
+[scene] (p.40) An exhibition room opens until midnight; Ibuki pushes into the crowd to look at the goods; Kitō sits flipping the manual beside him; a loud wail comes from the front — Class 2-B's Ishizaki struggling with the biggest backpack.
+[says:ibuki-mio] (p.40) “What.”
+[says] (p.40) “How do I put it? I was just thinking that our personalities can be troublesome sometimes. It's difficult for us to mix in with that crowd.”
+[says:ibuki-mio] (p.40) “Hah? I ain't like you. I could do it if I wanted.”
+[says:ishizaki-daichi] (p.40) “Graaaaaagh!”
+[note] (p.40) One of the seated nearby students asks his friend: “Seems like he's trying to carry a whole lot of water in that backpack or somethin'.” — speaker pair untagged in the translation; recorded unassigned.
+[note] (p.41) Water is heavy; over-carrying means collapsing mid-trek; the sailors' choice is a water-hauler strategy or constant restocking (rain/sea/Tasks); his own mental pass over the rules: groups multiply points, one member's retirement voids the group, bottom ten revealed day 4, GPS from day 6; he hasn't picked his provisions yet.
+[trait] (p.41) Methodical — re-stacks every rule from scratch before choosing equipment; no clear-cut answer exists.
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
@@ -8050,6 +8158,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v3 Ch.2 → p.56 -->
 
+
 ### y2v3 p.58–69 — Nanase, Hoshinomiya, and Task D7
 [scene] (p.58–59) He meets Nanase again; she has earned 3 points and he earned 2; they part ways.
 [scene] (p.62–67) At Task site C6, Hoshinomiya tries to recruit him to Class 2-C; she complains about her class's state and asks him to aim for Class A with them.
@@ -8060,6 +8169,7 @@ walk: y1v1 → DONE
 [rel:hoshinomiya-chie] (p.62–67) She tries to recruit him.
 
 <!-- walk: y2v3 Ch.2 → p.69 -->
+
 
 ### y2v3 p.75–88 — Day 2: Nanase accompanies him
 [scene] (p.75–81) Nanase asks to accompany him; he agrees, noting she might fall behind alone.
@@ -8072,6 +8182,7 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.84–88) Sudō warns him about Nanase.
 
 <!-- walk: y2v3 Ch.3 → p.88 -->
+
 
 ### y2v3 p.110–145 — Day 3: Nanase, Sudō, and the Beach Flags Task
 [scene] (p.110–114) He wakes with Nanase; they discuss Ike's situation and head toward the next area with Sudō and Hondō.
@@ -8088,6 +8199,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v3 Ch.4 → p.151 -->
 
+
 ### y2v3 p.164–186 — Emergency: Komiya and Kinoshita injured, Shinohara found
 [scene] (p.164–169) An emergency alert wakes the group; they find Komiya and Kinoshita unconscious and injured; Shinohara is missing.
 [scene] (p.176–181) They search and find Shinohara hiding; she says she saw someone push Komiya and Kinoshita.
@@ -8100,46 +8212,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
 
-### y2v3 p.9–11 — Arriving at the island; Hirata's resolve
-[scene] (p.9) On July 20, sails toward a much larger deserted island under a blue sky — the exam site for the next two weeks; temperature near 40°C.
-[says:hirata-yousuke] (p.9) "This is a much bigger island than the last one, just like Mashima-sensei said it'd be."
-[says] (p.9) "We'll only have to stay there for two weeks, but some students might end up having to retire at some point."
-[says] (p.10) "I wonder if people used to live here?"
-[says] (p.10) "Securing water will probably be our first priority."
-[says] (p.10) "Have you resolved yourself, Yōsuke?"
-[says:hirata-yousuke] (p.11) "I'll put forth every effort so I have no regrets. That's the only thing I can do for the class."
-[trait] (p.9–11) Notes Hirata's clenched fists on the railing — he yearns for peace but knows casualties are unavoidable; asks him pointedly if he's resolved, and he nods once.
-[rel:hirata-yousuke] (p.9–11) He voices worry about retirements/heatstroke; Ayanokōji tests his resolve and is answered with determination.
-
-### y2v3 p.11–14 — A secret "date" with Kei on the ship
-[scene] (p.11) On July 19 (day before landing), meets Karuizawa on the aft deck of the luxury liner "Saint Venus" (12 stories, 700+ capacity) for a rare secret moment alone.
-[says] (p.11) "Such an amazing view, huh…?" — Kei
-[says] (p.13) "It still kinda doesn't feel real…"
-[says] (p.13) "Not that… I'm talking 'bout how it doesn't feel real that I'm goin' out with you."
-[says] (p.13) "How about you, Kiyotaka? Does it feel real to you?"
-[says] (p.14) "Depending on what we're told about the special exam in the upcoming briefing session, there might be a few things I'll need you to do for me."
-[trait] (p.11–14) Notes they've dated since spring break but never had a real date due to hiding the relationship; called her out primarily to brief her on possible exam tasks — yet physically meeting "just because we're dating" is a "different, interesting experience."
-[rel:karuizawa-kei] (p.11–14) His girlfriend; they steal time alone on the ship, and he prepares to give her instructions for the exam.
-
-### y2v3 p.14–16 — The briefing: Ibuki and Kitō beside him
-[scene] (p.14) At the movie-theater briefing, sits near the back as a solo participant; Ibuki ends up beside him, then Kitō takes the seat beyond her.
-[says:ibuki-mio] (p.15) "…Ugh. Why the hell are you sitting here?"
-[says] (p.15) "You didn't sit there on purpose, right?"
-[says] (p.15) "I'm goin' somewhere else, so don't you dare follow me, got it?"
-[trait] (p.14–16) Notices they followed the same logic (back seats for solo students); with nowhere else to sit, Ibuki reluctantly remains "sandwiched between Kitō and myself" — she'd rather tolerate him than mix with the groups.
-[rel:ibuki-mio] (p.15–16) Sits beside him, refuses to follow him, but is forced to stay next to him.
-[rel:kitou-hayato] (p.15) Takes the seat that would have let Ibuki escape.
-
-### y2v3 p.16–27 — The exam rules: points, watches, and twelve tables
-[says:mashima-tomonari] (p.16) "Starting tomorrow, your stay on the island will last for the next two weeks."
-[says:mashima-tomonari] (p.18) "The first three groups to arrive at area C8 will receive an 'Early Bird Bonus', with the first receiving 10 points, the second receiving 5 points, and the third receiving 3 points."
-[says:mashima-tomonari] (p.19) "should a group fail to reach a designated area three times in a row, they will lose one point."
-[says:mashima-tomonari] (p.24) "Starting tomorrow, all students will be required to wear one of these watches until the end of the exam."
-[says:mashima-tomonari] (p.25) "the school will continuously monitor the wearer's body temperature, heart rate, blood pressure, blood oxygen level, sleep cycle, stress levels, and so on."
-[rule] (p.16–23) Groups of up to 6; bottom five groups face expulsion (nullifiable by points: 6M solo, 2M/person in a 3-group); points via "Basic Movement" to designated areas — Early Bird 10/5/3 + 1 Arrival per member; 4 areas/day (3 on first/last), one randomly placed; 3 consecutive misses cost points; one member reaching suffices (but Early Bird needs all).
-[trivia] (p.23–27) All wear health-monitoring watches (Warning Alerts at abnormal metrics, Emergency Alert → 24h checkup or retirement, GPS summons staff after 5 min); watches can't be removed (points stop) and 12 different "Tables" assign each group different designated-area sequences so groups scatter.
-[inference] (p.27) Considers Tsukishiro could tamper with his watch to make it malfunction and block his points — but only once or twice before it looks suspicious; as long as he stockpiles points he can avoid the bottom without competing for the top.
-[rel:mashima-tomonari] (p.16–27) Delivers the exam briefing with Hoshinomiya; he listens critically, already factoring in sabotage.
 
 ### y2v3 p.43–47 — Disembarking: provisions, the first designated area, Horikita
 [scene] (p.43) At 8:40 a.m. docks on the island; 157 groups (36 first-year 4-person, 81 three-person, 32 two-person, 8 solo) — five will be expelled. Starting area D9.
@@ -8153,6 +8225,7 @@ walk: y1v1 → DONE
 [trait] (p.43–47) Deliberately waits ~30 min at the harbor to observe the flow (no need to rush without Early Bird ambitions); worries about money (can't afford a hat, has a contract with Kushida, couldn't raise funds for Kei alone); recognizes Horikita has grown "leagues ahead" of a year ago.
 [rel:horikita-suzune] (p.44–50) Chats before departing; their Tables differ (his D7, hers F9) so they go separate ways; he warns her about going solo and worries she'll be troubled if he's expelled.
 
+
 ### y2v3 p.50–52 — Kiryūin-senpai at the starting area
 [scene] (p.50) Notices no third-years passing; turns back and sees Class 3-B disembarking, calm and composed; can't find Nagumo but is approached by Kiryūin.
 [says:kiryuin-sakura] (p.51) "You're still here, Ayanokōji?"
@@ -8163,6 +8236,7 @@ walk: y1v1 → DONE
 [trait] (p.50–52) Politely declines Kiryūin's offer to explain the area system, treating her as a "direct competitor"; judges her keen-eyed and, like him, tackling the exam alone — she seems to look forward to it.
 [rel:kiryuin-sakura] (p.50–52) Third-year who also goes solo; they share the D7 destination for the first interval and she proposes traveling together.
 [rel:nagumo-miyabi] (p.51) Searches for him among the third-years but can't find him.
+
 
 ### y2v3 p.53–64 — First day: Tasks, Sudō's grip strength, Hoshinomiya
 [scene] (p.53) Travels from D9 to D7 (about 50 minutes for him); encounters Nanase and her Class 1-D group (Amasawa, Hōsen), then multiple Tasks appear.
@@ -8175,6 +8249,7 @@ walk: y1v1 → DONE
 [rel:hoshinomiya-chie] (p.65–67) His former Class A teacher (now Class 2-C), keeps him at a Task site as an excuse to talk; he finds her childlike and wants to avoid meeting her again.
 [rel:sudou-ken] (p.65–67) Takes first in the grip-strength Task; Ayanokōji credits Horikita for his growth.
 
+
 ### y2v3 p.68–71 — First-day tally; Nanase; camping and water Task analysis
 [narrates] (p.68) "Afterward, I made my way to two other new Task sites that showed up"
 [says:nanase-tsubasa] (p.69) "Second time today huh?"
@@ -8184,6 +8259,7 @@ walk: y1v1 → DONE
 [trivia] (p.70–71) Camps near E7 in an open area (avoiding direct sunlight); pours water into a paper cup to avoid mouth bacteria contaminating the bottle; analyzes 68 Tasks that day, 14 giving mineral water, 8 of them "competitive relief Tasks" (2L/1.5L/1L/500ml by arrival order, 3/2/1 points) evenly distributed — a reliable, unbiased water supply if they continue.
 [trait] (p.68–71) Unfazed by his low rank (only day one); methodical about health (water handling, camp site) and about reading the exam's hidden structures.
 [rel:nanase-tsubasa] (p.69) Crosses paths a second time; she reports 13 points; their conversation is almost a status report — she's "taking action on her own" (no Hōsen/Amasawa).
+
 
 ### y2v3 p.75–82 — Day two hot streak; Nanase asks to tag along
 [scene] (p.75) Wakes at 6:30 in his shady camp; the first area of day two is E8 — right next to camp — and he wins first place (10 points), recovering day one's deficit.
@@ -8199,6 +8275,7 @@ walk: y1v1 → DONE
 [rel:housen-kazuomi] (p.79) Nanase says he wanted independent action.
 [rel:amasawa-ichika] (p.79) Likewise wanted independent action.
 
+
 ### y2v3 p.82–92 — The anime quiz; Sudō's group wins; Ike's funk
 [scene] (p.83) Heads with Nanase to a quiz Task at F8 (he wanted Football Juggling at E5 but changed route for her) — up to 12 groups, multiple-choice, genre revealed as "Anime."
 [says:sudou-ken] (p.84) "Yo! Ayanokōji! There's only three spots left!"
@@ -8210,6 +8287,7 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.85–91) Notices he's "out of it" — a lasting impact from Shinohara — and worries about him.
 [rel:nanase-tsubasa] (p.90–93) She sees through his concern for Sudō's group, discerns Ike may be "sick," and repeatedly asks him to disregard her presence when choosing routes.
 
+
 ### y2v3 p.93–96 — Same Table confirmed; camping plan; beach meetup
 [says] (p.94) "Before that, Nanase, I want to see your tablet."
 [says:nanase-tsubasa] (p.94) "It seems I have the same Table as Senpai after all."
@@ -8219,6 +8297,7 @@ walk: y1v1 → DONE
 [inference] (p.95–96) Plans to camp at H9 to avoid starting in the next designated area centered on I7; agrees to Sudō's proposal to meet at the G9 beach at 5:30 — an unexpected but not bad chance to reach Ike without seeming to have ulterior motives.
 [rel:nanase-tsubasa] (p.94–96) Confirms same Table; she agrees to all route/camp decisions "without a single complaint."
 [rel:sudou-ken] (p.95–96) Proposes the beach meetup; Ayanokōji accepts.
+
 
 ### y2v3 p.110–115 — Morning: Nanase's worry about Ike; traveling together
 [scene] (p.110) Woken at 6 by Nanase outside his tent, worried she said too much to Ike the previous night; he reassures her she "called it like it was."
@@ -8232,6 +8311,7 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.113–115) Now leading and lively; his growth is a "first step" that may regress.
 [rel:sudou-ken] (p.113–114) Their areas differ but routes overlap; they travel together.
 
+
 ### y2v3 p.116–121 — Beach Flags: Nanase's physical prowess; Kiriyama
 [scene] (p.116) Arrives at J9 just before 9; second random area is J5; they reach it first (he gets Early Bird, Nanase Arrival bonus), then return to J6 where a "Beach Flags Showdown" Task is being set up.
 [trivia] (p.118) Beach Flags (lifeguard training event) — 8 boys/8 girls, one per group, single-elimination; first place 6 points + choice of reward, all participants a 500ml water bottle.
@@ -8243,6 +8323,7 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.120–127) She wins Beach Flags decisively; her reflexes are "several magnitudes faster"; her OAA rating appears understated (White Room conditioning).
 [rel:kiriyama] (p.120–121) Grabs the last male slot, wins the boys' event, warns Ayanokōji not to say anything (Nagumo is nearby).
 [rel:nagumo-miyabi] (p.127–128) Is in the ocean "messing about" with third-years — Kiriyama didn't want Ayanokōji to see.
+
 
 ### y2v3 p.130–132 — Nagumo and Asahina's veiled warnings
 [scene] (p.130) Goes to the shoreline where Nagumo beckons; Nagumo swims with Asahina and others, having rented swimsuits and a beach ball.
@@ -8258,6 +8339,7 @@ walk: y1v1 → DONE
 [rel:asahina-nazuna] (p.132) Class 2-C's Mii-chan; tries to warn him about Nagumo coming after him.
 [rel:kiriyama] (p.130) Repeated the "don't get in my way" warning earlier.
 
+
 ### y2v3 p.135–138 — Water shortage; probing Nanase about middle school
 [scene] (p.134–135) Both down to one bottle of water — "this is our first major hurdle"; he considers returning to the starting area to rehydrate (too risky with Nanase, who'd have to retire if she fell ill).
 [says:nanase-tsubasa] (p.135) "Ayanokōji-senpai, why did you decide to take part in the exam alone?"
@@ -8268,6 +8350,7 @@ walk: y1v1 → DONE
 [says:nanase-tsubasa] (p.137) "After all, an incident took place that I believe changed me forever…"
 [inference] (p.135–138) They probe each other — she notes his White Room-like movements; he notes a White Room student never attended middle school, so asks about hers; she claims she smiled more and spoke to others more before "an incident" changed her (light→dark); he chooses not to pry, sensing she's baiting him; deliberates whether a person's core nature can truly change.
 [rel:nanase-tsubasa] (p.135–138) Mutual probing; her "incident" and shift from light to dark hint at her past (and her role).
+
 
 ### y2v3 p.164–180 — Night search: Komiya and Kinoshita fallen; finding Shinohara
 [scene] (p.164) Woken before dawn; the group (him, Nanase, Sudō, Ike, Hondō) sets out with three flashlights; he arranges the formation, putting Ike at the rear.
@@ -8282,6 +8365,7 @@ walk: y1v1 → DONE
 [rel:komiya] (p.169–179) Finds him injured at the bottom of the slope.
 [rel:shinohara-satsuki] (p.177–180) Finds her alive but frantic.
 
+
 ### y2v3 p.180–192 — Shinohara's claim of a "third party"; the GPS contradiction
 [says:shinohara] (p.181) "Somebody… I saw somebody push─"
 [note] (p.190) He reasons that if someone had pushed Komiya, there would be more evidence than a single injury.
@@ -8289,6 +8373,7 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.189–192) They discuss the testimony; she agrees someone likely pushed them but is skeptical of Shinohara's framing.
 [rel:chabashira-sae] (p.198–199) Shows him GPS data — only Shinohara's signal was nearby at 4:56:24 AM (Komiya's Emergency Alert), so the school concludes she fabricated the third party; he whispers a request for a discreet investigation.
 [rel:shinohara-satsuki] (p.181–192) Her claim of being pushed; he doubts it but investigates.
+
 
 ### y2v3 p.199–207 — Ike's confession; the plan to save Shinohara
 [says] (p.205) "In order to guarantee that you save Shinohara, she'll have to join up with a group with at least three slots for extra group members."
@@ -8302,9 +8387,11 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.207) Entrusted to take care of Ike and the others — "the one capable of making the most sensible decisions."
 [rel:komiya] (p.199–200) His parting words to Ike ("Show me how much of a man you are") entrust Shinohara to his rival — Ayanokōji realizes Komiya knew Shinohara cared for Ike.
 
+
 ### y2v3 p.207–208 — Day four: standings revealed
 [trivia] (p.207–208) On day four the top-10/bottom-10 groups are revealed with detailed breakdowns; 7 of the bottom 10 are from Class 3-B and 3-D; last place is a Class 3-D trio with 21 points (one member retired sick on day one).
 [trait] (p.207–208) Checks the standings first thing (more important than the leaders) to gauge expulsion risk; notes his own group is half an hour behind for G3 and can't get Early Bird.
+
 
 ### y2v3 p.211–219 — Rankings and the Ryūen/Katsuragi strategy meeting
 [scene] (p.211) Reviews standings — Shinohara's group sinking toward last; top groups led by Nagumo's Class 3-A group and Kiriyama's; Kōenji in 4th with 126 points (most from Early Bird); his own point total 52.
@@ -8322,6 +8409,7 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.212, 218) She accompanies him; he dismisses her for the secret discussion — she understands.
 [rel:sakayanagi-arisu] (p.219) Predicts she won't easily lend a hand but will act if first-years look down on her.
 
+
 ### y2v3 p.220–229 — The Tug of War with Kōenji
 [scene] (p.220) Detours to a Tug of War Task at C5's summit (5 pts participation, 10 more to win); arrives to find Kōenji already there, having traveled light without a tablet.
 [says:nanase-tsubasa] (p.221) "Kōenji…? The same Kōenji from your class who's currently in fourth place overall?"
@@ -8335,6 +8423,7 @@ walk: y1v1 → DONE
 [rel:kouenji-rokusuke] (p.220–229) His first direct one-on-one competition with a classmate; Kōenji sees through his efficiency-thinking; he lets Kōenji win so their class benefits.
 [rel:nanase-tsubasa] (p.224–229) She wins her category by default (only girl); puzzled by Kōenji's self-talk; notes he's "just as outstanding as I thought."
 
+
 ### y2v3 p.234–245 — Sakayanagi at the harbor; Kōenji's dominance
 [says:sakayanagi-arisu] (p.234) "Good day to you, Ayanokōji-kun. It seems the weather is going to be"
 [says] (p.237) "How do you know about Nanase?"
@@ -8342,6 +8431,7 @@ walk: y1v1 → DONE
 [trait] (p.234–237) Meets Sakayanagi (in Class A's top-ten group) at the harbor; she knows about Nanase; they discuss Kōenji's unusual motivation — Ayanokōji realizes she's perceptive about him and Kōenji.
 [rel:sakayanagi-arisu] (p.234–237) She knows of Nanase and observes Kōenji's motivation.
 [rel:nanase-tsubasa] (p.242–245) Takes third in a swimming Task (behind Onodera), narrowly missing first; Ayanokōji notes her effort and that Kōenji (winning Task after Task) has become a strong, hard-to-control element moving alone without the human resources to capitalize at the end.
+
 
 ### y2v3 p.260–266 — Day six: the cliff climb with Nanase
 [scene] (p.260) On day six, takes first at B6, then faces a ~10m cliff en route to random area C3; chooses the direct path through A4/B4 to secure Early Bird.
@@ -8355,6 +8445,7 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.260–266) She falls, insists on following, and he helps her scale the cliff — her resolve and fatigue both notable.
 [note] (p.265) The skies turn cloudy/windy — a shift from the earlier clear weather, foreshadowing a storm.
 
+
 ### y2v3 p.275–286 — Day seven: rankings; Nanase's strange air before the trap
 [scene] (p.276) On day seven morning, checks rankings with Nanase — Kōenji nearly caught Nagumo's first-place group (8-point gap); a first-year group (Takahashi/Yagami/Utomiya/Tsubaki) unexpectedly in the top ten, which displeases him — he'd rather see the other school years succeed.
 [says:nanase-tsubasa] (p.278) "That said, you're also amazing, Ayanokōji-senpai."
@@ -8363,6 +8454,7 @@ walk: y1v1 → DONE
 [trivia] (p.281) Nanase slows on the mountain in the pre-rain heat; he takes her backpack to help, and she warns the rain will make the mountain paths dangerous.
 [trait] (p.275–286) Senses Nanase's "air of curiosity" since she first asked to accompany him; notes her breathing falter and her odd determination to reach the mountain area; the weather shift (clouds, wind) foreshadows the storm.
 [rel:nanase-tsubasa] (p.275–286) Her behavior grows increasingly strange; he carries her bag but stays alert.
+
 
 ### y2v3 p.287–295 — Nanase's confession: she is the White Room agent
 [scene] (p.287) On the mountain path (northern D3), Nanase asks him to stop, sets down her backpack at a tree, and reveals she lured him there — not to reach E2.
@@ -8378,6 +8470,7 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.287–295) She reveals her mission and intent to frame him via injury — the first time he hears "White Room" from another student.
 [rel:tsukishiro] (p.289–290) Named as the one who sent her and who would cover it up.
 [rel:komiya] (p.289) suspects she may also have caused the cliff incident.
+
 
 ### y2v3 p.291–304 — The fight: Ayanokōji vs Nanase/"Matsuo"
 [scene] (p.291) The two face off in the wind; he baits an opening, she attacks with an open palm (jiu-jitsu), and he stops his fist centimeters from her face — "That's the first" — twice more, never actually hitting her.
@@ -8397,6 +8490,7 @@ walk: y1v1 → DONE
 [note] (p.299) "Matsuo Eiichiro" is the boy from the y1v1 bus incident whose father was involved with Atsuomi — the name Tsukishiro mentioned; "that man" = Atsuomi.
 [note] (p.292) Ayanokōji senses an unseen presence tailing them all day — watchers recording evidence of the fight — which is why he cannot strike Nanase for real without risking expulsion.
 
+
 ### y2v3 p.346–353 — Nanase's full confession; Ayanokōji offers her his hand
 [scene] (p.347) In the rain on the mountain, Nanase admits defeat and, at his request, explains everything — her motive and Tsukishiro's role.
 [says:nanase-tsubasa] (p.347) "It's my loss… Ayanokōji-senpai." — see note
@@ -8414,6 +8508,7 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.346–353) Hears her confession, forgives her, and recruits her as an ally against Tsukishiro; they shake hands on a promise.
 [rel:tsukishiro] (p.350–352) Suspects he's still scheming to expel him as a "gift" to Atsuomi.
 [note] (p.349) "Matsuo Eiichiro" was Nanase's childhood friend and the son of the butler who served Atsuomi; his father burned himself to death after Eiichiro's expulsion, and Eiichiro later took his own life.
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

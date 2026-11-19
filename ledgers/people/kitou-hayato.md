@@ -143,16 +143,14 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.15, 37, 40, 55 — Kitō mentioned in passing
-[scene] (p.15) Named in the briefing context.
-[scene] (p.37) Named in the exam rules context.
-[scene] (p.40) Named in the Housen water incident.
-[scene] (p.55) Named in the group discussion.
-[note] (p.15, 37, 40, 55) Passing mentions; not a distinct scene presence.
-[mentioned] (p.15, 37, 40, 55) Passing mention only.
+### y2v3 p.14–16 — The escape seat Kitō takes
+[scene] (p.15) At the movie-theater briefing — when Ibuki tries to take the seat one away from Ayanokōji, he plops down first, taking her chance; he pays her open glower no mind and simply folds his arms.
+[scene] (p.40) When the briefing ends and the exhibition opens, he sits quietly flipping through the manual beside Ayanokōji; for a solitary combatant like Ibuki and AK, selecting the right provisions would be crucial.
+[trait] (p.40) A loner who ignores conflict; held his own against Sudō on the court at last year's end-of-term exam, an excellent match against a daily basketball-club opponent — his physical and athletic prowess is real, and he is not someone to be taken lightly.
+[rel:ibuki-mio] (p.15) Takes the seat that would have let her escape; she glowers; he pays it no mind.
+[rel:ayanokouji-kiyotaka] (p.14–16, 40) Briefing-row fellow loner; AK recalls his tennis showing vs Sudō; both decline the crowd's noise.
 
-<!-- walk: y2v3 Ch.1 → p.55 -->
-
+<!-- walk: y2v3 Ch.1 → p.42 -->
 
 ## y2v4
 

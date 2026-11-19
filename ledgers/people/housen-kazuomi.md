@@ -157,13 +157,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.40–42 — Housen causes a scene at the briefing
-[scene] (p.40–42) He tries to carry excessive water in his backpack, causing a commotion.
-[trait] (p.40–42) Reckless and attention-seeking.
-
-<!-- walk: y2v3 Ch.1 → p.42 -->
-
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
