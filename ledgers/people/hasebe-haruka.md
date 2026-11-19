@@ -587,6 +587,28 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.324) Unexplained; Horikita does not know what to do with her.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+### y2v6 p.327–330 — Epilogue: Haruka's “revenge” — a joke that isn't (Miyake's POV)
+[scene] (p.327–328) She arrives late, lightly punches his shoulder; she quit the Archery club out of inertia — “I quit because I wanted to. But more importantly, I’m happy you’ve started coming to school.”; only five events at the festival, no results; not speaking to anyone except Miyake; estranged from Keisei too; she confesses: at first she wanted to “destroy everything” — revenge on all the classmates who threw away Airi — “I’m such a terrible person, aren’t I?”; “I won’t forgive Kiyopon. I won’t forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong.”; “Say, Miyacchi. Will you—help me take revenge, just once?”; her eyes aren't smiling; he hesitates; “As if! It’s just a joke, it’s just a joke!”; “I’ll take my revenge by myself, after all.”; she reaches out, withdraws her hand, walks away; he silently follows her.
+[says] (p.327) “Sorry, I kept you waiting.”
+[says] (p.327) “I was only continuing out of inertia, anyway.”
+[says] (p.327) “No, that’s not true. I quit because I wanted to. But more importantly, I’m happy you’ve started coming to school.”
+[says] (p.327) “At first, I thought, ‘let’s destroy everything’. Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi.
+[says] (p.328) “I’m such a terrible person, aren’t I?”
+[says] (p.328) “At that point, we had to expel someone. But that should have been Kushida-san. That was what was promised first, and that would’ve been correct. Isn’t that right?”
+[says] (p.328) “I won’t forgive Kiyopon. I won’t forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong.”
+[says] (p.328) “Say, Miyacchi. Will you—help me take revenge, just once?”
+[says:miyake-akito] (p.328) “Haruka…”
+[says] (p.328) “As if! It’s just a joke, it’s just a joke!”
+[says] (p.328) “I’ll take my revenge by myself, after all.”
+[trait] (p.327–330) Still bitter and unforgiving, but self-aware enough to see that forever-torment isn't right; she asks him to join her revenge as a mirror of the Prologue's invitation — then laughs it off; she reaches out, withdraws, walks away — he silently follows.
+[rel:miyake-akito] (p.327–330) The only person she still talks to; she quit archery (his club) and leans on him; he silently follows her.
+[rel:ayanokouji-kiyotaka] (p.327–328) Kiyopon — she still does not forgive him; “Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi.”
+[rel:kushida-kikyou] (p.328) “But that should have been Kushida-san. That was what was promised first, and that would’ve been correct. Isn’t that right?”
+[rel:sakura-airi] (p.328) The reason — “all our classmates who threw away Airi.”
+[rel:ishigami-kyou] (p.327) Estranged from Keisei too — since he agreed to expelling Sakura — “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.”
+
+<!-- walk: y2v6 Epilogue → p.330 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

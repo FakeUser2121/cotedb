@@ -1077,6 +1077,13 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:horikita-suzune] (p.104) “Forcing Sakura-san to drop out.”
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.327–328 — Epilogue: Airi — the revenge's target
+[mentioned] (p.327–328) “all our classmates who threw away Airi.” — the revenge she conceived at first — destroy everything; she has moved past that thought — but she has not forgiven; she lets it be a joke.
+[note] (p.328) “I won’t forgive Kiyopon. I won’t forgive our classmates.” — she refuses forgiveness but no longer wants destruction.
+[rel:hasebe-haruka] (p.327–328) The whole volume's long shadow — she is the wound behind Haruka's “revenge.”
+
+<!-- walk: y2v6 Epilogue → p.330 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

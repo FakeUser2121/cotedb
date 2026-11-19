@@ -1735,6 +1735,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ibuki-mio] (p.275–282) She hands her the matches they both need to face.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.328–328 — Epilogue: Kushida — the one she believes was promised
+[mentioned] (p.328) “At that point, we had to expel someone. But that should have been Kushida-san. That was what was promised first, and that would’ve been correct. Isn’t that right?” — Haruka believes the class made the biggest mistake keeping Kushida over Airi.
+[rel:hasebe-haruka] (p.328) She believes Kushida was the one meant to go.
+
+<!-- walk: y2v6 Epilogue → p.330 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

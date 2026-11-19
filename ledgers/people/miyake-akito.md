@@ -544,6 +544,27 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.177) Horikita asked whether to walk with only her — Haruka wanted AK.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.327–330 — Epilogue: Miyake's epilogue — following her silently (Miyake's POV)
+[scene] (p.327) He is waiting at the entrance; she arrives late, punches his shoulder; she quit archery; not speaking to anyone except him; estranged from Keisei — “since he had agreed to expelling Sakura”; she only participated in five events; no results; he says nothing.
+[says:hasebe-haruka] (p.327) “Sorry, I kept you waiting.”
+[narrates] (p.327) “No, I wasn’t waiting all that long. I was bored anyway.”
+[narrates] (p.327) “Was it alright for you to quit the Archery club?”
+[narrates] (p.328) “No, I understand what you’re feeling.”
+[says:hasebe-haruka] (p.328) “At that point, we had to expel someone. But that should have been Kushida-san. That was what was promised first, and that would’ve been correct. Isn’t that right?”
+[says:hasebe-haruka] (p.328) “Say, Miyacchi. Will you—help me take revenge, just once?”
+[narrates] (p.328) “Haruka…”
+[says:hasebe-haruka] (p.328) “As if! It’s just a joke, it’s just a joke!”
+[says:hasebe-haruka] (p.328) “I’ll take my revenge by myself, after all.”
+[narrates] (p.328) “I—”
+[scene] (p.329–330) Hasebe reaches out, then withdraws her hand; she turns around and walks away; even though he is hesitant, Miyake silently follows her.
+[note] (p.327–330) The invitation in the Prologue (“Will you join me in my revenge?”) is echoed here; no speaker tag is printed for those lines beyond the printed alternation; the speaker untagged attribution is recorded in each file accordingly.
+[rel:hasebe-haruka] (p.327–330) She still likes him — or still tolerates him — she quit archery; she follows her own revenge; he silently follows her.
+[rel:sakura-airi] (p.328) Her expulsion is the wound; the revenge is aimed at everyone.
+[rel:ayanokouji-kiyotaka] (p.328) “Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi.”
+[rel:ishigami-kyou] (p.327) Estranged from Keisei — since he agreed to expelling Sakura.
+
+<!-- walk: y2v6 Epilogue → p.330 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

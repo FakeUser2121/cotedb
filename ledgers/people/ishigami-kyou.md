@@ -34,6 +34,13 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [rel:miyake-akito] (p.171, 193) Akito escorts Haruka; Keisei follows to the cafe; the half-broken group.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.327–327 — Epilogue: Keisei — estranged
+[mentioned] (p.327) “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.” — he is cut off from the group after agreeing to Sakura's expulsion; he is at the school entrance that morning but does not approach her.
+[rel:hasebe-haruka] (p.327) Estranged from each other — since he agreed to Sakura's expulsion.
+[rel:sakura-airi] (p.327) He agreed to expel her — the wound that estranged him.
+
+<!-- walk: y2v6 Epilogue → p.330 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
