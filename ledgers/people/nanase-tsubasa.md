@@ -378,7 +378,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [goal] (p.7–8) Defeat Ayanokōji Kiyotaka for real — to send him back to where he is meant to be; a second or third victim must be avoided no matter the cost; her true objective lies far beyond defeating him.
 [rel:ayanokouji-kiyotaka] (p.8) Her target; he stands before her with his eyes fixed on her; she resolves to act here and now.
 [note] (p.7–8) Interior monologue; first person. The corpus prints full-width corner brackets 『I』, single curly ‘justice’, and a figure dash in “all of this─ It's right here.” on p.8; the footnote marker “[1]” after “『I』 will.” is printed in the text (p.8). POV Nanase.
-[note] (p.7–8) No Matsuo name prints on these pages; the volume ledger's earlier Prologue summary claim overreached the print and has been corrected.
+[note] (p.7–8) No Matsuo name prints on these pages; the volume record's earlier Prologue summary claim overreached the print and has been corrected.
 
 <!-- walk: y2v3 Prologue → p.8 -->
 

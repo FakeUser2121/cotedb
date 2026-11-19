@@ -1157,7 +1157,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [says] (p.57) “Yeah. We’ve gotta get moving to our next area sometime soon anyway, so go ahead.” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
 [says] (p.57) “It kinda sucks though. I hope we can meet up again somewhere when we’ve all got more time to spare.”
 [note] (p.57) “Haruka bid me farewell with Airi waving goodbye from behind her.” — narration ties the farewell to Haruka.
-[note] (p.208) “The lone second-year group was composed of three of my classmates: Akito, Haruka, and Airi.” — the print places Haruka in Ayanokōji's Class 2-D. Her ledger header says Class 1-D; the discrepancy is recorded here, not resolved — identity as Hasebe Haruka is inferred from the printed given name + the trio + prior volumes' usage, not a direct print.
+[note] (p.208) “The lone second-year group was composed of three of my classmates: Akito, Haruka, and Airi.” — the print places Haruka in Ayanokōji's Class 2-D. Her person-record header says Class 1-D; the discrepancy is recorded here, not resolved — identity as Hasebe Haruka is inferred from the printed given name + the trio + prior volumes' usage, not a direct print.
 [rel:sakura-airi] (p.55–57) Her group at D8 — already through; they split for their next area.
 [rel:miyake-akito] (p.55–57) Same trio; Akito's reactivity, Hasebe's politeness.
 [rel:ayanokouji-kiyotaka] (p.55–57) His classmates; tables differ; they part ways for the time being.

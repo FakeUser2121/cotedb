@@ -582,7 +582,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 [trivia] author Kinugasa Syougo; theme stated: "academics aren't everything"; in-story year 2015; illustrator Tomose Shunsaku; author insomnia noted
 
 ## y1v1 WALK COMPLETE
-coverage: 264/264 pages read in 13 chunks; every alias-hit page covered; ledger entries at every scene stop.
+coverage: 264/264 pages read in 13 chunks; every alias-hit page covered; scene entries at every stop.
 walk: y1v1 → DONE
 
 ## y1v2
@@ -9355,7 +9355,7 @@ walk: y1v1 → DONE
 [says] (p.111) “Well, let’s see…”
 [says] (p.112) “In any case, we should probably wait and see what designated area they get first.”
 [says] (p.112) “H7, huh?”
-[note] (p.112) “It would be quite troublesome if the randomly designated area were to happen at 9:00.” — a line of his internal voice as printed; recorded as a thought-level remark, not assigned a speaker tag beyond his own ledger.
+[note] (p.112) “It would be quite troublesome if the randomly designated area were to happen at 9:00.” — a line of his internal voice as printed; recorded as a thought-level remark, not assigned a speaker tag beyond his own record.
 [says] (p.112) “We can always choose to conserve energy and miss the area for a second time.”
 [scene] (p.113–115) Sudō's group got I8; same Table-ish path; they travel together; Ike leads; Nanase's gaze on Ike; an odd bird takes off; her eyes fix on him — his own suspicion at work.
 [says] (p.113) “Sudō, what designated area did you get?”

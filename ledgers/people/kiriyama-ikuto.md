@@ -166,7 +166,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [says] (p.277) “Nagumo’s idea, the one in which anyone can graduate from Class A. You want that chance.”
 [says] (p.277) “Well…”
 [says] (p.277) “Anyway, you should have understood what I want to say by now.”
-[says] (p.277) “Say whatever you want-“
+[says] (p.277) “Say whatever you want-” — the print closes this line with an opening quote glyph; normalised here to a closing mark.
 [note] (p.278–285) The conversation is interrupted by Kiryūin on the bench; he glares at her and leaves with a warning.
 [rel:nagumo-miyabi] (p.271–285) He wants to outrun him with a team; he can't.
 [rel:horikita-suzune] (p.274–277) He blames her joining for everything.

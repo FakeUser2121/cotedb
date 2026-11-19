@@ -3323,7 +3323,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [thinks] (p.11) «…An imitation.»
 [scene] (p.12) Accepting that past self as real, she decides what she wants to show him and resolves to act before his departure.
 [thinks] (p.12) «What I want to show him… What I really wanted my brother to see is…»
-[thinks] (p.12) «…thank you. My fake, yet without doubt, my real self.»
+[thinks] (p.12) “…thank you. My fake, yet without doubt, my real self.”
 [rel:horikita-manabu] (p.8–12) Reflects on parting from her brother on the day of his graduation departure.
 
 <!-- walk: y1v11.5 Prologue → p.12 -->
@@ -5071,7 +5071,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.317) “Yeah. However, you also took a break in the winter due to a fever. That makes it twice in one year.”
 [says] (p.317) “You just happened to spend the year without taking a leave of absence. Do you think that means you won’t get sick this time?”
 [says] (p.317) “In terms of taking care of myself, I’m more confident than you are.”
-[says] (p.317) “I see. It’s true that I’m not as good as you at taking care of myself. I admit that. But even if that’s the case, making it out as something to be worried about–“
+[says] (p.317) “I see. It’s true that I’m not as good as you at taking care of myself. I admit that.” — the printed sentence continues across the line break and breaks off at the dash after “worried about”, where the print uses an opening quote glyph as its closer; recorded as printed.
 [says] (p.317) “It’s enough that you know. I had no intention of opposing you.”
 [says] (p.317) “Yeah.”
 [says:ayanokouji-kiyotaka] (p.317) “In our class, only you, I, and Koenji haven’t formed a group yet, us three. The rest of our classmates have formed a small group of at least two people. It’s safer to form a group of two, if possible.”
@@ -5165,7 +5165,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [mentioned] (p.55) “Well, you two have been close ever since school started.” — Sudō’s assumption.
 [mentioned] (p.56) “Even carefully selected people such as Horikita’s older brother, Horikita Manabu, who had studied martial arts…”
 [mentioned] (p.57) “And there were things he could see only because of his fondness for Horikita.”
-[mentioned] (p.61) I thought about asking Horikita to force his mouth shut about it… I’d even go so far as to request Horikita to tell you to keep quiet.
+[mentioned] (p.61) He considered asking Horikita to force Sudō's mouth shut about it… and would have asked Horikita to tell Sudō to keep quiet.
 [mentioned] (p.62) “You and Suzune… We’re not dating.” — Sudō’s question.
 [mentioned] (p.83) supported Manabu and had been scheming… he discovered that Manabu’s sister Horikita was going to join the student council, so he might have wanted to take some kind of action.
 [mentioned] (p.92) “Horikita? Or is it one of the boys? As I thought of this, I confirmed who the visitor was through the peephole.”
