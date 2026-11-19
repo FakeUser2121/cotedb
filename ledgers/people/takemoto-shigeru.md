@@ -60,12 +60,22 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y2v4 Ch.3 → p.94 -->
 
-### y2v4 p.87–94, 160–164 — Takemoto mentioned in passing
-[scene] (p.87–94) Named in the context of the exam.
-[scene] (p.160–161) Named in the context of the exam.
-[scene] (p.164) Named in the context of the exam.
-[note] (p.87–94, 160–164) Passing mentions; not a distinct scene presence.
-[mentioned] (p.87–94, 160–164) Passing mention only.
+### y2v4 p.159–164 — Ch.5: The walkie-talkie relay at midnight
+[scene] (p.160) Three days earlier, at midnight of day ten, Takemoto's group was contacted by Sakayanagi via walkie-talkie; he was deputized to call Ayanokōji-senpai to Sakayanagi on the walkie-talkie — the whole second-year alliance quietly activating through him.
+[says] (p.161) “What happened at this time? Are you in trouble? ” — Sakayanagi.
+[says] (p.161) “No, is not that. Actually, Ayanokouji wants to talk to you. ”
+[says] (p.161) “Ayanokouji-kun?” — Sakayanagi.
+[says] (p.161) “I am in debt, I would appreciate it if you would let him talk to you.”
+[says] (p.161) “Of course…of course. Please take charge. ” — Sakayanagi.
+[says] (p.161) “Wait a minute.” — Sakayanagi.
+[says] (p.161) “Good night, Ayanokouji-kun”. — Sakayanagi.
+[says] (p.161) “Sakayanagi”. — Ayanokōji.
+[note] (p.161–164) He stays on the line with them — the walkie-talkie relay stays in his group's hands while he listens to the whole White Room and Nagumo-bounty conversation; he is made to hand the walkie-talkie to Ayanokōji afterward — with Sakayanagi's blessing — as her personal loan to the second-year commander.
+[rel:sakayanagi-arisu] (p.160–164) His channel into the island's alliance network; he owes her.
+[rel:ayanokouji-kiyotaka] (p.161–164) He hands him the walkie-talkie as per Sakayanagi's instruction.
+[rel:shiranami-chihiro] (p.159–160) — no, Shiranami is not present on these pages; the group leader is Kobashi? Takemoto is with Kobashi + Shiranami. Their group was the one lost; Sakayanagi's five frozen groups sealed the trap.
 
-<!-- walk: y2v4 Ch.4 → p.164 -->
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
+
 

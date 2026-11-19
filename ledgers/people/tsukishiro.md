@@ -311,6 +311,12 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v4 Ch.1 → p.50 -->
 
+### y2v4 p.162–163 — Tsukishiro mentioned in passing
+[mentioned] (p.162) “About the White Room.” — Ayanokōji to Sakayanagi; the assassins story is known to her.
+[mentioned] (p.163) “Besides, Tsukishiro may be planning something .. If possible, I want to focus on that.” — Ayanokōji's caution; the bounty is Nagumo's price for Tsukishiro.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
 ### y2v4 p.252–272 — Tsukishiro's final trap at I2; his defeat
 [scene] (p.252) Waits at I2's tip with Shiba for Ayanokōji — the final trap to “bury” him where there's no watch signal.
 [says] (p.256) “You wouldn't call it unfair a two against one, right? After all, you are the best in the”

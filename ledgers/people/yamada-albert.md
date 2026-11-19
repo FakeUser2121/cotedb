@@ -251,6 +251,30 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.177–183 — Ch.5: The ambusher in the 3-on-1
+[scene] (p.177) Disabled his GPS early as part of Ryūen's plan; he waits behind the trees with Ishizaki; when Hōsen's right dominant arm is exposed, Albert grips it — the strongest arm in the class against the gorilla.
+[says:housen-kazuomi] (p.177) “What ─── !?”
+[says] (p.177) “Don’t bark so loud, Gorilla. Your execution is about to begin.” — Ryūen.
+[says] (p.178) “Shit!!” — Hōsen.
+[says] (p.178) “It’s a simple story. If you break your watch, the GPS won’t recognize it.” — Ryūen.
+[says] (p.181) “Hey, big man ... Why the hell are you following Ryuuen? Eh?” — Hōsen.
+[says] (p.181) “It is true that I am a man that Ryuuen can’t defeat even if he faced me once or twice.”
+[says:ishizaki-daichi] (p.181) “Why then?” — Hōsen.
+[says] (p.181) “You don’t understand, Housen. Not only the monstrously powerful rise to the top.”
+[says] (p.181) “Kuku. Well, in Albert’s case, I’d say it’s just camaraderie”
+[says] (p.181) “Don’t think you have won with this, Ryuuen!” — Hōsen.
+[says] (p.182) “But he’s a great guy. ...... I really thought he was a monster.” — Ryūen.
+[says] (p.182) “You would be a fool if you faced him.”
+[says] (p.182) “They have had to work a lot.” — Ryūen.
+[says:ishizaki-daichi] (p.182) “No, no, no, no! We were just supporting you! Hey, Albert!” — Ishizaki.
+[says:ishizaki-daichi] (p.182) “You should get moving. The teachers could arrive at any moment.” — Ishizaki.
+[trait] (p.177–183) He disables his GPS for Ryūen's plan and takes Hōsen's dominant arm in a 3-on-1 beating; he is bigger than Ryuuen and could beat him once or twice; he follows Ryūen by choice of camaraderie, not by fear; he keeps quiet while Hōsen barks threats.
+[rel:ryuuen-kakeru] (p.177–183) He waits in ambush for him; they win together; he is asked to leave Housen — and he does.
+[rel:ishizaki-daichi] (p.177–183) His co-ambusher; they work in tandem.
+[rel:housen-kazuomi] (p.177–183) He and Ishizaki restrain him until he goes unconscious.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
 ### y2v4 p.250 — Albert mentioned in passing
 [scene] (p.250) Named in the context of the exam.
 [note] (p.250) Passing mention; not a distinct scene presence.

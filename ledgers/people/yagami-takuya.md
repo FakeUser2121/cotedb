@@ -140,11 +140,90 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
 
-### y2v4 p.5–284 — Yagami mentioned in passing
-[note] (p.5–284) Passing mentions; not a distinct scene presence.
-[mentioned] (p.5–284) Passing mention only.
+### y2v4 p.141–149 — Ch.5: The insurance tablet
+[scene] (p.141) Yagami approaches the first-years on the morning of day thirteen to pitch his “insurance”: he has a tablet from the same box as Ayanokōji-senpai's, borrowed from a Class B first-year friend — the tracking advantage, offered for free in exchange for his success.
+[says] (p.141) “Tsubaki-san, can we talk?”
+[says] (p.141) “Everything is ready, so at least we have time to talk. ...... ”
+[says] (p.141) “I have something I need you to hear.”
+[says] (p.141) “What happens?.” — Utomiya.
+[says] (p.141) “Yesterday you suddenly disappeared, and where were you?” — Utomiya.
+[says] (p.141) “Sorry, my watch broke and I had to run back to the starting point”
+[says] (p.142) “A malfunction? It is the second time.” — Utomiya.
+[says] (p.142) “It is outrageous to be suspected of conspiring just because your watch malfunctions. Utomiya-kun also had a clock failure a few days ago, right? Doesn't that mean that you're also a suspect? ”
+[says] (p.142) “ The same happens to me.”
+[says] (p.142) “The same happens to me.” — duplicate row, remove.
+[says] (p.142) “I had prepared a gift for Tsubaki-san regarding today's operation.”
+[says] (p.142) “ A gift?” — Tsubaki.
+[says] (p.142) “The strategy to hunt down Ayanokouji-senpai hasn't always worked, right?”
+[says:utomiya-riku] (p.142) “What are you talking about, Yagami? You think this operation will fail ... ”
+[says] (p.142) “I am not going to run an operation with the intention of failing.” — Tsubaki.
+[says] (p.142) “Of course, Tsubaki's strategy is perfect. It's an alignment that leaves no room for ants to crawl out of bounds. We are challenging with the greatest strength that we can prepare freshmen. So I don't doubt our success. But don't you think it's better to take the preventive measures you can? ”
+[says] (p.143) “As for me, I don't want to do anything irregular, but let me tell you something.”
+[says] (p.143) “From now on, Tsubaki-san is going to corner Ayanokouji-senpai while repeatedly using GPS search to find out his position, but it is inevitable that she will consume a lot of points to do so, right? ”
+[says:tsubaki-sakurako] (p.143) “That's why we have a group of reserve tablets.”
+[says] (p.143) “But it is not very favorable that it is efficient. You know why?”
+[says:tsubaki-sakurako] (p.143) “We do not know where the designated area of Ayanokouji-senpai is, so we cannot predict his movements.”
+[says] (p.143) “That's right. If you are able to read through Ayanokouji-senpai's movements if he went to a designated area, if he pursues a task or just escapes, what is the priority and what needs to be blocked, your efficiency will increase drastically. . ”
+[says] (p.143) “In my own way, I spent a lot of time researching to see if there was anything I could do to help. So, among the 12 squares, which squares does Ayanokouji-senpai belong to? ”
+[says:tsubaki-sakurako] (p.144) “You mean you know?”
+[says] (p.144) “Yes, well, technically, it's not me, it's just this 'tablet' that tells me.”
+[says] (p.144) “I borrowed it from a group of my friends from class B, first year. Because the owner of this table is in the same square as Ayanokouji-senpai. ”
+[says:tsubaki-sakurako] (p.144) “In other words, if you have this, you can find out Ayanokouji-senpai's movements today without any delay.”
+[says] (p.144) “I would appreciate it if you could lend me that tablet. Considering the points that I am going to consume, I would like to refrain from wasting as much as possible. Do you think it's OK?”
+[says] (p.144) “We are all in this together. Tsubaki's success will lead to my success as well. Also, Utomiya and I have been fighting on behalf of the freshmen, but it has been difficult for us to get into the top three positions. In this situation, we have no choice but to work hard elsewhere. ”
+[says] (p.145) “Also if you do not accept this proposal, we will not be able to provide you with insurance.”
+[says] (p.145) “'Our first priority is to use Tsubaki's strategy to pursue Ayanokouji-senpai and force him to retreat. However, that can end in failure for some reason. For example, if Ayanokouji-senpai works with a third party for the entire day. Because you can't attack someone where there are other people's eyes. ”
+[says:utomiya-riku] (p.145) “We don't have to worry about that; he's been basically on his own since the eighth day.”
+[says] (p.145) “But that doesn't mean that he is alone on 13th either.”
+[says:utomiya-riku] (p.145) “Yes it's correct. And that?”
+[says] (p.145) “If something unexpected goes wrong, we switch to the method of letting them pass through the entire designated area to score points. And tomorrow, the last day, the 14th, we have three more movements, and we seal it. ”
+[says] (p.145) “In other words, do you mean stepping on the penalty 5 times?” — Utomiya.
+[says] (p.145) “No, you can make them step on it up to 7 times. Ayanokouji-senpai's box passed a total of two times yesterday on the day 12, the third area being randomly designated D4 that went far, and then the fourth area designated D2, which they also did not step on. We have already confirmed that we have changed our focus to accept the challenge. ”
+[says:utomiya-riku] (p.145) “Let's say seven times, that's less than 28 points, an exaggerated score.”
+[says] (p.145) “Ayanokouji-senpai is still alone right now. We do not know how many points he has, but since he is alone, it will not be many. Also, you can use GPS search on our forays. If we get ahead of that and seal their assignments as well, there is more than enough chance that he will sink into the bottom five groups.”
+[says:utomiya-riku] (p.146) “Well, it certainly is.”
+[says] (p.146) “If I manage to get Ayanokouji-senpai out with this insurance, what if I get 5 million points and Tsubaki-san and the others get 10 million points as their share? I'm sure you will agree to share the remaining 5 million points with the group that failed. ”
+[says:utomiya-riku] (p.146) “Not a bad idea, don't you think, Tsubaki?”
+[says] (p.146) “ Well, if you even have a tablet in the same box, there's no way he won't. ” — Tsubaki.
+[says:tsubaki-sakurako] (p.146) “The tablet from Ayanokouji-senpai's box.”
+[says] (p.146) “ What? When did you...... ”
+[says] (p.146) “Tsubaki-san you are beyond my imagination. You even came up with this insurance strategy. ...... ”
+[says:tsubaki-sakurako] (p.146) “Then why didn't you say it?”
+[says:tsubaki-sakurako] (p.146) “I don't like him for a moment. Yagami-kun had also devised the strategy of letting us pass through the designated area. I was going to pretend I didn't know what was going on, but it was so obvious. ”
+[says] (p.147) “If so, I cannot accept the reward, I reject the 5 million points. Then I'll be watching from a distance. ”
+[says:tsubaki-sakurako] (p.147) “'Thanks, it's honestly hard to do it when you're around people you don't trust, so I guess that helps.”'
+[trait] (p.141–149) He borrows a tablet from the same box as Ayanokōji-senpai to track him without spending points; he pitches it as “insurance” and offers his services for free; he is turned down as distrusted; he offers to split 5 million private points; he stays at a distance.
+[rel:tsubaki-sakurako] (p.141–149) Her fellow plotter; she takes his tablet and rejects his share.
+[rel:utomiya-riku] (p.141–149) His Class B ally; they scheme in the same group.
 
-<!-- walk: y2v4 Ch.6 → p.284 -->
+### y2v4 p.151–167 — Ch.5: The failed siege; the fifth freeze
+[scene] (p.151) He reports from behind the lines; the five first-year groups he sent freeze as the second-years close in; Tsubaki suspects a hidden second-year commander; her plan collapses.
+[says:tsubaki-sakurako] (p.155) “Three of the five first-year groups we sent have stopped moving. The three groups that stopped moving had one thing in common: they were all in the same position crossing paths with the sophomores. ”
+[says] (p.155) “It certainly seems like a second year student is sabotaging them, but if it is ...... who ... will it be.”
+[says] (p.156) “So you're saying that it's not just one particular class that is doing this, but the entire second-year class?”
+[note] (p.156) It was as Yagami had said, but Tsubaki felt stuck.
+[says] (p.157) “There are only two days left until the exam is finished. It's not strange that the other party is very attentive. I'm sure you know that there is a bounty on your head, so they have probably been preparing the ground beforehand.”
+[says] (p.157) “We just have to spend time attacking now, but second-year students can't protect Ayanokouji-senpai all the time, right? There are special tests.”
+[says] (p.157) “The other thing that worries me is that this group here is being easily mocked. Although they move separately, it is not easy to capture the five groups.”
+[says:tsubaki-sakurako] (p.158) “I don't think we should cross more dangerous bridges. If we force ourselves to help a group of people who are falling here, sooner or later they are destined to disappear.”
+[says] (p.165) “Even if you force yourself to flee, you can always make up an excuse later, like you got scared because you got tangled up with the grown-ups. If you had consulted me before ”
+[says] (p.165) “If you want to be tough, that's what I would say.”
+[says:tsubaki-sakurako] (p.165) “But now that it's over, I'll tell you ...... it's actually the other way around.”
+[says:tsubaki-sakurako] (p.166) “Rumor has it that he has the ability similar to Housen-kun's. It means that he didn't want to face the current group from the beginning.”
+[says:tsubaki-sakurako] (p.166) “The first is to find out what Ayanokouji-senpai is thinking. What do you like and what don't you like? ”
+[says:tsubaki-sakurako] (p.166) “He disliked contact with the early years more than going to his assigned area. He also avoided homework with the teachers and the second and third graders. What I get clear is that he has an extreme aversion to highlighting, and is willing to take a penalty to avoid it.”
+[says:tsubaki-sakurako] (p.167) “If Housen-kun had not accepted this case, do you think this operation would not have been possible? ”
+[says] (p.167) “I think we should consider suspending the operation.” — Yagami.
+[says:tsubaki-sakurako] (p.167) “Why?”
+[says] (p.167) “Are you trying to force yourself to continue with this? It is dangerous.”
+[says:tsubaki-sakurako] (p.167) “No, I won't. The five groups of students I'm capturing right now can't do that. ”
+[says:tsubaki-sakurako] (p.167) “Because it's the same anyway”
+[says] (p.167) “Is the same ......?” — Yagami.
+[says:tsubaki-sakurako] (p.167) “Perhaps your commander has noticed the five first-year groups we moved last night.”
+[rel:tsubaki-sakurako] (p.151–167) His plan runs on her tablet; he is exasperated by her tactics; she keeps him at arm's length.
+[rel:utomiya-riku] (p.151–167) His Class B ally; they scheme in the same group.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 
 
 

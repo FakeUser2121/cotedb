@@ -484,6 +484,9 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
 ### y2v4 p.8–14 — Ch.1: She guards him; names the slope watcher
 [scene] (p.8) In the rain, sensing the presences behind them, she notices Amasawa at once and points the earlier watcher out.
 [says] (p.9) “Please get behind me, Senpai.”
@@ -615,6 +618,35 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:tsubaki-sakurako] (p.121) The main person on the walkie-talkie.
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
+
+### y2v4 p.126–133 — Ch.5: The tent at day nine; the insult over her figure
+[scene] (p.126) A shadow falls beside Hōsen's tent; she approaches as his groupmate to ask for Housen's help with Ayanokōji-senpai; he mocks her body before listening.
+[says] (p.126) “Good morning, Housen-kun.”
+[says:housen-kazuomi] (p.126) “Oh?”
+[says] (p.126) “It's me, Nanase.”
+[says:housen-kazuomi] (p.126) “I know from your voice. What are you doing here?”
+[says] (p.126) “What do you mean? We are a group and it is not unnatural for us to make contact.”
+[says:housen-kazuomi] (p.126) “I don't know if you can say that. You seem to have had a lot of fun with Ayanokouji, how have you been?”
+[says] (p.126) “There is no .......I was no match for him.”
+[says:housen-kazuomi] (p.126) “Ha, you didn't even use your woman's weapon to challenge him head on, did you?”
+[says] (p.126) “A woman's weapon.....?”
+[says] (p.127) “I do not know what you're talking about”,
+[says:housen-kazuomi] (p.127) “You have big breasts, but you don't have any brain.”
+[says] (p.127) “Well, I really don't understand the relationship between the size of my breasts and my head.”
+[says:housen-kazuomi] (p.127) “It's enough. And that? Did you come here just to make that report?”
+[says] (p.127) “It was a mistake for me to try to expel Ayanokouji-kun by myself. So I have come to ask for Housen-kun's help. If you have a plan, let me hear it.”
+[says:housen-kazuomi] (p.127) “Leave it, I'll do it myself.”
+[says] (p.127) “...... I'll wait until you change your mind.”
+[says:housen-kazuomi] (p.127) “Go to the designated area, for God's sake. The only thing you can do is avoid a penalty.”
+[says] (p.128) “It seems we have a visitor.”
+[says] (p.127) “I don't know what you're talking about”,
+[scene] (p.139) After the negotiation concludes, she reveals she stayed to tail him — and asks to be by his side until she learns more from Tsubaki-san.
+[says:housen-kazuomi] (p.139) “That would require repeated GPS searches. He decided that if Tsubaki was going to provide him with all these things, it would be in her best interest to do so.”
+[says] (p.139) “Because I want to protect the first year D-class group too. Please let me be by your side until I get more information from Tsubaki-san.”
+[says:housen-kazuomi] (p.139) “Do whatever you want.”
+[trait] (p.126–139) She follows Hōsen relentlessly to tail Tsubaki; Hōsen mocks her body; she stays close to the action — and reports back through the walkie-talkie to Ayanokōji.
+[rel:housen-kazuomi] (p.126–139) Her group leader; he tolerates her shadowing him.
+[rel:tsubaki-sakurako] (p.129–139) Her stakeout target — the information she wants.
 
 ## y2v4.5
 

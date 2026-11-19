@@ -160,13 +160,31 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.185–189 — Kitō mentioned in passing
-[scene] (p.185–186) Named in the context of the exam.
-[scene] (p.188–189) Named in the context of the exam.
-[note] (p.185–189) Passing mentions; not a distinct scene presence.
-[mentioned] (p.185–189) Passing mention only.
+### y2v4 p.185–189 — Ch.5: Kitou unmasks the commander
+[scene] (p.185) Sakayanagi dispatches him to unmask whoever is directing the first-years' siege; he runs through the forest and is blocked by a man on the road — Utomiya Riku, first year Class C; Utomiya attacks him.
+[says:utomiya-riku] (p.186) “What do you want on these roads?”
+[says] (p.186) “I think you are Kitou Hayato-senpai ......, a second year student from class A”
+[says] (p.186) “I'm in a hurry now”
+[says:utomiya-riku] (p.186) “……What is it”
+[says] (p.186) “I'm sorry, but I'm not going to let you pass from here.”
+[says:utomiya-riku] (p.186) “What?”
+[says:utomiya-riku] (p.188) “What are you doing?”
+[says:utomiya-riku] (p.188) “I'll tell you. I'm not going to let you pass from here.”
+[says:utomiya-riku] (p.188) “What is your name?”
+[says:utomiya-riku] (p.188) “1st year of class C, Utomiya”
+[says] (p.188) “I have no intention of showing any compassion even with a senpai.”
+[says:utomiya-riku] (p.188) “Oh crap……!”
+[says] (p.189) “Didn't you follow my instructions?” — Tsubaki's voice from the walkie-talkie.
+[note] (p.189) Tsubaki continues to do so, though she doubts she won’t get an answer.
+[says] (p.189) “What are you going to do ...?” — Utomiya.
+[says] (p.189) “The objective has been reached”
+[says] (p.189) “... It's me.” — Utomiya answering the walkie-talkie.
+[trait] (p.185–189) He is sent to pin down the first-year commander; Utomiya attacks him; he dodges everything; Utomiya's walkie-talkie drops at his feet; he holds his position; he reads Tsubaki's voice through it and walks away with the commander's identity confirmed.
+[rel:sakayanagi-arisu] (p.185–189) Her agent; she tasked him to unmask the mastermind; he does it.
+[rel:utomiya-riku] (p.185–189) He is the first-year gatekeeper; Utomiya attacks him and loses the walkie-talkie.
+[rel:tsubaki-sakurako] (p.189) Her voice leaks over the dropped walkie-talkie; he identifies her as the commander.
 
-<!-- walk: y2v4 Ch.5 → p.189 -->
+<!-- walk: y2v4 Ch.5 → p.190 -->
 
 
 ## y2v4.5

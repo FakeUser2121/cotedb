@@ -1212,6 +1212,58 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 Ch.3 → p.94 -->
 
+### y2v4 p.159–165 — Ch.5: The second-grade countermove
+[scene] (p.159) On the morning of day thirteen, with Tsubaki setting her plan in motion, Sakayanagi — sipping water, tablet in hand — has already dispatched five groups to freeze the first-years; the night-10 call was her preparation.
+[says] (p.159) “It seems they are on the move.”
+[says] (p.159) “It seems that the waiting time is over, so let's get started.”
+[says] (p.160) “In the last 12 days, the interior of the uninhabited island has undergone a gradual change in terrain. Do you know what that is?”
+[says] (p.160) “Students and teachers commute around the uninhabited island on a daily basis. In fact, don't you think Tsukasaki-kun uses it naturally to choose a safe and fast route? ”
+[says] (p.160) “There is a more important meaning. Because this is how we caught the group that was trying to protect Ayanokouji-senpai. ”
+[says] (p.160) “Takuya Yagami-kun? Riku Utomiya-kun? and Sakurako Tsubaki-san? I wonder who my adversary is. Or is it the three of them? ”
+[says:ayanokouji-kiyotaka] (p.161) “It seems that the classes are working well together.”
+[says:ayanokouji-kiyotaka] (p.161) “Yes. I was able to contact Ryuuen-kun and Horikita-san. We are progressing smoothly. I haven't heard the details, but it seems that Takemoto-kun and the others were taken care of. ”
+[says:ayanokouji-kiyotaka] (p.161) “Your group is also making great strides, now you are in fifth place. You are in a position where you can aim high enough.”
+[says:ayanokouji-kiyotaka] (p.161) “Not that there are no worries at all.”
+[says:ayanokouji-kiyotaka] (p.162) “Have you seen Ichinose-san?”
+[says] (p.162) “No, I have not seen her even once during this exam. What happened?”
+[says:ayanokouji-kiyotaka] (p.162) “I got a call saying she was acting a little strange. She has been lost for several days and I am worried ... ”
+[says] (p.162) “So, what do you want from me?”
+[says:ayanokouji-kiyotaka] (p.162) “About the White Room.”
+[says] (p.163) “It would have been better if you had told me before.”
+[says:ayanokouji-kiyotaka] (p.163) “Because none of it was safe.”
+[says] (p.163) “So you want me to destroy that person named Amasawa Ichika?”
+[says:ayanokouji-kiyotaka] (p.163) “Huh?..”
+[says:ayanokouji-kiyotaka] (p.163) “Actually there is one more thing, I have another big problem.”
+[says:ayanokouji-kiyotaka] (p.163) “I mean, in the near future, the first-year students will take action against Ayanokouji-kun, right?”
+[says:ayanokouji-kiyotaka] (p.163) “That's what I mean. I want to ask Sakayanagi to take care of it. ”
+[says] (p.163) “But if it's the same White Room student, I don't think it's possible for someone else to chase Ayanokouji-kun.”
+[says:ayanokouji-kiyotaka] (p.163) “The first years will probably try to force their entry. The most effective way to get rid of me is to exploit the fact that I am in a group completely alone. If they are in a position to do so, they will be able to block by force the assignment and, if they want to go further, obstruct movement to the designated area. ”
+[says:ayanokouji-kiyotaka] (p.163) “I'm sure you would be glad to hear it. Besides, Tsukishiro may be planning something .. If possible, I want to focus on that. ”
+[says] (p.163) “I understand the situation very well”
+[says:ayanokouji-kiyotaka] (p.163) “It is inevitable that Sakayanagi's workload will increase.”
+[says] (p.163) “I understand the situation very well”
+[says] (p.164) “Don't worry. We already know all the scores for the group to which Class A belongs.”
+[says:ayanokouji-kiyotaka] (p.164) “So ... you've had very close contact with them.”
+[says] (p.164) “It is very important to know which groups have problems and which groups have plenty of space. There are a number of groups that have some room for growth, but not enough to make it to the top 10. So even if you use GPS search a few times per group, you can still get to the last day in plenty of time. ”
+[says] (p.164) “All I have to do is stop the first years who are heading to Ayanokouji-kun, right?”
+[says] (p.164) “It would have been a bit boring exam just to help you complete the task, and besides, this story seems like something that could benefit me.”
+[says:ayanokouji-kiyotaka] (p.164) “What do you mean?”
+[says:ayanokouji-kiyotaka] (p.164) “What do you mean?”
+[says] (p.164) “It means that it is too big a commission for me to pay Takemoto-kun's debt .. In other words, it will be a new ' favor ', right?”
+[says:ayanokouji-kiyotaka] (p.164) “I know it hurts to hear this, but if you get rid of them, I'll owe you a ' favor '”
+[says] (p.164) “It's decided. Well, then I'll get to work on my preparations.”
+[says:ayanokouji-kiyotaka] (p.164) “Oh, and if you don't mind, can I keep this walkie talkie as a loan?”
+[says] (p.164) “Of course I was going to do it anyway. It's easier to get things done if we can get in touch. Then, could you return the walkie-talkie to Takemoto-kun? I will tell the situation and tell him to give it to Ayanokouji-kun ”
+[says] (p.165) “Well, now we have arrested the five suspicious groups. Are we trying to identify the person who planned this attack? ”
+[note] (p.161–164) The night-10 call (Takemoto's group called her about Ayanokōji's request) becomes the day-13 countermeasure; she freezes the three first-year masterminds' five groups with GPS lock; she lends him the walkie-talkie and demands the debt be repaid with a "new favor" — the White Room story.
+[trait] (p.159–165) Turns every transaction into an asset; she enjoys the game; she gets the three first-year masterminds' names handed to her on a plate.
+[rel:ayanokouji-kiyotaka] (p.161–165) Does the countermeasure for him as a favor-favor; she relishes it.
+[rel:takemoto-shigeru] (p.161–164) Carries her channel into Ayanokōji's group.
+[rel:kitou-hayato] (p.185–189) She sends him to unmask the commander.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
+
 ### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
 [says] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.”
 [says] (p.277) “I told him that if he asked me for a favor, I would grant it to him.”

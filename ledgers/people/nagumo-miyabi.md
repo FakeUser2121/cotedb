@@ -637,7 +637,13 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [mentioned] (p.62) “I was curious about what Nagumo was going to do moving forward. It seemed like it'd be a good idea for him to take on countermeasures of some sort to deal with Kōenji, his foremost competitor for the top spot.”
 [mentioned] (p.83) “Everyone is competing with each other for the podium. I could not continue with that game. However, if Miyabi Nagumo collapses down, the story could be a little different.” — Kiryūin.
 [mentioned] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?” — Ayanokōji.
-<!-- walk: y2v4 Ch.1 → p.50 -->
+<!-- walk: y2v4 Ch.1 → p.50 -->### y2v4 p.163 — Nagumo mentioned in passing
+[mentioned] (p.163) “I mean, in the near future, the first-year students will take action against Ayanokouji-kun, right?” — Ayanokōji tells Sakayanagi about the bounty's origin; Tsukishiro may be planning something else.
+[mentioned] (p.163) “Besides, Tsukishiro may be planning something .. If possible, I want to focus on that.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

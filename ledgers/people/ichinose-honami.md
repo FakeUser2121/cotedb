@@ -1776,6 +1776,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.162 — Ichinose mentioned in passing
+[mentioned] (p.162) “Have you seen Ichinose-san?” — Ayanokōji asks Sakayanagi; she is missing for several days.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
 ### y2v4 p.195–201 — Ichinose's confession at H3
 [scene] (p.195) Covered in mud and exhausted, walks 4+ hours to H3 to find Ayanokōji, having been threatened by Tsukishiro/Shiba after her watch broke.
 [says] (p.195) “Ayanokouji-kun———!”

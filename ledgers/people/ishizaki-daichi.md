@@ -736,6 +736,23 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
 
+### y2v4 p.177–183 — Ch.5: The ambusher in the 3-on-1
+[scene] (p.177) Disabled his GPS early as part of Ryūen's plan; he waits behind the trees with Albert; when Hōsen turns, Ishizaki grips his left arm; together they wrench the gorilla down.
+[says:housen-kazuomi] (p.177) “What ─── !?”
+[says] (p.177) “Don’t bark so loud, Gorilla. Your execution is about to begin.” — Ryūen.
+[says] (p.178) “Shit!!” — Hōsen.
+[says] (p.178) “It’s a simple story. If you break your watch, the GPS won’t recognize it.” — Ryūen.
+[says:yamada-albert] (p.182) “No, no, no, no! We were just supporting you! Hey, Albert!”
+[says:yamada-albert] (p.182) “You should get moving. The teachers could arrive at any moment.”
+[says:ishizaki-daichi] (p.183) “What about Ryuen-san ...?”
+[says:ishizaki-daichi] (p.183) “Are you sure with that?”
+[trait] (p.177–183) He disables his GPS for Ryūen's plan; he and Albert grab Hōsen's arms and hold him down while Ryūen beats him; Ryūen sends them to the starting point to swap watches and join the group before anyone notices; he is the one who gets sent off with Albert.
+[rel:ryuuen-kakeru] (p.177–183) He holds Hōsen's left arm; Ryūen sends him with Albert to the starting point.
+[rel:yamada-albert] (p.177–183) His co-ambusher.
+[rel:housen-kazuomi] (p.177–183) His target; he restrains him.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

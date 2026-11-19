@@ -8879,15 +8879,55 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
 
-### y2v4 p.151–164 — Day 12: evading the first-year siege
-[scene] (p.151) On the twelfth day, uses GPS searches to see the first-years (Utomiya, Tsubaki, Yagami) converging; recognizes from Nanase's warning that today is the trap, with many Class 1-D groups around D4/E6.
-[says] (p.152) “How are you Tsubaki-san?” — narration of Tsubaki's side
-[says] (p.160) “Takuya Yagami-kun? Riku Utomiya-kun? and Sakurako Tsubaki-san? I wonder who” — narration
-[inference] (p.151–164) Deliberately swerves to avoid head-on collision, using GPS to stay ahead; realizes the enemy is trying to herd him, but he has the advantage of knowing their plan (via Nanase); arranges second-year groups (Ryūen's) to block the first-year hunters; orchestrates a counter-commander role that leaves Tsubaki's groups baffled.
-[trait] (p.151–164) Calm and anticipatory — turns Nanase's leaked warning into a prepared defense, staying one step ahead of Tsubaki's GPS trap and using the terrain and other students as pieces.
-[rel:nanase-tsubasa] (p.151) Her midnight warning let him prepare for the day-12 trap.
-[rel:tsubaki-sakurako] (p.151–164) The mastermind of the siege; he counters her plan.
-[rel:ryuuen-kakeru] (p.169) His counter uses Ryūen to intercept Hōsen.
+### y2v4 p.151–152 — Ch.5: The siege morning; he runs south
+[scene] (p.151) Dawn of day thirteen; the GPS shows the three first-year named masterminds (Utomiya, Tsubaki, Yagami) solidified at D4/E6; he knows they have his area from Nanase's leak; he avoids the trap by running south; he ignores six designated areas to survive.
+[says] (p.151) “On the move, huh?”
+[says] (p.152) “It seems that at least they know how to fight.”
+[note] (p.151–152) He considers: a task would be a trap; the route south ignores bad weather and mountains; he opts to flee the designated area even if it drops him in the ranks.
+[trait] (p.151–152) Cool, informed, unrattled — he reads the siege from the leak and dodges it.
+[rel:nanase-tsubasa] (p.151–152) Her leak saves him.
+[rel:tsubaki-sakurako] (p.151–152) She commands the siege; her trap fails.
+
+### y2v4 p.159–165 — Ch.5: The Sakayanagi bargain
+[scene] (p.160) Three days earlier, on day ten at midnight, he calls Sakayanagi on Takemoto's walkie-talkie and reveals the White Room threat and Nagumo's bounty; she agrees to freeze the first-years in exchange for a "new favor".
+[says] (p.161) “It seems that the classes are working well together.”
+[says] (p.161) “Yes. I was able to contact Ryuuen-kun and Horikita-san. We are progressing smoothly. I haven't heard the details, but it seems that Takemoto-kun and the others were taken care of. ”
+[says:sakayanagi-arisu] (p.161) “Your group is also making great strides, now you are in fifth place. You are in a position where you can aim high enough.”
+[says] (p.161) “Not that there are no worries at all.”
+[says] (p.162) “Have you seen Ichinose-san?”
+[says:sakayanagi-arisu] (p.162) “No, I have not seen her even once during this exam. What happened?”
+[says] (p.162) “I got a call saying she was acting a little strange. She has been lost for several days and I am worried ... ”
+[says:sakayanagi-arisu] (p.162) “So, what do you want from me?”
+[says] (p.163) “About the White Room.”
+[says:sakayanagi-arisu] (p.163) “It would have been better if you had told me before.”
+[says] (p.163) “Because none of it was safe.”
+[says:sakayanagi-arisu] (p.163) “So you want me to destroy that person named Amasawa Ichika?”
+[says] (p.163) “Huh?..”
+[says] (p.163) “Actually there is one more thing, I have another big problem.”
+[says] (p.163) “I mean, in the near future, the first-year students will take action against Ayanokouji-kun, right?”
+[says] (p.163) “That's what I mean. I want to ask Sakayanagi to take care of it. ”
+[says:sakayanagi-arisu] (p.163) “But if it's the same White Room student, I don't think it's possible for someone else to chase Ayanokouji-kun.”
+[says] (p.163) “The first years will probably try to force their entry. The most effective way to get rid of me is to exploit the fact that I am in a group completely alone. If they are in a position to do so, they will be able to block by force the assignment and, if they want to go further, obstruct movement to the designated area. ”
+[says] (p.163) “I'm sure you would be glad to hear it. Besides, Tsukishiro may be planning something .. If possible, I want to focus on that. ”
+[says:sakayanagi-arisu] (p.163) “I understand the situation very well”
+[says:sakayanagi-arisu] (p.164) “Don't worry. We already know all the scores for the group to which Class A belongs.”
+[says:sakayanagi-arisu] (p.164) “So ... you've had very close contact with them.”
+[says:sakayanagi-arisu] (p.164) “It is very important to know which groups have problems and which groups have plenty of space. There are a number of groups that have some room for growth, but not enough to make it to the top 10. So even if you use GPS search a few times per group, you can still get to the last day in plenty of time. ”
+[says:sakayanagi-arisu] (p.164) “All I have to do is stop the first years who are heading to Ayanokouji-kun, right?”
+[says:sakayanagi-arisu] (p.164) “It would have been a bit boring exam just to help you complete the task, and besides, this story seems like something that could benefit me.”
+[says:sakayanagi-arisu] (p.164) “It means that it is too big a commission for me to pay Takemoto-kun's debt .. In other words, it will be a new ' favor ', right?”
+[says] (p.164) “I know it hurts to hear this, but if you get rid of them, I'll owe you a ' favor '”
+[says:sakayanagi-arisu] (p.164) “It's decided. Well, then I'll get to work on my preparations.”
+[says] (p.164) “Oh, and if you don't mind, can I keep this walkie talkie as a loan?”
+[says:sakayanagi-arisu] (p.164) “Of course I was going to do it anyway. It's easier to get things done if we can get in touch. Then, could you return the walkie-talkie to Takemoto-kun? I will tell the situation and tell him to give it to Ayanokouji-kun”
+[says:sakayanagi-arisu] (p.165) “Well, now we have arrested the five suspicious groups. Are we trying to identify the person who planned this attack? ”
+[trait] (p.159–165) He pays for the night-10 favor with a promise of a bigger favor; he lets her in partially on the White Room; he never lies about the bounty's existence — he just doesn't volunteer the rest.
+[rel:sakayanagi-arisu] (p.159–165) Their bargain; she extracts a future favor.
+[rel:takemoto-shigeru] (p.161–164) The walkie-talkie relay runs through him.
+[rel:tsukishiro] (p.163) He reveals Tsukishiro may be planning something else.
+[rel:nagumo-miyabi] (p.163) The bounty is Nagumo's price for Tsukishiro.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 
 ### y2v4 p.162–164 — Revealing Nanase's role to Ryūen
 [scene] (p.162) Explains to Ryūen that Nanase was one of the assassins Tsukishiro sent, and why the lower risk plus new risk tipped the balance — enlisting his help to stop Hōsen.
