@@ -1273,7 +1273,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.68) "I'm going to ask you to stay in your dormitory on sick leave on the assumption that you've had a medical check."
 [says] (p.69) "Of course, I can't force you to do anything, so I'll leave the final decision to you."
 [says] (p.69) "Yes. I'll ask you to answer a week before the sports festival. We have some preparations to make too."
-[note] (p.66) "It just so happens. If he had been serious, I wouldn't still be here right now." is Ayanokōji's reply, printed untagged — see his ledger.
+[note] (p.66) "It just so happens. If he had been serious, I wouldn't still be here right now." is Ayanokōji's reply, printed untagged — see his file.
 [trait] (p.66–69) Measured and generous — offers a sick-leave solution so trusted observers from the school can watch his safety without Ayanokōji being singled out; tells him his father may be involved; accepts refusal in advance and gives a week.
 [rel:ayanokouji-kiyotaka] (p.66–69) The Chairman's personal project — keeps him safe ahead of the guests; Ayanokōji is unmoved by the special treatment.
 [rel:tsukishiro] (p.66) Acting Director; the Chairman mentions him having filled in.
@@ -1296,6 +1296,21 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:horikita-suzune] (p.168) She used the same tactic of two controlled votes in favour as Horikita.
 
 <!-- walk: y2v5 Ch.7 → p.170 -->
+
+### y2v5 p.78–174 — Coverage-gate mention records
+[mentioned] (p.78) "Sakayanagi-sensei, who was listening to the conversation, analyzed it calmly." — the homeroom meeting.
+[mentioned] (p.86) "In simple terms, the choice of who would you rather fight; Sakayanagi, Ryūen, or Ichinose." — the Q1 opponent list.
+[mentioned] (p.87) "unlike Sakayanagi-san, and Ryūen-kun, Ichinose-san is likely to be a fair fight, a clash of pure potential." — Horikita's pitch.
+[mentioned] (p.88) "The additional reward for defeating Sakayanagi-san and the rest of Class A is huge, but there's no doubt that they are stronger enemies than anyone else." — Hirata's case.
+[mentioned] (p.90) "All that was left was to hope that Sakayanagi and Ryūen's classes would match up, but since Ichinose's class was sometimes easy to target, there might be three classes competing for her."
+[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
+[mentioned] (p.117) "Sakayanagi-san's class will..." — the class's speculation; no name-tag assignee.
+[mentioned] (p.156) "you forced us to pick Sakayanagi's class as our opponents. Of course, you can take responsibility for losing, can't you?" — Tokitō.
+[mentioned] (p.161) "I can't catch up with or overtake Sakayanagi." — Katsuragi.
+[mentioned] (p.167) "Sakayanagi and become Class A. And he knows that he wants to pursue that path together with this class." — the wrap-up.
+[mentioned] (p.174) "from signing contracts with people like Sakayanagi and Ryūen, who will invite them into their classes if they let the time run out, or give them large amounts of private points."
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

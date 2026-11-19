@@ -1863,6 +1863,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:shibata-sou] (p.128) Dismisses the "for" vote as a misclick — the class's lack of crisis awareness that angers Kanzaki.
 
 <!-- walk: y2v5 Ch.5 → p.139 -->
+
+### y2v5 p.86–242 — Coverage-gate mention records
+[mentioned] (p.86) "the choice of who would you rather fight; Sakayanagi, Ryūen, or Ichinose." — the Q1 opponent list.
+[mentioned] (p.87) "Ichinose-san is likely to be a fair fight, a clash of pure potential." — Horikita's pitch.
+[mentioned] (p.88) "they are currently in class B. We'll get class points in addition to our rewards, which will give us an edge over the other classes."
+[mentioned] (p.90) "definitely chosen Ichinose's class." — the class targeted Ichinose's Class B.
+[mentioned] (p.117) "Ichinose-san's class will definitely not. I wonder if Sakayanagi-san's class will..." — the class's speculation.
+[mentioned] (p.140) "Like Horikita's and Ichinose's class, there were against votes."
+[mentioned] (p.156) "you didn't even listen to the people who said we should fight Ichinose's class, and you forced us to pick Sakayanagi's class as our opponents." — Tokitō's complaint.
+[mentioned] (p.170) "The classes lead by Ryūen and Ichinose were also unanimous in their opposition to the proposal."
+[mentioned] (p.201) "The whole thing started in the first-year, when Ichinose Honami had become vulnerable, and I knew Kushida would have plenty of dirt on her classmates."
+[mentioned] (p.241) "my favourite chapter was 'Ichinose's Choice' even though it was more so Kanzaki's choice." — Prince's credit.
+[mentioned] (p.242) "I liked how both Horikita and Ichinose's classes were handled here." — Rhymar's credit.
+[mentioned] (p.242) "I have a soft spot for Ichinose though." — Amadeus's credit.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

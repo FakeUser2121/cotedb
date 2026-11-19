@@ -235,6 +235,18 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.172) Mii-chan is named among those who answered the eye-contact interrogation.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.184, 214 — Coverage-gate mention records
+[mentioned] (p.184) "Mii-chan rushed over and put her hand on Kushida's back." — the pressure cooker cracks; Mii-chan is present for Kushida's collapse.
+[mentioned] (p.214) "she may be regretting her actions against her best friend Mii-chan" — the TL note (p.214) names her; kept as printed.
+
+### y2v5 p.22–54 — Coverage-gate mention records
+[mentioned] (p.22) "Welcome~. We're Maimai, the maid café!" — the group performance; her Chinese-style maid suit.
+[mentioned] (p.23) "Satō motioned towards Mii-chan sharply."
+[mentioned] (p.24) "I wonder if you've created a budget for the whole thing." — Horikita, addressed at them.
+[mentioned] (p.54) "No, if you include her physical characteristics, she might even be able to beat them." — Satō about her looks.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -153,6 +153,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.190–198) His rebuttal falls flat before the class's eyes.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.95, 186, 220 — Coverage-gate mention records
+[mentioned] (p.95) "Okinawa team, spearhead, Onodera, middle, Hondō, general, Sudō, mixed gender team." — Hondō named; Okinawa loses.
+[mentioned] (p.186) "Huh? Didn't Hondō-kun just promise to vote against you and Onizuka-kun? It's the same thing." — Haruka.
+[mentioned] (p.220) "we can have hand-raise votes for Hondō, Okitani, or another student, but it will not be less than three votes for Airi." — the comparison set.
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->

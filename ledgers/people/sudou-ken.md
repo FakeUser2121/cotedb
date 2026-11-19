@@ -1879,6 +1879,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:sakura-airi] (p.184–224) His rage at the sacrifice is the most honest in the room.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.13–172 — Coverage-gate mention records
+[mentioned] (p.13) "Sudō started chatting with his good friends Ike and Hondo."
+[mentioned] (p.19) "Surprisingly, the relationship between Kei and I did not spread from Sudō, and there was no sign of anyone new knowing about us."
+[mentioned] (p.64) "If you're an athletic student like Sudō, you're definitely going to choose physical ability"
+[mentioned] (p.118) "In addition to Horikita and Sudō, Akito turns his thoughts to Kōenji as well."
+[mentioned] (p.119) "In reality, both of them were slow to contribute at the start. No, Sudō's portion is worse if you factor in the fluctuations to class points due to his behaviour."
+[mentioned] (p.121) "What the hell, then, get on with it. Who is this guy?" said Sudō as he jumped out of his seat.
+[mentioned] (p.122) "As Sudō stated before, if you voted in favour, you yourself would be put at risk of expulsion."
+[mentioned] (p.172) "Haruka, Airi, Keisei and Akito too. Ike, Sudō, Mii-chan, Matsushita, all of them."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

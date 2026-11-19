@@ -83,3 +83,7 @@ char_id: yabu-nanami · class: Class 1-C · status: minor (allies)
 [rel:ryuuen-kakeru] (p.149–152) Her ally of convenience; he rebukes her name-calling speed.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.159 — Coverage-gate mention record
+[mentioned] (p.159) "Compared to Yabu and Morofuji, you seem to have a lot of logic, Tokitō." — Ryūen's backhanded compliment.
+

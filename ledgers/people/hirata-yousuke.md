@@ -1960,6 +1960,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:hasebe-haruka] (p.224–227) His last flail at stopping the Airi sacrifice.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.11–234 — Coverage-gate mention records
+[mentioned] (p.11) "It seems like you were quick to declare when you were with Yōsuke." — Kei's history with Hirata named.
+[mentioned] (p.12) Sudō: "Karuizawa was dating Hirata, and before that, I don't know what kind of flashy relationships she had in junior high school."
+[mentioned] (p.49) "Most of them think that she is a selfish girl who went out with the popular Yōsuke early and dumped him for her own convenience."
+[mentioned] (p.87) "As if in response, Yōsuke stands up as well." — Yōsuke backs Horikita's Class B pitch.
+[mentioned] (p.88) "Before any opposition could be raised, Yōsuke and Kei quickly solidified their opinions by voting for Class B."
+[mentioned] (p.123) "Umm... I'm sorry Ayanokōji-kun. I'm with Hirata-kun, there's no girl that comes to mind." — Kushida hides behind Hirata's stance.
+[mentioned] (p.234) "he was a combination of Hirata and Ike" — Chabashira's boy in the past.
+
+### y2v5 p.50 — Coverage-gate mention record
+[mentioned] (p.50) "Considering the fact that she had started dating Yōsuke immediately after enrolling at the school, and that she herself had probably been fabricating her past, this kind of perception arising was unavoidable."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

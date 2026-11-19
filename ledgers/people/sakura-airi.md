@@ -1193,6 +1193,14 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:horikita-suzune] (p.229) Passes her in the corridor; Horikita is speechless.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.172–242 — Coverage-gate mention records
+[mentioned] (p.172) "Haruka, Airi, Keisei and Akito too. Ike, Sudō, Mii-chan, Matsushita, all of them."
+[mentioned] (p.190) "Airi and Haruka, and even Akito followed this trend to provide support."
+[mentioned] (p.237) "Sakura must have been a member of your close group. And moreover, that girl had special feelings for you." — Chabashira.
+[mentioned] (p.238) "Of course, there are a few students who are not so different from Airi. But if a quarrel starts between students who are on the same side, their friends will naturally take the side of protection."
+[mentioned] (p.242) "Sakura getting yeeted was certainly surprising, but a welcome one in my mind." — Amadeus's credit.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

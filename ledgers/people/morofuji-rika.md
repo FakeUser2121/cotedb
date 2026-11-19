@@ -105,6 +105,10 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [rel:ryuuen-kakeru] (p.149–150) Welcomed with relish by him.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.159 — Coverage-gate mention record
+[mentioned] (p.159) "Compared to Yabu and Morofuji, you seem to have a lot of logic, Tokitō." — Ryūen's backhanded compliment.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

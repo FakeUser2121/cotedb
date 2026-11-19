@@ -797,6 +797,11 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:tokitou-hiroya] (p.155–166) The rebellion's poster child; Ishizaki loses his nerve at its climax.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.151, 155 — Coverage-gate mention records
+[mentioned] (p.151) "In the chilly air, Ishizaki's body trembled slightly. It wasn't fear of Ryūen, but it was time to make up his mind."
+[mentioned] (p.155) "Ishizaki jammed as if he was going to jump at him, but Katsuragi grabbed his arm and stopped him."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

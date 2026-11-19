@@ -117,6 +117,10 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 [rel:kaneda-satoru] (p.147) Her co-conspirator in indecision.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.154 — Coverage-gate mention record
+[mentioned] (p.154) "Nishino, no longer trying to hide his frustration, asks Ryūen about his policy."
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

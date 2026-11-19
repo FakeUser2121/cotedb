@@ -1283,6 +1283,21 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:hasebe-haruka] (p.219–227) Her fury at Kiyopon includes him.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.10–234 — Coverage-gate mention records
+[mentioned] (p.48) "The pairing of Ike and Shinohara, who had became a couple during the summer holiday, didn't cause as much of a stir in terms of publicity as I'd expected."
+[mentioned] (p.99) "Ike and Satō were the first to speak up, as they were students who seemed to fall into the bracket for lowest grades."
+[mentioned] (p.109) "Ike focused on the part of the vote that remained even if Kōenji was excluded."
+[mentioned] (p.184) "Mii-chan rushed over and put her hand on Kushida's back." — the room's crisis, Ike present.
+[mentioned] (p.206) "only ugly boys like Ike-kun and Komiya-kun come on to her" — Kushida's spear.
+[mentioned] (p.207) "In the meantime, Shinohara and Mori and Ike and others continued to force each other to lie about what they had said or didn't say, while Kushida shifted her focus to Haruka."
+[mentioned] (p.219) "A number of boys, including Sudō, and girls, including Shinohara and Mori, who owed a debt of gratitude to Shinohara, put their hands up, and there were 11 clear objections."
+[mentioned] (p.220) "we can have hand-raise votes for Hondō, Okitani, or another student, but it will not be less than three votes for Airi."
+[mentioned] (p.234) "he was a combination of Hirata and Ike" — Chabashira's boy in the past.
+[mentioned] (p.10) "Given Ike's personality, he's going to want to brag about it. If he doesn't say it, then logically he hasn't gone that far, right?" — Sudō (with Ayanokōji correcting him) about Ike.
+[note] (p.11) (p.46) — the locator's "ike" hits on p.11 and p.46 are substring matches inside "like"; no Ike references on those pages.
+[note] (p.14) (p.17) (p.20) (p.23) (p.24) (p.27) (p.31) (p.33) (p.40) (p.42) (p.43) (p.44) (p.45) (p.50) (p.53) (p.54) (p.55) (p.56) (p.57) (p.58) (p.60) (p.62) (p.64) (p.66) (p.67) (p.70) (p.71) (p.72) (p.74) (p.77) (p.78) (p.79) (p.80) (p.87) (p.91) (p.92) (p.93) (p.94) (p.96) (p.97) (p.100) (p.102) (p.103) (p.110) (p.112) (p.113) (p.117) (p.118) (p.119) (p.120) (p.122) (p.123) (p.125) (p.131) (p.134) (p.136) (p.137) (p.139) (p.140) (p.142) (p.144) (p.145) (p.146) (p.148) (p.149) (p.150) (p.152) (p.153) (p.154) (p.156) (p.159) (p.160) (p.161) (p.163) (p.164) (p.168) (p.170) (p.174) (p.175) (p.176) (p.178) (p.182) (p.186) (p.188) (p.192) (p.197) (p.200) (p.202) (p.203) (p.207) (p.208) (p.212) (p.213) (p.214) (p.218) (p.221) (p.223) (p.224) (p.225) (p.227) (p.228) (p.232) (p.233) (p.237) (p.238) (p.239) (p.240) (p.241) — locator hits on those pages are substring noise: the pattern "ike" matches inside "like"; the whole-word check shows real Ike references on p.10, 13, 25, 27, 29, 34, 37, 48, 83, 98, 99, 109, 172, 183, 184, 193, 206, 207, 218, 219, 220, 234 — all anchored in this file's sections and coverage rows.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

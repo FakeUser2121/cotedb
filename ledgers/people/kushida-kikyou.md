@@ -1904,6 +1904,20 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hasebe-haruka] (p.207) Her fourth spear.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.57–242 — Coverage-gate mention records
+[mentioned] (p.57) "This was suggested to us by Kushida during the day." — the leader strategy origin.
+[mentioned] (p.60) "You mean the existence of Kushida-san and Kōenji-kun."
+[mentioned] (p.216) "closed that distance to Kushida." — Horikita's unexpected move.
+[mentioned] (p.217) "express my opposition to Kushida-san's expulsion." — Horikita's public stance.
+[mentioned] (p.218) "Kushida, the only student who kept voting in favour of expelling a student, deserves to be expelled."
+[mentioned] (p.220) "You put Kushida-chan first just because you have a little use for her?" — Haruka's eruption.
+[mentioned] (p.222) "Whether it's you who wants to drop out, or Kushida who tried to drop out, I'm not going to change this policy, no matter what new students come forward."
+[mentioned] (p.228) "Didn't you say something to Kushida?" — Horikita's check.
+[mentioned] (p.238) "Kushida was so disturbed by Horikita's presence that she accepted the choice to stay at this school."
+[mentioned] (p.241) "the Kushida simp who's cropped up on the subreddit" — Rhymar's credit.
+[mentioned] (p.242) "People will be disappointed by Kinu's desire to prevent Kushida from being expelled - but I want to see her suffer from humiliation before she gets booted out." — Amadeus's credit.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

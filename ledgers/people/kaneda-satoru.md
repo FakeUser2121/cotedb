@@ -300,6 +300,11 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [rel:nishino-takeko] (p.147) His co-analyst in indecision.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.141 — Coverage-gate mention record
+[mentioned] (p.141) "It is obvious to everyone that this last question is different in content, but the method is essentially the same." — no wait, that's Ryūen's class wrap; the Kaneda anchor:
+[mentioned] (p.141) "Some of them were Nishino and Kaneda, who raised their hands while staring out the window, looking unmotivated." — Kaneda named among the seven remaining 'in favour' voters.
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->

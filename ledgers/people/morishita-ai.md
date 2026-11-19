@@ -300,14 +300,10 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — morishita-ai mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: none.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.7–243 — Morishita: absent from this volume
+[note] (p.7–243) The page locator returns no pages for her; the full text contains ZERO occurrences of "Morishita"; she does not appear in this volume (the story is confined to Classes B, D and the exam's aftermath).
 
-
-
-
+<!-- walk: y2v5 Ch.1 → p.8 -->
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

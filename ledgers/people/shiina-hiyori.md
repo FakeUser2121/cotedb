@@ -564,6 +564,11 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.164–167) The print names her without her own dialogue on these pages; the reveal frames her as the linchpin of Ryūen's design.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.242 — Coverage-gate mention record
+[mentioned] (p.242) "Kei scene, Shiina showing off her own brilliance without getting even a word of dialogue" — Amadeus's credit.
+
+<!-- walk: y2v5 Afterword → p.243 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

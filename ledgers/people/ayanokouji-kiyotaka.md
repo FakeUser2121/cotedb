@@ -9062,7 +9062,7 @@ walk: y1v1 → DONE
 [note] (p.92) Printed untagged but tied to Yōsuke by adjacent narration ("Wary of getting distracted, Yōsuke pulls the entire class back together.").
 [says:hirata-yousuke] (p.93) "That's a bit... secret... isn't it?"
 [note] (p.93) Printed untagged; tied to Hirata by the surrounding "Hirata-kun picked Hokkaido, right?" / "Hey Hirata, you chose Okinawa, didn't you?" exchange and his "W-Well, I mean..." reply.
-[mention] (p.95) The Hokkaido team is women (Maezono, Ishikura, Shinohara); the Okinawa team is mixed (Onodera, Hondō, Sudō); Keisei represents Kyoto alone.
+[mentioned] (p.95) The Hokkaido team is women (Maezono, Ishikura, Shinohara); the Okinawa team is mixed (Onodera, Hondō, Sudō); Keisei represents Kyoto alone.
 [trait] (p.91–96) Watches the class solve the dispute through process rather than coercion — the Kyoto minority voice (Keisei) is the one volunteering first; the moment of being outvoted by "39-0" leaves about half the class "dissatisfied"; he notes his own desire for Kyoto (deep history) loses and resigns himself to Hokkaido.
 [rel:sudou-ken] (p.95–96) Sudō throws a powerful par for Okinawa and gets berated for costing the class the unanimity en route to the Hokkaido sweep.
 [rel:ishigami-kyou] (p.95) Keisei steps up first for the hopeless Kyoto case, loses instantly, and Horikita sighs — AK is convinced she wanted Kyoto too.
@@ -9180,6 +9180,29 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.237) Says Horikita "had the power to make change" but not enough time — she's the one who nearly saved Kushida.
 
 <!-- walk: y2v5 Ch.9 → p.239 -->
+
+### y2v5 p.70–74, 161, 184–191, 241–242 — Coverage-gate mention records
+[mentioned] (p.70) Yagami plays the briefing recording for Kushida and names the targets: "Kushida-senpai wants to crush Horikita Suzune and Ayanokōji Kiyotaka. That's what it was about, wasn't it?"
+[mentioned] (p.161) Tokitō invokes the year-1 rooftop incident: "Last year, during the incident on the rooftop, when Ayanokōji had a dispute with Ryūen."
+[mentioned] (p.184) Kushida confesses her regret re Horikita and Ayanokōji: "I certainly understand what Horikita and Ayanokōji were saying."
+[mentioned] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that." — Kushida names him.
+[mentioned] (p.186) Kei's fury at his exam leadership: "Why should Kiyotaka have to be expelled? You were about to run out of time, so you just said let's put it in the same disgusting way and agree."
+[mentioned] (p.189) "I won't let that happen. Taking responsibility also means stopping those opposing votes. If the time comes, I will make Kei vote yes. Do you understand?" — Kushida challenges him.
+[mentioned] (p.241) PrinceYG's credit: "it was enjoyable to see Kiyotaka openly take the wheel for once."
+[mentioned] (p.242) Amadeus's credit: "We finally got bitch Kushida exposed; as well Ayanokouji! The class now knows he is ruthless."
+[mentioned] (p.242) Amadeus: "the impending implusion of the Ayanokōji Group."
+
+### y2v5 p.161 — Coverage-gate mention record
+[mentioned] (p.161) "The story was that Ishizaki had defeated Ryūen and temporarily took control of the class. Tokitō cited that incident." — the year-1 rooftop incident Ayanokōji was part of; named here.
+
+### y2v5 p.71–74, 187 — Coverage-gate mention records
+[mentioned] (p.71) "you to know that Horikita-senpai has been entrusted with this role." — Yagami.
+[mentioned] (p.72) "He then explains how she can corner Horikita and Ayanokōji in that question." — Yagami on the setup.
+[mentioned] (p.73) "my hobby to try different things without Ayanokōji-senpai noticing." — Yagami, on his hobby.
+[mentioned] (p.74) "I want to expel Horikita, I want to expel Ayanokōji. I'm definitely going to get them expelled...!" — Kushida's vow.
+[mentioned] (p.187) "I can't agree with Kiyopon or Horikita's expulsion from the school right now. Because I think they should be listened to first, not because of my personal relationship." — Haruka.
+
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

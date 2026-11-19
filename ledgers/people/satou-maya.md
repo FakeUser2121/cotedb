@@ -477,7 +477,13 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
-<!-- walk: y2v5 Ch.3 → p.75 -->### y2v5 p.98 — Satō: the bottom-five bracket
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.30 — Satō asks about the second-years' special exam
+[scene] (p.30) In class at the Unanimous Voting Exam briefing; leans back in her chair and asks for clarification.
+[says] (p.30) "Does that mean that only us second years will have to face a special exam before the sports festival?"
+
+### y2v5 p.98 — Satō: the bottom-five bracket
 [says] (p.98) "Me neither! If we don't get protection points, we'll only lose five people!"
 [note] (p.98) Printed untagged; tied to Satō by adjacent-order attribution ("Ike and Satō were the first to speak up, as they were students who seemed to fall into the bracket for lowest grades."); the Ike line is the preceding one.
 [trait] (p.98) Realizes the five sacrificed students would come from her bracket — panic, not strategy.
@@ -495,6 +501,12 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.218) Second-guesses the unseen voter more than anyone.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.26–82 — Coverage-gate mention records
+[mentioned] (p.26) "Still, for now that I've got Satō and Matsushita down. Even though it is still a long way off, the list will need to be compiled in the near future."
+[mentioned] (p.54) "she could be as good as Matsushita, Satō, and Mii-chan." — Satō named third among the maid-café trio.
+[mentioned] (p.82) "Satō sat down to my right. The students began to arrive one after another."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

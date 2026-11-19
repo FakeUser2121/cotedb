@@ -427,6 +427,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [mentioned] (p.219) "girls, including Shinohara and Mori, who owed a debt of gratitude to Shinohara, put their hands up" — protects Ike (one of 11 hands).
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.29, 98 — Coverage-gate mention records
+[mentioned] (p.29) "Ike's frustration leaking out was the first thing that could be heard. For Ike, who had overcome the fear of being expelled from the school to go out with Shinohara Satsuki, it must be a daunting prospect."
+[mentioned] (p.98) "You're not going to tell me you need money to go on dates with Shinohara, are you?" — Sudō to Ike.
+
+### y2v5 p.207 — Coverage-gate mention record
+[mentioned] (p.207) "In the meantime, Shinohara and Mori and Ike and others continued to force each other to lie about what they had said or didn't say, while Kushida shifted her focus to Haruka."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

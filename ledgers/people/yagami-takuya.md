@@ -209,7 +209,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:kushida-kikyou] (p.70–75) His handler of choice; he plays her with precision.
 [rel:ayanokouji-kiyotaka] (p.70–75) His "game" — to play with Ayanokōji without Ayanokōji noticing.
 [rel:amasawa-ichika] (p.74) Names Amasawa as his co-threat against Kushida ("such as myself and Amasawa-san, who continue to threaten your daily safety and livelihood").
-[note] (p.75) Kushida's closing thought — "Sometime in the future, he'll have to be expelled too" — is in her ledger, not here.
+[note] (p.75) Kushida's closing thought — "Sometime in the future, he'll have to be expelled too" — is in her file, not here.
 
 
 ### y2v5 p.241 — Credits: PrinceYG's staff note

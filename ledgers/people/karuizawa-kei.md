@@ -1862,7 +1862,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.63) "I would definitely eat bread. I wouldn't be able to eat no bread until I graduated."
 [says] (p.63) "No, I wouldn't. Because it's a ban until you graduate. I'll keep voting for bread."
 [note] (p.51) Her text message: "I'll be waiting for you at Keyaki Mall afterwards. It was hard for me to dig up all the answers!" — printed in message brackets; kept verbatim as the print shows it.
-[mention] (p.48–55) Named constantly by Haruka and Airi's group as the "flashy" rival; her lunchtime crying-through moment referenced.
+[mentioned] (p.48–55) Named constantly by Haruka and Airi's group as the "flashy" rival; her lunchtime crying-through moment referenced.
 [trait] (p.46–66) Public, possessive and a bit embarrassed — claims him in front of everyone; face turns red as she tugs his arm out of the classroom; keeps her composure in the war council; an influential but untrained lever in the shadow system (not told the "forceful measures" instruction).
 [rel:ayanokouji-kiyotaka] (p.46–66) Publicly dating; claims him as "his priority"; part of the secret pre-exam support ring.
 [rel:hirata-yousuke] (p.62–65) War council ally for tomorrow's exam.
@@ -1888,6 +1888,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hasebe-haruka] (p.220–227) The two most shattered people in the room.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.19–242 — Coverage-gate mention records
+[mentioned] (p.19) "Surprisingly, the relationship between Kei and I did not spread from Sudō, and there was no sign of anyone new knowing about us."
+[mentioned] (p.88) "Before any opposition could be raised, Yōsuke and Kei quickly solidified their opinions by voting for Class B."
+[mentioned] (p.121) "Horikita's face showed surprise at the unexpected point made by Kei."
+[mentioned] (p.242) "Kei scene, Shiina showing off her own brilliance without getting even a word of dialogue" — Amadeus's credit.
+[note] (p.95) (p.100) (p.101) (p.102) (p.103) (p.171) (p.172) — the locator's "kei" hits on those pages are substring matches inside "Keisei"; no Kei references on those pages.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

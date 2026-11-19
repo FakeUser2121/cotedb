@@ -500,14 +500,10 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.10-13, p.20, p.22-23, p.25, p.27.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.7–243 — Ayanokōji's father: absent from this volume
+[note] (p.7–243) The page locator's Ayanokōji substring matches (55 pages) are noise for this figure — his surname-sibling is the protagonist. A corpus-wide search of the full text found ZERO occurrences of "Atsuomi"; the figure appears nowhere in this volume's pages.
 
-
-
-
+<!-- walk: y2v5 Ch.1 → p.8 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

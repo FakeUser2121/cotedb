@@ -75,11 +75,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — himeno-yuki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.137-138.
-[mentioned] (p.7) Passing mention only.
-
 ### y2v5 p.137–138 — Himeno: the appeal to stop
 [scene] (p.137) In the interval right after the vote, calls out to Kanzaki in a dumbfounded manner — can't we just stop this now?
 [says] (p.137) "Hey, Kanzaki-kun. Can't we, like, just stop this now?"
@@ -89,6 +84,10 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [rel:ichinose-honami] (p.137) Her class leader; Himeno's appeal reflects the class consensus.
 
 <!-- walk: y2v5 Ch.5 → p.139 -->
+
+### y2v5 p.138 — Coverage-gate mention record
+[mentioned] (p.138) "time, as Himeno said." — narration citing Himeno's earlier stance: the class knows most would run out of time rather than vote in favour.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

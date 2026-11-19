@@ -2323,6 +2323,19 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:nishino-takeko] (p.147–152) His instructed counterweight.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.87–232 — Coverage-gate mention records
+[mentioned] (p.87) "Ryūen, or Ichinose. The opponent chosen here will not be changed." — the Q1 opponent list.
+[mentioned] (p.90) "All that was left was to hope that Sakayanagi and Ryūen's classes would match up, but since Ichinose's class was sometimes easy to target, there might be three classes competing for her."
+[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
+
+[mentioned] (p.130) "Maybe Ryūen is an exception, but this exam requires unanimous approval from the entire class anonymously." — Ichinose's class discussion.
+[mentioned] (p.139) "That means Ryūen-kun and Horikita-san's classes are still in deliberation, right?"
+[mentioned] (p.170) "The classes lead by Ryūen and Ichinose were also unanimous in their opposition to the proposal."
+[mentioned] (p.174) "from signing contracts with people like Sakayanagi and Ryūen, who will invite them into their classes if they let the time run out, or give them large amounts of private points."
+[mentioned] (p.203) "At one time, you were working with Ryūen to get me and Horikita expelled. Isn't that right?" — Ayanokōji to Kushida.
+[mentioned] (p.232) "In addition, the rooftop is also a disadvantage because it can be used for minor abuses, as Ryūen once did."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -2604,8 +2617,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.176) "Heh. It seems you can't do anything, Sakayanagi."
 [note] (p.172) Ryūen, intent on revenge; he abandoned the face he had at twelve, chasing the revenge.
 
-
-
 ### y2v10 p.9-235 — ryuuen-kakeru mentioned in passing
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.8, p.39-41, p.85-87, p.91, p.94-96, p.102; not line-by-line verified; substring false positives possible). Not a scene presence.
@@ -2623,14 +2634,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.42) Passing mention: "someone like Ryūen or Sakayanagi might easily undertake such merciless tasks" (the expulsion-nomination burden of a losing leader).
 [note] (p.39) The deserted-island contract is referenced, not narrated; no scene, no dialogue.
 
-
 ### y2v10 p.85–86, 91, 96 — Ch.4: Ryūen, the feared rival named
 [mentioned] (p.85) Passing mention: the hypothetical — "If Ryūen-kun’s class were to use that strategy... one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40."
 [mentioned] (p.86) Passing mention: "If Ryūen-kun’s class could only get up to 66 points, the other three classes should team up and aim for more."
 [mentioned] (p.91) Passing mention: memory — "When we were at karaoke with Ryūen, Horikita had witnessed the time when I was about to be splashed with orange juice by surprise."
 [mentioned] (p.96) Passing mention: "Ryūen is ruthless to whoever he is up against. He’s always thinking of ways to defeat the enemy’s most capable students."
 [note] (p.85) Rank speculation on these pages: the page places Ryūen's class among the bottom two with Ichinose's.
-
 
 ### y2v10 p.105 — Ch.5: The restroom run-in
 [scene] (p.105) Leaning against the wall beside the entrance with his phone in his hand; snorted a laugh at Hashimoto's refuge habit; they trade barbs about being seen together before the exam.
@@ -2639,7 +2648,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.105) “If you’re innocent, then act with confidence.”
 [note] (p.105) He's curious, not hostile; the pages never say whether he knows why Hashimoto was there.
 [note] (p.105) He is also Class A; the two of them pass each other at least outwardly civil; neither says why he was there. The pages leave the reason for the restroom encounter unspoken.
-
 
 ### y2v10 p.144–153, 156–161, 172–176, 180–184 — Ch.6: The hidden hand surfaces
 [scene] (p.144) The exam begins; Class C's lead attack lands on his class; he zones out staring at his phone for nearly a minute; classmates freeze; Hoshinomiya intervenes; his decision comes only at the deadline.
@@ -2679,14 +2687,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.172, 176) The target he's hunting; her counter is gambling-adjacent, his is mathematics.
 [rel:hoshinomiya-chie] (p.144, 145, 176) He treats his homeroom teacher as background noise; she is used to it.
 
-
 ### y2v10 p.202–205 — Ch.7: The victory seen from the window
 [scene] (p.202) Ryūen's class is in high spirits; Ishizaki leaps for joy; Katsuragi walks majestically toward Keyaki Mall; Hiyori watches from the window with a forced smile.
 [scene] (p.204–205) He arrives to find Hiyori pale and thoughtful; her unease about Ryūen's gambles has not landed him in trouble — yet.
 [note] (p.205) He never once appears on these pages; the whole chapter is anchored on his effect, his entourage, and Hiyori's worry.
 
-
 ### y2v10 p.102–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
 [mentioned] (p.102) Passing mention — The future where I might lose to Ryūen in a direct showdown with a
 [mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
 
@@ -2847,7 +2854,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.205–209) The target waits beyond Sakayanagi; the two fuse their motives without speaking them.
 [rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
 [rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
-
 
 <!-- walk: y2v11 Epilogue → p.223 -->
 

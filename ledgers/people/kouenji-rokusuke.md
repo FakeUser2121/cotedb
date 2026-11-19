@@ -916,6 +916,20 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ishigami-kyou] (p.100–103) Backs his protection-point argument on Q3.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.46–188 — Coverage-gate mention records
+[mentioned] (p.46) "students, with the exception of Kōenji, looked at us at once."
+[mentioned] (p.60) "You mean the existence of Kushida-san and Kōenji-kun."
+[mentioned] (p.90) "Without Kōenji jokingly putting in a vote for another class, we succeeded in getting the first unanimous vote with a smooth start."
+[mentioned] (p.121) "As long as it's anonymous, there's no way to prove that Kōenji isn't voting yes except by unanimous consent."
+[mentioned] (p.122) "Kōenji-kun." — the print leaves the line untagged; kept as printed.
+[mentioned] (p.171) "The only one who didn't raise his hand was Kōenji."
+[mentioned] (p.171) "Kōenji replied to Yōsuke, who looked at him anxiously."
+[mentioned] (p.172) "Sudō, there is no further reason to poke at Kōenji."
+[mentioned] (p.175) "one of the 37 people who were united, with the exception of Kōenji."
+[mentioned] (p.187) "The 300 class points that Kōenji got in the desert island exam was a miracle." — Keisei's line.
+[mentioned] (p.188) "there's Kōenji, who doesn't want to let go of his only ally, Horikita."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

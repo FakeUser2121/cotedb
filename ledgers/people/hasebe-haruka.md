@@ -664,6 +664,12 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ishigami-kyou] (p.220) Keisei's pragmatic aside ("losing 300 class points is critical") betrays his real feelings and angers her.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.207 — Coverage-gate mention record
+[mentioned] (p.207) "Let's see, for a start, we could try Hasebe-san." — Kushida pivots her purge toward her; her next target named aloud in the class.
+[mentioned] (p.207) "the interval will soon be over, but the unanimous decision to expel Kushida will be imminent. If we drag our feet here, Kushida will continue to reveal more and more secrets." — the room's pressure cooker.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

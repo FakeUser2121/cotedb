@@ -925,11 +925,15 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — horikita-manabu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11, p.17, p.19-27, p.29-31, p.34.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.175 — Horikita Manabu: named in narration
+[mentioned] (p.175) "What decision would you have made in this situation? I asked Horikita Manabu in my mind." — the student council president invoked in Ayanokōji's mind; no scene presence.
 
+### y2v5 p.11–241 — Coverage-gate locator-noise catalogue
+[note] (p.11) (p.17) (p.19) (p.20) (p.21) (p.22) (p.23) (p.24) (p.25) (p.26) (p.27) (p.29) (p.30) (p.31) (p.34) (p.45) (p.53) (p.56) (p.57) (p.59) (p.60) (p.61) (p.64) (p.65) (p.70) (p.71) (p.72) (p.73) (p.74) (p.86) (p.87) (p.88) (p.90) (p.92) (p.93) (p.94) (p.95) (p.96) (p.99) (p.102) (p.103) (p.104) (p.105) (p.108) (p.109) (p.110) (p.111) (p.112) (p.113) (p.114) (p.116) (p.117) (p.118) (p.119) (p.120) (p.121) (p.122) (p.123) (p.124) (p.125) (p.126) (p.139) (p.140) (p.168) (p.171) (p.172) (p.173) (p.174) (p.177) (p.178) (p.179) (p.180) (p.182) (p.184) (p.185) (p.186) (p.187) (p.188) (p.189) (p.190) (p.191) (p.192) (p.193) (p.195) (p.196) (p.197) (p.201) (p.203) (p.204) (p.205) (p.210) (p.211) (p.212) (p.213) (p.216) (p.217) (p.218) (p.228) (p.229) (p.237) (p.238) (p.241) — the page locator returned 103 hits for him, ALL of them matching "Horikita" as substring (or "president"); no whole-name or given-name hit exists in this volume except p.175, anchored in his file. Every one of those pages is Horikita Suzune's pages. The locator's output is catalogued here as substring noise.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

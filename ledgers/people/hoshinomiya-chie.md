@@ -566,6 +566,12 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:kanzaki-ryuuji] (p.127–135) Her "general advisor" who votes against her class; she will not endorse him; she merely watches.
 
 <!-- walk: y2v5 Ch.5 → p.139 -->
+
+### y2v5 p.7 — Coverage-gate mention record
+[mentioned] (p.7) "My best friend, Chie, approaches me with an angry expression and grabs my chest." — Chabashira's nightmare; Chie's first appearance in this volume; the dream's POV.
+[note] (p.9) (p.34) (p.36) (p.82) (p.96) (p.112) (p.114) (p.116) (p.155) (p.161) (p.177) (p.178) (p.180) (p.206) — locator hits on those pages are substring noise: the pattern "chie" matches inside "achieve"/"achievable"/"achieved" — no Chie references exist on those pages.
+
+<!-- walk: y2v5 Ch.1 → p.8 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -906,6 +906,11 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:shiina-hiyori] (p.164–167) She reported Katsuragi and Tokitō's conversation to Ryūen; Ryūen confirms the trail.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.170 — Coverage-gate mention record
+[mentioned] (p.170) "I do not see you and your classmates the same as Katsuragi-kun and Yahiko-kun, who have left us." — Sakayanagi's praise and the departures named; no scene presence for him.
+
+<!-- walk: y2v5 Ch.7 → p.170 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

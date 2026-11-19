@@ -1485,7 +1485,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says] (p.78) "In this special exam, our teachers' utmost concern should be to not intervene in the exam." — Ikari-sensei's line; printed untagged in the print; named via the auditing narration
 [scene] (p.80) Outside the staff room Chie confronts her: "It's finally here, Sae-chan... You couldn't sleep last night because you were thinking about the special exam, right?" — "Sae-chan doesn't have the qualifications to aim for Class A. Never forget that." She cannot lift her head until the corner.
 [says] (p.80) "This class has nothing to do with me. It doesn't matter if the students clear it easily or not."
-[note] (p.76–81) The print carries the drop-cap style at the chapter head; translator credit changes mid-volume in this book (PrinceYG#6558 pp.1–28 and pp.76–167 and pp.232–243; Rhymar#7433 pp.29–75 and pp.168–231) — kept as printed; see the volume ledger's notes.
+[note] (p.76–81) The print carries the drop-cap style at the chapter head; translator credit changes mid-volume in this book (PrinceYG#6558 pp.1–28 and pp.76–167 and pp.232–243; Rhymar#7433 pp.29–75 and pp.168–231) — kept as printed; see the volume's notes.
 [note] (p.78–79) "Sakayanagi-sensei" (a teacher at the morning meeting) is not on the roster — two lines are printed under him; no roster id assigned; owner to resolve (ambiguous with sakayanagi-arisu and sakayanagi-narimori).
 [trait] (p.76–81) Eleven years since she saw "him"; applies makeup with trembling hands; lies to herself that "This isn't my fight." — the mirror tells the truth; Ikari-sensei warns the teachers to not intervene ("advice" = warning, repetition = pay cut; malicious intervention = demotion); her sleep has been wrecked for days.
 [rel:hoshinomiya-chie] (p.78–80) Her oldest sparring partner — Chie spotted the insomnia instantly and needles her with it.
@@ -1524,6 +1524,34 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:sakura-airi] (p.237) Asks whether he could have saved Sakura.
 
 <!-- walk: y2v5 Ch.9 → p.239 -->
+
+### y2v5 p.70–242 — Coverage-gate mention records
+[mentioned] (p.70) Yagami plays the recording of Chabashira's briefing for Kushida: "Yagami pressed the play button and heard Chabashira's voice in the middle of the explanation, giving an overview of the special unanimous voting exam announced for the second-year students."
+[mentioned] (p.83) "On the side of the podium, the facilitator of this special exam, Chabashira-sensei, and the teacher in charge of monitoring, are stationed at the back of the classroom."
+[mentioned] (p.85) "I thought so, but Chabashira-sensei just stood there and stared at the students absentmindedly."
+[mentioned] (p.88) "While checking the time, Chabashira-sensei resumed the proceedings that had been halted."
+[mentioned] (p.91) "the voices were quickly drowned out by the sharp stares of Chabashira-sensei."
+[mentioned] (p.96) "Now, let me move on to the third question." Chabashira-sensei's demeanor hadn't changed since the beginning, but there was a slight change in the tone of her voice.
+[mentioned] (p.171) "Even Chabashira-sensei, who announced the standard phrases, showed signs of fatigue."
+[mentioned] (p.175) "Chabashira-sensei was momentarily at a loss for words."
+[mentioned] (p.181) "Chabashira-sensei muttered to herself as if she were prepared for everything and continued on her way."
+[mentioned] (p.188) "It seemed that all the votes had been cast in about 30 seconds, and Chabashira-sensei displayed the results on a monitor."
+[mentioned] (p.195) "Chabashira-sensei informed us of the time."
+[mentioned] (p.198) "If I were to get a confirmation from Chabashira-sensei, I can say that I know the flow of points at this moment, and you can't avoid that the situation will be bad at once."
+[mentioned] (p.198) "There is some skepticism as to whether the teacher, Chabashira, is aware of the transfer of points between individuals at any time, and whether she would leak personal information."
+[mentioned] (p.200) "If you want, I can ask Chabashira-sensei to bring my phone now."
+[mentioned] (p.200) "You know what Chabashira-sensei said. Private points are for your own protection-"
+[mentioned] (p.221) "Staring at Chabashira-sensei, Haruka makes a formal statement."
+[mentioned] (p.226) "Chabashira-sensei, who had been watching the fierce exchange, forgot to report the end of the exam and just looked at Airi and Haruka."
+[mentioned] (p.226) "Only if you have 20 million private points at this moment and use them..." — she tries to continue the explanation and stops halfway.
+[mentioned] (p.227) "Airi replies to Chabashira-sensei in a quiet voice, but without hesitation."
+[mentioned] (p.227) "As for Sakura, you will have to come with me to the staff room afterwards, so stay in the classroom."
+
+### y2v5 p.84–225 — Coverage-gate mention records
+[mentioned] (p.84) "Two minutes before the start, the homeroom teacher, Chabashira-sensei, begins to explain."
+[mentioned] (p.87) "Raising her hand, Horikita, who was sitting in front of the Chabashira-sensei, stood up and then turned around."
+[mentioned] (p.225) "raised her voice towards Chabashira-sensei."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

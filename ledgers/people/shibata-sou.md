@@ -318,11 +318,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — shibata-sou mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.128, p.130, p.132.
-[mentioned] (p.7) Passing mention only.
-
 ### y2v5 p.128–132 — Shibata: the front-row sceptic
 [says] (p.128) "Who's the guy who voted in favour? You pressed the wrong button."
 [note] (p.128) Adjacent narration names him explicitly ("it was Shibata sitting in the front who turned around and said so.").

@@ -1090,6 +1090,10 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ishizaki-daichi] (p.160) His clumsy defense of her fails.
 
 <!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.162 — Coverage-gate mention record
+[mentioned] (p.162) "He could take the same defensive measure as Ibuki by running away to vote against the question." — Ayanokōji weighs Ibuki's strategy.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

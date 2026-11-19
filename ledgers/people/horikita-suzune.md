@@ -4575,6 +4575,34 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sakura-airi] (p.229) Speechless as Airi leaves — can't think of what to say to someone being expelled.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.9–241 — Coverage-gate mention records
+[mentioned] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester." — Sudō, absent from the class.
+[mentioned] (p.10) "Really? You're sure it's not Suzune, aren't you?" — Sudō.
+[mentioned] (p.11) "What, did you want me to go out with Horikita?" — Sudō.
+[mentioned] (p.29) "Oh." — Sudō deflated by Horikita's warning.
+[mentioned] (p.30) "Horikita, who listened from beside Chabashira-sensei, calmly accepted the situation."
+[mentioned] (p.30) "Horikita's words were met with approval by Satō and the rest of the class."
+[mentioned] (p.31) "Although still incomplete, Horikita's growth as a pillar of support has certainly had a positive influence on her classmates."
+[mentioned] (p.34) "Here is a theoretical explanation of why Horikita, who seems to have voted against it."
+[mentioned] (p.64) "Yes, you're right. But then, shouldn't Horikita-san also be included in this conversation?" — Yōsuke.
+[mentioned] (p.64) "This time, you will support Horikita from the shadows. Just keep what goes on here confidential." — Ayanokōji.
+[mentioned] (p.65) "they can sense what Horikita is thinking and what she wants to do and match it, the class will be much stronger."
+[mentioned] (p.65) "Anyway, I understand. All we have to do is follow Horikita-san well and make sure the special exam goes smoothly, right?"
+[mentioned] (p.70) Yagami: "Kushida-senpai wants to crush Horikita Suzune and Ayanokōji Kiyotaka. That's what it was about, wasn't it?"
+[mentioned] (p.71) "Have you been able to tell your senpais about Horikita?" — Yagami.
+[mentioned] (p.71) "you to know that Horikita-senpai has been entrusted with this role." — Yagami.
+[mentioned] (p.71) "So what? You think you can get Horikita expelled at the next special exam?" — Yagami.
+[mentioned] (p.72) "He then explains how she can corner Horikita and Ayanokōji in that question."
+[mentioned] (p.73) "Not only do you have Ayanokōji-senpai and Horikita-senpai surrounding you" — Yagami.
+[mentioned] (p.74) "such as myself and Amasawa-san, who continue to threaten your daily safety and livelihood." — Yagami.
+[mentioned] (p.139) "That means Ryūen-kun and Horikita-san's classes are still in deliberation, right?"
+[mentioned] (p.140) "Like Horikita's and Ichinose's class, there were against votes. However, compared to those classes, the number of classmates who were in favour of expelling a classmate were considerably larger."
+[mentioned] (p.168) "To avoid any unforeseen circumstances, Sakayanagi, like Horikita, had instructed the four classmates closest to her in advance to make sure that their votes would be split."
+[mentioned] (p.237) "I don't know. Horikita had the power to make change. It wouldn't have been enough time for a serious challenge."
+[mentioned] (p.238) "At that time, Kushida was so disturbed by Horikita's presence that she accepted the choice to stay at this school."
+[mentioned] (p.241) "more specifically, I liked how both Horikita and Ichinose's classes were handled here." — Rhymar's credit.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

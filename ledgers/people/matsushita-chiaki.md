@@ -266,6 +266,11 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [mentioned] (p.206) "Karuizawa, Matsushita, Mori and others laughed" at Shinohara's suitors — named in Kushida's spear.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.54 — Coverage-gate mention record
+[mentioned] (p.54) "she might even be able to beat them" — Haruka discusses Matsushita with Ayanokōji ("No, if you include her physical characteristics, she might even be able to beat them." — the plan queen).
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
