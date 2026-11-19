@@ -702,6 +702,12 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.40–41 — The giant backpack and the water plan
+[scene] (p.40) At the end of the briefing, a loud wail comes from the front of the theater — Class 2-B's Ishizaki is struggling to stand upright with one of the largest-sized backpacks strapped to his back.
+[says] (p.40) “Graaaaaagh!”
+[note] (p.41) A student nearby asks a friend: “Seems like he's trying to carry a whole lot of water in that backpack or somethin'.” — speaker pair untagged in the translation; recorded unassigned. Ayanokōji judges the plan flawed: water is heavy, and overloading a pack mid-trek dooms the carrier.
+
+<!-- walk: y2v3 Ch.1 → p.42 -->
 ### y2v3 p.48–49 — Ishizaki's sprint; the group's pace argument
 [scene] (p.48–49) Points himself at the beach in a full-on sprint shouting about numbah one; his group members Nishino (trailing) and Tsube (watching with a smile) dawdle; he argues Early Bird stakes and group cohesion; finally slows to match their pace.
 [says] (p.48) “Let’s friggin’ goooo! I’ve got my sights set on numbah one, baby!”
@@ -713,15 +719,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:tsube-hitomi] (p.49) Group member; she smoothes things over between them.
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
-
-
-### y2v3 p.40–41 — The giant backpack and the water plan
-[scene] (p.40) At the end of the briefing, a loud wail comes from the front of the theater — Class 2-B's Ishizaki is struggling to stand upright with one of the largest-sized backpacks strapped to his back.
-[says] (p.40) “Graaaaaagh!”
-[note] (p.41) A student nearby asks a friend: “Seems like he's trying to carry a whole lot of water in that backpack or somethin'.” — speaker pair untagged in the translation; recorded unassigned. Ayanokōji judges the plan flawed: water is heavy, and overloading a pack mid-trek dooms the carrier.
-
-<!-- walk: y2v3 Ch.1 → p.42 -->
-
 ### y2v3 p.216 — Ishizaki named at the riverbed
 [mentioned] (p.216) “Ishizaki or Kaneda probably wouldn’t have been able to control Ryūen to such an extent.” — named by Ayanokōji (his assessment); not present; POV Ayanokōji.
 

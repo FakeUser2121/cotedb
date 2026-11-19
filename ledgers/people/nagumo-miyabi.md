@@ -630,6 +630,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.51–52 — Nagumo searched for at 3-B's disembarkation
+[mentioned] (p.51–52) “From the numbers, it seemed like students from Class 3-B had just about finished disembarking, so I took a moment to try and catch a glimpse of Nagumo. However, I couldn’t find him anywhere. … As I continued to look for him, the third-year students who were walking toward me eventually caught up and began to pass by. … I continued to linger around the area for a little bit longer, but ultimately never caught sight of Nagumo.” — named as Ayanokōji's target to spot; not seen; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 ### y2v3 p.128–132 — Nagumo: the sandbar heads-up; the real event starts tomorrow
 [scene] (p.128–130) On the sandbar with his third-year friends, swimming and lounging in rented swimsuits and a beach ball; he beckons Ayanokōji over.
 [says] (p.130) “I’ll say it again just to be sure: Don’t get in my way, got it?”
@@ -651,11 +655,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:asahina-nazuna] (p.131–132) Interrupts her mid-sentence.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
-
-### y2v3 p.51–52 — Nagumo searched for at 3-B's disembarkation
-[mentioned] (p.51–52) “From the numbers, it seemed like students from Class 3-B had just about finished disembarking, so I took a moment to try and catch a glimpse of Nagumo. However, I couldn’t find him anywhere. … As I continued to look for him, the third-year students who were walking toward me eventually caught up and began to pass by. … I continued to linger around the area for a little bit longer, but ultimately never caught sight of Nagumo.” — named as Ayanokōji's target to spot; not seen; POV Ayanokōji.
-
-<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ## y2v4
 <!-- walk: y2v4 → start -->

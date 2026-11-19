@@ -1834,6 +1834,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.65–67 — Sudō's first-place grip at C6
+[scene] (p.65) Takes part in the Grip Strength Measurement Task at site C6 without Ike and Hondō, who are nowhere to be seen (he likely split off to grab a spot); Yuu third-year Oshio goes first; registered participants wait their turn.
+[scene] (p.67) Nobody beats his first-place score; when the results come in, Oshio (knocked to second) goes disgruntled; Sudō's group earns five more points (~8 total).
+[rel:ayanokouji-kiyotaka] (p.65–67) Ayanokōji watches his measure; Hoshinomiya-sensei asks who is responsible for his change — he credits Horikita inside.
+[rel:ike-kanji] (p.65) Group member; absent from the Task site.
+[rel:hondou-ryoutaro] (p.65) Group member; absent from the Task site.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 ### y2v3 p.84–87 — Two wins in the bag; the neck-arm warning
 [scene] (p.84) At the F8 quiz Task site with eleven other groups; he shouts AK over with three spots left.
 [says] (p.84) “Yo! Ayanokōji! There’s only three spots left! Get in before it’s too late!”
@@ -1855,18 +1863,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.87) “You’ve got no sense of danger do you… Well, I get you’re all calm like this cuz you know you’ll get through it, but… If you run into trouble make sure you let me know aight?”
 [says] (p.87) “If she was givin’ you a hard time, I was gonna have her buzz off, but if yer sayin’ it’s fine, then I guess I’ll leave it be.”
 [says] (p.87) “We can talk more afterward. A Task is a Task, just like you said, so let’s do our best.”
-
-
-
 ### y2v3 p.88–90 — Anime quiz: 95%, first place
 [scene] (p.88) The genre lands: 『Quiz Genre・Anime』; Question 1 — the Mobile Samurai Bombdam question; his group digs it; Question 2 — Dashu Sea Chicken.
 [says:hondou-ryoutaro] (p.88) “Forreal!? This is uber-mega-easy!”
 [scene] (p.90) Sudō’s group tops the quiz (95%, ~19/20); he calls it in with a high-five — Ike’s is barely there.
 [says] (p.90) “We freakin’ did it Kanji!”
 [trait] (p.84–90) His anime knowledge quietly carries the team; physical strength and knowledge, not just academics; deadly serious about threats to friends.
-
-
-
 ### y2v3 p.94–99 — The G9 beach plan; the clearing camp
 [scene] (p.94–96) Overhears the H9 camp plan; proposes a meet-up after; sets it for 5:30 on the G9 beach; a chance to scheme for practice.
 [says] (p.95) “Oi Ayanokōji! Didja just say you’re gonna set up camp in H9?”
@@ -1881,9 +1883,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.98) “Welp, let’s get these tents set up pronto and get some grub. I’m starving.”
 [says] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
 [says] (p.98) “Well, I guess it can’t be helped then.”
-
-
-
 ### y2v3 p.100–109 — The tent-fire: Ike's Shinohara confession
 [scene] (p.100–103) Mosquitos; the mesh-tent council; he warns Hondō that Nanase is not to be trusted; she owns her past; the talk pivots to Ike; he pushes Ike to speak.
 [says] (p.100) “Nothin’ really. But lemme warn ya Ryōtarō… Nanase ain’t trustworthy.”
@@ -1910,16 +1909,11 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:hondou-ryoutaro] (p.88–109) Quiz-co-winner; the third voice at the fire.
 [rel:ayanokouji-kiyotaka] (p.84–109) The referral for strategy; the G9 meetup.
 <!-- walk: y2v3 Ch.3 → p.109 -->
-
-
-
 ### y2v3 p.113 — Sudō's I8 ticket
 [scene] (p.113) South-east to northeast trek with Ayanokōji and Nanase; the I8 designation; the I9 Task pull once the area clears.
 [says] (p.113) “We got I8 so if you two are goin’ the same way we can head out together. I’m fired up so let’s get this done!”
 [says] (p.113) “Sure thing. You down, Kanji?”
 [says] (p.114) “There’s no use worryin’ ‘bout that. Ayanokōji’s always got that sorta look on his face.”
-
-
 ### y2v3 p.154–158 — The river camp; the fish negotiation
 [scene] (p.154–158) Meets them at the river; the group's cumulative 4th C; the fish dinner; the class 2-A trio joins; the Kei/Ichinose probe talk.
 [says] (p.154) “Hold up, what was your last designated area today, you two…?”
@@ -1930,8 +1924,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.157–158) Reconnects him with his route.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
-
-
 ### y2v3 p.164–176 — The 5 AM wake; the search; Komiya found
 [scene] (p.164–167) Shaken awake before dawn by Nanase and AK; they get plans; Ike takes rear-guard; he leads the initial shout-outs.
 [says] (p.166) “Don’t worry ‘bout that. Just hurry up and follow along Kanji. Ayanokōji’ll prolly be fine.”
@@ -1945,11 +1937,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.173) “Your fuckin’ leg man…!”
 [says] (p.176) “Y-yeah. But don’t overdo it.”
 [says] (p.176) “You were waiting? What? I don’t understand what you’re sayin’ here!”
-
 ### y2v3 p.177–181 — Ike bolts; the climb; Shinohara's push account
 [scene] (p.177–181) Hearing a sound from the slope, Ike bolts; Sudō shouts after him; AK handles it; his own job — holding the line — is the only one he can do.
 [says] (p.177) “Oi Kanji! Hold on! It’s dangerous!”
-
 ### y2v3 p.188–209 — The return; Sakagami; the standings; the pact
 [scene] (p.188–208) Back at camp; Shinohara found; the four first-years arrive; Sakagami presses; the Bunker plan; Komiya's last words to Ike; they resolve to protect her; the fourth-day standings (their classmates in the bottom ten; Nagumo first).
 [note] (p.198) GPS records read aloud by Chabashira — his silence through the ordeal.
@@ -1963,15 +1953,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.207) “R-right, leave it to me.”
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
-
-### y2v3 p.65–67 — Sudō's first-place grip at C6
-[scene] (p.65) Takes part in the Grip Strength Measurement Task at site C6 without Ike and Hondō, who are nowhere to be seen (he likely split off to grab a spot); Yuu third-year Oshio goes first; registered participants wait their turn.
-[scene] (p.67) Nobody beats his first-place score; when the results come in, Oshio (knocked to second) goes disgruntled; Sudō's group earns five more points (~8 total).
-[rel:ayanokouji-kiyotaka] (p.65–67) Ayanokōji watches his measure; Hoshinomiya-sensei asks who is responsible for his change — he credits Horikita inside.
-[rel:ike-kanji] (p.65) Group member; absent from the Task site.
-[rel:hondou-ryoutaro] (p.65) Group member; absent from the Task site.
-
-<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ## y2v4
 

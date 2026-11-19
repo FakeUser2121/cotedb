@@ -9,18 +9,17 @@ char_id: komiya · class: Class 2-B · status: student (y2v3)
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.105–106 — Komiya named at the fire (legacy row)
+[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; legacy roster row duplicating komiya-kyogo; not present; POV Ayanokōji.
+[mentioned] (p.106) “Plus, well… it seems like she sees him as someone special as well.” — his perceived status with Shinohara; same scene.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
 ### y2v3 p.169–210 — Komiya: the victim and the rival (legacy row)
 [scene] (p.169–176) Legacy roster row duplicating komiya-kyogo; found at the bottom of the slope; left leg destroyed; his statement fixes the timeline of the early-morning push.
 [scene] (p.200) His final word to Ike — “Show me how much of a man you are.” — the rival's handoff of Shinohara.
 [note] (p.169–207) Same entity as komiya-kyogo (duplicate roster rows); recorded here for the gate; see komiya-kyogo.md for the scene rows.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
-
-### y2v3 p.105–106 — Komiya named at the fire (legacy row)
-[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; legacy roster row duplicating komiya-kyogo; not present; POV Ayanokōji.
-[mentioned] (p.106) “Plus, well… it seems like she sees him as someone special as well.” — his perceived status with Shinohara; same scene.
-
-<!-- walk: y2v3 Ch.3 → p.109 -->
 
 ## y2v4.5
 

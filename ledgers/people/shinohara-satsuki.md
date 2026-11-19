@@ -406,6 +406,12 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.103–108 — Shinohara named at the fire: the confession
+[mentioned] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.” — named by Ike at the tent-fire circle; not present; POV Ayanokōji.
+[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” / “Plus, well… it seems like she sees him as someone special as well.” / “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.” — her alliance with Komiya; not present; same scene.
+[mentioned] (p.106–107) “Don’t you think Shinohara-senpai has just been waiting for you to draw the line?” / “From what I’ve been told, you’re someone who’s always bright and cheerful to everyone.” — Nanase's guess about Shinohara's feelings; not present; same scene (a guess, not fact).
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
 ### y2v3 p.179–181 — Shinohara: the hiding witness
 [scene] (p.179–181) Found hiding in a thicket of bushes after the search — emaciated fear in her face; she broke down into Ike's chest; her testimony: somebody pushed them.
 [says] (p.179) “…Ike? Is that you?”
@@ -422,7 +428,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [says] (p.180) “I-I don’t know! I really don’t! …But why, why would they do such a thing!?”
 [says] (p.181) “I think after 8:30 last night… there were, um, first-years… Yeah… we came across a group of first-years camping out together… We passed them back that way.”
 [says] (p.181) “Sorry, I don’t really know most of the first-years yet. All I remember is that there were three girls and one boy.”
-
 ### y2v3 p.193–209 — Sakagami's pressure; the Bunker; the flight
 [scene] (p.193–198) The school officials arrive; her testimony is retold by Ike; under Sakagami's grilling, she crumbles in tears; the “convenient tale” verdict; the GPS record leaves no room; retirement for herself; the Bunker plan laid out; her ultimate flight and refusal of Ike.
 [says:sakagami] (p.193) “Crying isn’t going to get us anywhere, I hope you know that.”
@@ -471,13 +476,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:chabashira-sae] (p.193–205) Her quiet ally.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
-
-### y2v3 p.103–108 — Shinohara named at the fire: the confession
-[mentioned] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.” — named by Ike at the tent-fire circle; not present; POV Ayanokōji.
-[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” / “Plus, well… it seems like she sees him as someone special as well.” / “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.” — her alliance with Komiya; not present; same scene.
-[mentioned] (p.106–107) “Don’t you think Shinohara-senpai has just been waiting for you to draw the line?” / “From what I’ve been told, you’re someone who’s always bright and cheerful to everyone.” — Nanase's guess about Shinohara's feelings; not present; same scene (a guess, not fact).
-
-<!-- walk: y2v3 Ch.3 → p.109 -->
 
 ## y2v4
 

@@ -867,6 +867,11 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.48 — Kōenji strides past the harbor crowd
+[scene] (p.48) A young man gallantly strides past the harbor crowd with a smile, giving off the air of someone who would enjoy these two grueling weeks to the utmost; Ayanokōji and Horikita discuss whether he will take the exam seriously — a coin flip on his bet with her.
+[trait] (p.48) Enigmatic and cheerful — whether he honors the bet to cooperate in the next exam if he fails to take first place is anyone's guess; Horikita's class leadership cuts both ways if he betrays it.
+
+<!-- walk: y2v3 Ch.2 → p.48 -->
 ### y2v3 p.224–244 — Kōenji at the summit; the Open Water Swim
 [scene] (p.224–228) At the C5 summit first, with only a bottle of mineral water and no bags or tablets; pours water over himself; registers for the Tug of War; steamrolls the match.
 [says] (p.224) “It seeeeems that my opponent is you, Ayanokōji-boy.”
@@ -880,12 +885,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.224–244) The Tug of War opponent he reads like an open book.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
-
-### y2v3 p.48 — Kōenji strides past the harbor crowd
-[scene] (p.48) A young man gallantly strides past the harbor crowd with a smile, giving off the air of someone who would enjoy these two grueling weeks to the utmost; Ayanokōji and Horikita discuss whether he will take the exam seriously — a coin flip on his bet with her.
-[trait] (p.48) Enigmatic and cheerful — whether he honors the bet to cooperate in the next exam if he fails to take first place is anyone's guess; Horikita's class leadership cuts both ways if he betrays it.
-
-<!-- walk: y2v3 Ch.2 → p.48 -->
 
 ## y2v4
 

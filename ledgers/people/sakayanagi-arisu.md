@@ -1330,18 +1330,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.357–359 — Short story: "An Enjoyable Moment" — with Ayanokōji at the harbor
-[scene] (p.357) From the beach where she remains "half-retired" (unable to walk freely), observes students and is approached by Ayanokōji; her cheeks soften.
-[narrates] (p.357) "Good day Ayanokouji-kun. It's a rather hot day today, isn't it?"
-[narrates] (p.358) "About as usual, considering it's me."
-[narrates] (p.358) "He was 4th in the morning, but now he's in 2nd place it seems."
-[narrates] (p.359) "Is that okay with you? I'm your enemy you know?"
-[narrates] (p.359) "Fufu, I don't mind."
-[trait] (p.357–359) Enjoys his company — "wishing it could last forever, even for just a moment longer"; uses a transceiver from her main group to receive island-wide info (necessary since she can't move her legs), knows about Nanase, and notes Ayanokōji isn't in the top 10 but could become a terrifying enemy if he joins a group later; finds being close to him all the more enjoyable.
-[rel:ayanokouji-kiyotaka] (p.357–359) Enjoys their rare time alone; he asks how she knew about Nanase.
-[rel:nanase-tsubasa] (p.358) Knows she left his side, freeing a girls' spot for the Task.
-[rel:ichinose-honami] (p.357) Has her doing her best in the exam.
-[rel:shibata-sou] (p.357) Has him doing his best too.
 ### y2v3 p.234–239 — Sakayanagi at the parasol
 [scene] (p.234–239) Seated elegantly under a parasol (Ichinose and Shibata nearby, putting forth their best efforts for her sake); the Early Bird exception explained; his pitch; her counter-offer.
 [says] (p.234) “Good day to you, Ayanokōji-kun. It seems the weather is going to be awfully hot today, don’t you think?”
@@ -1378,6 +1366,18 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.234–239) The counter-questioning/negotiation over the Shinohara rescue; counter-offer accepted in principle, awaiting his call.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
+### y2v3 p.357–359 — Short story: "An Enjoyable Moment" — with Ayanokōji at the harbor
+[scene] (p.357) From the beach where she remains "half-retired" (unable to walk freely), observes students and is approached by Ayanokōji; her cheeks soften.
+[narrates] (p.357) "Good day Ayanokouji-kun. It's a rather hot day today, isn't it?"
+[narrates] (p.358) "About as usual, considering it's me."
+[narrates] (p.358) "He was 4th in the morning, but now he's in 2nd place it seems."
+[narrates] (p.359) "Is that okay with you? I'm your enemy you know?"
+[narrates] (p.359) "Fufu, I don't mind."
+[trait] (p.357–359) Enjoys his company — "wishing it could last forever, even for just a moment longer"; uses a transceiver from her main group to receive island-wide info (necessary since she can't move her legs), knows about Nanase, and notes Ayanokōji isn't in the top 10 but could become a terrifying enemy if he joins a group later; finds being close to him all the more enjoyable.
+[rel:ayanokouji-kiyotaka] (p.357–359) Enjoys their rare time alone; he asks how she knew about Nanase.
+[rel:nanase-tsubasa] (p.358) Knows she left his side, freeing a girls' spot for the Task.
+[rel:ichinose-honami] (p.357) Has her doing her best in the exam.
+[rel:shibata-sou] (p.357) Has him doing his best too.
 
 ## y2v4
 
