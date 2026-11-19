@@ -9,15 +9,10 @@ char_id: fukuyama-shinobu · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.157 — Fukuyama mentioned in passing
-[scene] (p.157) Named in the Task site context.
-[note] (p.157) Passing mention; not a distinct scene presence.
-[mentioned] (p.157) Passing mention only.
+### y2v3 p.157–158 — Fukuyama at the fish grill
+[scene] (p.157–158) Travels with Class 2-A's trio (Karuizawa Kei, Shimazaki Ikkei); at the river camp; academic giftedness; follows the smell of Ike's fish grill.
 
-<!-- walk: y2v3 Ch.4 → p.157 -->
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v6
 

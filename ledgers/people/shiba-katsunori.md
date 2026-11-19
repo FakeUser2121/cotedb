@@ -21,16 +21,28 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 
 
-### y2v3 p.342–345 — Shiba moves to silence Ichinose
-[scene] (p.342) Clamps a hand on Ichinose's shoulder from behind as she tries to get her broken watch fixed, towering over her.
-[says] (p.342) "Why are you here?"
-[says] (p.342) "It doesn't really matter how much you heard."
-[says] (p.342) "We're just going to have to dispose of you. Immediately."
-[says] (p.344) "If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice."
-[says] (p.344) "If you're willing to leave it to me, I'll handle her myself." — pulls out rubber gloves
-[trait] (p.342–345) Intimidating and ruthless — Class 1-D's homeroom teacher, willing to "dispose of" a student who overheard the conspiracy, and eager to exercise authority rather than Tsukishiro's "leniency"; visibly apprehensive when Tsukishiro lets her go, unable to grasp his superior's true intent.
-[rel:ichinose-honami] (p.342–344) Interrogates and threatens her with rubber gloves.
-[rel:tsukishiro] (p.342–345) His superior; restrained by him and confused by his leniency.
+### y2v3 p.336–346 — Shiba at the slope (Epilogue)
+[scene] (p.336–346) Class 1-D homeroom teacher; the co-conspirator; the iron-cold executor; his frustration at being reined in.
+[says] (p.337) “It seems that will be difficult. I’ve found evidence to suggest that the teachers are keeping a keen eye on us. Among them, Mashima seems to be on particularly high alert…”
+[says] (p.337) “Aside from him, there’s one other teacher of note: Chabashira, Class 2D’s homeroom teacher. She’s been searching through all the logs and records.”
+[says] (p.337) “It’s because dragging the teachers into this was one of the few viable options he had left. Be it Chabashira-sensei or Mashima-sensei, there’s no doubt in my mind that their actions link back to Ayanokōji-kun. Since Ayanokōji-kun happened to be at the scene back then, it’s only natural that he managed to figure out the truth.”
+[scene] (p.342–346) The hand on Ichinose's shoulder; his own reluctance to act; his warning to Tsukishiro about not letting her leak.
+[says:ichinose-honami] (p.342) “Ah- Uh- Y-yes, that’s correct…”
+[says] (p.342) “…If I’m not mistaken, you’re Ichinose Honami from Class 2-C, correct?”
+[says] (p.342) “Why are you here?”
+[says] (p.342) “I see. So that’s why there aren’t any GPS signals nearby.”
+[says] (p.342) “It doesn’t really matter how much you heard. Even if it was only a couple of words, for you to get yourself involved in this, well… it simply means you were unlucky.”
+[says] (p.342) “It has nothing to do with the school’s rules or penalties. We’re just going to have to dispose of you. Immediately.”
+[says] (p.342) “Yes, forgive me.”
+[says] (p.344) “Acting Director Tsukishiro, rather than showing such leniency, wouldn’t it be better to exercise your authority here? If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.”
+[says] (p.344) “If you’re willing to leave it to me, I’ll handle her myself.”
+[says] (p.345) “It’s fine. Just leave her be.”
+[says] (p.345) “Are you sure? If she mentions this to Ayanokōji, it’ll interfere with the plan.”
+[trait] (p.336–346) The rubber-gloves executor; unable to shake the image of coming clean-up; loyal but uneasy with the plot.
+[rel:tsukishiro] (p.336–346) His superior; the orchestrator.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

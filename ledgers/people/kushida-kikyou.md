@@ -1921,17 +1921,184 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.46 — Kushida named at Haruka's contract
+[mentioned] (p.46) “I know you have that contract with Kushida-san, so I can’t blame you for” — named (the contract Haruka references); not present; POV Ayanokōji.
 
-### y2v3 p.305–320 — Kushida tails Ayanokōji; her plot exposed by Amasawa
-[scene] (p.305) On day seven, tails Ayanokōji through the storm toward D3 using a hidden walkie-talkie and the GPS Search feature, coordinating with an accomplice to pinpoint his location.
-[says] (p.307) "I received your report over the walkie-talkie this morning. You're going to explain what happened, right?"
-[narrates] (p.307) "[Please hold on for a moment, Kushida-senpai. It seems the two of them]" — Amasawa over the walkie-talkie
-[narrates] (p.307) "Also, don't forget to take a recording with your tablet." — Amasawa
-[says] (p.320) "I… What am I even doing…?"
-[says] (p.320) "First Ayanokōji and now Amasawa… people threatening to disturb my calm, peaceful life kept showing up one after the other."
-[trait] (p.305–320) Secretly plots to get dirt on Ayanokōji (having dropped a tablet near the fight to record him), but Amasawa — the "accomplice" — turns the tables, exposing Kushida's "nasty, vile" true nature and her plan; broken, Kushida collapses in the mud, realizing her mask and schemes are unraveling (the consequence of Yagami having revealed her past to the first-years).
-[rel:amasawa-ichika] (p.307–319) Her walkie-talkie accomplice, who sees through her and taunts her; nearest thing to a defeat of her persona.
-[rel:ayanokouji-kiyotaka] (p.305–320) She tails him to record evidence for expulsion; Ayanokōji has already sensed the watchers.
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
+### y2v3 p.104 — Kushida guessed at the fire
+[mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys’ imagination as the expected guesses for Ike's crush; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
+### y2v3 p.257 — Kushida named in passing
+[mentioned] (p.257) “When I thought back on it, I could recall Kushida saying something” — named (memory hook); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+### y2v3 p.267–274 — Kushida named by the Yagami probe
+[mentioned] (p.271) “S-surely you’re not going to do something to Kushida-senpai!?” — named by Yagami as his kept secret; not present; POV switch to third-person limited (the bonfire scene).
+[mentioned] (p.272) “Yagami-kun, I get that you think Kushida-senpai is like, the key to getting Ayanokōji-senpai expelled, but why is that? How exactly do you plan on making use of her?” — named by Tsubaki as leverage; not present; same scene.
+[mentioned] (p.272) “I can’t say…” — named by Yagami as the break point of his restraint; not present; same scene.
+[mentioned] (p.273) “…I understand. I’ll tell you everything.” — the moment Kushida’s secret enters the record; not present; same scene.
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
+
+### y2v3 p.306–311 — Kushida's walk-up: the camera; Amasawa
+[scene] (p.306–311) 5 AM start; the walkie-talkie with “a certain someone”; GPS Search (1 point per search, from day 6); her orders: get incriminating footage; she is spotted by Amasawa Ichika, who grabs her shoulder and covers her mouth.
+[says:amasawa-ichika] (p.309) “Shh~ I get you’re surprised but you’ve like, gotta be quiet, Kushida-senpai. It’d be waaay bad if Ayanokōji-senpai and Nanase-chan caught onto you, yeah?”
+[says] (p.309) “Uhm… Why are you here, Amasawa-san?”
+[says:amasawa-ichika] (p.309) “I just happened to be passing through when I saw you acting all sneaky-sneaky, Senpai.”
+[says] (p.309) “I wasn’t ‘acting sneaky’. I was just… well, taking a walk on my own, that’s all.”
+[says:amasawa-ichika] (p.310) “Hmmm… That so?”
+[says:amasawa-ichika] (p.310) “You came poking your nose around in the mountains all on your own, so like, what are you really trynna get at, Senpai?”
+[says] (p.310) “W-what do you mean? What are you talking about Amasawa-san!?”
+[says:amasawa-ichika] (p.310) “Oh? I’m real excited to see how long you can keep hiding behind that mask of yours~.”
+[says] (p.311) “S-stop!”
+[says:amasawa-ichika] (p.311) “No way I’m gonna stop now, silly~”
+[says:amasawa-ichika] (p.311) “D-do you even understand what you’re doing!? You can’t do this!”
+[says:amasawa-ichika] (p.311) “I know it may not seem like it, but I’m being pretty gentle with you. It totally shouldn’t hurt that bad.”
+[says:amasawa-ichika] (p.311) “Why though!? None of this makes any sense!”
+[says:amasawa-ichika] (p.311) “So you don’t get it, huh~? Well alrighty then. I wonder if you’ll start connecting the dots if I start smacking you with my fist instead~?”
+[says] (p.312) “W-what!?”
+[says] (p.312) “…wha, ah… Ah!!”
+[says:amasawa-ichika] (p.312) “So, how about I go for your other cheek next?”
+[says:amasawa-ichika] (p.312) “I’ll betcha that one hurt a lil’ didn’t it? Gotta say, you don’t usually get to experience getting beaten up like this, do ya?”
+[says] (p.313) “I wanted to avoid being beaten senseless any more than I already had, no matter the cost.” — not a quote; this is her thought. [note].
+[says:amasawa-ichika] (p.313) “How do I know your secret? From the look on your face, it seems you’re thinking I heard it from Ayanokōji-senpai?”
+[says:amasawa-ichika] (p.313) “But, that would be in~correct. Nothing in this world gets past me. I’m a special existence, after all.”
+[says] (p.313) “Nothing in this world…”
+[says:amasawa-ichika] (p.312) “How about I give you an example? …be willing to support your cause now that Horikita-senpai’s joined the student council.”
+[says] (p.313) “How… How do you even know about tha─!”
+[says:amasawa-ichika] (p.313) “Oh dear oh dear, how indeed~?”
+[says] (p.313) “Who… Who fucking told you!?!?”
+[says:amasawa-ichika] (p.314) “Ooo, you’ve finally shown your true colors! That said, you really need to shush, yeah? I get that the island is real huge so it may seem like there’s no one around right now, but there’s no telling when someone else might show up.”
+[says] (p.314) “Stop it, you shitty bitch!”
+[says:amasawa-ichika] (p.314) “Ahahahaha! Mmm, now this suits you much, much better Kushida-senpai~!”
+[says] (p.314) “What… What the hell are you!?”
+[says:amasawa-ichika] (p.314) “I’m not sure how to respond to a question like that. I’m just… well, I’m just here to save Ayanokōji-senpai.”
+[says:amasawa-ichika] (p.314) “Don’t try and hide it, Kushida-senpai. I can see through your every move. You were planning on finding some dirt on Ayanokōji-senpai with that tablet you dropped over there to try and get him expelled, right?”
+[says] (p.314) “I don’t understand what you mean. Find dirt on him with my tablet? Huh?”
+[says:amasawa-ichika] (p.314) “You’ve been in a class together with him for over a year already, and yet you still don’t understand anything, do ya Senpai? There’s like, no way Ayanokōji-senpai would feel threatened by such a shallow display of thinking.”
+[says:amasawa-ichika] (p.314) “Aaah, I really wanted to sit back and watch from a front-row seat. I’m sure he’ll defeat Nanase-chan without even hurting her. I reeeally wanted to see it~.”
+[says:amasawa-ichika] (p.314) “I don’t know who put you up to this, but you’re really letting yourself get used, huh Kushida-senpai? No matter what things are like over there with Nanase-chan, I’m fairly certain that Ayanokōji-senpai’s already noticed what you’ve been up to. There’s no way he wouldn’t, given like, how much of a silly amateur you are.”
+[says] (p.314) “B-but I’ve put plenty of distance between us…!”
+[says:amasawa-ichika] (p.314) “Eh? Plenty of distance, hmmm? Did I just hear you admit that you’ve been stalking him?”
+[says] (p.315) “W-well… I-I just thought those two being together was kinda weird is all…”
+[says:amasawa-ichika] (p.315) “So you followed them out of curiosity? Headed up this rough mountain trail all on your own?”
+[says] (p.315) “It’s got nothing to do with you.”
+[says:amasawa-ichika] (p.315) “Yes yes, I had a hunch you’d still be uncooperative. But, the thing is, it actually has quite a lot to do with me. After all, Ayanokōji-senpai is a very special person to me.”
+[says] (p.315) “Huh? What the heck…? Do you like him?”
+[says:amasawa-ichika] (p.315) “I’d rather you not come to such a vulgar conclusion~. It’s not that I ‘like’ him romantically or anything, it’s more that I ‘love’ him…? No, I suppose it’s much, much more than that… A feeling that goes far beyond the likes of love.”
+[says:amasawa-ichika] (p.315) “I said what I said. Anyway, I’ve gone outta my way to tell you a lot, so how about you head down the mountain and go back to your group like a good girl. The weather’s gonna turn bad any time now. This’ll prolly be your last chance to turn back.”
+[says] (p.315) “…Don’t fuck with me!”
+[says] (p.315) “I’m going to get dirt on Ayanokōji and get him kicked outta here, no matter what it takes…!”
+[says:amasawa-ichika] (p.316) “Even if you get him expelled, that’s not going to solve anything. You do know that right?”
+[says:amasawa-ichika] (p.316) “I’ll say it again. Ayanokōji-senpai is a very special person to me. I’ll never allow him to get expelled by an outsider like you.”
+[says] (p.316) “You freak! You’re not normal…!”
+[says:amasawa-ichika] (p.316) “How curious~! To think you’d start shaking in fear of a girl younger than you. But, well, I think it’s best you cherish that wonderful feeling, Kushida-senpai~.”
+[says:amasawa-ichika] (p.316) “You think you’re cuter than everyone, smarter than everyone, better than everyone… In short, you’re just hopelessly in love with yourself, aren’t you Kushida-senpai? Your mouth waters at the thought of asserting your dominance, always eager to take hold of other people’s secrets. Nonetheless, you hate the thought of losing that control you crave, forever unable to forgive those that know your secrets. Personally, I don’t mind this messed-up personality of yours.”
+[says] (p.316) “Earlier… What exactly were you trying to say?”
+[says:amasawa-ichika] (p.317) “You know, it’s really quite amazing you made it this far on your own. Sure you’ve got your tablet and someone helping you, but like, that doesn’t change the fact that you walked here with your own two legs. You must’ve had quite a hard time lying to your fellow group members too. After all, breaking away from your group comes with quite a bit of risk, now doesn’t it? You toe the line of expulsion more and more by cutting back on the points you earn─”
+[says:amasawa-ichika] (p.317) “However, cute lil’ Kushida-senpai wouldn’t overlook something so simple, now would she? Even if your actions put your group’s position at risk and you sank to the bottom of the leaderboards, I assume you’ve at least saved up the private points needed to ensure your own survival, yes?”
+[says] (p.317) “I’ll never lose… No matter what, I’ll never give up until the very end…”
+[says:amasawa-ichika] (p.317) “Well then~, just how do you plan on doing that~? Seems to me like you’re putty in my hands right now, Senpai.”
+[says] (p.317) “─So what? Sure you’ve been able to mess with me, but when exactly did I lose?”
+[says:amasawa-ichika] (p.318) “Oh…? This is far more than I imagined. You sure are one nasty bitch, Kushida-senpai, but there’s still one thing I admire about you. Your strength, strength in a mental sense that is, is quite praiseworthy. Rather than fear, it’s more like you’re overflowing with hatred. And it’s not just directed at me, but at anyone who finds out the truth about your past.”
+[says:amasawa-ichika] (p.318) “Don’t bother. You wouldn’t stand a chance against me even if I had my hands tied. Toodles~, Kushida-senpai~”
+[says] (p.318) “G-gah…! Shit!”
+[says:amasawa-ichika] (p.318) “We don’t get along very well, do we Senpai? I know you treat other people’s secrets like weapons to get what you want, but I don’t have any you can use against me. Even if you try to threaten me with violence, I’m stronger than most boys are. I’m also not particularly close with anyone, so taking a hostage won’t work either. If I had to come up with something, I suppose Ayanokōji-senpai could be considered somewhat of a weakness, but… for someone like you, beating him would be just about as difficult as beating me. Are we on the same page?”
+[says:amasawa-ichika] (p.319) “Well, how about you, like, give up now? I’ve still gotta go see Ayanokōji-senpai.”
+[says] (p.319) “…What are you gonna do? Tell him I’ve been stalking him?”
+[says:amasawa-ichika] (p.319) “No no, I already told you there’s no point in doing that, silly. He already knows. But, who knows, maybe things’ll play out exactly how you want them to, Kushida-senpai. Maybe this little spat with Nanase will end up with Ayanokōji-senpai getting kicked out of school. Sounds like your dream come true.”
+[says] (p.319) “…After Ayankōji’s out of here, it’ll be your turn… I’ll crush you for sure.”
+[says:amasawa-ichika] (p.319) “Aww, Kushida-senpai~. That’s cute, but the outcome of our match was decided before it even began. I get that having those who know your secret expelled is your only way of protecting yourself, but that really only works with gentlemen like Ayanokōji-senpai who don’t go around telling everybody the truth. If it were me, I’d do everything in my power to make sure your secret gets out before leaving the school, you do know that right?”
+[says] (p.319) “Hah…! Don’t make me laugh. It’s true a shitty brat like you’d probably go and run their mouth about it, but it’s not like anyone would believe you. Most would probably pass it off as nonsense from someone who’s about to be expelled.”
+[says:amasawa-ichika] (p.319) “Well, sure? I doubt that very many would believe everything I say. However, it’d still manage to put a crack in the superficially flawless persona of ‘Kushida Kikyō’ you’ve created for yourself. Isn’t that more than enough?”
+[says] (p.320) “I… What am I even doing…?”
+
+
+### y2v3 p.321–330 — Yagami's walkie-talkie debrief
+[scene] (p.321–330) The five-day walkie-talkie rendezvous; the plan laid bare (Nanase does the beatdown; Yagami records); Tsubaki's parallel; the Utomiya pawn; the sinking-ship defection.
+[says] (p.322) “I received your report over the walkie-talkie this morning. You’re going to explain what happened, right?”
+[says] (p.322) “Yagami-kun.”
+[says] (p.322) “Thank you very much for coming all the way out here on such short notice.”
+[says] (p.322) “You can drop the formalities. I’m asking you to explain yourself.”
+[says:yagami-takuya] (p.322) “Things have their way of taking a turn for the unexpected from time to time, Kushida-senpai.”
+[says] (p.322) “What do you mean ‘unexpected’? It’s your fault that those first-years found out about my past, right?”
+[says:yagami-takuya] (p.323) “Please allow me to apologize for that.”
+[says] (p.323) “Seriously? Even if you apologize, it’s not like it’s gonna change anything.”
+[says:yagami-takuya] (p.323) “Tsubaki-san and the others had been more informed than I anticipated. It was a surprise for me too.”
+[says] (p.323) “A surprise? How stupid.”
+[says:yagami-takuya] (p.323) “Please calm down Kushida-senpai. Tsubaki-san and the other first-years aren’t what’s important right now.”
+[says] (p.323) “What?”
+[says:yagami-takuya] (p.323) “Their objective is purely to get Ayanokōji-senpai expelled from the school. I don’t think they’re very interested in what your past is like, Kushida-senpai.”
+[says:yagami-takuya] (p.324) “Besides, those four are all first-year students. They basically have nothing to do with a second-year like you, Kushida-senpai.”
+[says] (p.324) “Hah! Don’t make me laugh… You do know we’re in the middle of fighting each other on a freaking island right now, right? When the time comes that I have to go against them, they’ll have something to lord over my head!”
+[says:yagami-takuya] (p.324) “Yes, I suppose that’s true. Looking at it from Senpai’s perspective, that must be awfully important.”
+[says:yagami-takuya] (p.324) “That being said, it would be nigh-impossible to get those four expelled right now. Or am I wrong?”
+[says] (p.324) “Are you looking down on me? You’d best not get too carried away.”
+[says:yagami-takuya] (p.324) “…I’m sorry. However, I still feel as though I made the best choice at the time.”
+[says:yagami-takuya] (p.324) “Do you remember what I told you back on the cruise ship? About how I was devising a strategy to expel Ayanokōji-senpai?”
+[says:yagami-takuya] (p.325) “For your sake, Kushida-senpai, I’ll add on a few things to my strategy.”
+[says] (p.325) “Add on?”
+[says:yagami-takuya] (p.325) “Once Ayanokōji-senpai has been dealt with, I’ll make sure to have those four… unwelcome individuals shown to the exit as well. That should take care of the problem, right?”
+[says:yagami-takuya] (p.324) “For now, let’s think about getting a leg up on the rest of them. …hitch, most of the credit will go to Tsubaki-san and the rest of Class 1-C. You and I won’t get a very large cut of the 20 million.”
+[says] (p.325) “I don’t care about the points.”
+[says:yagami-takuya] (p.325) “I understand, but having a huge sum of points at your disposal makes for a better safety net to fall back on.”
+[says] (p.325) “I’m done with you. It’s already clear enough that I decided to follow the wrong person.”
+[says:yagami-takuya] (p.325) “You can still come back from this.”
+[says] (p.325) “It’s already too late.”
+[says:yagami-takuya] (p.325) “No, it isn’t too late at all. In fact, I’d say that this is your chance.”
+[says:yagami-takuya] (p.325) “Currently, Ayanokōji-senpai has his hands full with Nanase-san clinging onto him.”
+[says] (p.325) “Nanase? Isn’t she that girl from Class 1-D? Don’t tell me she als─”
+[says:yagami-takuya] (p.325) “Please don’t worry. You can rest assured that Nanase-san knows nothing about your past, Senpai.”
+[says] (p.326) “You know I can’t trust anything you say anymore, right?”
+[says:yagami-takuya] (p.326) “I truly apologize for betraying your trust. But, please, at least hear me out.”
+[says:yagami-takuya] (p.326) “I told you previously that she’s working with Hōsen-kun to try and get Ayanokōji-senpai expelled, right? Well, I have a general idea of what their strategy is this time around as well.”
+[says] (p.326) “…So? What is it? Talk.”
+[says:yagami-takuya] (p.326) “Given that Hōsen-kun is the one who came up with it, I’m fairly certain it’ll revolve around violence.”
+[says] (p.326) “Violence? That’d be problematic, but I guess the Acting Director did say the school would be looking past any minor disputes that popped up between students. I can’t imagine that’d be enough to warrant expulsion though.”
+[says:yagami-takuya] (p.326) “If it’s nothing more than a light scuffle, then yeah, that might be true. But what if it’s violent to the point of turning into a gruesome bloodbath? What then?”
+[says] (p.326) “Hōsen certainly seems brutal enough to do something like that, but he’ll be the only one expelled if Ayanokōji one-sidedly gets his ass handed to him, right?”
+[says:yagami-takuya] (p.326) “I don’t think Hōsen-kun will be the one squaring off with Ayanokōji-senpai this time. As you said, Hōsen-kun’s already got a bit of a reputation, so if a fight were to break out, he’d bear the brunt of the school’s suspicion.”
+[says] (p.327) “If you say that, then…”
+[says:yagami-takuya] (p.327) “Yes. The one facing off with Ayanokōji-senpai will instead be Nanase-san. Although, even if she raises her hand against him, I can’t imagine that he’ll strike back right away. However, if she really puts her all into it, he’ll inevitably have to do something to keep her at bay. Perhaps he’ll actually end up hitting her? Or maybe he’ll get on top of her and pin her down? Either way, the spectacle would surely be quite unsightly.”
+[says] (p.327) “So… You’re saying their plan is to have Nanase tell the school that Ayanokōji beat her up…?”
+[says:yagami-takuya] (p.327) “Precisely, and that’s why we need to keep an eye on her. Once she takes action, we’ll strike while the iron is hot.”
+[says] (p.327) “Say you’re right about all of this, it’s not like we can do anything if we don’t know when the fight’ll happen, right? It’s not like we can just hover around them 24-7.”
+[says:yagami-takuya] (p.327) “I’ve already got that covered. A certain somebody told me which day it’ll be taking place.”
+[says] (p.327) “A certain somebody…?”
+[says:yagami-takuya] (p.327) “While I can’t disclose their identity, they’re definitely trustworthy. Anyway, Nanase-san will be making her move on the seventh day of the exam. Though the exact timeframe is still unclear, chances are that once they’ve gotten somewhere remote enough…”
+[says] (p.328) “So, what exactly is your plan here? Your plan to get a leg up on the other first-years?”
+[says:yagami-takuya] (p.328) “Our tablets come with the ability to record videos, right? If we use that to record their fight, it’d be possible for us to get our hands on incriminating video evidence.”
+[says] (p.328) “But, a single video might not be enough to guarantee his expulsion.”
+[says:yagami-takuya] (p.328) “It’d at least be enough to use as a threat. It’s even possible that he might choose to drop out on his own accord.”
+[says:yagami-takuya] (p.328) “I’d like to entrust the job of recording the video to you, Kushida-senpai.”
+[says] (p.328) “Huh? Why does it have to be me…? Can’t you just do it yourself?”
+[says:yagami-takuya] (p.328) “Compared to me, it won’t seem unnatural if you’re the one approaching him.”
+[says] (p.328) “That’s what you think. Ayanokōji’s already super wary of me.”
+[says:yagami-takuya] (p.328) “I’m a guy. At some level, it’d be expected of me to step up and intervene if a fight were to break out in front of me, making it too suspicious if I were to just stand there and take a video. However, you’d have the excuse of just being a delicate, terrified girl who, despite not being brave enough to intervene directly, at least managed to turn on her tablet and record what was happening. You’d be able to represent righteousness, refusing to cower in the face of injustice even though the perpetrator was a fellow classmate.”
+[says] (p.328) “While righteousness is great and all, I might end up being scorned by my peers for selling out one of my own.”
+[says:yagami-takuya] (p.328) “In that case, you can just give the video to me. I’ll just say I got it from an anonymous source and leave it at that.”
+[says] (p.329) “I just don’t want to be on a sinking ship any longer.”
+[says:yagami-takuya] (p.329) “Naturally.”
+[says] (p.329) “… So what’s your role in all of this? Are you just gonna pile this on me and wash your hands of it?”
+[says:yagami-takuya] (p.329) “Of course not. On the day of, I’ll be providing you back up over the walkie-talkie. Once the ‘GPS Search’ feature is made available tomorrow, I’ll be able to relay Ayanokōji-senpai’s location to you at any time. That way, you’ll be able to maintain a safe distance while you tail them. Plus…”
+[says] (p.329) “Plus?”
+[says:yagami-takuya] (p.329) “There’s a chance Tsubaki-san is conspiring something too. She might try and pull something at the same time as us, so I’ll be poking around to try and find out what they’re up to as well.”
+[says] (p.329) “What about that Utomiya guy you’re in a group with?”
+[says:yagami-takuya] (p.329) “He’s nothing more than Tsubaki-san’s pawn. There’s no need to worry about him being up to anything.”
+[says:yagami-takuya] (p.329) “You’ll do it for me, right Kushida-senpai?”
+[says] (p.329) “…It’s not like I’ve got any other choice.”
+[note] (p.306–329) POV switch to Kushida — this records her fear, self-deception, and the 2-million-point safety net; nothing of the White Room is written here.
+[rel:amasawa-ichika] (p.306–329) Her ambush and verdict.
+[rel:yagami-takuya] (p.306–329) Her contact; her assignment; her unwillingness.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
+
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

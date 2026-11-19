@@ -17,6 +17,8 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [says] (p.52) "Please don't be too hard on me, then."
 [trait] (p.50–52) A third-year (Class 3-B) who also chose to tackle the exam alone — keen-eyed (questions why he lingers), calm, even wistful ("enchanting," "insignificant specks of dust"), and seemingly looking forward to the exam; shares his D7 destination and proposes traveling together.
 [rel:ayanokouji-kiyotaka] (p.50–52) Recognizes him; offers help, then travels with him toward D7.
+
+<!-- walk: y2v3 Ch.2 → p.52 -->
 ## y2v2
 
 <!-- walk: y2v2 → start -->

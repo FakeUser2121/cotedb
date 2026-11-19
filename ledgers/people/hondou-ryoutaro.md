@@ -89,23 +89,64 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.84–88 — Hondō at Task site C6
-[scene] (p.84–88) He is present at Task site C6 with Sudō and Ike.
-[trait] (p.84–88) Present but not very engaged.
+### y2v3 p.65 — Hondō named at the Grip Strength Task
+[mentioned] (p.65) “His group members, Ike and Hondō, were nowhere to be seen, suggesting that he had probably split off and rushed here on his own to secure a spot in the Task.” — named as Sudō's group member at the Task site; not present; POV Ayanokōji.
 
-<!-- walk: y2v3 Ch.3 → p.88 -->
+<!-- walk: y2v3 Ch.2 → p.74 -->
+### y2v3 p.85–90 — The lively foil at the quiz
+[scene] (p.85) Keeps trying to draw Ike out as they wait for the quiz; fails; joking alone.
+[scene] (p.88) The genre lands: 『Quiz Genre・Anime』; he knows this stuff cold — the team’s 95% rides on Ike and his minds.
+[says] (p.88) “Forreal!? This is uber-mega-easy!”
+[scene] (p.90) The group tops the quiz; his energy stands out against Ike's flat high-five.
+[says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
+### y2v3 p.91–92 — Hondō named at the walkie-talkie-less comparison
+[mentioned] (p.91) “Off on Sudō’s left is Ike Kanji, and to his right is Hondō Ryōtarō. They’re the type of people who do stupid things and end up standing out in a bad way… or, well, I guess it might be better to say that they’re the type of people who easily get carried away. But, at the same time, they both really add a lot to the class atmosphere.” — named by Ayanokōji to Nanase; not present; POV Ayanokōji.
+[mentioned] (p.92) “This may sound rude, but there simply weren’t many opportunities for students like Ike and Hondō to play an active role back in the classroom.” — named in narration; not present; POV Ayanokōji.
 
-### y2v3 p.84–88 — Hondō at Task site C6
-[scene] (p.84–88) He is at Task site C6 with Sudō and Ike; he seems disinterested.
-[trait] (p.84–88) Present but not very engaged.
+### y2v3 p.97–108 — The tremulous tent-neighbor; Ike's support
+[scene] (p.97) Follows Ike into the clearing; gasping after the replacement-Task day; says nothing about it.
+[scene] (p.98–99) Watches for dinner; eyes the unused fishing rod.
+[says:sudou-ken] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
+[scene] (p.100–108) Mosquito night; the eat/chat circle; the Shinohara reveal; loyalty through the noise.
+[says] (p.100) “So Nanase-chan’s in Class D, huh? I never wouldda guessed.”
+[says] (p.100) “Eh? No way. If anything, we’re the incapable ones here, ain’t that right guys?”
+[says] (p.100) “The atmosphere feels down in the dumps. Kanji, Ken, what’s with you guys?”
+[says] (p.100) “Wha? Why’s that?”
+[says] (p.100) “And what’s that supposed to mean!?”
+[says] (p.101) “Rude? So it’s not cuz he tried to touch you inappropriately or somethin’?”
+[says] (p.101) “Well, it is true that you’ve always been devoted to Horikita. But like, what the hell happened then?”
+[says] (p.101) “Well, alright then I guess… But Kanji’s been pretty out of it this whole time.”
+[says] (p.101) “Sudō took the words right out of my mouth. You’ve been really out of it man.”
+[says] (p.102) “What do you think Ayanokōji?”
+[note] (p.102) “See? All four of us managed to pick up on it.” — speaker untagged in the print; recorded unassigned (Hondō by flow).
+[says] (p.103) “There’s no need for us to hold off, Nanase-chan. In the end it’s probably nothin’ big.”
+[says] (p.103) “Eh? A-ah… Well I guess we can try.”
+[says] (p.104) “What!? Who!? Who is it!?”
+[says] (p.104) “H-hey but like, you’ve gotta dive in head-first with this kinda stuff!”
+[says] (p.104) “I-I guess you’re right.”
+[says] (p.105) “B-but Kanji, like… You’re on bad terms with Shinohara right? You’re always talkin’ about how crazy ugly she is.”
+[says] (p.108) “Eyy, attaboy Kanji!”
+[note] (p.102) “C’mon, if you’re bothered by something just come out with it.” — speaker untagged in the print; recorded unassigned (Sudō or Hondō).
 
-<!-- walk: y2v3 Ch.3 → p.88 -->
+<!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.113 — Hondō at the joint trek
+[scene] (p.113) His group takes the same route to I8; splits off for the I9 Task with Sudō and Ike once they arrive.
+[note] (p.154–157) He rejoins at the riverside camp after dinner prep; not much quoted in this volume segment.
+[mentioned] (p.113) “Sure thing. You down, Kanji?” — Sudō's invite to Ike in the trek conversation.
 
-### y2v3 p.113–114 — Hondō with Sudō's group
-[scene] (p.113–114) He is with Sudō's group; he seems disinterested but participates.
-[trait] (p.113–114) Present but not very engaged.
+<!-- walk: y2v3 Ch.4 → p.163 -->
+### y2v3 p.164–204 — The rear-guard; the ghost jokes
+[scene] (p.164–170) Shaken awake by Nanase; groggy; follows into the forest; the ghost joke; terror mounts as the pair of alerts is realized.
+[says] (p.167) “Gosh, why the heck are we movin’ around so early in the mornin’?”
+[says] (p.167) “Why aren’t they sayin’ anything…? D-do you think this might be the work of a g-ghost?”
+[says] (p.167) “If that’s the case, then they might be in a real bad spot.”
+[says] (p.168) “Peculiar? Well, it certainly sounds eerie. That’s prolly just cuz we’ve been sloggin’ through this dark-ass forest though…”
+[says] (p.168) “Scary… Are you guys… Are you guys sure it’s safe to keep going…?”
+[scene] (p.204) Sudō signs him up for battle plans without asking.
+[says:sudou-ken] (p.204) “Right-oh! If this is how Kanji wants to do it, let’s discuss battle plans, Ryōtarō!”
+[says] (p.204) “G-gotcha!”
 
-<!-- walk: y2v3 Ch.4 → p.114 -->
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ## y2v4.5
 

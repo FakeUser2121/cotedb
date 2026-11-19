@@ -93,13 +93,54 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.169–180 — Kinoshita injured in the emergency
-[scene] (p.169–180) He is found unconscious and injured alongside Komiya; Shinohara reports seeing someone push them.
-[note] (p.169–180) Kinoshita is injured; not a distinct scene presence beyond the emergency.
+### y2v3 p.169–176 — Kinoshita: found unconscious
+[scene] (p.169–176) Found lying unconscious a few meters from Komiya; dirt and scratches all over her jersey; her left leg in terrible shape; both she and Komiya lost consciousness in quick succession.
+[note] (p.170) Her jersey is covered in dirt and scratches; her left leg is a worst-case scenario (possibly broken).
+[note] (p.172) The three-set scenic: Komiya and Kinoshita fell off the slope near each other; both left legs are the critical clue.
+[note] (p.176) Komiya's testimony never mentions seeing Kinoshita's fall — she may not have been the first down the slope.
 
-<!-- walk: y2v3 Ch.5 → p.180 -->
 
 
+### y2v3 p.177–209 — Kinoshita named in passing (Ch.5)
+[mentioned] (p.177) “However, the fact that the same thing had happened to Kinoshita as well” — named; not present; POV Ayanokōji.
+[mentioned] (p.178) “upon a narrow point that Komiya and Kinoshita had apparently fallen from.” — named; not present; POV Ayanokōji.
+[mentioned] (p.179) “appeared to belong to Komiya, Kinoshita, and Shinohara.” — named; not present; POV Ayanokōji.
+[mentioned] (p.179) “I could picture the scene of Komiya and Kinoshita standing here talking” — named; not present; POV Ayanokōji.
+[mentioned] (p.180) “K-Komiya-kun and Kinoshita-san, where are they!?” — named; not present; POV Ayanokōji.
+[mentioned] (p.180) “…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push” — named; not present; POV Ayanokōji.
+[mentioned] (p.181) “But if those first-years had attacked Komiya and Kinoshita as part of” — named; not present; POV Ayanokōji.
+[mentioned] (p.182) “I gently laid Kinoshita-senpai, who I had been holding in my arms, onto” — named; not present; POV Ayanokōji.
+[mentioned] (p.187) “Don’t tell me… They… pushed Komiya-senpai and Kinoshita-senpai…?” — named; not present; POV Ayanokōji.
+[mentioned] (p.189) “and Kinoshita down the slope, but she didn’t know if the perpetrator was a” — named; not present; POV Ayanokōji.
+[mentioned] (p.191) “As for me… If I were to attack Komiya-senpai and Kinoshita-senpai… I” — named; not present; POV Ayanokōji.
+[mentioned] (p.193) “and Kinoshita, who was still lying unconscious beside him.” — named; not present; POV Ayanokōji.
+[mentioned] (p.193) “and Kinoshita to continue the exam.” — named; not present; POV Ayanokōji.
+[mentioned] (p.195) “How could you! Then what’s gonna happen to Komiya and Kinoshita!?” — named; not present; POV Ayanokōji.
+[mentioned] (p.198) “We relied on Komiya and Kinoshita’s GPS signals to get here. Komiya’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.198) “Emergency Alert went off at 4:56:24 AM, whereas Kinoshita’s went off” — named; not present; POV Ayanokōji.
+[mentioned] (p.199) “Komiya and Kinoshita after this, right?” — named; not present; POV Ayanokōji.
+[mentioned] (p.199) “With Komiya and Kinoshita’s retirement all but guaranteed at this point,” — named; not present; POV Ayanokōji.
+[mentioned] (p.202) “What other choice do I have? Komiya-kun and Kinoshita-san aren’t here” — named; not present; POV Ayanokōji.
+[mentioned] (p.207) “The backpacks that Komiya and Kinoshita had left behind were brought” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
+### y2v3 p.211, 217–218, 238 — Kinoshita named in passing (Ch.6)
+[mentioned] (p.211) “Shinohara had been left to fend for herself after Komiya and Kinoshita” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Komiya and Kinoshita retired.” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Komiya and Kinoshita were fellow comrades that he needed to protect.” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Neither Komiya nor Kinoshita could recall whether they were actually” — named; not present; POV Ayanokōji.
+[mentioned] (p.218) “it’ll be meaningless if Komiya and Kinoshita get expelled.” — named; not present; POV Ayanokōji.
+[mentioned] (p.218) “Komiya and Kinoshita still have their uses.” — named by Ryūen; not present; POV Ayanokōji.
+[mentioned] (p.238) “Komiya-kun and Kinoshita-san, right? It seems you’re fairly well” — named by Sakayanagi; not present; POV Ayanokōji.
+[mentioned] (p.238) “and Kinoshita.” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+### y2v3 p.289 — Kinoshita named at the mountain reveal
+[mentioned] (p.289) “So, something similar to what happened to Komiya and Kinoshita. Were” — named by Ayanokōji; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 
 ## y2v4
 

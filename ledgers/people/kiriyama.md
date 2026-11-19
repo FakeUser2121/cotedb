@@ -43,15 +43,11 @@ char_id: kiriyama · class: student council · status: vice president (y2v2)
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.120–130 — Kiriyama at the Beach Flags Task
-[scene] (p.120) At the Beach Flags registration, rushes over to claim the last male slot; competes and wins the boys' bracket decisively.
-[says] (p.121) "Ayanokōji, don't say anything unnecessary."
-[says] (p.125) "She's a tough one." — on Nanase
-[says] (p.130) "I'll say it again just to be sure: Don't get in my way, got it?"
-[trait] (p.120–130) The student council VP (B+ physical) — aggressively secures the last slot, beats his own classmate in a fierce first match and takes first place; repeatedly warns Ayanokōji not to draw attention to Nagumo frolicking nearby; departs with the other third-years.
-[rel:ayanokouji-kiyotaka] (p.121, 130) Warns him twice not to say anything about Nagumo.
-[rel:nagumo-miyabi] (p.130) His president; doesn't want Ayanokōji to see him playing on the beach.
-[rel:nanase-tsubasa] (p.125) candidly calls her "a tough one."
+### y2v3 p.120–128 — Kiriyama at the Beach Flags Task (legacy row)
+[scene] (p.120–121) Legacy roster row duplicating kiriyama-ikuto; present at the registration; fills the last boys' slot; wins the boys' bracket decisively; strata to keep Nagumo's work.
+[note] (p.120–128) Same entity as kiriyama-ikuto (duplicate roster rows); recorded here for the gate; see kiriyama-ikuto.md for the scene.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ## y2v4.5
 
@@ -72,4 +68,3 @@ char_id: kiriyama · class: student council · status: vice president (y2v2)
 [rel:horikita-manabu] (p.47) His name hardens Kiriyama's face — Ayanokōji invokes the old entrustment.
 
 <!-- walk: y2v4.5 ch2 → p.72 -->
-

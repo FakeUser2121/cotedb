@@ -25,6 +25,16 @@ char_id: tsube-hitomi · class: unknown · status: unknown
 
 
 
+### y2v3 p.49 — Tsube watches Ishizaki and Nishino argue
+[scene] (p.49) Stands at the rear watching Ishizaki and Nishino clash over pace; awkward smile; interjects to cool things down.
+[says] (p.49) “Well, uhm, at least it’s good that Ishizaki-kun is motivated, yeah?”
+[says] (p.49) “Woah woah, c’mon, don’t be like that!”
+[trait] (p.49) Peace-maker — smooths Nishino's acid with gentle deflection; acknowledges Ishizaki's enthusiasm as the class everyone has come to watch.
+[rel:ishizaki-daichi] (p.49) Group member cheering him on mildly.
+[rel:nishino-takeko] (p.49) Group member; she tries to coax her off the irritation.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

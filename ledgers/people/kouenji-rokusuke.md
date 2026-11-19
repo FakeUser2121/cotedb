@@ -933,25 +933,43 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.221–237 — Kōenji's dominance: Tug of War and swimming
-[scene] (p.221) Already at the C5 summit when Ayanokōji arrives — traveled light with only a bottle of water, no tablet/bag; pours water over himself, basking in his own "masculine beauty."
-[says] (p.224) "Ah… such a splendidly handsome man I am, these drops of masculine beauty trickling down my magnificent body."
-[says] (p.224) "It seeeeems that my opponent is you, Ayanokōji-boy."
-[says] (p.225) "Fufu, so you're a man who thinks about things from the perspective of efficiency, hmmmm?"
-[says] (p.226) "you believe you have a chance to prevail over me is the fundamental reason you're having these wasteful thoughts."
-[says] (p.226) "Ayanokōji-boy, quit overselling your worth inside that head of yours."
-[says] (p.227) "To win at Tug of War, one needs not these paltry parlor tricks, but raw, unbridled power."
-[trait] (p.221–237) Supreme confidence and physical prowess — sees through Ayanokōji's efficiency-thinking instantly, overpowers his calculated counter-pull with raw strength, wins the Tug of War; later dominates a swimming Task too (takes the last spot at a harbor Task, wins, "powered up all the more since the year before"); undefeated in strength/stamina Tasks across all three years — a strong, hard-to-control force moving alone.
-[rel:ayanokouji-kiyotaka] (p.224–226) His first direct one-on-one opponent; reads him like an open book.
-[rel:nanase-tsubasa] (p.224) His self-talk baffles her.
-[rel:sakayanagi-arisu] (p.237) She notes his "surprisingly motivated" performance.
-
-### y2v3 p.48 — Kōenji's reliability questioned
-[scene] (p.48) Horikita and Ayanokōji discuss whether Kōenji will take the exam seriously; it's a coin flip.
-[says] (p.48) "Who knows… While he's agreed to my bet, there's no telling what he'll do."
-[trait] (p.48) Unpredictable — his participation is uncertain.
+### y2v3 p.48 — Kōenji strides past the harbor crowd
+[scene] (p.48) A young man gallantly strides past the harbor crowd with a smile, giving off the air of someone who would enjoy these two grueling weeks to the utmost; Ayanokōji and Horikita discuss whether he will take the exam seriously — a coin flip on his bet with her.
+[trait] (p.48) Enigmatic and cheerful — whether he honors the bet to cooperate in the next exam if he fails to take first place is anyone's guess; Horikita's class leadership cuts both ways if he betrays it.
 
 <!-- walk: y2v3 Ch.2 → p.48 -->
+### y2v3 p.213, 221 — Kōenji named at the swim entry
+[mentioned] (p.213) “other than Kōenji.” — named; not present; POV Ayanokōji.
+[mentioned] (p.221) “that’s Kōenji Rokusuke.” — named; not present; POV Ayanokōji.
+[mentioned] (p.221) “Kōenji…? The same Kōenji from your class who’s currently in fourth” — named; not present; POV Ayanokōji.
+[mentioned] (p.221) “which I suppose was only to be expected of someone like Kōenji.” — named; not present; POV Ayanokōji.
+
+### y2v3 p.224–244 — Kōenji at the summit; the Open Water Swim
+[scene] (p.224–228) At the C5 summit first, with only a bottle of mineral water and no bags or tablets; pours water over himself; registers for the Tug of War; steamrolls the match.
+[says] (p.224) “It seeeeems that my opponent is you, Ayanokōji-boy.”
+[says] (p.225) “Fufu, so you’re a man who thinks about things from the perspective of efficiency, hmmmm?”
+[says] (p.226) “Ayanokōji-boy, quit overselling your worth inside that head of yours. After all, it’s not every day that you’ll get the chance to compete against my motivated self.”
+[note] (p.226) “Now then, if you’ll each take up your positions, I’ll begin the countdown. You may start pulling when I get to zero.” — the Task staff; speaker unidentified in print; recorded unassigned.
+[says] (p.227) “To win at Tug of War, one needs not these paltry parlor tricks, but raw, unbridled power.”
+[says] (p.228) “So you chose to prioritize efficiency until the bitter end, did you?”
+[scene] (p.233–244) The Open Water Swimming Task; he registers for the last boys' spot; wins by record time; Nagumo's first place is displaced (Kōenji briefly takes the top).
+[trait] (p.224–244) Effortless, solitary dominance — he moves without a tablet, wins every strength/stamina Task, and temporarily takes first place.
+[rel:ayanokouji-kiyotaka] (p.224–244) The Tug of War opponent he reads like an open book.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+
+### y2v3 p.276 — Kōenji named at the day-7 standings
+[mentioned] (p.276) “In the meantime, Kōenji had been steadily pushing forward, and it didn’t” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
+### y2v3 p.358 — Kōenji named in the SS pages
+[mentioned] (p.358) “The last spot was unfortunately taken by Kouenji already.” — named; not present; POV Sakayanagi.
+[mentioned] (p.358) “Kouenji’s performances was just a pain for us however.” — named; not present; POV Sakayanagi.
+[mentioned] (p.358) “Kouenji-kun’s talent is unlimited. Ayanokouji-kun is probably feeling the” — named; not present; POV Sakayanagi.
+
+<!-- walk: y2v3 Afterword → p.368 -->
 
 ## y2v4
 

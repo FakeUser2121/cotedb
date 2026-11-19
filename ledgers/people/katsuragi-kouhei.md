@@ -857,8 +857,26 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.66, 213–218, 276) Passing mentions; not a distinct scene presence.
 [mentioned] (p.66, 213–218, 276) Passing mention only.
 
-<!-- walk: y2v3 Ch.6 → p.276 -->
 
+
+### y2v3 p.213–219 — Katsuragi at the riverbed
+[scene] (p.213–216) A lone fisher with Ryūen in tow; the tenth-place pair (92 points); their day-5 E10 random designation quietly skipped; the Komiya/Kinoshita retirement lands heavy.
+[says] (p.213) “You started off on your own, but it doesn’t seem like you’ve dropped to the bottom ten yet.”
+[says:ayanokouji-kiyotaka] (p.213) “Somehow. But if I took it easy for a day, my rank would probably plummet.”
+[says:ryuuen-kakeru] (p.213) “So you’re strollin’ ‘round the island with a lass on your arm, eh? You get tired of that Karuizawa chick and ditch her?”
+[says] (p.213) “Karuizawa? Why are you bringing her up?”
+[says:ryuuen-kakeru] (p.213) “Kuku, it’s nothin’. Don’t mind it.”
+[says] (p.214) “Hah?”
+[says] (p.216) “We’ve been moving at a rapid pace these past four days as we worked on Tasks and map movement. That being said, our first designated area today turned out to be the random designation down in E10, so we’d have to push ourselves fairly hard if we wanted to arrive within the time limit. I decided that the one or two points we’d get for making it there wouldn’t be worth the effort.”
+[says] (p.216) “Sadly, not much. We’d have to go to the sea if we wanted to catch a lot of fish.”
+[says:ayanokouji-kiyotaka] (p.216) “I take it you’re doing fine on the food front, then?”
+[says] (p.216) “There’s plenty of food to gather from the sea, rivers, and forest. Water is no different too since all you have to do is boil river water.”
+[scene] (p.217–219) The grave news; he realizes the stakes instantly; the plan pitch lands silent; his eyes widen.
+[says] (p.217) “They retired? What happened?”
+[says:nanase-tsubasa] (p.217) “They were seriously injured. It’s unlikely that either of them will be able to walk anytime soon.”
+[says] (p.217) “Was it an accident?”
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

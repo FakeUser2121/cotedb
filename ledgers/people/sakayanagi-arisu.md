@@ -1402,18 +1402,81 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.357–359 — Short story: "An Enjoyable Moment" — with Ayanokōji at the harbor
-[scene] (p.357) From the beach where she remains "half-retired" (unable to walk freely), observes students and is approached by Ayanokōji; her cheeks soften.
-[narrates] (p.357) "Good day Ayanokouji-kun. It's a rather hot day today, isn't it?"
-[narrates] (p.358) "About as usual, considering it's me."
-[narrates] (p.358) "He was 4th in the morning, but now he's in 2nd place it seems."
-[narrates] (p.359) "Is that okay with you? I'm your enemy you know?"
-[narrates] (p.359) "Fufu, I don't mind."
-[trait] (p.357–359) Enjoys his company — "wishing it could last forever, even for just a moment longer"; uses a transceiver from her main group to receive island-wide info (necessary since she can't move her legs), knows about Nanase, and notes Ayanokōji isn't in the top 10 but could become a terrifying enemy if he joins a group later; finds being close to him all the more enjoyable.
-[rel:ayanokouji-kiyotaka] (p.357–359) Enjoys their rare time alone; he asks how she knew about Nanase.
-[rel:nanase-tsubasa] (p.358) Knows she left his side, freeing a girls' spot for the Task.
-[rel:ichinose-honami] (p.357) Has her doing her best in the exam.
-[rel:shibata-sou] (p.357) Has him doing his best too.
+### y2v3 p.145 — Sakayanagi named at the History Test
+[mentioned] (p.145) “Tasks nearby. If he was following Sakayanagi’s instructions, then sooner or” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.219 — Sakayanagi named at the plan pitch
+[mentioned] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a” — named by Ryūen; not present; POV Ayanokōji.
+
+### y2v3 p.234–239 — Sakayanagi at the parasol
+[scene] (p.234–239) Seated elegantly under a parasol (Ichinose and Shibata nearby, putting forth their best efforts for her sake); the Early Bird exception explained; his pitch; her counter-offer.
+[says] (p.234) “Good day to you, Ayanokōji-kun. It seems the weather is going to be awfully hot today, don’t you think?”
+[says:ayanokouji-kiyotaka] (p.234) “How are you doing, Sakayanagi?”
+[says] (p.234) “Reasonably well, I suppose. Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.”
+[says:ayanokouji-kiyotaka] (p.234) “I’ve been curious about whether or not your group is eligible for Early Bird Bonuses.”
+[says] (p.234) “The school has graciously decided to make an exception for my group. After all, it’s not my fault that I’m forced to stay sedentary.”
+[says] (p.234) “I must ask, what brings you to the starting area today?”
+[says:ayanokouji-kiyotaka] (p.234) “There were a few reasons, but the first didn’t play out according to plan.”
+[says] (p.234) “He was in fourth place just this morning, and yet now he’s already in second? As a classmate of yours, he’s quite the prodigy, isn’t he?”
+[says:ayanokouji-kiyotaka] (p.234) “I hold the same opinion.”
+[says] (p.234) “It should be about half an hour until the Task is over and Nanase-san comes back, so you’re welcome to come join me if you’d like. The shade here is wonderfully refreshing, I must say.”
+[says] (p.236) “Fufu, by all means. Don’t be shy.”
+[says:ayanokouji-kiyotaka] (p.236) “How do you know about Nanase?”
+[says] (p.236) “Because I receive regular updates about the various going-ons of the island.”
+[says:ayanokouji-kiyotaka] (p.236) “Are you sure it’s okay for me to join you? I’m an enemy after all.”
+[says] (p.238) “Actually, there’s a favor I’d like to ask of you, Sakayanagi.”
+[says:ayanokouji-kiyotaka] (p.238) “Ayanokōji-kun himself is asking me? Well now isn’t that intriguing? Please, do go on.”
+[says] (p.238) “Five days have passed since the exam started, and yet only two people have retired.”
+[says:ayanokouji-kiyotaka] (p.238) “Komiya-kun and Kinoshita-san, right? It seems you’re fairly well informed yourself.”
+[says] (p.238) “Incidentally, I just happened to be there when they retired.”
+[says] (p.238) “From what I’ve gathered by looking at the rankings, the remaining Shinohara-san still seems to be putting forth the effort to stay afloat… As such, I would reckon that she’s working with someone else now in order to get through the rest of the exam, is that right?”
+[says:ayanokouji-kiyotaka] (p.238) “Correct.”
+[says] (p.238) “Though, given her abilities, it would be considerably difficult for her to navigate the second half of the battle on her own. Ideally, she should look to get absorbed by some other group sooner rather than later… Ah, I see what you’re after.”
+[says] (p.238) “So you want to get me to cooperate? Have you already met with Ryūen-kun?”
+[says:ayanokouji-kiyotaka] (p.238) “He’s on board with my plan. It seems he thinks quite highly of Komiya and Kinoshita.”
+[says] (p.238) “Is that so?”
+[says] (p.239) “It’s only natural that Ryūen-kun would lend a hand given the circumstances, but I don’t see any merit in doing so myself. At some level, I suppose that it would be prudent to prevent second-year Class Points from falling into the hands of the other school years. But to be honest, if there’s no harm done to Class 2-A, I don’t think it warrants any kind of intervention on my part.”
+[says] (p.239) “But, if you’re willing to stomach working with me under the same conditions, I wouldn’t be opposed to helping you out.”
+[says:ayanokouji-kiyotaka] (p.239) “I’d like to agree to your condition, but I lack the necessary manpower right now.”
+[says] (p.239) “I’ll gladly wait for when you’re ready, of course. This strategy of yours will require both time and effort to execute, so if you want to take action, it’d be best to do so sooner rather than later.”
+[says:ayanokouji-kiyotaka] (p.239) “I’ll contact you later.”
+[says] (p.239) “I’ll leave it to you to decide on a messenger then. Whether it be Horikita-san or Ryūen-kun, it’s of no concern to me.”
+[rel:ayanokouji-kiyotaka] (p.234–239) The counter-questioning/negotiation over the Shinohara rescue; counter-offer accepted in principle, awaiting his call.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+
+### y2v3 p.336–346 — Sakayanagi named at the slope
+[mentioned] (p.335) “But despite this impatience, she had successfully managed to form a formidable group at the request of Class A’s leader, Sakayanagi.” — named as the architect of the Class 2-C combo group; not present; POV Ichinose.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.357–359 — Sakayanagi POV SS: “An Enjoyable Moment”
+[scene] (p.357) Day 5 of the special exam; the heat of the beach; her seat at the starting line; her monologue on who time favors (the strong); she watches people enter and leave the harbor; he walks in as usual.
+[says] (p.357) “Oh my?”
+[says:ayanokouji-kiyotaka] (p.357) “Good day Ayanokouji-kun. It’s a rather hot day today, isn’t it?”
+[says:ayanokouji-kiyotaka] (p.357) “How are you?”
+[says] (p.357) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.”
+[says:ayanokouji-kiyotaka] (p.357) “I wanted to ask you something, can you still receive the arrival rewards?”
+[says] (p.358) “I’m glad to say I’m still being recognised for that as it wasn’t my intention to retire after all.”
+[says] (p.358) “By the way, what affairs do you have for coming to the starting spot today, may I ask?”
+[says:ayanokouji-kiyotaka] (p.358) “One of them was a waste of effort in the end.”
+[says:ayanokouji-kiyotaka] (p.358) “The last spot was unfortunately taken by Kouenji already.”
+[says:ayanokouji-kiyotaka] (p.358) “He was 4th in the morning, but now he’s in 2nd place it seems. He really is the Wunderkind of Class 2-D if I may say so.”
+[says] (p.358) “We share the same opinion then.”
+[says] (p.358) “It should take about 30 mins before the task is over and Nanase-san comes back. Please take a seat. It’s rather refreshing here in the shade.”
+[says:ayanokouji-kiyotaka] (p.358) “How did you know about Nanase?”
+[says] (p.358) “I regularly receive information from all over the island.”
+[says] (p.359) “Is that okay with you? I’m your enemy you know?”
+[says] (p.359) “Fufu, I don’t mind.”
+[note] (p.358–359) “The fact that he doesn’t seem to share that sentiment is a pity.” — POV Sakayanagi; his lack of romantic reciprocity noted.
+[mentioned] (p.358) “The fact Nanase-san isn’t by him now means there was an empty spot for the girls’ side.” — named as absent; not present; POV Sakayanagi.
+[rel:sakayanagi-arisu] (p.357–359) The harbor exchange; the amusement she takes in him; her binoculars for spectatorship.
+
+<!-- walk: y2v3 Afterword → p.368 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

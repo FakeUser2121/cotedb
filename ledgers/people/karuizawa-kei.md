@@ -2057,12 +2057,32 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.11–13 — Kei's secret date on the ship
-[scene] (p.11–13) She meets Ayanokōji on the aft deck for a secret date; she worries about being seen and discusses the upcoming briefing.
-[trait] (p.11–13) Nervous but affectionate — she worries about exposure but enjoys the time together.
-[rel:ayanokouji-kiyotaka] (p.11–13) Secret date on the ship.
+### y2v3 p.11–14 — A secret date on the Saint Venus's aft deck
+[scene] (p.11) July 19th, 12:36 PM — the day before the exam; on the aft deck of the Saint Venus (12-story luxury liner, carrying capacity over 700; third-largest Japanese-registered ship; 5th-floor lobby with movie theater, pool, gym, cafes, restaurants, panoramic bath, game corner, clinic/sickbay); she waves Kiyotaka over; they watch the sun-lit sea together.
+[says] (p.11) “Such an amazing view, huh…?”
+[says:ayanokouji-kiyotaka] (p.12) “Didn't you already see it last year?”
+[says] (p.12) “I mean, I saw a bit of it, but like, the view just wasn't as important as hanging out with my friends onboard the ship and all.”
+[says] (p.12) “So anyway like, is it really okay for us to be on a date together out in the open like this…?”
+[says:ayanokouji-kiyotaka] (p.12) “While I can't guarantee that nobody will see us, we should be fine for the time being.”
+[note] (p.12) First-years ate lunch at 11:00 AM ahead of their noon briefing; second- and third-years an hour later; 1:00 PM is the second-years' own briefing; she suspects the hidden agenda may be more than heatstroke safety, but accepts it's likely mixed motives.
+[says:ayanokouji-kiyotaka] (p.12) “That might be part of it, but that's most likely not the only reason.”
+[says] (p.13) “It still kinda doesn't feel real…”
+[says:ayanokouji-kiyotaka] (p.13) “Well, it's not every day that you get the chance to go on a cruise ship like this. It's understandable that things might feel somewhat surreal.”
+[says] (p.13) “Not that… I'm talking ‘bout how it doesn't feel real that I'm goin' out with you. You're so smart, and yet you totally miss the mark about this kinda stuff, huh?”
+[says:ayanokouji-kiyotaka] (p.13) “Well, I wonder. I'd say it does and it doesn't.”
+[says] (p.13) “The heck?”
+[says:ayanokouji-kiyotaka] (p.13) “I just never imagined that the two of us would get to meet up in secret outside like this.”
+[says:ayanokouji-kiyotaka] (p.14) “Depending on what we're told about the special exam in the upcoming briefing session, there might be a few things I'll need you to do for me.”
+[says] (p.14) “Alright. Only if it's something I'm capable of though.”
+[says] (p.14) “Sounds like the first-years are done. We can't go together, so I'll head off first.”
+[note] (p.13–14) They've been together since spring break; several months with no real dates because the relationship is hidden; dates happen in secret; he called her out mainly to rope her into exam tasks, but physically meeting alone was a different, interesting experience for him; she left alone to avoid suspicion.
+[rel:ayanokouji-kiyotaka] (p.11–14) Boyfriend; their rare solo rendezvous is doubled as a briefing; she agrees to help within her capability.
 
-<!-- walk: y2v3 Ch.1 → p.13 -->
+<!-- walk: y2v3 Ch.1 → p.42 -->
+
+
+### y2v3 p.46 — Kei named at the ship conversation
+[mentioned] (p.46) “the money in time. I hadn’t even been able to raise the funds to protect Kei” — named (the unpaid debt); not present; POV Ayanokōji.
 
 ### y2v3 p.48–49 — Kei mentioned at the start
 [scene] (p.48–49) She is mentioned in passing; Nishino and Tsube are seen heading out; Ayanokōji notes Kei's group situation.
@@ -2070,16 +2090,60 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 Ch.2 → p.49 -->
 
-### y2v3 p.11–14 — A secret moment with Kiyotaka on the ship
-[scene] (p.11) Waves Ayanokōji over on theaft deck of the "Saint Venus," making sure nobody's around; they stand together looking at the sparkling sea.
-[says] (p.11) "Such an amazing view, huh…?"
-[says] (p.12) "So anyway like, is it really okay for us to be on a date together out in the open like this…?"
-[says] (p.13) "It still kinda doesn't feel real…"
-[says] (p.13) "Not that… I'm talking 'bout how it doesn't feel real that I'm goin' out with you."
-[says] (p.13) "You're so smart, and yet you totally miss the mark about this kinda stuff, huh?"
-[says] (p.14) "Sounds like the first-years are done. We can't go together, so I'll head off first."
-[trait] (p.11–14) Romantic and nervous — enjoys the "date" but restless about being seen; admits it doesn't feel real that she's dating him; takes the initiative to leave alone first so they aren't seen walking together.
-[rel:ayanokouji-kiyotaka] (p.11–14) His girlfriend; they steal a rare private moment and she goes to the briefing separately.
+### y2v3 p.106 — Kei remembered at the interrogation
+[mentioned] (p.106) “This was something I had experienced firsthand back when I confessed to Kei.” — named; not present; POV Ayanokōji.
+
+### y2v3 p.157–158 — The fish grill; the coincidental matchup
+[scene] (p.157–158) Her trio (Shimazaki Ikkei, Fukuyama Shinobu) wanders toward the fish-grill smell; she freezes on seeing him; her stifled “Ah-!”; the cover story; the fish invitation; his reluctant cooking for five extra people.
+[says] (p.157) “Ah-!”
+[says:sudou-ken] (p.157) “What wrong, Karuizawa-san?”
+[says] (p.157) “Oh, nothing. I was just, like, shocked ‘bout them grilling fish is all.”
+[says] (p.157) “Hey, why don’t we camp here too? I think Ike-kun’d be willing to treat us.”
+[says:ike-kanji] (p.157) “Haah!? Why should I treat you!?”
+[says] (p.157) “C’mon, it’s not like you’ll run outta fish.”
+[says:ike-kanji] (p.157) “There’ll be less for us if you guys eat them! No way!”
+[says:sudou-ken] (p.158) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.”
+[says:ike-kanji] (p.158) “I-it can’t be helped! I guess I’ll just have to prepare for three more people!”
+[says] (p.158) “For real? Sweet! It’s a good thing I tried asking.”
+
+### y2v3 p.159–163 — Under the big tree: 37 points; the Nanase question; the first kiss
+[scene] (p.159–160) He slips away with a forest errand; she follows not long after; they meet at a large tree; her group's tally (37 points); eleven days remain; his White Room check on her (nothing); her tablet of everyone she's interacted with.
+[says] (p.160) “You seem to be doing alright.”
+[says] (p.160) “I’m just relying on the other two, mostly. How about you, Kiyotaka?”
+[says:ayanokouji-kiyotaka] (p.160) “I’m doing well, all things considered.”
+[says] (p.160) “Well, since it’s you we’re talking about, you’ll be fine for sure.”
+[says] (p.160) “Anywho, I just wish this exam would end already… I can’t believe we’ve still got 11 more days of this.”
+[says:ayanokouji-kiyotaka] (p.160) “By the way, has anything happened these past few days?”
+[says] (p.160) “You mean『that person』you told me about, right? Hmm, nope, nothing comes to mind.”
+[says] (p.160) “Just in case, I’ve noted down everybody I’ve come in contact with on my tablet.”
+[scene] (p.161–163) The “first-year girl” question; her discomfort; his pressed lips; the under-a-second kiss; she dazed; she's sent back to the camp.
+[says] (p.161) “By. The. Way.”
+[says:ayanokouji-kiyotaka] (p.161) “Hm?”
+[says] (p.161) “I heard that first-year girl back at the campsite has been traveling around with you, Kiyotaka.”
+[says:ayanokouji-kiyotaka] (p.161) “Word travels fast, it seems.”
+[says] (p.161) “When I asked Ike-kun, he told me immediately though? Wait, that’s not the point here!”
+[says:ayanokouji-kiyotaka] (p.161) “Are you worried? That I’m spending all this time alone with another girl?”
+[says] (p.161) “Wait wait wait, w-what? I’m not, like, worried or a… Of course I’m worried!”
+[says:ayanokouji-kiyotaka] (p.162) “I’m just traveling together with Nanase in order to successfully get through the special exam. That’s it.”
+[says] (p.162) “…Really?”
+[says:ayanokouji-kiyotaka] (p.162) “Yeah. It goes without saying that I have no other intentions with her.”
+[says] (p.162) “I believe you, but, but still like, when I think of you being alone with another girl… I hate it.”
+[says:ayanokouji-kiyotaka] (p.162) “Kei.”
+[says] (p.162) “Wa? Huh? I, J-just now… a k-kiss? …Eh? Eh!?”
+[says:ayanokouji-kiyotaka] (p.162) “Have faith in me and wait for now, okay?”
+[says:ayanokouji-kiyotaka] (p.162) “The others may start to suspect something if we’re gone too long. You should head back.”
+[note] (p.162) His first kiss, under a second; she is sent back alone; she never learns of the Nanase plan.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.207, 213 — Kei named at the river camp and the bedside
+[mentioned] (p.207) “arrived back at our campsite with Shinohara in tow. It seemed that Kei’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.213) “tired of that Karuizawa chick and ditch her?” — named by Ryūen; not present; POV Ayanokōji.
+[mentioned] (p.213) “Karuizawa? Why are you bringing her up?” — named by Katsuragi; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

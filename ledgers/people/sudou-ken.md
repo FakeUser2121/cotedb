@@ -1896,52 +1896,140 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.84–96 — Sudō's group: quiz win, Ike's funk, and the beach meetup
-[scene] (p.84) At the quiz Task registration, spots Ayanokōji and warns him only three spots remain.
-[says] (p.84) "Yo! Ayanokōji! There's only three spots left!"
-[says] (p.85) "I'm doin' aight' on points."
-[says] (p.85) "Took third in one of our designated areas today, and first in two Tasks so far as well."
-[says] (p.85) "Hell, you were gonna join in too!? If that happened you wouldda prolly given me a run for my money, so lucky me eh?"
-[says] (p.86) "we're runnin' outta water faster than expected… Kinda feels like I mighta been runnin' around too much."
-[says] (p.87) "Looks to me like you came here with her, but you know she's an enemy right?"
-[says] (p.87) "That chick is workin' together with Hōsen to get you kicked outta here right?"
-[says] (p.87) "If you run into trouble make sure you let me know aight?"
-[says] (p.90) "We freakin' did it Kanji!"
-[says] (p.95) "how 'bout we all meet up after an' camp together? Should be more fun with friends."
-[trait] (p.84–96) Mature and protective — leads his group to 1st in the anime quiz (95%), worries about Ayanokōji traveling with the enemy Nanase, admits his own group is burning through water and that Ike has been listless before the exam; proposes a friendly beach camp meetup and asks Ayanokōji for strategy advice.
-[rel:ayanokouji-kiyotaka] (p.84–96) Warns him about Nanase; offers to help if he's in trouble; arranges the 5:30 G9 beach meetup.
-[rel:nanase-tsubasa] (p.87) Suspicious of her as Hōsen's ally; would have told her to "buzz off."
-[rel:ike-kanji] (p.86–90) Notes he's been listless and acting strangely before the exam; celebrates the quiz win with him.
-[rel:hondou-ryoutarou] (p.85) His group member, strong at trivia.
+### y2v3 p.40 — Sudō named at the tribunal
+[mentioned] (p.40) “Sudō on the court during last year’s end-of-term exam. He had played an” — named; not present; POV Ayanokōji.
 
-### y2v3 p.48 — Sudō's group situation
-[scene] (p.48) He is mentioned as having a different Table; his group plans are discussed.
-[trait] (p.48) Part of the class's group dynamics.
+<!-- walk: y2v3 Ch.1 → p.42 -->
+### y2v3 p.65–67 — Sudō's first-place grip at C6
+[scene] (p.65) Takes part in the Grip Strength Measurement Task at site C6 without Ike and Hondō, who are nowhere to be seen (he likely split off to grab a spot); Yuu third-year Oshio goes first; registered participants wait their turn.
+[scene] (p.67) Nobody beats his first-place score; when the results come in, Oshio (knocked to second) goes disgruntled; Sudō's group earns five more points (~8 total).
+[rel:ayanokouji-kiyotaka] (p.65–67) Ayanokōji watches his measure; Hoshinomiya-sensei asks who is responsible for his change — he credits Horikita inside.
+[rel:ike-kanji] (p.65) Group member; absent from the Task site.
+[rel:hondou-ryoutaro] (p.65) Group member; absent from the Task site.
 
-<!-- walk: y2v3 Ch.2 → p.48 -->
+<!-- walk: y2v3 Ch.2 → p.74 -->
+### y2v3 p.84–87 — Two wins in the bag; the neck-arm warning
+[scene] (p.84) At the F8 quiz Task site with eleven other groups; he shouts AK over with three spots left.
+[says] (p.84) “Yo! Ayanokōji! There’s only three spots left! Get in before it’s too late!”
+[scene] (p.85–86) Tallies his points (third in one area; first in two Tasks); water burning too fast; worries about Ike — who has been acting strange before the exam and now sits out of it.
+[says] (p.85) “I’m doin’ aight’ on points. Took third in one of our designated areas today, and first in two Tasks so far as well.”
+[says] (p.85) “Hell, you were gonna join in too!? If that happened you wouldda prolly given me a run for my money, so lucky me eh?”
+[says] (p.85) “What about your group? Any problems there?”
+[says] (p.85) “Well, I guess we’re runnin’ outta water faster than expected… Kinda feels like I mighta been runnin’ around too much.”
+[says] (p.86) “But ya know, we can get that stuff back from doin’ Tasks, so I’d say we’re doin’ okay.”
+[says] (p.86) “Though, well, Ike’s been kinda out of it.”
+[says] (p.86) “Dunno… He was acting kinda strange before the exam, but he’s just glossed over it all by sayin’ nothing’s wrong.”
+[says] (p.86) “Oh yeah, speakin’ of which Ayanokōji, you’re on your own right? Will you be alright on the quiz?”
+[scene] (p.86–87) Notices Nanase beside AK; Hōsen-fight recognition (he fought with Hōsen months ago); pulls AK aside with an arm around the neck to warn him about her.
+[says] (p.86) “Hey come to think of it… You’re a first-year, yeah? What’s your name again…?”
+[says:nanase-tsubasa] (p.86) “It’s Nanase, Sudō-senpai.”
+[says] (p.87) “…Ey Ayanokōji, c’mere a sec.”
+[says] (p.87) “Looks to me like you came here with her, but you know she’s an enemy right? The hell are you doing?”
+[says] (p.87) “Wha? Even if you got the same Table what’s the point in doin’ that? That chick is workin’ together with Hōsen to get you kicked outta here right? This shit ain’t safe man.”
+[says] (p.87) “You’ve got no sense of danger do you… Well, I get you’re all calm like this cuz you know you’ll get through it, but… If you run into trouble make sure you let me know aight?”
+[says] (p.87) “If she was givin’ you a hard time, I was gonna have her buzz off, but if yer sayin’ it’s fine, then I guess I’ll leave it be.”
+[says] (p.87) “We can talk more afterward. A Task is a Task, just like you said, so let’s do our best.”
+### y2v3 p.88–90 — Anime quiz: 95%, first place
+[scene] (p.88) The genre lands: 『Quiz Genre・Anime』; Question 1 — the Mobile Samurai Bombdam question; his group digs it; Question 2 — Dashu Sea Chicken.
+[says:hondou-ryoutaro] (p.88) “Forreal!? This is uber-mega-easy!”
+[scene] (p.90) Sudō’s group tops the quiz (95%, ~19/20); he calls it in with a high-five — Ike’s is barely there.
+[says] (p.90) “We freakin’ did it Kanji!”
+[trait] (p.84–90) His anime knowledge quietly carries the team; physical strength and knowledge, not just academics; deadly serious about threats to friends.
+### y2v3 p.94–99 — The G9 beach plan; the clearing camp
+[scene] (p.94–96) Overhears the H9 camp plan; proposes a meet-up after; sets it for 5:30 on the G9 beach; a chance to scheme for practice.
+[says] (p.95) “Oi Ayanokōji! Didja just say you’re gonna set up camp in H9?”
+[says] (p.95) “No, it’s just that our next designated area happens to be H9. Where you goin’ after this?”
+[says] (p.95) “Ugh, yeah, we’re gonna be avoidin’ those for sure.”
+[says] (p.95) “If ya want, how ‘bout we all meet up after an’ camp together? Should be more fun with friends. I’d also like to hear whatcha think ‘bout our strategies so far and see if you’ve got any suggestions.”
+[says] (p.96) “It’ll prolly be hard to find each other in the forest, so how ‘bout we meet up on the beach in G9 instead?”
+[says] (p.96) “Since we’ll all be close by, how ‘bout 5:30?”
+[scene] (p.97–98) Arrives breathless, chewing; the replacement Tasks were a wash (third of three; two others full); leads the group to Ike's clearing; pushes the fishing.
+[says] (p.97) “Ehhh… Not so great. After we split, a buncha new Tasks popped up so we ended up goin’ for three of ‘em. We took third place in one, but the other two had so many people that we couldn’t even register.”
+[says] (p.97) “First things first, let’s find a place to camp. How ‘bout it, Kanji?”
+[says] (p.98) “Welp, let’s get these tents set up pronto and get some grub. I’m starving.”
+[says] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
+[says] (p.98) “Well, I guess it can’t be helped then.”
+### y2v3 p.100–109 — The tent-fire: Ike's Shinohara confession
+[scene] (p.100–103) Mosquitos; the mesh-tent council; he warns Hondō that Nanase is not to be trusted; she owns her past; the talk pivots to Ike; he pushes Ike to speak.
+[says] (p.100) “Nothin’ really. But lemme warn ya Ryōtarō… Nanase ain’t trustworthy.”
+[says] (p.100) “No reason, really. Just stating a fact.”
+[says:hondou-ryoutaro] (p.100) “Wha? Why’s that?”
+[says:hondou-ryoutaro] (p.100) “And what’s that supposed to mean!?”
+[says:nanase-tsubasa] (p.100) “It’s okay Hondō-senpai. I did something rather rude to Sudō-senpai in the past, that’s all.”
+[says] (p.101) “You think I’d do somethin’ like that?”
+[says] (p.101) “It’s not somethin’ you need to know about.”
+[says] (p.101) “‘Same old same old’ my ass. This is a good chance so I’ll just come out and say it: something’s been up with you since before the exam even began.”
+[note] (p.101) “What’re you guys saying? L-look, there’s this whole uninhabited island exam, and like… I mean, I’m just under a lot of stress cuz there’s a chance I might get expelled. That’s all.” — speaker untagged in the print; recorded unassigned (Ike by flow).
+[note] (p.102) “Stress? Yeah right. Weren’t you super pumped back when we first heard about this exam?” — speaker untagged in the print; recorded unassigned.
+[note] (p.102) “C’mon, if you’re bothered by something just come out with it.” — speaker untagged in the print; recorded unassigned.
+[note] (p.102) “It’s prolly not a big deal anyway.” — speaker untagged in the print; recorded unassigned.
+[scene] (p.103–108) Ike opens up around ten minutes in — a girl; the Shinohara reveal; Sudō’s blunt “why don’t you just go confess to her?”; Nanase's steady counsel; Ike apologizes to him and Hondō.
+[says] (p.103) “No. It might be a bit too early to say that Ryōtarō. Let’s try waitin’.”
+[says] (p.105) “I mean, if you like Shinohara, then why don’t you just go confess to her?”
+[says:ike-kanji] (p.105) “It’s just not that simple. Not anymore.”
+[says] (p.108) “Y-you, why are you crying?”
+[says] (p.108) “Ike-senpai, you don’t have the time to be feeling caught up in your troubles, wouldn’t you agree?”
+[says] (p.108) “No, you haven’t… Eh, well, maybe just a lil’ bit.”
+[rel:nanase-tsubasa] (p.84–109) Suspicion, then cooperation; his group's inner circle admits her for one night; her words touch Ike more.
+[rel:ike-kanji] (p.85–109) His best friend; carries him through the funk.
+[rel:hondou-ryoutaro] (p.88–109) Quiz-co-winner; the third voice at the fire.
+[rel:ayanokouji-kiyotaka] (p.84–109) The referral for strategy; the G9 meetup.
+<!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.111 — Sudō named at the interrogation
+[mentioned] (p.111) “There would still be ways to keep an eye on Sudō’s group and stay on top” — named; not present; POV Ayanokōji.
+### y2v3 p.113 — Sudō's I8 ticket
+[scene] (p.113) South-east to northeast trek with Ayanokōji and Nanase; the I8 designation; the I9 Task pull once the area clears.
+[says] (p.113) “We got I8 so if you two are goin’ the same way we can head out together. I’m fired up so let’s get this done!”
+[says] (p.113) “Sure thing. You down, Kanji?”
+[says] (p.114) “There’s no use worryin’ ‘bout that. Ayanokōji’s always got that sorta look on his face.”
+### y2v3 p.154–158 — The river camp; the fish negotiation
+[scene] (p.154–158) Meets them at the river; the group's cumulative 4th C; the fish dinner; the class 2-A trio joins; the Kei/Ichinose probe talk.
+[says] (p.154) “Hold up, what was your last designated area today, you two…?”
+[says] (p.155) “Man, what’re the odds!”
+[says] (p.157) “What wrong, Karuizawa-san?”
+[says] (p.158) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.”
+[rel:ayanokouji-kiyotaka] (p.113–158) The trek/route twin; the beach; the grill.
+[rel:ike-kanji] (p.157–158) Reconnects him with his route.
 
-### y2v3 p.84–88 — Sudō warns Ayanokōji about Nanase
-[scene] (p.84–88) He meets Ayanokōji at Task site C6; they discuss points and water; he warns Ayanokōji that Nanase is an enemy.
-[says] (p.85) "I'm doin' aight' on points. Took third in one of our designated areas"
-[says] (p.87) "…Ey Ayanokōji, c'mere a sec."
-[trait] (p.84–88) Protective and perceptive — he warns Ayanokōji about Nanase.
-[rel:ayanokouji-kiyotaka] (p.84–88) He warns him.
-[rel:nanase-tsubasa] (p.87) He identifies her as an enemy.
+<!-- walk: y2v3 Ch.4 → p.163 -->
+### y2v3 p.164–176 — The 5 AM wake; the search; Komiya found
+[scene] (p.164–167) Shaken awake before dawn by Nanase and AK; they get plans; Ike takes rear-guard; he leads the initial shout-outs.
+[says] (p.166) “Don’t worry ‘bout that. Just hurry up and follow along Kanji. Ayanokōji’ll prolly be fine.”
+[says] (p.167) “If someone’s there, respond to us-!”
+[says] (p.167) “Is that… Komiya!?”
+[says] (p.169) “O-oi! The hell is this? P-pull yourself together man! Komiya!”
+[says] (p.169) “Oi Komiya! What happened to Shinohara!?”
+[says] (p.169) “There’s no use, he’s not waking up at all…”
+[scene] (p.171–176) Komiya revives faintly; the left-leg verdict; his calf; the wait-for-Satsuki testimony; Komiya caves in; Sudō keeps him steady.
+[says] (p.171) “Komiya! Can you hear me Komiya!?”
+[says] (p.173) “Your fuckin’ leg man…!”
+[says] (p.176) “Y-yeah. But don’t overdo it.”
+[says] (p.176) “You were waiting? What? I don’t understand what you’re sayin’ here!”
+### y2v3 p.177–181 — Ike bolts; the climb; Shinohara's push account
+[scene] (p.177–181) Hearing a sound from the slope, Ike bolts; Sudō shouts after him; AK handles it; his own job — holding the line — is the only one he can do.
+[says] (p.177) “Oi Kanji! Hold on! It’s dangerous!”
+### y2v3 p.183 — Sudō named at the search
+[mentioned] (p.183) “Sudō-senpai spoke up, suspicious of my actions. I felt sorry about not” — named; not present; POV Ayanokōji.
+[mentioned] (p.183) “Sudou-senpai! Please take care of them until I’m back!” — named; not present; POV Ayanokōji.
+### y2v3 p.188–209 — The return; Sakagami; the standings; the pact
+[scene] (p.188–208) Back at camp; Shinohara found; the four first-years arrive; Sakagami presses; the Bunker plan; Komiya's last words to Ike; they resolve to protect her; the fourth-day standings (their classmates in the bottom ten; Nagumo first).
+[note] (p.198) GPS records read aloud by Chabashira — his silence through the ordeal.
+[says] (p.200) “That’s gotta be tough…”
+[says] (p.203) “Kanji.”
+[says] (p.204) “Right-oh! If this is how Kanji wants to do it, let’s discuss battle plans, Ryōtarō!”
+[note] (p.205) “But wouldn’t it be better to assume that there won’t be any Tasks that she can win by herself? She’d prolly end up having to pin her hopes on getting lucky or some kinda freak coincidence where there aren’t enough participants or something.” — speaker untagged in the print; recorded unassigned (Sudō by flow).
+[says] (p.205) “Is there really no way for her to get into a group smoothly, Ayanokōji?”
+[says] (p.206) “O-oi, Ayanokōji? What’s this plan of yours?”
+[says] (p.206) “R-really? What is it!?”
+[says] (p.207) “R-right, leave it to me.”
 
-<!-- walk: y2v3 Ch.3 → p.88 -->
+<!-- walk: y2v3 Ch.5 → p.210 -->
+### y2v3 p.211, 228, 257 — Sudō named in passing (Ch.6)
+[mentioned] (p.211) “retired yesterday. Even though Ike and Sudō were doing what they could to” — named; not present; POV Ayanokōji.
+[mentioned] (p.228) “likes of Sudō and Albert, who were themselves exceptionally strong amongst” — named; not present; POV Ayanokōji.
+[mentioned] (p.257) “with boys and girls alike, 90% was clearly an overstatement. Sudō liked” — named; not present; POV Ayanokōji.
 
-### y2v3 p.113–114 — Sudō joins Ayanokōji's group
-[scene] (p.113–114) He meets Ayanokōji and Nanase; they discuss designated areas and travel together.
-[trait] (p.113–114) Friendly and casual — he joins their group willingly.
-
-<!-- walk: y2v3 Ch.4 → p.114 -->
-
-### y2v3 p.164–186 — Sudō helps in the emergency
-[scene] (p.164–186) He helps carry Komiya and Kinoshita; he is worried about Shinohara.
-[trait] (p.164–186) Protective and concerned — he helps the injured.
-[rel:komiya-kyogo] (p.169–176) He helps carry Komiya.
-
-<!-- walk: y2v3 Ch.5 → p.186 -->
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

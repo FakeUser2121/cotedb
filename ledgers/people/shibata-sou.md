@@ -279,13 +279,37 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.234, 331–334 — Shibata mentioned in passing
-[scene] (p.234) Named in the context of the class meeting.
-[scene] (p.331–334) Named in the Epilogue context.
-[note] (p.234, 331–334) Passing mentions; not a distinct scene presence.
-[mentioned] (p.234, 331–334) Passing mention only.
+### y2v3 p.234 — Shibata named by Sakayanagi
+[mentioned] (p.234) “Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.” — named as Sakayanagi's working group; not present; POV Ayanokōji.
 
-<!-- walk: y2v3 Epilogue → p.334 -->
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+
+### y2v3 p.331–334 — Shibata walks Ichinose back
+[scene] (p.331–334) The walk back with Ichinose; her watch broken; he volunteers to stick with her; she insists he return to the front; he consents with the rain warning.
+[says] (p.331) “Ichinose, is it really broken?”
+[says:ichinose-honami] (p.331) “Yeah, seems like it. I think it happened this morning when I fell by the river and hit it on a rock.”
+[note] (p.331) “I guess we should be grateful we’re not on the other side of the island, huh?” — speaker untagged in the print; recorded unassigned.
+[note] (p.331) “Yeah, that’s for sure.” — speaker untagged in the print; recorded unassigned.
+[says] (p.332) “For the time being, it looks like we’ll have no choice but to go back.”
+[says] (p.333) “Well, guess I’ll stick with Ichinose.”
+[says:ichinose-honami] (p.333) “Sorry Shibata-kun, for having to accompany me like this.”
+[says] (p.333) “It’s not like there’s anything you could’ve done about it, so don’t sweat the apology.”
+[says] (p.333) “Yeah, that’s fair I guess.”
+[says] (p.333) “We’re going a lot faster than I expected. Good work.”
+[says:ichinose-honami] (p.333) “Shibata-kun, why don’t you just head for the next designated area from here?”
+[says] (p.333) “No way. Even though it’s close, isn’t it still dangerous for you to head back alone? The forest is like a maze, you know that. And yeah it’s still daytime and all, but it’s really cloudy today, so rain…”
+[says:ichinose-honami] (p.333) “Yeah, I know it’s dangerous, but I should be able to make it back to the port from here without getting lost. If we want to catch up to the top groups, we can’t afford to miss out on even a single point. Besides, if it does start raining, we might not be able to meet back up with the others.”
+[says] (p.334) “…Alright, but please don’t do anything foolish. If it starts raining, don’t try to force it, just wait until it stops, okay?”
+[says:ichinose-honami] (p.334) “Yep, I definitely won’t overdo it. After all, it’d be no laughing matter if I got injured and was made to retire because of it.”
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.357 — Shibata named at the harbor (SS)
+[mentioned] (p.357–358) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.” — named by Sakayanagi; not present; POV Sakayanagi.
+
+<!-- walk: y2v3 Afterword → p.368 -->
+
 
 
 ## y2v4

@@ -15,15 +15,24 @@ char_id: matsuo-eiichirou · role: former butler to Ayanokōji · status: deceas
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.299–302, 347–352 — Matsuo mentioned in passing
-[scene] (p.299–302) Named in the Ryūen meeting context.
-[scene] (p.347–352) Named in the short stories context.
-[note] (p.299–302, 347–352) Passing mentions; not a distinct scene presence.
-[mentioned] (p.299–302, 347–352) Passing mention only.
+### y2v3 p.299–304 — Matsuo Eiichiro named by the White Room agent
+[scene] (p.299–304) Nanase's self-reveal: she names the persona riding her “Matsuo Eiichiro”, the son of a man she claims was killed by Ayanokōji's father.
+[mentioned] (p.299) “Matsuo Eiichiro.” — the full name prints for the first time in this volume; spoken by Nanase.
+[mentioned] (p.301) “‘Matsuo Eiichiro’, a person who exists here in real life, has gone and borrowed your body.”
+[mentioned] (p.301–302) “Y-you’re wrong!『I』…『I’m』Matsuo!” / “If you really are this ‘Matsuo’ person, then there’s no need for you to be so upset by this.” / “As Matsuo, she could simply turn up her nose and laugh at my blatantly misguided reasoning.” / “You want to believe that Matsuo’s personality resides within you…”
+[note] (p.301–302) The full name prints on these pages in context of the borrowed-body fiction; not a claim that the man is literally alive — her projection of him.
 
-<!-- walk: y2v3 Ch.8 → p.352 -->
+<!-- walk: y2v3 Ch.8 → p.304 -->
 
+### y2v3 p.347–353 — Matsuo Eiichiro's story, told whole
+[mentioned] (p.347) “Matsuo’s name, of all things.” — he had told Ayanokōji of the Matsuo family back when he had shown up to take him back to the White Room; recall context.
+[mentioned] (p.347) “Yes. Matsuo Eiichiro.” — confirms the childhood friend's full name.
+[mentioned] (p.348) “the Matsuo family” — the backstory of the butler and his son.
+[mentioned] (p.349) “That, despite all his hard work, Matsuo Eiichiro had ultimately chosen to give up on his own life.”
+[mentioned] (p.351) “Matsuo Eiichiro’s dying will at heart” — her belief-system anchor.
+[mentioned] (p.352) “all the painstaking efforts Matsuo Eiichiro went through to get me into this school would be for nothing.”
 
+<!-- walk: y2v3 Epilogue → p.353 -->
 
 ## y2v8
 

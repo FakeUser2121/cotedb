@@ -123,13 +123,30 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 
 
-### y2v3 p.267–273 — Utomiya enforces Tsubaki's will on Yagami
-[says] (p.272) "Sorry Yagami. I don't have anything against you, but… it can't be helped."
-[says] (p.272) "Either you come clean and tell us what you know, or you retire right here, right now."
-[says] (p.273) "Yer nearing your limit, Yagami-kun."
-[trait] (p.267–273) Acts as Tsubaki's enforcer — restrains Yagami in a Full Nelson then a headlock, apologizing but not relenting, threatening to retire him or extract Kushida's secrets directly; his control of Class 1-C is revealed to be a front for Tsubaki's manipulations.
-[rel:tsubaki-sakurako] (p.272) Carries out her coercion — "using Utomiya as a medium."
-[rel:yagami-takuya] (p.272–273) Physically interrogates him.
+### y2v3 p.267–274 — Utomiya Riku: the pressure hand
+[scene] (p.267–274) Class C representative; the Full Nelson; the headlock; the calm enforcer.
+[says] (p.272) “Sorry Yagami. I don’t have anything against you, but… it can’t be helped.”
+[says] (p.272) “Either you come clean and tell us what you know, or you retire right here, right now. Those are your only options.”
+[says] (p.272) “If you can’t say, then that must mean you really are up to something. Dontcha feel like confessing? Like gettin’ this over with?”
+[note] (p.273) “Yer nearing your limit, Yagami-kun. If you don’t fess up now, I guess we’ll just haveta hear it from Kushida-senpai… directly.” — speaker untagged in the print (Tsubaki or Utomiya); recorded unassigned.
+[note] (p.273) “I’ll ask you one last time. Will you confess or not?” — speaker untagged in the print (Tsubaki or Utomiya); recorded unassigned.
+[trait] (p.267–274) The silent hands of the operation; never raises his voice; measures his grip to be absolute without leaving marks.
+[rel:yagami-takuya] (p.267–274) The interrogee in the vice.
+[rel:tsubaki-sakurako] (p.267–274) His co-conspirator in the bonfire talk.
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
+
+
+### y2v3 p.277 — Utomiya named at the day-7 standings
+[mentioned] (p.277) “The group that’s doing well is Utomiya-kun and Yagami-kun’s,” — named by Nanase; not present; POV Ayanokōji.
+[mentioned] (p.277) “Yagami Takuya from Class 1-B, and Utomiya Riku from Class 1-C.” — named in the narration; not present; POV Ayanokōji.
+
+### y2v3 p.322, 329 — Utomiya named at the walkie-talkie debrief
+[mentioned] (p.322) “Utomiya Riku from Class 1-C, and Hōsen Kazuomi from Class 1-D, had” — named; not present; POV Kushida (walkie-talkie debrief).
+[mentioned] (p.329) “What about that Utomiya guy you’re in a group with?” — named by Kushida; not present; same scene.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

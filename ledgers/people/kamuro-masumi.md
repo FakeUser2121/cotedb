@@ -331,12 +331,26 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.120–126 — Kamuro at the Beach Flags Task
-[scene] (p.120–126) She participates in the Beach Flags Task and arrives late; she is surprised Ayanokōji is there.
-[says] (p.123) "Oh shut it. Don't talk to me… It's hot and I'm all sweaty now, this"
-[trait] (p.120–126) Blunt and competitive.
+### y2v3 p.141, 144–145 — Kamuro named at the History Test
+[mentioned] (p.141) “Apart from Kamuro, who took up the lead, the next three were all first-years from the other group.” — named as the lead for his trio; not present; POV Ayanokōji.
+[mentioned] (p.144) “third-year students with 80 points, and third went to Hashimoto and Kamuro” — named in the results recap; not present; POV Ayanokōji.
+[mentioned] (p.144) “I watched as he shot a look back at Kamuro who was following from” — named; not present; POV Ayanokōji.
+[mentioned] (p.144) “Upon hearing what Hashimoto said, Kamuro let show a look of blatant” — named; not present; POV Ayanokōji.
+[mentioned] (p.145) “With Kamuro in tow, Hashimoto ran off, heading toward one of the other” — named; not present; POV Ayanokōji.
 
-<!-- walk: y2v3 Ch.4 → p.126 -->
+### y2v3 p.142 — Kamuro steams ahead of Ninomiya
+[scene] (p.142) His trio reaches the History Test site together; the lagging Ninomiya misses the lock; Ayanokōji claims the second-to-last spot; she shrugs at the whole thing.
+[says:hashimoto-masayoshi] (p.142) “In any case, good work getting here, Masumi-chan.”
+[says] (p.142) “Oh shut it. Don’t talk to me… It’s hot and I’m all sweaty now, this sucks…!”
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.332 — Kamuro at the regroup
+[mentioned] (p.332) “Well, since it’s busted I guess there’s no helping it, right Masumi-chan?” — speaker untagged in the print (Hashimoto or Kamuro); recorded unassigned.
+[mentioned] (p.332) “If you head out now, you might make it back in time for the third area.” — speaker untagged in the print (Hashimoto or Kamuro); recorded unassigned.
+[mentioned] (p.332) “…As Hashimoto and Kamuro chimed in, Ninomiya, a fellow classmate, also nodded along in agreement.” — named as contributing; not present; POV Ichinose.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4.5
 

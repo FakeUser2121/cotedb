@@ -209,34 +209,53 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 <!-- walk: y2v3 → start -->
 
 
-### y2v3 p.268–273 — Yagami's plot exposed; forced confession
-[scene] (p.268) At the first-year reps meeting, presses Tsubaki to reveal her plan, having deduced she's the true mastermind.
-[says] (p.268) "While Hōsen-kun still isn't here yet, just a little should be fine, right?"
-[says] (p.269) "You've been scheming something big, have you not?"
-[says] (p.269) "Utomiya-kun's control of Class C is just a front. You're the one pulling the strings from the shadows, aren't you?"
-[says] (p.270) "That may be true for others, but not for me."
-[says] (p.272) "I think of each and every first-year student as I would my own classmate!"
-[says] (p.273) "…I understand. I'll tell you everything."
-[trait] (p.268–273) Shrewd and principled — correctly deduces Tsubaki's hidden role, refuses the 20-million bounty on moral grounds, tries to protect Kushida and his secret, but is overpowered by Utomiya and forced to confess everything about Kushida's past and Ayanokōji's knowledge.
-[rel:tsubaki-sakurako] (p.268–272) Deduces she's the mastermind; she sees through him and threatens Kushida.
-[rel:kushida-kikyou] (p.271–272) The "key" to his plot — his connection and hidden secret with her; he panics at the threat to her.
-[rel:utomiya-riku] (p.272–273) Physically coerces him into confessing.
+### y2v3 p.267–274 — Yagami: the interrogee
+[scene] (p.267–274) Class B representative; the trap set by Tsubaki at the bonfire; his composed smile straining to a mask; the Full Nelson; the Kushida lever; the confession.
+[says] (p.268) “It’s certainly more convenient for all of us if everyone is present before we start, but…”
+[says] (p.268) “While Hōsen-kun still isn’t here yet, just a little should be fine, right?”
+[says] (p.268) “I was thinking that it’d be fine if you told us about this plan of yours in detail.”
+[says] (p.269) “You’ve been scheming something big, have you not? Otherwise you wouldn’t have proposed for all the representatives to meet together like this when the latter half of the exam is about to start. There’s no way you merely want us to report on our progress, right?”
+[says] (p.269) “Furthermore?”
+[says] (p.269) “While on the surface it doesn’t seem like your class has been doing anything to get Ayanokōji-senpai expelled, I suspect that you’ve actually been doing quite a bit of work behind the scenes. Utomiya-kun’s control of Class C is just a front. You’re the one pulling the strings from the shadows, aren’t you?”
+[says] (p.269) “From the very beginning, I’ve consistently advocated that the first-year student body should look to cooperate with one another. Even if you didn’t have a profound reason behind gathering us here today, Tsubaki-san, I felt like it would still be worthwhile just to make sure we all have a solid grasp of the current state of affairs.”
+[says] (p.270) “Something interesting? How immensely curious.”
+[says] (p.270) “…It must be something truly fascinating, then.”
+[says] (p.270) “Yes. At first glance, one might be led to believe that Hōsen-kun and Amasawa-san were the only ones to take part in it during the last exam, but I think that you two were also targeting him.”
+[says] (p.270) “That may be true for others, but not for me.”
+[says] (p.270) “And what makes you think that? I haven’t done a single thing thus far.”
+[says] (p.271) “Kinda cruddy?”
+[says] (p.271) “I see. So you’re saying that Hōsen-kun’s already looking to make his next move?”
+[says] (p.271) “I already told you I don’t have…”
+[says] (p.271) “Pay dearly…?”
+[says] (p.271) “S-surely you’re not going to do something to Kushida-senpai!?”
+[says] (p.272) “N-no, it’s nothing… I apologize, but there’s nothing more I can tell y─!?”
+[says] (p.272) “What, what are you doing Utomiya-kun…?”
+[says] (p.272) “I-I think of each and every first-year student as I would my own classmate! Why don’t we just calm down and stop with this!?”
+[says] (p.272) “I can’t say…”
+[says] (p.273) “I─ Kushida-senpai is just…”
+[says] (p.273) “…I understand. I’ll tell you everything.”
+[rel:tsubaki-sakurako] (p.267–274) The mind that cracks him.
+[rel:utomiya-riku] (p.267–274) The hand that squeezes.
+[rel:kushida-kikyou] (p.267–274) The kept secret levered open.
+[rel:housen-kazuomi] (p.267–274) The absent exec he stakes on finally showing up.
 
-### y2v3 p.321–330 — Yagami confronts Kushida; his plan unravels
-[scene] (p.321–322) On day five, Kushida (via walkie-talkie) arranges to meet Yagami, the de-facto leader of Class 1-B, to demand an explanation for the first-years learning her past.
-[says:kushida-kikyou] (p.322) "I received your report over the walkie-talkie this morning. You're going to explain what happened, right?"
-[says] (p.322) "Yagami-kun."
-[says] (p.322) "Thank you very much for coming all the way out here on such short notice." — Yagami
-[says] (p.322) "Things have their way of taking a turn for the unexpected from time to time, Kushida-senpai."
-[says] (p.323) "Please allow me to apologize for that."
-[says] (p.324) "Yes, I suppose that's true. Looking at it from Senpai's perspective, that must be awfully important."
-[says] (p.324) "For your sake, Kushida-senpai, I'll add on a few things to my strategy."
-[says] (p.325) "You can still come back from this."
-[says] (p.326) "On the fifth day of my time on the uninhabited island, I encountered a lone first-year student." — narration
-[trait] (p.321–330) Calm and evasive — apologizes for the first-years (Takahashi, Tsubaki, Utomiya, Hōsen) learning Kushida's secret, claims it wasn't his fault, and tries to keep her aligned by promising to also expel those four once Ayanokōji is gone; reveals he knows Hōsen/Nanase's violent plan and that Nanase will be the one to fight Ayanokōji — maneuvering Kushida into a "chance" to act.
-[rel:kushida-kikyou] (p.321–326) His accomplice; she angrily confronts him for exposing her past and realizes she followed the wrong person.
-[rel:tsubaki-sakurako] (p.322–324) Names her among the first-years who pressured him into confessing.
-[rel:ayanokouji-kiyotaka] (p.325–326) His expulsion target; knows Nanase will fight him.
+<!-- walk: y2v3 Ch.7 → p.274 -->
+
+
+### y2v3 p.277 — Yagami named at the day-7 standings
+[mentioned] (p.277) “The group consisted of three boys: Takahashi Osamu from Class 1-A,” — named in the narration; not present; POV Ayanokōji.
+[mentioned] (p.277) “Yagami Takuya from Class 1-B, and Utomiya Riku from Class 1-C.” — named in the narration; not present; POV Ayanokōji.
+
+
+### y2v3 p.306–330 — Yagami on the wire (POV switch to Kushida)
+[mentioned] (p.322) “…you can rest assured that Nanase-san knows nothing about your past, Senpai.” — named by Yagami; not present; same scene.
+[mentioned] (p.325) “Do you remember what I told you back on the cruise ship? About how I was devising a strategy to expel Ayanokōji-senpai?” — named by Yagami; not present; same scene.
+[mentioned] (p.327) “Nanase-san will be making her move on the seventh day of the exam. Though the exact timeframe is still unclear, chances are that once they’ve gotten somewhere remote enough…” — named by Yagami; not present; same scene.
+[mentioned] (p.328) “I’d like to entrust the job of recording the video to you, Kushida-senpai.” — named by Yagami as her assignment; not present; same scene.
+[mentioned] (p.328) “Our tablets come with the ability to record videos, right? If we use that to record their fight, it’d be possible for us to get our hands on incriminating video evidence.” — named by Yagami; not present; same scene.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

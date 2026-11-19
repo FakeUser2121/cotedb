@@ -75,13 +75,16 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.48–49 — Nishino at the start of the island exam
-[scene] (p.48–49) She is seen heading out with Tsube; Ishizaki tries to motivate her.
-[trait] (p.48–49) Isolated and reluctant — she doesn't want to push herself.
+### y2v3 p.49 — Nishino trails Ishizaki and Tsube
+[scene] (p.49) Ishizaki sprints ahead; she trails behind refusing to rush; Tsube watches the two of them.
+[says] (p.49) “It’s super hot so don’t go askin’ for the impossible! I mean, like, we can’t even catch up to the first-years anymore. Sheesh.”
+[says] (p.49) “You seriously wanna go after ‘em? Forget that. It’s like, such a total waste of energy.”
+[says] (p.49) “How ‘bout you just go ahead without us then?”
+[trait] (p.49) Sluggish and blunt — matches the mid-trek pace, not Ishizaki's sprint; deflects his dares with heat excuses; she holds out on the split and accepts the rejoin.
+[rel:ishizaki-daichi] (p.49) Group member pressing her to run; she refuses.
+[rel:tsube-hitomi] (p.49) Group member smoothing over Ishizaki's sprint vs her trudge.
 
-<!-- walk: y2v3 Ch.2 → p.49 -->
-
-
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ## y2v4
 

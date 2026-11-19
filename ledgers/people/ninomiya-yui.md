@@ -44,15 +44,17 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.142, 332 — Ninomiya mentioned in passing
-[scene] (p.142) Named in the Beach Flags Task context.
-[scene] (p.332) Named in the Epilogue context.
-[note] (p.142, 332) Passing mentions; not a distinct scene presence.
-[mentioned] (p.142, 332) Passing mention only.
+### y2v3 p.142 — Ninomiya misses the registration
+[scene] (p.142) One step behind her own group; she rolls in just after the last spot fills; apologizes in gasps; the Academic A- ability she carries doesn't unlock an occupied slot.
+[says] (p.142) “S-sorry, I, I co- I couldn’t make it in time…!”
+[note] (p.142) Physical Ability rating printed as D- (in-scene note).
 
-<!-- walk: y2v3 Epilogue → p.332 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
+### y2v3 p.332 — Ninomiya at the regroup
+[mentioned] (p.332) “As Hashimoto and Kamuro chimed in, Ninomiya, a fellow classmate, also nodded along in agreement.” — named as contributing; not present; POV Ichinose.
 
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4.5
 

@@ -808,13 +808,47 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.141–145, 332, 334 — Hashimoto mentioned in passing
-[scene] (p.141–145) Named in the Beach Flags Task context.
-[scene] (p.332, 334) Named in the Epilogue context.
-[note] (p.141–145, 332, 334) Passing mentions; not a distinct scene presence.
-[mentioned] (p.141–145, 332, 334) Passing mention only.
+### y2v3 p.141–145 — The History Test; the Chemistry standoff; the probe
+[scene] (p.141) Races through the trees with his trio (Kamuro, and two first-years); the lagging third member; calls out to the staff; registers just in time as the eighth group; his A-Academic skills hold.
+[says] (p.141) “Can we still register!?”
+[says:ayanokouji-kiyotaka] (p.141) “Could I register for the Task?”
+[scene] (p.142–143) The laggard Ninomiya rolls in too late; he and Kamuro opt to cut her loose for the last spot; the A-rank Academic Ability is no match for the registration lock; his irreverent check on Ayanokōji.
+[says] (p.142) “We’re the only ones participating, just me and her.”
+[says:ninomiya-yui] (p.142) “S-sorry, I, I co- I couldn’t make it in time…!”
+[says] (p.142) “In any case, good work getting here, Masumi-chan.”
+[says:kamuro-masumi] (p.142) “Oh shut it. Don’t talk to me… It’s hot and I’m all sweaty now, this sucks…!”
+[scene] (p.142–145) The History Test — four-option; 20 questions; Ayanokōji answers all correctly; he clocks Hashimoto's probing looks; Kamuro clocks his cunning exit.
+[says] (p.142) “Come to think of it, this is the first time we’ve run into you this exam, Ayanokōji. So you’re in the area too, eh…? To think you’re going at it alone too, brave stuff there. You doing alright on points?”
+[says:ayanokouji-kiyotaka] (p.142) “In all honesty, I wouldn’t be shocked if I placed in the bottom ten.”
+[says] (p.143) “Stop pulling my leg. There’s no way a guy who doesn’t think he’s gonna win would choose to take on the exam alone.”
+[says] (p.143) “I hear what you’re saying, but when you end up showing up in the top ten tomorrow… what then?”
+[says] (p.143) “Well whatever, I’m just glad this isn’t a math test. We wouldn’t stand a chance against a genius like you.”
+[says] (p.144) “You really kicked my ass back there. To think you were good at history as well.”
+[says:ayanokouji-kiyotaka] (p.144) “I was surprised too. I got lucky on several questions since they were multiple choice.”
+[says] (p.144) “So it was just pure luck, huh? I find that hard to believe.”
+[says:ayanokouji-kiyotaka] (p.144) “Well, if you don’t believe me then there’s nothing I can do about that. I’m in a hurry right now, sorry.”
+[says] (p.144) “Which Task are you going for next?”
+[says:ayanokouji-kiyotaka] (p.144) “I was planning on going for the chemistry Task. What about you?”
+[says] (p.144) “What a shame. We’ll be going in different directions.”
+[scene] (p.145) Results announced: Ayanokōji 100; second 80 (a third-year group); third 70 — him and Kamuro; he walks away with the chemistry guess; Ayanokōji's split routine draws nothing from him.
+[says] (p.145) “See you later, Ayanokōji.”
+[note] (p.145) Sakayanagi's instructions likely take him toward Ichinose's group at some point (narration).
 
-<!-- walk: y2v3 Ch.4 → p.334 -->
+<!-- walk: y2v3 Ch.4 → p.163 -->
+
+
+
+
+### y2v3 p.332 — Hashimoto at the regroup
+[mentioned] (p.332) “As Hashimoto and Kamuro chimed in, Ninomiya, a fellow classmate, also nodded along in agreement.” — named as party to the regroup decision; not present; POV Ichinose.
+[mentioned] (p.332) “Two days earlier, on the fifth day of the exam, Ichinose’s group had taken first place in a Task that allowed groups to increase their maximum size, successfully earning the right to take on three more people. And on the sixth day, they used the GPS Searching feature to merge with Hashimoto’s group, only for trouble to strike the very next morning.” — narration recalling the merge; not dialogue; not present; POV Ichinose.
+[mentioned] (p.332) “Well, since it’s busted I guess there’s no helping it, right Masumi-chan?” — speaker untagged in the print (Hashimoto or Kamuro); recorded unassigned.
+[mentioned] (p.332) “If you head out now, you might make it back in time for the third area.” — speaker untagged in the print (Hashimoto or Kamuro); recorded unassigned.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.334 — Hashimoto at the epilogue split
+[mentioned] (p.334) “After promising to be careful, Ichinose waved her hand, urging Shibata to meet back up with Hashimoto and the others.” — named as the rendezvous party; not present; POV Ichinose.
 
 ## y2v4.5
 

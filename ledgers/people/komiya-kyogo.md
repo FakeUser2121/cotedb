@@ -168,6 +168,79 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 
+### y2v3 p.86, 90 — Komiya named at the fire build-up
+[mentioned] (p.86) “time together with his rival, Komiya.” — named; not present; POV Ayanokōji.
+[mentioned] (p.90) “Komiya had begun dating or had otherwise gotten close to each other during” — named; not present; POV Ayanokōji.
+### y2v3 p.105–106 — Komiya named at the fire: the Shinohara rival
+[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; not present; POV Ayanokōji (via Ike's confession at the tent-fire).
+[mentioned] (p.106) “Plus, well… it seems like she sees him as someone special as well.” — his perceived status with Shinohara; not present; same scene.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.169–176 — Komiya: the found victim
+[scene] (p.169–176) Collapsed at the bottom of the slope with Kinoshita; left leg wrecked; he recounts being struck in the calf; then the rolling descent; the wait for Satsuki; the last loyalty: entrusts Shinohara to Ike.
+[note] (p.174) Komiya (2-B) is recovering consciousness with memory intact up to the impact.
+[says:sudou-ken] (p.171) “Komiya! Can you hear me Komiya!?”
+[says] (p.171) “Ugh… guh…!”
+[says] (p.173) “M-my leg… it hurts…!”
+[says] (p.174) “I-I don’t know… it just happened out of nowhere. I suddenly felt something strike my calf and the next thing I knew I was rolling down the slope… Agh…!”
+[says] (p.175) “M-maybe? I don’t really remember very well… Sorry.”
+[says] (p.175) “Eh…? N-no, I have no idea. Why is Kinoshita here…? If I remember correctly, when it happened we…”
+[says] (p.175) “That’s right…! Satsuki, where’s Satsuki!? Did she fall too!?”
+[says] (p.176) “Satsuki was─ Agh…!!”
+[says] (p.176) “N-no, I’m worried about Satsuki… Sorry Sudō, but can you help me sit up…?”
+[says] (p.176) “…I don’t know… We… We were trying to move quickly…”
+[says] (p.176) “Then, we were waiting… for Satsuki to come back…”
+[says] (p.176) “Let me start from the beginning. We were in a hurry because we missed the last two designated areas yesterday. After talking it out last night, we ultimately decided to try and close the distance early this morning… It was still fairly dark when we set out, so we were keeping tabs on each other as we traveled, but… at some point, Satsuki said she needed to go to the restroom, so she split off for a bit while Kinoshita and I waited for her to finish. Of course, we were using our flashlights to keep track of each other…”
+[says] (p.176) “I remember it hurt like hell… But the pain didn’t last long ‘cause the next thing I knew I was rolling down the slope… And then, when I came to, Sudō and the rest of you guys were here.”
+### y2v3 p.177–209 — Komiya named in passing (Ch.5)
+[mentioned] (p.177) “If Komiya had been the only one involved in this incident, then it would” — named; not present; POV Ayanokōji.
+[mentioned] (p.177) “Did she suddenly freak out upon seeing Komiya start to collapse and end” — named; not present; POV Ayanokōji.
+[mentioned] (p.178) “upon a narrow point that Komiya and Kinoshita had apparently fallen from.” — named; not present; POV Ayanokōji.
+[mentioned] (p.179) “appeared to belong to Komiya, Kinoshita, and Shinohara.” — named; not present; POV Ayanokōji.
+[mentioned] (p.179) “I could picture the scene of Komiya and Kinoshita standing here talking” — named; not present; POV Ayanokōji.
+[mentioned] (p.180) “K-Komiya-kun and Kinoshita-san, where are they!?” — named; not present; POV Ayanokōji.
+[mentioned] (p.180) “…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push” — named; not present; POV Ayanokōji.
+[mentioned] (p.181) “But if those first-years had attacked Komiya and Kinoshita as part of” — named; not present; POV Ayanokōji.
+[mentioned] (p.182) “the ground beside Komiya-senpai.” — named; not present; POV Ayanokōji.
+[mentioned] (p.187) “Don’t tell me… They… pushed Komiya-senpai and Kinoshita-senpai…?” — named; not present; POV Ayanokōji.
+[mentioned] (p.189) “In particular, I told her that Shinohara had seen someone push Komiya” — named; not present; POV Ayanokōji.
+[mentioned] (p.190) “grievous injury, isn’t it strange that Komiya-senpai didn’t notice anybody?” — named; not present; POV Ayanokōji.
+[mentioned] (p.190) “Komiya definitely would’ve said something if he remembered seeing” — named; not present; POV Ayanokōji.
+[mentioned] (p.191) “In his earlier testimony, Komiya said that it all started when something” — named; not present; POV Ayanokōji.
+[mentioned] (p.191) “As for me… If I were to attack Komiya-senpai and Kinoshita-senpai… I” — named; not present; POV Ayanokōji.
+[mentioned] (p.193) “Sakagami-sensei spoke as he approached Komiya, who was sitting up,” — named; not present; POV Ayanokōji.
+[mentioned] (p.193) “From a cursory observation, it seems like it’ll be difficult for Komiya” — named; not present; POV Ayanokōji.
+[mentioned] (p.193) “Her expression was heavy, which was to be expected given that Komiya’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.195) “How could you! Then what’s gonna happen to Komiya and Kinoshita!?” — named; not present; POV Ayanokōji.
+[mentioned] (p.198) “We relied on Komiya and Kinoshita’s GPS signals to get here. Komiya’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.198) “Komiya’s group before us.” — named; not present; POV Ayanokōji.
+[mentioned] (p.199) “Komiya and Kinoshita after this, right?” — named; not present; POV Ayanokōji.
+[mentioned] (p.199) “With Komiya and Kinoshita’s retirement all but guaranteed at this point,” — named; not present; POV Ayanokōji.
+[mentioned] (p.199) “Komiya, moments away from being carried off on a stretcher by the” — named; not present; POV Ayanokōji.
+
+### y2v3 p.200–207 — The rival's final act
+[scene] (p.200) Moments before being carried to the stretcher, he lurches up to call Ike close, entrusts Shinohara to him with a rival-in-love-to-rival-in-love handoff, then collapses back.
+[says] (p.200) “Ike… come here real quick.”
+[says] (p.200) “Show me how much of a man you are.”
+[note] (p.200) Komiya had planned on confessing to Shinohara during this exam; whether he did is not printed; his final gesture is unambiguous.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+### y2v3 p.211, 217–218, 238 — Komiya named in passing (Ch.6)
+[mentioned] (p.211) “Shinohara had been left to fend for herself after Komiya and Kinoshita” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Komiya and Kinoshita retired.” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Komiya and Kinoshita were fellow comrades that he needed to protect.” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Neither Komiya nor Kinoshita could recall whether they were actually” — named; not present; POV Ayanokōji.
+[mentioned] (p.218) “it’ll be meaningless if Komiya and Kinoshita get expelled.” — named; not present; POV Ayanokōji.
+[mentioned] (p.218) “Komiya and Kinoshita still have their uses.” — named by Ryūen; not present; POV Ayanokōji.
+[mentioned] (p.238) “Komiya-kun and Kinoshita-san, right? It seems you’re fairly well” — named by Sakayanagi; not present; POV Ayanokōji.
+[mentioned] (p.238) “He’s on board with my plan. It seems he thinks quite highly of Komiya” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+### y2v3 p.289 — Komiya named at the mountain reveal
+[mentioned] (p.289) “So, something similar to what happened to Komiya and Kinoshita. Were” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

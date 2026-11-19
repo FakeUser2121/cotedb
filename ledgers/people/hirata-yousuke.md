@@ -1969,12 +1969,18 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.9–10 — Hirata anxious about the island exam
-[scene] (p.9–10) On the ship, he walks with Ayanokōji, anxious about the exam; they discuss the island's size and heat.
-[trait] (p.9–10) Anxious but determined — he resolves to put forth every effort.
-[rel:ayanokouji-kiyotaka] (p.9–10) They discuss the exam.
+### y2v3 p.9–11 — Hirata's resolve on the ship
+[scene] (p.9) July 20th; onboard the ship heading toward the island; sits at the railing with Ayanokōji; the island is considerably larger than last year's, and the sea around it shimmers under nearly 40°C heat.
+[says] (p.9) “This is a much bigger island than the last one, just like Mashima-sensei said it'd be.”
+[note] (p.9) “We'll only have to stay there for two weeks, but some students might end up having to retire at some point.” — speaker untagged in the translation; recorded unassigned.
+[note] (p.9–10) “Yeah, I think there's a high chance that something unexpected might end up happening. Securing water will probably be our first priority.” — speaker untagged in the translation; recorded unassigned.
+[note] (p.10) “I wonder if people used to live here?” / “Maybe.” — speaker pair untagged in the translation; recorded unassigned.
+[says:ayanokouji-kiyotaka] (p.10) “Have you resolved yourself, Yōsuke?”
+[says] (p.11) “I'll put forth every effort so I have no regrets. That's the only thing I can do for the class.”
+[trait] (p.9–11) A boy who yearns for peace; anxious about the exam's casualties; clenches the railing unconsciously; nods a single time at being tested; he knows his class cannot avoid losses this time.
+[rel:ayanokouji-kiyotaka] (p.9–11) Talks at the railing; his resolve is questioned point-blank; he accepts it — effort, not regrets, for the class.
 
-<!-- walk: y2v3 Ch.1 → p.10 -->
+<!-- walk: y2v3 Ch.1 → p.42 -->
 
 ### y2v3 p.56 — Hirata mentioned at the first designated area
 [scene] (p.56) He is mentioned as having a different Table; Ayanokōji's group meets Sakura, Miyake and Haruka.
@@ -1982,15 +1988,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v3 Ch.2 → p.56 -->
 
-
-### y2v3 p.9–11 — Hirata's resolve before the island exam
-[says] (p.9) "This is a much bigger island than the last one, just like Mashima-sensei said it'd be."
-[says] (p.9) "We'll only have to stay there for two weeks, but some students might end up having to retire at some point."
-[says] (p.10) "I wonder if people used to live here?"
-[says] (p.10) "Securing water will probably be our first priority."
-[says] (p.11) "I'll put forth every effort so I have no regrets. That's the only thing I can do for the class."
-[trait] (p.9–11) Anxious about the coming changes (classes rising/falling, expulsions) but resolute — his hands clench the railing, yet when Ayanokōji asks if he's resolved he fixes his gaze and nods once; doesn't want anyone expelled but knows casualties are unavoidable.
-[rel:ayanokouji-kiyotaka] (p.9–11) Talks beside him on the ship; his resolve is tested and confirmed.
 ## y2v4
 
 <!-- walk: y2v4 → start -->
