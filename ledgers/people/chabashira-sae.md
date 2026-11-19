@@ -1484,6 +1484,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.89 — Chabashira named at the quiz wrap-up
+[mentioned] (p.89) “This all helped support what Chabashira had told us back before the exam had even started.” — named as having told the class about miscellaneous knowledge carrying exams; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

@@ -413,6 +413,13 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v3 Ch.5 → p.181 -->
 
+### y2v3 p.103–108 — Shinohara named at the fire: the confession
+[mentioned] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.” — named by Ike at the tent-fire circle; not present; POV Ayanokōji.
+[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” / “Plus, well… it seems like she sees him as someone special as well.” / “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.” — her alliance with Komiya; not present; same scene.
+[mentioned] (p.106–107) “Don’t you think Shinohara-senpai has just been waiting for you to draw the line?” / “From what I’ve been told, you’re someone who’s always bright and cheerful to everyone.” — Nanase's guess about Shinohara's feelings; not present; same scene (a guess, not fact).
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

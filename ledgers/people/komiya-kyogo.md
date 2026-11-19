@@ -161,6 +161,12 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 
+### y2v3 p.105–106 — Komiya named at the fire: the Shinohara rival
+[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; not present; POV Ayanokōji (via Ike's confession at the tent-fire).
+[mentioned] (p.106) “Plus, well… it seems like she sees him as someone special as well.” — his perceived status with Shinohara; not present; same scene.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

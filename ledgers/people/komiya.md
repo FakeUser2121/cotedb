@@ -19,6 +19,12 @@ char_id: komiya · class: Class 2-B · status: student (y2v3)
 [rel:shinohara-satsuki] (p.175, 199–200) The girl he swore to protect; couldn't confess but hands her care to Ike.
 [rel:kinoshita] (p.169) His group member, injured alongside him.
 
+### y2v3 p.105–106 — Komiya named at the fire (legacy row)
+[mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; legacy roster row duplicating komiya-kyogo; not present; POV Ayanokōji.
+[mentioned] (p.106) “Plus, well… it seems like she sees him as someone special as well.” — his perceived status with Shinohara; same scene.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -83,17 +83,39 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.84–88 — Hondō at Task site C6
-[scene] (p.84–88) He is present at Task site C6 with Sudō and Ike.
-[trait] (p.84–88) Present but not very engaged.
+### y2v3 p.85–90 — The lively foil at the quiz
+[scene] (p.85) Keeps trying to draw Ike out as they wait for the quiz; fails; joking alone.
+[scene] (p.88) The genre lands: 『Quiz Genre・Anime』; he knows this stuff cold — the team’s 95% rides on Ike and his minds.
+[says] (p.88) “Forreal!? This is uber-mega-easy!”
+[scene] (p.90) The group tops the quiz; his energy stands out against Ike's flat high-five.
+[says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
 
-<!-- walk: y2v3 Ch.3 → p.88 -->
+### y2v3 p.97–108 — The tremulous tent-neighbor; Ike's support
+[scene] (p.97) Follows Ike into the clearing; gasping after the replacement-Task day; says nothing about it.
+[scene] (p.98–99) Watches for dinner; eyes the unused fishing rod.
+[says:sudou-ken] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
+[scene] (p.100–108) Mosquito night; the eat/chat circle; the Shinohara reveal; loyalty through the noise.
+[says] (p.100) “So Nanase-chan’s in Class D, huh? I never wouldda guessed.”
+[says] (p.100) “Eh? No way. If anything, we’re the incapable ones here, ain’t that right guys?”
+[says] (p.100) “The atmosphere feels down in the dumps. Kanji, Ken, what’s with you guys?”
+[says] (p.100) “Wha? Why’s that?”
+[says] (p.100) “And what’s that supposed to mean!?”
+[says] (p.101) “Rude? So it’s not cuz he tried to touch you inappropriately or somethin’?”
+[says] (p.101) “Well, it is true that you’ve always been devoted to Horikita. But like, what the hell happened then?”
+[says] (p.101) “Well, alright then I guess… But Kanji’s been pretty out of it this whole time.”
+[says] (p.101) “Sudō took the words right out of my mouth. You’ve been really out of it man.”
+[says] (p.102) “What do you think Ayanokōji?”
+[note] (p.102) “See? All four of us managed to pick up on it.” — speaker untagged in the print; recorded unassigned (Hondō by flow).
+[says] (p.103) “There’s no need for us to hold off, Nanase-chan. In the end it’s probably nothin’ big.”
+[says] (p.103) “Eh? A-ah… Well I guess we can try.”
+[says] (p.104) “What!? Who!? Who is it!?”
+[says] (p.104) “H-hey but like, you’ve gotta dive in head-first with this kinda stuff!”
+[says] (p.104) “I-I guess you’re right.”
+[says] (p.105) “B-but Kanji, like… You’re on bad terms with Shinohara right? You’re always talkin’ about how crazy ugly she is.”
+[says] (p.108) “Eyy, attaboy Kanji!”
+[note] (p.102) “C’mon, if you’re bothered by something just come out with it.” — speaker untagged in the print; recorded unassigned (Sudō or Hondō).
 
-### y2v3 p.84–88 — Hondō at Task site C6
-[scene] (p.84–88) He is at Task site C6 with Sudō and Ike; he seems disinterested.
-[trait] (p.84–88) Present but not very engaged.
-
-<!-- walk: y2v3 Ch.3 → p.88 -->
+<!-- walk: y2v3 Ch.3 → p.109 -->
 
 ### y2v3 p.113–114 — Hondō with Sudō's group
 [scene] (p.113–114) He is with Sudō's group; he seems disinterested but participates.

@@ -1902,6 +1902,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.305–320) Secretly plots to get dirt on Ayanokōji (having dropped a tablet near the fight to record him), but Amasawa — the "accomplice" — turns the tables, exposing Kushida's "nasty, vile" true nature and her plan; broken, Kushida collapses in the mud, realizing her mask and schemes are unraveling (the consequence of Yagami having revealed her past to the first-years).
 [rel:amasawa-ichika] (p.307–319) Her walkie-talkie accomplice, who sees through her and taunts her; nearest thing to a defeat of her persona.
 [rel:ayanokouji-kiyotaka] (p.305–320) She tails him to record evidence for expulsion; Ayanokōji has already sensed the watchers.
+### y2v3 p.104 — Kushida guessed at the fire
+[mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

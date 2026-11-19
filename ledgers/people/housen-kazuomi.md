@@ -162,6 +162,11 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
 
+### y2v3 p.79–80 — Hōsen named by Nanase
+[mentioned] (p.79) “To tell you the truth, a slight issue came up as my group was talking last night. Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart.” — named as having split from the group; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

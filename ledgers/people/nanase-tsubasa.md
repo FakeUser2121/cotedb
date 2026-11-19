@@ -329,6 +329,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v3 Prologue → p.8 -->
 
 
+
 ### y2v3 p.58–59 — First crossing: Nanase at D7
 [scene] (p.58) Reaches the clearing (29 people); Amasawa and Hōsen nowhere to be seen; she greets him and scouts the crowd.
 [says] (p.58) “Good morning to you, Ayanokōji-senpai.”
@@ -337,6 +338,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.59) “I think I’m going to leave. It can’t hurt to take a look around.”
 [says] (p.59) “Indeed! You’re all alone, so please be careful Senpai. Goodbye, then.”
 [rel:ayanokouji-kiyotaka] (p.58–59) Their first encounter on the island; he gauges her independence; she releases him to probe the area.
+
 
 ### y2v3 p.69 — Evening crossing: second status exchange
 [scene] (p.69) Crosses paths again near the same sort of place, just before 5 PM; the two quietly compare the day’s spoils.
@@ -353,15 +355,168 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
 
-### y2v3 p.75–88 — Nanase accompanies Ayanokōji
-[scene] (p.75–81) She asks to accompany him, explaining her group's issue; he agrees.
-[says] (p.79) "If it's not too much trouble, would you perhaps allow me to accompany you?"
-[trait] (p.75–88) Proactive and strategic — she seeks out Ayanokōji to avoid falling behind.
-[rel:ayanokouji-kiyotaka] (p.75–88) She accompanies him.
 
-<!-- walk: y2v3 Ch.3 → p.88 -->
+### y2v3 p.78 — Third rendezvous at E6
+[scene] (p.78) Sits down for a break at E6; he seems to be waiting for a Task; she shows up alone a third time.
+[says] (p.78) “Ayanokōji-senpai, it seems we meet again.”
+[says:ayanokouji-kiyotaka] (p.78) “By any chance, do you think that we might share the same Table?”
+[says] (p.78) “Maybe.”
+[trait] (p.78–82) Her third crossing in six areas; she pauses instead of leaving — unlike the last two quick encounters; she asks for the favor.
 
+### y2v3 p.79–81 — The favor: accompanying him
+[scene] (p.79) She lingers and asks to accompany him, citing the group's split; Hōsen and Amasawa chose independent action; she fears falling behind alone.
+[says] (p.79) “Um, Ayanokōji-senpai, there’s a favor I’d like to ask of you.”
+[says:ayanokouji-kiyotaka] (p.79) “A favor?”
+[says] (p.79) “If it’s not too much trouble, would you perhaps allow me to accompany you for a while?”
+[says:ayanokouji-kiyotaka] (p.79) “Accompany me? What do you mean by that?”
+[says] (p.79) “To tell you the truth, a slight issue came up as my group was talking last night. Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart.”
+[says] (p.80) “I’ve crossed paths with you a total of three times now, Senpai. From what I’ve seen from our encounters, I believe that you’ve managed to reach the designated area faster than me. That is of course, except for the first time. I fear that if I’m on my own, it won’t be long before I start to fall behind the designated areas.”
+[says:ayanokouji-kiyotaka] (p.80) “Don’t you think it’s possible that I just happened to be faster than you these last two times?”
+[says] (p.80) “That may be so indeed, but either way, I’ve still recognized you as a step above someone as inexperienced as myself.”
+[says:ayanokouji-kiyotaka] (p.80) “I don’t think it’s a very wise idea to travel together with someone in a different school year.”
+[says] (p.80) “You’re saying that due to the influence it would have on Early Bird Bonuses and the increased competition for Tasks, correct?”
+[says:ayanokouji-kiyotaka] (p.80) “There would be a conflict of interest if we came across a Task that only had room for one more group.”
+[says] (p.80) “I would be perfectly fine with taking the back seat in that regard, Ayanokōji-senpai. I would only step foot into the designated area after you’ve checked to make sure you’ve received your points and Bonuses. That way, it shouldn’t place you at a disadvantage. As for Tasks, I’ll just defer to you should there only be one space remaining.”
+[says:ayanokouji-kiyotaka] (p.80) “You’d ultimately lose points by doing that, Nanase.”
+[says] (p.80) “This is my first uninhabited island exam, and you’ve already proven the extent of your physical abilities during your fight with Hōsen-kun. It would be immensely helpful to me if I could have you choose a suitable route for us to take.”
+[says:ayanokouji-kiyotaka] (p.81) “Even if we assume that I’m going to choose the most suitable route, would you be able to keep pace with me? Sometimes the path I choose might even be dangerous. Would you really be able to do it?”
+[says] (p.81) “I’m fairly confident in my stamina. …You’re not uncertain because you think I might hold you back, it’s more that you’re not able to trust me, isn’t it?”
+[says:ayanokouji-kiyotaka] (p.81) “Alright. If that’s what you want, then go ahead.”
+[says] (p.81) “Thank you very much.”
+[rel:ayanokouji-kiyotaka] (p.78–81) She attaches herself as his companion; she gives up Early Bird Bonuses and Task spots to shadow him.
 
+### y2v3 p.82–84 — The E5 feint; the F8 quiz registration
+[scene] (p.82) 1:00 PM; an hour plus until the next designation; several new Tasks; he picks the F8 quiz; she sees through it.
+[says] (p.82) “We just have to make sure you and I really have the same Table. We on the same page?”
+[says] (p.82) “Indeed! The notion that we’ve just coincidentally shared some of the same designated areas is certainly feasible, so further investigation is the natural first step. What do we do for now though? It seems we still have some time until the next designation happens.”
+[says:ayanokouji-kiyotaka] (p.82) “It looks like there’s a quiz-type Task right under area F8. We’ll go there.”
+[says] (p.82) “It’s fairly close by too!”
+[says:ayanokouji-kiyotaka] (p.82) “Yeah. After we’re done there, if the next designated area shows up too far away from us, I think we’ll give up on trying to get there in time.”
+[says] (p.82) “Understood. Please lead the way.”
+[says:ayanokouji-kiyotaka] (p.83) “We should be able to see it any time now.”
+[says] (p.83) “Right!”
+[says] (p.83) “By the way Senpai, this Task we’re looking to take on seems rather challenging, wouldn’t you agree?”
+[says:ayanokouji-kiyotaka] (p.83) “Well, it’s a quiz, so it’s true that there can be a lot to cover.”
+[says:ayanokouji-kiyotaka] (p.84) “That said, I should have a decent enough chance depending on the genre they choose.”
+[says] (p.84) “That may be so, but… you actually wanted to go after the Task in area E5, didn’t you Senpai?”
+[says:ayanokouji-kiyotaka] (p.84) “I’ll admit that I considered it, but it was honestly fifty-fifty. It’s nothing you need to worry about.”
+[says] (p.84) “I’m glad to hear that. However, I’m simply here to accompany you, so please don’t make any concessions for my sake, okay?”
+[says:ayanokouji-kiyotaka] (p.84) “You don’t need to remind me. Besides, the quiz is better when it comes to rewards anyway.”
+[scene] (p.84) Sudō beckons them to registration; they hurry in before the spots close.
+[says:sudou-ken] (p.84) “Yo! Ayanokōji! There’s only three spots left! Get in before it’s too late!”
+[says] (p.84) “Seems he’s right. Let’s hurry.”
+
+### y2v3 p.85–90 — Ike out of it; anime-genre quiz; Nanase 5/20
+[scene] (p.85–87) Waiting for the 12th group; Ike looks listless; Hondō struggles to talk to him; she quietly takes it in; Sudō points at AK with a warning about her.
+[says] (p.86) “It’s Nanase, Sudō-senpai.”
+[scene] (p.87–90) 『Quiz Genre・Anime』; Question 1 Bombdam; Question 2 Dashu Sea Chicken; she tracks his guessing; 5 correct for her; bottom three for him.
+[note] (p.90) “Those questions were all pretty challenging, huh?” — speaker untagged in the print; recorded unassigned.
+[says:sudou-ken] (p.90) “We freakin’ did it Kanji!”
+[says:ike-kanji] (p.90) “Yay…”
+
+### y2v3 p.90–96 — Reading Ike; the day she stays the course; Table confirmed
+[scene] (p.90–93) The quiz is done; she asks about Sudō's group; AK slots Ike's worry into Shinohara; she spots his real concern; he sets the last of the day as I7 random designation (skipping it for the G8/G9 Tasks); her tablet: same Table (I7).
+[says] (p.90) “Is something the matter?”
+[says] (p.90) “Is something wrong with Sudō-senpai’s group?”
+[says:ayanokouji-kiyotaka] (p.90) “As an uninvolved third-party, what does their group look like to you, Nanase? …anything since you’ve never met any of them other than Sudō before.”
+[says] (p.91) “Indeed. Then could you perhaps fill me in and tell me a bit about them?”
+[says:ayanokouji-kiyotaka] (p.91) “Off on Sudō’s left is Ike Kanji, and to his right is Hondō Ryōtarō. They’re the type of people who do stupid things and end up standing out in a bad way… or, well, I guess it might be better to say that they’re the type of people who easily get carried away. But, at the same time, they both really add a lot to the class atmosphere.”
+[says:ayanokouji-kiyotaka] (p.91) “They aren’t a studious bunch by any means so their group leaves a lot to be desired, but Sudō has plenty of physical strength and Ike has the right skills and experience to camp out on an uninhabited island. And Hondō… Well, Hondō’s a lively guy.”
+[says] (p.91) “Ike-senpai and Hondō-senpai, is it? They add a lot to the atmosphere…? From what I can tell, that doesn’t really seem to be the case for Ike-senpai; Could he be sick perhaps?”
+[says:ayanokouji-kiyotaka] (p.91) “It’s true that he’s usually livening things up in class. While he seems to be in a bit of a funk right now, he should at least be fine physically.”
+[says] (p.91) “So that’s what Ayanokōji-senpai is worried about…”
+[says:ayanokouji-kiyotaka] (p.91) “Well, it is what it is. It’s troublesome, but I can’t always worry about the affairs of others. In the quiz, instead of placing in the top three, I placed all the way down at the bottom. They on the other hand took first. Composition aside, the group that racks up more points is the better one.”
+[says] (p.93) “Senpai, may I say something before we depart?”
+[says] (p.93) “Once again, just to reiterate, please disregard my presence and choose what you truly believe to be the most ideal route. Okay, Ayanokōji-senpai?”
+[says:ayanokouji-kiyotaka] (p.93) “I’ll say this one more time as well. I’m not letting your presence influence my decisions, so stop worrying about it.”
+[says] (p.93) “I’m relieved to hear you say that. Please take care of me moving forward.”
+[says:sudou-ken] (p.95) “Oi Ayanokōji! Didja just say you’re gonna set up camp in H9?”
+[says:sudou-ken] (p.95) “If ya want, how ‘bout we all meet up after an’ camp together? Should be more fun with friends. I’d also like to hear whatcha think ‘bout our strategies so far and see if you’ve got any suggestions.”
+[says:sudou-ken] (p.96) “It’ll prolly be hard to find each other in the forest, so how ‘bout we meet up on the beach in G9 instead?”
+[says:sudou-ken] (p.96) “Since we’ll all be close by, how ‘bout 5:30?”
+[says:ayanokouji-kiyotaka] (p.96) “Alright. See you on the beach in G9 at 5:30.”
+[says:ayanokouji-kiyotaka] (p.96) “Turns out that we’ll be spending the night with them today. Do you have any problems with that, Nanase?”
+[says] (p.96) “It’s fine. I actually think it’ll be a good chance to get to know everyone.”
+
+### y2v3 p.97–99 — The beach/the clearing camp
+[scene] (p.97) 5:30 beach meet; Sudō's group arrives breathless; the replacement Task netted only third; they walk to H9's clearing; Hondō wheezing; Ike unresponsive.
+[says:sudou-ken] (p.97) “Ehhh… Not so great. After we split, a buncha new Tasks popped up so we ended up goin’ for three of ‘em. We took third place in one, but the other two had so many people that we couldn’t even register.”
+[says:ayanokouji-kiyotaka] (p.97) “The second day only just ended, so don’t overwork yourselves.”
+[says:sudou-ken] (p.97) “First things first, let’s find a place to camp. How ‘bout it, Kanji?”
+[says:ike-kanji] (p.97) “Let’s go back to H9 for now. We passed by a clearing earlier. That should be good enough.”
+[says] (p.97) “I really don’t get the impression that Ike-senpai is the life of the party that you made him out to be, Ayanokōji-senpai.”
+[says:ayanokouji-kiyotaka] (p.98) “He has a lot going on.”
+[says] (p.98) “A lot…?”
+[says:ayanokouji-kiyotaka] (p.98) “I don’t feel comfortable talking about it when it’s not my place to do so. If you really want to know, you should ask him yourself.”
+[says] (p.98) “You’re right. I’ll try asking him when I get the chance.”
+[says:sudou-ken] (p.98) “Oi Kanji. Ain’tcha gonna go fishin’ tonight?”
+[says:ike-kanji] (p.98) “Eh? Oh, uh, well… it’s already kinda late and I’m pretty tired, so yeah. Sorry.”
+[says:sudou-ken] (p.98) “Well, I guess it can’t be helped then.”
+[says] (p.99) “Seems like his mind is somewhere else.”
+
+### y2v3 p.100–103 — The tent-fire circle: equanimity with Hondō
+[scene] (p.100–103) Mosquitos; conversations through mesh; Hondō chats her up; Sudō warns her; she owns her past; Ike's listlessness becomes the topic; she quietly intervenes to buy Ike time.
+[says:hondou-ryoutaro] (p.100) “So Nanase-chan’s in Class D, huh? I never wouldda guessed.”
+[says] (p.100) “No no. I’m really not a very capable person… Class D seems like an appropriate place for me.”
+[says:hondou-ryoutaro] (p.100) “Eh? No way. If anything, we’re the incapable ones here, ain’t that right guys?”
+[says:hondou-ryoutaro] (p.100) “The atmosphere feels down in the dumps. Kanji, Ken, what’s with you guys?”
+[says:sudou-ken] (p.100) “Nothin’ really. But lemme warn ya Ryōtarō… Nanase ain’t trustworthy.”
+[says:hondou-ryoutaro] (p.100) “Wha? Why’s that?”
+[says:sudou-ken] (p.100) “No reason, really. Just stating a fact.”
+[says:hondou-ryoutaro] (p.100) “And what’s that supposed to mean!?”
+[says] (p.100) “It’s okay Hondō-senpai. I did something rather rude to Sudō-senpai in the past, that’s all.”
+[says:hondou-ryoutaro] (p.101) “Rude? So it’s not cuz he tried to touch you inappropriately or somethin’?”
+[says:sudou-ken] (p.101) “You think I’d do somethin’ like that?”
+[says:hondou-ryoutaro] (p.101) “Well, it is true that you’ve always been devoted to Horikita. But like, what the hell happened then?”
+[says:sudou-ken] (p.101) “It’s not somethin’ you need to know about.”
+[says:hondou-ryoutaro] (p.101) “Well, alright then I guess… But Kanji’s been pretty out of it this whole time.”
+[says:ike-kanji] (p.101) “O-oh, uh, I… same old same old, ya know?”
+[says:hondou-ryoutaro] (p.101) “Sudō took the words right out of my mouth. You’ve been really out of it man.”
+[says] (p.102) “Even though we’ve only just met, I also got the impression that you were rather lacking in spirit.”
+[says:hondou-ryoutaro] (p.102) “What do you think Ayanokōji?”
+[says] (p.102) “Earlier, Ayanokōji-senpai told me that you and Hondō-senpai are the type of people who add a lot to the class’ atmosphere. But, so far, it just seems to me like your mind is somewhere else entirely… Is something troubling you, Ike-senpai?”
+[says:ike-kanji] (p.102) “Uhm, how do I put it…”
+[says] (p.103) “Could you two please hold off and give him a moment?”
+[says:hondou-ryoutaro] (p.103) “There’s no need for us to hold off, Nanase-chan. In the end it’s probably nothin’ big.”
+[says:sudou-ken] (p.103) “No. It might be a bit too early to say that Ryōtarō. Let’s try waitin’.”
+[says:hondou-ryoutaro] (p.103) “Eh? A-ah… Well I guess we can try.”
+
+### y2v3 p.103–109 — Ike's confession: Shinohara
+[scene] (p.103–108) Ten minutes of silence; Ike breaks; the Shinohara revelation; her gentle counsel; her tears.
+[says:ike-kanji] (p.103) “To be honest… There’s… a girl I’ve had my eye on for a while now.”
+[says:hondou-ryoutaro] (p.104) “What!? Who!? Who is it!?”
+[says] (p.104) “Let’s wait until Ike-senpai feels ready to tell us himself.”
+[says:hondou-ryoutaro] (p.104) “H-hey but like, you’ve gotta dive in head-first with this kinda stuff!”
+[says] (p.104) “How about you calm down and wait to hear what Ike-senpai has to say? Instead of worrying about who he likes, don’t you think that it’s more important to find out how it relates to the matter at hand? Or am I wrong?”
+[says:hondou-ryoutaro] (p.104) “I-I guess you’re right.”
+[says:ike-kanji] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.”
+[says:hondou-ryoutaro] (p.105) “B-but Kanji, like… You’re on bad terms with Shinohara right? You’re always talkin’ about how crazy ugly she is.”
+[says:ike-kanji] (p.105) “It’s not like I’ve been conscious of her from the start or anything. Hell, I hated her at first. But… I dunno why, but at some point I started caring about her and, well… I guess I didn’t wanna admit it to myself, so just went along pretending that I hadn’t fallen for her.”
+[says:sudou-ken] (p.105) “I mean, if you like Shinohara, then why don’t you just go confess to her?”
+[says:ike-kanji] (p.105) “It’s just not that simple. Not anymore.”
+[says] (p.105) “Did something happen, Ike-senpai?”
+[says:ike-kanji] (p.105) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.”
+[says:ike-kanji] (p.105) “Plus, well… it seems like she sees him as someone special as well.”
+[says:ike-kanji] (p.106) “I… I only realized that I was fallin’ in love with Shinohara a little while ago… So when this exam came around, I wanted to group up with her more than anything. But I just couldn’t be freaking honest about it so we started fightin’ like we always do… It’s pathetic… This whole time, I’ve just been searching for her…”
+[says:ike-kanji] (p.106) “Maybe I just got the wrong idea at some point, thinking she liked me somehow even though we argue so much… I’m such a loser. Even now I’ve got no idea what I shouldda done differently.”
+[says] (p.106) “Can’t you just be honest with her, Ike-senpai? I don’t necessarily think that’d be a bad thing.”
+[says:ike-kanji] (p.106) “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.”
+[says] (p.106) “I’m not so certain about that. This is just a guess, but… don’t you think Shinohara-senpai has just been waiting for you to draw the line?”
+[says:ike-kanji] (p.106) “Draw the line…?”
+[says] (p.106) “From what I’ve been told, you’re someone who’s always bright and cheerful to everyone. Someone who often speaks what’s on your mind. Of course, I’m sure that Shinohara-senpai has a high opinion of you in this regard as well. That said, don’t you think she might wish she could be someone a little more special to you?”
+[says] (p.107) “Don’t you think maybe she wants you to be more upfront about your feelings?”
+[says] (p.107) “Ike-senpai, would you be happy if the girl you liked never took you seriously? There’s nothing wrong with trying to hide your embarrassment, but you won’t get anywhere if you don’t convey your feelings to her. Wouldn’t you want her to look at you a little more seriously as well?”
+[says:ike-kanji] (p.107) “…Dammit.”
+[says] (p.107) “Feeling troubled about this isn’t a bad thing, per se, but you’re currently in the midst of a special exam where your future here is at stake. You wouldn’t be the only one expelled either; Your actions could very well drag Sudō-senpai and Hondō-senpai down along with you. I fully understand the feeling of wanting to go chasing after Shinohara-senpai, I do, but you should focus on fighting for survival first.”
+[note] (p.108) “If you can’t meet… If you can never reunite with someone you care about… then you’ll never ever be able to let them know you love them again…!” — her voice breaks; Sudō panics; attribution of the following exchange lines is ambiguous in the print (“Y-you, why are you crying?” / “Ike-senpai, you don’t have the time to be feeling caught up in your troubles, wouldn’t you agree?” — Sudō by ‘Sudō spoke up in a panic’ / ‘Sudō’s question went unanswered’); “…Yeah. I’ve gotta get through this exam safely first right?” — speaker untagged; recorded unassigned.
+[says:sudou-ken] (p.108) “Y-you, why are you crying?”
+[says:sudou-ken] (p.108) “Ike-senpai, you don’t have the time to be feeling caught up in your troubles, wouldn’t you agree?”
+[says:ike-kanji] (p.108) “Ken, Ryōtarō, I’m sorry guys. I… I’ve prolly troubled you two a heck of a lot these past two days, haven’t I?”
+[says:sudou-ken] (p.108) “No, you haven’t… Eh, well, maybe just a lil’ bit.”
+[says:ike-kanji] (p.108) “To be honest, I’m still anxious about Shinohara. But… that won’t matter anyway if I don’t get through the exam first. All my worrying, all this time I’ve spent, everything wouldda been in vain if we don’t pass.”
+[says:hondou-ryoutaro] (p.108) “Eyy, attaboy Kanji!”
+
+<!-- walk: y2v3 Ch.3 → p.109 -->
 
 ### y2v3 p.110–151 — Nanase accompanies Ayanokōji on day 3
 [scene] (p.110–114) She wakes Ayanokōji and discusses Ike's situation; they head out with Sudō and Hondō.
@@ -375,6 +530,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.164–186 — Nanase helps in the emergency
 [scene] (p.164–186) She helps wake the group and search for Shinohara; she takes a flashlight and follows Ayanokōji.
 [trait] (p.164–186) Helpful and alert — she assists in the emergency search.
@@ -382,22 +538,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v3 Ch.5 → p.186 -->
 
 
-
-
-### y2v3 p.78–96 — Nanase tags along: "travel companion"
-[scene] (p.78) Appears alone again at his break — the third time they've crossed paths in six designated areas; hints they may share a Table.
-[says] (p.78) "Ayanokōji-senpai, it seems we meet again."
-[says] (p.79) "If it's not too much trouble, would you perhaps allow me to accompany you for a while?"
-[says] (p.79) "Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart."
-[says] (p.80) "I would be perfectly fine with taking the back seat in that regard,"
-[says] (p.81) "I'm fairly confident in my stamina."
-[says] (p.81) "You're not uncertain because you think I might hold you back, it's more that you're not able to trust me, isn't it?"
-[says] (p.93) "Once again, just to reiterate, please disregard my presence and choose what you truly believe to be the most ideal route."
-[says] (p.94) "It seems I have the same Table as Senpai after all."
-[trait] (p.78–96) Polite, perceptive and calculating — asks to join claiming her group dissolved into independent action, defers all bonuses/Tasks and route choices to him, sees through his concern for Sudō's group and discerns Ike is unwell; her tablet confirms the same Table; she repeatedly insists he ignore her so as not to distort his decisions — the White Room agent deliberately embedding herself with her target.
-[rel:ayanokouji-kiyotaka] (p.78–96) Travels with him; he suspects her motives but allows it, using it to gauge her.
-[rel:housen-kazuomi] (p.79) Says he and Amasawa chose independent action.
-[rel:amasawa-ichika] (p.79) Likewise.
 
 
 
@@ -424,6 +564,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.164–207 — Nanase in the cliff crisis and rescue planning
 [scene] (p.164) Joins the pre-dawn search; carries a flashlight and later takes charge of leading the group back.
 [says] (p.189) "I wasn't able to see you and Ike-senpai anymore so I─" — she came to find them
@@ -439,6 +580,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.260–266 — Nanase's cliff struggle and her strange air
 [says] (p.261) "I… I can do this!"
 [says] (p.261) "Oww, that hurt…!"
@@ -450,6 +592,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.265) "While it feels like graduation is a long ways away, it'll probably be here in the blink of an eye."
 [trait] (p.260–266) Falls while tying up her hair to climb, but insists on following Ayanokōji; exhausted, she accepts his hand; afterward she asks if he enjoys the school and speaks of living without regrets — her bearing briefly resembles the Nanase he first met, a faint, unsettling change Ayanokōji notes.
 [rel:ayanokouji-kiyotaka] (p.260–266) Follows him up the cliff; her "loyal dog" devotion and subtle shift in demeanor hint at her true nature.
+
 
 
 
@@ -473,6 +616,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.347–353 — Nanase's motive; accepting Ayanokōji's hand
 [scene] (p.347) In the rain, defeated, admits her loss and explains why she targeted him.
 [says] (p.347) "It's my loss… Ayanokōji-senpai."
@@ -492,6 +636,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+
 ### y2v3 p.360–362 — Short story: "Unfathomable" — the cliff climb from her POV
 [scene] (p.360) From her own POV, reflects that her belief in equal stamina with Ayanokōji was naive — he clears obstacles at 50–60% capacity while she struggles, and she fears falling too far behind.
 [narrates] (p.360) "Don't… mind me. I will, catch up to you, at my own pace…!"
@@ -501,6 +646,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [narrates] (p.361) "No, this is the first time I'm moving up like this." — Ayanokōji
 [trait] (p.360–362) Grudgingly accepts his hand after he descends to help — moved that he offers kindness of his own accord; realizes he possesses "unfathomable abilities" and is "not normal," reaffirming her goal to defeat him and drag out "that person" (Matsuo) — the reason she came to this school.
 [rel:ayanokouji-kiyotaka] (p.360–362) Her target and reluctant climbing partner; she's awed by his effortless strength and resolves to defeat him.
+
 
 
 
