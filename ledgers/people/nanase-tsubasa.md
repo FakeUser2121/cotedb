@@ -567,9 +567,16 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [note] (p.11) Passing mentions on pages: p.274, p.276, p.279-284.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.279–285 — Ch.5: Nanase's turnaround (Horikita's POV)
+[scene] (p.279) Her first match with ease and we watch Amasawa-san's team; Nanase-san is far better than they thought; she controls the match with sharp offense and defense — she wins with Amasawa barely touching the ball; by the final, she goes from a quiet player to a monster who gets the ball to land out of bounds.
+[says:nanase-tsubasa] (p.282) “A stuff block, I think. I’m not too familiar with it myself, though.”
+[says:amasawa-ichika] (p.284) “Ahh. Sorry, Nanase-chan, I missed~ It’s pretty hard to control it perfectly, huh?”
+[says:amasawa-ichika] (p.284) “Oh, time’s up. It was just starting to get interesting!”
+[trait] (p.279–285) A girl who flies under the radar — but is actually carrying Amasawa's team; once she wakes up, she will outpace everyone; she reads the final's last volleyball like it was meant for her.
+[rel:amasawa-ichika] (p.279–285) Her teammate and anchor — she holds her up while she adapts.
+[rel:horikita-suzune] (p.279–285) The first-year that outclassed everyone — she beat her in the final 7-6.
 
-
-
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

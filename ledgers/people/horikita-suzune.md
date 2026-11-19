@@ -4162,6 +4162,120 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.199–203) The other way she could have gone — trustworthy but not gifted; the process of elimination.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.241–249 — Ch.5: Morning — the 100m duel; Ibuki wins the long jump (Horikita's POV)
+[scene] (p.241–242) Morning, the festival opens; Nagumo makes the opening remarks with guests from political circles; all classes in parallel events; Horikita's alliance with Ryuuen's class — they avoided facing each other in individual events as far as possible; team matches split fifty-fifty; Sudō and Yamada Albert-san capped at three team events each; Katsuragi helped structure it.
+[scene] (p.243) She watches over the faculty area; Ibuki runs at her at full speed before the 100m — “A-anyway, fight me!”
+[says] (p.243) “Are you stupid?”
+[says:ibuki-mio] (p.243) “Huh?! What are you saying? You scared of losing to me? You are, aren’t you?”
+[says] (p.243) “Not at all.”
+[says] (p.243) “Which competition are you in right after this? Pace your breath before you answer.”
+[says:ibuki-mio] (p.243) “… Huh?! It’s the 100 meter race, of course! I won’t forget it, we decided this together.”
+[says] (p.243) “Yes, the 100 meter race. And we are registered for the very first race. That’s what we decided. Therefore, you will have to run soon after this. And despite that, why are you sprinting around at full speed just before you have to participate? I shouldn’t have to tell you that we’ve already decided that we’ll be facing off, so what you should do is to go to the designated area and wait.”
+[says:ibuki-mio] (p.243) “Shit,”
+[says:ibuki-mio] (p.243) “A-anyway, fight me!”
+[says] (p.243) “Relax. You don’t need to tell me, I will fight you.”
+[scene] (p.244) She narrates: she'll win fair and square — her gratitude to Ibuki for Kushida's return is not for sale; the 100m race — narrow victory, same small margin as last year; Ibuki kicks up the dirt in frustration; “If Ibuki-san hadn’t helped me, Kushida-san might not have started going to school yet. But that didn’t mean I could give her the win.”
+[says:ibuki-mio] (p.244) “Come, Horikita! Fight me!!”
+[scene] (p.245–249) Her points: 5 starting, 10 two solo firsts (obstacle course + 100m... wait — two solo firsts: obstacle course first and 100m first — 5+5), 3 for third in tug-of-war, 3 participation — 21 points total; the long jump — 5m79cm; Ibuki 5m81cm — she loses by 2cm; Sudō and Onodera stop by; he's at three straight wins; Ibuki gloats — “I did it!”; Horikita's 1 win 1 loss; mental stress rises; the balance beam is her next match vs Ibuki — in the afternoon.
+[says] (p.246) “From how you look, things must be going well.”
+[says:onodera-kayano] (p.246) “Since the start, Sudou-kun’s had three straight victories, you know. What’s more, he made it look easy. I should’ve expected that!!”
+[says:sudou-ken] (p.246) “Eh, I guess. But you know, Onodera’s taken first place in both events she’s fought. Yeah?”
+[says:onodera-kayano] (p.246) “Well, in my case, I did get a bit lucky.”
+[says] (p.246) “I didn’t have the impression that you were that fast when we first entered school. When did you improve?”
+[says:onodera-kayano] (p.246) “I don’t really like running, and I’m not interested in stuff other than swimming, so maybe I was just not taking it seriously…”
+[says:sudou-ken] (p.246) “Ya said you definitely won’t do long distance!”
+[says:onodera-kayano] (p.247) “I get super tired; I can’t run that much–there isn’t a single good thing about it!”
+[says:sudou-ken] (p.247) “Well, to be honest, you know, I wanted to fight against Kouenji if I could. That dude also got first in all three events he participated in, and seems like he’ll continue that streak.”
+[says] (p.247) “That’s no good. Going against your classmates is not a good idea. You understand that, right?”
+[says:sudou-ken] (p.247) “I-I get it. It’s just a joke.”
+[says] (p.247) “It’s fine. I’ll keep an eye on him for that. Don’t worry.”
+[says] (p.248) “I see. The more I can trust you with, Onodera-san, the less I’ll have to worry unnecessarily.”
+[says:sudou-ken] (p.248) “Y’all don’t believe in me one bit…”
+[says] (p.248) “After this, you guys are scheduled to participate in successive doubles’ events, aren’t you? Good luck.”
+[says:sudou-ken] (p.248) “You bet. We’re gonna keep this winning streak rolling.”
+[says] (p.248) “We can’t keep bothering her. Let’s go scout out the next event.”
+[says:sudou-ken] (p.248) “Yeah, let’s do that. See you later, Horikita-san.”
+[says] (p.249) “Yeah.”
+[says:ibuki-mio] (p.248) “I did it!”
+[says:ibuki-mio] (p.248) “Did you see? I won! You lose!!”
+[says] (p.248) “As I thought, you might’ve had the advantage because you don’t have as much air resistance…”
+[says:ibuki-mio] (p.248) “Huh? Air resistance?”
+[says] (p.248) “It’s nothing.”
+[says:ibuki-mio] (p.248) “Don’t be a sore loser. Just honestly admit you lost!”
+[says] (p.248) “Don’t get carried away. This means I have one win, one loss. All this means is that we’re back to being tied.”
+[says:ibuki-mio] (p.249) “I won! I won! I won!”
+[trait] (p.241–249) Composed, driven — beats Ibuki in the 100m by the same narrow margin as last year; 5.79m in the long jump — loses by 2cm; third in tug-of-war; first in the obstacle course; 21 points after the opening; she watches the class's “great expectations.”
+[rel:ibuki-mio] (p.241–249) The fated rematch pair — 1 win, 1 loss; Ibuki screams; Horikita is internally rattled.
+[rel:sudou-ken] (p.246–249) “Sudou-kun’s had three straight victories, you know. What's more, he made it look easy.”
+[rel:onodera-kayano] (p.246–249) First place in both her events — she'll pair with Sudou.
+
+### y2v6 p.250–257 — Ch.5: Nagumo's fifth win; Kiryūin's jab; the “price” warning (Horikita's POV)
+[scene] (p.250) She's killing time in the cheering seats; Yagami from 1-B approaches — he compliments her class; Nagumo just ran through the ribbon — his fifth consecutive win; he looks expressionless; girls swarm him; he tells them he wants to be alone; he distances himself.
+[says:yagami-takuya] (p.250) “Good work out there, Horikita-senpai.”
+[says] (p.250) “Your class seems to be doing well, too. You’re a close second place.”
+[says:yagami-takuya] (p.250) “You too, senpai. Aren’t you guys in first place? It’s difficult to imagine this is the same class that started as Class D last year!”
+[says] (p.250) “Was that a compliment? Or was some sarcasm thrown in there too?”
+[says:yagami-takuya] (p.250) “Not at all! I genuinely respect you, although not as much as Student Council President Nagumo.”
+[says] (p.251) “He would usually at least pay lip service to them, but he doesn’t look the least bit happy,” I said.
+[says:yagami-takuya] (p.251) “He is almost guaranteed to graduate in Class A, regardless of whether he wins or loses. So, maybe he can’t get fired up for this?”
+[says] (p.251) “I’ll go have a chat with the Student Council President,” I said.
+[says:yagami-takuya] (p.251) “Is that so? Well, I have my next competition, so I’ll excuse myself.”
+[scene] (p.251–255) Kiryūin-senpai (3-B) confronts Nagumo near the finish area — “Congrats on the 5 wins in a row, Nagumo!” — “Why are you here?” — “…Seems like there are more than one or two people cheering for you.” — “Word around the block is that Ayanokouji is absent today. Is that why you look so upset?” — Nagumo sighs — “I thought at least he would finally quench my thirst, but it seems I had the wrong idea.” — Kiryūin needles him — “Poor little thing, how about I take you on?” — “What a pointless lie. Even if I wanted to, I can’t even imagine you seriously offering me a fight. Am I wrong?” — “Fufufu. You got me, huh?” — she advises him to retire gracefully — “You’ve already dominated our grade and are fixed at Class A. On top of that, you’ve achieved a lot as the student council president. That should be enough. I recommend you graduate quietly.” — “You’re giving me advice? What’s this change of heart?” — “Maybe you’re right.” — “Don’t worry, Kiryuuin. You don’t need to tell me; I’m not going to play around with Ayanokouji anymore. He chose not to fight me, and there’s no point in thinking about it too deeply.”
+[says:kiryuin-fuuka] (p.251) “Congrats on the 5 wins in a row, Nagumo!”
+[says:nagumo-miyabi] (p.251) “Why are you here?”
+[says:kiryuin-fuuka] (p.251) “You don’t have to be so cold-hearted, you know? I’m just concerned that you don’t look all that happy despite winning. Seems like there are more than one or two people cheering for you.”
+[says:nagumo-miyabi] (p.251) “Don’t make me laugh. As if winning a competition of that level would mean anything to me.”
+[says:kiryuin-fuuka] (p.252) “Knowing you, you could’ve just gathered all the weaklings and have them compete against you for an easy first place. Though looking at the lineup for that race, it sure doesn’t look like you did that.” Kiryuuin-senpai pointed out the fact that he wasn’t trying to take the easy way. “Word around the block is that Ayanokouji is absent today. Is that why you look so upset?”
+[says:nagumo-miyabi] (p.252) “I thought at least he would finally quench my thirst, but it seems I had the wrong idea.”
+[says:kiryuin-fuuka] (p.252) “Poor little thing, how about I take you on?”
+[says:nagumo-miyabi] (p.252) “What a pointless lie. Even if I wanted to, I can’t even imagine you seriously offering me a fight. Am I wrong?”
+[says:kiryuin-fuuka] (p.252) “Fufufu. You got me, huh?” Kiryuuin-senpai confessed, shrugging as she drew closer to President Nagumo’s side. “I’ll be done with my minimum requirements after the next event. I’m planning to relax and watch the matches after that.”
+[says:nagumo-miyabi] (p.252) “Of course you are.”
+[says:kiryuin-fuuka] (p.252) “You should stop giving these underclassmen the time of day. You’ve already dominated our grade and are fixed at Class A. On top of that, you’ve achieved a lot as the student council president. That should be enough. I recommend you graduate quietly.”
+[says:nagumo-miyabi] (p.253) “You’re giving me advice? What’s this change of heart? I think we’ve spoken more times in the six months since you’ve gotten involved with Ayanokouji than we did in the two years prior.”
+[says:kiryuin-fuuka] (p.253) “Maybe you’re right.”
+[says:nagumo-miyabi] (p.253) “Don’t worry, Kiryuuin. You don’t need to tell me; I’m not going to play around with Ayanokouji anymore. He chose not to fight me, and there’s no point in thinking about it too deeply.”
+[scene] (p.255) Kiryūin walks off; Nagumo turns to Horikita — “I kept you waiting, Suzune. Did you need anything from me?” — she covers for AK's absence; he reads her like a book — “Come with me for a bit during lunch break. We’ll meet at––” — she cannot refuse.
+[says:kiryuin-fuuka] (p.255) “If he lost a direct confrontation against the Student Council President, he wouldn’t be able to move on as if nothing had happened. Try to understand why he ran away. He has such a cute side to him, doesn’t he?”
+[says:nagumo-miyabi] (p.255) “I kept you waiting, Suzune. Did you need anything from me?”
+[says] (p.255) “No, um, I was going to ask the same thing that Kiryuuin-senpai did. I watched you take first place, but you didn’t look happy about it at all, so. And, well… Ayanokouji-kun had promised to fight you at the sports festival, I see.”
+[says:nagumo-miyabi] (p.255) “In the end, it didn’t happen. He is absent, and it ended with that.”
+[scene] (p.255–257) At lunch: the boxed lunches lineup; Nagumo presses her on Ayanokōji — “He seems unwell. Did he fall ill out of nowhere?” — she says he apologized and informed her he was sitting out, one student sitting out means losing ten points; Nagumo hints — “This might cause some trouble for your grade.” — “I have no choice but to make someone else pay the price for him bailing out on me, isn’t that right?” — he leaves without eating.
+[says:nagumo-miyabi] (p.256) “I kept you waiting.”
+[says:nagumo-miyabi] (p.256) “What is it you wanted to talk about? I have a meeting soon, so I’d appreciate it if we keep it brief.”
+[says:nagumo-miyabi] (p.256) “Yeah. I want to know about Ayanokoji. He seems unwell. Did he fall ill out of nowhere?”
+[says] (p.256) “Yes. This morning, he apologized and informed me he was sitting out. One student sitting out would mean losing ten points, but it’s not like I could force him if he’s sick.”
+[says:nagumo-miyabi] (p.256) “It’d be fine if he really was unwell.”
+[says] (p.256) “What do you mean by that?”
+[says:nagumo-miyabi] (p.257) “You heard my conversation with Kiryuuin, right? Maybe he didn’t want to embarrass himself, so he shut himself in.”
+[says] (p.257) “That’s right. It would be difficult to be sure that that’s not the case.”
+[says:nagumo-miyabi] (p.257) “This might cause some trouble for your grade.”
+[says] (p.257) “What does that mean?”
+[says:nagumo-miyabi] (p.257) “I have no choice but to make someone else pay the price for him bailing out on me, isn’t that right?”
+[note] (p.257) Nagumo's “price” is left hanging — threat unspecified; Horikita covers for AK — she is the only one who knows his absence is a strategy to keep Sakayanagi out; she feels a little bad but takes the opportunity.
+[rel:nagumo-miyabi] (p.251–257) Five wins in a row; the direct fight he wanted is gone; his ominous “price” hangs over the grade.
+[rel:kiryuin-fuuka] (p.251–255) She taunts him — “Poor little thing, how about I take you on?” — advises him to graduate quietly; she exits with a glance at Horikita.
+[rel:yagami-takuya] (p.250–251) 1-B's praise; the respect for AK's near-fight.
+[rel:ayanokouji-kiyotaka] (p.251–257) “Word around the block is that Ayanokouji is absent today. Is that why you look so upset?” — she covers for him at lunch.
+[rel:sakayanagi-arisu] (p.257) Her absence is clearly his doing — Class A is floundering without the commander; Horikita feels a little bad but takes the opportunity.
+
+### y2v6 p.243–249 — Ch.5: The 100m showdown; the long jump 2cm (Horikita's POV)
+[scene] (p.243) She runs at Horikita at full speed — panting, glaring — “A-anyway, fight me!” — Horikita tells her to go wait at the designated area; she mutters “Shit” — “A-anyway, fight me!”; she runs the first girls' race against Horikita — she loses by the same narrow margin as last year; kicks up dirt in frustration.
+[says:ibuki-mio] (p.243) “Huh?! What are you saying? You scared of losing to me? You are, aren’t you?”
+[says:ibuki-mio] (p.243) “… Huh?! It’s the 100 meter race, of course! I won’t forget it, we decided this together.”
+[says:ibuki-mio] (p.243) “Shit,”
+[says:ibuki-mio] (p.243) “A-anyway, fight me!”
+[says:ibuki-mio] (p.244) “Come, Horikita! Fight me!!”
+[scene] (p.245–249) The long jump — third turn behind Horikita; regulated breathing; 5m81cm — just 2cm over Horikita's 5m79cm; she leaps forward, dirt on her face, strikes a victory pose and makes a big fuss like a child; “I did it!”
+[says:ibuki-mio] (p.248) “I did it!”
+[says:ibuki-mio] (p.248) “Did you see? I won! You lose!!”
+[says:ibuki-mio] (p.248) “Huh? Air resistance?”
+[says:ibuki-mio] (p.248) “Don’t be a sore loser. Just honestly admit you lost!”
+[says:ibuki-mio] (p.249) “I won! I won! I won!”
+[rel:horikita-suzune] (p.243–249) The fated rematch pair — 1-1; the balance beam is her next target; Horikita's narrow 100m win; her 2cm long jump win.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

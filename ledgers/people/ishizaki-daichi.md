@@ -861,6 +861,29 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ayanokouji-kiyotaka] (p.226) His birthday too — the "fate" idea comes from him.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.258–267 — Ch.5: Ishizaki's staged bump (close-third, Shimizu-side)
+[scene] (p.258–262) He is walking ahead when the Class A pair bolted for the gym; he “bumped” into Shimizu — shoulder impact twice as strong as expected; he shouts first — “Fuck, that hurt…!”; Hashimoto + Ryuuen put on a show; Shimizu refuses the apology at first; Ishizaki accepts it anyway — “I’m sorry, Ryuuen-san. You gave me all sorts of advice, but maybe I wasn’t mature enough to just let it go when he gave me a little shoulder bump… so I think I’ll forgive them since the two of them apologized to me earlier. Is that okay?”
+[says:ishizaki-daichi] (p.259) “Fuck, that hurt…!”
+[says:ishizaki-daichi] (p.259) “Watch where you’re walking, asshole!”
+[says:ishizaki-daichi] (p.259) “You’re the one who wasn’t facing forward!”
+[says:ishizaki-daichi] (p.259) “No, what? No matter how you look at it, you deliberately bumped into me. Right?”
+[says:ishizaki-daichi] (p.259) “Yeah I was. The two of you are making shit up. Real dirty, aintcha.”
+[says:ishizaki-daichi] (p.259) “Huuh?! Me?! You lot were lost in talking to each other and weren’t paying attention!”
+[says:ishizaki-daichi] (p.260) “…Ouch.”
+[says:ishizaki-daichi] (p.261) “I was so worked up I didn’t even notice, but… I reckon I might’ve gotten hurt just now.”
+[says:ishizaki-daichi] (p.261) “Ryuuen-san! Please listen to me! This lot is trying to mess with me!”
+[says:ishizaki-daichi] (p.262) “Right! I’m the victim!”
+[says:ishizaki-daichi] (p.262) “Right!”
+[says:ishizaki-daichi] (p.265) “Ryuuen-san… it doesn’t make sense to me, what even was that?”
+[says:ishizaki-daichi] (p.265) “I accept your apology.”
+[says:ishizaki-daichi] (p.266) “I’m sorry, Ryuuen-san. You gave me all sorts of advice, but maybe I wasn’t mature enough to just let it go when he gave me a little shoulder bump… so I think I’ll forgive them since the two of them apologized to me earlier. Is that okay?”
+[rel:shimizu-naoki] (p.258–262) The bump target.
+[rel:matoba-shinji] (p.258–262) The other Class A pair — collateral.
+[rel:ryuuen-kakeru] (p.261–267) The one pulling the strings — Ishizaki is his pawn.
+[rel:hashimoto-masayoshi] (p.262–267) He brokers the peace.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

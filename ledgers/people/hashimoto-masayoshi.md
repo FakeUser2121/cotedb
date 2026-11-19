@@ -864,6 +864,31 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ryuuen-kakeru] (p.219) His suspicion: “Who approached whom? Was it from Ryuuen?”
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.262–267 — Ch.5: Hashimoto Masayoshi — the stage manager of the bump (close-third, Shimizu-side)
+[scene] (p.262–267) He walks in on the commotion — “Let’s keep it civil, Ryuuen.” — he has seen Ishizaki playing around too many times to believe it; he calculates that Ryuuen wants a scene; he gets both sides to back off; Hashimoto takes the teacher with him; Ishizaki accepts the apology; nothing happens; he sighs deeply; “Doing this kinda thing when there’s people watching, jeez… he’s really not someone you want to make an enemy of.” — he laughs happily to himself.
+[says:hashimoto-masayoshi] (p.262) “Let’s keep it civil, Ryuuen.”
+[says:hashimoto-masayoshi] (p.263) “Don’t underestimate him so much. Ishizaki has been working hard constantly, pouring in his blood, sweat and tears for this day. All so that he could compete with those big earners you were talking about. Right?”
+[says:hashimoto-masayoshi] (p.263) “Jeez. You’re really gonna take every chance you get, eh?”
+[says:hashimoto-masayoshi] (p.263) “But now it’s clear. You seriously intend to crush us in this sports festival. You’re making the elites from the first year dog us so unpleasantly, right?”
+[says:hashimoto-masayoshi] (p.263) “Huh? Your lot started it. They came looking for a fight, and I obliged. That’s all.”
+[says:hashimoto-masayoshi] (p.263) “So you know after all. It’s not like we’re trying to get you to pay up. We just want a heartfelt apology. Right, Ishizaki?”
+[says:hashimoto-masayoshi] (p.263) “Be quick about it. We’ve got another competition coming up too.”
+[says:hashimoto-masayoshi] (p.263) “A draw?”
+[says:hashimoto-masayoshi] (p.264) “Then what do you want? Us to give you a unilateral apology?”
+[says:hashimoto-masayoshi] (p.264) “Then you’re fine with us not winning? If you stubbornly hold strong here, you might be able to protect your pride. But when we lose by 5 or 10 points, will you be alright with that?”
+[says:hashimoto-masayoshi] (p.264) “What matters right now is that our class wins, right? It’s just that we happened to step in some dog shit and ended up feeling like crap.”
+[says:hashimoto-masayoshi] (p.266) “I accept your apology.”
+[says:hashimoto-masayoshi] (p.266) “I get it. But if you don’t pull back, we’ll be in trouble too.”
+[says:hashimoto-masayoshi] (p.267) “Hurry up and get going while the teacher is watching. Yeah?”
+[says:hashimoto-masayoshi] (p.267) “Doing this kinda thing when there’s people watching, jeez… he’s really not someone you want to make an enemy of.”
+[note] (p.262–267) Speaker assignments follow printed adjacency and printed names (“Hashimoto…!” / “Shimizu!” / “Ishizaki!” are address forms, not speaker IDs); the corpus prints several exchanges without speaker tags — assignment made where the grammar and adjacent narration constrain it; the rest is listed here unassigned.
+[rel:ryuuen-kakeru] (p.262–267) He wises up to Ryuuen's trap — Ryuuen wants a scene; Hashimoto refuses to give him one; “he’s really not someone you want to make an enemy of.”
+[rel:ishizaki-daichi] (p.258–267) The pawn — he doesn't buy the act.
+[rel:shimizu-naoki] (p.262–267) He pushes Shimizu to apologize to get them moving.
+[rel:matoba-shinji] (p.262–267) He brokers the peace; he leaves them both bewildered.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

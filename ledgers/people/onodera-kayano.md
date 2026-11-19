@@ -145,6 +145,57 @@ char_id: onodera-kayano · status: minor
 [rel:hirata-yousuke] (p.179) Hirata led the Sunday Keyaki Mall summit.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.246–301 — Ch.5: The doubles pact — 10 straight; the tennis final (third-person, Sudou-side)
+[scene] (p.246–249) She reports her wins to Horikita with Sudou — “Since the start, Sudou-kun’s had three straight victories… Onodera’s taken first place in both events she’s fought.”; Horikita asks when she improved — “I don’t really like running…”; they are scheduled for successive doubles events; “You bet. We’re gonna keep this winning streak rolling.”
+[says:onodera-kayano] (p.246) “Since the start, Sudou-kun’s had three straight victories, you know. What’s more, he made it look easy. I should’ve expected that!!”
+[says:onodera-kayano] (p.246) “Well, in my case, I did get a bit lucky.”
+[says:onodera-kayano] (p.246) “I don’t really like running, and I’m not interested in stuff other than swimming, so maybe I was just not taking it seriously…”
+[says:onodera-kayano] (p.247) “I get super tired; I can’t run that much–there isn’t a single good thing about it!”
+[scene] (p.286–287) She partners Sudou to the doubles table tennis finals; their class fills the gymnasium; he is absent-minded lately — watching Housen from Class 1-B; she is sharp enough to notice but lets it pass
+[says:onodera-kayano] (p.286) “Anyway, don’t you think we make a great pairing? So far we’ve won all four pair competitions we’ve participated in. I’m sure everyone in our class will be surprised!”
+[says:onodera-kayano] (p.286) “Are you worried about that first year guy? You’ve been watching him all along.”
+[says:onodera-kayano] (p.286) “Eh?”
+[says:onodera-kayano] (p.286) “Housen… I think? He’s so big it’s hard to imagine he’s a first year, and he has this incredible aura. But, I don’t know, it doesn’t seem like that’s why you’re watching him. Did something happen between you two?”
+[says:onodera-kayano] (p.286) “Nothin’ much. Don’t worry about it.”
+[scene] (p.287–301) The mixed-doubles tennis final vs Housen and his partner — Housen does all the work; Sudou is off — 3-0 Housen's lead; Onodera steps in — she serves, she defends, Housen aims near her — she sprains her left ankle; she crawls back — “It just grazed me… but still”; she rides it out to the end; Sudou wins 3-2; the hug — “I wanted to pair up with you because I had a good opinion of you, Sudou-kun. Please don’t betray my expectations.”; the school day closes with Sudō and Onodera trying to find Suzune.
+[says:onodera-kayano] (p.287) “Alright, let’s clinch this quickly and raise the roof!”
+[says:housen-kazuomi] (p.288) “Didn’t think the finals would be against’cha, Sudou-paisen.”
+[says:onodera-kayano] (p.289) “No way… he’s so fast…! He must have played tennis before!”
+[says:onodera-kayano] (p.291) “…Kya-!?”
+[says:sudou-ken] (p.292) “Onodera!”
+[says:onodera-kayano] (p.292) “Don’t worry. It just grazed me… but still, isn’t he right that tennis is about aiming close to your opponents?”
+[says:sudou-ken] (p.293) “This isn’t even how you treat a match… you playing aro—!”
+[says:onodera-kayano] (p.293) “I think, somehow. But man, I’m so worthless. I was so scared of the ball and tried to dodge it, and I ended up falling over and spraining my leg.”
+[says:onodera-kayano] (p.293) “Will you be alright?”
+[says:onodera-kayano] (p.294) “Ever since I came to this school, I have had a good opinion of you, Sudou-kun.”
+[says:sudou-ken] (p.294) “Huh? Where’d that come from? Just stay calm and let them treat you.”
+[says:onodera-kayano] (p.294) “No, it’s fine! This wound paid off. It bought us just a little bit of time to calm down.”
+[says:sudou-ken] (p.294) “You sure are keeping it cool… Anyway, you had a good opinion of me back then?”
+[says:onodera-kayano] (p.294) “Yes. But you are also the person I least wanted to have anything to do with. You were so thorny!”
+[says:onodera-kayano] (p.294) “Ughh. So that’s when I learned. Getting mad is no good, and it’ll come back to bite me later.”
+[says:onodera-kayano] (p.294) “About that. A senior taught me some magic.”
+[says:onodera-kayano] (p.295) “Yes. I’ll teach it to you, Sudou-kun. A spell that controls your anger.”
+[says:onodera-kayano] (p.295) “The peak of your anger, you see, is actually surprisingly short, and doesn’t last more than a few seconds. So when you want to scream in anger, do that once inside your head, and then take ten deep breaths.”
+[says:onodera-kayano] (p.295) “Yes. I’m sure that’ll be enough to make a difference, so try it out.”
+[says:sudou-ken] (p.295) “… I get it.”
+[says:onodera-kayano] (p.295) “I wanted to pair up with you because I had a good opinion of you, Sudou-kun. Please don’t betray my expectations.”
+[says:sudou-ken] (p.298) “Yeah! Thanks Onodera, if you didn’t help I would definitely have lost this match.”
+[says:onodera-kayano] (p.298) “That’s not true! If anything, I only dragged you down…”
+[says:sudou-ken] (p.298) “I’m not gonna say your injury paid off, but when you got hurt and I snapped, for a moment I felt like I’d lost. You snapped me out of it.”
+[says:onodera-kayano] (p.298) “Really. Then, we were… good partners, right?”
+[says:sudou-ken] (p.298) “Yeah. It was super easy to work with you, and I could really depend on you. This is seriously amazing, Onodera! Ahh, if only Suzune could somehow see us do so well…”
+[says:onodera-kayano] (p.299) “Next time we’re going back from club, let’s go have dinner together.”
+[says:sudou-ken] (p.300) “Eh? Oh, sure, that’s cool. Anyway, help me find Suzune. Where are you, Suzune!?”
+[says:onodera-kayano] (p.300) “Ahahaha. No. Absolutely not.”
+[note] (p.286–301) POV note: this scene is Sudou's focalization in third person; lines tagged by printed adjacency/alternation and printed speaker tags; Housen's lines are printed under his own name.
+[note] (p.294) The “magic” of the ten-second anger spell — her ninth senior's teaching — the corpus does not name the senior.
+[rel:sudou-ken] (p.246–301) Her doubles partner — she fixes his mental game with the ten-second spell; ten wins in a row; his crush colors the partnership.
+[rel:housen-kazuomi] (p.286–301) The menace — “He’s so big it’s hard to imagine he’s a first year” — he aims at her; she sprains her ankle.
+[rel:horikita-suzune] (p.246–249) She reports the duo's record to her; worries about him.
+[note] (p.298) The “Yeah!” Sudou's victorious hug — she squeals in pain as he crushes her — he apologizes fast.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

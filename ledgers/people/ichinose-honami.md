@@ -1516,6 +1516,12 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ryuuen-kakeru] (p.213) He reads her class as the strongest fallback alliance — the three-person gap.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.258–258 — Ch.5: Ichinose — at the venue with Horikita (minute-by-minute)
+[mentioned] (p.258) “Up against Horikita and Ichinose, who were assessing the status and participants of competitions minute-by-minute, Class A’s Matoba and Shimizu continued to struggle in the absence of their leader.” — Ichinose is at the athletics field with Horikita, assessing the festival's state minute-by-minute; her class continues to perform despite Sakayanagi's absence.
+[note] (p.258) Her own class's fortunes in the festival are not detailed on these pages; recorded as present and working.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

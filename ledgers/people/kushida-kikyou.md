@@ -1712,6 +1712,29 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.131–145) “He made a plan that used it against me.”
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.273–285 — Ch.5: Kushida's festival — the debt to Amasawa (Horikita's POV)
+[scene] (p.273–278) She rushes to Horikita-Ibuki — “Finally, found you.” — her eyes are on Amasawa-san; she follows her; she recruits Rokkaku-san and Fukuyama-san from Class A — and Himeno-san from Ichinose's class — with half a minute of conversation each; she forms the volleyball team almost single-handedly; “That first year, Amasawa-san. I owe her a debt.”
+[says:kushida-kikyou] (p.274) “Horikita… san? … Oh, you’re here.”
+[says:kushida-kikyou] (p.275) “What do you want, Kushida-san? I can’t imagine you’ve turned a new leaf and want to help me out.”
+[says:kushida-kikyou] (p.275) “That first year, Amasawa-san. I owe her a debt.”
+[says:kushida-kikyou] (p.275) “I don’t want to explain my reasons, but to repay that debt, I’m fine with helping you.”
+[says:kushida-kikyou] (p.277) “Do you have any conditions for the remaining three? You want to avoid anybody from Ryuuen-kun’s class, is that all?”
+[says:kushida-kikyou] (p.277) “Got it. Then, just wait for a bit.”
+[says:kushida-kikyou] (p.278) “They say they’ll take part in volleyball. Himeno-san isn’t the best at it, but she agreed to do it if the five of us backed her up. You can leave the competition to us, so it’ll be alright.”
+[says:kushida-kikyou] (p.278) “We’re worried we’re going to lose, and in the worst case, even if we don’t win, we want to at least contribute to our class.”
+[scene] (p.282–285) In the final, she's the anchor — she throws herself in front of Himeno-san's frozen pass — controls the rally — saves the match — she slides to receive Ibuki-san's toss pass — her desperate volleyball saves — the 7–6 lead is hers; Horikita gives her everything until she's spent; the final's final point lands out of bounds; the winners are overwhelmed by the despair of winning.
+[note] (p.282) Everyone turns to Ibuki-san at the spike — the shout “Ibuki-san!” is untagged; recorded without assignment.
+[note] (p.282) Himeno-san froze; Kushida-san forced her way in front of her to try to receive the ball, but she could not control its power — narration, not speech.
+[trait] (p.273–285) New facade, same pragmatism — she pays her debts; she builds teams in seconds; she rides the fear of losing Class A to last place; she saves the final point with a slide receive; "enemy of my enemy is my friend."
+[rel:amasawa-ichika] (p.275–285) The debt — she forces herself to help the class to face her toughest enemy.
+[rel:rokkaku-momoe] (p.277) Class A's Rokkaku — recruited for the six.
+[rel:fukuyama-shinobu] (p.277) Class A's Fukuyama — recruited for the six.
+[rel:himeno-yuki] (p.277–282) Class C/Ichinose's Himeno — recruited as a filler; Horikita lets her anchor anyway.
+[rel:horikita-suzune] (p.273–285) The left-handed handshake repaid — she builds Horikita the team that wins the festival.
+[rel:ibuki-mio] (p.275–282) She hands her the matches they both need to face.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

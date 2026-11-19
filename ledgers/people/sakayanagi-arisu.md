@@ -963,6 +963,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.221) The Sakayanagi decision is now final — she will participate, despite the cane, despite Ryuuen and Katsuragi’s 70–80% estimates.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.250–285 — Ch.5: Sakayanagi — the commander on the sideline (Horikita's POV)
+[mentioned] (p.257) “Sakayanagi-san was also absent.” — Nagumo says at lunch; she is absent from the festival too — her leadership is carried on.
+[mentioned] (p.258) “Up against Horikita and Ichinose, who were assessing the status and participants of competitions minute-by-minute, Class A’s Matoba and Shimizu continued to struggle in the absence of their leader.” — the class struggles without her; she's there in body but on the sidelines.
+[mentioned] (p.276–278) The two girls from Class A that Kushida recruits — Rokkaku-san and Fukuyama-san — are desperate to contribute because Class A is sinking; her absence is the cause.
+[mentioned] (p.284) Amasawa's team — “second place in the tournament” — Class A gets points anyway via Himeno/Rokkaku/Fukuyama's volleyball stint.
+[rel:amasawa-ichika] (p.279–285) Her classmate; the tournament's face off Horikita's team.
+[rel:rokkaku-momoe] (p.277) Her class — desperate for points.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

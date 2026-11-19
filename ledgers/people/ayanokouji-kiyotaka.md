@@ -9977,6 +9977,38 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.239–240) “Attack on Sakayanagi” — the plan is in motion.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.223–240 — Ch.4: The birthday date; the sitting-out plan (AK POV)
+[scene] (p.223–233) October; Keyaki Mall after school; Kei comes along — private points and the birthday hunt; they bump into Ishizaki and Albert; the 20th is Ryuuen's birthday and AK's too; Ishizaki proposes a double birthday; Kei seems oddly content with Ishizaki's offer — “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.” — the group is in pieces; she half-agrees: “Also? Ishizaki-kun did say he would once again apologize…” — real or fake, it does not matter much right now; the mall day closes with “That’s enough. Right now, you are Kiyotaka’s friend, right?” — the day inches forward to the festival eve.
+[scene] (p.234–237) The Satou incident — she bolts past them near the electronics corner; the restroom stall; the first-year's approach; the whispered proposition; recorded in Satou's own person record — not AK's story, but he does not know it happened.
+[scene] (p.238–240) The Sports Festival eve — 9:30 PM — AK calls Horikita — “Surprisingly late for you to call, isn’t it? I was just about to go to bed.” — “I’ve got something important to say regarding the Sports Festival.” — she turns off the hair dryer quickly; he says Sakayanagi is set on participating tomorrow, you know? — “I’m thinking of sitting out the Sports Festival tomorrow.” — she drops the hair dryer; ten points painful; “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.” — “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…” — she realizes she cannot understand; she agrees to trust him at this point; “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.” — he ends the call and now he has one more person to call.
+[says] (p.238) “I’ve got something important to say regarding the Sports Festival.”
+[says] (p.238) “You have something important to say? I better take this somewhat seriously, then.” — wait, that's Horikita's line.
+[says:horikita-suzune] (p.238) “Surprisingly late for you to call, isn’t it? I was just about to go to bed.”
+[says:horikita-suzune] (p.238) “You have something important to say? I better take this somewhat seriously, then.” She said, and she must’ve quickly turned off the hair dryer because the earpiece went quiet.
+[says:horikita-suzune] (p.239) “Ah, before that, I had something I wanted to say. Sakayanagi-san is set on participating in the Sports Festival tomorrow, you know? Didn’t you say you could stop her?”
+[says] (p.239) “What I have to say has to do with that, too. I’m thinking of sitting out the Sports Festival tomorrow.”
+[says:horikita-suzune] (p.239) “…Sitting out? Wait just a moment, what do you mean?”
+[says] (p.239) “Are you alright?”
+[says:horikita-suzune] (p.239) “Sorry, I just dropped the hair dryer…”
+[says:horikita-suzune] (p.239) “So, what do you mean by sitting out? You’re not unwell or anything, right?”
+[says] (p.240) “Ah, no, there’s no problems with my health. Rather, it’s like I feel better than I usually do.”
+[says:horikita-suzune] (p.240) “Then why? If you sit it out, we’ll lose ten points, you know? Even though I wasn’t banking on the points you win in my calculations, losing those ten points will be painful.”
+[says] (p.240) “I’m not going to say those ten points aren’t worth much. But this is my strategy, it’s essential.”
+[says:horikita-suzune] (p.240) “… Your strategy?”
+[says] (p.240) “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.”
+[says:horikita-suzune] (p.240) “Attack on Sakayanagi…?”
+[says] (p.240) “I told you. That I have a way to keep Sakayanagi from participating in the Sports Festival.”
+[says:horikita-suzune] (p.240) “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…”
+[says:horikita-suzune] (p.240) “I see. I won’t be able to understand what you’re planning, not as I am right now. And I suppose you won’t change your mind about skipping the Sports Festival even if I try to persuade you otherwise?”
+[says] (p.240) “Yeah. First thing tomorrow morning, I’ll tell the school that I’m sick.”
+[says:horikita-suzune] (p.240) “If that’s the case, I guess I have no choice but to trust you at this point.”
+[says:horikita-suzune] (p.240) “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.”
+[says] (p.240) “Thanks for your support.”
+[rel:horikita-suzune] (p.238–240) She drops the hair dryer at his news; she is furious but cannot argue without breaking trust; she must score ten points herself now.
+[rel:sakayanagi-arisu] (p.239–240) “Attack on Sakayanagi” — the plan is in motion.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

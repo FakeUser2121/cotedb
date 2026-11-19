@@ -92,14 +92,16 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — himeno-yuki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.277-278, p.282.
-[mentioned] (p.11) Passing mention only.
+### y2v6 p.277–285 — Ch.5: Himeno — the last piece (Horikita's POV)
+[mentioned] (p.277) “Kushida-san brought two girls from Class A and one from Class C, and they all discussed for about half a minute.” — the third girl; Ichinose’s class volunteer; “Himeno-san isn’t the best at it, but she agreed to do it if the five of us backed her up.”
+[note] (p.278) They say they’ll take part in volleyball — their exact words printed are: “We’re worried we’re going to lose, and in the worst case, even if we don’t win, we want to at least contribute to our class.” — printed as a pair agreement, not as Himeno's speech alone.
+[note] (p.282) Himeno-san froze at Nanase-san's spike; Kushida-san forced her way in front of her to try to receive it, but she could not control its power.
+[note] (p.282) Himeno-san's rally — she lunges but freezes — that is where the match pivots.
+[rel:rokkaku-momoe] (p.277) The two girls from Class A traveling with her.
+[note] (p.282) Her own performance held the floor — she freezes under the spike — the pass is hers.
+[note] (p.277–285) The roster row carrying y2v6 is himeno-yuki; the y2v7 record notes the printed “Himeno” may match either this row or the added “himeno” row; no assignment is made here either.
 
-
-
-
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -365,6 +365,31 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [note] (p.163–165) She neither confirms nor denies bugs; White Room's status: she claims she was "expelled from the White Room's team, and branded as unnecessary" (AK's framing); the other White Room members are unclear to her too — "I'm not really interested" (AK) is his real stance.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.273–285 — Ch.5: Amasawa's volleyball — the first-year who is terrifying (Horikita's POV)
+[scene] (p.273–274) First-year Amasawa-san appears at the cheering seats — “Oh~? If it isn’t Horikita-senpai and Ibuki-senpai~! Good work~”; needles Ibuki; she is in volleyball too — the announced first-year/second-year mixed volleyball competition; her team: Nanase-san and four other girls; “I came to the gymnasium to participate in volleyball. This is my first time playing volleyball, you know~”; she dashes off to join her waiting team.
+[says:amasawa-ichika] (p.273) “Oh~? If it isn’t Horikita-senpai and Ibuki-senpai~! Good work~”
+[says:amasawa-ichika] (p.273) “Oh, no~ You’re making such a scary face… is it perhaps that time of the month?”
+[says:amasawa-ichika] (p.274) “If you’ve got any slots left, how about I fight you?”
+[says:amasawa-ichika] (p.274) “Don’t underestimate me. Be grateful we didn’t face off today.”
+[says:amasawa-ichika] (p.274) “You’re always so spirited, aren’t you~ By the way, what are you two doing here? If you aren’t participating in a competition, you have to cheer, or it’ll be bad.”
+[says:amasawa-ichika] (p.274) “Oh, are my seniors due to compete in the shuttle run? As for me—”
+[says:amasawa-ichika] (p.274) “Finally, found you.”
+[says:amasawa-ichika] (p.274) “I came to the gymnasium to participate in volleyball. This is my first time playing volleyball, you know~”
+[says:amasawa-ichika] (p.274) “See you then. Best of luck at the shuttle run~!”
+[scene] (p.279–285) Her team crushes the early rounds — Nanase-san is the MVP — until Amasawa visibly starts adapting mid-game; the stuff-block — “A stuff block, I think. I’m not too familiar with it myself, though.” — she reads Ibuki's attack patterns — “I’ve already seen through your attack patterns, senpai, so you won’t get through any more!” — she plays decoy Nanase-san; the final's final two minutes — she walks off applauding; “Oh, time’s up. It was just starting to get interesting!” — the festival ends.
+[says:amasawa-ichika] (p.281) “What a shame~ Ibuki-senpai. Nanase-chan, what was this play called again?”
+[says:amasawa-ichika] (p.281) “There you go! I’ve already seen through your attack patterns, senpai, so you won’t get through any more!”
+[says:amasawa-ichika] (p.282) “Too bad~”
+[says:amasawa-ichika] (p.284) “Ahh. Sorry, Nanase-chan, I missed~ It’s pretty hard to control it perfectly, huh?”
+[says:amasawa-ichika] (p.284) “Oh, time’s up. It was just starting to get interesting!”
+[trait] (p.273–285) Adaptability and instinct that cannot be written off as mere talent — she sees through attack patterns in minutes; uses her own strength as a lie to lure and decoy; a first-year who plays to amuse herself; “it was just starting to get interesting!” — no frustration at losing.
+[rel:nanase-tsubasa] (p.279–285) Her teammate — Nanase is the MVP — she holds her up while she adapts.
+[rel:ibuki-mio] (p.273–285) She wants to fight her — stares at her from across the court — twice stuff-blocked her — once a decoy — she has watched her play styles all along.
+[rel:horikita-suzune] (p.273–285) She calls her by name — “Horikita-senpai” — she knows her face — Amasawa was in the Yagami-Watanabe decoy conspiracy last year — in volleyball, she is just terrifying.
+[rel:kushida-kikyou] (p.275–285) Kushida owes her a debt — she recruits three players for her team anyway.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

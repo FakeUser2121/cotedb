@@ -1206,6 +1206,66 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.121) The corpus prints a mixed glyph for “What is it!’” — kept as printed.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.243–249 — Ch.5: The 100m showdown; the long jump 2cm (Horikita's POV)
+[scene] (p.243) She runs at Horikita at full speed — panting, glaring — “A-anyway, fight me!” — Horikita tells her to go wait at the designated area; she mutters “Shit” — “A-anyway, fight me!”; she runs the first girls' race against Horikita — she loses by the same narrow margin as last year; kicks up dirt in frustration.
+[says:ibuki-mio] (p.243) “Huh?! What are you saying? You scared of losing to me? You are, aren’t you?”
+[says:ibuki-mio] (p.243) “… Huh?! It’s the 100 meter race, of course! I won’t forget it, we decided this together.”
+[says:ibuki-mio] (p.243) “Shit,”
+[says:ibuki-mio] (p.243) “A-anyway, fight me!”
+[says:ibuki-mio] (p.244) “Come, Horikita! Fight me!!”
+[scene] (p.245–249) The long jump — third turn behind Horikita; regulated breathing; 5m81cm — just 2cm over Horikita's 5m79cm; she leaps forward, dirt on her face, strikes a victory pose and makes a big fuss like a child; “I did it!”
+[says:ibuki-mio] (p.248) “I did it!”
+[says:ibuki-mio] (p.248) “Did you see? I won! You lose!!”
+[says:ibuki-mio] (p.248) “Huh? Air resistance?”
+[says:ibuki-mio] (p.248) “Don’t be a sore loser. Just honestly admit you lost!”
+[says:ibuki-mio] (p.249) “I won! I won! I won!”
+[rel:horikita-suzune] (p.243–249) The fated rematch pair — 1-1; the balance beam is her next target; Horikita's narrow 100m win; her 2cm long jump win.
+
+### y2v6 p.268–285 — Ch.5: The volleyball agreement — teaming up with her (Horikita's POV)
+[scene] (p.268–270) She bursts into Horikita's gymnasium corner — “Fight me!” — she missed the 1:20 PM registration for the balance beam; she'd mixed up the timings; she demands the shuttle run — “Shuttle Run? That thing where you continuously go back and forth until you drop?” — she yells in Horikita's ear; “P… Pl… e… as… e… fi… ght… me…!!”
+[says:ibuki-mio] (p.268) “Fight me!”
+[says:ibuki-mio] (p.269) “I didn’t participate!”
+[says:ibuki-mio] (p.269) “Ugh…! I-I mixed up the timings.…”
+[says:ibuki-mio] (p.269) “1 Win, 1 Loss! We haven’t settled this yet!”
+[says:ibuki-mio] (p.269) “That, that! Tell me what you’re participating in!”
+[says:ibuki-mio] (p.270) “Grr…!”
+[says:ibuki-mio] (p.270) “P… Pl… e… as… e… fi… ght… me…!!”
+[says:ibuki-mio] (p.270) “There, satisfied?!”
+[says:ibuki-mio] (p.270) “I think I remember doing this in middle school. Alright, let’s make it the deciding match!”
+[says:ibuki-mio] (p.270) “No, aren’t you participating too? What’s the point if we aren’t in the same group?”
+[says:ibuki-mio] (p.270) “Huh?”
+[says:ibuki-mio] (p.270) “Not happening!”
+[says:ibuki-mio] (p.271) “So what about the thing I just begged you for?”
+[says:ibuki-mio] (p.271) “… Yeah, whatever. Then I guess this is the end of our fight…”
+[says:ibuki-mio] (p.271) “I’d need five people to fight you. I couldn’t even try to do that. Yeah, pass.”
+[says:ibuki-mio] (p.271) “You’re not so different either.”
+[says:ibuki-mio] (p.271) “How about that. I wanted to settle things, but I’ll put this on hold for another time.”
+[says:ibuki-mio] (p.271) “The only thing I was interested in was settling my score with you. I have no interest in going out of my way to help Ryuuen.”
+[says:ibuki-mio] (p.271) “Is there anything else?”
+[says:ibuki-mio] (p.272) “If you don’t get enough people to play volleyball, you’ll participate in the shuttle run, right?”
+[says:ibuki-mio] (p.272) “Shut up. So anyway, I’m going to stick around for a while longer.”
+[says:ibuki-mio] (p.274) “Oh, no~ You’re making such a scary face… is it perhaps that time of the month?”
+[says:ibuki-mio] (p.274) “Don’t underestimate me. Be grateful we didn’t face off today.”
+[says:ibuki-mio] (p.274) “Participate in the shuttle run, Amasawa-san. We can fight there.”
+[says:ibuki-mio] (p.275) “Then I’ll participate too. At any rate, you won’t be able to get five players.”
+[says:ibuki-mio] (p.275) “I’m telling you, I’ll participate too. Teaming up with you sucks, but this is a chance to beat that piece of shit brat of a first year!”
+[says:ibuki-mio] (p.275) “Huh? But you haven’t even found one person for it?”
+[says:ibuki-mio] (p.276) “Don’t care. If I can see Amasawa eat shit, that’s enough for me.”
+[says:ibuki-mio] (p.276) “Then why don’t you let me join as well?”
+[says:ibuki-mio] (p.277) “I’ll participate too. At any rate, you won’t be able to get five players.”
+[says:ibuki-mio] (p.278) “Shut up. Not like you were able to find anybody.”
+[says:ibuki-mio] (p.280) “First, I’ll beat you at volleyball. And then I’ll beat you in a fight.”
+[says:ibuki-mio] (p.280) “Just like the last match, I’m playing an attacker. I’m gonna smash every ball into their court,” declared Ibuki-san, even more enthusiastic than before.
+[says:ibuki-mio] (p.281) “Fuck! I’ll definitely make the next one!”
+[says:ibuki-mio] (p.281) “This time—you’re going down!!”
+[says:ibuki-mio] (p.282) “I’m taking the next one as well!”
+[scene] (p.268–285) The volleyball scheme — she volunteers to join Horikita's team to beat Amasawa; Horikita accepts her; her explosive spike; Amasawa stuff-blocks her twice; her final attempt forces a toss instead; Kushida's defensive save — the 7–6 win; “Ahh. Sorry, Nanase-chan, I missed~” — the exultant crush of the win.
+[rel:amasawa-ichika] (p.273–285) The first-year they're here to beat — “that piece of shit brat of a first year!” — she stuff-blocks Ibuki twice, then three — Ibuki is sent back.
+[rel:horikita-suzune] (p.268–285) They team up after the balance beam — “Teaming up with you sucks, but this is a chance to beat that piece of shit brat”; the best-of-three settled 1–1.
+[rel:nanase-tsubasa] (p.280) She is the killer — Ibuki's real target; “Just like the last match, I’m playing an attacker.”
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

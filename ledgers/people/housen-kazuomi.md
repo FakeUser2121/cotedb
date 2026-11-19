@@ -225,9 +225,24 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [note] (p.11) Passing mentions on pages: p.47.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.286–301 — Ch.5: Housen — the first-year menace who plays by different rules (third-person, Sudou-side)
+[scene] (p.286) Onodera notices Sudou staring at him — Class 1-B's Housen — so big he can't imagine he's a first year, "this incredible aura"; his pair crushes their match; his win sets the final; he draws close: "Didn’t think the finals would be against’cha, Sudou-paisen."; the atmosphere changes; his serving game is fearsome; he aims at Onodera's body — "or you will lose"; he aims at Sudou to break him mentally.
+[says:housen-kazuomi] (p.288) “Didn’t think the finals would be against’cha, Sudou-paisen.”
+[says:housen-kazuomi] (p.288) “You better not think you can beat me just ‘cus it’s tennis. I’m gonna destroy you, so you better be ready for that.”
+[says:housen-kazuomi] (p.290) “You ain’t worth shit, Sudou. You’re a loser.”
+[says:housen-kazuomi] (p.291) “Huh? ‘Course you aim at your opponent’s body in tennis. Keep shooting away from them and they’ll catch up and return it. Ya don’t even know that? Kickin’ up a fuss after just one ball!”
+[says:housen-kazuomi] (p.292) “How many times do I need to tell you? That stupid woman of yours is just bad. Worthless!”
+[says:housen-kazuomi] (p.292) “Sucks, I fumbled the game. But you lot are gonna have to play one more. Ain’t that just hell for you?”
+[says:sudou-ken] (p.297) “We won, Onodera! Thanks to you!”
+[says:housen-kazuomi] (p.300) “Oi, Sudou. Don’t let this win get to yer head, eh? If I was serious, you’d be toast. Ya know that, right?”
+[says:housen-kazuomi] (p.300) “Come with me, let’s play some more behind the gym.”
+[says:housen-kazuomi] (p.301) “Huh? Ain’t about whether you’re interested or not. From now on, you’re my sandbag.”
+[says:housen-kazuomi] (p.301) “Boring fool. Don’t mess with me again.”
+[trait] (p.286–301) Predatory, abusive, unbeaten in raw talent — Class 1-B's terror; aims at Onodera's face and Sudou's pride; throws his racket at the ground when he loses; sucker-punches Sudou behind the gym; a classmate who forgot he's supposed to exist in society.
+[rel:sudou-ken] (p.286–301) The first-year menace Sudou can't place — his brutality makes Sudou throw the racket; Sudou refuses to engage him after the match.
+[rel:onodera-kayano] (p.286–301) His target — she freezes before the ball aims at her; sprains her ankle; survives it.
 
-
-
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

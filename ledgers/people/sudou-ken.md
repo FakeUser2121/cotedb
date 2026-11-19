@@ -1593,6 +1593,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.183) Her stated strategy: a frontal attack.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+### y2v6 p.246–249 — Ch.5: The doubles pact report — Sudou's streak (Horikita's POV)
+[scene] (p.246–249) Sudou and Onodera rush over — he's at three straight victories; Onodera at three; he wanted to fight Kouenji — Horikita tells him class comes first; “You bet. We’re gonna keep this winning streak rolling.”; they've been practicing every day since teaming up; a much more natural combo than imagined.
+[says:sudou-ken] (p.246) “Eh, I guess. But you know, Onodera’s taken first place in both events she’s fought. Yeah?”
+[says:sudou-ken] (p.246) “Ya said you definitely won’t do long distance!”
+[says:sudou-ken] (p.247) “Well, to be honest, you know, I wanted to fight against Kouenji if I could. That dude also got first in all three events he participated in, and seems like he’ll continue that streak.”
+[says:sudou-ken] (p.247) “I-I get it. It’s just a joke.”
+[says:sudou-ken] (p.248) “Y’all don’t believe in me one bit…”
+[says:sudou-ken] (p.248) “You bet. We’re gonna keep this winning streak rolling.”
+[says:sudou-ken] (p.248) “Yeah, let’s do that. See you later, Horikita-san.”
+[rel:onodera-kayano] (p.246–249) His doubles partner; the two have found a rhythm — natural combo; practicing every day.
+[rel:horikita-suzune] (p.246–249) She reins his competitive instinct in — class over rivalry; she entrusts Onodera with him.
+[rel:kouenji-rokusuke] (p.247) He wants to fight Kouenji — she warns him off.
+
+<!-- walk: y2v6 Ch.5 → p.301 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
