@@ -1818,21 +1818,38 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kanzaki-ryuuji] (p.48–50) Checks his hostility; insists Ayanokōji isn't their enemy and stops his argument in a rare forceful tone.
 ## y2v3
 
+
 <!-- walk: y2v3 → start -->
 
 ### y2v3 p.104 — Ichinose guessed at the fire
 [mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
 
+
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+### y2v3 p.145 — Ichinose named at the History Test
+[mentioned] (p.145) “later, they would probably join up with Ichinose’s group and form a six-member team.” — named (the expected merger); not present; POV Ayanokōji.
+
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
 
 ### y2v3 p.234 — Ichinose named by Sakayanagi
 [mentioned] (p.234) “Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.” — named as Sakayanagi's working group; not present; POV Ayanokōji.
 [mentioned] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.” — named by Ryūen; not present; same scene.
 [mentioned] (p.219) “If you run into Ichinose, can you tell her the plan as well?” — named by Ayanokōji; not present; same scene.
 
-<!-- walk: y2v3 Ch.6 → p.259 -->
+### y2v3 p.252–257 — Ichinose named at the camp
+[mentioned] (p.252) “what you would expect of one of Ichinose’s classmates.” — named; not present; POV Ayanokōji.
+[mentioned] (p.253) “Chances are that this was all Ichinose’s idea. It would be extremely” — named; not present; POV Ayanokōji.
+[mentioned] (p.254) “when someone is explicitly tasked with holding onto these things. Ichinose” — named; not present; POV Ayanokōji.
+[mentioned] (p.256) “I know right? Honami-chan’s been dropping his name pretty much all the” — named by Andō; not present; POV Ayanokōji.
+[mentioned] (p.256) “but you do know that this is THE Honami-chan we’re talkin’ about, right?” — named by Andō; not present; POV Ayanokōji.
+[mentioned] (p.257) “the second-years like Honami-chan, right?” — named by Minamikata; not present; POV Ayanokōji.
+[mentioned] (p.257) “While there was certainly no denying the fact that Ichinose was popular” — named; not present; POV Ayanokōji.
+[mentioned] (p.257) “Isn’t the bigger issue here the fact that Ichinose isn’t even interested in” — named by Ayanokōji; not present; POV Ayanokōji.
 
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ### y2v3 p.331–334 — The broken watch; the walk back
 [scene] (p.331) 7:00 AM day 7; her watch died in a morning fall (GPS and heart-rate monitor dead); the group is in the southwest of E6; her resolve to return to the starting area and fix/replace it; guilt; Shibata joins her without a second thought.
@@ -1856,7 +1873,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.334) “I just need to walk in a straight line. I’ll be fine.”
 [says:shibata-sou] (p.334) “…Alright, but please don’t do anything foolish. If it starts raining, don’t try to force it, just wait until it stops, okay?”
 [says] (p.334) “Yep, I definitely won’t overdo it. After all, it’d be no laughing matter if I got injured and was made to retire because of it.”
-
 
 ### y2v3 p.334–342 — The forest; the noise; Tsukishiro and Shiba
 [scene] (p.334–338) Lost; the dead tablet; the faint noise; two figures — Tsukishiro and Shiba (Class 1-D homeroom); she trails them; the overheard plot to force Ayanokōji–kun's expulsion; the recognition of her own expulsion risk; his head snaps around; the run; the root; the grab.
@@ -1897,7 +1913,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says:tsukishiro] (p.345) “Unexpected setbacks happen all the time. That being the case, we’ll just have to adapt.”
 [says:tsukishiro] (p.345) “Are you really that worried? I thought I gave her a rather effective warning.”
 [says:tsukishiro] (p.345) “Regardless of her relationship with Ayanokōji-kun, the elimination of a formidable enemy like him would be great for Class C. She herself will also come to terms with that as time passes, so let’s just stay calm and see what happens, shall we?”
-
 
 ### y2v3 p.346–355 — Tsukishiro's smile; her class's doom
 [scene] (p.346) A raindrop lands on his cheek; his 99% certainty; “If everything goes according to plan, Ayanokōji-kun’s Emergency Alert should go off any time now.”; she vanishes into the tree line; his unwavering conviction.

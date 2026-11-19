@@ -160,14 +160,39 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 ### y2v3 p.58 — Hōsen named at D7
 [mentioned] (p.58) “Her fellow group members, Amasawa and Hōsen, were nowhere to be seen, prompting me to wonder if they were out exploring nearby or had come up with a strategy of some sort and left the area already.” — named as Nanase's group member; not present; POV Ayanokōji.
 
+### y2v3 p.69 — Hōsen named at the quiz table
+[mentioned] (p.69) “Hōsen or Amasawa anywhere.” — named; not present; POV Ayanokōji.
+
 <!-- walk: y2v3 Ch.2 → p.74 -->
 
 
 ### y2v3 p.79–80 — Hōsen named by Nanase
 [mentioned] (p.79) “To tell you the truth, a slight issue came up as my group was talking last night. Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart.” — named as having split from the group; not present; POV Ayanokōji.
 
+### y2v3 p.81, 86–87, 101, 119 — Hōsen named in passing (Ch.3)
+[mentioned] (p.81) “Nanase had previously teamed up with Hōsen and Amasawa to try and” — named; not present; POV Ayanokōji.
+[mentioned] (p.86) “Sudō had taken part in the fight with Hōsen a few months back, so it was” — named; not present; POV Ayanokōji.
+[mentioned] (p.87) “That chick is workin’ together with Hōsen to get you kicked outta here right?” — named; not present; POV Ayanokōji.
+[mentioned] (p.101) “Sudō shifted around so that his back was turned to the entrance. Hōsen” — named; not present; POV Ayanokōji.
+[mentioned] (p.119) “Early Bird Bonus as well depended entirely on Amasawa and Hōsen, but I” — named; not present; POV Ayanokōji.
+
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+### y2v3 p.135, 138 — Hōsen named in passing (Ch.4)
+[mentioned] (p.135) “Back when you faced off against Hōsen-kun, your movements were” — named; not present; POV Ayanokōji.
+[mentioned] (p.138) “Yes. Between Hōsen-kun and Amasawa-san, we’ve been earning quite a” — named; not present; POV Ayanokōji.
+[mentioned] (p.138) “Depending on what Amasawa and Hōsen had been doing, there was a” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
+### y2v3 p.209 — Hōsen named at the G3
+[mentioned] (p.209) “No no, I’ll stay with you. As long as Amasawa-san or Hōsen-kun arrive” — named by Nanase; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+
+### y2v3 p.248 — Hōsen named in passing (Ch.6)
+[mentioned] (p.248) “like Hōsen.” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 ### y2v3 p.267–274 — Hōsen named at the bonfire
 [mentioned] (p.267) “The representatives in question were Class A’s Takahashi Osamu, Class B’s Yagami Takuya, Class C’s Utomiya Riku and Tsubaki Sakurako, and Class D’s Hōsen Kazuomi.” — named as a scheduled participant; absent; POV switch to third-person limited (the bonfire scene).
 [mentioned] (p.267) “Despite the fact that she hadn’t really done anything noteworthy or remarkable so far, the person who had spearheaded this get-together was… Tsubaki.” — Hōsen as the absent lead-rep for Class D; not present; same scene.
@@ -181,6 +206,23 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [mentioned] (p.271) “I’m saying that we gotta take action sooner rather than later. If Hōsen-kun gets Ayanokōji-senpai expelled, it’ll all be over for the rest of us.” — the trigger; not present; same scene.
 
 <!-- walk: y2v3 Ch.7 → p.274 -->
+
+### y2v3 p.282, 322, 326 — Hōsen named in passing (Ch.8)
+[mentioned] (p.282) “There’s a limit to how impractical you can get. Hōsen and Amasawa” — named; not present; POV Ayanokōji.
+[mentioned] (p.322) “Utomiya Riku from Class 1-C, and Hōsen Kazuomi from Class 1-D, had” — named; not present; POV Kushida (walkie-talkie debrief).
+[mentioned] (p.326) “I told you previously that she’s working with Hōsen-kun to try and get” — named by Yagami; not present; same scene.
+[mentioned] (p.326) “Given that Hōsen-kun is the one who came up with it, I’m fairly certain” — named by Yagami; not present; same scene.
+[mentioned] (p.326) “Hōsen certainly seems brutal enough to do something like that, but he’ll” — named by Kushida; not present; same scene.
+[mentioned] (p.326) “I don’t think Hōsen-kun will be the one squaring off with Ayanokōji-senpai this time. As you said, Hōsen-kun’s already got a bit of a reputation,” — named by Yagami; not present; same scene.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
+
+### y2v3 p.361, 363 — Hōsen named in the SS pages
+[mentioned] (p.361) “From what he brazenly did during the fight with Housen to this.” — named by Nanase (POV); not present; SS prints drop macrons.
+[mentioned] (p.363) “how he had handled Housen, I had realised he was much more than he let on.” — named by Horikita (her POV); not present; SS prints drop macrons.
+
+<!-- walk: y2v3 Afterword → p.368 -->
 
 ## y2v4
 

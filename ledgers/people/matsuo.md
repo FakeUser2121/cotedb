@@ -35,6 +35,8 @@ char_id: matsuo · role: former butler to Ayanokōji · status: deceased (this v
 [note] (p.299) “Matsuo Eiichiro.” — the full name that prints is the son’s; the butler-father never prints in this volume.
 [note] (p.347) “Yes. Matsuo Eiichiro.” — every print of “Matsuo” in this volume names the son.
 [note] (p.349) “Matsuo Eiichiro had ultimately chosen to give up on his own life.” — the son’s death as Nanase tells it; the father never prints.
+[note] (p.348) “the Matsuo family” — son-in-print context (the butler and his son); the father never prints; recorded as son-in-print only.
+[note] (p.351) “Matsuo Eiichiro’s dying will at heart” — son-in-print context; the father never prints; recorded as son-in-print only.
 [note] (p.352) “all the painstaking efforts Matsuo Eiichiro went through to get me into this school would be for nothing.” — the son’s arc; the father never prints.
 [note] (p.299, 347–353) Every print of “Matsuo” in this volume names the son — “Matsuo Eiichiro” (the butler's son, Nanase's childhood friend); the father never prints in these pages. The son's pages are recorded under ledgers/people/matsuo-eiichirou.md.
 

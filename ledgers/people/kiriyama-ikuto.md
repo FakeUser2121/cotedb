@@ -154,13 +154,19 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [trait] (p.120–128) The student council VP (B+ physical); fiercely secures his spot; openly hostile toward outside eyes on Nagumo; fights dirty only with words.
 [rel:ayanokouji-kiyotaka] (p.120–128) Warns him twice.
 [rel:nagumo-miyabi] (p.120–128) His president; he's working the fix (if it exists) to keep the first/second-years off the podium.
+### y2v3 p.130 — Kiriyama named at the beach
+[mentioned] (p.130) “Together with the rest of his friends, Kiriyama headed off toward the” — named; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
+### y2v3 p.212, 225 — Kiriyama named in passing (Ch.6)
+[mentioned] (p.212) “was held by Kiriyama’s group from Class 3-B. The two top representatives of” — named; not present; POV Ayanokōji.
+[mentioned] (p.225) “fifteen points he’d get from winning, he would overtake Kiriyama’s score of” — named; not present; POV Ayanokōji.
 
-### y2v3 p.367 — Kiriyama named in the Tapestry SS
-[mentioned] (p.367) “Ayanokouji-senpai seems to be talking to Kiriyama-senpai” — named as speaking with Ayanokouji on the beach; not present; POV Nanase.
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 <!-- walk: y2v3 Afterword → p.368 -->
+### y2v3 p.367 — Kiriyama named in the Tapestry SS
+[mentioned] (p.367) “Ayanokouji-senpai seems to be talking to Kiriyama-senpai” — named as speaking with Ayanokouji on the beach; not present; POV Nanase.
 
 ## y2v4
 

@@ -85,6 +85,17 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v3 Ch.7 → p.274 -->
 
+
+### y2v3 p.277 — Utomiya named at the day-7 standings
+[mentioned] (p.277) “The group that’s doing well is Utomiya-kun and Yagami-kun’s,” — named by Nanase; not present; POV Ayanokōji.
+[mentioned] (p.277) “Yagami Takuya from Class 1-B, and Utomiya Riku from Class 1-C.” — named in the narration; not present; POV Ayanokōji.
+
+### y2v3 p.322, 329 — Utomiya named at the walkie-talkie debrief
+[mentioned] (p.322) “Utomiya Riku from Class 1-C, and Hōsen Kazuomi from Class 1-D, had” — named; not present; POV Kushida (walkie-talkie debrief).
+[mentioned] (p.329) “What about that Utomiya guy you’re in a group with?” — named by Kushida; not present; same scene.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

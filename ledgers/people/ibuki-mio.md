@@ -1018,6 +1018,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
+
 ### y2v3 p.50 — The Ibuki rival visit
 [scene] (p.50) A firm, almost angry voice calls out; she approaches Horikita and AK, glares at Horikita; her grievance delivered in one line; she sets off north alone.
 [says] (p.50) “Found you!”
@@ -1027,7 +1028,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.50) Declares herself Horikita's rival; she goes north, Horikita east.
 [rel:ayanokouji-kiyotaka] (p.50) Barely acknowledges him; keeps to herself.
 
+### y2v3 p.73 — Ibuki named at the night analysis
+[mentioned] (p.73) “It was probably a fairly harsh environment for a lone girl like Horikita or Ibuki.” — named (solitary comparison); not present; POV Ayanokōji.
+
 <!-- walk: y2v3 Ch.2 → p.74 -->
+
+### y2v3 p.347 — Ibuki named at the aftermath
+[mentioned] (p.347) “wouldn’t lose out against an opponent like Horikita or Ibuki.” — named (gauge of fight-capable opponents); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4
 

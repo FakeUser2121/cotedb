@@ -872,6 +872,12 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.48) Enigmatic and cheerful — whether he honors the bet to cooperate in the next exam if he fails to take first place is anyone's guess; Horikita's class leadership cuts both ways if he betrays it.
 
 <!-- walk: y2v3 Ch.2 → p.48 -->
+### y2v3 p.213, 221 — Kōenji named at the swim entry
+[mentioned] (p.213) “other than Kōenji.” — named; not present; POV Ayanokōji.
+[mentioned] (p.221) “that’s Kōenji Rokusuke.” — named; not present; POV Ayanokōji.
+[mentioned] (p.221) “Kōenji…? The same Kōenji from your class who’s currently in fourth” — named; not present; POV Ayanokōji.
+[mentioned] (p.221) “which I suppose was only to be expected of someone like Kōenji.” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.224–244 — Kōenji at the summit; the Open Water Swim
 [scene] (p.224–228) At the C5 summit first, with only a bottle of mineral water and no bags or tablets; pours water over himself; registers for the Tug of War; steamrolls the match.
 [says] (p.224) “It seeeeems that my opponent is you, Ayanokōji-boy.”
@@ -885,6 +891,19 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.224–244) The Tug of War opponent he reads like an open book.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
+
+
+### y2v3 p.276 — Kōenji named at the day-7 standings
+[mentioned] (p.276) “In the meantime, Kōenji had been steadily pushing forward, and it didn’t” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
+
+### y2v3 p.358 — Kōenji named in the SS pages
+[mentioned] (p.358) “The last spot was unfortunately taken by Kouenji already.” — named; not present; POV Sakayanagi.
+[mentioned] (p.358) “Kouenji’s performances was just a pain for us however.” — named; not present; POV Sakayanagi.
+[mentioned] (p.358) “Kouenji-kun’s talent is unlimited. Ayanokouji-kun is probably feeling the” — named; not present; POV Sakayanagi.
+
+<!-- walk: y2v3 Afterword → p.368 -->
 
 ## y2v4
 

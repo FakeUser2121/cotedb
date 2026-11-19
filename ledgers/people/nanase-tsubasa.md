@@ -608,6 +608,9 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 
+### y2v3 p.130 — Nanase named at the beach
+[mentioned] (p.130) “Nanase, I’m going to go talk with a senpai for a bit, so take your time” — named by Nagumo; not present; POV Ayanokōji.
+
 ### y2v3 p.133–138 — The water limit; the H5 approach; middle school
 [scene] (p.133–138) H5; she drinks her last water at arrival; probes him on lone-wolf status; probes back on her middle school; her managed answers about smiling less and an “incident”.
 [says:ayanokouji-kiyotaka] (p.134) “Nanase, how much water do you have?”
@@ -712,6 +715,12 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:ike-kanji] (p.157) “There’ll be less for us if you guys eat them! No way!”
 [says:sudou-ken] (p.158) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.”
 [says:ike-kanji] (p.158) “I-it can’t be helped! I guess I’ll just have to prepare for three more people!”
+### y2v3 p.161–162 — Nanase named at the interrogation
+[mentioned] (p.161) “I could talk of how Nanase might be involved in the expulsion plan” — named in his own narration; not present; POV Ayanokōji.
+[mentioned] (p.161) “I’m just traveling together with Nanase in order to successfully get” — named by Ayanokōji to Kei; not present; POV Ayanokōji.
+[mentioned] (p.161) “Even though there was nothing between Nanase and me, as my girlfriend,” — named; not present; POV Ayanokōji.
+[mentioned] (p.162) “Nanase, then the fastest way to get around it was to give her something more” — named; not present; POV Ayanokōji.
+
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
 
@@ -1005,6 +1014,11 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.232) “Will do!”
 
 
+
+### y2v3 p.233, 235, 237 — Nanase named at the parasol
+[mentioned] (p.233) “After seeing Nanase off, I decided to leave the Task registration area in” — named; not present; POV Ayanokōji.
+[mentioned] (p.235) “It should be about half an hour until the Task is over and Nanase-san” — named by Sakayanagi; not present; POV Ayanokōji.
+[mentioned] (p.237) “How do you know about Nanase?” — named by Ayanokōji; not present; POV Ayanokōji.
 
 ### y2v3 p.242–250 — Third place; the random designation; his strategy out in the open
 [scene] (p.242–249) She swims to third; his deliberate heat-hint; his open books at last — he lays out the bottom-ten complacency math and his minimal-risk design; he admits she is (technically) his enemy; she soaks it in silently.
@@ -1318,6 +1332,11 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.346–355) He offers his hand; she takes it; his intent cold; her guilt real.
 
 <!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.358 — Nanase named in the Sakayanagi SS
+[mentioned] (p.358) “The fact Nanase-san isn’t by him now means there was an empty spot for” — named; not present; POV Sakayanagi.
+[mentioned] (p.358) “It should take about 30 mins before the task is over and Nanase-san” — named by Sakayanagi; not present; POV Sakayanagi.
+[mentioned] (p.358) “How did you know about Nanase?” — named by Ayanokōji; not present; POV Sakayanagi.
 
 ### y2v3 p.360–362 — Nanase SS: “Unfathomable” (her POV)
 [scene] (p.360–362) Her POV on the cliff; the resolve to stay on pace; the grab at rock; the cliff-edge confession of her feelings; his rescue logic seen from her eyes.

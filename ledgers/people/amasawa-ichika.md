@@ -203,13 +203,35 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 ### y2v3 p.58 — Amasawa named at D7
 [mentioned] (p.58) “Her fellow group members, Amasawa and Hōsen, were nowhere to be seen, prompting me to wonder if they were out exploring nearby or had come up with a strategy of some sort and left the area already.” — named as Nanase's group member; not present; POV Ayanokōji.
+### y2v3 p.69 — Amasawa named at the quiz table
+[mentioned] (p.69) “Hōsen or Amasawa anywhere.” — named; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
-
 ### y2v3 p.79–80 — Amasawa named by Nanase
 [mentioned] (p.79) “To tell you the truth, a slight issue came up as my group was talking last night. Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart.” — named as having split from the group; not present; POV Ayanokōji.
+### y2v3 p.81, 119 — Amasawa named in passing (Ch.3)
+[mentioned] (p.81) “Nanase had previously teamed up with Hōsen and Amasawa to try and” — named; not present; POV Ayanokōji.
+[mentioned] (p.119) “Early Bird Bonus as well depended entirely on Amasawa and Hōsen, but I” — named; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.138 — Amasawa named in passing (Ch.4)
+[mentioned] (p.138) “Yes. Between Hōsen-kun and Amasawa-san, we’ve been earning quite a” — named; not present; POV Ayanokōji.
+[mentioned] (p.138) “Depending on what Amasawa and Hōsen had been doing, there was a” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
+### y2v3 p.209 — Amasawa named at the G3
+[mentioned] (p.209) “No no, I’ll stay with you. As long as Amasawa-san or Hōsen-kun arrive” — named by Nanase; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
+### y2v3 p.270 — Amasawa named at the bonfire
+[mentioned] (p.270) “Yes. At first glance, one might be led to believe that Hōsen-kun and Amasawa-san were the only ones to take part in it during the last exam, but I” — named by Yagami; not present; POV switch to third-person limited (the bonfire scene).
+[mentioned] (p.270) “Hell, you might even be more obsessed with it than Hōsen-kun and Amasawa-san.” — named by Tsubaki; not present; same scene.
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
+### y2v3 p.282, 320 — Amasawa named in passing (Ch.8)
+[mentioned] (p.282) “There’s a limit to how impractical you can get. Hōsen and Amasawa” — named; not present; POV Ayanokōji.
+[mentioned] (p.320) “First Ayanokōji and now Amasawa… people threatening to disturb my” — named; not present; POV Kushida.
+
 
 ### y2v3 p.306–312 — Amasawa's intercept (her POV)
 [scene] (p.306–312) Heading northwest after Tsubaki's plan; catches Kushida lurking in the forest; drops her (twice) before words come out; her verdict session.
@@ -232,7 +254,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says:kushida-kikyou] (p.312) “…wha, ah… Ah!!”
 [says] (p.312) “So, how about I go for your other cheek next?”
 [says] (p.312) “I’ll betcha that one hurt a lil’ didn’t it? Gotta say, you don’t usually get to experience getting beaten up like this, do ya?”
-
 ### y2v3 p.313–319 — The verdict; her special person; she leaves
 [scene] (p.313–319) The slaps; the monologue on Kushida's mask; Nagumo's rejection; “Ayanokōji-senpai is a very special person to me”; the 2M-point net; the lecture; she walks toward the fight site.
 [says] (p.312) “How do I know your secret? From the look on your face, it seems you’re thinking I heard it from Ayanokōji-senpai?”

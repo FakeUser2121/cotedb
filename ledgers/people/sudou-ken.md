@@ -1834,6 +1834,10 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.40 — Sudō named at the tribunal
+[mentioned] (p.40) “Sudō on the court during last year’s end-of-term exam. He had played an” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.1 → p.42 -->
 ### y2v3 p.65–67 — Sudō's first-place grip at C6
 [scene] (p.65) Takes part in the Grip Strength Measurement Task at site C6 without Ike and Hondō, who are nowhere to be seen (he likely split off to grab a spot); Yuu third-year Oshio goes first; registered participants wait their turn.
 [scene] (p.67) Nobody beats his first-place score; when the results come in, Oshio (knocked to second) goes disgruntled; Sudō's group earns five more points (~8 total).
@@ -1909,6 +1913,8 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:hondou-ryoutaro] (p.88–109) Quiz-co-winner; the third voice at the fire.
 [rel:ayanokouji-kiyotaka] (p.84–109) The referral for strategy; the G9 meetup.
 <!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.111 — Sudō named at the interrogation
+[mentioned] (p.111) “There would still be ways to keep an eye on Sudō’s group and stay on top” — named; not present; POV Ayanokōji.
 ### y2v3 p.113 — Sudō's I8 ticket
 [scene] (p.113) South-east to northeast trek with Ayanokōji and Nanase; the I8 designation; the I9 Task pull once the area clears.
 [says] (p.113) “We got I8 so if you two are goin’ the same way we can head out together. I’m fired up so let’s get this done!”
@@ -1940,6 +1946,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ### y2v3 p.177–181 — Ike bolts; the climb; Shinohara's push account
 [scene] (p.177–181) Hearing a sound from the slope, Ike bolts; Sudō shouts after him; AK handles it; his own job — holding the line — is the only one he can do.
 [says] (p.177) “Oi Kanji! Hold on! It’s dangerous!”
+### y2v3 p.183 — Sudō named at the search
+[mentioned] (p.183) “Sudō-senpai spoke up, suspicious of my actions. I felt sorry about not” — named; not present; POV Ayanokōji.
+[mentioned] (p.183) “Sudou-senpai! Please take care of them until I’m back!” — named; not present; POV Ayanokōji.
 ### y2v3 p.188–209 — The return; Sakagami; the standings; the pact
 [scene] (p.188–208) Back at camp; Shinohara found; the four first-years arrive; Sakagami presses; the Bunker plan; Komiya's last words to Ike; they resolve to protect her; the fourth-day standings (their classmates in the bottom ten; Nagumo first).
 [note] (p.198) GPS records read aloud by Chabashira — his silence through the ordeal.
@@ -1953,6 +1962,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.207) “R-right, leave it to me.”
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
+### y2v3 p.211, 228, 257 — Sudō named in passing (Ch.6)
+[mentioned] (p.211) “retired yesterday. Even though Ike and Sudō were doing what they could to” — named; not present; POV Ayanokōji.
+[mentioned] (p.228) “likes of Sudō and Albert, who were themselves exceptionally strong amongst” — named; not present; POV Ayanokōji.
+[mentioned] (p.257) “with boys and girls alike, 90% was clearly an overstatement. Sudō liked” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

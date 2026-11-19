@@ -262,7 +262,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.150–151) Task registration paperwork handled before the clock struck 3:30; his Task: order-of-arrival water race — AK first (2L/3 points), Nanase second (1.5L/2 points).
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
-
 ### y2v3 p.193–201 — Sakagami at the scene (Ch.5)
 [scene] (p.193) One hour after the alert; arrives with Chabashira + three medical personnel; takes charge; retells Shinohara's account and razes it; the “convenient tale” verdict.
 [says] (p.193) “Let’s get down to business and hear what happened here, shall we?”
@@ -285,6 +284,8 @@ aliases used for anchors: sakagami, sakagami-sensei
 [rel:chabashira-sae] (p.193–201) His co-examiner.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
+### y2v3 p.205 — Sakagami named at the gate
+[mentioned] (p.205) “direction as Sakagami-sensei and the medical team.” — named; not present; POV Ayanokōji.
 
 ## y2v5
 

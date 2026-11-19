@@ -336,6 +336,9 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.9 — Mashima named at the ship talk
+[mentioned] (p.9) “This is a much bigger island than the last one, just like Mashima-sensei said it’d be.” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.16–22 — The briefing: Basic Movement rule
 [scene] (p.16) Class 2-A's homeroom teacher, Mashima-sensei, stands before the screen with a microphone in hand and opens the uninhabited-island exam briefing; Hoshinomiya-sensei (Class 2-C homeroom) is also on stage; the theater holds nearly 160 second-years.
 [says] (p.16) “Starting tomorrow, your stay on the island will last for the next two weeks.”
@@ -402,6 +405,17 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
+
+### y2v3 p.73 — Mashima named at the shopping stop
+[mentioned] (p.73) “recover from it. If his plan was that careless, Mashima-sensei and other” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
+
+### y2v3 p.164 — Mashima named at the briefing replay
+[mentioned] (p.164) “It sounded similar to what Mashima-sensei had played for us during his” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.5 → p.210 -->
 
 ### y2v3 p.240–241 — Mashima at the provisions desk (Ch.6)
 [scene] (p.240–241) Manning the provisions desk near the harbor; pulls Ayanokōji aside with a look; the two-boats disclosure; his daily watch for the Acting Director's moves.

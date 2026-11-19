@@ -161,6 +161,11 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 <!-- walk: y2v3 Ch.7 → p.274 -->
 
 
+### y2v3 p.277 — Yagami named at the day-7 standings
+[mentioned] (p.277) “The group consisted of three boys: Takahashi Osamu from Class 1-A,” — named in the narration; not present; POV Ayanokōji.
+[mentioned] (p.277) “Yagami Takuya from Class 1-B, and Utomiya Riku from Class 1-C.” — named in the narration; not present; POV Ayanokōji.
+
+
 ### y2v3 p.306–330 — Yagami on the wire (POV switch to Kushida)
 [mentioned] (p.322) “…you can rest assured that Nanase-san knows nothing about your past, Senpai.” — named by Yagami; not present; same scene.
 [mentioned] (p.325) “Do you remember what I told you back on the cruise ship? About how I was devising a strategy to expel Ayanokōji-senpai?” — named by Yagami; not present; same scene.

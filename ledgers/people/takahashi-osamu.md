@@ -2,17 +2,6 @@
 
 char_id: takahashi-osamu · class: unknown · status: unknown
 
-## y2v3
-
-<!-- walk: y2v3 → start -->
-
-### y2v3 p.267–274 — Takahashi Osamu (Class A representative)
-[scene] (p.267–273) First-years meeting arranged by Tsubaki; he's the first to bolt (stomach ache) when things get hot; misses the interrogation; returns after.
-[says] (p.268) “Sorry guys… I’ve got a bit of a stomach ache so I’mma excuse myself. It… It might take a while!”
-[note] (p.267) The meeting was planned before the exam; bonfires on the F9 beach at 9:00 PM; participants: Takahashi (Class A), Yagami (Class B), Utomiya (Class C), Tsubaki (Class C), Hōsen (Class D).
-
-<!-- walk: y2v3 Ch.7 → p.274 -->
-
 ## y2v2
 
 <!-- walk: y2v2 → start -->
@@ -20,7 +9,6 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v2 p.223–231 — Takahashi at the first-year rep gathering
 [scene] (p.223) Boisterously joins the gathering (Class 1-A rep) — unassuming (C+ academics) but good at getting along with people, with many friends across classes/years.
@@ -35,6 +23,24 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [rel:utomiya-riku] (p.226) He calms the situation when Utomiya and Hōsen clash.
 [rel:housen-kazuomi] (p.225–226) Hōsen shoves him down and threatens him; Takahashi doesn't shy away, wanting everyone to get along.
 [rel:yagami-takuya] (p.223–231) Fellow representative; he supports Yagami's cooperation stance.
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 p.267–274 — Takahashi Osamu (Class A representative)
+[scene] (p.267–273) First-years meeting arranged by Tsubaki; he's the first to bolt (stomach ache) when things get hot; misses the interrogation; returns after.
+[says] (p.268) “Sorry guys… I’ve got a bit of a stomach ache so I’mma excuse myself. It… It might take a while!”
+[note] (p.267) The meeting was planned before the exam; bonfires on the F9 beach at 9:00 PM; participants: Takahashi (Class A), Yagami (Class B), Utomiya (Class C), Tsubaki (Class C), Hōsen (Class D).
+
+<!-- walk: y2v3 Ch.7 → p.274 -->
+### y2v3 p.277 — Takahashi named at the day-7 standings
+[mentioned] (p.277) “The group consisted of three boys: Takahashi Osamu from Class 1-A,” — named in the narration; not present; POV Ayanokōji.
+[mentioned] (p.277) “the other school years succeed than see Takahashi’s group get into the top” — named; not present; POV Ayanokōji.
+
+### y2v3 p.322 — Takahashi named at the walkie-talkie debrief
+[mentioned] (p.322) “first-year students, Takahashi Osamu from Class 1-A, Tsubaki Sakurako and” — named; not present; POV Kushida (walkie-talkie debrief).
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 ## y2v4
 
 <!-- walk: y2v4 → start -->

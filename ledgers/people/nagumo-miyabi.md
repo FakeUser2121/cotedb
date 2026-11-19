@@ -634,6 +634,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [mentioned] (p.51–52) “From the numbers, it seemed like students from Class 3-B had just about finished disembarking, so I took a moment to try and catch a glimpse of Nagumo. However, I couldn’t find him anywhere. … As I continued to look for him, the third-year students who were walking toward me eventually caught up and began to pass by. … I continued to linger around the area for a little bit longer, but ultimately never caught sight of Nagumo.” — named as Ayanokōji's target to spot; not seen; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.2 → p.74 -->
+### y2v3 p.124 — Nagumo named at the Beach Flags
+[mentioned] (p.124) “take down Nagumo. His skills seemed to be an accurate representation of his” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.128–132 — Nagumo: the sandbar heads-up; the real event starts tomorrow
 [scene] (p.128–130) On the sandbar with his third-year friends, swimming and lounging in rented swimsuits and a beach ball; he beckons Ayanokōji over.
 [says] (p.130) “I’ll say it again just to be sure: Don’t get in my way, got it?”
@@ -655,6 +658,27 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:asahina-nazuna] (p.131–132) Interrupts her mid-sentence.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
+
+
+### y2v3 p.212, 239, 243–244 — Nagumo named in passing (Ch.6)
+[mentioned] (p.212) “hadn’t gotten the chance to look at yesterday. In first place was Nagumo’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.239) “Moreover, I had reason to believe that Nagumo has been carrying out a” — named; not present; POV Ayanokōji.
+[mentioned] (p.243) “However, it would be incorrect to say that this put Nagumo at a” — named; not present; POV Ayanokōji.
+[mentioned] (p.244) “Rather, the fact remained unchanged that Nagumo was in an” — named; not present; POV Ayanokōji.
+[mentioned] (p.244) “Moving forward, Nagumo would undoubtedly max out the size of his” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+<!-- walk: y2v3 Ch.7 → p.274 -->
+
+### y2v3 p.276–277 — Nagumo named at the day-7 standings
+[mentioned] (p.276) “the first place group, Nagumo’s, by a slim eight-point margin.” — named; not present; POV Ayanokōji.
+[mentioned] (p.277) “increased to six, with Nagumo’s group up in first place undoubtedly paving” — named; not present; POV Ayanokōji.
+
+
+### y2v3 p.312 — Nagumo named at the intercept
+[mentioned] (p.312) “cozy up to Student Council President Nagumo, but got turned away at the” — named; not present; POV Kushida.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 
 ## y2v4
 <!-- walk: y2v4 → start -->

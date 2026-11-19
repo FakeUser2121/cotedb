@@ -2313,7 +2313,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.”
 [says] (p.219) “Kuku, I guess so.”
 
+### y2v3 p.238–239 — Ryūen named at the parasol
+[mentioned] (p.238) “So you want to get me to cooperate? Have you already met with Ryūen-kun?” — named by Sakayanagi; not present; POV Ayanokōji.
+[mentioned] (p.239) “It’s only natural that Ryūen-kun would lend a hand given the” — named by Sakayanagi; not present; POV Ayanokōji.
+[mentioned] (p.239) “I’ll leave it to you to decide on a messenger then. Whether it be Horikitasan or Ryūen-kun, it’s of no concern to me.” — named by Sakayanagi; not present; POV Ayanokōji.
+
 <!-- walk: y2v3 Ch.6 → p.259 -->
+<!-- walk: y2v3 Ch.7 → p.274 -->
+### y2v3 p.276 — Ryūen named at the day-7 standings
+[mentioned] (p.276) “When it came to the second-year groups in the top ten, Ryūen and” — named; not present; POV Ayanokōji.
+
+### y2v3 p.306 — Ryūen named at the slope
+[mentioned] (p.306) “In retrospect, I should’ve been more suspicious back when Ryūen stopped” — named; not present; POV Kushida.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 
 ## y2v4
 

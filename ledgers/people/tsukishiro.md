@@ -277,6 +277,9 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.27 — Tsukishiro named at the ship talk
+[mentioned] (p.27) “it. If the watch I was given had been tampered with, Tsukishiro could have it” — named (Kushida’s private worry); not present; POV Ayanokōji.
+
 ### y2v3 p.32–34 — Tsukishiro's cautionary speech and the dispute line
 [scene] (p.32) The Acting Director comes up on stage as Mashima yields the microphone; his usual faint smile; he surveys the second-years; his eyes momentarily lock on Ayanokōji for a fraction of a second — a pause unnoticed by anyone else.
 [says] (p.32) “I am Tsukishiro, your Acting Director. This uninhabited island exam is proving to be the most unprecedented, largest-scale special exam yet.”
@@ -297,7 +300,27 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
+### y2v3 p.73–74 — Tsukishiro named at the shopping stop
+[mentioned] (p.73) “Tsukishiro would undoubtedly come after me at some point, looking to have” — named (Ayanokōji’s private assessment); not present; POV Ayanokōji.
+[mentioned] (p.73) “think that’s something Tsukishiro would want. Hypothetically speaking, even” — named; not present; POV Ayanokōji.
+[mentioned] (p.74) “So, looking at it from Tsukishiro’s point of view, what would be the best” — named; not present; POV Ayanokōji.
 
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
+
+### y2v3 p.240–241 — Tsukishiro named at Mashima’s warning
+[mentioned] (p.240) “Acting Director Tsukishiro hasn’t done anything noteworthy so far, at” — named by Mashima; not present; POV Ayanokōji.
+[mentioned] (p.241) “information on Tsukishiro’s movements.” — named by Mashima; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+### y2v3 p.289–290 — Tsukishiro named at the mountain reveal
+[mentioned] (p.289) “a doubt that she was the enforcer that Tsukishiro had sent in.” — named (Ayanokōji’s read of Nanase); not present; POV Ayanokōji.
+[mentioned] (p.289) “Acting Director Tsukishiro’s orders. And more precisely, those orders were” — named by Nanase as her employer; not present; POV Ayanokōji.
+[mentioned] (p.290) “matter what evidence or proof I might have, Tsukishiro would still choose to” — named; not present; POV Ayanokōji.
+[mentioned] (p.290) “If Acting Director Tsukishiro sent you thinking you’d be able to take me” — named; not present; POV Ayanokōji.
+[mentioned] (p.290) “There was no guarantee that Tsukishiro wouldn’t choose to retire, or” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 ### y2v3 p.336–346 — Tsukishiro at the slope (Epilogue)
 [scene] (p.336–346) The forested slope; his conversation with Shiba; the reveal of the White Room; the abandoned backpack; the ice-cold proposal; the smile.
 [says] (p.337) “I asked you to confirm whether or not we’re in the clear to freely take action. How about it?”
@@ -334,6 +357,13 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [trait] (p.336–346) The acting-director-cold logic of a man who controls the rules; his patient confidence; his capacity to fabricate a justification.
 [rel:shiba-katsunori] (p.336–346) His co-conspirator in Ichinose's disposal.
 [rel:ichinose-honami] (p.336–346) The witness he chooses not to eliminate.
+
+### y2v3 p.349–352 — Tsukishiro named at the confession
+[mentioned] (p.349) “You mean Tsukishiro?” — named by Ayanokōji; not present; POV Ayanokōji.
+[mentioned] (p.349) “Yes. Back then, Acting Director Tsukishiro told me why Eiichiro-kun’s” — named by Nanase as the one who recruited her; not present; POV Ayanokōji.
+[mentioned] (p.350) “Tsukishiro told me that he had sent in a student from the White Room.” — named by Nanase; not present; POV Ayanokōji.
+[mentioned] (p.350) “Even Tsukishiro should’ve realized that it would end up like this.” — named; not present; POV Ayanokōji.
+[mentioned] (p.352) “school. Instead, I’d like you to cooperate with me. Even now, Tsukishiro is” — named; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Epilogue → p.355 -->
 

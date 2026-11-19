@@ -2026,11 +2026,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
 
+### y2v3 p.46 — Kei named at the ship conversation
+[mentioned] (p.46) “the money in time. I hadn’t even been able to raise the funds to protect Kei” — named (the unpaid debt); not present; POV Ayanokōji.
+
 ### y2v3 p.48–49 — Kei mentioned at the start
 [scene] (p.48–49) She is mentioned in passing; Nishino and Tsube are seen heading out; Ayanokōji notes Kei's group situation.
 [trait] (p.48–49) Part of the class's group dynamics.
 
 <!-- walk: y2v3 Ch.2 → p.49 -->
+
+### y2v3 p.106 — Kei remembered at the interrogation
+[mentioned] (p.106) “This was something I had experienced firsthand back when I confessed to Kei.” — named; not present; POV Ayanokōji.
 
 ### y2v3 p.157–158 — The fish grill; the coincidental matchup
 [scene] (p.157–158) Her trio (Shimazaki Ikkei, Fukuyama Shinobu) wanders toward the fish-grill smell; she freezes on seeing him; her stifled “Ah-!”; the cover story; the fish invitation; his reluctant cooking for five extra people.
@@ -2074,6 +2080,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.162) His first kiss, under a second; she is sent back alone; she never learns of the Nanase plan.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.207, 213 — Kei named at the river camp and the bedside
+[mentioned] (p.207) “arrived back at our campsite with Shinohara in tow. It seemed that Kei’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.213) “tired of that Karuizawa chick and ditch her?” — named by Ryūen; not present; POV Ayanokōji.
+[mentioned] (p.213) “Karuizawa? Why are you bringing her up?” — named by Katsuragi; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
 
 ## y2v4
 

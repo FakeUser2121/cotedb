@@ -305,9 +305,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 <!-- walk: y2v3 Epilogue → p.355 -->
 
 ### y2v3 p.357 — Shibata named at the harbor (SS)
-[mentioned] (p.357) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.” — named by Sakayanagi; not present; POV Sakayanagi.
+[mentioned] (p.357–358) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.” — named by Sakayanagi; not present; POV Sakayanagi.
 
 <!-- walk: y2v3 Afterword → p.368 -->
+
+
 
 ## y2v4
 

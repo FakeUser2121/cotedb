@@ -1208,6 +1208,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.85–86) Sits a bit away from the registration desk, waiting for the quiz; visibly out of it — bored, uninterested; Hondō fails to strike up a conversation; Sudō sizes him up ("Though, well, Ike's been kinda out of it."); Shinohara/Komiya context: the pressure of the expulsion risk + the girl he has his eye on.
 [scene] (p.88–90) 『Quiz Genre・Anime』; his hands are reliable on these — 95% with Sudō and Hondō; the class credit for miscellaneous knowledge; the high-five comes weak.
 [says] (p.90) “Yay…”
+### y2v3 p.91–92 — Ike named at the walkie-talkie-less comparison
+[mentioned] (p.91) “Off on Sudō’s left is Ike Kanji, and to his right is Hondō Ryōtarō.” — named by Ayanokōji to Nanase; not present; POV Ayanokōji.
+[mentioned] (p.91) “be desired, but Sudō has plenty of physical strength and Ike has the right” — named; not present; POV Ayanokōji.
+[mentioned] (p.91) “Ike-senpai and Hondō-senpai, is it? They add a lot to the atmosphere…?” — named; not present; POV Ayanokōji.
+[mentioned] (p.91) “From what I can tell, that doesn’t really seem to be the case for Ike-senpai;” — named; not present; POV Ayanokōji.
+[mentioned] (p.92) “students like Ike and Hondō to play an active role back in the classroom.” — named; not present; POV Ayanokōji.
+[mentioned] (p.92) “And because of that, Ike’s mental health was the only thing left standing” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.97–109 — Shinohara comes out
 [scene] (p.97) Sudō and Hondō press him about camping; he points them to the clearing near H9; he's listless through the trek.
 [says] (p.97) “Let’s go back to H9 for now. We passed by a clearing earlier. That should be good enough.”
@@ -1238,6 +1246,28 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:hondou-ryoutaro] (p.85–109) The other closest friend.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+
+### y2v3 p.110–115, 161 — Ike named at the camp build-up (Ch.4)
+[mentioned] (p.110) “It’s about Ike-senpai. Do you think I said a little too much last night…?” — named; not present; POV Ayanokōji.
+[mentioned] (p.110) “Thanks to you, Ike’s managed to get back on his feet. Or, I guess it’s” — named; not present; POV Ayanokōji.
+[mentioned] (p.110) “I feel like Ike-senpai is in a sort-of precarious position right now. I’m” — named; not present; POV Ayanokōji.
+[mentioned] (p.111) “While I was also worried about Ike’s mental state, traveling together with” — named; not present; POV Ayanokōji.
+[mentioned] (p.113) “If we were to go all out trying to get there, Ike and Hondō would certainly” — named; not present; POV Ayanokōji.
+[mentioned] (p.113) “After all, Ike’s situation was still a concern, and we’d at least be able to” — named; not present; POV Ayanokōji.
+[mentioned] (p.113) “Ike looked somewhat flustered as he responded, the memories of last” — named; not present; POV Ayanokōji.
+[mentioned] (p.113) “Nanase’s presence, that of a stranger, had helped to spur Ike forward.” — named; not present; POV Ayanokōji.
+[mentioned] (p.113) “Under normal circumstances, Ike would crack jokes and try to smoothtalk Nanase, prattling off about how cute she was or something, but that” — named; not present; POV Ayanokōji.
+[mentioned] (p.114) “that Ike was exactly the type of person who did undeniably outrageous things” — named; not present; POV Ayanokōji.
+[mentioned] (p.114) “With that, Ike rolled his shoulders, stretching them both out in their full” — named; not present; POV Ayanokōji.
+[mentioned] (p.114) “striking up a conversation with Ike.” — named; not present; POV Ayanokōji.
+[mentioned] (p.114) “You’re still thinking about Ike-senpai, aren’t you Ayanokōji-senpai?” — named; not present; POV Ayanokōji.
+[mentioned] (p.115) “Since there was a chance that Ike and Sudō might overhear what we were” — named; not present; POV Ayanokōji.
+[mentioned] (p.115) “As he was now, Ike was certainly more energetic than he had been” — named; not present; POV Ayanokōji.
+[mentioned] (p.115) “her gaze was fixed on Ike as he walked in front of us, and upon seeing this, I” — named; not present; POV Ayanokōji.
+[mentioned] (p.115) “couldn’t help but wonder to what extent her thoughts were really about Ike.” — named; not present; POV Ayanokōji.
+[mentioned] (p.115) “From just ahead of us, Ike and the others raised their voices in surprise.” — named; not present; POV Ayanokōji.
+[mentioned] (p.161) “When I asked Ike-kun, he told me immediately though? Wait, that’s not” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.153–158 — The river camp; the fish
 [scene] (p.153–158) Waiting at the river after the Task; calls AK over with a handful of dead branches; the fish he caught by the ocean; he gifts/horders them for the fire on the beach — his tent-mates demand them; Kei causes a stir with her “Ah-!”; the grill is stocked.
 [says] (p.154) “Heeey-! Ayanokōji-!”
@@ -1355,6 +1385,18 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:hondou-ryoutaro] (p.164–209) The third wheel of the ride.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
+
+### y2v3 p.211, 249, 257 — Ike named in passing (Ch.6)
+[mentioned] (p.211) “retired yesterday. Even though Ike and Sudō were doing what they could to” — named; not present; POV Ayanokōji.
+[mentioned] (p.249) “Rather, between lending an ear to Ike’s troubles and helping Shinohara” — named; not present; POV Ayanokōji.
+[mentioned] (p.257) “Horikita, Ike liked Shinohara, and that was no doubt just the tip of the” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
+
+### y2v3 p.349 — Ike named at the confession
+[mentioned] (p.349) “I was reminded of what she said back when she was consoling Ike on the” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Epilogue → p.355 -->
 
 ## y2v4
 

@@ -406,12 +406,23 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.86, 90 — Shinohara named at the anime quiz build-up
+[mentioned] (p.86) “What happened with Shinohara had apparently left a lasting impact on” — named; not present; POV Ayanokōji.
+[mentioned] (p.86) “And meanwhile, the girl Ike was smitten for, Shinohara, was spending her” — named; not present; POV Ayanokōji.
+[mentioned] (p.90) “that we would meet again after this. If Ike were to find out that Shinohara and” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.103–108 — Shinohara named at the fire: the confession
 [mentioned] (p.104) “The girl I like is… uhm… Sh-Shinohara… Shinohara Satsuki.” — named by Ike at the tent-fire circle; not present; POV Ayanokōji.
 [mentioned] (p.105–106) “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” / “Plus, well… it seems like she sees him as someone special as well.” / “But… Shinohara’s together with that Komiya guy while I’m here in the friendzone.” — her alliance with Komiya; not present; same scene.
 [mentioned] (p.106–107) “Don’t you think Shinohara-senpai has just been waiting for you to draw the line?” / “From what I’ve been told, you’re someone who’s always bright and cheerful to everyone.” — Nanase's guess about Shinohara's feelings; not present; same scene (a guess, not fact).
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+### y2v3 p.114, 157 — Shinohara named at the camp build-up
+[mentioned] (p.114) “way after everything he said about Shinohara just last night. However, given” — named; not present; POV Ayanokōji.
+[mentioned] (p.157) “Dude, what’s the harm? She might know somethin’ ‘bout Shinohara.” — named by Sudō; not present; POV Ayanokōji.
+[mentioned] (p.157) “He still hadn’t been able to meet Shinohara on the island yet.” — named; not present; POV Ayanokōji.
+[mentioned] (p.157) “remember if she had seen Shinohara somewhere before.” — named; not present; POV Ayanokōji.
+
 ### y2v3 p.179–181 — Shinohara: the hiding witness
 [scene] (p.179–181) Found hiding in a thicket of bushes after the search — emaciated fear in her face; she broke down into Ike's chest; her testimony: somebody pushed them.
 [says] (p.179) “…Ike? Is that you?”
@@ -476,6 +487,23 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:chabashira-sae] (p.193–205) Her quiet ally.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
+
+
+### y2v3 p.211, 217–219, 238, 249, 257 — Shinohara named in passing (Ch.6)
+[mentioned] (p.211) “Shinohara-senpai’s situation doesn’t seem very optimistic…” — named; not present; POV Ayanokōji.
+[mentioned] (p.211) “Shinohara had been left to fend for herself after Komiya and Kinoshita” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “According to Shinohara, the last remaining member of their group, they” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “Unfortunately, Shinohara’s testimony was the only evidence they had.” — named; not present; POV Ayanokōji.
+[mentioned] (p.217) “They’re looking at it under the pretense that Shinohara-senpai lied” — named; not present; POV Ayanokōji.
+[mentioned] (p.218) “If Shinohara’s group came in last place, Class 2-D and 2-B would both” — named; not present; POV Ayanokōji.
+[mentioned] (p.218) “You said you were lookin’ for me, right? Shinohara’s your classmate, so” — named by Ryūen; not present; POV Ayanokōji.
+[mentioned] (p.218) “Kuku, I see. With a plan like that there really is a way for Shinohara to” — named by Ryūen; not present; POV Ayanokōji.
+[mentioned] (p.219) “Shinohara’s group was made up of students from both of our classes, after” — named; not present; POV Ayanokōji.
+[mentioned] (p.238) “Shinohara-san still seems to be putting forth the effort to stay afloat… As” — named by Sakayanagi; not present; POV Ayanokōji.
+[mentioned] (p.249) “Rather, between lending an ear to Ike’s troubles and helping Shinohara” — named; not present; POV Ayanokōji.
+[mentioned] (p.257) “Horikita, Ike liked Shinohara, and that was no doubt just the tip of the” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ## y2v4
 

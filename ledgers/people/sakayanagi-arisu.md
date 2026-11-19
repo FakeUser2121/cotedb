@@ -1330,6 +1330,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.145 — Sakayanagi named at the History Test
+[mentioned] (p.145) “Tasks nearby. If he was following Sakayanagi’s instructions, then sooner or” — named; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.219 — Sakayanagi named at the plan pitch
+[mentioned] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a” — named by Ryūen; not present; POV Ayanokōji.
+
 ### y2v3 p.234–239 — Sakayanagi at the parasol
 [scene] (p.234–239) Seated elegantly under a parasol (Ichinose and Shibata nearby, putting forth their best efforts for her sake); the Early Bird exception explained; his pitch; her counter-offer.
 [says] (p.234) “Good day to you, Ayanokōji-kun. It seems the weather is going to be awfully hot today, don’t you think?”

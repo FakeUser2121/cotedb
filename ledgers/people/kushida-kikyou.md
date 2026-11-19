@@ -1891,21 +1891,28 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.46 — Kushida named at Haruka's contract
+[mentioned] (p.46) “I know you have that contract with Kushida-san, so I can’t blame you for” — named (the contract Haruka references); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ### y2v3 p.104 — Kushida guessed at the fire
-[mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys' imagination as expected guesses for Ike's crush; not present; POV Ayanokōji.
+[mentioned] (p.104) “Popular, attractive girls like Kushida or Ichinose were no doubt the first to come to mind.” — named by the boys’ imagination as the expected guesses for Ike's crush; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+### y2v3 p.257 — Kushida named in passing
+[mentioned] (p.257) “When I thought back on it, I could recall Kushida saying something” — named (memory hook); not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.6 → p.259 -->
 
 ### y2v3 p.267–274 — Kushida named by the Yagami probe
 [mentioned] (p.271) “S-surely you’re not going to do something to Kushida-senpai!?” — named by Yagami as his kept secret; not present; POV switch to third-person limited (the bonfire scene).
 [mentioned] (p.272) “Yagami-kun, I get that you think Kushida-senpai is like, the key to getting Ayanokōji-senpai expelled, but why is that? How exactly do you plan on making use of her?” — named by Tsubaki as leverage; not present; same scene.
 [mentioned] (p.272) “I can’t say…” — named by Yagami as the break point of his restraint; not present; same scene.
-[mentioned] (p.273) “…I understand. I’ll tell you everything.” — the moment Kushida's secret enters the record; not present; same scene.
+[mentioned] (p.273) “…I understand. I’ll tell you everything.” — the moment Kushida’s secret enters the record; not present; same scene.
 
 <!-- walk: y2v3 Ch.7 → p.274 -->
-
 
 ### y2v3 p.306–311 — Kushida's walk-up: the camera; Amasawa
 [scene] (p.306–311) 5 AM start; the walkie-talkie with “a certain someone”; GPS Search (1 point per search, from day 6); her orders: get incriminating footage; she is spotted by Amasawa Ichika, who grabs her shoulder and covers her mouth.
@@ -1979,6 +1986,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.319) “Hah…! Don’t make me laugh. It’s true a shitty brat like you’d probably go and run their mouth about it, but it’s not like anyone would believe you. Most would probably pass it off as nonsense from someone who’s about to be expelled.”
 [says:amasawa-ichika] (p.319) “Well, sure? I doubt that very many would believe everything I say. However, it’d still manage to put a crack in the superficially flawless persona of ‘Kushida Kikyō’ you’ve created for yourself. Isn’t that more than enough?”
 [says] (p.320) “I… What am I even doing…?”
+
 
 ### y2v3 p.321–330 — Yagami's walkie-talkie debrief
 [scene] (p.321–330) The five-day walkie-talkie rendezvous; the plan laid bare (Nanase does the beatdown; Yagami records); Tsubaki's parallel; the Utomiya pawn; the sinking-ship defection.
@@ -2058,6 +2066,8 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:yagami-takuya] (p.306–329) Her contact; her assignment; her unwillingness.
 
 <!-- walk: y2v3 Ch.8 → p.330 -->
+
+
 
 ## y2v4
 
