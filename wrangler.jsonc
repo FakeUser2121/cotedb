@@ -1,0 +1,18 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "cotekb",
+  "main": "./src/worker.js",
+  "compatibility_date": "2026-11-19",
+  "assets": {
+    "directory": "./docs/",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "cotedb-telemetry",
+      "database_id": "b77dad50-0d84-4426-916b-e8f56d741a3d"
+    }
+  ]
+}
+
