@@ -37,6 +37,12 @@ char_id: nomura-yuuji · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 
+
+### y2v2 p.346 — Coverage note: passing mentions
+[mentioned] (p.346) “Luckily, it was at that time Nomura Shuuji also returned so I followed him from behind and got past the auto lock.”
+
+<!-- walk: y2v2 Coverage note → p.346 -->
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -2248,37 +2248,102 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.298–311 — Ryūen proposes a three-class alliance
-[scene] (p.298–303) He summons Ayanokōji and Katsuragi to a café and proposes a three-class alliance (A, B, D) to take down Sakayanagi.
-[says] (p.303) "The reward for getting 1st to 3rd place is enough to get within shooting distance of Class A."
-[scene] (p.304–311) He reveals he knows Ayanokōji beat him and tries to recruit Katsuragi to Class B.
-[says] (p.304) "Not just you. Ayanokouji as well, who's spaced out over there just listening to us."
-[says] (p.308) "Come to Class B, Katsuragi."
-[trait] (p.298–311) Calculating and bold — he uses money and leverage to build alliances.
-[rel:ayanokouji-kiyotaka] (p.298–311) He tries to recruit him.
-[rel:katsuragi-kouhei] (p.298–311) He tries to recruit him.
+### y2v2 p.294–314 — The café gambit
+[scene] (p.294) Ishizaki's email brought Ayanokōji here; the Ryuuen–Katsuragi tag team is waiting.
+[says] (p.294) “…So? Tell me why you called me.”
+[says] (p.294) “What’s the hurry? Just chill man!”
+[says] (p.298) “You said there was someone else, were you talking about Ayanokouji?”
+[says] (p.298) “What kind of meeting is this supposed to be, anyway?”
+[says] (p.298) “Kuku, don’t admire him too much, Katsuragi– that’s in the past.”
+[says] (p.299) “Fuck off. Ichinose was off sinking on her own, she was never even on my radar.”
+[says] (p.299) “The past? You ought to be careful when an unexpectedly strong enemy appears. You’ve gotten too cocky after defeating Ichinose’s Class B.”
+[says] (p.299) “What is Class A aiming for in the next exam?”
+[says] (p.299) “Are you aiming to monopolize the class points? Or is it something else? I’ve checked the group composition using the OAA, and while you guys seem to have formed groups with Class C and D, Kitou seems to be alone. And then, no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy. Are you working together?”
+[says] (p.300) “I don’t want any of that diplomatic crap, I want just straight answers.”
+[says] (p.300) “Oh, so you don’t know just because she doesn’t trust you?”
+[says] (p.300) “Only on the day of the exam shall we know how Sakayanagi will act, and no one will know before she says so. If you want to know despite this, you should go ask her directly.”
+[says] (p.300) “This is really sad, Katsuragi. This time last year, I considered you a worthy opponent in my strategies. However not a single trace of that person remains. It looks like it’s the end of the road for the loser of the faction war, eh?”
+[says] (p.301) “Don’t you want to crawl back to the top again? That Totsuka who was holding you back, he is gone now, right?”
+[says] (p.301) “Don’t you think it’ll be an interesting development if we manage to get Sakayanagi expelled from the next special exam?”
+[says] (p.301) “If that girl isn’t here, then Class-A will cease to have a leader. That way, you’ll be able to return to your position as leader once again.”
+[says] (p.301) “That’s true, if you want her gone, you’ll have to stab her at least twice. Well, getting her expelled in the next exam was a joke. The objective for the uninhabited island exam isn’t to kick your enemies down, but to climb up.”
+[says] (p.303) “The reward for getting 1st to 3rd place is enough to get within shooting distance of Class A, but the rules seem to be a bit troublesome. So, I wanted to prepare in advance.”
+[says] (p.303) “Even so, Ichinose really did agree to team up with that woman. Did you guys butter her up well, or was it because she’s so incompetent that she thought that was all she could do? Right?”
+[says] (p.303) “In that case, everyone here’s that kind of delinquent.”
+[says] (p.303) “Good for you, Katsuragi. Obnoxiously righteous as always. Not bad.”
+[says] (p.304) “The most important thing about this special exam is to not lose any points from the 2nd year. I don’t want the 1st and 3rd years filling their pockets with my money. For that, we need to at least form an alliance, right? If you rely only on your own class, you’ll lack combat power.”
+[says] (p.304) “If the small fry in Class B were added into this group, then I’d be better off fighting alone, but if I can draw in some firepower from elsewhere, then it’d be a different story.”
+[says] (p.304) “Not just you. Ayanokouji as well, who’s spaced out over there just listening to us talk.”
+[says] (p.304) “Why would I call you here if you weren’t.”
+[says] (p.305) “Someone who doesn’t know about him wouldn’t understand, but I made the right choice. Right, Ayanokouji?”
+[says] (p.305) “Stop with that poor acting. You’re the man who beat me and shut me up.”
+[says] (p.306) “Come on, admit it, Ayanokouji. Even if you continue to hide it from Katsuragi like that, I’ll just keep talking, yeah?”
+[says] (p.306) “Yeah yeah, completely forgot about that. As an advisor, you’re certainty qualified.”
+[says] (p.307) “A serious negotiation? You knew that was impossible from the start, didn’t you? But you still came. Were you asked to spy for Class A?”
+[says] (p.307) “You’re a dead man, and you’re looking for a chance to come back to life. Am I right?”
+[says] (p.308) “Come to Class B, Katsuragi.”
+[says] (p.308) “Of course, we’ll pay for the points you don’t have.”
+[says] (p.309) “I’ll soon defeat Sakayanagi, and then the entire Class A will fall. In other words, remaining in Class A is worthless, right?”
+[says] (p.309) “What, you’ve been saving up after all! Even if you’re rotten, you’re still in Class A, eh?”
+[says] (p.309) “You’ve seen this before, yeah? It’s the contract I sighed with you last year.”
+[says] (p.309) “After negotiating with Sakayanagi, I’m giving this thing up for 5 million points.”
+[says] (p.310) “You’re not going to get a chance like this again, Katsuragi.”
+[says] (p.310) “Why… Would you go that far for someone like me?”
+[says] (p.310) “Heh, Katsuragi, you have a surprisingly low opinion of yourself. Though, to be honest, you’re not going cheap.”
+[says] (p.311) “The 5 million for nullifying the contract plus your current balance. The remaining points have been collected from the class. I’ve forced them into poverty to welcome you to our class!”
+[says] (p.311) “Come on, sign it. Using 20 million points to change classes requires several conditions. You can’t force a person to change classes. In the end, the person must agree, and then use his or her funds to transfer to any class of their choosing.”
+[says] (p.312) “It all worked out, right, Katsuragi? You’ve been on your own until now, which makes it easier to invite you into our class.”
+[says] (p.313) “You just bought Katsuragi, so I’m sure your funding situation isn’t so good. Can you prepare enough money?”
+[says] (p.313) “I’ll be able to get 500,000 points or so. That should be enough.”
+[says] (p.313) “I have one condition. Make a student in your class that has a Half Off card exchange their card with one of our students that has the Free Ride card. If you accept that, I’ll sell the trial card to you.”
+[says] (p.314) “Kuku, I guess it’s settled then. Half Off card, eh? It just so happens that Katsuragi has it, right?”
+[note] (p.311–312) He pays 20 million for Katsuragi; individual class transfer, a first in school history; Class B's funds are drained; he's acquired his strongest weapon for the island exam.
+[trait] (p.294–314) The master manipulator; he reads everyone's leverage aloud; he buys loyalty with money they both know he'll never get back.
+[rel:katsuragi-kouhei] (p.298–312) He buys him; he was always going to sign.
+[rel:ayanokouji-kiyotaka] (p.305–314) He reclaims the Trial card price; he tests his nerve.
+[rel:kaneda-satoru] (p.309) The 20,000-point/month contract money flows from Class A.
+[rel:sakayanagi-arisu] (p.308–312) His White Whale.
 
-<!-- walk: y2v2 Ch.5 → p.311 -->
+<!-- walk: y2v2 Ch.5 → p.314 -->
 
-### y2v2 p.298–314 — Ryūen's three-class alliance and Katsuragi buyout
-[scene] (p.298) Summons Ayanokōji and Katsuragi to a Keyaki Mall café — an unlikely pair — to propose an alliance for the island exam.
-[says] (p.298) "What, do you want to stand while we talk? Sit down."
-[says] (p.298) "Kuku, don't admire him too much, Katsuragi– that's in the past."
-[says] (p.299) "Fuck off. Ichinose was off sinking on her own, she was never even on my radar."
-[says] (p.300) "I don't want any of that diplomatic crap, I want just straight answers."
-[says] (p.301) "It looks like it's the end of the road for the loser of the faction war, eh?"
-[says] (p.303) "Even so, Ichinose really did agree to team up with that woman."
-[says] (p.304) "Why would I call you here if you weren't." — to Ayanokōji
-[says] (p.305) "Stop with that poor acting. You're the man who beat me and shut me up."
-[says] (p.308) "Come to Class B, Katsuragi."
-[says] (p.311) "This is your fate. Accept it."
-[says] (p.313) "Why, it's the Trial card he received."
-[says] (p.313) "Sell it to me."
-[trait] (p.298–314) Bold and manipulative — taunts Katsuragi about his loss and Totsuka, proposes buying Sakayanagi's expulsion (a joke to gauge him), then offers ~20 million points to bring Katsuragi to Class B; wants Ayanokōji not as a group member but to buy his Trial card (aiming for 450 class points with first place).
-[rel:katsuragi-kouhei] (p.298–312) Exploits his vendetta to transfer him to Class B.
-[rel:ayanokouji-kiyotaka] (p.298–314) Knows he beat him; wants his Trial card.
-[rel:sakayanagi-arisu] (p.301–303) The target of his fake expulsion talk; wants to climb past Class A.
-[note] (p.309) Ryūen's Class B had been squeezed 20,000 points/student monthly under the Katsuragi contract (~9.36 million/year); nullifying it frees the class.
+### y2v2 p.32–335 — Coverage note: passing mentions
+[mentioned] (p.32) “by May, Sakayanagi-san, Ichinose-san, and Ryuuen-kun would definitely have learned of his name.”
+[mentioned] (p.48) “He didn’t use dirty tricks as Ryuuen did as well.”
+[mentioned] (p.67) “Ryuuen had the experience of being beaten down by me, so he would naturally know that I wasn’t only good at math.”
+[mentioned] (p.81) “Sakayanagi, Ichinose, Ryuuen. Those people would probably cry from the joy.”
+[mentioned] (p.144) “How will Sakayanagi, Ryuuen, and Ichinose act?”
+[mentioned] (p.145) “Ichinose aside, it’s hard to imagine Ryuuen would readily agree to it.”
+[mentioned] (p.153) “I thought Ryuuen would be here too, but that didn’t seem to be the case.”
+[mentioned] (p.161) “Well, ‘course it’s just you. I reckon you’re just as powerful as Ryuuen… Nah, if I had to say, it’s cuz I now think that you’re even better than him.”
+[mentioned] (p.163) “Was it Ryuuen who decided to invite me? Or is this Ishizaki’s arbitrary decision?”
+[mentioned] (p.163) “It’s my own decision. Ryuuen knows nothing about it.”
+[mentioned] (p.163) “Have you thought about what would happen if Ryuuen found out about this?”
+[mentioned] (p.164) “If it was up to me to choose the small group Hmm. Ryuuen-kun, Kaneda-kun, and Ayanokouji-kun, those three. It’s fine if Kaneda-kun is replaced by Yamada-kun, but Ryuuen-kun is indispensable.”
+[mentioned] (p.165) “If it was up to me to choose the small group Hmm. Ryuuen-kun, Kaneda-kun, and Ayanokouji-kun, those three. It’s fine if Kaneda-kun is replaced by Yamada-kun, but Ryuuen-kun is indispensable.”
+[mentioned] (p.165) “Don’t be ridiculous! Do you think Ryuuen-kun will ever approve of our plan!?”
+[mentioned] (p.166) “Kaneda-kun is the same, he won’t ignore Ryuuen-kun’s orders and participate in a strategy he’s unsure of.”
+[mentioned] (p.205) “B led by Ryuuen, whom she was chasing after, was only 26 points.”
+[mentioned] (p.205) “when Ryuuen’s class rose to Class B, there were no holes found in his class from such everyday actions that would have decreased their class points.”
+[mentioned] (p.206) “when Ryuuen’s class rose to Class B, there were no holes found in his class from such everyday actions that would have decreased their class points.”
+[mentioned] (p.208) “However, both Ryuuen-kun and I are able to bare our fangs even if we’re in a disadvantageous situation, you know?”
+[mentioned] (p.213) “Although the gap with our class wouldn’t be narrowed, you can catch up with Ryuuen-kun’s class, and widen the gap with Class D.”
+[mentioned] (p.214) “But if you and I group up, Horikita-san and Ryuuen-kun might also group up…”
+[mentioned] (p.218) “However, both Ryuuen-kun and Horikita-san are formidable opponents.”
+[mentioned] (p.218) “Ryuuen and Horikita’s classes along with the 1st and 3rd years.”
+[mentioned] (p.242) “Whether it be Ayanokouji, Ryuuen, or the others, whoever comes at me with their fangs, I’ll crush them all.”
+[mentioned] (p.305) “expressed his doubts on Ryuuen’s strategy.”
+[mentioned] (p.305) “Ryuuen said that with nary a consideration for my preferences about that matter.”
+[mentioned] (p.305) “He turned to Ryuuen and I to confirm if it was the truth.”
+[mentioned] (p.310) “If I were Sakayanagi, I would have agreed to Ryuuen’s proposal as well.”
+[mentioned] (p.310) “That’s why Ryuuen was willing to pay as much as it takes.”
+[mentioned] (p.312) “Ryuuen brilliantly exploited this, and successfully brought him into his ranks.”
+[mentioned] (p.312) “Ryuuen asked me with a baffled expression, as I poured water into the remaining one-fifth of the coffee.”
+[mentioned] (p.313) “Ryuuen mentioned the card that had been given to me.”
+[mentioned] (p.324) “Even on the rooftop, after I beat both Ryuuen and Ibuki, she still challenged me again later on.”
+[mentioned] (p.335) “Sakayanagi, Ichinose, and Ryuuen, were also aiming for that very same goal.”
+
+<!-- walk: y2v2 Coverage note → p.335 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

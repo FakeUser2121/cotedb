@@ -794,14 +794,16 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.215, 299–300 — Hashimoto mentioned in passing
-[scene] (p.215) Named in the group formation context.
-[scene] (p.299–300) Named in Ryūen's alliance meeting.
-[note] (p.215, 299–300) Passing mentions; not a distinct scene presence.
-[mentioned] (p.215, 299–300) Passing mention only.
+### y2v2 p.215 — Named in passing (Ch.3)
+[mentioned] (p.215) Hashimoto Masayoshi — Class A; named by Sakayanagi at p.215 as a Class A main force (with Kitō, Kamuro and herself).
 
-<!-- walk: y2v2 Ch.5 → p.300 -->
+<!-- walk: y2v2 Ch.3 → p.215 -->
 
+### y2v2 p.299–300 — Coverage note: passing mentions
+[mentioned] (p.299) “In addition to the three people Ryuuen named, Class A’s Hashimoto, and Kamuro,had formed a group with one of Class C’s best students, Ninomiya.”
+[mentioned] (p.300) “This couldn’t be a mere coincidence.” — the ‘More People’ special card that Asakura was supposed to have had, now with Hashimoto from Class A.
+
+<!-- walk: y2v2 Coverage note → p.300 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

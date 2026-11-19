@@ -10,11 +10,11 @@ char_id: nishimura-ryuuko · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.121 — Nishimura objects
+[scene] (p.121) She fires the shorter-summer objection.
+[says] (p.121) “Sensei, based on this schedule, won’t our summer vacation be very short?”
 
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
-
+<!-- walk: y2v2 Ch.3 → p.121 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

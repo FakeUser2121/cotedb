@@ -55,7 +55,7 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 ### y2v12.5 p.11-216 — hondou-ryoutaro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.126; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 ## y3v2
 
@@ -73,11 +73,17 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.169 — Hondou mentioned as Sudō's group partner
-[scene] (p.169) Shinohara mentions that Sudō and Hondou will be in a group together.
-[trait] (p.169) Mentioned in passing as a group member.
+### y2v2 p.168 — Named in passing (Ch.3)
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
-<!-- walk: y2v2 Ch.3 → p.169 -->
+<!-- walk: y2v2 Ch.3 → p.168 -->
+
+### y2v2 p.54–129 — Coverage note: passing mentions
+[mentioned] (p.54) “Sudou… must have heard the details from Ike or Hondou afterwards.”
+[mentioned] (p.61) “But if it were another student such as Ike or Hondou in that situation, there could have been different developments.”
+[mentioned] (p.129) Chabashira’s example member — “the trio of Hirata, Sudo, and Hondou.”
+
+<!-- walk: y2v2 Coverage note → p.129 -->
 
 ## y2v3
 
@@ -112,16 +118,16 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
 ### y2v4.5 p.160 — Mentions: the treasure hunt venue
-[mentioned] (p.160) The three roommates (with Miyamoto and Hondō) head for the treasure hunt venue, leaving Akito behind with a fever.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 ### y2v4.5 p.183–184 — Mentions: the first to arrive
-[mentioned] (p.183) "The first ones to arrive at the crime scene were Sudō, Ayanokōji, Ike, Hondō and also you."
-[mentioned] (p.184) Ryūen: "The other three were playin' around like idiots, but that's normal behaviour on this ship."
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
 ### y2v4.5 p.217 — Mentions: the evening cabin
-[mentioned] (p.217) Roommate; by the evening his fever has broken and Akito is recovering.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
@@ -130,11 +136,11 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 <!-- walk: y2v5 → start -->
 
 ### y2v5 p.13, 19–20, 25, 27 — Mentions: the boys' group; the fried-chicken proposal
-[mentioned] (p.13) Sudō chats with Ike and Hondō once at school.
-[mentioned] (p.19) On the day the proposal reward was announced, Hondō "immediately proposed that we sell fried chicken because it was delicious" — Horikita shut him down, telling him to come up with an actual pitch.
-[mentioned] (p.20) The next day, undaunted, he submitted an Internet-recipe proposal — "an impassioned speech about how much he would sell it for and how tasty it would be" — still not adopted; Horikita reiterated what a real proposal needs (cost, location, human resources, price, expected customers).
-[mentioned] (p.25) Horikita names him as better suited to the maid café ("Hondō-kun... may have better eyes for this kind of thing").
-[mentioned] (p.27) Chabashira-sensei sides with Ayanokōji that Ike and Hondō suit otaku culture better.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 ### y2v5 p.91 — Hondō: "can we call this a special test?"
@@ -155,9 +161,9 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 <!-- walk: y2v5 Ch.8 → p.231 -->
 
 ### y2v5 p.95, 186, 220 — Coverage-gate mention records
-[mentioned] (p.95) "Okinawa team, spearhead, Onodera, middle, Hondō, general, Sudō, mixed gender team." — Hondō named; Okinawa loses.
-[mentioned] (p.186) "Huh? Didn't Hondō-kun just promise to vote against you and Onizuka-kun? It's the same thing." — Haruka.
-[mentioned] (p.220) "we can have hand-raise votes for Hondō, Okitani, or another student, but it will not be less than three votes for Airi." — the comparison set.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 ## y2v7
 
@@ -191,19 +197,19 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
 ### y2v8 p.93 — Sakayanagi's group: Hondō from Horikita's class
-[mentioned] (p.93) Ayanokōji infers Sakayanagi is sightseeing with Hondō and Onodera from Horikita's class — Group 4 (if the one-boy-one-girl-per-class reading is right, Hondō + Onodera fill the Class B slots).
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
 ### y2v8 p.19 — Passing-mention record
-[mentioned] (p.19) "Hondō tilted his head, unable to understand the famous quote from Sun Tzu's The Art of War."
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — hondou-ryoutaro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.15, p.18-19, p.93.
-[mentioned] (p.11) Passing mention only.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 ## y2v9
 
@@ -221,7 +227,7 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 ### y2v9.5 p.40-42 — Hondou mentioned in passing
 [scene] (p.40) Named in this volume.
 [note] (p.40) Passing mention (locator pages: p.40, p.42; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.40) Passing mention only.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v9.5 Ch.3 → p. p.42 -->
 
@@ -240,7 +246,7 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 ### y2v10 p.9-235 — hondou-ryoutaro mentioned in passing
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.81, p.83-84, p.88, p.92, p.138; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 ### y2v10 p.81, 83–85, 88 — Ch.4: Hondō, loud skeptic, converted
 [scene] (p.81) He raises his hand with Shinohara and Miyamoto for the karaoke outing; it is not clear he expected much from Ike's idea.
@@ -253,15 +259,15 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 
 ### y2v10 p.84, 138 — Ch.6: The skeptic gone quiet
-[mentioned] (p.83) Present at the karaoke session; he made fun of Ike's plan with "What? If you did that, we’d be down 32 points right from the start!" — he was the loudest skeptic.
-[mentioned] (p.138) Eliminated in the last turn of the first half; his class's lineup is broken; the scoreboard shows Horikita's class at 28 points with four eliminated — Sotomura, Ijūin, Hondō.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 [note] (p.138) No further dialogue; the page does not give his last answer.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.88–92 — Ch.4: passing mentions (locator cross-check)
-[mentioned] (p.88) Passing mention — Shinohara-san, Hondō-kun, and Miyamoto-kun, too. Please feel free to
-[mentioned] (p.92) Passing mention — when Hondō was. Because we strove to avoid being at the bottom, it was natural
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
+[mentioned] (p.144) Hondō Ryōtarō — named at p.144 as a Chabashira example member (Hirata, Sudo, and Hondou); not present.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11

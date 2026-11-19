@@ -83,6 +83,12 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 
 
+
+### y2v2 p.197 — Coverage note: passing mentions
+[mentioned] (p.197) “The third person in their group was Kinoshita Minori of Class B.” — on the OAA listing.
+
+<!-- walk: y2v2 Coverage note → p.197 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

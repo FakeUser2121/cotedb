@@ -383,24 +383,69 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.168–177 — Shinohara is courted by Ike and Komiya
-[scene] (p.168–171) Ike tries to recruit her into his group; Kushida interrupts with an invitation from Kobashi (Class C); Shinohara is annoyed by Ike's persistence.
-[scene] (p.174–177) She agrees to meet Komiya at a café; Ike is upset.
-[trait] (p.168–177) Pragmatic and slightly exasperated by Ike's advances.
-[rel:ike-kanji] (p.168–177) She is annoyed by his recruitment attempt.
-[rel:komiya-kyogo] (p.174–177) She agrees to meet him at a café.
+### y2v2 p.15–19 — Shinohara in the uproar
+[scene] (p.15) She swipes the tablet Yukimura hands her, incredulous that the 2nd-year results are published.
+[says] (p.15) “Do tell me more.”
+[says] (p.15) “I didn’t even notice. You can even see the results of the other classes. Why is that?”
+[says] (p.15) “Waaah, I hate this! Wouldn’t this mean that a lot of people will know my scores? This is the worst!”
+[scene] (p.19) Stands beside Ike; the class's talk turns to cheating; she cannot parse the leap.
+[says] (p.19) “Cheat? How would he even cheat?”
+[scene] (p.37–38) Recruited by Karuizawa to ratify the cover story; plays along with flawless instinct.
+[says] (p.37) “That’s right! I feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
+[trait] (p.15–38) Quick, trusting, literal — a player piece without knowing it; the class uses her credibility both ways.
+[rel:karuizawa-kei] (p.37) She does Karuizawa's bidding without realizing the play.
+[rel:yukimura-teruhiko] (p.15–38) She watches his meltdown and echoes it.
+
+<!-- walk: y2v2 Ch.1 → p.38 -->
+
+### y2v2 p.168–177 — The Komiya turn
+[scene] (p.168–169) He hails her in the lobby; she dodges gently; she lets him walk with her.
+[says] (p.169) “No, not yet… Why do you ask?”
+[says] (p.169) “Oh, really? What about you? You’re gonna be with Sudo-kun and Hondo-kun either way, right?”
+[says] (p.170) “Probably, huh~.”
+[says] (p.170) “I guess.”
+[says] (p.170) “The heck? Look at you acting all high and mighty.”
+[says] (p.170) “Well, I guess I can consider it, but… You sure want to be in the same group as me?”
+[says] (p.171) “Huh!? Sacrifice what? I didn’t ask for that!”
+[scene] (p.171) Kushida's invitation pulls Ike away mid-sentence; she watches him leave; he doesn't turn around.
+[says] (p.171) “No, it’s alright, he’s been bothering me since he first called out to me. Take him.”
+[scene] (p.172–173) She stops on the steps; Komiya finds her there; her eyes are red.
+[says] (p.172) “Ah, Komiya-kun… Good morning.”
+[says] (p.172) “Eh? W-why do you ask?”
+[says] (p.172) “Ah, you got me, huh? Something got in my eyes just now… Oww.”
+[says] (p.172) “Yeah, it’s been a long time coming.”
+[scene] (p.175–177) Back in class she announces she's grouped with Komiya; leaves early for the café; Ike deflates behind her.
+[says] (p.175) “Yeah, anything wrong with that?”
+[says] (p.176) “Forbidden what, I haven’t officially confirmed yet. Well, I’m going to confirm today though.”
+[says] (p.176) “And what are you talking about, saying that you invited me. Who’s the one who got all horny and ignored me?”
+[says] (p.176) “Turned someone down? Ah, you’re really pissing me off. You really are a horrible person.”
+[says] (p.176) “What’s it got to do with you?”
+[says] (p.176) “Class B’s Komiya-san. He invited me just after the special exam started yesterday.”
+[says] (p.176) “He isn’t flashy, and I promised to meet up at the cafe after school to discuss it.”
+[note] (p.171–177) She did not cry over Ike; something else reddened her eyes; she chooses Komiya's orbit — he notices, then confesses he likes her.
+[rel:ike-kanji] (p.169–177) She does not return his feelings; she tolerates him politely.
+[rel:komiya-kyogo] (p.168–177) He sees her red eyes; he intends to walk the island with her.
+[rel:kushida-kikyou] (p.171) She hands Ike to her.
 
 <!-- walk: y2v2 Ch.3 → p.177 -->
 
-### y2v2 p.12–22 — Shinohara joins the speculation
-[scene] (p.15) She joins the group discussion, asking how hard the exam questions were.
-[says] (p.15) "Was the question that hard?"
-[scene] (p.19) She asks Sudō how Ayanokōji could have cheated.
-[says] (p.19) "Cheat? How would he even cheat?"
-[scene] (p.36–37) Kei draws her in to support Horikita's cover story.
-[trait] (p.12–37) Curious and outspoken — engages with the debate directly.
+### y2v2 p.185–198 — Coverage note: passing mentions
+[mentioned] (p.185) “I spotted Shinohara and Komiya, who were talking and laughing in the cafe.”
+[mentioned] (p.189) “It seems like one of them invited the other to form a group, are they dating?” — the Ishizaki exchange about her and Komiya.
+[mentioned] (p.190) “Although they’re not dating, Komiya-kun certainly likes Shinohara-san, right?”
+[mentioned] (p.191) “If that happened, the relationship between Ike and Shinohara might become even more tenuous than it is now.”
+[mentioned] (p.192) “And if we forcefully separated Komiya and Shinohara, it would invite Nishino’s ire.”
+[mentioned] (p.192) “So you just want to know if he actually likes Shinohara, Ayanokouji?”
+[mentioned] (p.193) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
+[mentioned] (p.194) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
+[mentioned] (p.195) “I expressed my concerns to Horikita about the current situation between Ike, Shinohara, and Komiya and that it might affect this upcoming uninhabited island exam.”
+[mentioned] (p.196) “It seems like Komiya and Shinohara have already agreed to form a group, but because of your orders, they haven’t confirmed yet.”
+[mentioned] (p.196) “if you tell Shinohara that grouping up with Komiya is strategically disadvantageous, she can’t forcefully disobey.”
+[mentioned] (p.196) “Why don’t we just make Ike-kun confess? If Shinohara-san accepts, Ike-kun will fight hard to stay at the school no matter what group he’s in, right?”
+[mentioned] (p.197) “Unfortunately, it seems like we’re too late.” — the OAA check that shows Shinohara and Komiya already formed a group.
+[mentioned] (p.198) “Starting with the fight between Ike and Shinohara.”
 
-<!-- walk: y2v2 Ch.1 → p.37 -->
+<!-- walk: y2v2 Coverage note → p.198 -->
 
 ## y2v3
 

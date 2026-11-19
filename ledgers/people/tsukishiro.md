@@ -263,16 +263,39 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.336–337 — Tsukishiro's final push before losing his position
-[says] (p.336) "We're in late July already. It's certainly getting hotter, right?"
-[says] (p.336) "Please, are you done with your analysis yet? Prolonging it anymore won't help you."
-[says] (p.337) "You mean you've been forced to be unreasonable?"
-[says] (p.337) "Yes. I've been quite unreasonable with pressuring for an increase in the budget for this special exam."
-[says] (p.337) "I've prepared some splendid fireworks for the end. I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?"
-[says] (p.337) "I'm expecting great things from you— Nanase Tsubasa-san."
-[trait] (p.336–337) Under pressure — admits to forcing budget increases and silencing the school over the exam's strict rules, and that the allegations against Chairman Sakayanagi have cleared so his acting-chairman role is nearly over; launches a final, desperate "fireworks" push to expel Ayanokōji.
-[rel:nanase-tsubasa] (p.336–337) His enforcer; he reveals her identity and orders her to act.
-[rel:sakayanagi-arisu] (p.337) The chairman whose allegations are clearing, ending Tsukishiro's temporary tenure.
+### y2v2 p.336–337 — Tsukishiro's fireworks
+[scene] (p.336) The bus lot; the buses enter; the first-year student stands before him.
+[says] (p.336) “We’re in late July already. It’s certainly getting hotter, right?”
+[says] (p.336) “Please, are you done with your analysis yet? Prolonging it anymore won’t help you.”
+[says] (p.336) “Is that too much for you?”
+[says] (p.337) “I’ll cooperate as much as I can. That being said, I can’t possibly provide any more support than this.”
+[says] (p.337) “Yes. I’ve been quite unreasonable with pressuring for an increase in the budget for this special exam. More importantly, I’ve also been forced to silence the school authorities about the strict rules I placed for the exam, after all.”
+[says] (p.337) “Probably. The allegations against Chairman Sakayanagi should have cleared by now. I can see my role here ending soon. That’s why I’ve prepared some splendid fireworks for the end. I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?”
+[says] (p.337) “That’s good to hear. In that case, you’re free to go berserk during this… special exam. Once everything is taken care of, you will also return to your previous life. We will both return to the ‘place’ we are supposed to be.”
+[says] (p.337) “I’m expecting great things from you— Nanase Tsubasa-san.”
+[trait] (p.336–337) The temporary chairman burns the last of his power with a smile; allegations cleared; he has nothing to lose.
+[rel:nanase-tsubasa] (p.336–337) The enforcer goes all-in.
+[rel:ayanokouji-kiyotaka] (p.336–337) The target, again.
+
+<!-- walk: y2v2 Epilogue → p.337 -->
+
+### y2v2 p.23–257 — Coverage note: passing mentions
+[mentioned] (p.23) “Under Tsukishiro’s watch, I left the reception room…”
+[mentioned] (p.24) “As of now, Tsukishiro didn’t know that I was working with Chabashira, who was the homeroom teacher of Class 2-D, and Mashima-sensei of Class 2-A.”
+[mentioned] (p.24) “this was Tsukishiro, so I couldn’t rule out the possibility of this being one of his traps.”
+[mentioned] (p.26) “It had been just about thirty minutes since I’d been summoned by Tsukishiro.”
+[mentioned] (p.65) “It seemed to be out of Tsukishiro’s control, but what exactly were they thinking?”
+[mentioned] (p.71) “Horikita didn’t know about the individual actions that Tsukishiro might take, so her options were bound to be limited.”
+[mentioned] (p.166) “This was because of Tsukishiro and the White Room student lurking in the 1st year.”
+[mentioned] (p.167) “This was because of Tsukishiro and the White Room student lurking in the 1st year.”
+[mentioned] (p.168) “It’s possible that Tsukishiro had given me the card in order to help force my expulsion, but given that the card can be transferred, that was far too weak of a strategy to pressure me.”
+[mentioned] (p.184) “It was absolutely inconceivable that Tsukishiro had nothing to do with it.”
+[mentioned] (p.198) “Tsukishiro.” — the class’s understanding that he's the one behind the spring exam.
+[mentioned] (p.257) “It was now confirmed that Tsukishiro and Nagumo were the ones behind the 20 million points.”
+[mentioned] (p.257) “Tsukishiro’s likely involvement finally revealed itself.”
+
+<!-- walk: y2v2 Coverage note → p.257 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

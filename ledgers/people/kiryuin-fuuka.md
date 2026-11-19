@@ -21,16 +21,88 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.29–33, 76–78 — Kiryūin in the shoplifting investigation
-[scene] (p.29–33) She bursts into the student council meeting and exposes Nagumo's shoplifting order.
-[scene] (p.76–78) She stops Ayanokōji outside the council room and asks him to investigate the shoplifting case.
-[note] (p.29–33, 76–78) Kiryūin was present in these scenes; entries already exist in the y2v9 block for the same character.
+### y2v2 p.278–285 — Kiryūin takes the bench
+[scene] (p.278) She's been sitting on the bench the whole time; Kiriyama begs off; she addresses Ayanokōji directly.
+[says] (p.278) “Kiriyama. Can you not hear me?”
+[says:kiriyama-ikuto] (p.278) “Speak of the devil…”
+[says] (p.278) “Fufu. You’re with an interesting underclassman, so I said hello.”
+[says] (p.279) “Ayanokouji Kiyotaka, right? I heard you became famous after a perfect score on a difficult math test.”
+[says:kiriyama-ikuto] (p.279) “What are you doing, Ayanokouji? We’re leaving.”
+[says] (p.279) “You won’t get anything from being with a guy like that, you know?”
+[says:kiriyama-ikuto] (p.279) “Staying with you is meaningless.”
+[says] (p.279) “Ayanokouji’s the one who should decide that, right? Kiriyama, can’t you leave any quicker?”
+[says] (p.279) “Would you like to join me in a meaningful conversation?”
+[says] (p.280) “Don’t praise me like that, I’m getting embarrassed!”
+[says:kiriyama-ikuto] (p.280) “She’s a lot like Kouenji from your year. All her words and actions, if you take her seriously, you’ll just be wasting your time.”
+[says:kiriyama-ikuto] (p.280) “She’s just a good student, but Kiryuuin doesn’t have anyone supporting her, unlike Nagumo. She doesn’t even have a single friend.”
+[says] (p.281) “Thanks for the compliments, Kiriyama.”
+[says] (p.282) “If you want to say something, say it quickly.”
+[says] (p.283) “It’s enough as long as I can figure out what sort of person you are.”
+[says] (p.283) “Being interested and cooperating are 2 completely different things, aren’t they? There are some interesting people in my class, and sometimes I want to have a friendly conversation with them, just like what I’m doing with you now.”
+[says] (p.283) “I’m not interested in the system of aiming for Class A of this school. Although the biggest selling point of the school is that you can go to whatever university you want and find employment wherever you want, I believe I can achieve whatever I want with my own abilities. I simply chose to come to this school on a whim.”
+[says] (p.283) “Would you have chosen this place if you knew before you came here that the structure of this school is centered around cooperation?”
+[says] (p.284) “That’s not the case. I like this school. In fact, I haven’t had a single complaint about life here since I arrived. The point system is also very pleasant.”
+[says] (p.284) “It seems that you are fine with being hated by others.”
+[says] (p.284) “Other people’s evaluations don’t matter to me.”
+[says] (p.284) “I wanted to ask you something, but instead you’re the one asking the questions.”
+[says] (p.284) “It’s about time you told me about yourself.”
+[says] (p.284) “Why me? There are many students who excel in their studies.”
+[says] (p.284) “Are you planning to get first place in the uninhabited island exam?”
+[says:ayanokouji-kiyotaka] (p.284) “There’s no student who doesn’t want to be first. Except maybe, for people like you, Kiryuuin-senpai.”
+[says] (p.284) “Letting aside first place, I’m also one of the people who is aiming for a top spot. If I get a high position, I can get private points. I’m the type to spend whatever I have, so I’m always short of money.”
+[says] (p.284) “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right? The upcoming special exam will determine the top student at the school.”
+[says] (p.284) “Whether my interest in you disappears or not, it all depends on what you do in the uninhabited island exam.”
+[says] (p.285) “I see. You say some interesting things, underclassman. I’m looking forward to fighting you, Ayanokouji.”
+[note] (p.280–285) Her Academic and Physical Abilities are both A+ — the only A+/A+ in the school; her one weakness is Adaptability (D).
+[trait] (p.278–285) Kouenji-like self-possession; faintly flirtatious needling; genuinely curious; no interest in class or system, only in her own excellence and in spending money.
+[rel:ayanokouji-kiyotaka] (p.278–285) She sizes him up as the interesting underclassman.
+[rel:kiriyama-ikuto] (p.278–285) She mocks him openly; he cannot counter.
+[rel:nagumo-miyabi] (p.286–292) Next scene: she toys with him and declines his offer to help.
 
-<!-- walk: y2v2 Ch.2 → p.78 -->
+### y2v2 p.286–292 — Alone with Nagumo
+[scene] (p.286) After Ayanokōji leaves; her day resumes; the swaying blonde hair appears, followed by Kiriyama.
+[says] (p.286) “Hey hey, the loyal dog came back with his master eh?”
+[says] (p.286) “If you’re getting mad at this, then that means that you know what I’m talking about. Right now, no one should know who’s the loyal dog and who’s the owner, as I don’t remember declaring who was who. I’m simply stating from the perspective of an outsider who doesn’t know anything. Why? Because the one who left and as returned is you, Kiriyama, and so that fits the image of a loyal dog.”
+[says:kiriyama-ikuto] (p.286) “This woman’s a real pain in the ass…”
+[says:nagumo-miyabi] (p.286) “You’ve got a dirty mouth, Kiriyama, it doesn’t suit the image of a serious vice president.”
+[says] (p.286) “Agreed. So can the two of you disappear from my sight right now? It’s a waste of my precious time.”
+[says] (p.287) “A beloved comrade? You didn’t say that with any sort of emotion at all.”
+[says:nagumo-miyabi] (p.287) “That’s just your imagination.”
+[says] (p.287) “Well. What does the student council president want from me? I thought I’d never see you again.”
+[says:nagumo-miyabi] (p.287) “You’re beautiful but charmless, and I don’t have much interest in charmless women.”
+[says] (p.287) “I have charm. It’s just that I haven’t met a man who could draw it out yet.”
+[says] (p.287) “Me too. But putting aside your personal tastes, why aren’t I popular?”
+[says:nagumo-miyabi] (p.287) “If there’s a man who can bring out the charming side of you, I’d like to meet him.”
+[says:nagumo-miyabi] (p.287) “Women with too high an ability are hard to deal with. Unfortunately, I don’t like those types either.”
+[says] (p.287) “I see, if that’s the case then I’ll never be able to meet your standards. If being too excellent is the reason why I haven’t found a boyfriend, then I understand.”
+[says:nagumo-miyabi] (p.288) “I heard something from Kiriyama. I would have never thought that someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji. I was surprised when I heard that.”
+[says:nagumo-miyabi] (p.287) “If possible, I too don’t want to stay here for longer than I have to.”
+[says:nagumo-miyabi] (p.288) “Someone who has never been with a man before, can understand the fundamentals of love?”
+[says] (p.288) “It’s true that I’ve never been in a relationship, but that’s nothing to be ashamed of. Rather, I should say that it has raised my value?”
+[says:nagumo-miyabi] (p.288) “Like always, your way of thinking is rather strange.”
+[says:nagumo-miyabi] (p.288) “So… Ayanokouji? Is he someone worth keeping an eye on?”
+[says] (p.291) “There’s a saying, that a predator doesn’t reveal his fangs, right? He seems to have gotten a perfect score in a difficult test.”
+[says:nagumo-miyabi] (p.291) “There are people who hate being in the limelight and hide their talents. I’ve defeated all of them, and they weren’t very interesting.”
+[says:nagumo-miyabi] (p.290) “I have given you several chances to prove that, but till now you haven’t done anything, and as a result ended up in Class B.”
+[says] (p.289) “The moment you lose, you’ll lose something immeasurable, student council president. However, it seems you’ve misunderstood something, student council president. I’m not underestimating you. I don’t have the leadership skills that you or Horikita Manabu possessed. I’m no good at making friends either, in fact I’ve never had someone who I could consider a friend, let alone a close one. You know that, right?”
+[says] (p.289) “However, if we’re talking about the other elements, it’s different.”
+[says:nagumo-miyabi] (p.289) “Well well, can you really say that there’s definitely nothing in which you’re inferior to me at?”
+[says] (p.290) “Certainly, if you only look at the results, I failed miserably.”
+[says:nagumo-miyabi] (p.290) “You wanted some answers about Ayanokouji, didn’t you?”
+[says] (p.290) “Interesting? I think his personality is far from it.”
+[says:nagumo-miyabi] (p.291) “You seem to be bored ever since Horikita Manabu left. So this underclassmen should be a good playmate for you, eh? If you’re really serious, then you’ll definitely get 1st place in the upcoming exam.”
+[says:nagumo-miyabi] (p.291) “Of course I’ll get 1st place. Or maybe it’ll be Kiriyama, who’s been dying to fight me. But to get control of the whole podium, I still need more groups, right? I’ll give you this role, Kiryuuin. If necessary, I’ll even help you find comrades.”
+[says] (p.291) “I see. So you came here to ask for my help?”
+[says] (p.291) “The top 50% is enough for me. Sorry that you had to come all this way for nothing.”
+[says] (p.292) “With that logic, nobody can give you any advice”
+[says] (p.292) “Then listen as if this were a monologue. You should look at what’s going on in front of you, instead of playing with your underclassmen. If you pay too much attention to those behind you, you’ll get badly hurt.”
+[note] (p.286–292) Her eval: A+ A+, D in adaptability, C+ social; Nagumo needs comrades on the podium; she takes top-50% and declines the whole offer.
+[trait] (p.286–292) Sharp, self-sufficient, entirely unbothered; she wins by surviving, not by commanding; Nagumo's wanted something she never agreed to give.
+[rel:nagumo-miyabi] (p.286–292) She treats him as a rival who bore her.
+[rel:kiriyama-ikuto] (p.286–292) She tells him to his face he's a loyal dog.
+[rel:ayanokouji-kiyotaka] (p.285–292) She keeps him on hold.
 
-
-<!-- walk: y2v3 Epilogue → p.368 -->
-
+<!-- walk: y2v2 Ch.4 → p.292 -->
 ## y2v4
 
 <!-- walk: y2v4 → start -->

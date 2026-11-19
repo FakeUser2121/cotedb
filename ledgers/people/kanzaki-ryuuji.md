@@ -620,31 +620,62 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.46–49 — Kanzaki confronts Ayanokōji at Keyaki Mall
-[scene] (p.46–49) He accompanies Ichinose and is hostile toward Ayanokōji, suspecting he is hiding more than math — his legs, his fighting strength.
-[says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
-[says] (p.49) "Then, what else? Is it just math? No, it can't be just math."
-[trait] (p.46–49) Sharp and on guard — he sees Ayanokōji as a threat to Class B's standing.
+### y2v2 p.46–52 — Kanzaki's interrogation
+[scene] (p.47) Sees Ayanokouji alone at Keyaki mall at 6:30; opens with the OAA discrepancy.
+[says] (p.47) “Judging from last year’s OAA, you shouldn’t have the strength to get a full score.”
+[scene] (p.48–49) He presses; Ichinose holds him back twice; he loses his cool for a moment.
+[says] (p.48) “So you’re saying that you’ve been hiding it all this time. It looks like you’re even more of an issue than I thought.”
+[says] (p.48) “Our alliance has been dissolved. There’s no doubt that Class 2-D is our enemy.”
+[says] (p.48) “This isn’t a dispute. It’s just necessary for us to know the true strength of our opponent.”
+[says] (p.48) “That’s true. He didn’t use dirty tricks as Ryuuen did as well. Still, there’s a few things I don’t like about him. Ichinose, you should be very aware of the fact that it’s not at all easy to be able to solve that extremely difficult question to get full marks. He says he’s following his comrade’s instructions but-”
+[says] (p.49) “Ayanokouji-kun did indeed hide the fact that he was good at math; this was a fact that had been hidden.”
+[says] (p.49) “Then, what else? Is it just math? No, it can’t be just math. What other abilities are you hiding? Did you hide those legs you’re so proud of during last year’s sports festival because of orders from your comrades? To Class B… No, Class C, the worst thing is that you still have other strengths hidden away.”
+[says] (p.49) “That might be true if it’s just a written test… but-”
+[says] (p.49) “It seems like I’ve indeed lost my cool.”
+[scene] (p.50) He leaves first into the mall; the talk is unfinished on purpose.
+[says] (p.50) “I’ll go first.”
+[trait] (p.46–52) The alliance is dead to him; guarding Class C is a duty he will see through to the end; he asks the questions nobody wants to hear.
+[rel:ichinose-honami] (p.46–52) His friend, his opposite, his shield.
+[rel:ayanokouji-kiyotaka] (p.46–52) An enemy whose file he refuses to close.
 
-<!-- walk: y2v2 Ch.1 → p.49 -->
+<!-- walk: y2v2 Ch.1 → p.53 -->
 
-### y2v2 p.294–297 — Kanzaki asks Ayanokōji for help
-[scene] (p.294–297) He meets Ayanokōji at Keyaki Mall and asks if he can trust him; he reveals Ichinose is struggling and asks for help changing her mind.
-[says] (p.295) "Ayanokouji, Ichinose seems to trust you a lot, but can 'we' really trust you?"
-[trait] (p.294–297) Worried and desperate — he wants Ayanokōji to help Ichinose.
+### y2v2 p.295–297 — Kanzaki at the convenience store
+[scene] (p.295) He bumps into Ayanokōji near the convenience store with two 2-liter bottles; he approaches him directly for help.
+[says] (p.295) “Going to Keyaki mall at this time?”
+[says] (p.296) “I won’t have any time to relax after the exam starts, after all.”
+[says] (p.296) “It seems like most of the people in Class D have formed groups, but you’re still on your own?”
+[says] (p.296) “Unlike the others, I don’t have many friends, so.”
+[says] (p.296) “You and Horikita, are both of you going to act as reinforcements for your class’s groups? After all, excellent students could leave their mark in any group during the exam.”
+[says] (p.296) “Ayanokouji, Ichinose seems to trust you a lot, but can ‘we’ really trust you?”
+[says] (p.296) “I’d consider it, at least.”
+[says] (p.297) “Although we’ve broken off the alliance, I don’t consider Ichinose to be an enemy.”
+[says] (p.297) “That statement leaves a lot of room for interpretation. Are you saying you don’t consider Class C to be an enemy?”
+[says] (p.297) “Are you trying to get some sort of statement from me and have Ichinose to listen to it?”
+[says] (p.297) “You… Ichinose…no, we underestimated your perceptiveness. When we first met, I had this weird feeling, but I couldn’t quite put my finger on it. Finally, I can clearly see what it was. You’re the reason Class D is making such great progress.”
+[says] (p.297) “Who knows?”
+[says] (p.297) “I’m simply going to come out and ask you for help. Ichinose trusts you a lot. That is why I want you to tell her yourself: the way she is right now, she isn’t good enough.”
+[says] (p.297) “So you’re expecting that to change the way Ichinose thinks?”
+[says] (p.297) “That’s right.”
+[says] (p.297) “Sorry, but I can’t help you. I’d like to keep seeing her own way of dealing with things.”
+[says] (p.297) “So you want to see us, your enemy, fall?”
+[says] (p.297) “Well, fundamentally speaking, one has to care of their own class by themselves. Isn’t that right?”
+[says] (p.297) “…Yeah. I might have been too childish.”
+[says] (p.297) “I was going to come up with a solution on my own. But I thought there was a way to fix the problem without doing that, that there was an easy way out, so I tried to take it.”
+[trait] (p.295–297) He swallows his pride and asks for a favor; he accepts the refusal with grace; the desperation of a man who has run out of plans.
+[note] (p.295–297) He's not teamed up with anyone yet either; his worry is Ichinose's endgame.
+[rel:ayanokouji-kiyotaka] (p.295–297) He's measured him as the source of Class D's turnaround.
+[rel:ichinose-honami] (p.295–297) She is the reason he asked.
 
 <!-- walk: y2v2 Ch.5 → p.297 -->
 
-### y2v2 p.47–50 — Kanzaki's hostility toward Ayanokōji
-[scene] (p.47) Waiting with Ichinose at Keyaki Mall; his gaze is fixed more on her than on Ayanokōji.
-[says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
-[says] (p.48) "So you're saying that you've been hiding it all this time. It looks like you're even more of an issue than I thought."
-[says] (p.49) "What other abilities are you hiding?"
-[says] (p.49) "Our overall scores in Class C are much higher than that."
-[says] (p.50) "It seems like I've indeed lost my cool."
-[trait] (p.47–50) Openly suspicious and thorny — presses Ayanokōji about the perfect score and other hidden abilities, argues Class B can make up the points gap as a whole, and is stopped by Ichinose's rare force; admits he lost his cool and leaves first, his reaction understandable given Class B's fall to Class C.
-[rel:ayanokouji-kiyotaka] (p.47–50) Views him as a hidden threat and potential enemy; rejects his explanation as incomplete.
-[rel:ichinose-honami] (p.48–50) His classmate; her naivety frustrates him, but he accepts her criticism.
+### y2v2 p.204–305 — Coverage note: passing mentions
+[mentioned] (p.204) “Depending on the occasion, she might even ask a classmate like Kanzaki for help.”
+[mentioned] (p.215) “From Class B, there are you and Kanzaki-kun, as well as Shibata-kun, right?” — said by Sakayanagi; she names him as Class B’s main force.
+[mentioned] (p.305) “Besides, if we need three classes, Kanzaki from Class C is still alone, and he should’ve priority over Ayanokouji.” — Katsuragi’s advice.
+
+<!-- walk: y2v2 Coverage note → p.305 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

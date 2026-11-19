@@ -598,34 +598,108 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.75–82 — Nagumo accepts Horikita and challenges Ayanokōji
-[scene] (p.75–78) He accepts Horikita into the student council with a condition, warning her that past presidents graduated in Class A; he invites Ayanokōji to join too (declined).
-[says] (p.75) "Well, what a turn of events! I don't really want to obediently say yes."
-[scene] (p.79–82) He tells Ayanokōji to look forward to playing together in summer, then probes Kiriyama about why he attended.
-[says] (p.81) "I'll play with you, so look forward to it."
-[trait] (p.75–82) Calculating and playful — he tests both Horikita and Ayanokōji while keeping Kiriyama off balance.
-[rel:horikita-suzune] (p.75–78) Accepts her into the council.
-[rel:ayanokouji-kiyotaka] (p.79–82) Challenges him directly.
+### y2v2 p.75–82 — Horikita joins the council; his challenge
+[scene] (p.75) Horikita's request lands; the two council members react the same way, in a manner that is neither welcoming nor rejecting.
+[says] (p.75) “Well, what a turn of events! I don’t really want to obediently say yes.”
+[says] (p.75) “Not really, I’m basically one of those people who can’t refuse. As long as there’s space in the student council, I’ll allow people to join. I won’t even care about your reason for joining the council. It doesn’t matter if it’s for the OAA, or wanting to assume a post in the future, or maybe you just have a sense of righteousness. I don’t really care.”
+[says] (p.76) “But then again, you’re special, Horikita Suzune. Let me at least mention one condition for your membership.”
+[says] (p.76) “Why do you choose to join the student council at this time? Would you please tell me that?”
+[says] (p.76) “And then? Have you reconciled?”
+[says] (p.77) “The road brother took, it really is a nice story.”
+[says] (p.77) “In other words, can I assume that you have the intention to become the student council president?”
+[says] (p.77) “I see. But Honami has been working hard behind the scenes for a year as a member of the student council. You’re already a year behind her in your quest in becoming the student council president. You can understand that, right?”
+[says] (p.78) “Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune.”
+[says] (p.78) “As a congratulations for joining, I’ll tell you something interesting. The past presidents of the student council have always graduated in Class A. Remember that and work towards a higher goal.”
+[says] (p.80) “Then show me that isn’t just all talk.”
+[says] (p.80) “Are you going to join the student council by the way? Ayanokouji.”
+[says] (p.80) “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
+[says] (p.81) “I knew you would say that.”
+[says] (p.81) “Ayanokouji.”
+[says] (p.81) “There’s a lot more work in the student council than I thought , but everything has started to calm down now, so when summer starts, I’ll spend my time with my kouhais.”
+[says] (p.81) “I’ll play with you, so look forward to it.”
+[says] (p.82) “By the way, Kiriyama, why did you get involved with this today?”
+[says] (p.82) “When the 1st and 2nd years requested to enter the student council you had no intention to attend. But this time when Horikita Suzune said she wanted to meet me, you showed up. It’s weird isn’t it?”
+[says] (p.82) “It’s nothing, nothing. Don’t mind it.”
+[says] (p.82) “Then, Suzune, I want to introduce you to the student council members outside of Kiriyama. You stay right here.”
+[note] (p.77–82) Horikita was prompting her own designs on the presidency; his mention of Honami is the second-year council seat Ichinose holds. He notes Kiriyama's attendance was for Suzune, not for him.
+[trait] (p.75–82) Welcoming and unreading on the surface; the council is a meritocracy now; he openly says presidents graduate in Class A — and means it as a challenge.
+[rel:horikita-suzune] (p.75–82) He accepts her; he sets the presidential bar out loud.
+[rel:kiriyama-ikuto] (p.75–82) He tests and dismisses him in the same breath.
+[rel:ayanokouji-kiyotaka] (p.80–82) He invites him, is declined, and declares he'll play with him.
+[rel:ichinose-honami] (p.77) She is the one-year-ahead standard he sets for Horikita.
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
 
-### y2v2 p.75–81 — Nagumo admits Horikita; challenges Ayanokōji
-[scene] (p.75) In the student council office, receives Horikita and Ayanokōji; welcomes the conversation but invites her straight to the point.
-[says] (p.75) "So what did you want to talk to me about? You didn't come just to talk, right?"
-[says] (p.75) "Well, what a turn of events! I don't really want to obediently say yes."
-[says] (p.78) "In other words, can I assume that you have the intention to become the student council president?"
-[says] (p.78) "She doesn't look that similar to him, but she really is Horikita-senpai's little sister!"
-[says] (p.78) "Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune."
-[says] (p.80) "Then show me that isn't just all talk."
-[says] (p.80) "Are you going to join the student council by the way? Ayanokouji."
-[says] (p.81) "I knew you would say that."
-[says] (p.81) "I'll play with you, so look forward to it."
-[says] (p.81) "Sakayanagi, Ichinose, Ryuuen. Those people would probably cry from the joy."
-[trait] (p.75–81) Meritocratic and open (admits anyone to the council regardless of reason, unlike Manabu), with a sharp eye for lies — sees through Horikita's half-truths but values her ambition; after she joins, pivots to Ayanokōji, inviting him then declaring he'll "play" with him over summer — "an order from the strong to the weak."
-[rel:horikita-suzune] (p.75–80) Questions her closely, welcomes her to the council, calls her "Suzune," and motivates her to aim for Class A.
-[rel:ayanokouji-kiyotaka] (p.80–81) Invites him to the council (he declines), then issues a veiled challenge.
-[rel:horikita-manabu] (p.77) Horikita's brother, whose traditions he replaced with reforms.
-[rel:kiriyama] (p.78, 80) His vice president, who reacts with surprise at his invitation to Ayanokōji.
+### y2v2 p.286–292 — Nagumo and Kiryūin
+[scene] (p.286) Ayanokōji leaves; Kiriyama returns; Nagumo shows up behind Kiryuuin.
+[says:kiriyama-ikuto] (p.286) “Who the hell do you think you are? You’re the one-“
+[says] (p.287) “If possible, I too don’t want to stay here for longer than I have to.”
+[says] (p.287) “You’re beautiful but charmless, and I don’t have much interest in charmless women.”
+[says] (p.287) “If there’s a man who can bring out the charming side of you, I’d like to meet him.”
+[says] (p.287) “Women with too high an ability are hard to deal with. Unfortunately, I don’t like those types either.”
+[says] (p.288) “I heard something from Kiriyama. I would have never thought that someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji. I was surprised when I heard that.”
+[says] (p.288) “Someone who has never been with a man before, can understand the fundamentals of love?”
+[says:kiryuin-fuuka] (p.291) “There’s a saying, that a predator doesn’t reveal his fangs, right? He seems to have gotten a perfect score in a difficult test.”
+[says] (p.289) “There are people who hate being in the limelight and hide their talents. I’ve defeated all of them, and they weren’t very interesting.”
+[says] (p.289) “If I had to say, it’s his aura. I feel that he has a different aura from you and Horikita Manabu.”
+[says] (p.290) “Well well, can you really say that there’s definitely nothing in which you’re inferior to me at?”
+[says] (p.291) “You seem to be bored ever since Horikita Manabu left. So this underclassmen should be a good playmate for you, eh? If you’re really serious, then you’ll definitely get 1st place in the upcoming exam.”
+[says] (p.291) “Of course I’ll get 1st place. Or maybe it’ll be Kiriyama, who’s been dying to fight me. But to get control of the whole podium, I still need more groups, right? I’ll give you this role, Kiryuuin. If necessary, I’ll even help you find comrades.”
+[says] (p.291) “Although letting the underclassmen get 3rd place wouldn’t be too bad, I’m not that soft.”
+[says] (p.292) “That’s just how you are. We’re both 3rd years, but it seemed to be a waste of time to try to talk to you like that.”
+[says:kiryuin-fuuka] (p.292) “With that logic, nobody can give you any advice”
+[note] (p.286–292) He offers her the underclassmen play role; she declines; he takes Kiriyama and leaves with a monologue warning.
+[trait] (p.286–292) Bored predator; collecting underclassmen for the island exam; genuinely puzzled by her indifference.
+[rel:kiryuin-fuuka] (p.286–292) He studies her; she declines.
+[rel:kiriyama-ikuto] (p.286–292) He dismisses him; he serves him.
+[rel:ayanokouji-kiyotaka] (p.291–292) The interesting underclassman; he might test him.
+[rel:horikita-suzune] (p.289) Her sister spy-experiment bores him.
+[rel:horikita-manabu] (p.289–291) His predecessor's antics linger.
+
+<!-- walk: y2v2 Ch.4 → p.292 -->
+
+### y2v2 p.71–350 — Coverage note: passing mentions
+[mentioned] (p.71) “Could it be that President Nagumo might have something to do with this?”
+[mentioned] (p.72) “Without realizing it, maybe you aroused Nagumo’s jealousy. President Nagumo had always been interested in brother’s affairs, because he had always been only interested in your affairs.”
+[mentioned] (p.72) “the issue of Nagumo that Manabu was worried about.”
+[mentioned] (p.73) “could spy on President Nagumo, but actually, that’s not the only reason, right?”
+[mentioned] (p.73) “different from what Nagumo thinks.”
+[mentioned] (p.73) “If Nagumo is going in the wrong direction, there’s a need to stop him.”
+[mentioned] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
+[mentioned] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
+[mentioned] (p.83) “Kiriyama was someone who had struggled to overthrow Nagumo… the battle between Kiriyama and Nagumo had already been settled.”
+[mentioned] (p.116) “But as long as Nagumo continues to pursue his policies, we would definitely compete with each other sooner or later.”
+[mentioned] (p.250) “President Nagumo about the uninhabited island survival exam held two years ago, and he kindly told me.”
+[mentioned] (p.254) “It all started when I was contacted by President Nagumo of the student council.”
+[mentioned] (p.255) “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
+[mentioned] (p.256) “President Nagumo said that the student was selected at random from the 2nd years’. It was a simple game of chance, 1 in 157.”
+[mentioned] (p.257) “It was now confirmed that Tsukishiro and Nagumo were the ones behind the 20 million points.”
+[mentioned] (p.271) “Putting aside personal opinions of Nagumo, the student council operated smoothly.”
+[mentioned] (p.271) “If he wanted to keep this a secret from Nagumo, he could have chose to meet late at night or early in the morning.”
+[mentioned] (p.272) “I wanted to personally battle Nagumo in this special exam.”
+[mentioned] (p.273) “After which, Nagumo became the student council president, and took control over the entire 3rd year, and eventually the entire school.”
+[mentioned] (p.273) “However, Nagumo’s overall strength was even higher than his, so you could say that Nagumo’s boisterous attitude was in line with his strength.”
+[mentioned] (p.273) “In that aspect, I don’t think I can lose to Nagumo.”
+[mentioned] (p.274) “You wanted Horikita Manabu’s sister to join the student council to monitor Nagumo, right?”
+[mentioned] (p.274) “That means she won’t get in Nagumo’s way, right?”
+[mentioned] (p.275) “Unless Horikita thinks Nagumo’s an obstacle.”
+[mentioned] (p.275) “That won’t work. Forget all thoughts about dealing with Nagumo.”
+[mentioned] (p.275) “Nagumo was more or less aware of what I’d been doing with Horikitasenpai.”
+[mentioned] (p.276) “I didn’t want to interfere in the relationship between Nagumo and Kiriyama, in which the winner and the loser had already been decided.”
+[mentioned] (p.276) “Nagumo’s idea, the one in which anyone can graduate from Class A.”
+[mentioned] (p.277) “He wasn’t really going to challenge Nagumo.”
+[mentioned] (p.279) “She doesn’t even have a single friend.” — Kiriyama speaking to Ayanokōji about Kiryūin, noting she lacks Nagumo’s supporters.
+[mentioned] (p.280) “She’s just a good student, but Kiryuuin doesn’t have anyone supporting her, unlike Nagumo. She doesn’t even have a single friend.”
+[mentioned] (p.281) “If she had been someone Nagumo or Manabu-senpai would pay attention to, it wouldn’t have been strange to hear about her.”
+[mentioned] (p.284) “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right?”
+[mentioned] (p.285) “And it might prove to be even more troublesome than defeating Nagumo and Kiriyama.”
+[mentioned] (p.335) “there were the elites of the 3rd year- Nagumo, Kiriyama and Kiryuuin.”
+[mentioned] (p.348) “When I told him I wanted to join the council, president Nagumo looked surprised at me.”
+[mentioned] (p.349) “President Nagumo who was speaking in front of me and acknowledged by my brother is certainly an amazing student, no doubt about that… but if compared to Ayanokouji-kun that impressions strangely changes everything.”
+[mentioned] (p.350) “I had to enter the student council and confirm President Nagumo’s movements.”
+
+<!-- walk: y2v2 Coverage note → p.350 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

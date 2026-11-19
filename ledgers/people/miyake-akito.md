@@ -636,14 +636,26 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12–22 — Miyake leaves for club activities
-[scene] (p.12–15) He sits with the group and leaves early for archery club; Sakura and Haruka see him off.
-[scene] (p.44) Yukimura predicts Miyake will accept Ayanokōji's situation without issue.
-[trait] (p.12–44) Easygoing and adaptable — expected to take the news in stride.
+### y2v2 p.12–22 — Miyake shakes off the tension
+[scene] (p.12) Sits with Yukimura, Haruka and Sakura up front; the classroom heavy with speculation over the math score.
+[scene] (p.22) Packs up his archery-club things ahead of the others and leaves the turbulent classroom, seen off by Sakura and Haruka; more than half the class stays behind after him.
+[note] (p.44) Mentioned by name in Keisei's worry about who else doesn't know; Akito is assumed to accept Kiyotaka as he is.
+[scene] (p.53) Arrives with the group at Keyaki mall with Keisei and Airi; uniform stare at the Ichinose–Ayanokōji conversation.
+[trait] (p.12–53) The quiet member of the Ayanokōji group; the one Keisei is sure will simply take Kiyotaka as he is.
+[rel:ayanokouji-kiyotaka] (p.12–53) Undisturbed trust.
+[rel:yukimura-teruhiko] (p.12–22) Sits with him through the uproar.
 
-<!-- walk: y2v2 Ch.1 → p.44 -->
+<!-- walk: y2v2 Ch.1 → p.53 -->
 
+### y2v2 p.179 — Miyake's group
+[scene] (p.179) Airi, Akito and Haruka form their group; Yousuke rates his motor skills.
 
+<!-- walk: y2v2 Ch.3 → p.179 -->
+
+### y2v2 p.243 — Akito at his club
+[scene] (p.243) He is at his club; others wait for him to return for Keyaki mall; he is not at the after-school gathering.
+
+<!-- walk: y2v2 Ch.4 → p.243 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

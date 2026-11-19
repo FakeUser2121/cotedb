@@ -46,26 +46,77 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.221–235 — The representatives' gathering
+[scene] (p.221) He shows up at the empty first-year classroom, sent by his classmates who avoid troublesome matters.
+[says] (p.221) “Looks like only you’re here now, Yagami.”
+[says] (p.221) “Although I don’t think I’m the type to be a leader, I came because the other students didn’t want to come. While students in my class speak their minds freely in general, they don’t have much taste for these troublesome matters.”
+[says] (p.222) “We’ve recently lost a comrade. Honestly, it’s quite a heavy loss.”
+[says] (p.222) “He had once said to me that he wanted us to join the student council together and create a livelier environment for everyone in this school.”
+[says] (p.222) “Do you think Hosen will come?”
+[says] (p.223) “50/50? You seem to trust Housen quite a bit. I bet he won’t come at all.”
+[says] (p.223) “If he thinks he can simply force us to hand over our private points like that, he is too arrogant. If we can smoothly form the groups with all four classes this time, it would be meaningful. Since we are facing the 2nd and 3rd years, we should cooperate. Nevertheless, Housen refused our offer.”
+[says] (p.223) “I understand that this is his strategy. However, it stands no chance of winning.”
+[says] (p.224) “We were told that this uninhabited island exam would also test skills other than academic ability. While Class D is last place in terms of academic ability, their physical abilities are second in our year and only by a narrow margin to being the first. As a result, they might play an important role in the formation of optimal groups. ”
+[scene] (p.225–229) Housen arrives; the Hatano accusation; the near-fight; he grabs Housen's arm.
+[says] (p.225) “Housen, don’t bring your violent tendencies here.”
+[says] (p.226) “If it’s necessary.”
+[says] (p.226) “Unfortunately, I’m not as kind as Takahashi.”
+[says] (p.227) “Do you think of violence as a game?”
+[says] (p.227) “How boring, but, if that’s what you want, you don’t have to wait until next time. I can take on the fight now. However, that is only if you promise not to attack any more of my classmates.”
+[says] (p.229) “I suspect that you’re the one who got Hatano expelled. He’s not the kind of student who would easily break the school rules.”
+[says] (p.229) “I remember clearly the look on his face when he got expelled. He had been tricked by someone.”
+[says] (p.229) “Who else could it possibly be?”
+[scene] (p.231–235) The negotiation closes: strongest four, two from Class D; his reluctance yields to Yagami.
+[says] (p.231) “The benefits of cooperating with the other classes are too small. It’s pointless. We’re just giving up on Class Points.”
+[says] (p.231) “Losing Class Points won’t be our only concern if we end up becoming food for the upperclassmen.”
+[says] (p.231) “If we go with that strategy then we won’t be able to make any difference to our current class standings.”
+[says] (p.233) “… What are you trying to do? Housen.”
+[says] (p.234) “But what if we can’t form big groups at will?”
+[says] (p.234) “You’ve got to be kidding, Housen.”
+[says] (p.234) “You bastard…”
+[says] (p.235) “You’re just going to give all the benefits to Class D like this?”
+[says] (p.235) “If we let him take advantage of us now, he’ll be sure to do it again.”
+[says] (p.235) “That…”
+[says] (p.235) “Housen, no more demands. Okay?”
+[says] (p.235) “… I understand.”
+[trait] (p.221–235) Cold, precise, willing to stand in front of a fist; his grief over Hatano is the fuel; he yields only to coalition logic.
+[rel:yagami-takuya] (p.221–235) They co-chair the gathering; they disagree on Class D.
+[rel:takahashi-osamu] (p.225–235) The peacekeeper between him and Housen.
+[rel:housen-kazuomi] (p.225–235) He accuses, nearly fights, and swallows his pride for the pact.
+[rel:hatano] (p.222–235) His Class 1-C comrade, expelled (he suspects Housen).
 
+### y2v2 p.264–270 — The Hōsen plan
+[scene] (p.265) He shows up at the convenience store when Ayanokōji is about to meet Keisei.
+[says] (p.265) “Sorry. For having to talk to you like this.”
+[says] (p.266) “It’s about Housen Kazuomi.”
+[says] (p.266) “Ayanokouji-senpai. In the April special exam, you teamed up with Housen.”
+[says] (p.266) “We want to take Housen by surprise on the uninhabited island exam.”
+[says] (p.267) “Housen doesn’t have many private points right now. In other words, if he withdraws from the exam. Even as a first year student who gets a lighter penalty, he won’t be able to pay for his relief.”
+[says] (p.267) “Are you trying to force Housen out of the school?”
+[says] (p.267) “In Class C, a boy named Hatano was expelled from the school. I think Housen had something to do with it.”
+[says] (p.267) “Of course, I’d be lying if I said I didn’t hate him. Nonetheless, what’s most important is to prevent another unprepared person from being expelled.”
+[says] (p.267) “Yes. Thanks to him, our class lost 100 points.”
+[says] (p.268) “Housen hasn’t formed any alliances with people outside his class. However, he has formed a partnership with you, Ayanokouji-senpai.”
+[says] (p.268) “Please lend me your hand.”
+[says] (p.268) “Then, could you keep this in mind? We’re willing to pay you a large sum of points if you’re able to get Housen expelled from this school.”
+[says] (p.268) “That.”
+[says] (p.269) “We can’t answer that.”
+[says] (p.269) “I apologize for that. We’ve already given up on the bounty.”
+[says] (p.270) “If we get you expelled, news of that’ll spread throughout the school. We’ll be enemies with the 2nd year Class D. Them hating the people who got their classmate expelled is to be expected.”
+[says] (p.270) “No. The reason for that is because all the Class 1-D students are afraid of Housen. Rather, there’re a lot of students who wish that he be expelled.”
+[says] (p.270) “Anyway, remember. Please remember this. The only thing we care about is defeating Housen.”
+[rel:ayanokouji-kiyotaka] (p.264–270) He wants him on board against Housen.
+[rel:tsubaki-sakurako] (p.264–270) His classmate; the lollipop; she helps.
+[rel:housen-kazuomi] (p.264–270) The target.
 
-### y2v2 p.221–231, 264–270 — Utomiya: representative and Hōsen-plot mastermind
-[scene] (p.221) Arrives at the first-year rep gathering (Class 1-C), sent because his classmates avoid "troublesome matters"; later approaches Ayanokōji at the convenience store with Tsubaki.
-[says] (p.222) "Although I don't think I'm the type to be a leader, I came because the other students didn't want to come."
-[says] (p.222) "We've recently lost a comrade. Honestly, it's quite a heavy loss."
-[says] (p.222) "He had once said to me that he wanted us to join the student council together and create a livelier environment for everyone in this school." — on Hatano
-[says] (p.226) "Housen, don't bring your violent tendencies here."
-[says] (p.227) "I suspect that you're the one who got Hatano expelled. He's not the kind of student who would easily break the school rules."
-[says] (p.228) "I remember clearly the look on his face when he got expelled. He had been tricked by someone."
-[says] (p.264) "It's about Housen Kazuomi."
-[says] (p.266) "We want to take Housen by surprise on the uninhabited island exam."
-[says] (p.267) "In Class C, a boy named Hatano was expelled from the school. I think Housen had something to do with it."
-[trait] (p.221–270) Calm, reliable and determined — stands up to Hōsen physically (grabs his arm), correctly suspects he engineered Hatano's expulsion, and plots to force Hōsen out of Class 1-D by denying him points/bounty; notes Class C lost 100 points from Hatano's exit.
-[rel:housen-kazuomi] (p.226–270) Confronts him and plots his expulsion; Hōsen finds his resolve "interesting."
-[rel:yagami-takuya] (p.221–231) Fellow representative; they debate strategy (Utomiya wants to isolate Class D).
-[rel:takahashi-osamu] (p.223–231) Fellow representative; he proposes isolating Class D.
-[rel:hatano] (p.222–267) His Class 1-C comrade, an A-rated student expelled (suspected Hōsen's doing).
-[rel:ayanokouji-kiyotaka] (p.264–270) Approaches him for a deal to eliminate Hōsen.
-[rel:tsubaki-sakurako] (p.264) His classmate, who helps contact Ayanokōji.
+<!-- walk: y2v2 Ch.4 → p.270 -->
+
+### y2v2 p.254–255 — Coverage note: passing mentions
+[mentioned] (p.254) “Utomiya Riku-kun from Class C” — the Yagami summon list.
+[mentioned] (p.255) “Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
+
+<!-- walk: y2v2 Coverage note → p.255 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

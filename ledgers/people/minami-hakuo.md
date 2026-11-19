@@ -17,11 +17,10 @@ char_id: minami-hakuo · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.18 — Coverage note: zero whole-word occurrences
+[note] (p.18) The locator hit on this page is "Minami Setsuya" (the roster row minami-setsuya); the corpus contains no occurrence of Hakuo anywhere in this volume. Recorded as a zero-hit row; the minami-setsuya page marks the actual scene.
 
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
-
+<!-- walk: y2v2 Coverage note → p.18 -->
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -32,8 +31,6 @@ char_id: minami-hakuo · class: unknown · status: unknown
 [mentioned] (p.114) Passing mention only.
 
 <!-- walk: y2v9 Ch.6 → p.114 -->
-
-
 
 ## y2v12
 

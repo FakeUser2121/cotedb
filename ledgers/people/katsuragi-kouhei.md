@@ -795,32 +795,57 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.298–311 — Katsuragi is summoned by Ryūen
-[scene] (p.298–303) He is summoned to a café by Ryūen, who proposes a three-class alliance; he is hostile and refuses.
-[scene] (p.304–311) Ryūen tries to recruit him to Class B using money from nullifying his contract with Sakayanagi.
-[says] (p.308) "Are you crazy? You're asking me to come to Class B?"
-[trait] (p.298–311) Proud and principled — he refuses Ryūen's overtures.
-[rel:ryuuen-kakeru] (p.298–311) He is hostile to Ryūen's alliance.
+### y2v2 p.298–314 — The vendetta and the transfer
+[scene] (p.298) He looks at Ayanokōji stiffly; Ryuuen hosts him; he answers for Class A.
+[says] (p.298) “You said there was someone else, were you talking about Ayanokouji?”
+[says] (p.298) “What kind of meeting is this supposed to be, anyway?”
+[says] (p.299) “There’s no way I can chill. if people see me with you, I’ll be in trouble.”
+[says] (p.300) “Then, let me make this simple for you. I’m not going to tell you anything about this, you bastard.”
+[says] (p.300) “Only on the day of the exam shall we know how Sakayanagi will act, and no one will know before she says so. If you want to know despite this, you should go ask her directly.”
+[says] (p.300) “Well, that might be true.”
+[says] (p.301) “Didn’t you also lose to Ishizaki that one time?”
+[says] (p.301) “I don’t know what you’re planning to do, but that’s impossible. Even if you trap her on the island, she has plenty of private points for relief. Also if by chance, something does incapacitate her, she still has protection points to fall back on.”
+[says] (p.301) “If you wanted to make me angry, then you’ve succeeded, Ryuuen. Are you satisfied now?”
+[says] (p.303) “I don’t know. And if Sakayanagi heard that question, she’d ask you the same thing. Not many people would like being on your team. You’re a delinquent, after all.”
+[says] (p.303) “In that case, everyone here’s that kind of delinquent.”
+[says] (p.303) “Flattering me won’t work, Ryuuen.”
+[says] (p.303) “No way, are you asking me to work with you?”
+[says] (p.304) “Not just you. Ayanokouji as well, who’s spaced out over there just listening to us talk.”
+[says] (p.304) “… me too?”
+[says] (p.304) “Why are you asking?”
+[says] (p.304) “That’s not necessary. But– Why did you call Ayanokouji? I want to know that first.”
+[says] (p.305) “It was surprising that he got a perfect score in math in the special exam at the end of April. I agree that he has a high ability in academics. But can you really say that he’s the right person to choose if you want to win?”
+[says] (p.305) “That’s right. If you get Ayanokouji in, it’ll reduce the class point reward to one thirds each. Since you’re inviting me from Class A anyway, wouldn’t it be better to invite Kitou to the group? Besides, if we need three classes, Kanzaki from Class C is still alone, and he should’ve priority over Ayanokouji.”
+[says] (p.306) “To shut you up?… Is that true?”
+[says:ryuuen-kakeru] (p.306) “Ah, I got my ass handed to me. Thanks to that, I almost decided to quit school.”
+[says] (p.306) “No, I can’t accept this after all. I can’t believe that Ayanokouji beat you. Coming back to what I said earlier, if you have three classes working together, even if you come in first place, you’ll only get an average of 100 points. The gap between you and Class A will be impossible to close.”
+[says] (p.307) “No matter what you say, there’s no chance of me working with you. It’s true that I have a semi-antagonistic relationship with Sakayanagi. However, I don’t want to trouble my classmates. I don’t want to work with you.”
+[says] (p.308) “It was a fair contract, we got 200 points from your class, and in return Class-A pays off the loan. All of my actions were only to lead Class-A along a better path.”
+[says] (p.308) “So… So what!?”
+[says] (p.309) “Are you crazy? You’re asking me to come to Class B?”
+[says] (p.309) “Even if you have the necessary points, why should I come to Class B? You think I would give up my place in Class A?”
+[says] (p.309) “… About 1.8 million points.”
+[says] (p.310) “… yes.”
+[says] (p.310) “… No, it’s Sakayanagi, she’d accept it.”
+[says] (p.311) “The 5 million for nullifying the contract plus your current balance. The remaining points have been collected from the class. I’ve forced them into poverty to welcome you to our class!”
+[says] (p.311) “Come on, sign it. Using 20 million points to change classes requires several conditions. You can’t force a person to change classes. In the end, the person must agree, and then use his or her funds to transfer to any class of their choosing.”
+[says] (p.312) “You seem to be serious.”
+[says] (p.312) “Although I don’t really care that you brought me into your ranks, what exactly are you looking for? You won’t mind it if I speak my mind?”
+[says] (p.300) “You’re free to interpret it however you want, but I cannot confirm anything.”
+[says] (p.314) “I won’t have much money anyway. There would be no point in holding on to the Half Off card.”
+[note] (p.301–312) Totsuka Yahiko, his great admirer, was expelled by Sakayanagi; his buried rage is the lever Ryuuen pulls; he signs for his underclassmen and finally feels free.
+[trait] (p.298–314) Cold, precise, proud; he chooses his own fall deliberately; the Half Off card is his now.
+[rel:ryuuen-kakeru] (p.298–314) He recruits him by exploiting his hatred.
+[rel:sakayanagi-arisu] (p.301–312) She is his white whale; he hates her with a clear conscience.
+[rel:totsuka-yahiko] (p.301–312) The wound Ryuuen presses.
 
-<!-- walk: y2v2 Ch.5 → p.311 -->
+<!-- walk: y2v2 Ch.5 → p.314 -->
 
+### y2v2 p.206 — Coverage note: passing mentions
+[mentioned] (p.206) “Although Sakayanagi had a past dispute over leadership of their class with Katsuragi, Class A had almost twice as many points as Ryuuen’s Class B and was the undisputed number one.”
 
-### y2v2 p.298–312 — Katsuragi's vendetta; signs Ryūen's contract to transfer
-[scene] (p.298) Joins Ryūen's café meeting with Ayanokōji, stiff and uneasy at being seen with Ryūen.
-[says] (p.298) "You said there was someone else, were you talking about Ayanokouji?"
-[says] (p.298) "What kind of meeting is this supposed to be, anyway?"
-[says] (p.299) "There's no way I can chill. if people see me with you, I'll be in trouble."
-[says] (p.300) "Then, let me make this simple for you. I'm not going to tell you anything about this, you bastard."
-[says] (p.301) "Didn't you also lose to Ishizaki that one time?"
-[says] (p.301) "I don't know what you're planning to do, but that's impossible. Even if you trap her on the island, she has plenty of private points for relief."
-[says] (p.308) "If you wanted to make me angry, then you've succeeded, Ryuuen. Are you satisfied now?"
-[says] (p.311) "You seem to be serious."
-[says] (p.312) "Although I don't really care that you brought me into your ranks, what exactly are you looking for?"
-[trait] (p.298–312) The isolated Class A outsider (not in Sakayanagi's faction) with a buried vendetta over Yahiko Totsuka's expulsion; refuses to betray Sakayanagi's plans, but Ryūen exploits his hatred (~20 million points to nullify his contract and transfer him) and he signs — moving DOWN to Class B, the first individual class transfer in the school's history.
-[rel:ryuuen-kakeru] (p.298–312) Manipulates him via his vendetta; he accepts the transfer despite knowing Ryūen's self-serving motives.
-[rel:sakayanagi-arisu] (p.300–311) His class leader and rival; refuses to reveal her plans, but agrees to leave after Ryūen's offer.
-[rel:totsuka-yahiko] (p.301) His admirer, whose expulsion (linked to Ryūen) fuels his anger.
-[rel:ayanokouji-kiyotaka] (p.298–312) Calls his perfect score impressive; notices he beat Ryūen; later questions why Ryūen wants his Trial card; he holds the Half Off card that gets swapped to Class D.
+<!-- walk: y2v2 Coverage note → p.206 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

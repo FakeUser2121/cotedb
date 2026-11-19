@@ -1450,36 +1450,89 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.23–26 — Chabashira waits for Ayanokōji after Tsukishiro's summons
-[scene] (p.23–26) She waits for Ayanokōji near the reception room after his summons by Tsukishiro, overjoyed by his perfect score; he worries her presence is unnatural and careless, but she can't suppress her joy.
-[trait] (p.23–26) Emotionally invested in his success — her poker face fails, which he finds comical and risky.
+### y2v2 p.23–26 — Chabashira waits
+[scene] (p.23) Waiting not far from the reception room when Ayanokōji emerges under Tsukishiro's watch; she falls in beside him casually.
+[says] (p.24) “You’ll be a bit of a celebrity from now on.”
+[says] (p.25) “Ignoring the students in the other classes for a moment, how are you going to explain it to your own class? You’ve always done your best to try and seem inconspicuous, but suddenly you get a perfect score in that difficult math test. Of course they won’t leave you alone now. Have you prepared for this scenario beforehand?”
+[says] (p.25) “This is going to be hard for you. Prepare yourself to be bombarded with questions.”
+[note] (p.24–26) The perfect-score uproar has moved her; the homeroom-teacher mask slips — she is overflowing with joy she tries to suppress, and fails with him specifically; she does not know the White Room exists.
+[rel:ayanokouji-kiyotaka] (p.23–26) She waits for him wrongly, eagerly, openly — to him, a manipulable counterpart.
+[rel:tsukishiro] (p.23) She was briefed against leaving without seeing him; the summons was hers to answer for too.
 
 <!-- walk: y2v2 Ch.1 → p.26 -->
 
-### y2v2 p.117–128 — Chabashira announces the uninhabited island exam
-[scene] (p.117–128) She announces the summer special exam: two weeks on an uninhabited island, all school years competing, with a luxury cruise afterward; she explains the group rules (max 3 per same-year group, gender ratios).
-[says] (p.119) "You will have to participate in the \"Uninhabited Island Survival\" special exam and compete with each other."
-[trait] (p.117–128) Informative and measured — she delivers the rules clearly.
+### y2v2 p.117–137 — The briefing continues
+[scene] (p.117–118) The first class begins differently — she brings up the general exam topic after the attendance ceremony.
+[says] (p.117) “It seems like everyone is here, that’s good.”
+[says] (p.117) “I’ve been with you guys for a while now, so I’m sure you must’ve guessed what this is.”
+[says] (p.117) “It’s true that we’ll be discussing the topic of the special exam after this, but to maintain the suspense for a bit longer, I’ll pick it up later. First, let’s talk about summer vacation.”
+[says] (p.118) “Now I’ll explain to you what’ll happen in the summer vacation before it actually starts.”
+[says] (p.118) “From August 4 to August 11, you can enjoy to your heart’s content your summer vacation on this luxury cruise for a total of eight days and seven nights. You can watch plays or pamper your taste buds. And there will not be anything like a special exam on the cruise.”
+[says] (p.118) “But in order to fully enjoy this cruise trip, you must successfully complete the next special exam.”
+[says] (p.119) “Looks like you’re indeed learning.”
+[says] (p.119) “Usually, the course of events would be such that the test would start the same day or the next day, but unfortunately, this test is still a ways away. The next special exam will be held during summer vacation.”
+[says] (p.119) “You will have to participate in the “Uninhabited Island Survival” special exam and compete with each other.”
+[says] (p.120) “You all probably recalled the uninhabited island survival exam from last year, but the exam this year is very different from the previous one. It’s probably going to be tougher and more unforgiving than any other special exam before. Of course, in turn, the number of class points and private points you can get has increased dramatically.”
+[says] (p.121) “First, I’ll start by explaining the schedule in detail. There’s no need to take notes now because you can download and check them afterwards on your smartphone or tablet.”
+[says] (p.121) “Unfortunately, there will be no making up for that time. The shortening of the summer vacation is final.”
+[says] (p.121) “However, as compensation, there’ll be a week’s voyage on the luxury cruise ship. Based on how you think about it, this week should be worth more than the two weeks that you will lose. As I just said, that period of time during the voyage would be free time purely for your enjoyment.”
+[says] (p.122) “Okay, now back to the topic at hand. Although the uninhabited island survival exam was also held last year, the biggest difference between them can be said to be “scale”. The duration of the exam is two weeks, and the area of the uninhabited island used for this exam will be larger than before.”
+[says] (p.122) “Also, not just students from the same year, but all the students from all the school years will be competing against each other.”
+[says] (p.122) “The number of people you’ll have to fight will also be higher than ever before.”
+[says] (p.123) “I know what you’re saying, but I’m going to state in advance that no exam can be 100% fair. Even just taking you 2nd years as an example, there’s almost a year’s difference between the students who were born late and early in the same year, but you’re still fighting on the same stage, right?”
+[says] (p.123) “If a first-year asked for advice, as a senpai, it is the nature of a senior to at least answer it, but how much one says is up to them. It is the same when you ask the third years for advice.”
+[says] (p.123) “Although there are more or less some gaps between the school years, everyone’s basically fighting under the same stage. Therefore, in order to fill in the gaps between the school years, the younger students will receive higher rewards, and their corresponding penalties will be lighter.”
+[says] (p.124) “In order to understand the rules of the uninhabited island survival exam, you must understand the groups.”
+[says] (p.124) “The next special exam, the uninhabited island survival exam, will have a rule which allows a maximum of 6 people to form a big group to work with each other. Remember this first; if the people you group with are in the same year, you will be allowed to form the group regardless of any class boundaries.”
+[says] (p.124–125) “In the period from today till Friday, July 16 inclusive, approximately four weeks, you have the right to select up to two second-year students of your choice to form a small group of a maximum of 3 people. The small groups form the basis of the big groups. However, although I said you could form the group with whoever you liked, there are still rules that exist. First, as I already said, you can only group up with students from the same grade. You can’t form a group with 1st or 3rd years.”
+[says] (p.125) “And then, for the ratio of boys to girls in the next exam, when both boys and girls form a mixed group, the proportion of girls to boys must be at least 2 to 3.”
+[says] (p.126) “What happens if you don’t form a group… or if you can’t form a group?”
+[says] (p.126) “Although there will also be students who think that it would be easier with only one person, there would be nothing better than having as many people as possible. Apart from the advantages of having more people, special privileges are afforded to groups with more people. Therefore, I would not recommend choosing to fight on your own except as a last resort.”
+[says] (p.126) “There’s nothing but advantages to forming a group, but there’s also a point worthy of attention. That is, once you’ve established a group, you can’t switch to another group whatever the reason may be.”
+[says] (p.126) “Yeah, that’s the key point. After the special exam starts, the small groups will be allowed to come together. 2 groups of 3 people or 3 groups of 2 people or even 6 lone wolves could form one big group. However, the conditions for forming a group still exist. In a big group of more than 4 people, the percentage of girls in the group must be at least 50%.”
+[says] (p.127) “Although you are allowed to group with anyone freely, it will be extremely difficult to form your ideal big group in the exam. Situations, where one wants to form a big group with the maximum of 6 people but isn’t able to, could be very common.”
+[says] (p.127) “Okay, I also know that asking you guys to form groups as you please might still leave you confused. After all, if you don’t know the contents of the exam, you won’t be able to target the people you need.”
+[says] (p.127) “I cannot tell you the contents of the next exam. However, let me touch upon what kinds of abilities will be needed.”
+[says] (p.128) “In last year’s uninhabited island survival exam, there were many students who were worried because they didn’t get a chance to show their potential. But this year’s exam can be considered to require ‘all types of abilities’. Academic ability, physical ability, mental ability, communication ability. In addition to the abilities I just listed, there’s a high likelihood that you’ll need to use the abilities in which you’re good at.”
+[says] (p.128) “Although forming a group with students who you are close with is important, it’s very likely that the overall ability of the group will directly relate to the results you’ll get on the special exam, so I advise everyone to consider the right talents when forming your groups.”
+[says] (p.129) “Suppose that during the special exam, Hirata is met with some kind of accident and could not continue the exam. Of course, if he was participating alone, his group would be disqualified immediately, and will pay the penalties.”
+[says] (p.129) “While Hirata will be disqualified and sent back to the ship, the other two members can continue the exam without any issues. And if that group persevered until the very end and got first place, Hirata, as one of the group members, would also be considered as ending up in first place.”
+[says] (p.129) “No matter how many people drop out in the middle of the exam, the group can continue to function without any issues until the last person drops out. To put it simply, the more people there are in a group, the more chances they have to survive.”
+[says] (p.133) “If you decide that there’s no benefit in that, then you can just form groups with students of your own class. That is all.”
+[says] (p.134) “I’ve given you all a tedious explanation so far, but there’s more to explain apart from that.”
+[says] (p.135) “Take a look at this.”
+[says] (p.136) “These are like items that can affect the uninhabited island survival exam, and everyone will receive one of these. Except for one of them, there is no harm to having one of these. You can more or less understand that by reading the instructions.”
+[says] (p.136) “Each student will receive one of these eight cards at random. The cards will be distributed tomorrow morning, and until the special exam begins, you can transfer or trade the card you get, so long as it is within your school year. Anyone can look up who holds what card in the OAA. You can either sell them to students who want to buy them, or you could collect multiple cards by buying them. But the effects of the same cards do not stack, so there’s absolutely no point in getting two identical cards.”
+[says] (p.136) “Also, of the three special cards, they will be randomly distributed, and each school year will get only one of each type. Therefore, it is possible that one class might coincidentally end up with all three of the special cards. That is all.”
+[says] (p.137) “There’s plenty of time for you to think slowly about what strategy for grouping to use.”
+[note] (p.129–137) The rewards structure and the card system as printed.
+[rel:ayanokouji-kiyotaka] (p.117–137) She briefed him on the end; he watched every word.
 
-<!-- walk: y2v2 Ch.3 → p.128 -->
+<!-- walk: y2v2 Ch.3 → p.137 -->
 
-### y2v2 p.328–329 — Chabashira's pre-exam speech
-[scene] (p.328–329) She gives a serious pre-exam speech, warning the class not to get complacent and hoping no one disappears.
-[says] (p.329) "I've only got one wish for all of you. If you can, don't let a single one of your classmates disappear, and return to this classroom once again."
-[trait] (p.328–329) Stern and caring — she warns the class about the difficulty ahead.
+### y2v2 p.329 — Chabashira's last blessing
+[scene] (p.329) The final briefing; all 39 students present; no sick ones.
+[says] (p.329) “It’s the start of summer vacation today, but you guys look like you’re having a tough time. Well, I suppose that can’t be helped.”
+[says] (p.329) “Then we’ll start with the final check. If you’re not feeling well now, you have to report it.”
+[says] (p.329) “No problems, that’s great.”
+[says] (p.329) “This is not your first time taking a special exam. You have been fighting in this school for more than a year, and have overcome all manner of hardships. Nonetheless, this special exam will not be easy to pass.”
+[says] (p.329) “I’ve only got one wish for all of you. If you can, don’t let a single one of your classmates disappear, and return to this classroom once again.”
+[says] (p.329) “We’ll gather in the court in 10 minutes for a roll call. Remember to go to the bathroom first, if you need to.”
+[rel:ayanokouji-kiyotaka] (p.329) Her wish is aimed straight at him.
 
 <!-- walk: y2v2 Epilogue → p.329 -->
 
-### y2v2 p.117–132 — Chabashira's island exam briefing
-[says] (p.117) "It's true that we'll be discussing the topic of the special exam after this, but to maintain the suspense for a bit longer, I'll pick it up later."
-[says] (p.118) "From August 4 to August 11, you can enjoy to your heart's content your summer vacation on this luxury cruise for a total of eight days and seven nights."
-[says] (p.118) "But in order to fully enjoy this cruise trip, you must successfully complete the next special exam."
-[says] (p.119) "Looks like you're indeed learning."
-[says] (p.123) "I know what you're saying, but I'm going to state in advance that no exam can be 100% fair."
-[says] (p.128) "this year's exam can be considered to require 'all types of abilities'."
-[trait] (p.117–132) Dangles the cruise then snatches it back — "lifting us up and then bringing us down," a tactic that works because the class has learned to brace itself; wants Class D to prove they differ from a year ago; explains the groups and rewards thoroughly.
-[rel:ayanokouji-kiyotaka] (p.117–132) Delivers the briefing; he reads her motivational intent.
-[rel:horikita-suzune] (p.119) Her smile of admiration at the class's alertness.
+### y2v2 p.12–139 — Coverage note: passing mentions
+[mentioned] (p.12) “Chabashira had called him away and he had gone off somewhere, so he resorted to waiting in the classroom for him to return.”
+[mentioned] (p.27) “In stark contrast to the overjoyed Chabashira, his expression was somewhat resentful.”
+[mentioned] (p.70) “Yes. Although I tried to confirm it with Chabashira-sensei tactfully, she didn’t show signs she knew about it.”
+[mentioned] (p.138) “Shortly after, I could hear Chabashira and Kouenji from around the corner.”
+[mentioned] (p.138) “Chabashira, presumably standing face to face with Kouenji, waited for his question.”
+[mentioned] (p.139) “Chabashira to leave. In a bit, the sound of her footsteps disappeared.”
+[mentioned] (p.328) “As she entered the classroom, Chabashira’s natural expression turned serious, and the atmosphere grew heavy.”
+
+<!-- walk: y2v2 Coverage note → p.328 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

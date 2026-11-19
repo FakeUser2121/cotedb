@@ -854,14 +854,80 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.329–335 — Kōenji negotiates with Horikita
-[scene] (p.329–335) He approaches Horikita before the exam and offers to get first place alone in exchange for "full freedom" until graduation; Horikita counters with a condition.
-[says] (p.330) "Promise you full freedom… That's an unexpected proposal."
-[says] (p.332) "I see, I see. Certainly, you seem like you will be satisfied if I get 1st place by myself, riiight?"
-[trait] (p.329–335) Confident and calculating — he negotiates for freedom but accepts Horikita's condition.
-[rel:horikita-suzune] (p.329–335) He negotiates with her.
+### y2v2 p.137–141 — The sick-leave loophole, priced in
+[scene] (p.137–139) Class over; he leaves faster than usual; Ayanokōji follows him out; the corridor corner; Chabashira and Kouenji face off.
+[says] (p.138) “I just don’t think Teacher explained a crucial point.”
+[says] (p.138) “Fufu, that’s true. I’m an avaricious and insatiable person, so this is quite troubling.”
+[says] (p.138) “Really, I wonder what I should do? You can leave now, teacher.”
+[scene] (p.139–141) Ayanokōji reveals himself; the exchange on the 6-million price tag.
+[says] (p.139) “By the way, who’s the one who’s hiding and spying on me, and from where?”
+[says] (p.139) “Whether you come out or not is up to you.”
+[says] (p.139) “You seem to be good at hiding yourself. But I can’t see through your truths and lies, Ayanokouji boy. I won’t trust the words of someone like that.”
+[says] (p.140) “Fufufu, that’s true. I have no trust in anyone except myself. Rather, it’s more like I have no interest in anyone else.”
+[says] (p.140) “That applies to you as well, Ayanokouji boy.”
+[says] (p.140) “Yeah… Speaking of that, can I join your group?”
+[says] (p.140) “Fufufu, is that so, there’s no helping it then.”
+[says] (p.140) “That’s true, if I quit without doing anything.”
+[says] (p.140) “What should I do? I’ll carefully think about it until it officially starts.”
+[note] (p.137–141) His sick-leave gambit is priced at 6M private points — a sum he cannot produce; the exam's designers anticipated his exact move.
+[trait] (p.137–141) He confesses nothing and hints everything; his silence after the bell rings is a fuse burning in plain sight.
+[rel:ayanokouji-kiyotaka] (p.139–141) He sizes him up and leaves the hook hanging.
+[rel:chabashira-sae] (p.138–139) She burns his excuse in front of him.
 
-<!-- walk: y2v2 Epilogue → p.335 -->
+<!-- walk: y2v2 Ch.3 → p.141 -->
+
+### y2v2 p.330–334 — The full-freedom deal
+[scene] (p.330) The checklist breaks; he crosses to Horikita's seat; the class hushes.
+[says] (p.330) “Can I talk to you for a minute, okay? Horikita girl.”
+[says] (p.330) “It’s rare for you to come to talk to me of your own volition.”
+[says] (p.330) “There’s something I’d like to talk about regarding the special exam that’s about to begin.”
+[says] (p.330) “Oh my, you finally feel like helping us, right?”
+[says] (p.330) “Let’s just say that you’re half right.”
+[says] (p.330) “What’s your objective? Can you tell me the other half of what you mean to say?”
+[says] (p.330) “The class points for the top three groups. You have an EXTREME DESIRE for them, right?”
+[says] (p.330) “Of course. Depending on how many points we can get, the order of the classes could change by a great magnitude.”
+[says] (p.330) “Then let me make a suggestion, alright? If I get a good result on the uninhabited island exam, I want you to promise me full FREEDOM.”
+[says] (p.331) “That’s not something I can easily agree to. Everyone else in the class probably feels the same”
+[says] (p.331) “Exactement! Not only should I be allowed that, but you should also work hard to remove every obstacle in my way like a dray horse, you know?”
+[says] (p.331) “Consider it to be an advance payment before graduation.”
+[says] (p.331) “Looks like you too can feel the crisis looming over your head. Your classmates won’t just forgive your carefree speech and antics forever. If a special exam like the class vote is held again, you’d be made into their scapegoat.”
+[says] (p.331) “There’s no need for such drastic proposals. Can’t you just be like everyone else?”
+[says] (p.332) “Sorry Kouenji-kun, I put too much value on your talent to let you do “just alright” on this exam and be a spectator later on. It just doesn’t sit right with me.”
+[says] (p.332) “I see. In other words, negotiations have broken down, right?”
+[says] (p.332) “—-Not exactly. If I can add some conditions to it, it’d be an acceptable proposal.”
+[says] (p.332) “A vague answer like getting a good result won’t do. The school has prepared a reward for the group that finishes in 1st place in this exam. If you get first place on your own, that might be reason enough for us to consider this an advance payment till graduation.”
+[says] (p.333) “No problem, let’s consider this a done deal!”
+[says] (p.333) “I haven’t finished telling you my conditions yet. I’ll have to work with you because of your big talk, but if we don’t get first place in the end, it’s a problem for us too.”
+[says] (p.333) “If you don’t get first place, then you will have to help the class in the future, such as the next special exam, and get results. You have to make this promise to me.”
+[says] (p.333) “I see that you’ve given a confident ORDER, Horikita girl.”
+[says] (p.333) “If you agree to the aforementioned conditions, I’ll accept your proposal.”
+[says] (p.333) “Then it’s a deal. Horikita girl, please don’t forget the conditions I mentioned.”
+[says] (p.333) “After all, there is nothing I can’t doooo.”
+[says] (p.334) “I have no idea how serious Kouenji will get this time…”
+[says:horikita-suzune] (p.334) “Well, that’s true.”
+[says] (p.334) “But this is a rare opportunity. I have managed to get him to promise us his future commitment in the end.”
+[says:horikita-suzune] (p.334) “If he actually could get a rank in the top spots, it would be great, we could surpass the other classes like that.”
+[says:horikita-suzune] (p.335) “That’s true, but to easily take the top spot is a completely different matter altogether.”
+[says:horikita-suzune] (p.335) “Well, there’s one part that I’m uncomfortable with. I can never anticipate what Kouenji is going to do.”
+[note] (p.333–334) He agrees to go solo with the future-exam condition; the deal is sealed; he leaves the classroom.
+[rel:horikita-suzune] (p.330–334) She cage the untamed talent with the condition.
+[rel:ayanokouji-kiyotaka] (p.334–335) The race will be settled on the island.
+
+<!-- walk: y2v2 Epilogue → p.334 -->
+
+### y2v2 p.20–317 — Coverage note: passing mentions
+[mentioned] (p.20) “So that’s why there’s a possibility that he’s holding back, just like Koenji!”
+[mentioned] (p.42) “It’s not like you’re holding the class back like Koenji, so no one has the right to complain.”
+[mentioned] (p.142) “Kouenji also returned to his seat, using his usual mirror to look at himself, revelling in it.”
+[mentioned] (p.207) “there’s also Kouenji-kun, whose strengths and limits are still a mystery; he too is a dangerous adversary.”
+[mentioned] (p.280) “She’s a lot like Kouenji from your year. All her words and actions, if you take her seriously, you’ll just be wasting your time.”
+[mentioned] (p.280) “In a way, Kouenji Rokusuke was someone who had a unique personality, and if you were similar to him, you would be pretty strange too.”
+[mentioned] (p.282) “From her words, she did indeed seem very similar to Kouenji.”
+[mentioned] (p.283) “Kouenji also seemed to like this school, and enjoyed all of its benefits to the max.”
+[mentioned] (p.317) “In our class, only you, I, and Koenji haven’t formed a group yet, us three.”
+[mentioned] (p.317) “You and Koenji are the only ones left in the class. That means there’s no way to form a group anymore.”
+
+<!-- walk: y2v2 Coverage note → p.317 -->
 
 ## y2v3
 

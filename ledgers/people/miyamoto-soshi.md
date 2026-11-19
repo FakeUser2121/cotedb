@@ -89,8 +89,18 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.18–22 — Miyamoto's OAA case
+[scene] (p.18) He parses Ike's leak theory with cold logic.
+[says] (p.18) “But assuming that the questions were exactly the same as those in the past, isn’t it weird that he didn’t give us that information? And it’s also weird that no one in the other classes noticed it as well.”
+[says] (p.18) “Then… it’s the method that must not be named, knowing the answer to the question in advance…? Cheating.”
+[scene] (p.20) He has checked the updated OAA data after school; the case is airtight in his mind.
+[says] (p.20) “If we’re talking about ability, his academic score in OAA last month was lower than mine, right? It would have been impossible if he was not cheating!”
+[says] (p.20) “We-well, that’s because Sudo was studying hard, I acknowledge his growth, but…but Ayanokouji is growing too much, too fast!”
+[trait] (p.18–22) The data man; numbers are his character witness — and they lose him the room anyway when Ike's math-genius framing takes over.
+[rel:ike-kanji] (p.18–22) They trade the OAA numbers.
+[rel:sudou-ken] (p.20) He is stung by Sudō's jump past him (54 vs 53).
 
-
+<!-- walk: y2v2 Ch.1 → p.22 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

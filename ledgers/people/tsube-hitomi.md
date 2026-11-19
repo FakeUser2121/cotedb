@@ -6,6 +6,10 @@ char_id: tsube-hitomi · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.315 — Tsube pairs with Nishino
+[mentioned] (p.315) Tsube Hitomi (Class 2-C) — an excellent student with more than B in both academic and physical ability; she agrees to help Nishino (after Ichinose brokered it).
+
+<!-- walk: y2v2 Ch.5 → p.315 -->
 ## y3v2
 
 <!-- walk: y3v2 → start -->

@@ -936,45 +936,101 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12–22 — Yukimura confronts Ayanokōji over the perfect score
-[scene] (p.12–15) He waits anxiously for Ayanokōji's return, shaking his leg; when Ayanokōji arrives, he demands to know how he got 100 in math when even Ichinose and Sakayanagi didn't, and argues the question was beyond high-school level.
-[says] (p.14) "It's not a question of whether it's hard or not. I didn't even understand the meaning of the question during the exam."
-[scene] (p.15–22) He leads the class speculation about cheating and hacking, but Hirata and Sudō push back; he stays behind when club members leave.
-[trait] (p.12–22) Academically proud and meticulous — he analyzed the exam question afterward and is genuinely shaken by something he can't explain.
-[rel:ayanokouji-kiyotaka] (p.12–22) Confronts him about the score; hurt that his tutoring was unnecessary.
+### y2v2 p.12–22 — Yukimura shakes his leg; the class erupts
+[scene] (p.12) In the front of the classroom with Haruka, Sakura and Akito; his right leg won't stop trembling since the math results dropped — five minutes ago Kiyopon was called out by the teacher and has not returned.
+[says:hasebe-haruka] (p.12) “Can you calm down a little? It hasn’t even been 5 minutes since Kiyopon left. He was called out by the teacher, right? It’s going to be a while.”
+[says] (p.12) “I’m calm… don’t worry.”
+[scene] (p.13–14) Haruka steers the conversation to what she wanted to know: how he could not understand the question at all; he recounts that the paper was completely out of range for a high-school student and that he could not even parse it; the points for each subject dropped drastically as a result.
+[says] (p.13) “Was the question that hard?”
+[says] (p.14) “It’s not a question of whether it’s hard or not. I didn’t even understand the meaning of the question during the exam.”
+[says] (p.14) “After the exam, I tried to analyze the question through my memory and found that it was completely out of range for a highschool student. In other words, this was a question that we shouldn’t have been able to solve.”
+[says] (p.14) “What’s up with that? What’s the school’s problem? It’s not even a question of what’s beyond the range of an exam anymore.”
+[says] (p.14) “It really is unreasonable. That’s why the points you could get for each subject dropped drastically. But, there were also a lot of questions that weren’t as hard as what Chabshira told us they would be.”
+[says] (p.14) “Ayanokouji got a perfect score, which should be impossible. I…it’s like I’m witnessing a magic trick!”
+[scene] (p.15–16) Shinohara joins in (“Do tell me more.”); he tells the class not a single student in the 2nd year, not even Ichinose or Sakayanagi, got a perfect score; nobody notices the tablet results are published; Karuizawa calls him a math genius and he snaps at her.
+[says] (p.15) “You’ve all checked the tablet, right? Is there anyone in the class who got a perfect score in one of the subjects? No, look at the other classes as well, and it’ll be clear. Look at the entirety of the 2nd year. Not a single student, not even Ichinose or Sakayanagi, got a perfect score.”
+[scene] (p.17) He dismisses Karuizawa's TV-drama theory (“Then tell me, why didn’t he get a perfect score on his previous math tests?”); Maezono takes Karuizawa's side; he loses the thread and starts explaining what he actually suspects.
+[says] (p.16) “Then tell me, why didn’t he get a perfect score on his previous math tests? If he can solve questions of the kind that came this time, it doesn’t make sense for him to not have gotten a full score or something close to it all along.”
+[says] (p.16) “This isn’t something that can be done in a short amount of time. Even if he had studied at a higher level than I could imagine, it doesn’t explain how he was able to solve questions that are far beyond the knowledge of a high school student! If you can’t even understand that, then keep your mouth shut.”
+[says] (p.17) “Have you forgotten already? The question was such that even Sakayanagi and Ichinose couldn’t get full marks.”
+[says] (p.17) “I… well, basically, that guy… could probably be good at math at an unbelievable degree, I think.”
+[says] (p.17) “That’s not the main point. If that’s the case, then that guy-”
+[scene] (p.18–19) Minami Setsuya raises the “done something shady” possibility; Ike pivots to a leaked-paper scenario; he loses patience (…it’s like I’m witnessing a magic trick).
+[says] (p.19) “That’s as stupid as what Karuizawa said…”
+[scene] (p.20–22) Sudō stands and shuts the cheating talk down; Miyamoto quotes last month's OAA (was 51, now 54); Hirata breaks the tension by pointing out club activities; he remains the most agitated in the room as the class thins out.
+[note] (p.12–22) His choice of calling him by last name (Ayanokouji) is explicitly marked as resentment; the class notices too.
+[rel:ayanokouji-kiyotaka] (p.12–44) The tutor and the pupil; the confrontation is personal for him.
+[rel:hasebe-haruka] (p.12–45) She tries, fails, and steps back.
+[rel:miyake-akito] (p.12–22) Sits with him; heads to club.
+[rel:karuizawa-kei] (p.16–22) Battles of wits begin and grow.
 
-<!-- walk: y2v2 Ch.1 → p.22 -->
-
-### y2v2 p.23–45 — Yukimura's reconciliation with Ayanokōji
-[scene] (p.23–34) He listens to Horikita's cover story with sharp skepticism, pressing on why hiding strength helped the class; Yousuke's support partially convinces him.
-[says] (p.30) "Better than you in academics? Hold on. I remember Kiyotaka's scores being about average all around since school started."
-[scene] (p.39–45) After class he corners Ayanokōji in the hallway; he is angry and hurt, admits he considered leaving the group, but proposes to continue tutoring him as before.
-[says] (p.40) "Why didn't you tell us before?… If it's to hide information as Horikita said, does that mean that you don't trust us at all?"
-[says] (p.42) "I want out of this group- Well, I'd be lying if I said I didn't have that thought."
-[trait] (p.23–45) Rational and fair-minded — he suppresses his hurt for the group's sake and chooses to keep tutoring Ayanokōji.
+### y2v2 p.23–45 — The fight for his trust
+[scene] (p.23–26) After Chabashira's exchange with Ayanokōji (unseen by him), the classroom empties of club students; he waits through the whole thirty minutes.
+[scene] (p.27–29) Ayanokōji returns; he leads the charge with Haruka and Airi behind him; he confronts the perfect score head-on.
+[says] (p.27–28) “You… what’s with the 100 points in math? I checked the scores of all the other 2nd years with the OAA, and even Ichinose and Sakayanagi didn’t get … perfect scores. You’re the only one in the entire year.”
+[says] (p.28) “I’m… asking Kiyotaka.”
+[says] (p.28) “… What do you mean?”
+[says] (p.29) “That’s right… To be honest, my head is a mess. I said this before, right? The questions at the end of the paper were impossible to solve. But Kiyotaka did them all like nobody’s business, and I just can’t understand it.”
+[says] (p.29) “Kiyotaka should know very well that nobody in the class could solve those problems. Yet we didn’t even see him brag about how he solved them. Isn’t that weird? It even makes it seem like he has something he can’t reveal… maybe he did something bad, and knew the answers from the start, or something like that.”
+[says] (p.30) “Better than you in academics? Hold on. I remember Kiyotaka’s scores being about average all around since school started. I’m sorry, but I can’t see anything about it being worthy of special attention. Isn’t his grade on the OAA a C, the overall average?”
+[says] (p.30) “…A little strategy?”
+[says] (p.32) “Your words are hardly convincing. If you had doubts surrounding the rules of the school, it would be beneficial for the class as a whole for him to get higher scores from the start. Since he got a perfect score on this exam, getting an A or A+ in academic ability isn’t impossible. You could say it was just one person’s grades, but even that could’ve slowly increased the number of points of our class.”
+[says] (p.32) “What I think his future would have been like…?”
+[says] (p.32) “So you’re saying, people might have targeted him?”
+[says] (p.33) “No, that’s wrong. If Kiyotaka had been serious from the start, even if we were to put Yamauchi and him at different ends of a balance the result would have been clear as day.”
+[says] (p.33) “So why are you revealing this now? If you carelessly reveal his strength, the results will be the same. He’s been drawing attention now that you suddenly showed his strength to everyone, and soon he could also become a target.”
+[says] (p.36) “The student known as Ayanokouji Kiyotaka, has he shown the full extent of his abilities, or is he still holding back? No matter what the real truth is, we can hide it to ensure Ayanokouji continues to remain a thorn on their side for the other classes.”
+[says] (p.37) “A strategy of hiding our strength…. That’s true, the other classes must also be quite shocked now.”
+[scene] (p.39–43) The group corners him in the hallway after class; he confesses he was determined to leave; Haruka forces the handshake; he accepts continued tutoring.
+[says] (p.39) “Kiyotaka.”
+[says] (p.40) “Why didn’t you tell us before?… If it’s to hide information as Horikita said, does that mean that you don’t trust us at all?”
+[says] (p.41) “To be honest, I’m still angry. You could have told me from the start that you didn’t need to be taught, that you could have passed the exam without any problems, and that you could have handled it on your own.”
+[says] (p.41) “And based on what Horikita said, you’ll continue to hold back after this, right? If you don’t tell me which subject you will and will not hold back in, I can’t completely trust you.”
+[says] (p.42) “I want out of this group- Well, I’d be lying if I said I didn’t have that thought.”
+[says] (p.42) “Yeah, I’m serious. Until I heard Horikita’s explanation, I was determined to leave because I didn’t think Kiyotaka could be trusted at all. But…even so, after being in the same group for so long, I can still understand some things. I know that Kiyotaka isn’t a bad person. Since he was hiding something for the sake of the entire class, it’s understandable that he didn’t want to tell anyone. Kiyotaka could have told me that he didn’t need tutoring, that is true, but he’s bad with words, so he couldn’t say it. I can understand that too.”
+[says] (p.42) “It’s just…yeah, it’s just… I need some time to sort my thoughts out.”
+[says] (p.42) “There’s no advantage in taking this further… In the end, what I wanted to say, what I wanted to express is… it doesn’t matter even if you hide your strength in other areas. It’s not like you’re holding the class back like Koenji, so no one has the right to complain. If I continue to criticize you forcefully, the atmosphere will become even worse.”
+[says] (p.42–43) “Even though my rational side is clear with that, I can’t suppress it emotionally, so I’ll need to reflect on that. Next, I’ll recognize the part of your strength that you revealed as a real thing. As for the other subjects, I’ll … continue to use my previous assumption that you’re passable, and I’ll continue to tutor you. Is that fine?”
+[says] (p.43) “Don’t, it’s embarrassing.”
+[says] (p.43) “I know, I know…!”
+[says] (p.44) “I’m fine with it, but Akito still doesn’t know anything.”
+[says] (p.44) “Miyacchi probably won’t be a problem. I think he’ll just accept Kiyopon like normal right?”
+[says] (p.44) “Well, everything’s back to normal. It feels we’ve taken a huge weight off our shoulders, right?”
+[says] (p.44) “Isn’t getting full marks a bit excessive? Sakayanagi, who was 2nd in the year, got 91 points.”
+[says] (p.45) “Speaking of Sakayanagi-san, she got similar scores in all her subjects, right?”
+[says] (p.45) “I know she was smart, but ever since the introduction of the OAA, her strength has become more apparent.”
+[trait] (p.23–45) A perfectionist's pride bruised in public; he holds the line of honesty but breaks anyway, because he cannot out-logic his own hurt; his forgiveness is real but partial.
+[rel:ayanokouji-kiyotaka] (p.12–45) The wound between them; the reconciliation.
+[rel:hasebe-haruka] (p.39–45) She buffers him and Airi from the worst of it.
+[rel:sakura-airi] (p.43–44) She sees Haruka's strange stiffness too.
+[rel:horikita-suzune] (p.27–45) She shields the truth; he audits it.
+[rel:miyake-akito] (p.39–45) The one he trusts will just take Kiyotaka as he is.
 
 <!-- walk: y2v2 Ch.1 → p.45 -->
 
-### y2v2 p.327–328 — Keisei worries about Ayanokōji going solo
-[scene] (p.327–328) He comes to Ayanokōji's seat before the exam and worries about him going alone; Ayanokōji promises to help if needed.
-[says] (p.328) "But, are you alright going alone? If you get sick, it's over."
-[trait] (p.327–328) Caring and anxious — he worries about his friend.
-[rel:ayanokouji-kiyotaka] (p.327–328) He worries about him going solo.
+### y2v2 p.120–179 — Keisei's group situation
+[note] (p.120) “Keisei, who usually would quietly listen to the instructions of the special exams, murmured as if recalling memories of that.” — on page, in the classroom, at the exam announcement; not a spoken line.
+[note] (p.179) His name is floated as the “left out” scout — the classes want his mind; his own small group is not settled yet on this page.
+
+<!-- walk: y2v2 Ch.3 → p.179 -->
+
+### y2v2 p.327–328 — Keisei's pre-exam fear
+[scene] (p.327) He comes to his seat, grim mid-checklist.
+[says] (p.327) “Honestly, surviving on an uninhabited island isn’t something very good at. You might as well ask me to catch a cloud.”
+[says] (p.327) “But it’s even harder on the girls, so I can’t really complain.”
+[says] (p.328) “Although we’re competing in different groups, I still want to do what I can to help out.”
+[says] (p.328) “But, are you alright going alone? If you get sick, it’s over. If by any chance you receive the penalty, you’d have to pay 6 million points… It’d all be over in an instant.”
+[says] (p.328) “You’re starting to sound a bit sarcastic lately, you know?”
+[rel:ayanokouji-kiyotaka] (p.327–328) He promises to help his comrades regardless of their groups.
 
 <!-- walk: y2v2 Epilogue → p.328 -->
 
-### y2v2 p.12–18 — Yukimura's agitation over the perfect score
-[scene] (p.12) Waits restlessly in the classroom for Ayanokōji (called away by Chabashira), his right leg trembling repeatedly despite Hasebe's attempts to calm him.
-[says] (p.14) "It's not a question of whether it's hard or not. I didn't even understand the meaning of the question during the exam."
-[says] (p.14) "this was a question that we shouldn't have been able to solve."
-[says] (p.14) "Ayanokouji got a perfect score, which should be impossible. I…it's like I'm witnessing a magic trick!"
-[says] (p.15) "I've worked to understand everyone's academic abilities during our first year, at least at a certain level."
-[says] (p.15) "Not a single student, not even Ichinose or Sakayanagi, got a perfect score."
-[says] (p.17) "If you can't even understand that, then keep your mouth shut."
-[trait] (p.12–18) The academically strongest in Class D — analyzed the questions from memory and found them beyond a high-school scope; his resentment shows in calling Ayanokōji by his last name; grows irritated with Karuizawa's math-genius and cramming theories and bluntly rebukes her.
-[rel:ayanokouji-kiyotaka] (p.14–18) Deeply unsettled that the "impossible" perfect score came from someone whose ability he'd judged; later leads the questioning.
-[rel:karuizawa-kei] (p.16–17) Argues with her over her dismissive theories; snaps at her.
-[rel:hasebe-haruka] (p.12) She tries to calm his trembling leg.
+### y2v2 p.59 — Coverage note: passing mentions
+[mentioned] (p.59) “Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel good to know that someone by my side was hiding his powers and is actually more powerful than me.”
+[mentioned] (p.59) “Sudou, just like Keisei, had started to digest things by himself.”
+
+<!-- walk: y2v2 Coverage note → p.59 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

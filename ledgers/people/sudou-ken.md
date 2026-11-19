@@ -1802,34 +1802,96 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.19–20 — Sudō defends Ayanokōji against cheating accusations
-[scene] (p.19–20) He stands up and silences the cheating speculation, arguing there's no evidence; Miyamoto counters with OAA data.
-[says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"
-[scene] (p.53–63) After Golden Week, he runs into Ayanokōji at the shoe lockers and confronts him about his hidden math and fighting strength; he grabs his bicep, concludes he is "someone we need to rise up to Class A," and promises not to tell anyone about the Hōsen fight.
-[says] (p.54) "So you were hiding the fact you're good at studying because of Suzune's strategy, right?"
-[says] (p.57) "You… you surpassed that monster Housen's strength and stopped him. I'm not wrong, am I?"
-[says] (p.62) "It might be cold coming from a friend of Haruki, but I'm glad you didn't get expelled during the class vote. There's no doubt that you're someone we need to rise up to Class A."
-[trait] (p.19–63) Matured and perceptive — he assesses the situation calmly, trusts Ayanokōji, and keeps his secrets.
+### y2v2 p.19–22 — Sudō shuts down the cheating talk
+[scene] (p.19) He had been listening silently; he stands and his 186cm frame gathers the room.
+[says] (p.19) “You seem to be getting rather excited, but there isn’t even a shred of evidence of Ayanokouji cheating, is there? Don’t just jump to conclusions when the person in question isn’t here.”
+[scene] (p.20) He weathers Ike's prod, then stakes his own read.
+[says] (p.20) “That’s not what I meant. But there is no way he was easily able to see the question paper, right?… I just thought that it’s more likely that he got that perfect score with his own abilities.”
+[says] (p.20) “That just means he’s different from last year. Anyone can grow.”
+[scene] (p.21–22) Hirata nudges him toward club; he goes — glancing at the back of Suzune, who has said nothing all commotion.
+[says] (p.21) “Eh? Ahhhh, now that you say that…”
+[note] (p.20–22) His OAA jump to 54 (physical A+ 96) has outrun Miyamoto (53) — noticed by the whole class.
+[rel:ayanokouji-kiyotaka] (p.19–22) He is the first to wave the cheating talk off on the record.
+
+### y2v2 p.54–63 — Sudō's big question
+[scene] (p.54) Run-in at the shoe lockers after Golden Week; he falls into step without saying hello first.
+[says] (p.54) “… Yo.”
+[says] (p.54) “So you were hiding the fact you’re good at studying because of Suzune’s strategy, right?”
+[says] (p.55) “Well, you two have been close ever since school started. A bit late now, but I understand that.”
+[says] (p.55) “It was like that? Sorry, didn’t look like that to me.”
+[says] (p.55) “I heard about it from Yousuke afterwards. You put in a good word for me, didn’t you?”
+[says] (p.55) “You call them facts, but you didn’t know the truth at that time either.”
+[says] (p.55) “It was a secret that you’re a genius at math, but is the fact that you’re good at fighting also a secret?”
+[scene] (p.56) He relives the Housen fight out loud — the first time he felt scared.
+[says] (p.55–56) “Don’t play dumb with me. I fought with Housen, so I’m clear on it. His … superhuman strength is the real deal. And he’s faster than anyone I’ve fought so far. Honestly, he’s a monster.”
+[says] (p.56) “That was the first time I’ve ever felt scared in a fight. Even now his smiling face is burnt into my brain.”
+[says] (p.56) “Well, there was no other choice. That guy has more than a few screws loose.”
+[says] (p.56) “Who knows… In a real, serious fight, I don’t think I can win against him.”
+[scene] (p.57–59) He grips AK's bicep, measures grips and recalculates; then releases the question unanswered.
+[says] (p.57) “Hey- that’s not what I wanted to talk about! My affairs don’t matter.”
+[says] (p.57) “You… you surpassed that monster Housen’s strength and stopped him. I’m not wrong, am I?”
+[says] (p.57) “Yeah, that’s right.”
+[says] (p.57) “I’ve had this feeling since last year, when I saw you at the pool. You weren’t even participating in any club activities, but you had a super muscular body. It’s hard to tell with clothes on, but those firm muscles… you wouldn’t get those without considerable training.”
+[says] (p.57) “Speaking of that, your grip strength when we measured it before the sports festival was around 60kg, right?”
+[says] (p.58) “That time, I already thought that was amazing… but you were holding back. How much can you grip exactly?”
+[says] (p.58) “You don’t know?”
+[says] (p.58) “How is that even possible? We have physical evaluations so many times in primary and middle school!”
+[says] (p.58) “You really don’t know?”
+[says] (p.59) “I’m talking about you, how strong is the real you?”
+[says] (p.59) “Forget it. You don’t have to answer.”
+[says] (p.59) “Powerful or not, there’s no point if I don’t see it with my own eyes.”
+[says] (p.59) “But I understand now that you’re a pretty unbelievable guy. You’re seriously powerful, Ayanokouji.”
+[scene] (p.59–62) He lands his own position: admiration without envy; the Suzune question; the relief.
+[says] (p.59–60) “Well, in the beginning I thought, what’s with that?, and I get how Yukimura feels. If I feel like I’m already super powerful, it sure wouldn’t feel … good to know that someone by my side was hiding his powers and is actually more powerful than me. But it’s not like I can’t understand what you’re thinking, you don’t like to stand out, right? Somehow, I’ve come to understand your approach, I guess.”
+[says] (p.60) “It would definitely be a lie if I said I didn’t care, but I’m doing my best in my own way to grow. That’s got nothing to do with how other guys are, that’s what I think.”
+[says] (p.60) “Besides, no matter how amazing you are, at basketball, I’m definitely better.”
+[says] (p.60) “Spare me. I don’t want to become your punching bag.”
+[says] (p.60) “Hahahahah! I see you understand that!”
+[says] (p.60–61) “So I won’t talk about the situation with Housen to anyone. I feel like this … was very roundabout, but that was what I wanted to say today.”
+[says] (p.61) “Ah yes, let’s not talk about Housen again, but can I ask one last thing?”
+[says] (p.61) “Did you not think I would tell anybody else about the fight with Housen?”
+[says] (p.61) “If it were the old me?”
+[says] (p.61) “I feel like… I’m being talked up to.”
+[says] (p.62) “I’m totally convinced. Doesn’t feel bad to know that you have a high opinion of me.”
+[says] (p.62) “There’s one more question I’d like to ask. You and Suzune…”
+[says] (p.62) “Oh…”
+[says] (p.62) “For that, well, it’s not like I’m telling you not to date her. Suzune is free to go out with me, or you, or anyone else if she wants. But, well, if you’re deliberately hiding it, then I won’t have any mercy on you.”
+[says] (p.62) “Good. Wait, no, that’s not oー! …k, but, no, that’s fine.”
+[says] (p.62) “It might be cold coming from a friend of Haruki, but I’m glad you didn’t get expelled during the class vote. There’s no doubt that you’re someone we need to rise up to Class A. See you later, Ayanokouji.”
+[trait] (p.54–63) Competitive, warm, loud, and precise about his lane — basketball stays his; the fight with Housen haunts him but does not own him.
+[rel:ayanokouji-kiyotaka] (p.19–63) He is the one who calls AK seriously powerful to his face.
+[rel:hirata-yousuke] (p.21–22) Hirata keeps him moving.
+[rel:ike-kanji] (p.19–22) Old friends on the same fight.
 
 <!-- walk: y2v2 Ch.1 → p.63 -->
 
-### y2v2 p.169–170 — Sudō's group situation
-[scene] (p.169–170) Shinohara mentions that Sudō and Hondou will be in a group together; Sudō's basketball commitment is noted.
-[trait] (p.169–170) His group plans are discussed by others.
+### y2v2 p.142–144 — Sudō's alliance idea
+[scene] (p.142–144) The strategy circle runs its third pass; Sudō floats the three-class alliance.
+[says] (p.142) “But, what about the distribution of class points when you win? Although I understand the reason behind it, there’s no benefit in grouping up with other classes. It just feels like we’d be messing around if we do that.”
+[says] (p.144) “Then how about an alliance between the three classes? If the gap is extended by Class A, let’s first establish an alliance from Class B to D. To be able to narrow that gap with Class A wouldn’t be bad.”
+[note] (p.142–145) “The particularly important part of this exam...” and “But if we rely on only our class…” are untagged group-talk in the translation; speakers unassigned as printed.
+[rel:hirata-yousuke] (p.142–144) He works alongside him.
+
+### y2v2 p.169–170 — The OAA bench situation
+[scene] (p.169–170) Ike's Shinohara-pitch references him and Hondō as the "natural" group; Shinohara lets it bounce off.
+[note] (p.169–170) His name is the reason his corner of the class forms its own gravity.
 
 <!-- walk: y2v2 Ch.3 → p.170 -->
 
-### y2v2 p.19–22 — Sudō defends Ayanokōji against the cheating talk
-[says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"
-[says] (p.19) "Don't just jump to conclusions when the person in question isn't here."
-[says] (p.20) "That's not what I meant. But there is no way he was easily able to see the question paper, right?"
-[says] (p.20) "I just thought that it's more likely that he got that perfect score with his own abilities."
-[says] (p.20) "That just means he's different from last year. Anyone can grow."
-[trait] (p.19–22) Stands up (his 186cm frame gathering the class's attention) to reject the cheating speculation as unreasonable — surprising everyone, especially Ike; argues Ayanokōji more likely earned it and that people can improve; leaves quietly for club activities after Hirata's nudge, glancing at the silent Horikita.
-[rel:ayanokouji-kiyotaka] (p.19–20) Defends him against the class's suspicion.
-[rel:ike-kanji] (p.19–20) His longtime friend is displeased that he took Ayanokōji's side.
-[rel:miyamoto-soshi] (p.20) Miyamoto insists Ayanokōji's OAA was lower; Sudō notes his own rise above Miyamoto (54 vs 53).
-[rel:horikita-suzune] (p.22) Glances at her before leaving; she sat silent through the whole commotion.
+### y2v2 p.66–320 — Coverage note: passing mentions
+[mentioned] (p.66) “as said before, the one with the most significant increase was Sudou.”
+[mentioned] (p.66) Second-year OAA print-out — Academics C (54), Physical A+ (96), Adaptability C- (42), Social Contribution C+ (60), Overall B- (63).
+[mentioned] (p.67) “later, if Sudo lived a serious life for the past six months, his social contribution number would rise at the very least.”
+[mentioned] (p.67) “Leaving beside Sudo, the overall strength of the other students had also improved from the first year.”
+[mentioned] (p.69) “Although we’re indebted to her since she teamed up with Sudo, she definitely joined Housen-kun, right?”
+[mentioned] (p.95) “The thing about teaming up with Sudou-senpai, you haven’t forgotten about that have you?”
+[mentioned] (p.129) “the trio of Hirata, Sudo, and Hondou challenges the exam till the end.”
+[mentioned] (p.172) “By the way, I heard from Sudo-kun that you’re gonna be a regular on the basketball team?”
+[mentioned] (p.207) “along with Sudo-kun, who’s the only one to get an A+ rating in physical ability in the entire 2nd year.”
+[mentioned] (p.320) “He was similar to Sudou in terms of enthusiasm, but Ishizaki was different in his own way.”
+
+<!-- walk: y2v2 Coverage note → p.320 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

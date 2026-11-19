@@ -1900,35 +1900,71 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12–22 — Hirata defuses the classroom tension
-[scene] (p.21) He steps in to calm the class, dispersing club members and pressing pause on the speculation.
-[says] (p.21) "Let's all calm down a bit. We can't solve the problem by just getting heated up here, can we?"
-[scene] (p.35–38) He backs Horikita's cover story, filling gaps in her logic and closing the topic cleanly.
-[says] (p.36) "I see. I clearly understand what Horikita-san is trying to say."
-[trait] (p.21–38) Trusted by the entire class — he reads the situation and acts as the stabilizer.
+### y2v2 p.21–22 — Hirata presses pause
+[scene] (p.21) When the speculation crests, he steps in as the class's assumed arbitrator.
+[says] (p.21) “Let’s all calm down a bit. We can’t solve the problem by just getting heated up here, can we?”
+[says] (p.21) “Sudo-kun, isn’t it almost time for your club activities?”
+[says] (p.21) “I know you’re concerned about this topic, but there are many things that are uncertain right now. I do not think it is good to let your club activities be affected by mere speculation. You know by now that the … excuse won’t work, right?”
+[note] (p.21–22) He usually leads by unifying the class; this time he keeps quiet until the end, reads the temperature precisely, then breaks the impasse by dispersing the room.
+[rel:sudou-ken] (p.21–22) He redirects Sudō to club.
+
+### y2v2 p.35–38 — Hirata's covering fire
+[scene] (p.35) While Horikita holds the floor, he observes from the front; Ayanokōji catches his eye.
+[says] (p.35) “I understand, if only a little bit, this reserve strategy of yours, Horikita. On that basis, I have another question. Is Ayanokouji outstanding at math alone?”
+[says] (p.36) “I see. I clearly understand what Horikita-san is trying to say.”
+[says] (p.36) “I didn’t get it at first, but I’ve been listening to the discussion, and now I understand. It’s true that an enemy whose abilities are unknown can be dangerous. They will then want to know more and try to gather information. But if even our own classmates don’t know the truth, it’ll be pointless for them to keep digging.”
+[says] (p.38) “I think it would be better if we left it at that for now. As Horikita-san said, the walls have ears.”
+[trait] (p.35–38) The class's social load-bearing wall; he fills the gaps in Horikita's argument in plain words and closes the topic on cue.
+[rel:horikita-suzune] (p.35–38) He is her ally on the floor.
+[rel:ayanokouji-kiyotaka] (p.35–38) He understands the situation and silently takes the cue.
 
 <!-- walk: y2v2 Ch.1 → p.38 -->
 
-### y2v2 p.177–179 — Hirata discusses group strategy with Ayanokōji
-[scene] (p.177–179) He and Ayanokōji agree to investigate the Ike/Shinohara situation; he plans to form a group with two Class D members.
-[trait] (p.177–179) Thoughtful and strategic — he considers the class's overall group dynamics.
-[rel:ayanokouji-kiyotaka] (p.177–179) They agree to investigate together.
+### y2v2 p.123–126 — Hirata challenges the exam's premise
+[scene] (p.123) In the front rows he challenges the gap between the years on day one.
+[says] (p.123) “Wouldn’t that… be extremely disadvantageous to the first-year students, and advantageous for the third years?”
+[scene] (p.126) He presses the small-group/big-group mechanics next.
+[says] (p.126) “We can’t change groups, but we could form a group of up to 6 for the special exam, right? But so far, we can only form small groups of up to three people. What’s up with that?”
+[note] (p.123–126) He usually leads the class and did so with the homework question yesterday; the briefing exposed the exam's built-in unfairness and he made it visible for everyone.
 
-<!-- walk: y2v2 Ch.3 → p.179 -->
+### y2v2 p.142–145 — The strategy circle
+[scene] (p.142) After the briefing everyone gathers around Horikita's desk; he is explicitly named as the circle's anchor (“Everyone, along with Yosuke”).
+[note] (p.145) Sakayanagi “tended never to let the prey she decided on escape” — his own assessment, used as the class's common sense.
 
+### y2v2 p.177–186 — The café watch
+[scene] (p.177–178) He's watched the whole Ike–Shinohara scene from the back; he intercepts Ayanokōji in the corridor, worried.
+[says] (p.177) “About Ike, I don’t think it’s too good to leave him alone like this.”
+[says] (p.177) “Yeah. He might be a bit arrogant, but Ike’s knowledge and experience will be of use in the uninhabited island survival exam. It’s possible this incident with Shinohara may prevent him from fulfilling his potential.”
+[says] (p.177) “Yes. Seeing that, I’m also worried about what will happen if he watches the discussion between Shinohara and Komiya while he’s like that.”
+[says] (p.178) “I’d like to go see what’s going on. If you’re okay with it, can you come along? I don’t think Ike-kun likes me very much.”
+[says] (p.178) “Yeah. Shall we go and see what’s going on, just in case?”
+[says] (p.178) “It seems like we can only form groups that leave us with no regrets.”
+[says] (p.178) “For me, I’d like to select 2 people from Class D to form a group. Instead of aiming for the top places, I’d rather fight to not get penalized.”
+[says] (p.179) “Miyake-kun has good motor skills, so I feel the group is well balanced.”
+[says] (p.185) “I don’t think it’ll be as bad as it can be, but…”
+[says] (p.186) “Anyway, I wanted to ask about Komiya first. Why did Komiya invite Shinohara to his group? If we’re not sure about that, we can’t take any action.”
+[rel:ike-kanji] (p.177–186) He knows Ike's potential is rotting in private.
+[rel:sakura-airi] (p.179) He worries about Airi in Sakura's circle.
+[rel:miyake-akito] (p.179) He rates his skills.
+[rel:ayanokouji-kiyotaka] (p.177–186) He trusts his read of the room over his own hunches.
 
-### y2v2 p.21–22 — Hirata defuses the escalating argument
-[says] (p.21) "Let's all calm down a bit. We can't solve the problem by just getting heated up here, can we?"
-[says] (p.21) "Sudo-kun, isn't it almost time for your club activities?"
-[says] (p.21) "You know by now that the 'I'll be late just this one time' excuse won't work, right?"
-[trait] (p.21–22) The class's unifier stays quiet until he's sure what everyone thinks, then presses pause — gently sending Sudō and the club members off to activities (judging reducing numbers the primary goal) so the speculation doesn't derail into internal strife.
-[rel:sudou-ken] (p.21) Gently reminds him of club activities to cool him down.
+<!-- walk: y2v2 Ch.3 → p.186 -->
 
-### y2v2 p.123, 126 — Hirata questions the exam rules
-[says] (p.123) "Wouldn't that… be extremely disadvantageous to the first-year students, and advantageous for the third years?"
-[says] (p.126) "We can't change groups, but we could form a group of up to 6 for the special exam, right?"
-[trait] (p.123–126) Hates inequality — objects to the cross-year unfairness and asks about the small-group/big-group mechanics; Chabashira explains no exam is 100% fair and that younger students get higher rewards/lighter penalties.
-[rel:chabashira-sae] (p.123–126) Questions her on the rules; she answers that there are gaps between years and that the groups combine later.
+### y2v2 p.29–252 — Coverage note: passing mentions
+[mentioned] (p.29) “Starting with Keisei and Yosuke, the students who had the best grades were discussing the extremely difficult questions.”
+[mentioned] (p.39) “I’ll thank Horikita and Yosuke another day.”
+[mentioned] (p.55) “I heard about it from Yousuke afterwards. You put in a good word for me, didn’t you?”
+[mentioned] (p.66) “If he could improve his academics and social contribution in the future, he might even be able to stand shoulder to shoulder with Yosuke and Kushida.”
+[mentioned] (p.129) Chabashira’s example member — “the trio of Hirata, Sudo, and Hondou” — used to illustrate the single-survivor rule.
+[mentioned] (p.144) “In order to decide on the groupings, Horikita used Yosuke’s words as a basis to speak to everyone.”
+[mentioned] (p.177) “Yousuke had seen the whole scene, and after Ike left he approached me.”
+[mentioned] (p.187) “After leaving Yosuke, I gave Ishizaki, from Komiya’s class, a call, and asked him out.” — Ayanokōji’s narration on the page; he is present through the Ishizaki briefing.
+[mentioned] (p.197) “Let’s discuss this with Yosuke as well. He’s thinking about the best group for Ike right now.”
+[mentioned] (p.207) “Headed by Hirata-kun and Kushida-san, who have strong communication skills, and have well-balanced grades…”
+[mentioned] (p.252) “Even though his grandfather mentioned something about being bad at studying, he got an A in the OAA evaluation for Academic Ability. He was an honor student who wasn’t obnoxious, and he gave me the same sort of feeling as Yosuke did.”
+
+<!-- walk: y2v2 Coverage note → p.252 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

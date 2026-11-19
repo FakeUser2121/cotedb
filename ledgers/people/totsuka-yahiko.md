@@ -253,6 +253,16 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.301–307 — Totsuka (referenced)
+[mentioned] (p.301) Totsuka Yahiko — a great admirer of Katsuragi; expelled from school because of Sakayanagi; the wound Ryuuen presses to lure Katsuragi to Class B.
+[mentioned] (p.307) Totsuka's expulsion is the reason Ryuuen knows Katsuragi's hidden grudge.
+
+<!-- walk: y2v2 Ch.5 → p.307 -->
+
+### y2v2 p.300 — Coverage note: passing mentions
+[mentioned] (p.300) “That Totsuka who was holding you back, he is gone now, right?”
+
+<!-- walk: y2v2 Coverage note → p.300 -->
 
 ## y2v5
 

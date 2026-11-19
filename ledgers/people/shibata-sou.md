@@ -265,14 +265,15 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.215, 299 — Shibata mentioned in passing
-[scene] (p.215) Named in the group formation context.
-[scene] (p.299) Named in Ryūen's alliance meeting.
-[note] (p.215, 299) Passing mentions; not a distinct scene presence.
-[mentioned] (p.215, 299) Passing mention only.
+### y2v2 p.215 — Named in passing (Ch.3)
+[mentioned] (p.215) Shibata Sou — Class B, named by Sakayanagi at p.215 as a Class B main force.
 
-<!-- walk: y2v2 Ch.5 → p.299 -->
+<!-- walk: y2v2 Ch.3 → p.215 -->
 
+### y2v2 p.299 — Coverage note: passing mentions
+[mentioned] (p.299) “and then, no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy.”
+
+<!-- walk: y2v2 Coverage note → p.299 -->
 
 ## y2v3
 

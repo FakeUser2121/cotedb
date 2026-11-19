@@ -6,6 +6,10 @@ char_id: yano-koharu · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.168 — Named in passing (Ch.3)
+[mentioned] (p.168) Yano Koharu — Class A; named at p.168 as the holder of the Nullify card (special card, one per year).
+
+<!-- walk: y2v2 Ch.3 → p.168 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->
@@ -28,7 +32,7 @@ char_id: yano-koharu · class: unknown · status: unknown
 ### y2v8 p.11-208 — yano-koharu mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10-11, p.25, p.28-29, p.31-33, p.35-38.
-[mentioned] (p.11) Passing mention only.
+[mentioned] (p.168) Yano Koharu — Class A; named at p.168 as the holder of the Nullify card (special card, one per year).
 
 
 
@@ -40,17 +44,17 @@ char_id: yano-koharu · class: unknown · status: unknown
 ### y2v10 p.9-235 — yano-koharu mentioned in passing
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.8, p.10, p.16, p.20-22, p.24, p.53; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+[mentioned] (p.168) Yano Koharu — Class A; named at p.168 as the holder of the Nullify card (special card, one per year).
 
 ### y2v10 p.128, 138 — Ch.6: Out in the eighth turn
-[mentioned] (p.128) Present in Ryūen's class; the exam is brutal on him; he's one of the first to go.
-[mentioned] (p.138) Eliminated in the eighth turn alongside Isoyama; the first half scoreboard shows Ryūen's class at 19 points with four eliminated — Ishizaki, Isoyama, Yano, Morofuji.
+[mentioned] (p.168) Yano Koharu — Class A; named at p.168 as the holder of the Nullify card (special card, one per year).
+[mentioned] (p.168) Yano Koharu — Class A; named at p.168 as the holder of the Nullify card (special card, one per year).
 [note] (p.138) No dialogue attributed to him; he is only in the monitor's elimination list.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.189–189 — Ch.7: passing mentions (locator cross-check)
-[mentioned] (p.189) Passing mention — people merely in the first half: Ishizaki, Isoyama, Yano, and Morofuji.
+[mentioned] (p.168) Yano Koharu — Class A; named at p.168 as the holder of the Nullify card (special card, one per year).
 
 <!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12

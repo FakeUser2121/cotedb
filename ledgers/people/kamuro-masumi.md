@@ -317,12 +317,15 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.299 — Kamuro mentioned in passing
-[scene] (p.299) Named in Ryūen's alliance meeting.
-[note] (p.299) Passing mention; not a distinct scene presence.
-[mentioned] (p.299) Passing mention only.
+### y2v2 p.215 — Named in passing (Ch.3)
+[mentioned] (p.215) Kamuro Masumi — "Masumi-san" named once at p.215 with no surname on the page (Hashimoto/Kitō/Masumi/Sakayanagi are the four Class A names); presumably Kamuro; unresolved, not decided.
 
-<!-- walk: y2v2 Ch.5 → p.299 -->
+<!-- walk: y2v2 Ch.3 → p.215 -->
+
+### y2v2 p.299 — Coverage note: passing mentions
+[mentioned] (p.299) “I’ve checked the group composition using the OAA, and while you guys seem to have formed groups with Class C and D, Kitou seems to be alone. And then, no matter how you spin it, Ichinose, Shibata and Sakayanagi being in a group together smells fishy.”
+
+<!-- walk: y2v2 Coverage note → p.299 -->
 
 ## y2v3
 

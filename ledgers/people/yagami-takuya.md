@@ -105,24 +105,105 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.221–235 — The 1st-year representatives' gathering
+[scene] (p.221) He arrives first at the corridor classroom; Utomiya joins; they talk about Hatano's expulsion and the rep system.
+[says] (p.221) “Hey Utomiya-kun. I was thinking you would be the person from Class C to attend this gathering.”
+[says] (p.222) “Isn’t it because they believe you to be a reliable student that they sent you? I saw this month’s updated OAA, and your Social Contribution has been raised to a B.”
+[says] (p.222) “About 50/50 chance he’d come?”
+[says] (p.223) “If he fails to show up this time, then we’ll just be forming groups within the remaining classes. With that, Class D who were trying to extort us at high prices would be left alone, and their chances of winning would disappear as a result.”
+[says] (p.223) “It might seem like that on the surface, but I don’t think that’s Housen-kun’s endgame.”
+[says] (p.223) “If he truly intended on carrying out this strategy, isn’t that a blessing? That just means Housen-kun’s not that much of a threat to our classes.”
+[scene] (p.223–225) Takahashi arrives; talk turns to whether to include Class D; Housen appears.
+[says] (p.225) “Looks like you came after all, Housen-kun.”
+[says] (p.225) “That’s such a bad joke. I am not giving you a penny.”
+[note] (p.229) “Takahashi-kun is right. The most important thing now is to focus on the uninhabited island exam.” — untagged in the translation; speakers unassigned as printed.
+[says] (p.230) “We’re wasting time, shall we begin?”
+[says] (p.230) “Then why are you here? To simply pass the time?”
+[says] (p.230) “I don’t believe that. You’re not that stupid.”
+[says] (p.231) “Of course, there are some individually outstanding students. However, you can’t deny the fact that we are weaker in terms of overall ability. Not everyone is as lucky as you, Housen-kun.”
+[says] (p.231) “That’s why— I think it’s necessary for us to join forces and at least form one strong ‘group of 4’ in our year. Just like what Housen-kun said, form a group with students that won’t lose to the 2nd and 3rd years.”
+[says] (p.231) “Because the rules of this exam makes cooperation within the same year difficult, it’s hard for the 2nd and 3rd years who don’t have much time left to squander this opportunity away to gain Class Points. On the other hand, we 1st years have more than two years left, which is why we should simply give up on the Class Points.”
+[says] (p.232) “Of course, you’re right. However, if we want to create a lot of strong groups from the get go, we’ll have to consider the balance of each team. Our opponents are older students, and they won’t be easy to beat. That’s why we should focus on forming a strongest team of 4 that can get first place. Besides, it seems like it’ll be difficult to form big groups freely during the official exam, and even if the older students cooperate with each other, they can only choose 3 people from 3 classes to work together.”
+[says] (p.232) “We can still form a really strong group if we ignore Housen-kun and cooperate with just three classes, but if we do that, we’ll be on the same playing field as the other years. That’s why I strongly hope that all four classes will cooperate with each other, not only for the sake of selecting strength from the classes but also because I think that it’s essential for our class year to have a sense of unity to fight together in this exam. Only us first years are allowed to form ‘a small group with up to 4 members,’ so we should take advantage of this rule. It would be a waste to throw away the upper hand that we were given.”
+[says] (p.233) “I fully understand that you have the ability to compete with the upperclassmen alone, which is why I hope you can lend us a hand.”
+[says] (p.233) “Then, tell us your conditions.”
+[says] (p.234) “I see. If we can’t group with the two Class D students once the exam starts, then we would just clear it with the four of us.”
+[says] (p.234) “After all, if you’ve already prepared the strongest small group of four, whether or not they merge into the big group shouldn’t affect the result of the exam, right?”
+[says] (p.234) “Calm down, Utomiya-kun, I’m fine with this condition.”
+[says] (p.234) “The most important thing for us 1st years is to work together as a team and to not lose to the other years.”
+[says] (p.234) “Then, do you think the outcome will be any different if we abandon Housen-kun’s Class D here?”
+[says] (p.234) “The most important thing in this exam is for us 1st years to win. If we do, nothing else can be considered as a loss.”
+[says] (p.234) “I agree. I understand how you feel, Riku, but first, we must have the 1st years work together.”
+[says] (p.235) “Lastly, there’s one more thing I want to say. This is necessary for us first years to work together as a team. In order to avoid any disputes among us, I want to redistribute the item cards with rewarding effects in order to make the most out of them. It’s also important to give students lacking the abilities Half-Off cards and place them in the same group. Are you fine with that, Housen-kun?”
+[says] (p.235) “At least, I think that all of us who participated here can be in the strongest team, of course that’s including Housen-kun. Right?”
+[says] (p.235) “Well, let’s carefully decide on that later. For now, isn’t it already good enough that we’re on the same page?.”
+[says] (p.235) “If we work together, we can definitely get 1st place. Let’s first aim for that.”
+[note] (p.225) “It doesn’t seem like we can, Riku.” — untagged in the translation; speakers unassigned as printed.
 
-### y2v2 p.250–258 — Yagami defects: reveals the bounty to warn Ayanokōji
-[scene] (p.250) Walks with Ayanokōji and Kushida to Keyaki Mall (joined the student council, asked Nagumo about the prior island exam), then reveals the secret exam.
-[says] (p.252) "there's something I want to tell you, Ayanokouji-senpai. There's a special exam that only a very small of 1st year students have been informed about."
-[says] (p.253) "In April, I received a notification about this. However, since I wasn't interested in getting paid for setting people up, I decided not to participate."
-[says] (p.253) "I recently heard that Housen-kun had failed in his first attempt."
-[says] (p.254) "For the sake of protecting the first year students, I was going to be a complete bystander."
-[says] (p.254) "if I don't do anything about it, Ayanokouji-senpai… depending on the situation there's a possibility that the situation will also affect your classmate, Kushida-senpai."
-[says] (p.254) "It all started when I was contacted by President Nagumo of the student council."
-[says] (p.255) "The student council president Nagumo-senpai told the six of us that he'll give 20 million points to the student who got him expelled."
-[says] (p.257) "In fact, I've already confirmed with my own eyes that he has 20 million points."
-[says] (p.257) "When the student council president announced the exam, the acting director was also present."
-[says] (p.258) "I'm already prepared to be hated by the 1st years, because I'm going to have to face the other classes sooner or later."
-[trait] (p.250–258) An honor student (A in academics, beautiful calligraphy from a calligraphy-teacher grandfather) who is unobnoxious and principled — refuses the bounty, defects to warn Ayanokōji out of concern for Kushida and the first-years, and accepts he'll be hated; a defensive fighter willing to strike pre-emptively.
-[rel:ayanokouji-kiyotaka] (p.250–258) Warns him about the bounty and Nagumo/Tsukishiro's involvement.
-[rel:kushida-kikyou] (p.252–258) His middle-school senpai whom he admires; asks her to help arrange the meeting and worries the situation will affect her.
-[rel:nagumo-miyabi] (p.254–257) Summoned him and offered the bounty; he confirmed Nagumo has 20 million points.
-[rel:utomiya-riku] (p.255) Fellow bounty participant from Class 1-C; notes Utomiya may have told someone in his class.
+### y2v2 p.246–251 — The walk to Keyaki Mall; the café
+[scene] (p.246–247) He appears from the corridor corner; the rare black tea invite; Kushida deflects for him; they compromise on the mall café.
+[says] (p.246) “Nice to meet you, Ayanokouji-senpai. Thank you very much for taking your time to see me today.”
+[says] (p.246) “Standing is sort of… for the place, what about we go to my room to talk? The rare black tea I had ordered happened to arrive already. Although it takes some time to steep, it’s very delicious!”
+[says] (p.247) “I see, that’s fine. Let’s talk at the cafe in Keyaki mall then.”
+[says] (p.247) “Oh, by the way, the special exam on the uninhabited island is about to start. I heard that you guys had the same special exam last year.”
+[says] (p.247) “Could you tell me about the rules and what happened? Since we haven’t experienced the exam as 1st years, we want to at least gather some information beforehand.”
+[says] (p.248) “Are you surprised? That I have information about the 3rd years.”
+[scene] (p.251–262) The café table; Tsubaki stations herself behind; he defects and gives the briefing.
+[says] (p.251) “Just a minute.”
+[says] (p.252) “My grandfather told me that even if I’m not good at studying, I should still be able to write well.”
+[says] (p.252) “Yes, because my grandfather is a calligraphy teacher.”
+[says] (p.252) “Actually— You might think, why I am talking to you after all this time, but there’s something I want to tell you, Ayanokouji-senpai. There’s a special exam that only a very small of 1st year students have been informed about. You already know about this, right? ”
+[says] (p.253) “In April, I received a notification about this. However, since I wasn’t interested in getting paid for setting people up, I decided not to participate.”
+[says] (p.253) “I recently heard that Housen-kun had failed in his first attempt. However, Ayanokouji-senpai’s left hand was injured in the process. I wouldn’t have been surprised if he did something inhumane but this was beyond my expectations.”
+[says] (p.253) “For the sake of protecting the first year students, I was going to be a complete bystander. However, if I don’t do anything about it, Ayanokouji-senpai… depending on the situation there’s a possibility that the situation will also affect your classmate, Kushida-senpai. That’s why I asked Kushida-senpai to help me out.”
+[says] (p.254) “Can I continue to talk like this?”
+[says] (p.254) “It all started when I was contacted by President Nagumo of the student council. He instructed that one or two representatives were to be sent from each class and would secretly gather in the student council room. Actually, we were summoned there shortly after entering the school.”
+[says] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students.”
+[says] (p.254) “The special exam was to get the 2nd year student Ayanokouji-senpai expelled from the school.”
+[says] (p.255) “The deadline was the beginning of the 2nd semester, and you could use any means. In addition, we weren’t allowed to tell anyone about the special exam. However, since Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
+[says] (p.255) “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
+[says] (p.255) “I too think the problem lies in how I expressed it as. I’m calling it a special test, but it would be easier to understand if you think of it as a challenge that President Nagumo made up on his own and gave to the first year students.”
+[says] (p.256) “Wh-why is it Ayanokouji-kun? Are there no other students apart from him?”
+[says] (p.256) “As far as I know, it’s only Ayanokouji-senpai. As for why it’s him, I don’t think there’s a specific reason behind that. President Nagumo said that the student was selected at random from the 2nd years’. It was a simple game of chance, 1 in 157.”
+[says] (p.256) “Yes. Although it might not sound good… Could it be a lie, a joke? I really can’t believe he prepared 20 million points for an exam from an unknown source like this.”
+[says] (p.257) “In fact, I’ve already confirmed with my own eyes that he has 20 million points.”
+[says] (p.257) “Apart from the disagreeable content of the exam itself, there’s nothing else unpleasant about it. I think that other than me, all the other students welcomed it. It’s being treated as a legitimate special exam.”
+[says] (p.257) “No, it’s not because we trust the president of the student council that we’re participating in the exam.”
+[says] (p.257) “When the student council president announced the exam, the acting director was also present.”
+[says] (p.258) “It’s fine, Kushida-senpai. I didn’t hear about any punishment for talking about this to anyone.”
+[says] (p.258) “Plus I’m already prepared to be hated by the 1st years, because I’m going to have to face the other classes sooner or later.”
+[says] (p.259) “Yeah.”
+[says] (p.259) “Generally speaking, Housen-san from Class 1-D is someone you need to be alert against. His complete disregard for the rules is very troublesome.”
+[says] (p.259) “I feel like this isn’t something I should be telling you senpais. If I list the names of who to watch out for, they’ll of course be marked by the senpais. While I think that is important for you to know, I don’t think it’s fair to them if I tell you, although I already marked Housen-kun.”
+[says] (p.260) “I’ll try to investigate in the next special exam. Once I’m sure that he’s a threat, I’ll tell you, Ayanokouji-senpai.”
+[says] (p.260) “Yeah. Also… after the exam on the uninhabited island is over, can I meet you alone for a bit? I’d like to talk to you, Kushida-senpai.”
+[says] (p.261) “No problem. I felt bad that you were the only one at a disadvantage, Ayanokouji-senpai.”
+[says] (p.261) “You saying that, is more than enough for me. If Ayanokouji-senpai drops out of the school, it’s going tobe very hard on your class, Kushida-senpai. I really want you to graduate from Class A.”
+[says] (p.262) “You have plans?”
+[says] (p.262) “No, I just want to stay out of sight from the other 1st years.”
+[note] (p.246–262) Yagami is 1-B's leader, A in academics, C+ in physical, his grandfather a calligraphy teacher; he was secretly summoned in April with five others; he never told anyone; he confirmed Nagumo has the 20M; Tsukishiro was present; he wants to confess to Kushida after the island exam.
+[trait] (p.246–262) Warm, precise, principled; a defensive fighter who strikes pre-emptively; uniquely dangerous to himself.
+[rel:kushida-kikyou] (p.246–262) His middle-school senpai; he intends to speak to her alone after the exam.
+[rel:ayanokouji-kiyotaka] (p.246–262) He warns him for nothing in return.
+[rel:nagumo-miyabi] (p.254–257) The summoner; the 20M pot holder.
+[rel:tsukishiro] (p.257) He confirms the Acting Director was present at the announcement.
+[rel:utomiya-riku] (p.255) His co-conspirator from Class 1-C, who may have told someone.
+[rel:housen-kazuomi] (p.254) He's on the summoned list.
+[rel:nanase-tsubasa] (p.254) She's on it too.
+[rel:takahashi-osamu] (p.254) He's on it too.
+
+<!-- walk: y2v2 Ch.4 → p.262 -->
+
+### y2v2 p.220–269 — Coverage note: passing mentions
+[mentioned] (p.220) “Takuya Yagami from Class 1-B stood up and calmed those voices.”
+[mentioned] (p.240) “both of you women are bolder than Yagami and Takahashi.”
+[mentioned] (p.264) “After Kushida and Yagami left, I approached the convenience store.”
+[mentioned] (p.266) “Was it about Yagami, or the special exam?”
+[mentioned] (p.269) “Even though Yagami had already informed me on this matter, I pretended not to know about it.”
+[mentioned] (p.269) “On the other hand, Tsubaki also didn’t mention my contact with Yagami.”
+
+<!-- walk: y2v2 Coverage note → p.269 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -6,6 +6,12 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+
+### y2v2 p.254 — Coverage note: passing mentions
+[mentioned] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D.”
+
+<!-- walk: y2v2 Coverage note → p.254 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

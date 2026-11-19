@@ -284,25 +284,79 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.111–116 — Nanase walks with Ayanokōji to school
-[scene] (p.111–116) She greets him on the way to school, apologizes for the expulsion attempt, and shares 1st-year intelligence: the special exam is still active until the second semester, Class 1-D placed third in their second exam, and Hōsen is now focused on fighting 2nd years.
-[says] (p.112) "I've always felt sorry for what I did to you, Ayanokouji-senpai."
-[says] (p.114) "One boy dropped out of Class C in the first year."
-[says] (p.116) "You must not leave any regrets in your school life as well, Ayanokouji-senpai"
-[trait] (p.111–116) Mature and remorseful — she has shed her naivety and fits in well with the school.
-[rel:ayanokouji-kiyotaka] (p.111–116) She walks with him and shares intelligence.
+### y2v2 p.68–72 — Named by Ayanokōji (Ch.2 backreference)
+[note] (p.68–72) He names her in his secret-exam intel exchange with Horikita; not present in those pages — see Horikita's ledger and Ayanokōji's.
+
+### y2v2 p.111–116 — The confession on the way to school
+[scene] (p.111) She is on her way to school alone on the mid-June morning; she falls into step with him or he falls into hers.
+[says] (p.112) “Good morning, Ayanokouji-senpai.”
+[says] (p.112) “Is there something in the sky?”
+[says] (p.112) “Looking at the blue sky, huh?”
+[says] (p.112) “What a beautiful day.”
+[says] (p.112) “Yes, we haven’t met for about a month and a half.”
+[says] (p.112) “I’ve always felt sorry for what I did to you, Ayanokouji-senpai.”
+[says] (p.112) “Senpai, do you hate me?”
+[says] (p.112) “No, the exam is still going on. The deadline is the start of the second semester.”
+[says] (p.113) “Are you wondering why I haven’t visited you since then?”
+[says] (p.113) “Because of what happened last time, I’m convinced that even with a plan, it might not work out that easily. Also, after you knew our purpose, it would be very hard to pressure you in your everyday life.”
+[says] (p.113) “I don’t know how, but I think they already know that Housen-kun has already made a move.”
+[says] (p.113) “I don’t know if that’s worth the cost of your left hand, senpai.”
+[says] (p.114) “Yes. I think the students in my grade, including myself, have become able to deal with all sorts of special situations. Although I don’t know how much the upperclassmen know, us 1st years had taken our 2nd special exam at the end of May.”
+[says] (p.114) “Ah, so you do know about it? One boy dropped out of Class C in the first year.”
+[says] (p.115) “How did your Class D place in the results of the exam?”
+[says] (p.115) “The previous time, we came in last, and this time, unfortunately, we only made third. But this time, Class A and B battled fiercely, so the point difference created between the classes is very small.”
+[says] (p.115) “It’d be a lie if I said he hadn’t done anything. But it’s true that he has nothing to do with this time’s expulsion. You’re the only one in his eyes now, Ayanokouji-senpai.”
+[says] (p.115) “Although it’s a far-fetched theory based on only the result, I think it’s thanks to you that he has become a bit more well-behaved. I guess you could say that he’s taking some of the energy focused on the first year students and placing it on the upperclassmen. Recently, he keeps saying things like, “Let me fight the 2nd years”. That’s just great.”
+[says] (p.116) “I hope I can spend my school life here without any regrets.”
+[says] (p.116) “You must not leave any regrets in your school life as well, Ayanokouji-senpai”
+[says] (p.116) “Then I’ll take my leave.”
+[note] (p.111–116) Her 1-D placed 3rd at the end-of-May exam; Class C lost a boy; her apology changes nothing and she knows it; the strong determination is still in her eyes.
+[trait] (p.111–116) Cold, composed, and not forgiving herself; she carries the plan as her duty; she watches the blue sky the way a sniper watches a road.
+[rel:ayanokouji-kiyotaka] (p.111–116) She apologizes; he absolves; neither moves.
+[rel:housen-kazuomi] (p.115–116) His new obsession is the 2nd years; she's disgusted and relieved.
 
 <!-- walk: y2v2 Ch.3 → p.116 -->
 
+### y2v2 p.236–242 — The alliance terms with Housen
+[scene] (p.236–238) She arrives late to the café; she checks the terms; she challenges Amasawa once.
+[says] (p.237) “We should be on equal footing. Didn’t I already say that before?”
+[says] (p.239) “You’ve got guts, eh? Trying it here.”
+[says] (p.239) “You’re not bad yourself.”
+[says:housen-kazuomi] (p.239) “Nanase and I, and you. We’ll form a group of three. Alright?”
+[says:amasawa-ichika] (p.241) “It’s true that if you give me the bounty for getting him expelled, you won’t get any money, but the reputation for getting Ayanokouji-senpai expelled will be given entirely to you Housen-kun. Is that enough for you to accept the condition?”
+[says:housen-kazuomi] (p.241) “Shut up, Nanase.”
+[says] (p.242) “Are you sure about this?”
+[says:housen-kazuomi] (p.242) “Yeah.”
+[says] (p.242) “Alright, since you’re the one who makes the decision after all. But are you sure it’s okay to trust Amasawa-san? I think she’s the type who would betray her partners without giving it a second thought.”
+[says:housen-kazuomi] (p.242) “Trust? Don’t just assume that I trust her. That goes for you too, I don’t trust either of you.”
+[says] (p.242) “Then why did you decide to group up with her?”
+[says] (p.242) “I see, that may be true. Even so, 20 million points is too much.”
+[says] (p.242) “You really are a terrible person.”
+[note] (p.236–242) She is the pressure-holder; she tries to veto the Amasawa deal and fails; she stays anyway — she has nowhere else to go.
+[rel:housen-kazuomi] (p.236–242) Her Class D co-conspirator.
+[rel:amasawa-ichika] (p.237–242) The rival she cannot push out.
+[rel:ayanokouji-kiyotaka] (p.241) She will be standing in the island exam against him.
 
-### y2v2 p.336–337 — Tsukishiro reveals Nanase as the enforcer
-[scene] (p.336) Stands with Tsukishiro as buses arrive, responding without emotion to his question about the late July heat; pressed to finally expel Ayanokōji.
-[narrates] (p.336) "Yes, you are right." — her emotionless reply
-[narrates] (p.336) "You're saying I should— expel Ayanokouji Kiyotaka?"
-[narrates] (p.337) "—Yes. I won't hesitate anymore."
-[trait] (p.336–337) The White Room enforcer whose left hand clenches as if brimming with natural power when Tsukishiro names her — after his urging she resolves to stop hesitating and act in the island exam; Tsukishiro calls her "Nanase Tsubasa-san."
-[rel:tsukishiro] (p.336–337) Her handler; pressures her to expel Ayanokōji before his tenure ends and promises they'll return to their "previous life."
-[rel:ayanokouji-kiyotaka] (p.336–337) Her target; she agrees to act without hesitation.
+<!-- walk: y2v2 Ch.4 → p.242 -->
+
+### y2v2 p.336–337 — Nanase renews her vow
+[scene] (p.336) The bus lot; she stands before Tsukishiro; his back is turned to her.
+[says] (p.336) “Yes, you are right.”
+[says] (p.336) “You’re saying I should— expel Ayanokouji Kiyotaka?”
+[says] (p.336) “It’s confirmed that he isn’t an easy opponent to beat. No, it’s something we’ve known from the very beginning.”
+[says] (p.337) “You mean you’ve been forced to be unreasonable?”
+[says] (p.337) “—Yes. I won’t hesitate anymore.”
+[note] (p.337) Her left hand is tightly clenched as if brimming with natural power; Tsukishiro smiles at the sight of it.
+[rel:tsukishiro] (p.336–337) The handler promises to free her.
+[rel:ayanokouji-kiyotaka] (p.337) She swears to get him.
+
+<!-- walk: y2v2 Epilogue → p.337 -->
+
+### y2v2 p.254 — Coverage note: passing mentions
+[mentioned] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students.”
+
+<!-- walk: y2v2 Coverage note → p.254 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->

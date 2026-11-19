@@ -1173,29 +1173,63 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.168–177 — Ike tries to form a group with Shinohara
-[scene] (p.168–171) He tries to recruit Shinohara into his group, selling his boy-scout skills; Kushida interrupts with an invitation from Kobashi (Class C).
-[scene] (p.174–177) He is upset when Shinohara agrees to meet Komiya at a café.
-[trait] (p.168–177) Anxious and emotionally invested — he worries about Shinohara and wants to protect her.
-[rel:shinohara-satsuki] (p.168–177) He is trying to form a group with her.
-[rel:komiya-kyogo] (p.174–177) He is jealous of Komiya's invitation.
+### y2v2 p.18–22 — Ike's cheating theory
+[scene] (p.18) Remembers the spring past-questions incident; supplies the leaked-paper hypothesis out loud.
+[says] (p.18) “It’s definitely possible. Like seeing the question paper beforehand or something. Remember, didn’t that happen in the 1st year as well? It was the one test that asked the exact same questions as the previous years!”
+[scene] (p.19) He pushes the hacking angle; Shinohara beside him cannot follow the leap.
+[says] (p.19) “Hacking the school computers and stealing the answers or something! Isn’t that possible!”
+[scene] (p.20–21) Pushes Sudō on the fairness front; then, absorbing Karuizawa's holding-back theory, lands his did-not-contribute complaint.
+[says] (p.20) “What do you mean, Ken? Don’t tell me you’re taking Ayanokouji’s side?”
+[says] (p.21) “Well isn’t that even more of a problem? Doesn’t that mean he didn’t contribute to the class?”
+[note] (p.19–22) Ike is a long-time Sudō friend; the betrayal-of-the-circle reading of the perfect score simmers underneath the jokes.
+[rel:sudou-ken] (p.19–22) He goes for the obvious angle with his old friend on the other side.
+[rel:shinohara-satsuki] (p.18–19) She stands beside him.
+[rel:miyamoto-soshi] (p.18–20) They trade the evidence.
 
-<!-- walk: y2v2 Ch.3 → p.177 -->
+<!-- walk: y2v2 Ch.1 → p.22 -->
 
-### y2v2 p.12–22 — Ike suggests cheating via past papers
-[scene] (p.18) He loudly recalls a past cheating incident where a classmate got past exam questions from a third-year, suggesting Ayanokōji might have done the same.
-[says] (p.18) "It's definitely possible. Like seeing the question paper beforehand or something."
-[trait] (p.18) Quick to jump to conspiratorial explanations.
+### y2v2 p.169–177 — The boy-scout confession attempt
+[scene] (p.168–169) Ayanokōji passes the elevator; Ike waits in the lobby and follows Shinohara outside.
+[says] (p.169) “Hey, Shinohara.”
+[says] (p.169) “Uh, it’s gotta do with that. Ya know, the groups for this new uninhabited island exam… Have you talked to anyone about grouping up yet?”
+[says] (p.169) “Nothing. Just askin’ is all.”
+[says] (p.169) “Sorry. It’d probably be a blast to be with them.”
+[says] (p.170) “But, well, those guys can get by on their own, ya know… plus, like, Ken’s pretty strong, so I think they’ve got more than enough manpower with just him in the group.”
+[says] (p.170) “How do I say this. I should be able to help you where you need it… So, if you’re feeling troubled… uh, I can form a group with you, yeah?”
+[says] (p.170) “You saw it last year, right? I’m a boy scout, so I’d like to think I’m pretty useful in an exam like this.”
+[says] (p.170) “Ah, hey, don’t get me wrong. You see, you’re one of those people at risk of being expelled right? Which is why I’m being nice here and offering to make some sacrifices to protect you!”
+[scene] (p.171–172) Kushida taps his shoulder mid-sentence; he's gone before Shinohara can answer.
+[says] (p.171) “What, what is it!? I’m super free right now!”
+[says] (p.171) “Seriously? Let’s go, let’s go! I’ll go right now!”
+[says] (p.171) “You’re the one who’s been bothering me!”
+[scene] (p.175–177) Back in class he erupts; then trails Shinohara out and follows Komiya's lead to the café; he sulks at a distance.
+[says] (p.175) “Huh? You, er… found someone to group up with?!”
+[says] (p.176) “Ah, that wasn’t like that! I even turned them down for you, you know!”
+[says] (p.176) “Group… Who did you decide to group up with?”
+[says] (p.176) “Nothing, but I’m just curious, okay?”
+[says] (p.176) “Ah? Komiya? Komiya, he’s that flashy guy on the basketball team, right? Unbelievable!”
+[note] (p.172) Shinohara simply watches from beside him as he runs off with Kushida — not speech.
+[scene] (p.185–186) He slumps outside the café as Komiya and Shinohara laugh inside.
+[note] (p.175–186) Hirata worries about what will happen if he watches that scene in his state; Yousuke proposes checking on him.
+[rel:shinohara-satsuki] (p.169–186) The girl he can't get to look at him.
+[rel:kushida-kikyou] (p.171) She redirects him to Kobashi's invite.
+[rel:hirata-yousuke] (p.177–186) He comes to check on him.
+[rel:komiya-kyogo] (p.172–186) His rival, in the café, alive and talking.
 
-<!-- walk: y2v2 Ch.1 → p.18 -->
+<!-- walk: y2v2 Ch.3 → p.186 -->
 
-### y2v2 p.169–176 — Ike wants to group with Shinohara
-[says] (p.169) "uh, it's gotta do with that. Ya know, the groups for this new uninhabited island exam… Have you talked to anyone about grouping up yet?"
-[says] (p.170) "you're feeling troubled… uh, I can form a group with you, yeah?"
-[note] (p.169–176) Ike essentially wants a reason to group with Shinohara (he "just wanted a reason to group up with her"); Ayanokōji suggests he discuss it with her directly; Ike is shocked to learn Shinohara has already decided on a group.
-[trait] (p.169–176) Eager and lovestruck — wants to be Shinohara's group partner, tries to help Ayanokōji as a pretext, and is flustered when he learns she's already grouped.
-[rel:shinohara-satsuki] (p.169–176) Wants to form a group with her.
-[rel:ayanokouji-kiyotaka] (p.169–176) Asks his advice about grouping.
+### y2v2 p.54–198 — Coverage note: passing mentions
+[mentioned] (p.54) “Sudou must have heard the details from Ike or Hondou afterwards.”
+[mentioned] (p.61) “But if it were another student such as Ike or Hondou in that situation, there could have been different developments.”
+[mentioned] (p.191) “It’s Ike. Ike from my class likes Shinohara.”
+[mentioned] (p.194) “After all, even though Ike and Shinohara liked each other, neither was willing to take a step forward.”
+[mentioned] (p.195) “I expressed my concerns to Horikita about the current situation between Ike, Shinohara, and Komiya and that it might affect this upcoming uninhabited island exam.”
+[mentioned] (p.196) “Why don’t we just make Ike-kun confess? If Shinohara-san accepts, Ike-kun will fight hard to stay at the school no matter what group he’s in, right?”
+[mentioned] (p.197) “Since we’ve already reached this point, we must take measures to prevent Ike-kun’s loss of motivation.”
+[mentioned] (p.198) “Today’s conversation focused on the groupings for the exam, starting with the fight between Ike and Shinohara.”
+
+<!-- walk: y2v2 Coverage note → p.198 -->
+
 ## y2v3
 
 <!-- walk: y2v3 → start -->
