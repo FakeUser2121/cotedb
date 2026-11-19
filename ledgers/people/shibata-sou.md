@@ -323,9 +323,18 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.7) Passing mentions on pages: p.128, p.130, p.132.
 [mentioned] (p.7) Passing mention only.
 
+### y2v5 p.128–132 — Shibata: the front-row sceptic
+[says] (p.128) "Who's the guy who voted in favour? You pressed the wrong button."
+[note] (p.128) Adjacent narration names him explicitly ("it was Shibata sitting in the front who turned around and said so.").
+[scene] (p.130) The whole class is looking at Kanzaki with the same doubt — "It's not just Shibata who's unconvinced that the vote in favour wasn't a mistake."
+[says] (p.132) "It won't last forever."
+[note] (p.132) The alternation puts this line in Shibata's mouth (Kanzaki: "Let's face it, Shibata. The situation is very different from last year."); printed untagged; adjacent-context attribution.
+[says] (p.132) "You're the one who should look at the current situation, Kanzaki."
+[note] (p.132) Same alternation; printed untagged; adjacent-context attribution.
+[rel:kanzaki-ryuuji] (p.128–132) His most vocal foil in the argument about the vote.
+[rel:ichinose-honami] (p.130–132) Her class leader; Shibata is her loyal loudtail.
 
-
-
+<!-- walk: y2v5 Ch.5 → p.139 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

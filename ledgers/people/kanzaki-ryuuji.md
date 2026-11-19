@@ -703,6 +703,8 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [trait] (p.127–138) The "general advisor" who quietly supported the class but can no longer endure its lack of crisis awareness — deliberately votes "for" repeatedly to force debate, names "normality bias," and offers himself for expulsion as the only way to shake the class; after hours of deadlock he finally gives up and chooses to protect his classmates, letting the vote become unanimous against.
 [rel:ichinose-honami] (p.131–132) Her refusal to weigh points against friends defeats him; he calls her class's kindness its "major disadvantage."
 [rel:hoshinomiya-chie] (p.127–135) His teacher — the only one who listened to his plea but couldn't sympathize publicly.
+
+<!-- walk: y2v5 Ch.5 → p.139 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->
