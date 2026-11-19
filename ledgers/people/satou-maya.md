@@ -491,10 +491,34 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — satou-maya mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.13, p.15-20, p.26-27, p.54, p.85-86.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.13 — The maid café planner
+[scene] (p.13) Satō is one of the six maid café planners — Satō, Matsushita, Mii-chan (Wang), Maezono, Horikita, Ayanokōji; the planners were mainly held via cell phone after the initial presentation.
+[rel:wang-mei-yu] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
+[rel:matsushita-chiaki] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
+[rel:maezono] (p.13) The planners' circle: Satō, Matsushita, Mii-chan.
+[rel:horikita-suzune] (p.13) The planners' circle including Horikita.
+
+### y2v7 p.15–22 — Quiet and distracted; the floor vote
+[scene] (p.15) On the floor-inspection walk, Satō — who was always high-spirited and often speaks even when she's not heard — has been rather quiet since this morning; her friends look at her with concern; she looks as if her mind is somewhere else.
+[says] (p.15) “Oh, um. I was thinking... yeah, I guess I think it's a little far away too.” — Satō hurriedly replies, looking up at them.
+[note] (p.15) “What do you think, Satō-san?” — Mii-chan asks; “Satō-san?” again; “It's a lot farther than I thought it would be.” — Mii-chan's first impression was still about the distance.
+[note] (p.15) “I don't think all of us will be able to make the trip here unless we have a pretty good show.” — printed untagged (Satō or Wang); not assigned.
+[note] (p.16) “Sato-san has been like that lately.” — Matsushita, noticing Ayanokōji's concern, whispered over to him.
+[note] (p.17) Matsushita on Satō: “It's like she wants to talk but can't. She's the type of person who keeps things inside.” — “Then I guess we'll have to wait and see for a while longer. If your understanding is correct, I'm sure she'll come to you for advice at some point.” — Ayanokōji advises waiting.
+[says] (p.18) “Huh? Oh, um, yeah. A little bit.” — Satō, addressed by Mii-chan (“That was a little scary...”).
+[note] (p.18–22) Satō is at every planning beat — floors, rock-paper-scissors, the butler-café talk, the cleanliness check, the uniforms; present in the circle, silent at the edges.
+[rel:matsushita-chiaki] (p.16–18) Matsushita is the one who notices Satō's unusually quiet state and keeps watch over her.
+[rel:wang-mei-yu] (p.15–18) Mii-chan checks in with Satō on the walk and after the Hashimoto probe.
+
+### y2v7 p.26 — Kei arrives; Satō's gaze
+[scene] (p.26) The next morning at the dormitory-side street, Kei and Ayanokōji arrive at the classroom; Satō, who arrived early, spotted Kei and got up to run to her.
+[says] (p.26) “G-Good morning, Kei-chan.” — Satō runs to Kei.
+[says:karuizawa-kei] (p.26) “Good morning, Maya ~” — Kei, giving Ayanokōji a gaze, excuses herself and starts closely chatting with Satō.
+[note] (p.26) Their usual chit-chat, or maybe friendlier than usual; the circle of happiness began to spread to the other girls, even those not typically involved — Shinohara, and Mii-chan, who'd been struggling for a while.
+[rel:karuizawa-kei] (p.26) She and Kei are the closest of friends; Kei's growth is immediately visible to her.
+[rel:shinohara-satsuki] (p.26) Shinohara is drawn into the Satō–Kei circle despite struggling.
+[rel:wang-mei-yu] (p.26) Mii-chan is drawn into the circle too.
+[rel:ayanokouji-kiyotaka] (p.26) She gives him a “gaze” of hurt and jealousy — remembered from the morning with Kei.
 
 ## y2v8
 

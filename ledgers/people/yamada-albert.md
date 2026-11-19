@@ -307,13 +307,10 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — yamada-albert mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: none.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.28 — Albert with Ryūen
+[scene] (p.28) Albert is with Ryūen, Ishizaki and Kaneda in the hall at the secret announcement.
+[note] (p.28) “Ryūen led the way, with Ishizaki, Albert, and Kaneda following behind.” — no lines; present as part of the group.
+[rel:ryuuen-kakeru] (p.28) He arrives with Ryūen.
 
 ## y2v8
 

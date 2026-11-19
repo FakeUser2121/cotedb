@@ -108,13 +108,12 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — onodera-kayano mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.8-9, p.99-100.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.8–9 — Additional funds: 10,000 club activity bonus
+[scene] (p.8) The additional-funds breakdown is displayed: Onodera Kayano earns 10,000 points — club activity bonus, the maximum, shared with Horikita and Sudō; the class's total 39,400.
+[number] (p.8) Onodera Kayano's additional funds: 10,000 (club activity, the maximum) — “● Onodera Kayano, Club Activity Bonus:10,000 points”
+[note] (p.8–9) “Other students, such as Sudō and Onodera, were considered to be head and shoulders above the rest in their contributions to club activities throughout the entire school year.” — the narration.
+[rel:sudou-ken] (p.8) They share the club activity maximum.
+[rel:horikita-suzune] (p.8) They share the club activity maximum; Horikita holds the third 10,000 (student council member bonus).
 
 ## y2v8
 

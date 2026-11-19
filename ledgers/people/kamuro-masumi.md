@@ -367,10 +367,12 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kamuro-masumi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.17-18.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.17–18 — Scouting with Hashimoto and Sakayanagi
+[scene] (p.17) Kamuro is with Hashimoto calling out from the second floor; Sakayanagi appears with them; they, too, are scouting for the festival.
+[says] (p.18) “She doesn't like you, does she?” — Kamuro said, playing with the bad atmosphere in the room.
+[note] (p.17) “With all three of them moving at the same time, surely they weren't just out for a light stroll.” — the trio's real purpose stays hidden.
+[rel:hashimoto-masayoshi] (p.17–18) He plays with Hashimoto's probe; she deflects.
+[rel:sakayanagi-arisu] (p.17–18) The three scout together.
 
 ## y2v8
 

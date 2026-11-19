@@ -817,10 +817,14 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ishizaki-daichi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.27-28, p.91, p.96-98, p.189.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.27–28 — The lobby loudmouth
+[scene] (p.27–28) Ike carries the lobby rumor back into the classroom — Ishizaki is one of the three talking loudly (with Suzuki and Nomura); Ryūen brings him along to Suzune's room.
+[says] (p.28) “Y-yes.” — Ishizaki, looking around the room with a slightly nervous look on his face.
+[note] (p.28) “Ishizaki looked around the room with a slightly nervous look on his face” — the leak from the sports-festival-cooperative group's side.
+[rel:ryuuen-kakeru] (p.28) He arrives with Ryūen in the group.
+[rel:ike-kanji] (p.27) He is named by Ike as one of the three in the lobby.
+[rel:suzuki-hidetoshi] (p.27) He is named by Ike as one of the three in the lobby.
+[rel:nomura-yuuji] (p.27) He is named by Ike as one of the three in the lobby.
 
 ## y2v8
 

@@ -1186,13 +1186,17 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sakura-airi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.6, p.13, p.25, p.102, p.131.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.6 — Prologue: the friend whose expulsion broke things
+[scene] (p.6) Sakura Airi is the friend whose expulsion broke Hasebe Haruka's reconnection; Haruka names “Kiyopon, Yukimū, Miyachi and… Airi” as the friends she made again, and Airi's expulsion as the wound.
+[note] (p.6) “Who stole it? That's obvious. Horikita Suzune and Ayanokōji Kiyotaka.” — Haruka's monologue; “I became a victim of the selfish actions of those two people. I can't forgive them. There's no way I can.” — “I decided to get revenge.”
+[rel:hasebe-haruka] (p.6) Her expulsion is the wound at the root of Haruka's revenge decision.
+<!-- walk: y2v7 Prologue → p.6 -->
 
+### y2v7 p.13 — The reason the lower ranks study
+[mentioned] (p.13) “Anyways, one could even say, due to the expulsion of Airi from the school, the lower ranked students started working even harder.” — the narration; the post-expulsion shift in the class's motivation.
 
-
+### y2v7 p.25 — Sudō's “Sakura”
+[mentioned] (p.25) Sudō, grinding his teeth at the sight of Haruka and Akito: “I wasn't particularly close to Sakura, but I've had similar experiences.” — he measures Haruka's situation against his own past with Yamauchi.
 
 ## y2v8
 

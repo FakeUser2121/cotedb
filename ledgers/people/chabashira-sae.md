@@ -1482,6 +1482,26 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.7–13 — The festival briefing; the additional-funds announcement
+[scene] (p.7) Monday, November 1st; Chabashira opens homeroom with the festival review and the additional-funds details; the students sit in serious, disciplined silence.
+[says] (p.7) “I believe preparations are steadily progressing for the cultural festival, but I have some additional explanatory notes. First of all, I will once again display an overview of the festival as a review, so those who need to should check it.” — the explanation of the rules reappeared on the monitor.
+[says] (p.8) “I would like to announce that the details of the 'additional funds' mentioned in this overview explanation have been decided.”
+[says] (p.8) “First of all, the total amount of additional funds to be given to this class, and the breakdown of the funds…” — she operated her tablet and displayed the list: Horikita 10,000 (student council member bonus), Sudō 10,000 (club activity), Onodera 10,000 (club activity) — the maximum; nine other students received hundreds to thousands; Yōsuke got 3,000, Akito 100.
+[says] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds. In other words, this class has the most additional funds among the second-year students.”
+[says] (p.9) “Guests of honor will be people who are involved in the operation of this school and their families, but of course there will be a wide range of ages, from the elderly to toddlers and elementary school students,” she said. “It has also been decided that those who work at Keyaki Mall and convenience stores will also be invited as guests.” — a graph of guest ages by decade followed.
+[says] (p.9) “The adults are guests of honor and they receive 10,000 points. Minors receive 5,000 points. There are 283 adults and 202 minors. The total number of participants will be 485 in all, for a total sum of 3,840,000 points.”
+[says] (p.9) “I should also mention that the number of participants includes us teachers. Homeroom teachers are restricted to use points in the grade for which they are responsible, but they are treated no differently than other guests.”
+[says] (p.10) “No. The guests can't spend more than the given points. The maximum amount is immovable.” — answering Ike; without paying much attention, though she seemed to be enjoying such an unchanging Ike.
+[says] (p.10) “The primary method of payment is through a special cell phone app which the school will use to monitor sales in real time. Keep in mind that the app will be disabled the moment the festival ends at 4 pm. You are free to set your own timing for the checkout, but we recommend that you receive payment before the products are served.”
+[says] (p.10) “If the sales are equal, they are treated as the same rank. If all 12 classes make equal sales, as Horikita says, then all classes get 100 class points as first place.”
+[says] (p.10–11) “However, the total amount of sales can only be confirmed after the exam, and any manipulation of sales by third parties is not allowed. It is impossible for the classes to discuss and make a plan to combine sales before the festival, or to make an arrangement to divide the sales equally after the festival is over. You know what this means, right?”
+[says] (p.11) “As Maezono-san said, if it is a normal fight, there is no need to be concerned about it. But it's not a bad thing to know if it's accepted as a rule or not.” — she answered Horikita's tie question.
+[says] (p.11) “That's all I have to say about the festival. Next, I would like to announce the results of the second semester mid-term exam that we recently conducted. This time, there are students who achieved results that surprised even me.”
+[note] (p.11) “However, given that Chabashira-sensei's expression wasn't dark or stiff, that seemed unlikely.” — the results pleased her.
+[note] (p.11–12) Keisei first (perfect score), Horikita second (3 points behind), Sudō 11th (367 points, the surprise) — “students who achieved results that surprised even me.”
+[rel:horikita-suzune] (p.7–12) The additional-funds and OAA motivations hang on her choices; Chabashira watches her hand raise the tie question with genuine interest.
+[rel:ike-kanji] (p.10) The pocket-money question — she answered without looking.
+
 ### y2v7 p.153–160, 184 — Chabashira as a maid (epilogue note)
 [note] (p.153–160, 184) Chabashira was blackmailed (via the 100,000-point rule) into working as a maid for the festival's final hour; red-faced, she became the café's biggest attraction (63 photos, "surpassing Kushida"), and "ran out of the classroom like a rabbit as soon as 4 o'clock came" — the "cosplay" is credited by the class for their 1st-place win ("I guess Chabashira-sensei's cosplay really struck!").
 [rel:ayanokouji-kiyotaka] (p.153–156) He paid to rent her as a maid — "using the school rules" against her.

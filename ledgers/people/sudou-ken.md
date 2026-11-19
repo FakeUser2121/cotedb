@@ -1858,14 +1858,71 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:onodera-kayano] (p.298) His doubles partner — "if you didn't help I would definitely have lost."
 [rel:housen-kazuomi] (p.292–301) Hōsen tries to provoke him into a fight; Sudō wins without taking the bait — a major display of growth.
 [rel:horikita-suzune] (p.297) She congratulates him on winning every event.
+
+<!-- walk: y2v7 → start -->
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sudou-ken mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.8-9, p.11-13, p.23-25, p.27, p.98-100.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.8 — Additional funds: club activity bonus
+[scene] (p.8) Sudō Ken earns 10,000 points in additional funds as the club activity bonus (the maximum), tied for the top of the class with Horikita and Onodera.
+[number] (p.8) Sudō's additional funds: 10,000 (club activity, the maximum); the class's total 39,400.
+[rel:horikita-suzune] (p.8) Shared the 10,000 maximum with her and Onodera.
+[rel:onodera-kayano] (p.8) Shared the 10,000 maximum with her and Horikita.
+
+### y2v7 p.11–13 — Midterm results: 11th place, 367 points
+[scene] (p.11–13) Second-semester midterm results announced; Keisei first (perfect score), Horikita second (3 points behind), Sudō 11th of 38 with a well-balanced 367 — the surprise of the class.
+[number] (p.11–12) Sudō's scores: 73 Modern Japanese, 76 Chemistry, 70 Social Studies, 78 Mathematics, 70 English — total 367; only ~15 points above the bottom 20.
+[number] (p.12) His OAA updated: academic ability C+, physical ability A+, adaptability C, social contribution D.
+[says:ike-kanji] (p.12) “Seriously, Ken is ranked 11th... Amazing...” — Ike, almost on the same side of the rankings, gives an honest, or rather, stunned response.
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration lists him among none of them; his jump was unexpected.
+[note] (p.13) Narration ties his result to “his love for Horikita, who taught him how to study” and to the class's post-Airi-expulsion shift; the midterm was “moderate” difficulty.
+[trait] (p.12) He makes only a small gut-punch at the result — does not brag, does not mock those below him.
+
+### y2v7 p.23–26 — Keyaki Mall: eyesight, university options, Akito and Haruka
+[scene] (p.23) Monday after the maid café meetings; at Keyaki Mall, staring at a guide map; Ayanokōji finds him and probes his 11th place.
+[says] (p.23) “Eh? Oh Ayanokōji? What do you mean, the center of attention?” — Sudō startled; he had graded himself in detail after the midterm.
+[says:ayanokouji-kiyotaka] (p.23) “I'm talking about the midterms.”
+[says] (p.23) “Oh, you mean that? I'm glad to hear that, I guess I got what I expected given the amount of studying I did.”
+[says:ayanokouji-kiyotaka] (p.23) “I bet you'd be surprised to see what you looked like when you first entered the school.”
+[says] (p.23) “Haha, no doubt. I think my past self would be yelling like, ‘What the hell? What's the use of studying and memorizing words and formulas? You should practice basketball more instead of wasting your time like that!’” — imagining his past self.
+[says:ayanokouji-kiyotaka] (p.23) “If your past self did actually tell you, ‘Don't waste your time.’ What would you say back?”
+[says] (p.23) “Huh? Well...” — after thinking for a moment, Sudō formed his own answer.
+[says] (p.23) “You can't even remember simple formulas, what are you?” — a brilliant, uncharacteristic response.
+[says] (p.23) “I'm going to become a professional basketball player, so it doesn't matter,” — his past self's reply, as he imagines it.
+[says] (p.23) “Ugh, fine! What's the right response in that case? Isn't a professional with brains one step ahead of you? It's a little tricky when you can't reason with.” — Sudō laughs bitterly as he racks his brains.
+[says] (p.23) “To be honest, I'm getting impatient since it's getting a little more difficult to understand. Up until now, once I got the hang of it, it went pretty smoothly...” — the plateau of catch-up feels like stagnation.
+[note] (p.23–24) Narration: the momentum may come to a halt here from the higher starting line; factors other than effort, understanding, efficiency and talent are now required.
+[says] (p.24) “Anyways, what's up? What did you want from me?”
+[says:ayanokouji-kiyotaka] (p.24) “Nothing in particular, I was just a little curious. Aren't you supposed to be at club activities today?”
+[says] (p.24) “I had to take some time off today.”
+[says] (p.24) “I just had another problem...” — "Lately, my eyesight's been deteriorating to the point where I'm aware of it." — "I've always had a clear vision since I was a little kid, but lately it's been strange." — the adverse effects of his study dedication on his physical condition.
+[says] (p.24) “I'm looking for an optician to measure my eyesight. I've never been to one before, and I was wondering where it was.” — eyesight matters for an athlete; glasses/contacts can compensate.
+[says] (p.24) “Even if my eyesight is going to be failing in the future, I'm going to keep studying, man. I mean, I'm dying for basketball and I'm not going to stop. But, while I dream of becoming a pro, I'm starting to think that I might have other options.”
+[says] (p.24) “Don't laugh, okay?” — "I thought I could go to a normal university and continue my studies, and even if I could force my way into the pros because of my academics, there's no way they'd use me in the sports world if I'm not good enough. If that's the case, then I can get into the university I want to go to and do my best." — studying began reluctantly; a major change in his thinking.
+[says] (p.25) “Yeah, that's right.” — Sudō, confirming the university-then-pro path.
+[note] (p.25) Sudō's path options have subdivided: high-school-to-pro is no longer the only road.
+[note] (p.25) “Ah.” — Sudō's startled noticing Akito and Haruka's backs.
+[note] (p.25) “It's not a date, is it?” / “I guess not.” — printed untagged; one is Ayanokōji's, one is Sudō's; not assigned.
+[note] (p.25) “Can we really just leave them alone?” / “It wouldn't matter if we told them anything now anyways.” — printed untagged; not assigned.
+[says] (p.25) “That may be true, but...” — Sudō clenched his fists, his teeth grinding.
+[says] (p.25) “I wasn't particularly close to Sakura, but I've had similar experiences.” — Sudō's own past: he used to hang out with Yamauchi, one of the three idiots alongside Ike; Yamauchi's withdrawal was particularly painful for him.
+[says] (p.25) “But I guess it's nothing compared to what I was like back then. I couldn't even go so far as to say that I would expel myself in his place.” — for Haruka, withdrawal is the equivalent of Airi's expulsion.
+[says] (p.25) “If you have any trouble, you can always tell me. Well, I'm sure you don't need my help, Ayanokōji.”
+[says:ayanokouji-kiyotaka] (p.25) “That's not true. If there's anything I want to discuss with you, I won't hesitate to do so.”
+[says] (p.25) “Sounds good, man. I better head out, see you later, Ayanokōji.”
+[rel:ayanokouji-kiyotaka] (p.23–25) They talk as friends; Sudō offers him help in return; Ayanokōji commits to consulting him.
+[rel:yamauchi-haruki] (p.25) Yamauchi's withdrawal is the personal wound Sudō measures Haruka's situation against.
+[rel:hasebe-haruka] (p.25) Sudō sees Haruka and Akito's backs; he clenches his fists — he wants to help but cannot.
+[rel:miyake-akito] (p.25) Akito is part of the pair he watches at the mall.
+[rel:sakura-airi] (p.25) “Sakura” — the friend whose expulsion echoes in Sudō's and Haruka's situations.
+[trait] (p.23–25) No longer a “one-trick pony”; aware of his plateau; weighing university; deteriorating eyesight; quietly anchored in studying learned from Horikita.
+
+### y2v7 p.27–29 — Ike's leak; Ryūen arrives with the declaration of war
+[scene] (p.27) After school (a few days later); Ike bursts into the classroom with the leaked maid café; Sudō comes in, a little flustered.
+[says] (p.27) “Hey! Ryūen and the others are coming this way.” — Sudō announces Ryūen's approach.
+[rel:ryuuen-kakeru] (p.28–29) Ryūen arrives with Ishizaki/Albert/Kaneda; publicly leaks and copies the maid café — the “declaration of war.”
 
 ## y2v8
 

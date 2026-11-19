@@ -294,13 +294,11 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kaneda-satoru mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.28.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.28 — Ryūen's runner: the detailed announcement
+[scene] (p.28) Kaneda — Ryūen's man — is with Ryūen in the hall; Ishizaki is there too; Albert is with them.
+[says] (p.28) “That's correct. We were planning to follow up with everyone a little further down the road. We were told early on about the content of the stalls and yesterday about the location.” — Kaneda smirks as he adds the details.
+[note] (p.29) “even Kanzaki and other unrelated students from other classes overheard Ryūen's declaration of war.” — Kaneda is part of the leak reaching the whole grade.
+[rel:ryuuen-kakeru] (p.28) He is Ryūen's spokesman on the deal terms.
 
 ## y2v8
 

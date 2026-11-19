@@ -2326,24 +2326,37 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.9 — Additional funds: 17,000, third among second-years
+[scene] (p.9) Chabashira displays the numbers: Ryūen's Class C has 17,000 points in additional funds — third among second-years (this class 39,400; Ichinose's 26,600; Sakayanagi's 18,800).
+[number] (p.9) Ryūen's class additional funds: 17,000 — “17,000 points for Ryūen's Class C.”
+
+### y2v7 p.46 — He pressed Nagumo for a tens-of-millions bet
+[scene] (p.46) At the student council room, Nagumo tells Ayanokōji: Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
+[says:nagumo-miyabi] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo to Ayanokōji.
+[says:nagumo-miyabi] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo, recounting.
+[says:nagumo-miyabi] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
+[note] (p.46) The attempted wager matches the 5-million-point cultural-festival bet he proposed to Horikita at p.29 — he was hunting for a match, not for the money.
+[rel:nagumo-miyabi] (p.46) He tried to buy a wager with him; Nagumo refused.
+
 ### y2v7 p.28–31 — Ryūen: the "declaration of war"
-[says] (p.29) "I helped you in the sports festival to destroy Class A."
-[says] (p.29) "We'll have the same concept as you guys." — copying the maid café
-[says] (p.29) "The one who earns as many points as possible will receive 5 million points"
-[says] (p.46) "That guy told me he would give me the right to expel any student I wanted, even himself." — Nagumo on Ryūen's bet
+[says] (p.29) “I helped you in the sports festival to destroy Class A.”
+[says] (p.29) “We'll have the same concept as you guys.” — copying the maid café
+[says] (p.29) “The one who earns as many points as possible will receive 5 million points from the other class.”
 [trait] (p.28–31) Deliberately leaks the secret maid café plan to the whole grade and announces his own class will run a competing maid café — a "declaration of war" to force a direct contest (betting 5 million points on who earns more); he even offered Nagumo students (himself included) as collateral for tens of millions, but Nagumo refused; Ayanokōji suspects he wants the direct confrontation for its own sake.
 [rel:horikita-suzune] (p.28–29) He confirms their alliance then immediately betrays the secret — "equal terms."
 [rel:nagumo-miyabi] (p.29) He tried to bet tens of millions with him; Nagumo turned him down.
 [rel:ishizaki-daichi] (p.28) He arrives with Ishizaki, Albert and Kaneda.
+[rel:kaneda-satoru] (p.28) He smirks as he adds the stall-content details.
+[rel:yamada-albert] (p.28) He arrives with Ishizaki, Albert and Kaneda.
 
 ### y2v7 p.175–182 — Ryūen exposes Yagami
-[says] (p.176) "So you're Yagami. I heard you're the one who took care of Komiya and [Kinoshita]."
-[says] (p.177) "I know that the GPS on your watch was not functioning"
-[says] (p.180) "Kuku, I'm surprised too, but I can't help it. He was playing with fire too much."
-[says] (p.180) "Shut up. Don't yell so close to me, you little bitch."
+[says] (p.176) “So you're Yagami. I heard you're the one who took care of Komiya and Kinoshita.”
+[says] (p.177) “I know that the GPS on your watch was not functioning”
+[says] (p.180) “Kuku, I'm surprised too, but I can't help it. He was playing with fire too much.”
+[says] (p.180) “Shut up. Don't yell so close to me, you little bitch.”
 [trait] (p.175–182) Arrives at the student council room with Komiya and Kinoshita (having been tipped off), grabs Yagami by the bangs and exposes him — the GPS on Yagami's watch was off during the "accident" that injured Komiya/Kinoshita; when Yagami snaps and attacks, Ryūen stops the teachers ("Pull back. He's not fucking around") and prepares to fight him, telling him "you're only a punk."
 [rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — "he was playing with fire too much."
-[rel:komiya] (p.176) He brought him — Yagami was behind his injury.
+[rel:komiya-kyogo] (p.176) He brought him — Yagami was behind his injury.
 [rel:ibuki-mio] (p.180) She's knocked down by Yagami; Ryūen helps her up and leaves.
 ## y2v8
 

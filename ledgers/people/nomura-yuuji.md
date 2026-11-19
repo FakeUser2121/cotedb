@@ -41,13 +41,11 @@ char_id: nomura-yuuji · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — nomura-yuuji mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.27, p.118.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.27 — Named as one of the three loudmouths
+[scene] (p.27) Nomura is named by Ike as one of the three talking loudly in the lobby — Ishizaki, Suzuki and Nomura.
+[note] (p.27) “Just now, in the lobby, Ishizaki, Suzuki... and Nomura, the three of them were talking about it as loud as they could.” — the leak's origin.
+[rel:ishizaki-daichi] (p.27) He is named with Suzuki and Nomura as one of the three.
+[rel:suzuki-hidetoshi] (p.27) He is named with Ishizaki and Nomura as one of the three.
 
 ## y2v10
 

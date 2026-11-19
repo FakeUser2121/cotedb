@@ -914,13 +914,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — katsuragi-kouhei mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.19, p.30, p.188-190.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.19 — Named by Horikita as the relay in Ryūen's class
+[scene] (p.19) Horikita explains to the planners that the person in between the two classes in Ryūen's class is Katsuragi — “he may have told other important classmates, but I don't see the benefit of leaking it.”
+[note] (p.19) “It's true that it's difficult to trust Ryūen-kun personally. That's why I put Katsuragi-kun in between the two of us. I'm sure It'll be fine.” — Horikita's relay decision; both sides agreed to it at the sports festival.
+[note] (p.30) “I can finally see the true meaning of Katsuragi-kun's words in regards to the avoidance of a penalty agreement.” — Horikita's line to Ryūen; Katsuragi's engineering of the penalty-avoidance framework.
+[rel:ryuuen-kakeru] (p.19) The relay person between the classes in Ryūen's class.
+[rel:horikita-suzune] (p.19, 30) She trusts him as the go-between; she quotes his penalty-avoidance words at Ryūen.
 
 ## y2v8
 

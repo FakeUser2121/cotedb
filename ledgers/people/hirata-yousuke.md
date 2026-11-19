@@ -1918,13 +1918,26 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — hirata-yousuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.8, p.12-13, p.29, p.31, p.85.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.7–8 — Additional funds: 3,000-point club activity bonus
+[scene] (p.8) The additional-funds breakdown is displayed: Yōsuke received 3,000 points for his club activity bonus; Akito received 100; Horikita, Sudō and Onodera got the 10,000 maximum; the class total 39,400.
+[number] (p.8) Yōsuke's additional funds: 3,000 (club activity) — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100. Many students who seemed to be active, mainly in club activities, were mentioned.”
 
+### y2v7 p.12 — The honor roll
+[scene] (p.12) The midterm results list: Yōsuke is named among the honor roll alongside Kushida, Matsushita and Wang.
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
 
+### y2v7 p.15 — Excluded from the inspections for club reasons
+[note] (p.15) “It would be more effective to include boys such as Yōsuke in the meeting, but unfortunately, they were busy with club activities at the moment.” — excluded from the maid café inspections for club reasons.
 
+### y2v7 p.28–31 — Yōsuke learns of the Ryūen alliance
+[scene] (p.28–31) After Ryūen's group announces the leak and the copy, Yōsuke asks the questions the class needs answered; he suggests shifting to a different concept — rejected.
+[says] (p.28–29) “Is what you just said true, Horikita-san?” — Yōsuke asked, since Horikita had not yet gotten around to informing the rest of the class.
+[says] (p.29) “May I ask you why, just in case? What's the benefit in betraying us? Did you team up with Sakayanagi-san, or Ichinose-san and the others?” — Yōsuke.
+[says] (p.31) “How about we shift to a different concept now?” — Yōsuke suggested, considering that option in order to turn things around.
+[says:horikita-suzune] (p.31) “We can't do that. Part of the budget's already invested.” — Horikita answers him.
+[note] (p.29) “including Yosuke, were informed by such a scene” — the narration; the whole class, him included, learns of the alliance from the hallway confrontation itself.
+[rel:horikita-suzune] (p.28–31) She informed only herself, Ayanokōji and the maid café planners; Yōsuke learns from the scene like everyone else.
+[rel:ryuuen-kakeru] (p.28–31) Yōsuke pushes the clarifying question at him; Ryūen's answer confirms the copy and the wager.
 
 ## y2v8
 

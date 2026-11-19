@@ -253,13 +253,25 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — wang-mei-yu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.12-13, p.15-16, p.18, p.20, p.26-27.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.12 — The honor roll
+[scene] (p.12) The midterm results list: Wang Mei-Yu is named among the honor roll alongside Yōsuke, Kushida and Matsushita; “the difficulty level of this test was moderate.”
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.
+[rel:sudou-ken] (p.12) The narration groups Wang with the honor roll Sudō jumped past.
 
-
-
+### y2v7 p.13–22 — Planner; Hashimoto's probe; the floors
+[scene] (p.13) The six maid café planners include Mii-chan (Wang); Wang is the quiet organizer tracking stall candidates on her phone.
+[says] (p.15) “It's a lot farther than I thought it would be.” — Mii-chan's first impression of the third floor.
+[says] (p.15) “What do you think, Satō-san?” — Mii-chan asks Satō, who had not spoken up so far today.
+[says] (p.15) “Satō-san?” — once again, this time looking up at them, Wang asks again.
+[says] (p.16) “But we should make a decision soon. It's getting pretty full.” — Mii-chan stared at her cell phone and made a sour face.
+[note] (p.20) The vote by rock-paper-scissors: Mii-chan recited it in a whisper, perhaps to avoid confusion, and then looked at her palm — “Here we go.” — four rocks, two papers, zero scissors; third floor eliminated; first floor won; Horikita applied immediately by phone.
+[says] (p.18) “That was a little scary...” — Mii-chan, relieved and patting her chest, murmuring to Satō.
+[note] (p.22) “I heard that there are butler cafés in the world, the opposite of maid cafés. The butler isn't a girl, but a dressed up man.” — per the narration, the planners “were surprised and impressed”; the speaker of the line prints untagged; not assigned.
+[note] (p.21) “Maids and butlers are both a type of concept café.” — printed untagged; not assigned.
+[rel:satou-maya] (p.15–18) She checks in with Satō on the shortest leg of the inspection.
+[rel:matsushita-chiaki] (p.16) Matsushita took a peek at her phone and reported the occupied candidates.
+[rel:maezono] (p.16) The floor debate: second floor vs third floor.
+[rel:horikita-suzune] (p.15, 20) The planner circle; Horikita decides and applies by phone.
 
 ## y2v8
 

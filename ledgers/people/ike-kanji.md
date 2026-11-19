@@ -1252,10 +1252,26 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ike-kanji mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.6, p.8, p.10-12, p.14, p.16-23.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.10 — The pocket-money question
+[scene] (p.10) During Chabashira's rules review; Ike asks the preemptive question about pocket money.
+[says] (p.10) “Is it possible to use more than 10,000 points in pocket money?”
+[says:chabashira-sae] (p.10) “No. The guests can't spend more than the given points. The maximum amount is immovable.” — Chabashira answers without paying much attention, though she seems to be enjoying such an unchanging Ike.
+
+### y2v7 p.11–13 — The 11th-place reveal; OAA stunned
+[scene] (p.11–13) The midterm results: Ike is almost on the same side of the rankings as Sudō; he reacts to Sudō's 11th place with honest stunned amazement.
+[says] (p.12) “Seriously, Ken is ranked 11th... Amazing...” — Ike, honest, or rather, stunned response; a crazy turnaround, a leap beyond imagination.
+[note] (p.12) “The difficulty level of this test was moderate, and the difference in overall score between Sudō and the bottom 20 was only about 15 points” — the class average is improving; Sudō wasn't ahead by a hair, yet the surprise was widespread.
+[note] (p.12) Keisei took first place with a perfect score; Horikita second (3 points behind); Sudō 11th; Yōsuke, Kushida, Matsushita, Wang the honor roll group ahead of him; Ayanokōji 14th.
+
+### y2v7 p.27 — Ike carries the leak into the classroom
+[scene] (p.27) Ike bursts into the classroom, shouting the maid café leak he heard in the lobby — Ishizaki, Suzuki and Nomura talking loudly.
+[says] (p.27) “Hey, is it true that our class is going to have a maid café?” — Ike bursts in.
+[says:maezono] (p.27) “Where did you hear this, Ike-san?” — Maezono, frightening Ike with her stiff, angry look.
+[says] (p.27) “Just now, in the lobby, Ishizaki, Suzuki... and Nomura, the three of them were talking about it as loud as they could.” — Ike chokes on his words.
+[rel:ishizaki-daichi] (p.27) Named as one of the three talking loudly in the lobby.
+[rel:suzuki-hidetoshi] (p.27) Named as one of the three talking loudly in the lobby.
+[rel:nomura-yuuji] (p.27) Named as one of the three talking loudly in the lobby.
+[rel:horikita-suzune] (p.27) His announcement threatens her secrecy; she stays calm while Maezono reacts.
 
 ## y2v8
 

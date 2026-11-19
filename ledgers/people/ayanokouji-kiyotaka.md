@@ -9274,62 +9274,352 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7–16 — Cultural festival rules; OAA results; maid café prep
-[scene] (p.7) Chabashira reviews the cultural festival rules and additional funds — Horikita's class has the most (39,400 pts: 10,000 each for Horikita/Sudō/Onodera), ahead of Ichinose (26,600) and Sakayanagi/Ryūen.
-[trivia] (p.9–10) 283 adults (10,000 pts each) + 202 minors (5,000) = 3,840,000 points across 485 guests; stall locations cost 1,000–50,000 pts (first floor = 50,000); equal sales = equal rank (collusion theoretically possible).
-[trivia] (p.11–12) OAA results: Keisei 1st, Horikita 2nd (3 points behind); Sudō jumps to 11th (C+, 367 total) — a "center of attention" surprise from his studying; bottom 20 within ~15 pts.
-[trait] (p.13–16) During maid café prep (with Horikita and the four originators), learns Haruka may "do something" at the festival (she's still bitter over Airi); proposes photo tickets (800 pts/photo, 1,200 with a maid) as a tie-in, and insists they need a "feel" for the maid café business.
-[rel:horikita-suzune] (p.13–16) Co-organizing the maid café; she's wary of Haruka going "out of control."
-[rel:hasebe-haruka] (p.13–15) She's still hostile; Ayanokōji tells Horikita she has "no intention of working as a maid" — a general role was assigned instead.
-[rel:sudou-ken] (p.11–12, 23) His 11th-place OAA jump — "the center of attention today."
+### y2v7 p.6 — Prologue: named in Haruka's monologue
+[scene] (p.6) The Prologue is Hasebe Haruka's monologue; she names Horikita Suzune and Ayanokōji Kiyotaka as the two people she blames for Airi's expulsion.
+[mentioned] (p.6) “Horikita Suzune and Ayanokōji Kiyotaka.” — printed in Haruka's monologue as the two students she holds responsible; she decides on revenge.
+<!-- walk: y2v7 Prologue → p.6 -->
 
-### y2v7 p.17–22 — Sakayanagi scouts; the Ryūen "leak"; maid café planning
-[scene] (p.17) Sakayanagi, Kamuro and Hashimoto tour the special building; Hashimoto needles Horikita about teaming with Ryūen ("do you think you can trust him forever?").
-[says] (p.21) "Since I'm in charge of running the maid café, of course I can't cut corners."
-[trait] (p.19–22) Reveals to the four originators that they'll cooperate with Ryūen again (only they plus Katsuragi know); outlines maid café details (main customers are men, photo tickets, low-cost high-quality food); Horikita is surprised by his knowledge.
-[rel:sakayanagi-arisu] (p.17–18) She watches them with a wry smile — the the leader of Class A
-[rel:hashimoto-masayoshi] (p.17–18) He asks whether she can trust Ryūen — Horikita replies on the same level.
-[rel:horikita-suzune] (p.19–22) He informs her of the plan (she knew only the four originators + Katsuragi in Ryūen's class).
+### y2v7 p.7–13 — Cultural festival rules; additional funds; midterm results
+[scene] (p.7) Monday, November 1st; Chabashira opens the class with a review of the cultural festival rules and the announcement of additional funds.
+[rule] (p.7) Each second-year class receives 5,000 private points per student for festival preparation (first-years 5,500; third-years 4,500); additional funds are granted for social contributions; unused allocations forfeit after the festival.
+[rule] (p.8) Classes ranked 1st–4th receive 100 class points; 5th–8th receive 50; 9th–12th receive nothing.
+[rule] (p.8) Additional funds breakdown for this class: Horikita 10,000 (student council member), Sudō 10,000 (club activity), Onodera 10,000 (club activity); Yōsuke received 3,000 for his club activity bonus, and Akito received 100; nine other students received hundreds to thousands.
+[number] (p.8–9) This class's additional funds total 39,400 — the most among the second-year students (Sakayanagi's Class A 18,800; Ryūen's Class C 17,000; Ichinose's Class D 26,600).
+[trivia] (p.9) Guests: 283 adults (10,000 pts each) + 202 minors (5,000 each) = 485 participants, 3,840,000 points in total; guests of honor include school-operation families and Keyaki Mall / convenience-store staff; homeroom teachers may not use points in their own grade.
+[rule] (p.9) Homeroom teachers are restricted to using points in the grade for which they are responsible.
+[rule] (p.10) Guests cannot exceed 10,000 points in pocket money; a cell-phone app monitors sales in real time; the app is disabled at 4 pm when the festival ends.
+[says:ike-kanji] (p.10) “Is it possible to use more than 10,000 points in pocket money?” — Ike's preemptive question.
+[says:horikita-suzune] (p.10) “If the sales are the same amount, what would the ranking be? I know this is very extreme, but what happens if all classes receive the same amount of 320,000 points and are side by side?” — Horikita asks about a full 12-class tie.
+[says:chabashira-sae] (p.10) “If the sales are equal, they are treated as the same rank. If all 12 classes make equal sales, as Horikita says, then all classes get 100 class points as first place.” — Chabashira answers.
+[says:chabashira-sae] (p.10–11) “However, the total amount of sales can only be confirmed after the exam, and any manipulation of sales by third parties is not allowed. It is impossible for the classes to discuss and make a plan to combine sales before the festival, or to make an arrangement to divide the sales equally after the festival is over.” — no-collusion rule.
+[says:maezono] (p.11) “I don't think an equal number of sales among the classes would be normal. I don't think you need to worry about it.” — Maezono voices her doubts; Horikita had a point.
+[number] (p.11–12) Second-semester midterm results: Keisei took first place (perfect score in all subjects); Horikita second, 3 points behind; Sudō 11th with 367 (73 Modern Japanese, 76 Chemistry, 70 Social Studies, 78 Mathematics, 70 English); honor roll: Yōsuke, Kushida, Matsushita, Wang; Ayanokōji 14th (perfect Mathematics only).
+[note] (p.12) Sudō's OAA: academic ability C+, physical ability A+, adaptability C, social contribution D — “a well-known fact that Sudō was working hard on his studies”; Ayanokōji's own 14th place was deliberate (he did not want to startle the class).
+[note] (p.13) The narration ties Sudō's motivation to his love for Horikita, who taught him how to study, and notes that the expulsion of Sakura Airi pushed the lower-ranked students to work even harder.
 
-### y2v7 p.23–26 — Sudō's growth; Kei's night; Satō's reaction
-[says] (p.23) "You were the center of attention today, Sudō." / "Huh? Well..." — Sudō
-[says] (p.25) "If you have any trouble, you can always tell me. Well, I'm sure you don't need my help, Ayanokōji." — Sudō
-[trait] (p.23–26) At Keyaki Mall, talks with Sudō — now a "well-balanced" student (C+ academics, A+ physical), no longer a "one-trick pony," thinking about his future beyond high school; he saw Akito/Haruka and asks for help; later, Kei (who stayed the night) takes his hand without hesitation — a step up the staircase of adulthood.
-[rel:sudou-ken] (p.23–25) He's grown through studying for Horikita; admits he might need Ayanokōji's help with Haruka/Akito.
-[rel:karuizawa-kei] (p.26) She stayed the night — "I'm very happy" — growing more confident.
-[rel:satou-maya] (p.26) She spots Kei arriving and gives Ayanokōji "a gaze" — she's still hurt/jealous.
+### y2v7 p.13–16 — Maid café planners; stall-location inspection; Satō's distance
+[scene] (p.13) The six maid café planners (Satō, Matsushita, Mii-chan [Wang], Maezono, Horikita, Ayanokōji) meet after school; the outdoor option is crossed out; the café location (the classroom) is fixed; stall location undecided; meetings move to cell phones to prevent leaks.
+[says:matsushita-chiaki] (p.13) “Hasebe-san and Miyake-kun, what will you do about them?” — Matsushita asks about Haruka and Akito.
+[says:matsushita-chiaki] (p.14) “They come to school every day, but they don't want to talk to anyone. It means they keep antagonizing us, the whole class.”
+[says:matsushita-chiaki] (p.14) “I think Hasebe-san is going to try to do something to the class in the future.”
+[note] (p.14) The responder to Matsushita's first question prints untagged (“What do you mean…?”); the translation does not say whether Horikita or Ayanokōji answered; not assigned.
+[says:horikita-suzune] (p.14) “There's very little we can do in advance… Preaching to them to stop taking revenge will only get on their nerves.” — Horikita, looking off into the distance; she adds “If she's really looking for an opportunity for revenge, she certainly won't put it off for months.”
+[note] (p.14) The “Just what?” between those two statements prints untagged; not assigned.
+[says:horikita-suzune] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on. If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.”
+[says:wang-mei-yu] (p.15) “It's a lot farther than I thought it would be.” — Mii-chan's first impression of the special building's third floor.
+[says:satou-maya] (p.15) “Oh, um. I was thinking... yeah, I guess I think it's a little far away too.” — Satō, distracted.
+[says:maezono] (p.16) “I guess the second floor is better than the third floor! More to the point, the first floor would be ideal,” — Maezono mutters.
+[says:wang-mei-yu] (p.16) “But we should make a decision soon. It's getting pretty full.” — Mii-chan makes a sour face at her phone.
+[says:matsushita-chiaki] (p.16) “That's right. Two of the five places we picked up are now occupied... However, there are still candidates from the first to the third floor, which I'd say is a bit of a problem.”
+[note] (p.16–17) Satō is off all day; Matsushita suspects she “wants to talk but can't… keeps things inside”; Ayanokōji does not know why; the “Satō whisperer” speculation is Matsushita's, unconfirmed.
 
-### y2v7 p.27–31 — Ryūen's betrayal: leaking the maid café & copying it
-[says] (p.29) "We were on equal terms. The same goes for the cultural festival proposal." — Ryūen
-[says] (p.29) "We'll have the same concept as you guys." / "Does that mean a maid café?"
-[says] (p.29) "The one who earns as many points as possible will receive 5 million points"
-[trait] (p.27–31) Watches as Ryūen arrives with Ishizaki/Albert/Kaneda and publicly announces the alliance AND that his class will also run a maid café — a "declaration of war," leaking their secret so the whole grade knows; Ryūen pressures Nagumo to bet tens of millions (offering students as collateral), which Nagumo refuses; Ayanokōji suspects Ryūen wants a direct contest (whoever earns more gets 5 million points).
-[rel:ryuuen-kakeru] (p.28–30) He leaks the maid café plan and copies the concept — a calculated "gamble" for the 5-million-point side bet.
-[rel:horikita-suzune] (p.27–29) She confronts Maezono/Ike over the leak and greets Ryūen in the hallway.
-[rel:maezono] (p.27) She angrily asks Horikita whether Ryūen betrayed them.
+### y2v7 p.17–22 — Sakayanagi scouts the special building; the Ryūen cooperation leak
+[scene] (p.17) Hashimoto (Class A) calls out to the group outside the second floor; Sakayanagi and Kamuro arrive with him; they, too, are scouting stall locations; Hashimoto needles Horikita about teaming with Ryūen.
+[says:hashimoto-masayoshi] (p.17) “Yo, Ayanokōji. Are you also looking for a place to open a stand for the festival?”
+[says] (p.17) “Well, I’m not sure. They may have already decided, or they may not have even decided whether to go indoors or outdoors.” — the evasive answer.
+[says:hashimoto-masayoshi] (p.17) “No decision? That's an obvious lie. Are you telling me that you're taking Horikita all the way out to the special building to roam around for no reason? Please tell me what kind of show you're going to put on.”
+[says:hashimoto-masayoshi] (p.17–18) “Then you mean he's simply enjoying his harem?” — he points out Ayanokōji is the only male of the six and asks Kamuro to agree.
+[says:horikita-suzune] (p.17) “You must be similar, Hashimoto-kun. Sakayanagi-san and Kamuro-san. You are the only boy, even if the number of people is different. I wonder if it's because you're aware of that that you're making strange comments?”
+[says:hashimoto-masayoshi] (p.18) “Satō, you've been spending a lot of time with people like Matsushita, Wang and Maezono.”
+[says:matsushita-chiaki] (p.18) “Don't try to get anything out of us.”
+[says:hashimoto-masayoshi] (p.18) “I didn't mean it like that. It's just...”
+[says:hashimoto-masayoshi] (p.18) “Oops, any more than that would be superfluous?” — grinning, looking at Sakayanagi
+[says:matsushita-chiaki] (p.18) “You appear to want to say something, Hashimoto-kun.”
+[says:hashimoto-masayoshi] (p.18) “I'm worried about your class, my friend. It seems that you have teamed up with... Ryūen for the sports festival, but do you think you can trust him forever?” — his pointed question to Horikita.
+[says:hashimoto-masayoshi] (p.18) “I just thought you were going to team up with Ryūen again. If you are going to team up with him, be careful,” — he says, as if he had the heart of an old woman.
+[says:matsushita-chiaki] (p.18) “We're in a hurry, and I don't think we can play word games forever, you know? Everyone?”
+[says:kamuro-masumi] (p.18) “She doesn't like you, does she?” — playing with the bad atmosphere.
+[says:hashimoto-masayoshi] (p.18) “Maybe. I'm just asking for some reasoning... Anyways, good luck with that.”
+[says:wang-mei-yu] (p.18) “That was a little scary...” — Mii-chan, relieved, pats her chest, murmuring to Satō.
+[says:satou-maya] (p.18) “Huh? Oh, um, yeah. A little bit.”
+[note] (p.19) Sakayanagi said nothing and went into the class they had watched earlier.
+[note] (p.19) “A sports festival is a sports festival, a cultural festival is a cultural festival…” prints untagged; Sakayanagi's class is one enemy to be defeated alongside Ryūen's.
+[note] (p.19) “It's a certainty that we'll cooperate with Ryūen-kun's class in the upcoming cultural festival, right?” and “Yes. When we cooperated with each other at the sports festival, we also talked about working together during the cultural festival.” both print untagged; Horikita and Ayanokōji are the two who know the deal; not assigned.
+[says:horikita-suzune] (p.19) “It's true that it's difficult to trust Ryūen-kun personally. That's why I put Katsuragi-kun in between the two of us. I'm sure It'll be fine.” — Horikita, per the adjacent narration "Horikita explained to them".
+[says:horikita-suzune] (p.19) “The ones who know are myself and Ayanokōji-kun. Then there are the four of you who started the maid café. In Ryūen's class, there's Katsuragi. He may have told other important classmates, but I don't see the benefit of leaking it.” — Horikita, same adjacent narration.
+[note] (p.19–20) “I didn't care so much about it during the sports festival because it went well, but when they said something like that, I couldn't help but feel uneasy... Are you sure you're okay with trusting them?” — printed untagged; Maezono or Mii-chan voiced the unease; not assigned.
+[note] (p.19–20) “Yes, I felt it too. Even if he doesn't betray you, isn't it conceivable that the cooperation was leaked?” — printed untagged; not assigned.
+[rule] (p.20) Stall-floor vote by rock-paper-scissors: four rocks (first floor), two papers (AK and Matsushita), zero scissors (third floor); first floor (50,000 pts) wins; Horikita applies for it by phone immediately.
+[note] (p.20) “So, are we done for the day?” — printed untagged; not assigned. “No, I have something to tell you first.” — Ayanokōji's line (his gathering of maid café intel).
+[says] (p.20) “I don't think there won't be any female customers, but in terms of ratio, there'll be a considerable difference.”
+[note] (p.21) “I heard that there are butler cafés in the world, the opposite of maid cafés. The butler isn't a girl, but a dressed up man.” prints untagged; the listeners had not heard of butler cafés; not assigned.
+[note] (p.21) “You know a lot too, Horikita.” — aimed at Horikita, speaker untagged; not assigned.
+[says:horikita-suzune] (p.21) “I'll at least gather information. You can decide if it's useful or not after you learn it.”
+[says:horikita-suzune] (p.21) “Floors, walls, ceilings, and other chairs also vary a bit in damage due to age. I'd like you to check that as well so that you don't miss anything.” — Horikita assigns the floor check.
+[says] (p.21) “And also about the uniforms, we shouldn't push the eroticism too blatantly.” — prompts Horikita's shocked "Eh?! What did you say?"
+[says:horikita-suzune] (p.21) “Eh?! What did you say?” — Horikita, shocked.
+[says] (p.21) “Eroticism. Eros and eroticism have been seen as important elements in art since ancient times. Showing underwear and the like is out of the question, but it's important, however, not to refuse the hope that it might be visible.”
+[says] (p.21) “Since I'm in charge of running the maid café, of course I can't cut corners. I studied to be as helpful as possible.”
+[says] (p.22) “I also thought about a sales strategy. In addition to providing food and drinks, we'll sell the right to take pictures, called Cheki.”
+[says] (p.22) “Using a specialized camera, the price would be 800 points for a photo of one maid. For a photo session with a customer, the price would be 1,200 points. In order to reduce costs, I suggested using a printer to print out the photos after taking them with a cell phone, but the Professor, who taught me this, rejected the idea. He said, ‘If you neglect quality for the sake of profit, no one will pay attention to you.’”
+[says] (p.22) “No, I'm bullish on the film. We have a plan to sell out. The condition, of course, is that we don't release the photos. Also, under Horikita's leadership, the boys have begun setting up a food stall, but the food here should also be linked to the maid café.”
+[says:horikita-suzune] (p.22) “The competition for restaurants will inevitably be high as there are signs of multiple booths, including the other grades. So we'll specialize in snacks while keeping our prices low.”
+[says:horikita-suzune] (p.22) “It's essential we use it as a stepping stone to our main goal, the maid café. We can reduce the price of the tickets for one drink, which can then be used at the maid café for those who purchased said ticket.”
+[trait] (p.19–22) He reveals the Ryūen cooperation to the four planners (only they plus Katsuragi knew); argues maid-café economics (male customers as the main target; photo tickets at 800/1,200 pts; film sellout planned; no releasing photos); Horikita is surprised by his knowledge; he keeps the cooperation secret beyond these five.
+[rel:sakayanagi-arisu] (p.17–18) She watches the exchange with a wry smile; says nothing; goes into the class they had been watching.
+[rel:hashimoto-masayoshi] (p.17–18) He probes the Ryūen alliance (“do you think you can trust him forever?”); smiles thinly at Ayanokōji later when the leak goes public (p.30).
+[rel:kamuro-masumi] (p.17–18) Is with Sakayanagi and Hashimoto; needles at Hashimoto (“She doesn't like you, does she?”).
+[rel:horikita-suzune] (p.19–22) He informs her of the detailed plan; male-customer targeting; Cheki pricing; she applies for the first floor.
 
-### y2v7 p.32–43 — Ichinose, Kanzaki, Asahina: Nagumo's plan
-[scene] (p.32) Encounters Ichinose and Kanzaki in line; Ichinose bows and averts her eyes (awkward); later meets Asahina (Mii-chan), who warns him Nagumo may start targeting people close to him.
-[says] (p.38) "Nagumo is saying that he's going to let the non-A's compete and pick one student from the class that takes first place."
-[says] (p.39) Nagumo had never experienced losing, only winning streak after winning streak
-[says] (p.40) "I'm starting to get a little interested in Student Council President Nagumo."
-[trait] (p.32–43) Analyzes Nagumo: he's never truly lost (only beat weaker opponents like Manabu avoided him), so his "warped" desire to compete festers; Mii-chan warns Nagumo could target Ichinose/Kei; realizes Nagumo is a man who has never lost and decides he's now "interested" in challenging him — the "calm before the storm."
-[rel:asahina-nazuna] (p.36–41) Mii-chan meets him secretly, warns him about Nagumo targeting his close ones (Kei/Ichinose) — she knows Nagumo well after three years.
-[rel:ichinose-honami] (p.32, 38) She's awkward around him; her class is falling in points but not disastrous — Nagumo's plan concentrates points on her.
-[rel:kanzaki-ryuuji] (p.32, 42–43) He waits for Ichinose; later explains Nagumo's plan (concentrate private points on one student to win Class A) — impossible to get consensus in Ichinose's class without her.
-[rel:karuizawa-kei] (p.38) Mii-chan warns Nagumo may target Kei.
+### y2v7 p.23–26 — Keyaki Mall: Sudō's growth; Akito and Haruka; Kei's morning
+[scene] (p.23) §2 Keyaki Mall — Ayanokōji goes alone for a price survey; finds Sudō at a building map; Keyaki Mall in late November.
+[says] (p.23) “You were the center of attention today, Sudō.”
+[says:sudou-ken] (p.23) “Eh? Oh Ayanokōji? What do you mean, the center of attention?”
+[says] (p.23) “I'm talking about the midterms.”
+[says:sudou-ken] (p.23) “Oh, you mean that? I'm glad to hear that, I guess I got what I expected given the amount of studying I did.”
+[says] (p.23) “I bet you'd be surprised to see what you looked like when you first entered the school.”
+[says:sudou-ken] (p.23) “Haha, no doubt. I think my past self would be yelling like, ‘What the hell? What's the use of studying and memorizing words and formulas? You should practice basketball more instead of wasting your time like that!’”
+[says] (p.23) “If your past self did actually tell you, ‘Don't waste your time.’ What would you say back?”
+[says:sudou-ken] (p.23) “Huh? Well...”
+[says:sudou-ken] (p.23) “You can't even remember simple formulas, what are you?” — formed after a moment's thought.
+[says:sudou-ken] (p.23) “I'm going to become a professional basketball player, so it doesn't matter,”
+[says:sudou-ken] (p.23) “Ugh, fine! What's the right response in that case? Isn't a professional with brains one step ahead of you? It's a little tricky when you can't reason with.” — Sudō laughs bitterly as he racks his brains.
+[says:sudou-ken] (p.23) “To be honest, I'm getting impatient since it's getting a little more difficult to understand. Up until now, once I got the hang of it, it went pretty smoothly...”
+[says:sudou-ken] (p.24) “I had to take some time off today.”
+[says:sudou-ken] (p.24) “Lately, my eyesight's been deteriorating to the point where I'm aware of it.”
+[says:sudou-ken] (p.24) “I've always had a clear vision since I was a little kid, but lately it's been strange.”
+[says:sudou-ken] (p.24) “I'm looking for an optician to measure my eyesight. I've never been to one before, and I was wondering where it was.”
+[says] (p.24) “So you've been staring at a guide map. If you're feeling a strong sense that your eyesight is declining, there's a good chance that your eyesight is actually deteriorating.”
+[says:sudou-ken] (p.24) “Even if my eyesight is going to be failing in the future, I'm going to keep studying, man. I mean, I'm dying for basketball and I'm not going to stop. But, while I dream of becoming a pro, I'm starting to think that I might have other options.”
+[says:sudou-ken] (p.24) “Don't laugh, okay?”
+[says] (p.24) “I won't.”
+[says:sudou-ken] (p.24) “I thought I could go to a normal university and continue my studies, and even if I could force my way into the pros because of my academics, there's no way they'd use me in the sports world if I'm not good enough. If that's the case, then I can get into the university I want to go to and do my best.”
+[says] (p.25) “You can go to university and become a professional after graduation, right?”
+[says:sudou-ken] (p.25) “Yeah, that's right.”
+[note] (p.24–25) Sudō's thinking has shifted from high-school-to-pro to university-then-pro; the 11th place result is something to be proud of, but the momentum may stall — factors beyond effort, understanding and talent are now required.
+[note] (p.25) “Ah.” — Sudō's startled noticing Akito and Haruka's backs; “It's not a date, is it?” and “I guess not.” both print untagged — one of them is Ayanokōji's question about the two; speaker order not assigned.
+[note] (p.25) “Can we really just leave them alone?” / “It wouldn't matter if we told them anything now anyways.” — printed untagged; speaker order not assigned.
+[says:sudou-ken] (p.25) “That may be true, but...” — Sudō clenched his fists, his teeth grinding. “I wasn't particularly close to Sakura, but I've had similar experiences.”
+[note] (p.25) Sudō's own withdrawal-adjacent past: “used to hang out with Yamauchi so much that he was once called one of the three idiots alongside Ike”; Airi's expulsion echoes it.
+[says:sudou-ken] (p.25) “But I guess it's nothing compared to what I was like back then. I couldn't even go so far as to say that I would expel myself in his place.”
+[says:sudou-ken] (p.25) “If you have any trouble, you can always tell me. Well, I'm sure you don't need my help, Ayanokōji.”
+[says] (p.25) “That's not true. If there's anything I want to discuss with you, I won't hesitate to do so.”
+[says:sudou-ken] (p.25) “Sounds good, man. I better head out, see you later, Ayanokōji.”
+[action] (p.26) §3 — the next morning, the dormitory; Kei is waiting downstairs; past curfew the previous night, and Kei remained in his room; fortunately no witnesses when she left.
+[says:karuizawa-kei] (p.26) “Yesterday… Thanks for staying up with me until late. I'm very happy.” — Kei squeezes his hand while blushing.
+[says] (p.26) “But it'd be a problem if we get caught.”
+[says:karuizawa-kei] (p.26) “Ahaha, indeed.”
+[says] (p.26) “Did it hurt?”
+[says:karuizawa-kei] (p.26) “Do you even have to ask?”
+[says:karuizawa-kei] (p.26) “No, but… how do I put this, I thought I was used to it.” — a little embarrassed; delighted.
+[says:karuizawa-kei] (p.26) “In a way, it was my first time so I probably hadn't sorted my thoughts yet. However, I feel reassured that you ignored the curfew and stayed with me the whole time.”
+[says] (p.26) “I see.”
+[says:satou-maya] (p.26) “G-Good morning, Kei-chan.” — Satō, arriving early, runs over; spots Kei.
+[says:karuizawa-kei] (p.26) “Good morning, Maya ~” — Kei, giving him a gaze, excuses herself and starts closely chatting with Satō.
+[trait] (p.23–26) Sudō is now a “well-balanced” student (C+ academics, A+ physical), no longer a “one-trick pony”; his eyesight is deteriorating from study time; he is weighing university options; Kei has “ascended another step up on the staircase of adulthood”; Shinohara and Mii-chan, who had been struggling, are drawn into the Satō–Kei circle.
+[rel:sudou-ken] (p.23–25) He's grown through studying for Horikita; admits he might need Ayanokōji's help with Haruka/Akito's deterioration; offers him help in return.
+[rel:karuizawa-kei] (p.26) She stayed the night past curfew; blushing; grown more confident and mature.
+[rel:satou-maya] (p.26) She spots Kei arriving and gives him “a gaze” — still hurt/jealous; tries hard not to show it.
 
-### y2v7 p.44–53 — The Nagumo negotiation: a match and a favor
-[scene] (p.44) Visits Nagumo in the student council room — a direct, one-on-one negotiation.
-[says] (p.47) "I wasn't interested." — he admits he never needed to involve Nagumo
-[says] (p.48) "I have a proposal for President Nagumo. Can I make a challenge to the student council president this time?"
-[says] (p.50) "If you refuse, that's the end of it. I will never fight the Student Council President again."
-[says] (p.51) "It doesn't matter who it is." — when Nagumo threatens Kei
-[says] (p.52) "If she disappears, she's gone, and that's all there is to it." — his bluff about Kei
-[trait] (p.44–53) Proposes a match (to settle their score) in exchange for a favor — that Nagumo stop targeting Kei/Ichinose/Horikita; when Nagumo threatens Kei, he declares "it doesn't matter who it is" and that he won't retaliate no matter who's expelled — pure sincerity that shocks Nagumo into accepting; afterward he reveals he knew Nagumo would target his classmates anyway ("you knew?"), and delivers a cold bluff that if Kei vanished "she's gone, and that's all there is to it" — Nagumo calls him "crazy" ("loose screws"), but he believes suppressing emotion with the "solution" is sanity.
-[rel:nagumo-miyabi] (p.44–53) He secures a future match with him by agreeing not to interfere with Nagumo's harassment — a calculated trade; Nagumo accepts, "playing" with him.
-[rel:karuizawa-kei] (p.51–52) He publicly bluffs indifference to her expulsion to make the deal credible — his "solution."
+### y2v7 p.27–31 — Ryūen publicly copies the maid café; the 5-million-point wager declared
+[scene] (p.27) Monday, a few days later; Ike bursts into the classroom shouting that the maid café leaked — Ishizaki, Suzuki and Nomura were talking loudly in the lobby; Ayanokōji stays calm on the surface while Maezono and Matsushita react.
+[says:ike-kanji] (p.27) “Hey, is it true that our class is going to have a maid café?” — Ike bursts in.
+[says:maezono] (p.27) “Where did you hear this, Ike-san?” — Maezono, stiffer and angrier than usual.
+[says:ike-kanji] (p.27) “Just now, in the lobby, Ishizaki, Suzuki... and Nomura, the three of them were talking about it as loud as they could.”
+[says:matsushita-chiaki] (p.27) “Hey Horikita-san, what does he mean? It was still supposed to be a secret, right?” — Matsushita remembered Hashimoto's probing words and approached.
+[note] (p.27) “Yes. I thought it was unthinkable, but I guess I was naive.” — printed untagged; in reply to Matsushita's question; not assigned.
+[says:maezono] (p.27–28) “Does this mean that Ryūen-kun betrayed us after all? You said it was okay, didn't you, Horikita-san?” — Maezono angrily confronts Horikita.
+[says:sudou-ken] (p.27) “Hey! Ryūen and the others are coming this way.” — Sudō comes in, a little flustered.
+[says:horikita-suzune] (p.27) “I guess I'll just have to go greet them. You guys stay inside the classroom and act like adults.” — Horikita gets up to greet Ryūen in the hallway.
+[scene] (p.28) Ryūen leads Ishizaki, Albert and Kaneda down the hall; Horikita meets them; Ike opens with the leak being impossible to miss.
+[says:ryuuen-kakeru] (p.28) “Yo, it's Suzune. You wouldn't believe how badly I missed you.”
+[says:horikita-suzune] (p.28) “I was wondering what you're doing here with such boisterous students.”
+[says:ryuuen-kakeru] (p.28) “I have something to tell you guys today. Hey, Ishizaki?”
+[says:ishizaki-daichi] (p.28) “Y-yes.” — Ishizaki looks around the room with a slightly nervous look.
+[says:ryuuen-kakeru] (p.28) “It seems these guys have caught onto all the fuss that's been going about.” — Ryūen, sensing the mood, replies with a laugh.
+[says:ryuuen-kakeru] (p.28) “I'm honestly surprised. You really don't mind doing the unpredictable.”
+[says:ryuuen-kakeru] (p.28) “Kuku, predictable behavior is boring, isn't it?”
+[says:ryuuen-kakeru] (p.28) “At Suzune’s proposal, your class and I formed a cooperative relationship at the sports festival. And we were planning to join forces early on for this year's cultural festival as well.” — Ryūen began to explain carefully so that Ike and the others could understand.
+[says:ryuuen-kakeru] (p.28) “We were supposed to make sure that the contents of our exhibits do not conflict with each other. Discuss stall locations. Be able to lend and borrow students and follow up with them as needed. Was that correct?”
+[says:kaneda-satoru] (p.28) “That's correct. We were planning to follow up with everyone a little further down the road. We were told early on about the content of the stalls and yesterday about the location.” — Kaneda smirks as he adds details.
+[says:horikita-suzune] (p.28) “You intended to betray us from the very beginning, but you hid it until today because you were waiting for us to find out where we were going to open our stall. I'm sorry, but we're going to have to renegotiate to cooperate.”
+[says:ryuuen-kakeru] (p.28) “That's a pretty big demand for a fresh start, isn't it? You unilaterally found out the location of our stall and even revealed our exhibit.”
+[says:horikita-suzune] (p.28) “Revealed? Ishizaki and his friends were just chatting with each other. It just so happened that your class and the other classes overheard them. It's pretty rude of them to listen in, isn't it?” — Horikita, disputing that Ryūen “revealed” anything.
+[says:hirata-yousuke] (p.28–29) “Is what you just said true, Horikita-san?” — Yōsuke asks, since Horikita had not yet informed the class of the alliance.
+[says:horikita-suzune] (p.29) “I was going to tell you when everything was finalized...”
+[says:hirata-yousuke] (p.29) “May I ask you why, just in case? What's the benefit in betraying us? Did you team up with Sakayanagi-san, or Ichinose-san and the others?”
+[says:ryuuen-kakeru] (p.29) “I helped you in the sports festival to destroy Class A. You guys won the game and got a taste of the good stuff, didn't you?”
+[says:horikita-suzune] (p.29) “We were on equal terms. The same goes for the cultural festival proposal.” — Horikita, denying his framing.
+[says:ryuuen-kakeru] (p.29) “But at the end of the day, it doesn't matter if we crush class A, if you B's rise to the same position. It won't win us many class points, but we'll win the next festival. We'll have the same concept as you guys.”
+[says:maezono] (p.29) “Does that mean a maid café?” — Maezono immediately responds to the keyword “same.”
+[says:ryuuen-kakeru] (p.29) “Well, I'll change the concept a little but it is something similar.”
+[note] (p.29) “You mean you're going to go out of your way to compete in the same genre? It doesn't sound like it would be beneficial to you.” — printed untagged (Horikita, most plausibly, given the address); not assigned.
+[says:ryuuen-kakeru] (p.29) “Sure, it's probably riskier than the other ideas when it comes to competing for customers. But so what? We have a plan to outsell you and get to the top.”
+[says:ryuuen-kakeru] (p.29) “So, let's have a more intense competition, Suzune.”
+[says:horikita-suzune] (p.29) “Intense competition?”
+[says:ryuuen-kakeru] (p.29) “The one who earns as many points as possible will receive 5 million points from the other class. Wouldn't that be an interesting match?”
+[says:horikita-suzune] (p.29) “Are you serious? That doesn't sound like a very sane wager.” — untagged; addressed to Suzune; assigned by address, flagged as untagged.
+[says:ryuuen-kakeru] (p.29) “If you ask me, it's only 5 million points.”
+[says:ryuuen-kakeru] (p.30) “Well, I would've preferred a more flashy battle with a different opponent, but Student Council President Nagumo ran away, saying that he wouldn't participate in the festival this time. Well, it wasn't as if he was running away, but as long as we can't find someone to fight, we have no choice but to confront you guys.”
+[says:horikita-suzune] (p.30) “Don't decide this on your own. I'm not going to accept such a reckless proposal.”
+[says:ryuuen-kakeru] (p.30) “Are you going to run away too?”
+[says:horikita-suzune] (p.30) “You broke the contract, leaked it, and then tried to weasel your way out of it. That's an impossible proposition. I can finally see the true meaning of Katsuragi-kun's words in regards to the avoidance of a penalty agreement.”
+[says:ryuuen-kakeru] (p.30) “That doesn't matter anymore. Don't you have confidence in your ability to win a fight with me?”
+[says:horikita-suzune] (p.30) “I didn't say that.”
+[says:ryuuen-kakeru] (p.30) “Oh yeah?”
+[says:horikita-suzune] (p.30) “You've done whatever you want so far, and even I can't keep quiet about it. I will certainly consider the bet you proposed.”
+[says:ryuuen-kakeru] (p.30) “Kukuku, so you say. I'll be waiting for your answer, Suzune.”
+[note] (p.30) Ryūen and his group left satisfied; students from other classes — spectators — began to approach; Hashimoto smiled thinly at Ayanokōji, “as if to say, ‘Did you catch that we're teaming up with Ryūen?’” — Hashimoto would change the subject as if the conversation never took place.
+[says:matsushita-chiaki] (p.30) “What are you going to do, Horikita-san? We're pretty well prepared, aren't we..?” — Matsushita; Maezono and the others approached with some of the bottled-up anxiety and frustration spilling out.
+[says:horikita-suzune] (p.31) “I believe it's very likely. I don't think it's just a threat.”
+[says:hirata-yousuke] (p.31) “How about we shift to a different concept now?” — Yōsuke suggested, considering that option in order to turn things around.
+[says:horikita-suzune] (p.31) “We can't do that. Part of the budget's already invested.” — most of the maid uniforms are already ordered; stopping means throwing away precious funds.
+[says:horikita-suzune] (p.31) “We have no choice but to take advantage of this situation and turn it into an opportunity to get as many private points as we can by taking the gamble!” — assuming the class agrees; the whole class would have to work together.
+[trait] (p.27–31) Watches as Ryūen arrives with Ishizaki/Albert/Kaneda and publicly announces the alliance AND that his class will also run a maid café — a “declaration of war” leaking their secret so the whole grade knows. Later (p.46) Nagumo tells him Ryūen pressed him to bet tens of millions with him, offering the right to expel any student as collateral; Nagumo refused. Ayanokōji suspects Ryūen wants a direct contest — “The one who earns as many points as possible will receive 5 million points from the other class.”
+[rel:ryuuen-kakeru] (p.27–31) He leaks the maid café plan and copies the concept — a calculated “gamble” for the 5-point side bet; first through fourth, they declared competing for one of the four placements worth 100 class points.
+[rel:ishizaki-daichi] (p.27–28) He is part of the loud lobby conversation that outs the plan; he is with Ryūen in the hall.
+[rel:yamada-albert] (p.28) Albert is with Ryūen in the hall.
+[rel:kaneda-satoru] (p.28) Kaneda adds the “content of the stalls and yesterday about the location” detail — smirks.
+[rel:hirata-yousuke] (p.28–31) Yōsuke asks the clarifying questions the class needs; suggests shifting concept — rejected; learns of the alliance from the scene itself.
+[rel:ike-kanji] (p.27) He carries the lobby rumor back into the classroom.
+[rel:nomura-yuuji] (p.27) Nomura is named as one of the three talking loudly in the lobby.
+[rel:suzuki-hidetoshi] (p.27) Suzuki is named as one of the three talking loudly in the lobby.
+[rel:hashimoto-masayoshi] (p.29–30) He learned of the fact before Horikita's class did; watches somewhat amusedly; his eyes meet Ayanokōji's with a thin smile.
+[rel:horikita-suzune] (p.27–31) She greets Ryūen in the hallway, disputes the “revelation” framing, confirms the equal framing, keeps the 5-million-point wager “under consideration.”
+
+### y2v7 p.32–43 — The third-year Class A pre-opening; Asahina's warning; Kanzaki's confession
+[scene] (p.31) 3rd-year Class A (Nagumo's class) rents out gymnasium space for a combined “haunted house”/“maze” exhibit; a pre-opening soliciting opinions is announced the day before.
+[scene] (p.32) After school, Ayanokōji goes to the gymnasium; Ichinose and Kanzaki are ahead of him in line; Ichinose bows and averts her eyes; Kanzaki silently joins the line behind them both.
+[says:ichinose-honami] (p.32) “That's great of the president. I can't believe he's going to show it off to the public so openly.”
+[says:kanzaki-ryuuji] (p.32) “If it's this big, it's not easy to keep it hidden. It was a wise decision to release the information early if it was also for practice.”
+[says:ichinose-honami] (p.32) “Yes, that's right. I'm sorry, Kanzaki-kun, but can I leave it to you...?” — leaving the line before entering; Kanzaki nods without question.
+[says:ichinose-honami] (p.32) “Well, see you later.” — passing on a few words as well; Ichinose is never capable of rudeness.
+[says:kanzaki-ryuuji] (p.32) “Do you think I'm doing good?” — face grim; Ichinose's class is slowly dropping class points; cannot reach Class A.
+[scene] (p.33) Inside the haunted house: hand-made monsters, taped convenience-store lights; tricks clearly still in production; quality will improve for the festival.
+[says:ayanokouji-kiyotaka] (p.33) “Whoa! Ah ah ah!?” — he was supposed to be the one screaming, but the ghost jumps out, stumbles on a step and falls over.
+[scene] (p.34) “Ouch, ouch!!!” — the fallen ghost turns out to be Asahina Nazuna, a third-year Class A student.
+[action] (p.36) He cannot leave her there; he checks her ankle — beginning to swell; walks her to the infirmary; curiously stared at; the doctor treats her on the spot.
+[says:asahina-nazuna] (p.36) “Don't worry about me. Thank you, Ayanokōji-kun. I'm sure I'll be fine after a little rest.”
+[note] (p.36) “Don't worry, trust your senpai..!” — printed untagged; the adjacent beat (“She raised her voice in pain… she tried faking a decisive display in vain”) ties the line to Asahina, but the translation assigns it to no one; flagged untagged.
+[says:asahina-nazuna] (p.37) “Speaking of which, Ayanokōji's class was met with a disaster weren't you?”
+[says] (p.37) “Are you talking about leaked information regarding the maid café?”
+[says:asahina-nazuna] (p.37) “Yes.”
+[says] (p.37) “Ryūen's class also decided to participate in a maid café.”
+[says:asahina-nazuna] (p.37) “If you have three or four classes with the same exhibit, it's only going to make the competition for customers much worse.”
+[says:asahina-nazuna] (p.38) “Oh, thank God. I didn't want to bother the class with something like this.”
+[says:asahina-nazuna] (p.38) “That's not going to happen. But there's nothing better than having lots of class points, you know. There are even quite a few of my classmates that are against Miyabi being hands-off this time.”
+[says:asahina-nazuna] (p.38) “In case you're wondering, Nagumo is saying that he's going to let the nonA's compete and pick one student from the class that takes first place,” she said. — Nagumo's plan concentrates points on Ichinose.
+[note] (p.38) Narration (unquoted): because of Nagumo's laws, students who decide not to win need as many class points as possible; if you placed first, that's more private points before graduation.
+[says:asahina-nazuna] (p.38) “You know what we were talking about earlier, right? How Miyabi wasn't keeping an eye on you anymore?”
+[says:asahina-nazuna] (p.38) “There was never really a clear winner between you and Miyabi, was there?”
+[says:asahina-nazuna] (p.38) “If that's the case, then I don't think it's over.”
+[says:asahina-nazuna] (p.38) “I don't think that even matters. It's not entirely about you anymore, Ayanokōji-kun. Miyabi could start targeting people close to you.”
+[says:asahina-nazuna] (p.39) “Like former student council president Horikita, Nagumo likes to compete, doesn't he?”
+[says:asahina-nazuna] (p.39) “Has Nagumo ever been clearly beaten by someone or something? Has he ever had a slight setback?”
+[says:asahina-nazuna] (p.39) “Miyabi's never stumbled, at least not to my knowledge.”
+[says:asahina-nazuna] (p.39) “It would be an unquestionable fact that Student Council President Nagumo is an excellent person. If he wasn't competent, it would be impossible for him to achieve his OAA or become student council president.”
+[says:asahina-nazuna] (p.39) “That guy likes being number one. That's why he fought to be the top of this school. In the end, he even became the student council president, so he's really a man of his word.”
+[says:asahina-nazuna] (p.39) “How can that be...? He's never lost to anyone in particular.”
+[says] (p.39) “However, if you asked me whether or not Nagumo is the strongest student, I would immediately deny it.” — “I think it's because he's never had good opponents.” — “I think his greatest misfortune was that he didn't have anyone equally as capable, or even more so, willing to compete with him in his year.” — Ayanokōji's verdict.
+[says:asahina-nazuna] (p.39) “You mean he didn't have a good... Rival?”
+[says:asahina-nazuna] (p.40) “I wish we could just stop fighting in this school.”
+[says:asahina-nazuna] (p.40) “I just hope nothing will happen to me...”
+[note] (p.39–40) Narration: Nagumo would not have doubted his victory; “Nagumo had never experienced losing, rather, only winning streak after winning streak.” / “In the true sense of the word, Nagumo Miyabi is a man who has never known defeat.” — this cultural festival has blatantly shown Nagumo's behaviour changing, “the calm before the storm.”
+[note] (p.40) Narration recalls Horikita Manabu's words: “Nagumo's methods make a lot of people unhappy.” — half true; the original plan was to mess with Nagumo's emotions and thought process, not to let students graduate Class A that wouldn't otherwise.
+[says] (p.40) “I'm starting to get a little interested in Student Council President Nagumo.”
+[says:asahina-nazuna] (p.40) “Did I hear you right?”
+[says:asahina-nazuna] (p.41) “I knew you were strange.”
+[says:asahina-nazuna] (p.41) “It may have been a coincidence that we met, but maybe that's why Nagumo wants to fight.”
+[note] (p.41) Ayanokōji declares Asahina Nazuna — “the amulet, the existence of coincidences, and Nagumo Miyabi” — “a single test case,” success comes “after a series of failed experiments.”
+[scene] (p.41) §5 — leaving Asahina in the infirmary, he returns to the gymnasium to find Kanzaki; Kanzaki exits alone; approaches him after seeing him.
+[says:kanzaki-ryuuji] (p.42) “You're back after all. It seems her injuries were not too serious.”
+[says:kanzaki-ryuuji] (p.42) “Are you wondering why Ichinose isn't here?” — “I didn't call her because I was worried about the possibility of bumping into you coming back from the infirmary. Besides, there are still a few days left for the pre-opening.”
+[says] (p.42) “To be honest, a little.”
+[says:kanzaki-ryuuji] (p.42) “I want to continue where we left off earlier. Your class seems to be doing quite well.”
+[says] (p.42) “We're not unscathed. Unlike Kanzaki's class, we have vacancies. We're also carrying a negative that you can't see just from class points.”
+[says:kanzaki-ryuuji] (p.42) “You're not the only ones with invisible risks, but you've made a big difference in terms of the positive points you can see.”
+[says:kanzaki-ryuuji] (p.42) “Classes like yours will eventually have to fight against Sakayanagi's class.” — rather than envy, this was his honest opinion.
+[says] (p.42) “Have you given up already? Moving up to Class A?”
+[says:kanzaki-ryuuji] (p.42) “I guess so.”
+[says:kanzaki-ryuuji] (p.43) “No one has yet to notice how the class is slowly sinking. It would still be endearing if they were just pretending not to notice, but they're all genuinely oblivious.”
+[says] (p.43) “Only you seem to be different.”
+[says:kanzaki-ryuuji] (p.43) “That was until a little while ago; there's no point in rebelling alone.”
+[says] (p.43) “You mean you've given up on trying to change their minds?”
+[says:kanzaki-ryuuji] (p.43) “Our class will never make it to Class A.” — Kanzaki said it clearly.
+[says:kanzaki-ryuuji] (p.43) “If the possibility has been reduced to zero, the only thing left to do is to find another way. If we are going to sink anyway, we should give as many people as possible a chance to escape.”
+[says] (p.43) “So you're going to move to a different class after accumulating 20 million points?”
+[says:kanzaki-ryuuji] (p.43) “Because Student Council President Nagumo Miyabi has actually implemented this and it's shown to be effective. Concentrating private points on Ichinose is what we've been doing. If we execute this plan to the limit, we can move at least two or three people to Class A. In addition, the existence of class transfer tickets was shown for the first time at the sports festival. Of course, it won't be easy to acquire them, but the increase in options is a genuinely pleasing factor.”
+[says] (p.43) “Why are you telling me all this?”
+[says:kanzaki-ryuuji] (p.43) “I don't know what I'm doing either.” — an uncharacteristic response.
+[says:kanzaki-ryuuji] (p.43) “I didn't have a place to vent. Maybe that's why.”
+[says:kanzaki-ryuuji] (p.43) “You're the only person I thought was capable of understanding my thoughts without talking out of turn.”
+[says:kanzaki-ryuuji] (p.43–44) “I don't care what happened between you and Ichinose or what kind of relationship you two have. The fact that you're having such a bad influence that she can't even do a satisfactory observation of the third-year Class A's exhibit is a major issue.”
+[says] (p.44) “It's a little harsh when you put it that way.”
+[says:kanzaki-ryuuji] (p.44) “You'll have to forgive me. I'm sure you understand how frustrating it is.”
+[says] (p.44) “Can we take some time soon? I'd like to have a little talk about the future.”
+[says:kanzaki-ryuuji] (p.44) “Why not now? We can take some time to talk about what's to come.”
+[says:kanzaki-ryuuji] (p.44) “I'm sorry, but right now I need to do some research on the third-years. Besides, we can't make any progress if we start talking about it now.”
+[says] (p.44) “If that's the case, well, okay. Call me anytime.”
+[note] (p.43) Kanzaki envies nothing but sees the same picture: Ichinose's class cannot make Class A; Nagumo's 20-million-point concentration plan and the class-transfer tickets (first shown at the sports festival) are his escape route; he sees Ayanokōji as the only outlet for his resentment.
+[trait] (p.32–43) Analyzes Nagumo: he's never truly lost (only beating weaker opponents on his way to number one, with the best of his generation not even trying to catch him), so his “warped” desire to compete festers; Asahina warns that Nagumo could start targeting people close to him (Kei, Ichinose, even Horikita); Ayanokōji becomes “interested” in Student Council President Nagumo — “the calm before the storm.”
+[rel:asahina-nazuna] (p.34–41) She is injured in the maze (ankle) and he half-carries her to the infirmary; warns him Nagumo could target people close to him; he formulates the “test case” theory from the coincidence.
+[rel:ichinose-honami] (p.32, 43) Awkward around him; her class concentrating points on her per Kanzaki; she cannot do a satisfactory observation of the 3rd-year exhibit while staying loyal to her policy.
+[rel:kanzaki-ryuuji] (p.32, 42–44) He waits for Ichinose; confesses his class will never make Class A; privately plans to concentrate points on Ichinose to move 2–3 people into Class A; sees Ayanokōji as his only outlet.
+[rel:nagumo-miyabi] (p.36–41) Nagumo's hands-off festival; the non-A's compete, one student from the winning class picked; Asahina reads him after three years at his side.
+[rel:horikita-manabu] (p.40) His line recalled: “Nagumo's methods make a lot of people unhappy.” — Ayanokōji wrote the plan that broke it
+[rel:kiryuin-fuuka] (p.40) Named in narration as one of the few talented students near Nagumo “such as Kiryūin” — never tried to close the gap.
+
+### y2v7 p.44–53 — §6: the Nagumo negotiation — a match and a favor
+[scene] (p.44) It is Friday; Ayanokōji comes to a place he does not usually visit; after knocking, he opens the door to the student council room; Nagumo Miyabi looks surprised; Asahina informed him the room would be empty; his cell phone is in his left hand.
+[says:nagumo-miyabi] (p.44–45) “I waited for you because Nazuna insisted on giving you some time, but I’m not going to assume anything. So, are you here for the student council or for me?”
+[says:nagumo-miyabi] (p.45) “Well, in that case, I can only commend you for showing your face in front of me. Don't you think so, Ayanokōuji?” — note: the translation prints “Ayanokōuji” here (defect kept as printed).
+[says] (p.45) “I think you're referring to the sports festival, but isn't being sick a legitimate right that's accepted as a reason for absence?”
+[says:nagumo-miyabi] (p.45) “Don't give me that shit, man. I saw you at Keyaki Mall the next day and you looked fine.”
+[says] (p.45) “I got better in a day.”
+[says:nagumo-miyabi] (p.45) “That's a blatant lie.”
+[says:nagumo-miyabi] (p.45) “Truth or lie, I don't really care anymore. Anyway, let me hear your reason for coming here.”
+[says:nagumo-miyabi] (p.45) “You told me before you had no business with me, the student council president. If I wanted to, I could choose to have no business with you too, right?”
+[says:nagumo-miyabi] (p.45) “Sorry, I don't have anything to drink.”
+[says] (p.46) “I had no idea that the 3rd year Class A would do a pre-opening. It's normal to think of it as a disadvantage to expose the class's exhibit to the public.”
+[says:nagumo-miyabi] (p.46) “I'm also getting stories up here that some stupid class had their event exposed.”
+[says] (p.46) “That's an earful, isn't it? I heard Ryūen visited the student council president Nagumo as well.”
+[says:nagumo-miyabi] (p.46) “He was pressing me to bet tens of millions of points with him.”
+[says:nagumo-miyabi] (p.46) “Yeah, well, the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival. So, there's no need for me to give out any instructions. They can go and make memories during their final moments in high school.”
+[says:nagumo-miyabi] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.”
+[says:nagumo-miyabi] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.”
+[says:nagumo-miyabi] (p.46) “No one can complain to me, ’cause if they do, their Class A status will no longer be guaranteed. When the festival gets closer, I, or rather the student council, will make a not-so-bad proposal. A little help for a class that's struggling to win.”
+[says] (p.47) “I wasn't interested.”
+[says:nagumo-miyabi] (p.47) “If someone else said what I just heard from your mouth, I might've gotten angry.”
+[says] (p.47) “Unlike the previous student council president, Horikita Manabu, Student Council President Nagumo attracts the eyes of those around him. It's also because you're a little too dazzling for a shady person like me to face.”
+[says:nagumo-miyabi] (p.47) “Sure. But that's just a front, isn't it?”
+[says] (p.48) “I have a proposal for President Nagumo. Can I make a challenge to the student council president this time?”
+[says:nagumo-miyabi] (p.48) “I'm not sold, this isn't like you.”
+[says:nagumo-miyabi] (p.48) “I don't know when exactly this change of heart came, but it's too late. You ran away from the last chance I gave you at the sports festival. If I may borrow words from your true feelings, you weren't interested. Isn't that right?”
+[says:nagumo-miyabi] (p.48) “You aren't funny Ayanokōji. It wouldn't ever be the same knockout. There's a huge difference in value between you and me.”
+[says:nagumo-miyabi] (p.48) “Well, I'm going to shelve it because there's no point in getting into it now. Understand this, Ayanokōji. I'm allowed to challenge you to a fight, but you're not allowed to challenge me to a fight.”
+[says:nagumo-miyabi] (p.49) “You really are strange. You don't show any sign of timidity when dealing with me. No, it's not only against me, but also against Horikita-senpai.”
+[says:nagumo-miyabi] (p.49) “Oh, man. If I were to play a game with you, what would you do?” — he gave all the power to his classmates to compete for sales at the school festival; it is almost the third semester of the school year.
+[says:nagumo-miyabi] (p.49) “Above all, you're well aware of the difficulty of competing in earnest between different grades, as you and the former student council president know, don't you?”
+[says:nagumo-miyabi] (p.49) “I don't know if we can achieve a 100% perfect match, but I think this can become a reality.”
+[says] (p.50) “I’m sure Student Council President Nagumo can already envision the situation. I'm sure you've been observing them day in and day out, right? If that's the case, there's no way you don't know the details.”
+[says:nagumo-miyabi] (p.50) “I see. I was planning to shake you up at that time, but instead of getting upset, you decided to take advantage of it.”
+[says:nagumo-miyabi] (p.50) “Alright, tell me the main issue. I'll think about whether or not I'll accept the proposal after that.”
+[says] (p.50) “I have a favor to ask of the Student Council President Nagumo.”
+[says:nagumo-miyabi] (p.50) “I understand what you're telling me. But that's not a proposal based on your desire to compete with me. You brought up the idea of a match because you had no choice but to control what you wanted to happen. Am I right?”
+[says:nagumo-miyabi] (p.50) “You're an honest guy.”
+[says:nagumo-miyabi] (p.50) “You're a joke. You asked for a match, and now you're being so brazen.”
+[says:nagumo-miyabi] (p.50) “Do you think I'm going to play along with you and give you what you want?”
+[says] (p.50) “If you refuse, that's the end of it. I will never fight the Student Council President again. Even if you use a classmate or someone in the same grade as me. Not even if you take someone hostage, I will thoroughly ignore them, and you.”
+[says:nagumo-miyabi] (p.51) “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?”
+[says] (p.51) “It doesn't matter who it is.”
+[says:nagumo-miyabi] (p.51) “It doesn't sound like you're bluffing. It seems like… you really mean it.”
+[says:nagumo-miyabi] (p.51) “If I want to fuck you over, which I deeply do, I have no choice but to accept your current proposal.”
+[says:nagumo-miyabi] (p.51) “Okay, I'll take your word for it, Ayanokōji. My graduation from Class A is unassailable anyway. It's not a bad idea to end up playing with you.”
+[says:nagumo-miyabi] (p.51) “But are you sure you want to do this? If I do what you suggest, then... no matter how it turns out, people will be hurt.”
+[says:nagumo-miyabi] (p.52) “You knew?”
+[says:nagumo-miyabi] (p.52) “So you're saying that it's not only Karuizawa, but also Honami...”
+[says:nagumo-miyabi] (p.52) “I take back my comment about playing around. You are the only one that Horikita-senpai recognized. I've been able to make sure of that.”
+[says:nagumo-miyabi] (p.52) “Man, I'll admit that you've got a real poker face. I also understand that you negotiated diligently to get me into your deal. So, let me hear your true feelings for once. Even if I was serious about getting Karuizawa to drop out of school, would you have stood by and watched?”
+[says:nagumo-miyabi] (p.52) “That's not an answer. The answer you're giving is to the likeness of classmates. What I'm saying is that I didn't feel any anxiety about the disappearance of Karuizawa, who's very special to you.”
+[says] (p.52) “If she disappears, she's gone, and that's all there is to it. It is neither more nor less than that. In fact, it would've been a great help to me because you would've made the cleanup easier.”
+[says:nagumo-miyabi] (p.52) “You have loose screws, Ayanokōji.”
+[says] (p.52) “I'll call you later.”
+[note] (p.53) Narration closes the chapter: people who make wrong decisions based on their emotions are the ones with the bolts screwed on the wrong way; the first priority is always to protect yourself; “That is the unshakable ‘solution’.”
+[trait] (p.44–53) Proposes a match (to settle their score) in exchange for a favor — that Nagumo stop targeting Kei/Ichinose/Horikita; when Nagumo threatens Kei, he declares “it doesn't matter who it is”; pure sincerity that shocks Nagumo into accepting; Nagumo calls him “loose screws”; he believes suppressing emotion with the “solution” is sanity.
+[rel:nagumo-miyabi] (p.44–53) He secures a future match with Nagumo by agreeing not to interfere with Nagumo's harassment — a calculated trade; Nagumo accepts.
+[rel:karuizawa-kei] (p.51–52) He publicly bluffs indifference to her expulsion to make the deal credible — his “solution.”
 [rel:ichinose-honami] (p.52) Nagumo's plan also targets her; his deal covers her too.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ### y2v7 p.54–57 — Kei's maturity; asking Mashima about unstated rules
 [scene] (p.54) After school, messages Kanzaki to meet (off-campus, in the special wing); Kei asks to go home with him but gracefully switches to Satō when he declines — she's grown more mature, even inviting Shinohara (formerly her enemy).

@@ -415,10 +415,10 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — shinohara-satsuki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.26, p.54, p.110, p.132-133, p.177.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.26 — Drawn into the Satō–Kei circle
+[mentioned] (p.26) “Shinohara and Mii-chan, who've been struggling for a while” — the narration; Shinohara is drawn into the Satō–Kei circle of happiness spreading from the dormitory-side street to the classroom.
+[rel:satou-maya] (p.26) She is the friend Shinohara is drawn toward.
+[rel:karuizawa-kei] (p.26) She is part of the pair whose warmth pulls Shinohara in.
 
 ## y2v8
 

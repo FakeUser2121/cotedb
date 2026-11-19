@@ -943,10 +943,18 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — horikita-manabu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.6, p.8-11, p.13-15, p.17-22, p.27-32.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.40 — Horikita Manabu's recalled line
+[scene] (p.40) Narration, as Ayanokōji analyzes Nagumo: “I recalled Horikita Manabu's words, ‘Nagumo's methods make a lot of people unhappy.’ That is half true.” — he reflects that the original plan was only to mess with Nagumo's emotions and thought process.
+[says] (p.40) “Nagumo's methods make a lot of people unhappy.” — Horikita Manabu's recalled line.
+[rel:nagumo-miyabi] (p.40) His remembered words frame Ayanokōji's assessment of Nagumo.
+[rel:ayanokouji-kiyotaka] (p.40) He recalls his words; his critique is cited by name.
+
+### y2v7 p.47–49 — The Manabu precedent in the negotiation
+[scene] (p.47–49) Nagumo invokes Horikita Manabu's shadow at the sports festival — his desire was to fight the elder Horikita, not Ayanokōji; the match had not happened because of Ayanokōji.
+[says:nagumo-miyabi] (p.47) “Unlike the previous student council president, Horikita Manabu, Student Council President Nagumo attracts the eyes of those around him.” — Nagumo heard Ayanokōji praise his dazzle as a front; his line.
+[note] (p.49) “More than anyone else. How hard do you have to work to adjust? Because of you, not just this year, last year too, the match with Horikita-senpai didn't happen.” — Nagumo's grievance; Ayanokōji drew Manabu's refusals from him.
+[note] (p.49) “Last year's sports festival, training camps, etc., Nagumo Miyabi was adamant about competing with Horikita Manabu. No matter what form it took, no matter how small the match was, he forced himself to do so, hoping to make it black and white. However, Manabu dodged Nagumo's provocations and didn't involve everyone in the match.” — the narration.
+[rel:nagumo-miyabi] (p.47–49) The Manabu rivalry hangs over the negotiation; Manabu dodged him without involving everyone.
 
 ## y2v8
 

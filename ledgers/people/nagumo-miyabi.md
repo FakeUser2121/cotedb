@@ -701,6 +701,22 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.31–32 — The Class A maze; the pre-opening
+[scene] (p.31) Rumors fly: 3rd-year Class A will rent out gymnasium space for a combined “haunted house” and “maze” exhibit — as if they had no intention of hiding it from the start; the class consensus was to let him do what he wants; winning was secondary.
+[note] (p.31) “Perhaps it wasn't Nagumo's plan, but the consensus of the class was to let them do what they want. They were handling the festival in a way that made others think that winning was secondary.” — the narration.
+[scene] (p.32) The pre-opening is held over several days — his class's exhibit is being shown to the invited guests to gauge the quality; guests line the line outside with a few first-years and second-years in the gym.
+[mentioned] (p.32) The gymnasium, with its dimmed lights, has a slightly frightening atmosphere; the production is clearly hand-made and still in production.
+[rel:ichinose-honami] (p.32) She attends the pre-opening scouting with Kanzaki.
+[rel:kanzaki-ryuuji] (p.32) Kanzaki scouts the maze and reports its scale.
+
+### y2v7 p.46 — Ryūen's attempted tens-of-millions bet
+[scene] (p.46) Ayanokōji visits him in the student council room; Nagumo tells him Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
+[says] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo telling Ayanokōji.
+[says] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo.
+[says] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
+[note] (p.46) The attempted wager matches the 5-million-point festival bet Ryūen proposed to Horikita at p.29; Nagumo has no interest in the festival at all.
+[rel:ryuuen-kakeru] (p.46) He tried to buy a wager with him; Nagumo refused.
+
 ### y2v7 p.44–53 — Nagumo: loses his "game" to Ayanokōji's sincerity
 [says] (p.46) "the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival."
 [says] (p.48) "You ran away from the last chance I gave you at the sports festival."

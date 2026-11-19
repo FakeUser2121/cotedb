@@ -1868,10 +1868,26 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — karuizawa-kei mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11, p.16, p.22, p.25-27, p.51-52.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.26 — Dormitory morning; Kei waiting downstairs
+[scene] (p.26) The next morning, Kei is waiting for Ayanokōji downstairs; past curfew the previous night she remained in his room; fortunately no witnesses when she left; they walk together holding hands; she blushes and thanks him.
+[says] (p.26) “Sorry Kiyotaka, have you been waiting?” — Kei.
+[says:ayanokouji-kiyotaka] (p.26) “Not really. Shall we go then?”
+[says] (p.26) “Yesterday… Thanks for staying up with me until late. I'm very happy.” — Kei squeezed his hand while blushing a little.
+[says:ayanokouji-kiyotaka] (p.26) “But it'd be a problem if we get caught.”
+[says] (p.26) “Ahaha, indeed.” — Kei; “For some reason, Kei's profile looked reliable. Is it possible for her to change this much in half a day?” — the narration.
+[says] (p.26) “Do you even have to ask?” — Kei, asked if it hurt.
+[says] (p.26) “No, but… how do I put this, I thought I was used to it.” — a little embarrassed; delighted.
+[says] (p.26) “In a way, it was my first time so I probably hadn't sorted my thoughts yet. However, I feel reassured that you ignored the curfew and stayed with me the whole time.”
+[says:ayanokouji-kiyotaka] (p.26) “I see.”
+[says] (p.26) “Good morning, Maya ~” — Kei gives him a gaze, excuses herself and starts closely chatting with Satō.
+[says:satou-maya] (p.26) “G-Good morning, Kei-chan.” — Satō, who arrived early, got up to run to her.
+[note] (p.26) “Kei ascended another step up on the staircase of adulthood after yesterday's experience.” — the narration; she had support behind her and stood her ground anyway.
+[rel:satou-maya] (p.26) She greets him with bright “Maya ~” warmth; the moment's growth is witnessed by her.
+[rel:ayanokouji-kiyotaka] (p.26) She stayed the night past curfew; visibly grown more confident.
+
+### y2v7 p.51–52 — Named by Nagumo as the hostage card
+[mentioned] (p.51–52) Nagumo plays her as the card to sway Ayanokōji — “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?” — Ayanokōji's answer: “It doesn't matter who it is.” — “If she disappears, she's gone, and that's all there is to it.” — Nagumo appears genuinely shaken: “You have loose screws.”
+[rel:nagumo-miyabi] (p.51–52) She is the card Nagumo plays; it fails.
 
 ## y2v8
 

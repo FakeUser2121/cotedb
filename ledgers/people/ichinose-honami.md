@@ -1874,10 +1874,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ichinose-honami mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9, p.29, p.32-33, p.41-43, p.52.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.9 — Additional funds: second among second-years
+[scene] (p.9) Chabashira displays the additional funds: Ichinose's Class D has 26,600 points in additional funds — second among second-year students, behind this class (39,400), ahead of Sakayanagi's (18,800) and Ryūen's (17,000); the student council member bonus gave her and Horikita 10,000 each.
+[says:chabashira-sae] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds.”
+[number] (p.9) Ichinose's class additional funds: 26,600 — “this class has the most additional funds among the second-year students.”
+[rel:horikita-suzune] (p.9) Both their classes lead the second-year additional funds; both received the 10,000 student-council member bonus.
+
+### y2v7 p.32–33 — Scouting Class A's exhibit; awkward around Ayanokōji
+[scene] (p.32) After school, Ichinose is in line at the gymnasium haunted-house pre-opening — with Kanzaki; Ayanokōji arrives; she bows and averts her eyes; Kanzaki silently joins the line behind them both; the awkwardness is mutual.
+[says] (p.32) “That's great of the president. I can't believe he's going to show it off to the public so openly.” — Ichinose.
+[says] (p.32) “Yes, that's right. I'm sorry, Kanzaki-kun, but can I leave it to you...?” — Ichinose passes the line duty to Kanzaki; Kanzaki nodded his head in acceptance without question.
+[says] (p.32) “Well, see you later.” — Ichinose, never capable of rudeness.
+[note] (p.32) She never enters; only Kanzaki and Ayanokōji were left behind; the atmosphere was heavy; “Especially for Kanzaki, the situation would be clearer than daylight.”
+[note] (p.41–44) She does not attend the discussion afterwards; Kanzaki — her own class strategist — tells Ayanokōji he didn't call her because he was worried about the possibility of bumping into him coming back from the infirmary; she is never capable of rudeness, and never there when the real talk happens.
+[rel:kanzaki-ryuuji] (p.32) Kanzaki accompanies her in line; she leaves him to face Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.32) She bows and averts her eyes; an old, polite distance.
+[rel:nagumo-miyabi] (p.38) Kanzaki says Nagumo's plan concentrates points on her — “Concentrating private points on Ichinose is what we've been doing.”
 
 ## y2v8
 

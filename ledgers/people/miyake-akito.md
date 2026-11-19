@@ -655,13 +655,19 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — miyake-akito mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.13-14, p.84, p.107, p.110-111, p.142.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.8 — Additional funds: 100 points
+[scene] (p.8) The additional-funds display: Akito received 100 points (club activity) — the smallest amount mentioned alongside Yōsuke's 3,000; the class total is 39,400.
+[number] (p.8) Akito's additional funds: 100 — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100.”
 
+### y2v7 p.13–16 — Haruka and Akito: the general role
+[scene] (p.13–16) The maid café planners discuss Haruka and Akito; Horikita explains she gave them a general role — not a maid assignment, not exclusion.
+[says:horikita-suzune] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on. If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.”
+[note] (p.13–16) Present at the meetings; he knows about the maid café; Haruka proposed the idea; the general role keeps them close without important assignments.
+[rel:hasebe-haruka] (p.13–16) The general role is assigned to them together; they keep distance from the class.
 
-
+### y2v7 p.25 — Seen with Haruka at Keyaki Mall
+[mentioned] (p.25) Sudō and Ayanokōji spot Akito and Haruka's backs at Keyaki Mall; the pair's situation echoes Yamauchi's withdrawal — Sudō grinds his teeth.
+[note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
 
 ## y2v8
 

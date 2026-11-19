@@ -707,6 +707,46 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v7 → start -->
 
+### y2v7 p.32–33 — Scouting the maze with Ichinose
+[scene] (p.32) After school, Kanzaki is in line at the gymnasium haunted-house pre-opening — with Ichinose; Ayanokōji arrives; Kanzaki silently takes one look at Ichinose and Ayanokōji and gets in line; the atmosphere is heavy; he does not enter.
+[says] (p.32) “If it's this big, it's not easy to keep it hidden. It was a wise decision to release the information early if it was also for practice.” — Kanzaki.
+[says:ichinose-honami] (p.32) “Yes, that's right. I'm sorry, Kanzaki-kun, but can I leave it to you...?” — Ichinose; Kanzaki nodded his head in acceptance without question.
+[says] (p.32) “Do you think I'm doing good?” — face grim.
+[note] (p.33) “By the time I finished reading the rules, Kanzaki left the line and turned his back to me. He was probably waiting for Ichinose to come back.”
+[rel:ichinose-honami] (p.32) He accompanies her; she leaves the line before entering; he silently waits for her.
+
+### y2v7 p.42–44 — Ichinose's class can't win; the confession
+[scene] (p.42) After watching Ichinose exit, Kanzaki approaches Ayanokōji; alone; Ichinose's class cannot make Class A; he carries a negative invisible from class points.
+[says] (p.42) “You're back after all. It seems her injuries were not too serious.”
+[says] (p.42) “Are you wondering why Ichinose isn't here?”
+[says] (p.42) “I didn't call her because I was worried about the possibility of bumping into you coming back from the infirmary. Besides, there are still a few days left for the pre-opening.”
+[says] (p.42) “I want to continue where we left off earlier. Your class seems to be doing quite well.”
+[says] (p.42) “You're not the only ones with invisible risks, but you've made a big difference in terms of the positive points you can see.”
+[says] (p.42) “Classes like yours will eventually have to fight against Sakayanagi's class.” — rather than envy, this was Kanzaki's honest opinion.
+[says:ayanokouji-kiyotaka] (p.42) “Have you given up already? Moving up to Class A?”
+[says] (p.42) “I guess so.” — answering “Have you given up already? Moving up to Class A?”
+[says] (p.43) “No one has yet to notice how the class is slowly sinking. It would still be endearing if they were just pretending not to notice, but they're all genuinely oblivious.”
+[says:ayanokouji-kiyotaka] (p.43) “Only you seem to be different.”
+[says] (p.43) “That was until a little while ago; there's no point in rebelling alone.”
+[says:ayanokouji-kiyotaka] (p.43) “You mean you've given up on trying to change their minds?”
+[says] (p.43) “Our class will never make it to Class A.” — Kanzaki said it clearly.
+[says] (p.43) “If the possibility has been reduced to zero, the only thing left to do is to find another way. If we are going to sink anyway, we should give as many people as possible a chance to escape.”
+[says] (p.43) “Because Student Council President Nagumo Miyabi has actually implemented this and it's shown to be effective. Concentrating private points on Ichinose is what we've been doing. If we execute this plan to the limit, we can move at least two or three people to Class A. In addition, the existence of class transfer tickets was shown for the first time at the sports festival. Of course, it won't be easy to acquire them, but the increase in options is a genuinely pleasing factor.”
+[says:ayanokouji-kiyotaka] (p.43) “Why are you telling me all this?”
+[says] (p.43) “I don't know what I'm doing either.” — an uncharacteristic response.
+[says] (p.43) “I didn't have a place to vent. Maybe that's why.”
+[says] (p.43) “You're the only person I thought was capable of understanding my thoughts without talking out of turn.”
+[says] (p.43–44) “I don't care what happened between you and Ichinose or what kind of relationship you two have. The fact that you're having such a bad influence that she can't even do a satisfactory observation of the third-year Class A's exhibit is a major issue.”
+[says:ayanokouji-kiyotaka] (p.44) “It's a little harsh when you put it that way.”
+[says] (p.44) “You'll have to forgive me. I'm sure you understand how frustrating it is.”
+[says] (p.44) “Why not now? We can take some time to talk about what's to come.”
+[says] (p.44) “I'm sorry, but right now I need to do some research on the third-years. Besides, we can't make any progress if we start talking about it now.”
+[says:ayanokouji-kiyotaka] (p.44) “If that's the case, well, okay. Call me anytime.”
+[note] (p.43) His plan: move two or three students to Class A via point concentration on Ichinose + the class-transfer tickets (first shown at the sports festival) — “the increase in options is a genuinely pleasing factor.”
+[rel:ichinose-honami] (p.42–44) His honest opinion: her class cannot reach Class A; he blames Ayanokōji's bad influence for her poor observation; he plans point concentration on her.
+[rel:ayanokouji-kiyotaka] (p.42–44) He vents to him — his only outlet; he asked for advice on a different matter (the real target surfaces at p.59).
+[rel:nagumo-miyabi] (p.43) He knows and uses Nagumo's system (point concentration; transfer tickets) as the escape hatch.
+
 ### y2v7 p.57–71 — Kanzaki's confession; the resolve to change his class
 [scene] (p.57) Meets Ayanokōji in the special wing at his own request (though Ayanokōji called him), grim and wary.
 [says] (p.58) "What do you want from me?"

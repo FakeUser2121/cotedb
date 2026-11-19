@@ -1865,13 +1865,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kushida-kikyou mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.12, p.75, p.84-86, p.101-105, p.121-122.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.12 — The honor roll
+[scene] (p.12) The midterm results list: Kushida is named among the honor roll alongside Yōsuke, Matsushita and Wang.
+[note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration; the surprise in the results is Sudō's 11th place, not theirs.
 
 ## y2v8
 

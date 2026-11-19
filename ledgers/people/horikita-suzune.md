@@ -4589,14 +4589,76 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.8–29 — Horikita: festival prep; the Ryūen alliance leak
-[says] (p.10) "very extreme, but what happens if all classes receive the same amount of 320,000 points and are side by side?"
-[says] (p.19) "A sports festival is a sports festival, a cultural festival is a cultural festival."
-[says] (p.28) "We were on equal terms. The same goes for the cultural festival proposal."
-[trait] (p.8–29) Second in OAA (3 pts behind Keisei); as class leader, presses Chabashira on collusion rules, plans the maid café with Ayanokōji (surprised by his knowledge), and keeps the Ryūen alliance secret from most of the class; when Ike leaks the maid café and Ryūen publicly announces his own competing café, she stays calm and greets him in the hallway — "a sports festival is a sports festival."
-[rel:ayanokouji-kiyotaka] (p.19–22) She organizes the maid café with him, relying on his knowledge.
-[rel:ryuuen-kakeru] (p.28–29) She confirms the cultural-festival alliance publicly — "equal terms."
-[rel:hasebe-haruka] (p.13–15) She's wary of Haruka "doing something" at the festival.
+<!-- walk: y2v7 Prologue → p.6 -->
+
+### y2v7 p.6 — Prologue: named in Haruka's monologue
+[mentioned] (p.6) “Horikita Suzune and Ayanokōji Kiyotaka.” — printed in Haruka's monologue as the two students she blames for Airi's expulsion; she decides on revenge.
+[rel:hasebe-haruka] (p.6) Named as one of the two people Hasebe Haruka reads as her enemies.
+
+### y2v7 p.7–16 — Rules review; OAA second; the maid café plan
+[scene] (p.7) Monday, November 1st; Chabashira opens with the festival rules review; the class registers the disciplined attitude she noticed; she presses Chabashira on the equal-sales rule; the additional-funds breakdown is announced — her 10,000 (student council member bonus) is among the three 10,000s.
+[says] (p.10) “I know this is very extreme, but what happens if all classes receive the same amount of 320,000 points and are side by side?” — Horikita raises the tie question.
+[says:chabashira-sae] (p.10) “If the sales are equal, they are treated as the same rank. If all 12 classes make equal sales, as Horikita says, then all classes get 100 class points as first place.” — Chabashira's answer.
+[number] (p.11) Second-semester midterm: 2nd place, 3 points behind Keisei (Keisei took first place with a perfect score in all subjects); her class had no surprise for Chabashira-sensei.
+[trait] (p.13–16) She leads the maid café planning — she is the public face while Ayanokōji works the details; she gives Haruka and Akito a general role instead of exclusion; she refuses to punish them in advance.
+[says] (p.14) “There's very little we can do in advance… Preaching to them to stop taking revenge will only get on their nerves.” — Horikita, looking off into the distance.
+[says] (p.14) “If she's really looking for an opportunity for revenge, she certainly won't put it off for months.” — the same run; adjacent narration tags it as Horikita's.
+[says] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on. If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.” — Horikita.
+[note] (p.14) “That may be so. But it's also true that, so far, I haven't seen any problematic behavior. She's even participated in the meetings for the festival.” — printed untagged (Horikita or Ayanokōji); flagged.
+[says:matsushita-chiaki] (p.15) “So you're saying you'll consider certain people on your side, but you'll avoid giving them important roles.” — Matsushita's summary of Horikita's arrangement.
+[says] (p.15) “Yes. I figured I should do that just in case.” — Horikita.
+[note] (p.15) “I know you're probably wondering about Haruka and the others, but we're about to arrive.” — printed untagged; flagged.
+[note] (p.16) “Sato-san has been like that lately.” — Matsushita's whisper to Ayanokōji; not Horikita's line.
+[says] (p.17) “You must be similar, Hashimoto-kun. Sakayanagi-san and Kamuro-san. You are the only boy, even if the number of people is different. I wonder if it's because you're aware of that that you're making strange comments?” — Horikita, a relaxed response daring to reply on the same level.
+[note] (p.19) “A sports festival is a sports festival, a cultural festival is a cultural festival. In the end, there are competitions in which our competitors are from other classes. Sakayanagi's class is an enemy to be defeated, as well as Ryūen's class. You wouldn't trust them, would you?” — printed untagged; flagged.
+[says] (p.19) “It's true that it's difficult to trust Ryūen-kun personally. That's why I put Katsuragi-kun in between the two of us. I'm sure It'll be fine.” — Horikita; adjacent narration: “Horikita explained.”
+[says] (p.19) “The ones who know are myself and Ayanokōji-kun. Then there are the four of you who started the maid café. In Ryūen's class, there's Katsuragi. He may have told other important classmates, but I don't see the benefit of leaking it.” — Horikita.
+[says] (p.20) “I think we're going to take a majority vote among the members here on where we're going to open the café. Is that okay?” — Horikita organizing the floor vote.
+[says] (p.20) “We'll figure that out then. Let's try it once first. Rock for first floor, paper for second floor, and scissors for third floor. Okay?” — Horikita reciting the rules.
+[says] (p.20) “I'll apply right away. There are still a lot of classes that are waiting to see what happens, and it would be troublesome if they were taken.” — Horikita applies for the first floor by phone immediately.
+[says] (p.21) “I'll at least gather information. You can decide if it's useful or not after you learn it.” — Horikita.
+[says] (p.21) “Floors, walls, ceilings, and other chairs also vary a bit in damage due to age. I'd like you to check that as well so that you don't miss anything.” — Horikita tasking the check.
+[says] (p.21) “Eh?! What did you say?” — Horikita, shocked at the eroticism remark.
+[says] (p.21) “Then let's move on. The most important and indispensable thing is cleanliness. I think we should take that into consideration as well as the floors in holding the classes in the special building.” — Horikita.
+[says] (p.22) “The competition for restaurants will inevitably be high as there are signs of multiple booths, including the other grades. So we'll specialize in snacks while keeping our prices low.” — Horikita, coughing after a moment of silence.
+[says] (p.22) “It's essential we use it as a stepping stone to our main goal, the maid café. We can reduce the price of the tickets for one drink, which can then be used at the maid café for those who purchased said ticket.” — Horikita's snack-ticket ad strategy.
+[note] (p.22) “Umm, yes, go ahead...” — printed untagged; the floor she gives to Ayanokōji; not assigned.
+[rel:ayanokouji-kiyotaka] (p.13–22) Co-organizing the maid café; she relies on his knowledge; she is surprised by how much he knows.
+[rel:matsushita-chiaki] (p.14–18) She trusts Matsushita's instinct on Haruka.
+[rel:wang-mei-yu] (p.15–16) The planners' circle; Mii-chan's phone tracks candidates.
+[rel:satou-maya] (p.15) Matsushita notices Satō's distance; the circle needs to hold together.
+[rel:hasebe-haruka] (p.13–16) She gives Haruka and Akito a general role — no further, no less.
+[rel:miyake-akito] (p.13–16) General role assigned to him with Haruka.
+[rel:katsuragi-kouhei] (p.19) She put him in between the two classes as the relay.
+
+### y2v7 p.23–31 — The leak hits; the hallway confrontation; the 5-million wager
+[scene] (p.23–26) Sudō's growth at Keyaki Mall (11th place); Kei's morning arrival; Satō's reaction; Horikita is in the loop for none of it — she is not at the dormitory.
+[scene] (p.27) Ike bursts in — the maid café leaked; she stays calm while Maezono confronts her; Sudō announces Ryūen's approach; she gets up to greet them.
+[note] (p.27) “Yes. I thought it was unthinkable, but I guess I was naive.” — printed untagged.
+[says] (p.27) “I guess I'll just have to go greet them. You guys stay inside the classroom and act like adults.” — Horikita.
+[scene] (p.28) Ryūen leads Ishizaki, Albert, Kaneda down the hall; she meets them in the hallway.
+[says] (p.28) “I was wondering what you're doing here with such boisterous students.” — Horikita.
+[note] (p.28) “I'm honestly surprised. You really don't mind doing the unpredictable.” — printed untagged; adjacent narration ties the laugh to Ryūen's response; not assigned.
+[says] (p.28) “Revealed? Ishizaki and his friends were just chatting with each other. It just so happened that your class and the other classes overheard them. It's pretty rude of them to listen in, isn't it?” — Horikita, disputing the revelation framing.
+[says] (p.28) “You intended to betray us from the very beginning, but you hid it until today because you were waiting for us to find out where we were going to open our stall. I'm sorry, but we're going to have to renegotiate to cooperate.” — Horikita.
+[says] (p.29) “I was going to tell you when everything was finalized...” — Horikita.
+[says] (p.29) “We were on equal terms. The same goes for the cultural festival proposal.” — Horikita.
+[says] (p.29) “Intense competition?” — Horikita.
+[note] (p.29) “Are you serious? That doesn't sound like a very sane wager.” — untagged; addressed to her (“Suzune”); assigned by address; flagged.
+[says] (p.30) “Don't decide this on your own. I'm not going to accept such a reckless proposal.” — Horikita.
+[says] (p.30) “You broke the contract, leaked it, and then tried to weasel your way out of it. That's an impossible proposition. I can finally see the true meaning of Katsuragi-kun's words in regards to the avoidance of a penalty agreement.” — Horikita.
+[says] (p.30) “I didn't say that.” — Horikita.
+[says] (p.30) “You've done whatever you want so far, and even I can't keep quiet about it. I will certainly consider the bet you proposed.” — Horikita.
+[says] (p.31) “I believe it's very likely. I don't think it's just a threat.” — Horikita.
+[says] (p.31) “We can't do that. Part of the budget's already invested.” — Horikita.
+[says] (p.31) “We have no choice but to take advantage of this situation and turn it into an opportunity to get as many private points as we can by taking the gamble!” — Horikita.
+[trait] (p.27–31) Ryūen publicly leaks the cooperation and copies the concept; she does not reject the 5-million-point wager outright; she keeps the budget commitment front and center.
+[rel:ryuuen-kakeru] (p.27–31) She greets him in the hallway; her equal-terms framing survives his leak; the 5-million wager stays “under consideration.”
+[rel:ike-kanji] (p.27) He carries the lobby rumor; she stays calm.
+[rel:maezono] (p.27–28) She confronts Maezono with the Ryūen question; her answer lands uneasily.
+[rel:hirata-yousuke] (p.28–31) Yōsuke asks the class's questions — she answers by action, not words.
+[rel:sudou-ken] (p.27) He announces Ryūen's arrival; flustered.
+<!-- walk: y2v7 Ch.1 → p.53 -->
 
 ### y2v7 p.72–83 — Horikita: the love letter; Nagumo's strange behavior
 [says] (p.73) "Defeat doesn't only mean losing class points. But it's just as bad to fail to earn class points."

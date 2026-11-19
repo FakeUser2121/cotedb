@@ -1311,10 +1311,19 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sakayanagi-arisu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9, p.17-19, p.29, p.42, p.73.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.9 — Additional funds: 18,800, behind this class
+[scene] (p.9) Chabashira displays the numbers: Sakayanagi's Class A has 18,800 points in additional funds — second behind this class (39,400), ahead of Ryūen's (17,000) and Ichinose's (26,600).
+[says:chabashira-sae] (p.9) “I can't give you the breakdown, but Sakayanagi's Class A has 18,800 points. 17,000 points for Ryūen's Class C, and Ichinose's Class D has 26,600 points in additional funds.”
+[number] (p.9) Sakayanagi's class additional funds: 18,800.
+
+### y2v7 p.17–19 — Scouting the special building; says nothing
+[scene] (p.17) Sakayanagi, Hashimoto and Kamuro tour the special building — scouting for their own stall; she watches Ayanokōji's group with a wry smile; says nothing; goes into the classroom they had been watching.
+[says:hashimoto-masayoshi] (p.17) “Yo, Ayanokōji. Are you also looking for a place to open a stand for the festival?” — the call that draws Sakayanagi into view.
+[note] (p.17) “It was Hashimoto, a member of the 2nd-year Class A, who called out to us. Shortly thereafter, the leader of the group, Sakayanagi, along with Kamuro, also showed up.” — the trio is here for a reason, not “a light stroll.”
+[note] (p.18) “You don't mind if I talk, do you? he seemed to be asking.” — Hashimoto looks at Sakayanagi for the first time since they had arrived; grinning.
+[note] (p.18–19) “In the end, Sakayanagi didn't say anything and went into the class we watched earlier.” — Sakayanagi withdraws to the rooms; the Class A trio's real purpose stays hidden.
+[rel:hashimoto-masayoshi] (p.17–18) Her silent partner in the probe.
+[rel:kamuro-masumi] (p.17–18) Her scouting partner.
 
 ## y2v8
 

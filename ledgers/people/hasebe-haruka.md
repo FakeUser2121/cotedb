@@ -683,6 +683,32 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 
 
+### y2v7 p.6 — Prologue: Hasebe Haruka's Monologue
+[scene] (p.6) The volume opens on Hasebe Haruka's monologue: she names small everyday wrongs as not-quite-crimes, then describes how Advanced Nurturing High School let her reconnect with people — until Airi's expulsion broke the feeling in a single day.
+[trait] (p.6) She considers herself “a bad person,” not for traffic-light-style offences, but for dragging her past to high school and deciding she would make no new friends.
+[note] (p.6) The names printed in the monologue — “Kiyopon, Yukimū, Miyachi and… Airi” — cannot be matched to roster rows from this page alone; “Yukimū” surfaces again at p.93 as “Yukimura-kun”; “Kiyopon” and “Miyachi” remain unassigned.
+[note] (p.6) “Who stole it? That's obvious.” — “Horikita Suzune and Ayanokōji Kiyotaka.” — “I became a victim of the selfish actions of those two people. I can't forgive them. There's no way I can.” — “I decided to get revenge.” — her rhetorical build-up and resolve, verbatim from the page.
+[action] (p.6) Decides on revenge — the setup for the whole festival storyline.
+[rel:horikita-suzune] (p.6) Named as one of the two people she blames for Airi's expulsion.
+[rel:ayanokouji-kiyotaka] (p.6) Named as one of the two people she blames for Airi's expulsion.
+[rel:sakura-airi] (p.6) Airi is the friend whose expulsion broke her reconnection; she names her among those she made friends with again.
+<!-- walk: y2v7 Prologue → p.6 -->
+
+### y2v7 p.13–16 — Maid café approach; Haruka and Akito under watch
+[scene] (p.13–16) The maid café planners discuss Haruka and Akito — they antagonize the class, do not talk to anyone, and Haruka may try to do something to the class; Horikita and Ayanokōji refuse to question her yet and give them a general role instead.
+[note] (p.14) The responder to Matsushita's first question prints untagged; the translation does not say whether Horikita or Ayanokōji answered; not assigned.
+[says:matsushita-chiaki] (p.14) “I think Hasebe-san is going to try to do something to the class in the future.”
+[says:horikita-suzune] (p.14) “If she's really looking for an opportunity for revenge, she certainly won't put it off for months.” — Horikita, per the adjacent narration tag.
+[says:horikita-suzune] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on.” — Horikita explains her arrangement.
+[trait] (p.13–16) She attends school, takes tests, and does nothing to cause trouble; she knows about the maid café; she proposed the idea herself — hence included in the group; she is not given maid duties; her “general role” keeps her close but without important assignments.
+[rel:miyake-akito] (p.13–16) She and Akito keep distance from the class; a general role was assigned to both together.
+[rel:matsushita-chiaki] (p.13–16) Matsushita is the one who senses the revenge plan coming and keeps watch.
+[rel:horikita-suzune] (p.13–16) Horikita refuses to exclude her — “If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.”
+
+### y2v7 p.25 — Seen with Akito at Keyaki Mall
+[mentioned] (p.25) Sudō spots Akito and Haruka's backs at Keyaki Mall; Ayanokōji asks, “It's not a date, is it?” (untagged); Sudō grinds his teeth — “I wasn't particularly close to Sakura, but I've had similar experiences.” — the echo of withdrawal.
+[note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
+
 ### y2v7 p.184–186 — Haruka's apology; staying for Airi
 [says] (p.184) "I have not forgiven everyone here."
 [says] (p.184) "But the person I can't forgive the most is myself."

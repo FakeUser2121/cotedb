@@ -106,13 +106,9 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — kiryuin-fuuka mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.39.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.40 — Named in Nagumo's rival analysis
+[mentioned] (p.40) “At times, there may have been people around him who were as talented as him, such as Kiryūin, but if they didn't try to catch up and overtake Nagumo, they were no different than weeds and pebbles on the side of the road.” — the narration on Nagumo's opponents.
+[rel:nagumo-miyabi] (p.40) One of the few talented students around Nagumo who never tried to close the gap.
 
 ## y2v9
 

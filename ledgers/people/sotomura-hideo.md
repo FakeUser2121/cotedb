@@ -280,13 +280,10 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — sotomura-hideo mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.22, p.93.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.22 — “The Professor” who rejected the printer plan
+[scene] (p.22) Ayanokōji recounts his film research to the planners; “the Professor, who taught me this, rejected the idea. He said, ‘If you neglect quality for the sake of profit, no one will pay attention to you.’”
+[note] (p.22) The roster aliases map “Professor” onto Sotomura Hideo; the film-price teaching and the Cheki-camera advice reached Ayanokōji through him. Flagged as an alias match, not a scene presence.
+[rel:ayanokouji-kiyotaka] (p.22) The film-inventory teaching ties Ayanokōji to the Professor's counsel.
 
 ## y2v10
 
