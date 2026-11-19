@@ -38,6 +38,7 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [rel:matsushita-chiaki] (p.73) Fellow couple-making-fun offender; possibly about to face a flipped campaign.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -101,7 +102,6 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [scene] (p.208–209) Mentioned only — Kei receives a photo from "Nene-chan" showing Ayanokōji and Ichinose leaving the gym together; when Satō asks, Kei confirms it came from Mori and checks when it was taken.
 
 <!-- walk: y2v9 Epilogue → p.209 -->
-
 
 
 ## y2v9.5

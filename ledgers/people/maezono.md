@@ -56,7 +56,6 @@ char_id: maezono · class: Class 1-D · status: minor
 <!-- walk: y2v2 Ch.1 → p.17 -->
 
 
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -70,8 +69,6 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:satou-maya] (p.22) Co-planner of the maid café; standing guard for her team.
 [rel:horikita-suzune] (p.22–25) Guards her demonstration site; waves them off.
 [rel:ayanokouji-kiyotaka] (p.22, 25) Lets him in as a customer; waves him out.
-
-
 
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
@@ -155,7 +152,6 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:ike-kanji] (p.69–72) Defends Ayanokōji; she challenges him sharply.
 
 <!-- walk: y2v9.5 Ch.4 → p.80 -->
-
 
 
 ## y2v10

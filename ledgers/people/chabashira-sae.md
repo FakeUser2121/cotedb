@@ -1240,12 +1240,22 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
 
+### y2v6 p.171–173 — Ch.3: Monday homeroom — she keeps watch (AK POV)
+[scene] (p.171–172) Monday — she enters with every seat except Kushida's filled; the two absences get her half-teasing warning instead of scolding; the homeroom confirms the return, then dismisses the class into the eruption; she nods once through the crack for AK's check — she is covering.
+[action] (p.171) Every seat except Kushida's was filled when she entered the classroom.
+[says] (p.172) “Looks like the two of you are feeling better. I suppose it was just a long summer cold, but take care of your health from now on.”
+[says] (p.172) “So Kushida is absent today. I haven’t heard from her either─”
+[says] (p.172) “The Sports Festival is just around the corner. I am expecting all of you to make great strides and participate well.”
+[action] (p.173) She nods once through the crack at AK's poke-check — watching the door is her task and the signal passes silently.
+
+
 ### y2v6 p.212–212 — Ch.4: Chabashira-sensei — to witness the alliance contract
 [mentioned] (p.212) “I intend to have Chabashira-sensei and Sakagami-sensei get involved in this as well.” — Horikita's line; the karaoke deal will be formalized with Chabashira and Sakagami as witnesses; stipulations for breach of contract will be included; “Naturally, there would be stipulations for breach of contract included in it. Even Ryuuen couldn’t do anything if he were bound by unbreakable rules.”
 [note] (p.212) The paperwork route is open — Sakagami-sensei is named in the same breath; nothing is signed on these pages; the alliance exists only as an agreement in the karaoke parlor.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.336–338 — Short story: “Something That Can’t be Forgiven” (Chabashira POV)
 [scene] (p.336) After homeroom with Horikita — she is soon out of time — “The most important thing is what you, Horikita, wants to do with Kushida. Think carefully about this.”; she sends Horikita off; walking back to the staff room; someone running behind her — “Don’t run in the hallway…”; Chie appears — “Sa~~~~e-chan. Yah-ho!” — she warns her — Chie heard the tail end — “There was a huge risk of this leaking If Chie heard about Kushida.”; “even the model student Horikita has lots of worries.” — “She’s just a child, right? But that’s not what I wanted to say.” — “Why have you gotten closer to your students now?” — “There’s nothing weird for a homeroom teacher, is it?” — “That may be true.” — “I won’t acknowledge it. There is no way Sae-chan would ever act like a teacher.” — “… I know.” — her reply never reaches Chie.
 [says] (p.336) “We’re soon out of time. Just let me tell you one last thing, although it may look like I’m meddling too much. The most important thing is what you, Horikita, wants to do with Kushida. Think carefully about this.”
@@ -1274,6 +1284,15 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.336–338) Short story; alternate retelling of the corridor scene from Ch.3; built around Chie's observation.
 
 <!-- walk: y2v6 SS → p.344 -->
+
+### y2v6 p.59–173 — Ch.2: Named in other-POV pages
+[mentioned] (p.5) TOC — credit page.
+[mentioned] (p.59) “But, as Chabashira told us during homeroom,” — AK narrates Chabashira's homeroom intervention.
+[mentioned] (p.115) “the kind words Chabashira-sensei had said to me earlier.” — Horikita's closing resolve (Ch.3 corridor).
+[mentioned] (p.120) “Chabashira-sensei did say that Kushida-san’s secret still wasn’t widely known.” — Horikita POV reflection.
+[note] (p.173) Wang's POV: the door is closed so nobody would notice; Chabashira-sensei nodded once and is covering for the class.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1533,7 +1552,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.257–267) He talks to her about uniting the class; plays the piano ("Für Elise"); she applauds.
 
 
-
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
 
@@ -1656,11 +1674,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 ### y2v5 p.70–242 — Coverage-gate mention records
 [mentioned] (p.70) Yagami plays the recording of Chabashira's briefing for Kushida: "Yagami pressed the play button and heard Chabashira's voice in the middle of the explanation, giving an overview of the special unanimous voting exam announced for the second-year students."
 [mentioned] (p.83) "On the side of the podium, the facilitator of this special exam, Chabashira-sensei, and the teacher in charge of monitoring, are stationed at the back of the classroom."
+[mentioned] (p.171) "Even Chabashira-sensei, who announced the standard phrases, showed signs of fatigue."
 [mentioned] (p.85) "I thought so, but Chabashira-sensei just stood there and stared at the students absentmindedly."
 [mentioned] (p.88) "While checking the time, Chabashira-sensei resumed the proceedings that had been halted."
 [mentioned] (p.91) "the voices were quickly drowned out by the sharp stares of Chabashira-sensei."
 [mentioned] (p.96) "Now, let me move on to the third question." Chabashira-sensei's demeanor hadn't changed since the beginning, but there was a slight change in the tone of her voice.
-[mentioned] (p.171) "Even Chabashira-sensei, who announced the standard phrases, showed signs of fatigue."
 [mentioned] (p.175) "Chabashira-sensei was momentarily at a loss for words."
 [mentioned] (p.181) "Chabashira-sensei muttered to herself as if she were prepared for everything and continued on her way."
 [mentioned] (p.188) "It seemed that all the votes had been cast in about 30 seconds, and Chabashira-sensei displayed the results on a monitor."
@@ -1814,12 +1832,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:kushida-kikyou] (p.158–164) The stunned Kushida; "He's a nuisance to have as an enemy."
 [rel:sudou-ken] (p.160) Sudō and his team make the wall for the adults pouring in.
 [rel:wang-mei-yu] (p.161) Mii-chan's scream about the second slot filling.
-
-
-
-
-
-
 
 
 <!-- walk: y2v7 Ch.6 → p.160 -->

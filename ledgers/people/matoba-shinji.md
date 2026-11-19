@@ -67,13 +67,6 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [trait] (p.102–105) Anxious and insistent on a breakout or consolidation; Ayanokōji concludes he never considered the plan from the enemy's perspective.
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — matoba-shinji mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.258-259, p.261-262, p.265.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.258–267 — Ch.5: Matoba — the doubles bump that wasn't a bump (close-third, Shimizu-side)
 [scene] (p.258–267) Class A's doubles table tennis rush — Sakayanagi absent; the class loses morale; Matoba and Shimizu abandon their penalty shootout for the doubles event; Ishizaki bumps into Shimizu — no real meeting of the eyes; Shimizu erupts; Matoba tells him to leave it; Hashimoto shows up and calms everything; Ryuuen's whole performance is fishing for a scene; he begs Shimizu to apologize; Shimizu refuses; Hashimoto goes in; Ishizaki accepts the apology in the end; the teacher arrives late; nothing happens.
 [says:matoba-shinji] (p.259) “Yeah. You weren’t properly looking where you were going.”
@@ -90,7 +83,11 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [rel:hashimoto-masayoshi] (p.262–267) He diffuses the situation by bringing Hashimoto.
 [rel:ryuuen-kakeru] (p.258–267) He lies for Shimizu's position — Matoba backs up Class A's story of the collision.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -109,8 +106,6 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.144-145.
 [mentioned] (p.11) Passing mention only.
-
-
 
 
 ## y2v10

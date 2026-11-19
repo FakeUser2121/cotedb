@@ -33,21 +33,15 @@ char_id: tomose-shunsaku · role: Illustrator · status: minor
 <!-- walk: y2v4.5 coverage → p.290 -->
 
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — tomose-shunsaku mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.6.
-[mentioned] (p.11) Passing mention only.
+### y2v6 p.6 — Coverage gate: credit page
+[mentioned] (p.6) “Illustrations by Tomoseshunsaku” — the credit page names the illustrator; his art is the basis for Amasawa's visual characterization; he is not otherwise present.
 
 
-
-
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

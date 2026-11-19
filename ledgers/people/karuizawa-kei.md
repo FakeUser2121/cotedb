@@ -1511,7 +1511,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.71) “Wrong answer. That’s not what I’m talking about, but… we went out of sync somewhere, didn’t we? Well, that is very you, Kiyotaka. Then, I’ll wait quietly~”
 
 ### y2v6 p.72–74 — Ch.2: The Shinohara fallout — she asks AK for a plan
-[scene] (p.72–74) Over dinner she brings up Shinohara on her own — Kei's at fault too, and her getting exposed had quite the effect — she won't even talk to Kei; AK tells her the cardinal rule: the one thing to avoid is having the target overhear you bad-mouthing them; Kei floats a plan — talking it out “but it's kinda like she's disapproachable right now”; she asks AK what she should do to make up; she obsesses over the exam — “You know how you chose to expel Sakura-san on the basis of her OAA in the special exam? If—” then chokes up; she asks the fearful question: had she scored lowest — friendless, unpopular, would AK have expelled her?
+[scene] (p.72–74) Over dinner she brings up Shinohara on her own — Kei's at fault too, and her getting exposed had quite the effect — she won't even talk to Kei; AK tells her the cardinal rule: the one thing to avoid is having the target overhear the group bad-mouthing them; Kei floats a plan — talking it out “but it's kinda like she's disapproachable right now”; she asks AK what she should do to make up; she obsesses over the exam — “You know how you chose to expel Sakura-san on the basis of her OAA in the special exam? If—” then chokes up; she asks the fearful question: had she scored lowest — friendless, unpopular, would AK have expelled her?
 [says] (p.72) “Oh, by the waaay, it’s about Shinohara-san, but…”
 [says:ayanokouji-kiyotaka] (p.72) “It’s only natural.”
 [says:ayanokouji-kiyotaka] (p.72) “Do you and the others hate Shinohara?”
@@ -1721,6 +1721,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:yamada-albert] (p.226–233) Ishizaki's partner; the three are unwelcome together; "such normies" — he says nothing but is visibly pleased.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -2064,8 +2065,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.224) “…I love you.”
 [note] (p.220–223) She misunderstands him as dating Nanase; the rumour that rides on his meetings with her — "you were seen repeatedly meeting with some first-year girl" (Nagumo, p.219); he lets it lie; Nagumo's broadcast.
 [rel:ayanokouji-kiyotaka] (p.217–224) She calls him from her room; they say "I love you"; she says he'll protect her; he calls her "I love you" back, awkwardly.
-
-
 
 
 <!-- walk: y2v4.5 ch6 → p.267 -->

@@ -863,6 +863,14 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [mentioned] (p.24) Horikita tells AK: “There is no doubt that Hasebe-san resents me, and Yukimura-kun and Miyake-kun might too.” — his possible resentment of her is explicitly flagged on the page.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.181, 327 — Coverage gate additions
+[mentioned] (p.181) “I also checked on Miyake-kun and Yukimura-kun many times.” — Horikita's watch-list.
+[mentioned] (p.327) “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.” — the Epilogue's estrangement.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->

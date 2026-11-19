@@ -41,6 +41,7 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [rel:sakura-airi] (p.327) He agreed to expel her — the wound that estranged him.
 
 <!-- walk: y2v6 Epilogue → p.330 -->
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -85,9 +86,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
 
-
-
-
 ### y2v4.5 p.10–290 — Relations in this volume (depth pass)
 [rel:ayanokouji-kiyotaka] (p.116) The pool-side Keisei reference points at Yukimura, not at this file; recorded for completeness.
 [rel:hasebe-haruka] (p.105) The Keisei label in Haruka's file is Yukimura; kept for completeness.
@@ -113,8 +111,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -123,7 +119,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [scene] (p.61–66) Named in conversation only — when Horikita says she is meeting "Ishigami-kun," Ayanokōji assumes it is the second-year Keisei he has in mind ("There were no other first-year students with the same surname"), before realizing Horikita means the first-year; Keisei himself is not on-page.
 
 <!-- walk: y2v9 Ch.2 → p.66 -->
-
 
 
 ## y2v11
@@ -143,8 +138,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 ### y2v12 p.10-228 — ishigami-kyou
 [scene] (p.28) Unverifiable — the volume names “Ishigami” as one of two first-year Class A leaders; the referent is almost certainly the Class 1-A Ishigami Kyō (a different Ishigami from this roster row).
 [note] (p.28) Identity between this roster row (Keisei Ishigami, Class 2-D) and the Class A co-leader named on p.28 cannot be established from these pages; no other occurrence of this name appears in the volume text on a line-by-line read.
-
-
 
 
 ## y3v2

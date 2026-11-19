@@ -37,13 +37,6 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 [trait] (p.64) The first to voice dissatisfaction at aiming for second — an orthodox honors student who cannot hide his objection to the passive target.
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — shimizu-naoki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.258-262, p.265-266.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.258–267 — Ch.5: Shimizu Naoki — Class A's bump target (close-third, Shimizu-side)
 [scene] (p.258–267) He was walking from the direction of the penalty shootout — Ishizaki “bumped” into him; shoulder collision twice as strong as expected; Shimizu tries to raise his voice; Ishizaki preempts — “Fuck, that hurt…! Watch where you’re walking, asshole!”; Matoba tries to mediate — “Just leave it”; they both refuse; Hashimoto steps in; they both apologize; nothing comes of it.
 [says:shimizu-naoki] (p.259) “You’re the one who wasn’t watching where you were going, I could’ve gotten hurt!”
@@ -61,7 +54,11 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 [rel:ryuuen-kakeru] (p.258–267) The mastermind — Ishizaki is his pawn in this performance.
 [rel:hashimoto-masayoshi] (p.262–267) He brokers the peace; he spares the class from losing the tournament.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->

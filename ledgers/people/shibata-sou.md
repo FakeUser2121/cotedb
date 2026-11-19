@@ -274,7 +274,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 <!-- walk: y2v2 Ch.5 → p.299 -->
 
 
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -288,7 +287,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 <!-- walk: y2v3 Epilogue → p.334 -->
 
 
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -297,7 +295,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.5–284) Shibata has 0 page hits in y2v4; not present.
 
 <!-- walk: y2v4 Ch.1 → p.284 -->
-
 
 
 ## y2v4.5
@@ -309,9 +306,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.10–290) Corpus search for "Shibata" returns nothing in this volume; no presence to record. Zero-finding record; the Y2V4.5 cell in content/characters.tsv stays as-is (add only, no removals).
 
 <!-- walk: y2v4.5 coverage → p.290 -->
-
-
-
 
 
 ## y2v5
@@ -334,14 +328,10 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — shibata-sou mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: none.
-[mentioned] (p.11) Passing mention only.
+### y2v6 p.1–346 — Coverage gate: no appearances in this volume
+[note] (p.11) The page locator finds no whole-word occurrence of Shibata Sō or the unmacroned Shibata So in this volume; there is no scene presence and no name reference on these pages.
 
-
-
-
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -356,8 +346,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -369,7 +357,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [mentioned] (p.90, 144) Passing mention only.
 
 <!-- walk: y2v9 Ch.3 → p.144 -->
-
 
 
 ## y2v9.5
@@ -388,8 +375,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: none.
 [mentioned] (p.1) Passing mention only.
-
-
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
@@ -417,8 +402,6 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: none.
 [mentioned] (p.1) Passing mention only.
-
-
 
 
 ## y2v11

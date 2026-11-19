@@ -551,6 +551,8 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.180) The week's elapsed Nagumo ultimatum — one week is about to expire — he must at least reply; he has told no one about the five-competition condition.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -733,16 +735,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ryuuen-kakeru] (p.30) Ryūen chose Horikita because Nagumo refused to fight.
 [rel:yagami-takuya] (p.167) Yagami names Nagumo in the student-council meeting notes.
 <!-- walk: y2v7 Afterword → p.207 -->
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- walk: y2v7 Ch.2 → p.71 -->
@@ -1264,8 +1256,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.181) “I'm tired, so I'm going back first. You should return to your room before you catch a cold.”
 [note] (p.181) The message from Ayanokōji arrives in exactly the moment of her declaration that she has no 'value'; the exchange ends with him walking out and her left standing still.
 [rel:amasawa-ichika] (p.177–181) The 1 a.m. summons; her planned vengeance for Yagami's expulsion; the message that foresees her and strips the threat of meaning.
-
-
 
 
 <!-- walk: y2v11 ch7 → p.181 -->

@@ -529,6 +529,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.146–193 — Ch.3: Haruka — return; the cafe ultimatum
 [scene] (p.168) Akito's message reaches AK — “Haruka will be coming to school from Monday next week.” and “Could you quietly watch over Haruka for a while?” — AK receives his own copy marked as emphasis; he agrees to quietly watch.
 [scene] (p.170–171) She appears at Monday homeroom escorted by Akito, ready to flee at any moment; she glances at AK and quickly turns to her phone — “Speak of the devil thingy” — her expression unreadable; she does not move once from her seat for the whole period.
@@ -588,6 +589,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.327–330 — Epilogue: Haruka's “revenge” — a joke that isn't (Miyake's POV)
 [scene] (p.327–328) She arrives late, lightly punches his shoulder; she quit the Archery club out of inertia — “I quit because I wanted to. But more importantly, I’m happy you’ve started coming to school.”; only five events at the festival, no results; not speaking to anyone except Miyake; estranged from Keisei too; she confesses: at first she wanted to “destroy everything” — revenge on all the classmates who threw away Airi — “I’m such a terrible person, aren’t I?”; “I won’t forgive Kiyopon. I won’t forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong.”; “Say, Miyacchi. Will you—help me take revenge, just once?”; her eyes aren't smiling; he hesitates; “As if! It’s just a joke, it’s just a joke!”; “I’ll take my revenge by myself, after all.”; she reaches out, withdraws her hand, walks away; he silently follows her.
 [says] (p.327) “Sorry, I kept you waiting.”
@@ -609,6 +611,19 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ishigami-kyou] (p.327) Estranged from Keisei too — since he agreed to expelling Sakura — “she was slightly estranged even from Yukimura, since he had agreed to expelling Sakura.”
 
 <!-- walk: y2v6 Epilogue → p.330 -->
+
+### y2v6 p.42–155 — Ch.2: Named in other POVs
+[mentioned] (p.42) “She might also have hurt Wan-san and Hasebe-san, who are both absent today.” — Horikita's argument during the apology.
+[mentioned] (p.93) “Hasebe-san and Wang-san have been absent for a while.” — Onodera's explanation to Sudou.
+[mentioned] (p.101) “Both Wang-san and Hasebe-san hadn’t been coming to school either.” — Horikita's opening of the five-day absence streak.
+[mentioned] (p.102) “It’s the fifth day that Kushida-san, Wang-san, and Hasebe-san have been absent from school.” — Horikita's question to Chabashira.
+[mentioned] (p.102) “As for Hasebe, she’s consistently said that she would be absent, but she hasn’t told me any details.” — Chabashira's report.
+[mentioned] (p.109) “make Kushida-san, Wang-san, and Hasebe-san come back to school.” — Chabashira's closing instruction.
+[mentioned] (p.140) “Some people like Shinohara-san, Wang-san and especially Hasebe-san must resent me.” — Kushida's guess during the room confrontation.
+[mentioned] (p.147) “Sakura-san… When she was expelled, Sakura-san was both kind and harsh to Hasebe-san.” — Wang POV reflection.
+[mentioned] (p.155) “Hasebe-san. And also you, Ayanokouji-kun.” — Wang's ask about who hurt more.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -701,7 +716,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 <!-- walk: y2v2 Ch.1 → p.53 -->
 
 
-
 ### y2v2 p.12–15 — Hasebe tries to calm Yukimura
 [says] (p.12) "Can you calm down a little? It hasn't even been 5 minutes since Kiyopon left."
 [says] (p.12) "I'm calm… don't worry." — Yukimura's reply; Hasebe isn't convinced
@@ -715,7 +729,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
 
 
 ### y2v4.5 p.99–113 — Haruka's "Airi remodelling project"; her body image
@@ -739,7 +752,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
 
 
 ### y2v5 p.46–55 — Haruka: heartbroken over Airi, yet reaches out
@@ -789,7 +801,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ## y2v7
 
 <!-- walk: y2v7 → start -->
-
 
 
 ### y2v7 p.6 — Prologue: Hasebe Haruka's Monologue
@@ -1100,11 +1111,6 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.48) Does not weigh in publicly; retains her private doubt.
 
 <!-- walk: y2v10 Ch.2 → p.48 -->
-
-
-
-
-
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

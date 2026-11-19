@@ -29,14 +29,11 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 <!-- walk: y2v2 Ch.2 → p.78 -->
 
 
-
-
 <!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
 
 
 ### y2v4 p.261–273 — Kiryūin intervenes at I2
@@ -79,7 +76,6 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
 
-
 ### y2v4.5 p.289–290 — Short story: "When You are the Older One" — the stares at the pool
 [scene] (p.289) From her own POV, relaxing by the pool in sunglasses, notices the third-years all look at Ayanokōji in unison; curious, she calls out to him (her "OFF-mode" switch flips ON).
 [narrates] (p.289) "Spending a holiday like this just relaxing ain't bad from time to time."
@@ -94,11 +90,15 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — kiryuin-fuuka mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.252-253.
-[mentioned] (p.11) Passing mention only.
 
+### y2v6 p.252–253 — Ch.5: The probe at the ribbon — she needles Nagumo (Nagumo-POV)
+[scene] (p.252) Between her events at the Sports Festival she drifts to where Nagumo is catching his breath after his fifth consecutive win; she asks him about his lineup and his motives; he does not turn; she needles him for show.
+[says] (p.252) “Poor little thing, how about I take you on?”
+[says] (p.252) “Fufufu. You got me, huh?”
+[says] (p.252) “You should stop giving these underclassmen the time of day. You've already dominated our grade and are fixed at Class A. On top of that, you've achieved a lot as the student council president. That should be enough. I recommend you graduate quietly.”
+[action] (p.252) Her taunt lands as casual surface — she does not turn to his face either; the challenge is polite by both.
+[note] (p.252–253) The lines follow the printed alternation with Nagumo’s answers; “Don’t make me laugh. As if winning a competition of that level would mean anything to me.” is Nagumo’s opening answer, recorded in Nagumo’s own record; the narration (“Almost as if she was advising him on what to do, Kiryuin-senpai admonished him.” — the translation does not tag speech directly on that line) — not quoted here as her speech.
+[rel:nagumo-miyabi] (p.252–253) Her rival in rank and graduation trajectory; the tournament counts the fifth consecutive win of the other; their shared ground is zero.
 
 
 
@@ -159,7 +159,6 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 <!-- walk: y2v9 Ch.6 → p.190 -->
 
 
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -177,8 +176,6 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [feat] (p.45–58) Her "failure" to join any class battle teams her with a person who genuinely doesn't care about rank.
 
 <!-- walk: y2v9.5 Ch.3 → p.58 -->
-
-
 
 
 ## y2v11

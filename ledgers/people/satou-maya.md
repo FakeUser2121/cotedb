@@ -631,11 +631,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:wang-mei-yu] (p.131) The other ace of the team.
 
 
-
-
-
-
-
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->

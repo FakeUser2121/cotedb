@@ -73,6 +73,19 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:nagumo-miyabi] (p.48–50) The message's author of authority; Yagami will come fetch AK himself if needed.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+
+### y2v6 p.250–251 — Ch.5: The cheering-seats chat with Horikita (Horikita-POV, festival)
+[scene] (p.250) Shortly before his next competition he drifts over to the cheering seats and compares notes with Horikita — the rankings; the fifth consecutive Nagumo win; his respect for both Horikita and the Student Council President; he excuses himself to compete.
+[says] (p.250) “Good work out there, Horikita-senpai.”
+[says] (p.250) “You too, senpai. Aren’t you guys in first place? It’s difficult to imagine this is the same class that started as Class D last year!”
+[says] (p.250) “Not at all! I genuinely respect you, although not as much as Student Council President Nagumo.”
+[says] (p.250) “Some upperclassmen in the third year were talking about it just now. Apparently, this is his fifth consecutive win.”
+[says] (p.251) “He is almost guaranteed to graduate in Class A, regardless of whether he wins or loses. So, maybe he can’t get fired up for this?”
+[says] (p.251) “Is that so? Well, I have my next competition, so I’ll excuse myself.”
+[rel:horikita-suzune] (p.250–251) He calls her out by name at the cheering seats and compliments both her and the class's climb.
+[rel:nagumo-miyabi] (p.250) His praise respectful but capped (“although not as much as Student Council President Nagumo”) — the fifth consecutive win observation.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -91,7 +104,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 ## y2v2
 
 <!-- walk: y2v2 → start -->
-
 
 
 ### y2v2 p.250–258 — Yagami defects: reveals the bounty to warn Ayanokōji
@@ -114,7 +126,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
 
 
 ### y2v3 p.268–273 — Yagami's plot exposed; forced confession
@@ -156,7 +167,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 <!-- walk: y2v4 Ch.6 → p.284 -->
 
 
-
 <!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.193–196 — Yagami takes the reward desk
@@ -170,7 +180,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
 
-
 ### y2v4.5 p.197–201, 255–257 — Mentions: the Kushida pocket
 [mentioned] (p.197) "Why do you think I'm so close to Yagami-kun?"
 [mentioned] (p.198) "the best way to get rid of someone who's in your way is to get into their pocket."
@@ -179,7 +188,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [mentioned] (p.255) "Yagami would keep talking forever, even when he was left alone."
 [mentioned] (p.256) "a grin with his teeth showing awkwardly" — unlike his usual refreshing one.
 [mentioned] (p.257) "Yagami opened the door to the guest cabin and sent Amasawa off like a gentleman."
-
 
 
 ### y2v4.5 p.251–254 — Yagami summons Amasawa: her real intentions
@@ -716,8 +724,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -730,7 +736,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [mentioned] (p.36, 61, 65–66) Passing mention only.
 
 <!-- walk: y2v9 Ch.2 → p.66 -->
-
 
 
 ## y2v9.5

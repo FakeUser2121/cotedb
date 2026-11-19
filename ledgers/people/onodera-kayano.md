@@ -74,7 +74,6 @@ char_id: onodera-kayano · status: minor
 <!-- walk: y2v3 Ch.7 → p.243 -->
 
 
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -96,7 +95,6 @@ char_id: onodera-kayano · status: minor
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
 
 
 ### y2v6 p.342–344 — Short story: "That's What I Believe In" — Onodera's high-five (hug)
@@ -138,6 +136,13 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
 
+### y2v6 p.5–325 — Coverage gate: TOC and festival results
+[mentioned] (p.5) “Onodera Kayano SS: That’s What I Believe In” — the TOC lists her short story.
+[mentioned] (p.99) “Sudou-kun and Onodera-san will make a bundle for us, and students like Kushida and me will also steadily earn points.” — Horikita's plan names Onodera specifically.
+[mentioned] (p.325) “Hiratakun, Karuizawa-san, Sudou-san, Onodera-san, Kushida-san and Kouenjisan. I will move forward with their support.” — Horikita names Onodera as one of the people she trusts going into Class A.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.179–183 — Ch.3: The bundle with Sudou
 [mentioned] (p.179) “For the matter with Shinohara-san and the others, Hirata-kun took the lead and brought them all to Keyaki Mall on Sunday.”
 [mentioned] (p.183) “To be specific, it'll be a frontal attack. Sudou-kun and Onodera-san will make a bundle for us” — Horikita's stated strategy.
@@ -146,6 +151,7 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.246–301 — Ch.5: The doubles pact — 10 straight; the tennis final (third-person, Sudou-side)
 [scene] (p.246–249) She reports her wins to Horikita with Sudou — “Since the start, Sudou-kun’s had three straight victories… Onodera’s taken first place in both events she’s fought.”; Horikita asks when she improved — “I don’t really like running…”; they are scheduled for successive doubles events; “You bet. We’re gonna keep this winning streak rolling.”
 [says:onodera-kayano] (p.246) “Since the start, Sudou-kun’s had three straight victories, you know. What’s more, he made it look easy. I should’ve expected that!!”
@@ -203,6 +209,7 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.342–344 — Short story: “That’s What I Believe In” (Onodera POV)
 [scene] (p.342–344) The tennis doubles final retold — her side; Housen's rage transformed into the game; she feared for her life; she drops her racket; she is injured — but wins; Sudou runs at her — “We won Onodera! All thanks to you!”; the hug; he squeezes harder; she freezes; he finally notices; “Congratulations! You won all your events, Sudou-kun.”; she admits in her heart she is interested in Sudou — “I can catch up and show some results, no matter how far ahead he is. That’s the sportsmanship that I believe in.”
 [says:sudou-ken] (p.342) “HELL YEEEAAAAAAAAAAAHH!!”
@@ -284,8 +291,6 @@ char_id: onodera-kayano · status: minor
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -297,8 +302,6 @@ char_id: onodera-kayano · status: minor
 [rel:sudou-ken] (p.66–78) Sits beside him; plays wing-woman; laughs along with him.
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
-
-
 
 
 ## y2v10

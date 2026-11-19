@@ -938,11 +938,10 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 p.11-346 — horikita-manabu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.15-25, p.27-30, p.36-37, p.40-52, p.54.
-[mentioned] (p.11) Passing mention only.
+### y2v6 p.1–346 — Coverage gate: no appearances in this volume
+[note] (p.11) The page locator finds matches for the name forms in this volume — every one refers to Horikita Suzune (the surname is shared with her brother Manabu) — or to "Student Council President" (Nagumo), who is not Horikita Manabu; the volume contains no whole-word occurrence of his first name, and neither brother appears.
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -974,8 +973,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.49) “More than anyone else. How hard do you have to work to adjust? Because of you, not just this year, last year too, the match with Horikita-senpai didn't happen.” — Nagumo's grievance; Ayanokōji drew Manabu's refusals from him.
 [note] (p.49) “Last year's sports festival, training camps, etc., Nagumo Miyabi was adamant about competing with Horikita Manabu. No matter what form it took, no matter how small the match was, he forced himself to do so, hoping to make it black and white. However, Manabu dodged Nagumo's provocations and didn't involve everyone in the match.” — the narration.
 [rel:nagumo-miyabi] (p.47–49) The Manabu rivalry hangs over the negotiation; Manabu dodged him without involving everyone.
-
-
 
 
 ### y2v7 p.41, 48, 50, 53, 77 — Manabu in the mouths of others

@@ -1741,6 +1741,8 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hasebe-haruka] (p.328) She believes Kushida was the one meant to go.
 
 <!-- walk: y2v6 Epilogue → p.330 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1876,7 +1878,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 <!-- walk: y2v2 Ch.4 → p.263 -->
 
 
-
 ### y2v2 p.250–258 — Kushida learns of the bounty from Yagami
 [scene] (p.250) Walks with Ayanokōji and Yagami to Keyaki Mall; listens dumbfounded as Yagami reveals the secret exam.
 [says] (p.253) "Excuse me, I have no idea what you guys are talking about…"
@@ -1889,7 +1890,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
 
 
 ### y2v3 p.305–320 — Kushida tails Ayanokōji; her plot exposed by Amasawa
@@ -1913,7 +1913,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [mentioned] (p.227, 236) Passing mention only.
 
 <!-- walk: y2v4 Ch.6 → p.236 -->
-
 
 
 ## y2v4.5
@@ -1966,7 +1965,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
 
 
 ### y2v5 p.45 — Kushida proposes Horikita as emergency leader
@@ -2651,7 +2649,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 <!-- walk: y2v9 Ch.6 → p.187 -->
 
 
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -2679,7 +2676,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ibuki-mio] (p.5–8) Silently inspects her diet; apologizes to the audience, smiles.
 
 <!-- walk: y2v9.75 Epilogue → p.8 -->
-
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->

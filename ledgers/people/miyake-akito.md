@@ -532,6 +532,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.168–193 — Ch.3: Miyake — the return escort; the cafe silence
 [scene] (p.168) He contacts AK: “Haruka will be coming to school from Monday next week.” and “Could you quietly watch over Haruka for a while?” — he pulled this off on his own.
 [scene] (p.170–171) Monday: he escorts Haruka to her seat — she looks ready to flee at any moment; she never sits still for the whole first period.
@@ -643,7 +644,6 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 <!-- walk: y2v2 Ch.1 → p.44 -->
 
 
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -654,7 +654,6 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [mentioned] (p.110–114) Passing mention only.
 
 <!-- walk: y2v3 Ch.4 → p.114 -->
-
 
 
 ## y2v4.5
@@ -681,9 +680,6 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [mentioned] (p.159–160) Has a fever the next morning; stays in bed while the others go to the treasure hunt.
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
-
-
-
 
 
 ## y2v5
@@ -965,8 +961,6 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -975,9 +969,6 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.136, p.187; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
-
-
-
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

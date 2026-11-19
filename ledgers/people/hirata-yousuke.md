@@ -1728,6 +1728,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
 
+### y2v6 p.325 — Coverage gate: named in her speech
+[mentioned] (p.325) “But we have Hiratakun, Karuizawa-san, Sudou-san, Onodera-san,” — Horikita names Hirata first among the people she trusts.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.110–179 — Ch.3: Hirata — the fixer behind the peace
 [mentioned] (p.110) Horikita names him as too upfront, good-natured, virtuous for Kushida persuasion.
 [scene] (p.146–148) Wang POV — Wang loves him from afar; the only two-shot photo of her life; she doesn't even know how she fell for him; China, where academics are rigorous and competitive.
@@ -1740,6 +1745,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.110, 179) She names him unusable for Kushida — the good-guy image is wrong for Kushida's persuasion.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1911,7 +1917,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v2 Ch.3 → p.179 -->
 
 
-
 ### y2v2 p.21–22 — Hirata defuses the escalating argument
 [says] (p.21) "Let's all calm down a bit. We can't solve the problem by just getting heated up here, can we?"
 [says] (p.21) "Sudo-kun, isn't it almost time for your club activities?"
@@ -1942,7 +1947,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v3 Ch.2 → p.56 -->
 
 
-
 ### y2v3 p.9–11 — Hirata's resolve before the island exam
 [says] (p.9) "This is a much bigger island than the last one, just like Mashima-sensei said it'd be."
 [says] (p.9) "We'll only have to stay there for two weeks, but some students might end up having to retire at some point."
@@ -1963,7 +1967,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v4 Epilogue → p.278 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -1977,9 +1980,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -1990,8 +1990,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.17) The lines that follow — "The event will be held from 10 a.m. to 3 p.m…", "It's just a matter of budget…", "We have 39 students in our class…" — are printed untagged in the same presenting sequence; no speaker is name-tagged in the print; attribution by adjacency points to Hirata, kept as a note, not a [says] row.
 [rel:horikita-suzune] (p.17) Her budget critique and decision to test proposals with private points build directly on his list.
 [rel:ayanokouji-kiyotaka] (p.17) He listens from the back as usual; Hirata anchors the class's first festival talk.
-
-
 
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
@@ -2224,7 +2222,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v9 Ch.1 → p.10 -->
 
 
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -2239,8 +2236,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.167–175) Asks about his business; watches him closely.
 
 <!-- walk: y2v9.5 Ch.6 → p.175 -->
-
-
 
 
 ## y2v10

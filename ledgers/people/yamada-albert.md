@@ -240,11 +240,9 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 <!-- walk: y2v2 Ch.3 → p.167 -->
 
 
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
 
 
 ## y2v4
@@ -259,7 +257,6 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 <!-- walk: y2v4 Ch.6 → p.250 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -271,9 +268,6 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [mentioned] (p.28) Named as part of Ryūen's four-person party (with Kaneda, Kondō, Yamawaki) visiting Komiya in the infirmary; leaves without a line.
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
-
-
-
 
 
 ### y2v4.5 p.10–290 — Relations in this volume (depth pass)
@@ -290,13 +284,6 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 <!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — yamada-albert mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.242.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.226–233 — Ch.4: Albert Yamada — Ryuuen's shadow in the mall (AK POV)
 [scene] (p.226) Near the rice cooker and kettle corner — he appears beside Ishizaki, holding a large branded pot that looks small in his large hands; the 20th is Ryuuen-san's birthday — they are shopping for him; he looks a little happy about the coincidence; his large hands.
 [says:yamada-albert] (p.226) “Oh, this? The 20th of this month is Ryuuen-san’s birthday. We’re just picking something out for him.”
@@ -310,7 +297,16 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [rel:ayanokouji-kiyotaka] (p.226, 230–233) October 20 is his birthday too — the coincidence — Albert is quietly pleased.
 [note] (p.226) The corpus prints “Albert” — the roster row yamada-albert carries this given name; tagged by it.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+
+### y2v6 p.242 — Coverage gate additions
+[mentioned] (p.242) “such as Sudou-kun and Yamada Albert-kun weren't bound for a long period of time” — Horikita's vote-splitting logic about team matches.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -356,12 +352,9 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
-
 
 
 ## y2v9.5

@@ -1576,7 +1576,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.97) “So, Hirata?”
 [says] (p.97) “Right. I’ll bow my head and make him help me.”
 [says] (p.97) “Thanks, Ayanokouji.”
-[note] (p.95) The line “If I said no… what would you do?” appears twice in the corpus — once here (Onodera asking Sudō) and once on p.96 (Sudō asking AK) — the ledger rows carry their own page anchors.
+[note] (p.95) The line “If I said no… what would you do?” appears twice in the corpus — once here (Onodera asking Sudō) and once on p.96 (Sudō asking AK) — the rows carry their own page anchors.
 [rel:onodera-kayano] (p.90–97) His doubles partner; the girls' ace; her mixed-pairs plan; she took him even after the Horikita hesitation.
 [rel:ayanokouji-kiyotaka] (p.90–97) Calls him to the bathroom with a serious face; AK coaches him through the Shinohara situation; he realizes the answer himself (Hirata).
 [rel:horikita-suzune] (p.93–95) He nearly turned Onodera down out of loyalty to pairing with Horikita; Onodera noticed and pressed.
@@ -1594,6 +1594,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.246–249 — Ch.5: The doubles pact report — Sudou's streak (Horikita's POV)
 [scene] (p.246–249) Sudou and Onodera rush over — he's at three straight victories; Onodera at three; he wanted to fight Kouenji — Horikita tells him class comes first; “You bet. We’re gonna keep this winning streak rolling.”; they've been practicing every day since teaming up; a much more natural combo than imagined.
 [says:sudou-ken] (p.246) “Eh, I guess. But you know, Onodera’s taken first place in both events she’s fought. Yeah?”
@@ -1615,6 +1616,8 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.323) The class heads into Class A.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->

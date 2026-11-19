@@ -16,9 +16,6 @@ char_id: ishikura-kayoko · class: unknown · status: unknown
 [note] (p.95) The women's team and the middleweight position imply Kayoko, but the print gives no given name — the roster carries two rows (ishikura and ishikura-kayoko) — identity is not resolved by these pages; duplicate flagged to owner (see progress2.md).
 
 
-
-
-
 <!-- walk: y2v6 Epilogue → p.346 -->
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
@@ -39,7 +36,6 @@ char_id: ishikura-kayoko · class: unknown · status: unknown
 [scene] (p.106) Named only — Kei's photo-message shows her with Satō, Mori, Ishikura and Maezono gathered in the girls' room for the evening.
 
 <!-- walk: y2v9 Ch.3 → p.106 -->
-
 
 
 ## y2v10

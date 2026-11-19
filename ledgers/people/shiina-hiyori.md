@@ -571,17 +571,19 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 <!-- walk: y2v5 Afterword → p.243 -->
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — shiina-hiyori mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: none.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.176–176 — Ch.3: Hiyori — the library absence
 [mentioned] (p.176) AK narrates: “Hiyori hasn’t been coming to the library recently, so it’s a bit of a shame that we haven’t been able to discuss any books.” — Shiina Hiyori is the study-spot companion who is no longer there.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.1–346 — Coverage gate: no appearances in this volume
+[mentioned] (p.176) “…, it seems that Hiyori hasn’t been coming to the library recently, so it’s a bit of a shame that we haven’t been able to discuss any books.” — the only Shiina content in this volume; her absence from the library is noted in passing.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

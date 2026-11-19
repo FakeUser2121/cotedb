@@ -1497,12 +1497,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.106–139 — Ch.3: Ichinose — the good-person benchmark
 [mentioned] (p.106) Chabashira: “even for Ryuuen, Sakayanagi, or Ichinose.”
 [mentioned] (p.120) Ibuki: “Not Kushida, not Hirata, not even Ichinose.” — no nice-guy image is real to her.
 [mentioned] (p.123) Ibuki: “if we’re ranking good people, then Ichinose’s probably above you.”
 [mentioned] (p.130) Ibuki: “Not Kushida, not Hirata, not even Ichinose”
-[scene] (p.139–140) The test case: if someone said Ichinose Honami-san was violent and wanted nothing but to crush enemies — would you believe it? Kushida: “She seems like a genuinely good person.” Ibuki doubts — “I have my doubts.”; Horikita: her class spent a year and a half being good.
+[scene] (p.139–140) The test case: if someone said Ichinose Honami-san was violent and wanted nothing but to crush enemies — whether anyone would believe it? Kushida: “She seems like a genuinely good person.” Ibuki doubts — “I have my doubts.”; Horikita: her class spent a year and a half being good.
 [rel:kushida-kikyou] (p.139) The good-person test case.
 [rel:ibuki-mio] (p.120, 123, 130) “Not even Ichinose.”
 
@@ -1517,16 +1518,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.258–258 — Ch.5: Ichinose — at the venue with Horikita (minute-by-minute)
 [mentioned] (p.258) “Up against Horikita and Ichinose, who were assessing the status and participants of competitions minute-by-minute, Class A’s Matoba and Shimizu continued to struggle in the absence of their leader.” — Ichinose is at the athletics field with Horikita, assessing the festival's state minute-by-minute; her class continues to perform despite Sakayanagi's absence.
 [note] (p.258) Her own class's fortunes in the festival are not detailed on these pages; recorded as present and working.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.323–323 — Ch.6: Ichinose — third place
 [mentioned] (p.323) “The rankings in the sports festival were: Horikita’s class in first place, Ryuuen’s class in second place, Ichinose’s class in third place and Sakayanagi’s class in fourth place.”
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1989,8 +1994,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.120) Ordinary students begin to hear about the one-on-one match-up; speculation led to rumors, and rumors led to speculation — "Did you hear Horikita's class and Ryūen's class are playing for a lot of money?" / "I heard that the leader of the losing class is getting expelled?" — spreading through the school.
 
 
-
-
 <!-- walk: y2v7 Ch.5 → p.130 -->
 ### y2v7 p.206 — Ichinose class in the credits
 [mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji will be 'stolen' from Horikita class, and join Ichinose. Best girl Honami will become relevant again. You heard it here first.” — Cast#5942's editor quote in the RoyalMTL's credits page; Ichinose's class is the editor's prediction for the year-end exam.
@@ -2163,8 +2166,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.38) "If you ever need help, just let me know. I want to support you and Karuizawa-san."
 [note] (p.38) He cannot figure out what she actually wanted on the call; it ends soon.
 [rel:ayanokouji-kiyotaka] (p.37–38) Reaches out with support; he gives practical answers and no commitment.
-
-
 
 
 ### y2v9.5 p.59–65 — Ichinose: the 46-photo memory day at Keyaki Mall

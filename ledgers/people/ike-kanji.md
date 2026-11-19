@@ -1088,6 +1088,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.74–179 — Ch.3: Ike — mentioned and patch-up
 [mentioned] (p.74) Kei's "I said it at that time with Ike" — friends equal survival in the exam.
 [mentioned] (p.179) “Ike-kun calming her down was a big help.” — Shinohara's rough edges calmed; the Keyaki Mall peace summit succeeds.
@@ -1095,6 +1096,8 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:karuizawa-kei] (p.179) Kei's “I said it at that time with Ike” — her ally in the decision to expel Airi.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->

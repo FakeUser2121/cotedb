@@ -4019,7 +4019,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.133) “I’m not in a position to say things about others, but this is the lamest you’ve ever been.”
 [says:kushida-kikyou] (p.133) “My past has already been found out. I can’t keep up my appearance anymore. So I’ll bother everyone. Your appearance crying in class looked like a child’s, but you really are a child. No, you’re a toddler. I feel like I’ve been dealing with a toddler.”
 [says:kushida-kikyou] (p.134) “Quit mocking me!”
-[scene] (p.134) Kushida raises her hand and swings at Horikita's cheek — Horikita calmly grabs her arm and grips it with force; Kushida's rage transfers through the trembling hand; Horikita's proposal: use your abilities solely for your own sake — rise to Class A for your own sake; go where no one knows your past.
+[scene] (p.134) Kushida raises her hand and swings at Horikita's cheek — Horikita calmly grabs her arm and grips it with force; Kushida's rage transfers through the trembling hand; Horikita's proposal: Kushida's abilities be used solely for her own sake — to rise to Class A for her own sake, to go where no one knows her past.
 [says] (p.134) “Of course I’ll want to make fun of you. You trouble me and our class for your own enjoyment. Who else would make that their highest priority other than a toddler?”
 [says:kushida-kikyou] (p.134) “I alone should experience pain, deal with it, and cooperate as part of your class?”
 [says] (p.134) “Don’t make up a convenient interpretation, okay? You have solid abilities. As such, you should use them solely for your own sake. Those around you don’t matter. If you act for your own sake and rise to Class A for your own sake, then that will without a doubt be your achievement. You can do what you want with Class A’s special privileges as you please. If you want to do the same thing, then go somewhere where no one knows your past this time.”
@@ -4110,7 +4110,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.125–145) The deal: she comes back Monday “for her own sake”; the left-handed handshake of animosity; the cheek-pinching battle as a stress outlet; the counter-terms — “I, solely for my own sake, will fight for this class and contribute to it for the next year and half.”
 [rel:ibuki-mio] (p.112–145) The unexpected ally — her charm-offensive “secret strategy” message from AK; the negotiation for a three-match promise (best of three) in exchange for helping; she bangs the door; Kushida opens.
 [rel:ayanokouji-kiyotaka] (p.137–145) Kushida ranks him as the counter-example plan-maker; both she and Horikita agree he sees many possibilities far into the future; the deal's reluctance test.
-[rel:ichinose-honami] (p.139–140) The “good person” test case — would you believe it if Ichinose were violent? — no one would.
+[rel:ichinose-honami] (p.139–140) The “good person” test case — whether anyone would believe Ichinose violent — nobody would.
 [rel:shinohara-satsuki] (p.140) “Some people like Shinohara-san” — the resentment list.
 [rel:wang-mei-yu] (p.140) “Wang-san” on the resentment list.
 [rel:hasebe-haruka] (p.140) “especially Hasebe-san must resent me” — the deepest resenter to watch.
@@ -4310,6 +4310,86 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.326) “There is a future where I wish and hope that it will not be certain. I know the answer, but paradoxically, I hope I am wrong.” — his hope to be defeated; his private contradiction — recorded.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+### y2v6 p.171–193 — Ch.3: Monday return; the walk to the café (AK POV)
+[scene] (p.171) Monday's homeroom — she enters alone three minutes before the bell with a stiff expression, then walks the class's cold silence: Kushida goes first, Shinohara counters, and by afternoon she is walking beside AK towards the cafe in Keyaki Mall with her face showing him her strain.
+[action] (p.171) She enters the class alone, three minutes before homeroom, with a stiff expression on her face, glances once at Kushida's seat, takes her own seat and stares directly at the board.
+[says] (p.178) “I checked if she'd be fine with just me, but she said you were absolutely essential and didn't listen to me at all.”
+[says] (p.178) “I treated her like a kid unbecoming of her age. To the point where I don't want to talk about it.”
+[says] (p.179) “Anyway, it took a week but we've managed to gather everyone in the class.”
+[says] (p.180) “Oh yeah. I want you to send a message to Student Council President Nagumo.”
+[says] (p.181) “The one who bore the most difficult feelings during the special exam was Hasebe-san. It's necessary to follow up with her.”
+[says] (p.181) “While I was waiting to meet with Kushida-san, I also checked on Miyake-kun and Yukimura-kun many times.”
+[says] (p.184) “In a way, the problem has already been solved. You'd been absent from school for several days.”
+[says] (p.185) “Could you stop beating around the bush and say what you want to say?”
+[says] (p.185) “I'm not satisfied. There's still a gap of more than 500 points between us and Class A.”
+[says] (p.186) “Indeed.”
+[says] (p.187) “It's because I deemed it to be the right choice that I had the resolve to keep her in the class, taking on the animosity from everyone else.”
+[says] (p.189) “… I can't fulfill a request that can't be done.”
+[says] (p.190) “However, even if I were to go to the past with my memories as I am now, what I would most likely do wouldn't change much.”
+[says] (p.192) “It's the same. You're just mad that one of your friends was sacrificed.”
+[says] (p.192) “You have a point. When you were out for a whole week, it felt like you would become a long-term problem more so than anyone else.”
+[says] (p.193) “Everyone's like that. It isn't strange to want to save yourself.”
+[rel:ayanokouji-kiyotaka] (p.178–193) She walks to the cafe with him; they sit down together opposite Haruka; her open-war footing for the festival opens here.
+[rel:hasebe-haruka] (p.184–193) She refuses to counter Haruka's on-table revenge accusations with anything but endurance and self-doubt; her resolve to keep Kushida is signed against her anger.
+### y2v6 p.238–240 — Ch.4: The eve-call — he tells her he is sitting out (AK POV)
+[scene] (p.238–240) Eve of the Sports Festival — around 9:30 PM he calls; he tells her he will sit out the festival as the opening move in his plan against Sakayanagi; the hair dryer drops; her own ten points and triple-win arc are rewritten.
+[says] (p.238) “Surprisingly late for you to call, isn't it? I was just about to go to bed.”
+[says] (p.238) “You have something important to say? I better take this somewhat seriously, then.”
+[says] (p.238) “Ah, before that, I had something I wanted to say. Sakayanagi-san is set on participating in the Sports Festival tomorrow, you know? Didn't you say you could stop her?”
+[says] (p.238) “…Sitting out? Wait just a moment, what do you mean?”
+[says] (p.239) “Sorry, I just dropped the hair dryer…”
+[says] (p.239) “Then why? If you sit it out, we'll lose ten points, you know?”
+[says] (p.240) “But I don't understand how you sitting it out has anything to do with attacking Sakayanagi…”
+[says] (p.240) “If that's the case, I guess I have no choice but to trust you at this point.”
+[says] (p.240) “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.”
+[action] (p.238) Her hair dryer is running when the call comes; she turns it off and goes still.
+[rel:ayanokouji-kiyotaka] (p.238–240) He has used her as the go-between for two years; the sitting-out announcement drops on her eve as another burden she is expected to trust.
+### y2v6 p.273–274 — Ch.5: Sidelines with Ibuki — Amasawa's greeting dissolves (Horikita's POV)
+[scene] (p.273–274) Outside the shuttle-run area, Amasawa greets them; Kushida, searching her out, arrives unannounced; the recruitment of reinforcements for the volleyball start is announced right there.
+[says:amasawa-ichika] (p.273) “Oh~? If it isn’t Horikita-senpai and Ibuki-senpai~! Good work~”
+[says:amasawa-ichika] (p.274) “What is it? I can hear you out, if you’re okay with Horikita-senpai and Ibuki-senpai being here.”
+[action] (p.273) Amasawa calls out to them from behind the crowd; Ibuki jumps up with a glare.
+[action] (p.273–274) Kushida appears mid-shuttle-run chat; looks at Amasawa without recognizing them; Amasawa recruits five first-years to back Himeno in volleyball.
+### y2v6 p.336–338 — Chabashira SS: “Something That Can’t be Forgiven” (Chabashira POV)
+[scene] (p.336) She sits in Chabashira's room to close out the Kushida plan; teacher's one last word; she accepts and leaves with her resolve.
+[says] (p.336) “Thank you, teacher. I've decided what to do now.”
+[rel:chabashira-sae] (p.336) She is the teacher's last witness — the term ends between them with an almost-formal farewell.
+
+### y2v6 p.15–344 — Coverage gate additions (anchored mentions)
+[mentioned] (p.15) "Horikita Suzune claimed that Kushida was an essential resource for the class." — her decision causes the fallout.
+[mentioned] (p.16) "Despite the fact that she was well aware of everything, Horikita Suzune claimed that Kushida was an essential resource for the class."
+[mentioned] (p.17) "By doing that, Horikita's class could become even stronger."
+[mentioned] (p.19) "Horikita still believed that keeping Kushida would benefit the class."
+[mentioned] (p.27) "The important thing here isn't you or Horikita-san, right?" — Matsushita's read on the exam's impact.
+[mentioned] (p.17) “The special exam for Horikita’s class was still going on.”
+[mentioned] (p.36) “Sudou … ‘Limited Time’ here refer to the period during which you can use the ticket.”
+[mentioned] (p.37) "Should he remain in Horikita's class, or should he switch to Sakayanagi's class, which was leagues ahead of the rest?"
+[mentioned] (p.47) "You have a promise with Horikita. But there is no guarantee that she will keep her end of it." — AK's challenge to Kouenji.
+[mentioned] (p.58) “Horikita was recommended despite having contributed less, her spirit wouldn’t last a year and she would be crushed.”
+[mentioned] (p.76) "never make any mistakes. But was it really the right decision for Horikita-san to keep Kushida-san? She'll only be in the way, right?" — Kei to AK.
+[mentioned] (p.77) "empty theory, based on the assumption that Horikita was right in making that choice."
+[mentioned] (p.78) "It's the same as that. Horikita couldn't stop running once she'd started and tried to jump over the hurdle in front of her."
+[mentioned] (p.87) "you don't agree with the choice Horikita and I made."
+[mentioned] (p.88) "You helped Horikita and me out so many times during the Special Exam."
+[mentioned] (p.92) "you know? Suzune said it herself, but if you just throw together five or six people into a team, it might lead to its own problems."
+[mentioned] (p.93) "Do you not want to pair up with anyone other than Horikita-san?" — Onodera to Sudou.
+[mentioned] (p.94) “even if you compared her to Horikita there wasn’t a huge difference between them.”
+[mentioned] (p.95) "Hearing Horikita's name had shaken Sudou, but he regained his composure."
+[mentioned] (p.162) "Horikita, Yousuke, or other students could visit at any time."
+[mentioned] (p.170) "As for Kushida, I hadn’t received a single message from Horikita regarding her as of this morning."
+[mentioned] (p.219) "Another new development,” stated Sakayanagi, “Ryuuen-kun and Horikita-san’s classes have made contact.”"
+[mentioned] (p.220) "Horikita-san’s class comes second. I would welcome it if the results were that straightforward."
+[mentioned] (p.222) "It won't be so difficult to crack the fragile relationship between Horikita-san and Ryuuen-kun. Let's get in their way when they are desperately trying to cooperate on the day."
+[mentioned] (p.258) "Up against Horikita and Ichinose, who were assessing the status and participants of competitions minute-by-minute."
+[mentioned] (p.298) Sudou's words after the final, verbatim: "This is seriously amazing, Onodera! Ahh, if only Suzune could somehow see us do so well…" — the name anchored here, not as a scene presence.
+[mentioned] (p.300) "Oi, Sudou. Don’t let this win get to yer head, eh?"
+[mentioned] (p.305) "Horikita-san’s class. In that case, what we need to do in order to win is to determine who participates in what competition."
+[mentioned] (p.307) "The most valuable player of this Sports Festival isn’t Horikita san, for her proposal to cooperate with Ryuuen-kun, nor is it Ryuuen for accepting it. It was you, for authoritatively saying that you could definitely keep me from participating."
+[mentioned] (p.343) "Ah, maybe Suzune was watching me from somewhere too?"
+[mentioned] (p.344) "Eh? Ah, sure I guess. More importantly, help me look for Suzune."
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -6122,8 +6202,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.185) She speaks for Airi in front of everyone.
 
 
-
-
 <!-- walk: y2v7 Epilogue → p.202 -->
 ### y2v7 p.206 — The credits screen's bet on Horikita's class
 [mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji will be 'stolen' from Horikita class, and join Ichinose. Best girl Honami will become relevant again.” — Cast#5942's editor quote; Horikita's class is the predicted loser of the year-end exam.
@@ -6713,6 +6791,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 ### y2v11 p.40 — Ch.2: Named in the stacked group
 [scene] (p.40) The organization chart lists Nagumo's group on the bus printout.
+
 [mentioned] (p.40) Named as the second-year Class B member of Nagumo's group: Horikita Suzune, Hirata Yōsuke.
 
 ### y2v11 p.56–57 — Ch.2: Why Suzune joined the council

@@ -1050,6 +1050,7 @@ aliases used for anchors: sakura, airi, sakura-san
 ### y2v6 p.20–20 — Ch.1: OAA emptied — her name is gone
 [mentioned] (p.20) AK checks the OAA app on his phone — her name is already gone from the class list, as if such a student had never existed.
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.58–63 — Ch.1: The five thousand points she spent — the gray area
 [scene] (p.61–62) Chabashira tells him: after the Unanimous Consent Special Test finished, the school found evidence Sakura spent about five thousand of her private points; items purchased in-school are fundamentally the student's property, but the post-processing had not been completed; this is a gray area — the school considers it unacceptable if points were transferred after expulsion; he agrees to pay the five thousand himself; Chabashira trails off at “No, it’s not like that. Sakura───” and never says what the points were for.
 [note] (p.61–63) Purpose of the five thousand points: not stated on these pages; Chabashira asks if it has anything to do with AK; he denies it; he agrees to cover the sum.
@@ -1067,6 +1068,11 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
 
+### y2v6 p.6, 5 — Coverage gate: no hits
+[note] (p.6) No entries for Sakura here; the credits name the illustrator only.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.104–193 — Ch.3: Airi — the frame of everything
 [mentioned] (p.104) Horikita to Chabashira: “We gained class points by forcing Sakura-san to drop out. Was it really the right thing to do?”
 [scene] (p.146–148) Wang POV — Airi's farewell to Hasebe was kind and harsh; Wang pressed the Support button anyway and hates herself for it.
@@ -1084,6 +1090,8 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.327–328) The whole volume's long shadow — she is the wound behind Haruka's “revenge.”
 
 <!-- walk: y2v6 Epilogue → p.330 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1142,7 +1150,6 @@ aliases used for anchors: sakura, airi, sakura-san
 <!-- walk: y2v2 Ch.1 → p.45 -->
 
 
-
 ### y2v2 p.15 — Sakura's praise of Kiyotaka
 [says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"
 [trait] (p.15) Tries to lighten the dreary mood with a sage smile and praise of Ayanokōji — but it has the opposite effect, tightening Yukimura's face.
@@ -1160,7 +1167,6 @@ aliases used for anchors: sakura, airi, sakura-san
 <!-- walk: y2v3 Ch.2 → p.56 -->
 
 
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -1176,11 +1182,9 @@ aliases used for anchors: sakura, airi, sakura-san
 <!-- walk: y2v4 Ch.6 → p.262 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
 
 
 ### y2v4.5 p.100–113 — Airi's "remodelling": new swimsuit, no glasses, a resolve to change
@@ -1203,7 +1207,6 @@ aliases used for anchors: sakura, airi, sakura-san
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
 
 
 ### y2v5 p.46–55 — Airi's silence after the lunchroom reveal
@@ -1325,8 +1328,6 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -1337,7 +1338,6 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.44) Passing mention only.
 
 <!-- walk: y2v9 Ch.2 → p.44 -->
-
 
 
 ## y2v9.5

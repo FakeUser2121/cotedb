@@ -841,13 +841,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 <!-- walk: y2v5 Ch.7 → p.170 -->
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — hashimoto-masayoshi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.219-222, p.261-267, p.305, p.319.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.219–222 — Ch.4: Hashimoto Masayoshi — the cafe strategist (third-person)
 [scene] (p.219) Three second-year Class A students — Sakayanagi, Kamuro, Hashimoto — gather at the café in Keyaki Mall just before 7 PM; he is animated; he asks the sharp questions; his eyes change when he hears the news.
 [says:hashimoto-masayoshi] (p.219) “I’m not even surprised when you summon me out of the blue anymore, it’s become so common. What is it today, Princess?”
@@ -862,6 +855,9 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.221) “Or has Ayanokouji been making some moves in secret?” — he suspects AK is behind Horikita's growth.
 [rel:horikita-suzune] (p.221) “Has Horikita grown?” — he credits her jump in leadership.
 [rel:ryuuen-kakeru] (p.219) His suspicion: “Who approached whom? Was it from Ryuuen?”
+
+<!-- walk: y2v6 → start -->
+
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
 
@@ -896,6 +892,9 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:sakayanagi-arisu] (p.305–319) She names him as promising; she was unable to identify her tail.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

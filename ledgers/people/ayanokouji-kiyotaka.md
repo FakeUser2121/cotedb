@@ -3957,7 +3957,6 @@ walk: y1v1 → DONE
 [note] (p.147) Passing mention: “you’re not like normal guys, Kiyotaka.” — Karuizawa after the confession.
 [mentioned] (p.147) Passing mention only.
 [note] (p.150) Passing mention: Karuizawa asks if he only views people as tools.
-[mentioned] (p.150) Passing mention only.
 [note] (p.164) Passing mention: “Hey, Kiyotaka. Sorry to bother you…” — gift hesitation talk.
 [mentioned] (p.164) Passing mention only.
 
@@ -9376,7 +9375,7 @@ walk: y1v1 → DONE
 [rel:sakura-airi] (p.74–75) The exam's first theme of the night: what if Kei had scored lowest.
 
 ### y2v6 p.82–89 — Ch.2: Yousuke's honest confession — take it to Horikita
-[scene] (p.82–84) AK tells him: don't come to AK, take the conversations to Horikita, the class leader — even if you think she has her hands full with Kushida; Yousuke honestly admits he would still come to AK; AK warns relying on him forever will never grow her into a true leader — as a leader like Ryūen, Sakayanagi or Ichinose would be treated; he must come to AK only after Horikita says her hands are full; Yousuke protests it's not a test — the class's mental state is critical.
+[scene] (p.82–84) AK tells him: don't come to AK, take the conversations to Horikita, the class leader — even if he thinks she has her hands full with Kushida; Yousuke honestly admits he would still come to AK; AK warns relying on him forever will never grow her into a true leader — as a leader like Ryūen, Sakayanagi or Ichinose would be treated; he must come to AK only after Horikita says her hands are full; Yousuke protests it's not a test — the class's mental state is critical.
 [says] (p.82) “Then, moving forward I want you to take these conversations not to me, but to Horikita, the leader of the class.”
 [says] (p.82) “So, if I was taking care of Kushida, would you guys go to Horikita?”
 [says:hirata-yousuke] (p.82) “Horikita-san is doing a great job, but Kiyotaka-kun would be able to see the big picture, and make the right call. That’s what I thought.”
@@ -9479,6 +9478,16 @@ walk: y1v1 → DONE
 [rel:kushida-kikyou] (p.97) “Right now she's no good.”
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.146–154 — Ch.3: Wang's Saturday call and visit (Wang POV)
+[scene] (p.146–154) Wang's bad week bleeds into action — early-morning guilt over the vote, photos of him with Hirata, AK's Monday email; she summons up the nerve to call him; sees him come out of his room with Karuizawa on her way down; the bell rings; the door opens with him silent.
+[says:wang-mei-yu] (p.148) “Ahh, um, it’s Wang! Uh, is this Ayanokouji-kun?”
+[says] (p.148) “You decided to call me.”
+[says] (p.149) “Right now?”
+[says] (p.149) “That’s not the case, but could you wait a bit? 30 minutes, no, I’ll be ready in 20 minutes,”
+[action] (p.150–151) On her way down to the fourth floor she hears the elevator — it is just them arriving back from his room; he dressed casually, her by sleek straight hair; she watches Kei give him the “Kiyotaka!” goodbye.
+[action] (p.154) She presses the bell; the door opens after about thirty seconds; her rush of words fell out of her as he welcomed her in silence.
+[rel:wang-mei-yu] (p.148–154) He answers her call after ten rings, buys twenty minutes with a wait he honors, leaves her on the stairs before the door opens; their Monday-night email becomes the promised talk.
 
 ### y2v6 p.155–161 — Ch.3: Mii-chan arrives — calm him-not-me advice session (AK POV)
 [scene] (p.155–156) Saturday; Mii-chan arrives almost exactly at the scheduled time; AK had wanted to send Kei back earlier but couldn't risk Mii-chan changing her mind; reserved, earnest posture; she came because of what Kushida exposed about her and Yousuke; she asks about the class — Shinohara, Matsushita, Hasebe, him.
@@ -9949,7 +9958,7 @@ walk: y1v1 → DONE
 ### y2v6 p.223–240 — Ch.4: The birthday date; the sitting-out plan (AK POV)
 [scene] (p.223–233) October; Keyaki Mall after school; Kei comes along — private points and the birthday hunt; they bump into Ishizaki and Albert; the 20th is Ryuuen's birthday and AK's too; Ishizaki proposes a double birthday; Kei seems oddly content with Ishizaki's offer — “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.” — the group is in pieces; she half-agrees: “Also? Ishizaki-kun did say he would once again apologize…” — real or fake, it does not matter much right now; the mall day closes with “That’s enough. Right now, you are Kiyotaka’s friend, right?” — the day inches forward to the festival eve.
 [scene] (p.234–237) The Satou incident — she bolts past them near the electronics corner; the restroom stall; the first-year's approach; the whispered proposition; recorded in Satou's own person record — not AK's story, but he does not know it happened.
-[scene] (p.238–240) The Sports Festival eve — 9:30 PM — AK calls Horikita — “Surprisingly late for you to call, isn’t it? I was just about to go to bed.” — “I’ve got something important to say regarding the Sports Festival.” — she turns off the hair dryer quickly; he says Sakayanagi is set on participating tomorrow, you know? — “I’m thinking of sitting out the Sports Festival tomorrow.” — she drops the hair dryer; ten points painful; “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.” — “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…” — she realizes she cannot understand; she agrees to trust him at this point; “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.” — he ends the call and now he has one more person to call.
+[scene] (p.238–240) The Sports Festival eve — 9:30 PM — AK calls Horikita — “Surprisingly late for you to call, isn’t it? I was just about to go to bed.” — “I’ve got something important to say regarding the Sports Festival.” — she turns off the hair dryer quickly; he says Sakayanagi is set on participating tomorrow — “I’m thinking of sitting out the Sports Festival tomorrow.” — she drops the hair dryer; ten points painful; “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.” — “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…” — she realizes she cannot understand; she agrees to trust him at this point; “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.” — he ends the call and now he has one more person to call.
 [says] (p.238) “I’ve got something important to say regarding the Sports Festival.”
 [says] (p.238) “You have something important to say? I better take this somewhat seriously, then.” — wait, that's Horikita's line.
 [says:horikita-suzune] (p.238) “Surprisingly late for you to call, isn’t it? I was just about to go to bed.”
@@ -9977,36 +9986,6 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.239–240) “Attack on Sakayanagi” — the plan is in motion.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
-
-### y2v6 p.223–240 — Ch.4: The birthday date; the sitting-out plan (AK POV)
-[scene] (p.223–233) October; Keyaki Mall after school; Kei comes along — private points and the birthday hunt; they bump into Ishizaki and Albert; the 20th is Ryuuen's birthday and AK's too; Ishizaki proposes a double birthday; Kei seems oddly content with Ishizaki's offer — “I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know.” — the group is in pieces; she half-agrees: “Also? Ishizaki-kun did say he would once again apologize…” — real or fake, it does not matter much right now; the mall day closes with “That’s enough. Right now, you are Kiyotaka’s friend, right?” — the day inches forward to the festival eve.
-[scene] (p.234–237) The Satou incident — she bolts past them near the electronics corner; the restroom stall; the first-year's approach; the whispered proposition; recorded in Satou's own person record — not AK's story, but he does not know it happened.
-[scene] (p.238–240) The Sports Festival eve — 9:30 PM — AK calls Horikita — “Surprisingly late for you to call, isn’t it? I was just about to go to bed.” — “I’ve got something important to say regarding the Sports Festival.” — she turns off the hair dryer quickly; he says Sakayanagi is set on participating tomorrow, you know? — “I’m thinking of sitting out the Sports Festival tomorrow.” — she drops the hair dryer; ten points painful; “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.” — “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…” — she realizes she cannot understand; she agrees to trust him at this point; “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.” — he ends the call and now he has one more person to call.
-[says] (p.238) “I’ve got something important to say regarding the Sports Festival.”
-[says] (p.238) “You have something important to say? I better take this somewhat seriously, then.” — wait, that's Horikita's line.
-[says:horikita-suzune] (p.238) “Surprisingly late for you to call, isn’t it? I was just about to go to bed.”
-[says:horikita-suzune] (p.238) “You have something important to say? I better take this somewhat seriously, then.” She said, and she must’ve quickly turned off the hair dryer because the earpiece went quiet.
-[says:horikita-suzune] (p.239) “Ah, before that, I had something I wanted to say. Sakayanagi-san is set on participating in the Sports Festival tomorrow, you know? Didn’t you say you could stop her?”
-[says] (p.239) “What I have to say has to do with that, too. I’m thinking of sitting out the Sports Festival tomorrow.”
-[says:horikita-suzune] (p.239) “…Sitting out? Wait just a moment, what do you mean?”
-[says] (p.239) “Are you alright?”
-[says:horikita-suzune] (p.239) “Sorry, I just dropped the hair dryer…”
-[says:horikita-suzune] (p.239) “So, what do you mean by sitting out? You’re not unwell or anything, right?”
-[says] (p.240) “Ah, no, there’s no problems with my health. Rather, it’s like I feel better than I usually do.”
-[says:horikita-suzune] (p.240) “Then why? If you sit it out, we’ll lose ten points, you know? Even though I wasn’t banking on the points you win in my calculations, losing those ten points will be painful.”
-[says] (p.240) “I’m not going to say those ten points aren’t worth much. But this is my strategy, it’s essential.”
-[says:horikita-suzune] (p.240) “… Your strategy?”
-[says] (p.240) “It’s connected to the first step of my attack on Sakayanagi, which we cannot avoid if we want to push Class A to the last position.”
-[says:horikita-suzune] (p.240) “Attack on Sakayanagi…?”
-[says] (p.240) “I told you. That I have a way to keep Sakayanagi from participating in the Sports Festival.”
-[says:horikita-suzune] (p.240) “But I don’t understand how you sitting it out has anything to do with attacking Sakayanagi…”
-[says:horikita-suzune] (p.240) “I see. I won’t be able to understand what you’re planning, not as I am right now. And I suppose you won’t change your mind about skipping the Sports Festival even if I try to persuade you otherwise?”
-[says] (p.240) “Yeah. First thing tomorrow morning, I’ll tell the school that I’m sick.”
-[says:horikita-suzune] (p.240) “If that’s the case, I guess I have no choice but to trust you at this point.”
-[says:horikita-suzune] (p.240) “Just so you know, my personal goal was to take first place at least thrice, but because of this I will have to score more than ten points myself.”
-[says] (p.240) “Thanks for your support.”
-[rel:horikita-suzune] (p.238–240) She drops the hair dryer at his news; she is furious but cannot argue without breaking trust; she must score ten points herself now.
-[rel:sakayanagi-arisu] (p.239–240) “Attack on Sakayanagi” — the plan is in motion.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
 
@@ -10181,6 +10160,37 @@ walk: y1v1 → DONE
 [note] (p.326) “There is a future where I wish and hope that it will not be certain. I know the answer, but paradoxically, I hope I am wrong.” — his hope to be defeated; his private contradiction — recorded.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+### y2v6 p.101–342 — Ch.1: Named in other-POV pages (Ch.3 and later)
+[mentioned] (p.101) Aiming to reach out — “There were many times where I wanted to reach out to Ayanokouji-kun, but I always stopped myself.” — he is named here from Kushida's/Horikita's side of things, not POV.
+[mentioned] (p.108) “What is Ayanokouji doing in regards to Kushida?” — Horikita's question to Chabashira.
+[mentioned] (p.108) “Ayanokouji-kun? No, he's not doing anything in particular.” — Horikita answers Chabashira's question.
+[mentioned] (p.121) “who seem harmless, like Ayanokouji.” — Ibuki's line about AK as part of the dislike list.
+[mentioned] (p.130) “No plan, huh? A big difference from Ayanokouji-kun.” — Ibuki's jab at Horikita in the confrontation.
+[mentioned] (p.131) “Upon hearing Ayanokouji-kun's name, Ibuki-san's ears perked up.”
+[mentioned] (p.133) “And the same goes for Ayanokoujikun.” — Kushida says the same about AK; past failure to expel him means it wouldn't have come to this.
+[mentioned] (p.136) “Only a few people knew my true self, like you or Ayanokouji-kun.” — Kushida listing the masterminds.
+[mentioned] (p.137) “Ayanokouji-kun and I had been expelled.” — Horikita's resolve.
+[mentioned] (p.147) Kushida wonders about AK — the printed sentence ends open on this page with “How is Ayanokouji-kun feeling right” and resumes on p.148 with “now, I wonder? Is he still properly going to school after expelling a precious friend with his own hands?”
+[mentioned] (p.148) “Ayanokouji-kun's message was connected to what I'd been thinking, as if he'd put my own thoughts into writing.”
+[mentioned] (p.220) “Or has Ayanokouji been making some moves in secret?” — Hashimoto to Sakayanagi.
+[mentioned] (p.252) “Word around the block is that Ayanokouji is absent today.” — Kiryūin to Nagumo.
+[mentioned] (p.253) “I think we've spoken more times in the six months since you've gotten involved with Ayanokouji than we did in the two years prior.” — Nagumo to Kiryūin.
+[mentioned] (p.255) “Ayanokoji-kun was going to?” — Horikita connecting the promise to fight to the summons.
+[mentioned] (p.255) “And, well… Ayanokouji-kun had promised to fight you at the sports festival, I see.” — Horikita to Nagumo.
+[mentioned] (p.256) “Yeah. I want to know about Ayanokoji. He seems unwell.” — Nagumo to Horikita.
+[mentioned] (p.257) “Ayanokouji-kun had done something to hold Sakayanagi-san back.” — Horikita's private read.
+[mentioned] (p.327) “Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi.” — Haruka's admission.
+[mentioned] (p.328) “I won't forgive Kiyopon.” — Haruka's answer of the promise.
+[mentioned] (p.332) “if you've wanted to see Ayanokouji and the rest grow,” — Kinugasa's afterword dedication.
+[mentioned] (p.333) “I was having a good time chatting with Ayanokouji-kun who excused himself from joining the sport festival and was absent.” — Sakayanagi SS opening.
+[mentioned] (p.333) “the sport festival and was absent,” — same line's first clause.
+[mentioned] (p.335) “If you are going to use me—I'm going to use you until the very end.” — Sakayanagi SS closer.
+[mentioned] (p.339) “If he could observe Ayanokouji-senpai from at close,” — Amasawa SS thought.
+[mentioned] (p.342) “Onodera Kayano SS: That's What I Believe In” — credits list (front matter).
+[mentioned] (p.5) Cover/TOC credit page — mention in publication apparatus.
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

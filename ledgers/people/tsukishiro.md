@@ -379,23 +379,23 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 <!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — tsukishiro mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.163, p.321.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.163–163 — Ch.3: Named — the bug buyer connection
 [mentioned] (p.163) AK jabs Amasawa: “If it’s you, with your connection to Tsukishiro, it wouldn’t be much of a surprise if you had one or two, though.” — bugs being obtainable via Tsukishiro's channel.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.3 → p.193 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.321–321 — Ch.6: Tsukishiro — the unnamed boy's warning
 [mentioned] (p.321) “After eliminating Tsukishiro, peace will return if you eliminate the White Room student.” — Sakayanagi and AK learn that a source outside the White Room exists that knows of Tsukishiro's death plan; the speaker is untagged; the warning is recorded as printed.
 [note] (p.321) The unnamed boy's plan — “After eliminating Tsukishiro, peace will return if you eliminate the White Room student.” — not assigned to a named character in this volume.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

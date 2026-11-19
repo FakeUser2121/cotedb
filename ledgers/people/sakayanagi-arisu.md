@@ -915,6 +915,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.82–99 — Ch.2: The Sports Festival chessboard — her class trains
 [scene] (p.82) AK invokes her as a model leader in his speech to Yousuke — “What if it was a leader like Ryuuen, Sakayanagi or Ichinose?” — the class should be spoken to like that.
 [mentioned] (p.98–99) Class A is seriously practicing its baselines in the gym — they must be aiming for event points from small improvements; almost certainly following Sakayanagi's instructions; no one from Horikita's class showed up.
@@ -930,6 +931,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.219–222 — Ch.4: Sakayanagi's side — the cafe (third-person, her circle)
 [scene] (p.219) Three second-year Class A students — Sakayanagi, Kamuro and Hashimoto — gather at the café in Keyaki Mall just before 7 PM; the announcement to Tsugumi: Ryuuen and Horikita have made contact; Sakayanagi expects a hard fight; she declares she will also participate in the Sports Festival despite everything against her.
 [says:hashimoto-masayoshi] (p.219) “I’m not even surprised when you summon me out of the blue anymore, it’s become so common. What is it today, Princess?”
@@ -974,6 +976,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.303–322 — Ch.6: Sakayanagi — mont blancs and a “special lesson” (AK POV)
 [scene] (p.303–304) 11 AM festival day — she comes to his room with casual clothes; she brings mont blancs — “It seems to be a new product”; she feeds him a mont blanc; she sits on his bed; “Come to think of it, this is the first time you’ve come to my room”; “My apologies for bothering you.”
 [says:sakayanagi-arisu] (p.303) “Hello, Ayanokouji-kun.”
@@ -1053,6 +1056,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.333–335) Short story; alternate retelling of the mont blanc scene from Ch.6; the "special lesson" text is not depicted here either; the corpus prints the whole intervention before it happens, but not the lesson itself.
 
 <!-- walk: y2v6 SS → p.344 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1372,7 +1376,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.85–87) She warns him the White Room students are still around and he has now "also got to deal with the third-years" — and that she already knows he's being watched by the third-years from a short glance at the situation.
 [rel:ryuuen-kakeru] (p.85–89) She made Ryūen fight Hōsen to secure her third place; he readily complied at considerable hidden cost to himself.
 [mentioned] (p.74) Ayanokōji spots her on the bow deck with Sakayanagi-from-Class-A's name in the lunch crowd.
-
 
 
 ### y2v4.5 p.78–85 — Sakayanagi: lunch with Ayanokōji; Ichinose's apology
@@ -1723,7 +1726,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.104) "Special exam? No, you're mistaken, Hashimoto-kun. Today is just a simple tea party."
 [says] (p.105) "Lately, we've been doing recreational activities like cultural festivals and school trips."
 [rel:hashimoto-masayoshi] (p.103–122) She amuses herself by being unhelpful to him.
-
 
 
 ### y2v10 p.9-235 — sakayanagi-arisu mentioned in passing

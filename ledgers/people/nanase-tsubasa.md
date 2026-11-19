@@ -295,7 +295,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v2 Ch.3 → p.116 -->
 
 
-
 ### y2v2 p.336–337 — Tsukishiro reveals Nanase as the enforcer
 [scene] (p.336) Stands with Tsukishiro as buses arrive, responding without emotion to his question about the late July heat; pressed to finally expel Ayanokōji.
 [narrates] (p.336) "Yes, you are right." — her emotionless reply
@@ -348,7 +347,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.164–186) Helpful and alert — she assists in the emergency search.
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
-
 
 
 ### y2v3 p.7–8 — Nanase's monologue: resolving to defeat Ayanokōji for real
@@ -485,7 +483,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v4 → start -->
 
 
-
 ### y2v4 p.8–26 — Nanase guards Ayanokōji; accuses Amasawa
 [says] (p.9) "Please get behind me, Senpai."
 [says] (p.9) "You─ cannot be trusted."
@@ -560,13 +557,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — nanase-tsubasa mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.274, p.276, p.279-284.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.279–285 — Ch.5: Nanase's turnaround (Horikita's POV)
 [scene] (p.279) Her first match with ease and we watch Amasawa-san's team; Nanase-san is far better than they thought; she controls the match with sharp offense and defense — she wins with Amasawa barely touching the ball; by the final, she goes from a quiet player to a monster who gets the ball to land out of bounds.
 [says:nanase-tsubasa] (p.282) “A stuff block, I think. I’m not too familiar with it myself, though.”
@@ -576,7 +566,11 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:amasawa-ichika] (p.279–285) Her teammate and anchor — she holds her up while she adapts.
 [rel:horikita-suzune] (p.279–285) The first-year that outclassed everyone — she beat her in the final 7-6.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -589,7 +583,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 ## y2v8
 
 <!-- walk: y2v8 → start -->
-
 
 
 ### y2v8 p.28–38 — Nanase: Yagami's fear; warnings about the trip
@@ -630,7 +623,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v9 Ch.2 → p.73 -->
 
 
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -642,8 +634,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:housen-kazuomi] (p.64–65) She walks ahead of him; relays his intent to Ayanokōji in confidence.
 
 <!-- walk: y2v9.5 Ch.3 → p.65 -->
-
-
 
 
 ## y2v11

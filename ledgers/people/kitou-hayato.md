@@ -139,7 +139,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 <!-- walk: y2v2 Ch.2 → p.66 -->
 
 
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -155,7 +154,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 <!-- walk: y2v3 Ch.1 → p.55 -->
 
 
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -167,7 +165,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [mentioned] (p.185–189) Passing mention only.
 
 <!-- walk: y2v4 Ch.5 → p.189 -->
-
 
 
 ## y2v4.5
@@ -182,22 +179,22 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
 
-
-
-
 ## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — kitou-hayato mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.22-23, p.44, p.168, p.170-171, p.176-177.
-[mentioned] (p.11) Passing mention only.
 
 ### y2v6 p.305–305 — Ch.6: Kitou — the other Class A promise
 [mentioned] (p.305) Sakayanagi: “And while we have promising students such as Kitou-kun and Hashimoto-kun, on average we aren’t as good as Horikita-san’s class.” — Kitou is named as one of Class A's promising athletes.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.305 — Coverage gate: cafe mention
+[mentioned] (p.305) “such as Kitou-kun and Hashimoto-kun, on average we aren’t as good as Horikita-san’s class.” — Sakayanagi names him as one of Class A’s promising athletes.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -289,8 +286,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -301,7 +296,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [trait] (p.151) Quiet but firm when he speaks.
 
 <!-- walk: y2v9 Ch.5 → p.151 -->
-
 
 
 ## y2v9.5
@@ -318,8 +312,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:shiina-hiyori] (p.199–204) Finds her interesting; watches her with interest; gets her jokes.
 
 <!-- walk: y2v9.5 Epilogue → p.204 -->
-
-
 
 
 ## y2v10

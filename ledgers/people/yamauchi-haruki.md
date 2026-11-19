@@ -845,7 +845,6 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 <!-- walk: y2v2 Ch.1 → p.62 -->
 
 
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -857,18 +856,17 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 <!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — yamauchi-haruki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.191.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v6 p.191–191 — Ch.3: Named — the Lucius precedent
 [mentioned] (p.191) Haruka names Yamauchi's expulsion in the cafe — “did you think the same things when Yamauchi-kun was expelled?” — Horikita: “I understand your discontent, but…”; Haruka: “He got what he deserved. It’s different this time around.”
 [rel:horikita-suzune] (p.191) She reaches for the Yamauchi precedent to answer Haruka's discontent.
 
+<!-- walk: y2v6 → start -->
+
+
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

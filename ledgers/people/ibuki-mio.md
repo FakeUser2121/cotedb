@@ -1120,6 +1120,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.243–275) Her rival — they're 1–1 after the long jump, and she refuses to let the score stand; Horikita notes she has no friends but agrees to team up.
 [rel:amasawa-ichika] (p.273–275) She wants to beat the "piece of shit brat" first-year — joins Horikita's volleyball team for that chance.
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.112–125 — Ch.3: She gets roped in — the scam, the meter, the door (Horikita's POV)
 [scene] (p.112–119) Ibuki corners Horikita at the elevator — “This! This message, what does it mean? Answer me!” — AK's secret strategy message (“If you get expelled because of something that has nothing to do with me… You wouldn't be such an idiot, right?”) which Ibuki cannot decode; Horikita explains: he was giving her a secret strategy to avoid expulsion — if she were expelled, Ryūen's class would gain 100 points with no downsides by removing her; if she had to be expelled, it would be better during an exam with a penalty; Horikita asks for Ibuki's help; Ibuki stalls over the bus-stop signals; the negotiation ends with a promise: Horikita will fight her in three competitions of Ibuki's choice at the Sports Festival, best of three.
 [says:ibuki-mio] (p.112) “Don’t ignore me!”

@@ -1780,6 +1780,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.106–191 — Ch.3: Ryuuen — the fear reference
 [mentioned] (p.106) Chabashira: “Uniting a class of nearly 40 people is no easy task, even for Ryuuen, Sakayanagi, or Ichinose.”
 [mentioned] (p.113–114) Horikita: “… if you were … expelled in the previous exam, Ryuuen’s class would have gained 100 points with no downsides by removing you.” — the sentence bridges the page break
@@ -1792,6 +1793,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.196–218 — Ch.4: The karaoke negotiation — Ryuuen lets it happen (AK POV)
 [scene] (p.196–198) He arrives late — second day of me; “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.” — he fires a probing shot at Horikita about expelling someone; “Rather, what were you trying? I was sure that you would expel someone.” — “You getting worried ’cause you’re all alone? After all, you were the only one who made the wrong choice.” — his tone lands on her but she is unperturbed.
 [says:ryuuen-kakeru] (p.196) “Suzune, it’s great that you wanna have a date with me, but it looks like there’s a few too many people tagging along.”
@@ -1853,6 +1855,8 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.323) The alliance paid off — second place with Horikita's class first.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -2491,7 +2495,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.190) “It's not that I, Ryūen, and Katsuragi couldn't have forced the issue by …  ourselves.” — Ayanokōji's line; the trio's alliance.
 [mentioned] (p.199) “Even so, I didn't think you were cooperating with Ryūen's class under the guise of being hostile to them.” — Chabashira's line.
 [mentioned] (p.202) “Class C led by Ryūen: 740” — the final class points of the November festival.
-
 
 
 <!-- walk: y2v7 Ch.6 → p.160 -->

@@ -68,9 +68,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 <!-- walk: y2v4.5 ch2 → p.72 -->
 
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -102,6 +99,7 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [note] (p.277–285) The roster row carrying y2v6 is himeno-yuki; the y2v7 record notes the printed “Himeno” may match either this row or the added “himeno” row; no assignment is made here either.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -131,8 +129,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -160,7 +156,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 <!-- walk: y2v9 Ch.3 → p.113 -->
 
 
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -169,9 +164,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.107, p.109, p.112, p.117; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
-
-
-
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

@@ -805,7 +805,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v2 Ch.5 → p.311 -->
 
 
-
 ### y2v2 p.298–312 — Katsuragi's vendetta; signs Ryūen's contract to transfer
 [scene] (p.298) Joins Ryūen's café meeting with Ayanokōji, stiff and uneasy at being seen with Ryūen.
 [says] (p.298) "You said there was someone else, were you talking about Ayanokouji?"
@@ -836,7 +835,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v3 Ch.6 → p.276 -->
 
 
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -848,7 +846,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.183, 280) Passing mention only.
 
 <!-- walk: y2v4 Ch.6 → p.280 -->
-
 
 
 ## y2v4.5
@@ -916,7 +913,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v6 → start -->
 
 
-
 ### y2v6 p.195–218 — Katsuragi: the honest broker in the alliance
 [says] (p.195) "Sorry for being late." — his punctuality noted as unusual by Ayanokōji
 [says] (p.200) "There is no one I'd be more afraid of trusting my back to." — on Ryūen
@@ -929,6 +925,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.205) He reevaluates the alliance and talks Ryūen into accepting.
 [rel:horikita-suzune] (p.201–212) He senses her growth and agrees to collaborate on the paperwork.
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.195–218 — Ch.4: Katsuragi Kohei — the deal's quiet architect (AK POV)
 [scene] (p.195–197) Second-year D appears — punctuality-wish energy — he steps in first; orders oolong tea — “I’ll have oolong tea, please.”; he holds Horikita back from opening — delays her to unnerve her from the outset; he is the reliable half of Ryuuen's pair.
 [says:katsuragi-kouhei] (p.195) “Sorry for being late.”
@@ -981,6 +978,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.196) The line “There was something you wanted to talk to us about… let’s hear the details, shall we.” is untagged in the corpus — the assignment to Katsuragi is by the printed dialogue order, not a printed name; flagged as such.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -1033,8 +1031,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -1057,7 +1053,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:yamamura-miki] (p.131–134) He finds her following them; later warns Ryūen off.
 
 <!-- walk: y2v9.5 Ch.5 → p.128 -->
-
 
 
 ## y2v10

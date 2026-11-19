@@ -201,7 +201,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 <!-- walk: y2v3 → start -->
 
 
-
 ### y2v3 p.309–319 — Amasawa exposes Kushida; declares Ayanokōji "special"
 [scene] (p.309) Revealed as Kushida's walkie-talkie accomplice; records the fight on her tablet, then drags Kushida away and confronts her.
 [says] (p.309) "Shh~ I get you're surprised but you've like, gotta be quiet, Kushida-senpai."
@@ -217,7 +216,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
 
 
 ### y2v4 p.5–7 — Prologue: Amasawa's monologue on the White Room
@@ -276,9 +274,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 <!-- walk: y2v4.5 ch3 → p.95 -->
 
 
-
-
-
 ### y2v4.5 p.251–257 — Amasawa and Yagami Takuya in the guest cabin
 [scene] (p.251–257) Amasawa visits Yagami Takuya (second-year Class B, White Room) in his guest cabin; they discuss the White Room, the Kushida/Kurachi interference, the planted note, his plans for Ayanokōji, and her expulsion from the White Room.
 [says] (p.252) “You never learn, do you, Ichika?”
@@ -315,7 +310,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
 
 
 ### y2v6 p.339–341 — Short story: "The Truth is, I've Always…" — Amasawa checks his room
@@ -406,6 +400,17 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [note] (p.339–341) Short story; alternate retelling of the Ch.3 Amasawa visit from her POV; confirms she was searching for a planted trick.
 
 <!-- walk: y2v6 SS → p.344 -->
+
+### y2v6 p.5, 322 — Coverage gate additions
+[mentioned] (p.322) “However, whether it came from Amasawa or this guy, that was just the thing I didn't care about at all.” — the boy at the door references her vaguely.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
+### y2v6 p.5 — Coverage gate: TOC mention
+[mentioned] (p.5) “Amasawa Ichika SS: The Truth is, I’ve Always” — the TOC lists her short story; the page does not place her.
+
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -581,8 +586,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -599,7 +602,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:ishigami-kyo-1a] (p.61) Her Class A classmate; identifies him as the class's strategist.
 
 <!-- walk: y2v9 Ch.2 → p.67 -->
-
 
 
 ## y2v9.5
@@ -724,7 +726,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:yagami-takuya] (p.179) “You were Yagami's girlfriend?” — no; they were like siblings who had surpassed that kind of relationship.
 [rel:karuizawa-kei] (p.179) She floats beating up Karuizawa-senpai and expelling her; she drops it out of consideration for Ayanokōji's goals.
 [rel:horikita-manabu] (p.179–180) She names Manabu as the always-causing-a-stir figure of the two years before.
-
 
 
 <!-- walk: y2v11 ch7 → p.181 -->

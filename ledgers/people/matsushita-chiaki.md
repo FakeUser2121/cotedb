@@ -147,6 +147,8 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:ike-kanji] (p.179) His girlfriend — the couple at the center.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12
 
 <!-- walk: y2v12 → start -->

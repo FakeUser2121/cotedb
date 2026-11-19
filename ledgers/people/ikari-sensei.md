@@ -22,9 +22,6 @@ char_id: ikari-sensei · class: unknown · status: unknown
 [rel:chabashira-sae] (p.78–79) Audits her class's exam; delivers the intervention ban.
 
 
-
-
-
 <!-- walk: y2v6 Epilogue → p.346 -->
 
 <!-- walk: y2v5 Ch.4 → p.126 -->

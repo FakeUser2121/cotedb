@@ -165,6 +165,7 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
 
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ### y2v6 p.76–100 — Ch.2: The crude plan — date her, and she'll return
 [scene] (p.76) AK narrates the exam's shadow over Kei — Mii-chan's absent seat among the three.
 [scene] (p.85–86) AK lays out the “crude but forceful method” to Yousuke for Mii-chan: meet her and accept her feelings — date her — and she would go back to school tomorrow; Yousuke recoils — she will only end up deeply hurt later; AK insists: he can't deny many rejected students; he could either date her (“Actually, I like you too, Mii-chan. Please go out with me.”) or lie about it.
@@ -217,6 +218,7 @@ char_id: wang-mei-yu · status: minor
 [rel:sakura-airi] (p.147) “the exam would hurry up and end, I pressed the button in support of expulsion.”
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -271,7 +273,6 @@ char_id: wang-mei-yu · status: minor
 <!-- walk: y2v2 Ch.2 → p.66 -->
 
 
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -283,9 +284,6 @@ char_id: wang-mei-yu · status: minor
 [note] (p.209–210) Ayanokōji can't recall Kōenji at the briefing; the circumstances are unknown even to Horikita — "he's out of this world."
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
-
-
-
 
 
 ## y2v5
@@ -378,11 +376,6 @@ char_id: wang-mei-yu · status: minor
 [rel:ayanokouji-kiyotaka] (p.159) The standing-room-only plan.
 
 
-
-
-
-
-
 <!-- walk: y2v7 Ch.6 → p.160 -->
 
 <!-- walk: y2v7 Ch.7 → p.183 -->
@@ -416,8 +409,6 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.11) Passing mention only.
 
 
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -430,7 +421,6 @@ char_id: wang-mei-yu · status: minor
 [mentioned] (p.17, 70, 141) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.141 -->
-
 
 
 ## y2v9.5
@@ -446,8 +436,6 @@ char_id: wang-mei-yu · status: minor
 [rel:maezono] (p.66–70) She's at peace with the gathering, follows her lead.
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
-
-
 
 
 ## y2v10
@@ -471,7 +459,6 @@ char_id: wang-mei-yu · status: minor
 [says] (p.78) "If ‘someone’ tries to ostracize me, they’d better be prepared."
 [rel:kouenji-rokusuke] (p.66–80) She recognizes his subtle kindness to her during her absence; out-and-proud attempt to return the favor.
 [rel:ayanokouji-kiyotaka] (p.60–80) Present throughout; he carries the embarrassing conversations.
-
 
 
 ### y2v10 p.9-235 — wang-mei-yu mentioned in passing

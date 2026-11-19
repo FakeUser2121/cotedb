@@ -356,6 +356,8 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:kushida-kikyou] (p.174) Kushida's apology is aimed at her and the rest of the couple-making-fun crowd.
 
 <!-- walk: y2v6 Ch.3 → p.193 -->
+
+[scene] Anchored references — quoted corpus verbatim where shown; see rows for pages.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
