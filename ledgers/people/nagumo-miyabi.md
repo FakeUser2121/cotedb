@@ -629,6 +629,34 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ichinose-honami] (p.77) She is the one-year-ahead standard he sets for Horikita.
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
+
+### y2v2 p.286–292 — Nagumo and Kiryūin
+[scene] (p.286) Ayanokōji leaves; Kiriyama returns; Nagumo shows up behind Kiryuuin.
+[says:kiriyama-ikuto] (p.286) “Who the hell do you think you are? You’re the one-“
+[says] (p.287) “If possible, I too don’t want to stay here for longer than I have to.”
+[says] (p.287) “You’re beautiful but charmless, and I don’t have much interest in charmless women.”
+[says] (p.287) “If there’s a man who can bring out the charming side of you, I’d like to meet him.”
+[says] (p.287) “Women with too high an ability are hard to deal with. Unfortunately, I don’t like those types either.”
+[says] (p.288) “I heard something from Kiriyama. I would have never thought that someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji. I was surprised when I heard that.”
+[says] (p.288) “Someone who has never been with a man before, can understand the fundamentals of love?”
+[says:kiryuin-fuuka] (p.291) “There’s a saying, that a predator doesn’t reveal his fangs, right? He seems to have gotten a perfect score in a difficult test.”
+[says] (p.289) “There are people who hate being in the limelight and hide their talents. I’ve defeated all of them, and they weren’t very interesting.”
+[says] (p.289) “If I had to say, it’s his aura. I feel that he has a different aura from you and Horikita Manabu.”
+[says] (p.290) “Well well, can you really say that there’s definitely nothing in which you’re inferior to me at?”
+[says] (p.291) “You seem to be bored ever since Horikita Manabu left. So this underclassmen should be a good playmate for you, eh? If you’re really serious, then you’ll definitely get 1st place in the upcoming exam.”
+[says] (p.291) “Of course I’ll get 1st place. Or maybe it’ll be Kiriyama, who’s been dying to fight me. But to get control of the whole podium, I still need more groups, right? I’ll give you this role, Kiryuuin. If necessary, I’ll even help you find comrades.”
+[says] (p.291) “Although letting the underclassmen get 3rd place wouldn’t be too bad, I’m not that soft.”
+[says] (p.292) “That’s just how you are. We’re both 3rd years, but it seemed to be a waste of time to try to talk to you like that.”
+[says:kiryuin-fuuka] (p.292) “With that logic, nobody can give you any advice”
+[note] (p.286–292) He offers her the underclassmen play role; she declines; he takes Kiriyama and leaves with a monologue warning.
+[trait] (p.286–292) Bored predator; collecting underclassmen for the island exam; genuinely puzzled by her indifference.
+[rel:kiryuin-fuuka] (p.286–292) He studies her; she declines.
+[rel:kiriyama-ikuto] (p.286–292) He dismisses him; he serves him.
+[rel:ayanokouji-kiyotaka] (p.291–292) The interesting underclassman; he might test him.
+[rel:horikita-suzune] (p.289) Her sister spy-experiment bores him.
+[rel:horikita-manabu] (p.289–291) His predecessor's antics linger.
+
+<!-- walk: y2v2 Ch.4 → p.292 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

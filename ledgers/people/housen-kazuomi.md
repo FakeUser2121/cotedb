@@ -136,23 +136,51 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-
-### y2v2 p.225–231 — Hōsen at the first-year rep gathering
-[scene] (p.225) Arrives last at the gathering, “with his terrifying white teeth as usual,” refusing to pay or cooperate.
-[says] (p.225) “Don't call out my name like we're close, or I'll kill ya.”
-[says] (p.225) “So y'all decided upon paying up?”
+### y2v2 p.220–235 — The representatives' gathering
+[scene] (p.220–221) For weeks he has refused to parley; the three classes wait for July; he finally shows.
+[says] (p.225) “Don’t call out my name like we’re close, or I’ll kill ya.”
+[says] (p.225) “So y’all decided upon paying up?”
+[says] (p.225) “Don’t ya just start off like that.”
 [says] (p.226) “Oh? You want to get in my way?”
 [says] (p.226) “Huh, interesting. Come and try, if you can.”
-[says] (p.227) “Looks like playing with ya is gonna be fun. I'll save it for next time.”
-[says] (p.227) “Ah yea, it's a game.” — on whether violence is a game
-[says] (p.228) “Ain't it just the small fry imploding as a result of fearing expulsion?”
-[says] (p.228) “If you beg me sincerely, I could also work with ya.”
-[says] (p.230) “Your meek attitude is pissing me off, Yagami.”
-[trait] (p.225–231) Violent, arrogant and provocative — shoves Takahashi down, nearly fights Utomiya, treats violence as a game, and dismisses Hatano's expulsion as “small fry imploding”; insists he can crush the upperclassmen alone; the entire first-year grade is being forced to negotiate around his refusal to cooperate.
-[rel:utomiya-riku] (p.226–229) Nearly fights him; Utomiya suspects he got Hatano expelled.
-[rel:takahashi-osamu] (p.225–226) Shoves him down and threatens him.
-[rel:yagami-takuya] (p.230) Dismisses his cooperative, “meek” attitude.
-[rel:hatano] (p.228) Claims Hatano's expulsion was just fear-driven implosion.
+[says] (p.226) “Then let’s see what ya got.”
+[says] (p.227) “Looks like playing with ya is gonna be fun. I’ll save it for next time.”
+[says] (p.227) “Ah yea, it’s a game.”
+[says] (p.229) “Hey, hey, what do ya mean by that?”
+[says] (p.229) “Ain’t it just the small fry imploding as a result of fearing expulsion?”
+[says] (p.229) “And, you’re saying it was me?”
+[says] (p.229) “Ah, right, we could group up with the other classes in the next special exam.”
+[says] (p.230) “Begin? Who said I’d join your little conversation?”
+[says] (p.230) “What if I said yes?”
+[says] (p.230) “Your meek attitude is pissing me off, Yagami. Doesn’t matter if they’re 2nd or 3rd years, I have the confidence to crush them all.”
+[says] (p.233) “Alright, I’ll help you.”
+[says] (p.233) “What am I trying to do? Didn’t you guys want my help? Ain’t I just listening to ya cute wishes?”
+[says] (p.233) “The remaining two spots in the strongest team must be reserved for Class D. That’s a must.”
+[says] (p.234) “Didn’t I just say? My condition is that two students from Class D must be in the group.”
+[says] (p.234) “I’m not joking. If you don’t like that, fuck off.”
+[says] (p.235) “Do what ya want.”
+### y2v2 p.236–242 — Housen takes the bounty deal
+[scene] (p.236–238) Amasawa calls him to the cafe; Nanase joins; the three weigh the alliance.
+[says] (p.236) “Shut the fuck up. Don’t ya know how much this is worth?”
+[says] (p.236) “Huh? This is exactly why girls are so boring.”
+[says] (p.236) “I called you out because of the upcoming uninhabited island exam. Team up with me, Amasawa.”
+[says] (p.236) “Huh?”
+[says] (p.238) “So what? I’ll crush them all.”
+[says] (p.238) “That’s up to me, who’s in charge of Class D, to decide. Understand?”
+[says] (p.239) “Nanase and I, and you. We’ll form a group of three. Alright?”
+[says] (p.240) “There’s no need to accept this condition. Consider the future if Class A gets an extra 20 million points…”
+[says] (p.240) “Shut up, Nanase.”
+[says] (p.241) “The bounty is yours.”
+[says] (p.242) “It’s just a verbal agreement anyway. As long as it’s clear I am the one who gets Ayanakouji expelled, I’ll be the one who receives the points. I don’t care if she cries about it later.”
+[says] (p.242) “Whether it be Ayanokouji, Ryuuen, or the others, whoever comes at me with their fangs, I’ll crush them all. I’m sick of being bogged down by the trash rules of this school.”
+[note] (p.236–242) He signs away Amasawa's fee (the 20M bounty) without intent to honor it; his condition for the alliance is his own dominance of Class D.
+[rel:amasawa-ichika] (p.236–242) He courts her for the plan; she sets her price.
+[rel:nanase-tsubasa] (p.237–242) She is leverage and friend.
+[rel:yagami-takuya] (p.220–235) He toys with his proposal, then accepts.
+[rel:utomiya-riku] (p.225–235) The Hatano accusation hangs.
+[rel:takahashi-osamu] (p.225–226) He shoves him down.
+
+<!-- walk: y2v2 Ch.4 → p.242 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

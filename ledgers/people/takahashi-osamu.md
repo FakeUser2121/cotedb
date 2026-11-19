@@ -18,24 +18,28 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
-
-### y2v2 p.223–231 — Takahashi at the first-year rep gathering
-[scene] (p.223) Boisterously joins the gathering (Class 1-A rep) — unassuming (C+ academics) but good at getting along with people, with many friends across classes/years.
-[says] (p.224) “Osamu-kun, did you come because you were given this troublesome task again?” — Utomiya
-[says] (p.224) “The leader of my class is the type who dislikes these kinds of troublesome things. That's why I'm the one coming to this discussion.”
-[says] (p.224) “So only Kazuomi isn't here yet?”
-[says] (p.225) “You've shown up at a great time, Kazuomi.”
-[says] (p.225) “Don't call out my name like we're close, or I'll kill ya.” — Hōsen; Takahashi shrugs it off
+### y2v2 p.223–236 — The representatives' gathering
+[scene] (p.223) He arrives with a wave and a loud voice; good at getting along; many friends; his class leader sent him.
+[says] (p.223) “Oh! Riku, Takuya. As expected, it’s you guys.”
+[says] (p.224) “The leader of my class is the type who dislikes these kinds of troublesome things. That’s why I’m the one coming to this discussion.”
+[says] (p.225) “Anyway, let’s calm down first. There’s no way to have a discussion if you’re belligerent from the start.”
+[says] (p.225) “Then, now that everyone’s here, let’s start the conversation. The groups—”
+[scene] (p.226–229) Hōsen shoves him down; he jokes toward Yagami-ish calm; he mediates.
+[says] (p.225) “You’ve shown up at a great time, Kazuomi.”
 [says] (p.226) “Wait a minute, wait a minute, wait. I just slipped and fell, so calm down, Riku.”
-[says] (p.229) “Calm down, both of you. If you start a fight here, you'll be doing exactly what Kazuomi wants.”
-[trait] (p.223–231) Friendly and peacekeeping — acts as mediator when Utomiya and Hōsen nearly fight, holds a neutral position on isolating Class D, and asks why only one strong group should be formed (suggesting more).
-[rel:utomiya-riku] (p.226) He calms the situation when Utomiya and Hōsen clash.
-[rel:housen-kazuomi] (p.225–226) Hōsen shoves him down and threatens him; Takahashi doesn't shy away, wanting everyone to get along.
-[rel:yagami-takuya] (p.223–231) Fellow representative; he supports Yagami's cooperation stance.
+[says] (p.226) “He’s saying that’s the case, no?”
+[says] (p.226) “Calm down, both of you. If you start a fight here, you’ll be doing exactly what Kazuomi wants.”
+[says] (p.231) “Ah, wait a moment. I have a question about what Takuya said. Why only make one team? All top three teams will get Class Points, right? If we also take into consideration that we could merge into big groups during the official exam, isn’t it better to form a lot more strong teams?”
+[says] (p.232) “So as long as we get 1st place, it doesn’t matter what we sacrifice to achieve it.”
+[says] (p.235) “By the way, Takuya, who do you plan to choose from Class B?”
+[note] (p.223–235) “Osamu-kun, did you come because you were given this troublesome task again?” and “So only Kazuomi isn't here yet?” — untagged in the translation; speakers unassigned as printed.
+[note] (p.229) “Takahashi-kun is right. The most important thing now is to focus on the uninhabited island exam.” — untagged; speakers unassigned as printed.
+[trait] (p.223–235) The unofficial glue; peacekeeping officially; curious officially; he asks practical questions (why only one team).
+[rel:utomiya-riku] (p.226–235) He smooths him.
+[rel:housen-kazuomi] (p.225–226) He takes a shove and jokes through it.
+[rel:yagami-takuya] (p.223–235) He joins him in the cooperation camp.
+
+<!-- walk: y2v2 Ch.4 → p.235 -->
 ## y2v4
 
 <!-- walk: y2v4 → start -->

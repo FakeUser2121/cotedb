@@ -15,6 +15,12 @@ char_id: kiriyama · class: student council · status: vice president (y2v2)
 [mentioned] (p.80–82) Rattled by Nagumo's question.
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
+
+### y2v2 p.271–285 — Kiriyama's warning (and the bench)
+[note] (p.271–285) Scene lines are on kiriyama-ikuto.md (this roster carries both `kiriyama` and `kiriyama-ikuto`; do not merge from this side).
+[mentioned] (p.271–285) Present as Vice President; displeased by Kiryūin's presence.
+
+<!-- walk: y2v2 Ch.4 → p.285 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

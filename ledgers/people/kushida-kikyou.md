@@ -1873,6 +1873,41 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:shinohara-satsuki] (p.171) She confirms Ike's rescue with her.
 
 <!-- walk: y2v2 Ch.3 → p.171 -->
+
+### y2v2 p.243–262 — The 1st-year meeting set-up; the café
+[scene] (p.243–244) She calls him as the group leaves; the meet is arranged.
+[says] (p.243) “Ayanokouji-kun, can I talk to you for a second?”
+[says] (p.243) “Actually, a 1st year student told me that they wanted to meet you, Ayanokouji-kun… Is this a bad time?”
+[says:hasebe-haruka] (p.244) “If that’s the case, I don’t think we can allow them to meet.”
+[says:ayanokouji-kiyotaka] (p.244) “… Is that the case?”
+[says] (p.244) “Eh? Ah, that… It’s actually a boy that wants to meet you… Sorry.”
+[note] (p.244) “Right. After all, our group isn’t particularly good at interpersonal relationships, so it wouldn’t be a bad thing if Kiyotaka could gain some acquaintances in the 1st year.” — untagged banter from the girls; speakers unassigned as printed.
+[says] (p.244) “Okay. What should I do?”
+[says] (p.244) “That’s fine…”
+[says] (p.245) “Sorry about this.”
+[says] (p.245) “It’s not a big deal. Nobody in the group will complain about it.”
+[says] (p.245) “He seems to be heading this way already, so let’s just wait here, so that we don’t miss him, okay?”
+[says] (p.246) “… That’s true.”
+[says] (p.247) “Ah, sorry Yagami-kun, but actually, Ayanokouji-kun has plans to meet up with his friends after this, so can we try to keep this within an hour?”
+[says] (p.247) “Oh right, now that you mention it, the 3rd years also took the uninhabited island exam.”
+[says] (p.252) “Excuse me, I have no idea what you guys are talking about…”
+[says] (p.252) “That’s amazing. I don’t have much confidence in my own writing.”
+[says] (p.253) “Well, there’s really no denying it.”
+[says] (p.255) “Eh?! To get Ayanokouji-kun expelled?”
+[says] (p.255) “Th-that’s a lot of points… I-is that sort of thing allowed?”
+[says] (p.255) “Isn’t it a bit strange that the student council president is conducting this special exam on his own…?”
+[says] (p.256) “Wh-why is it Ayanokouji-kun? Are there no other students apart from him?”
+[says] (p.262) “It doesn’t make a difference either way.”
+[says] (p.262) “I’ll have to get rid of him as soon as possible. Yagami-kun, that is.”
+[says] (p.263) “That only depends on the method.”
+[says] (p.263) “The more arrogant you are about your own excellence, the more simple you are. Horikita-san and youself are no exception to this.”
+[says:ayanokouji-kiyotaka] (p.263) “Didn’t you agree to a ceasefire?”
+[says] (p.263) “See you later, Ayanokouji-kun.”
+[note] (p.260–263) Yagami graduated from the same junior high school as she and Horikita — he knows her past; she decides to get rid of him before he can present a threat to herself and to AK's ceasefire with Horikita.
+[rel:yagami-takuya] (p.246–263) She enables the meeting; she privately resolves to eliminate him.
+[rel:ayanokouji-kiyotaka] (p.243–263) She runs interference for both sides; she means to manage the fallout.
+
+<!-- walk: y2v2 Ch.4 → p.263 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -1166,6 +1166,12 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.179) Not present in scenes; her group's arithmetic is recorded.
 
 <!-- walk: y2v2 Ch.3 → p.179 -->
+
+### y2v2 p.243–245 — The group after school
+[scene] (p.243–244) After school the group waits by his seat; Kushida calls him; Yagami, a 1st year, wants a meeting.
+[note] (p.243) Akito is at his club and missed the gathering.
+
+<!-- walk: y2v2 Ch.4 → p.245 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -735,6 +735,13 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [scene] (p.179) She groups with Akito and Airi; the group is well balanced by motor skills.
 
 <!-- walk: y2v2 Ch.3 → p.179 -->
+
+### y2v2 p.243–245 — Haruka at the after-school gathering
+[scene] (p.243–244) She and Airi and Sakura wait by his seat; Kushida calls him out to a meeting with a 1st-year boy; she voices her veto on the meeting.
+[says] (p.244) “If that’s the case, I don’t think we can allow them to meet.”
+[note] (p.244) She is the one who arbitrarily decides he isn't allowed to go, then backs off once she hears the boy's name isn't a confession.
+
+<!-- walk: y2v2 Ch.4 → p.245 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

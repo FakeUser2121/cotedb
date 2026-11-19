@@ -141,6 +141,38 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [rel:ayanokouji-kiyotaka] (p.80–82) He is shaken to see AK inside.
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
+
+### y2v2 p.271–285 — Kiriyama's warning (and the bench)
+[scene] (p.271–272) He stops Ayanokōji near Keyaki mall; the ask is loaded.
+[says] (p.272) “You’re here.”
+[says] (p.272) “Don’t be in such a hurry to get this done with, it’s going to take some time today.”
+[says] (p.272) “The large scale uninhabited island exam is coming at the end of the month, are you prepared?”
+[says] (p.272) “I’ve formed a group of 3 without anyone from Class A.”
+[says] (p.272) “I know what you must be thinking, if our Class 3-B wanted to reach Class A, then it’s a must to win first place with a team with only our class. Not only that, we would have to continue to win the following special exams by a landslide. However, that’s not realistic.”
+[says] (p.272) “I wanted to personally battle Nagumo in this special exam.”
+[says] (p.273) “It’s been a long time since we lost the battle with Nagumo and fell into Class B. After which, Nagumo became the student council president, and took control over the entire 3rd year, and eventually the entire school. It’s safe to say that the battle of the classes has already been decided.”
+[says] (p.273) “But based on my evaluation of myself, I don’t think I’m any weaker than Nagumo.”
+[says] (p.273) “You can form a big group of up to 6 people regardless of class. In order to win, you’ll have to have an eye for talent and the ability to get people to join you— In that aspect, I don’t think I can lose to Nagumo.”
+[says] (p.274) “I understand where you’re going with this, but is it really necessary to specifically tell me this?”
+[says] (p.274) “I don’t want you to get in my way.”
+[says] (p.274) “I know that, but what I’m trying to say is, I don’t want to be distracted by any outsiders.”
+[says] (p.274) “I’m referring to Horikita Suzune, who just joined the student council.”
+[says] (p.275) “There’s already no point to it. He’s only got a few months left as Student Council president. If we could do something starting from now, it wouldn’t be to take his presidency, but rather to settle a personal dispute with him.”
+[says] (p.275) “That won’t work. Forget all thoughts about dealing with Nagumo. It’ll only lead to unnecessary fights.”
+[says] (p.277) “To put it politely, don’t do anything.”
+[says] (p.276) “Then, you swear you won’t do anything. Can I interpret it like that?”
+[says] (p.276) “Nagumo was more or less aware of what I’d been doing with Horikita-senpai. But since I’d been following his orders, he remained calm and simply observed what happened. Horikita-senpai’s sister joining the student council was annoying enough, so if you don’t stop meddling in this—”
+[says] (p.276) “…Yeah.”
+[says] (p.277) “Nagumo’s idea, the one in which anyone can graduate from Class A. You want that chance.”
+[says] (p.277) “Well…”
+[says] (p.277) “Anyway, you should have understood what I want to say by now.”
+[says] (p.277) “Say whatever you want-“
+[note] (p.278–285) The conversation is interrupted by Kiryūin on the bench; he glares at her and leaves with a warning.
+[rel:nagumo-miyabi] (p.271–285) He wants to outrun him with a team; he can't.
+[rel:horikita-suzune] (p.274–277) He blames her joining for everything.
+[rel:kiryuin-fuuka] (p.278–285) He cannot stand her.
+
+<!-- walk: y2v2 Ch.4 → p.285 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

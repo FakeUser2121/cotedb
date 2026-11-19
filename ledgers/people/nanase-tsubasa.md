@@ -316,6 +316,28 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:housen-kazuomi] (p.115–116) His new obsession is the 2nd years; she's disgusted and relieved.
 
 <!-- walk: y2v2 Ch.3 → p.116 -->
+
+### y2v2 p.236–242 — The alliance terms with Housen
+[scene] (p.236–238) She arrives late to the café; she checks the terms; she challenges Amasawa once.
+[says] (p.237) “We should be on equal footing. Didn’t I already say that before?”
+[says] (p.239) “You’ve got guts, eh? Trying it here.”
+[says] (p.239) “You’re not bad yourself.”
+[says:housen-kazuomi] (p.239) “Nanase and I, and you. We’ll form a group of three. Alright?”
+[says:amasawa-ichika] (p.241) “It’s true that if you give me the bounty for getting him expelled, you won’t get any money, but the reputation for getting Ayanokouji-senpai expelled will be given entirely to you Housen-kun. Is that enough for you to accept the condition?”
+[says:housen-kazuomi] (p.241) “Shut up, Nanase.”
+[says] (p.242) “Are you sure about this?”
+[says:housen-kazuomi] (p.242) “Yeah.”
+[says] (p.242) “Alright, since you’re the one who makes the decision after all. But are you sure it’s okay to trust Amasawa-san? I think she’s the type who would betray her partners without giving it a second thought.”
+[says:housen-kazuomi] (p.242) “Trust? Don’t just assume that I trust her. That goes for you too, I don’t trust either of you.”
+[says] (p.242) “Then why did you decide to group up with her?”
+[says] (p.242) “I see, that may be true. Even so, 20 million points is too much.”
+[says] (p.242) “You really are a terrible person.”
+[note] (p.236–242) She is the pressure-holder; she tries to veto the Amasawa deal and fails; she stays anyway — she has nowhere else to go.
+[rel:housen-kazuomi] (p.236–242) Her Class D co-conspirator.
+[rel:amasawa-ichika] (p.237–242) The rival she cannot push out.
+[rel:ayanokouji-kiyotaka] (p.241) She will be standing in the island exam against him.
+
+<!-- walk: y2v2 Ch.4 → p.242 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

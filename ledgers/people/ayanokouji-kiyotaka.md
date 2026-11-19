@@ -8402,6 +8402,195 @@ walk: y1v1 → DONE
 [note] (p.203–218) He is not present for the Ichinose–Sakayanagi meeting; the chapter focalises on them. See ichinose-honami.md and sakayanagi-arisu.md.
 
 <!-- walk: y2v2 Ch.3 → p.218 -->
+
+### y2v2 p.219–242 — The 1st-year gathering (not present)
+[note] (p.219–242) He is not present in either the 1st-year representatives’ gathering or the Housen–Amasawa–Nanase café scene; those scenes belong to Yagami, Utomiya, Takahashi, Housen, Nanase and Amasawa — see their ledgers.
+
+### y2v2 p.243–262 — Kushida; the first-year defection
+[scene] (p.243–244) After school the Ayanokōji group gathers near his seat; Kushida calls him; the 1st year wants a meeting.
+[says:kushida-kikyou] (p.243) “Ayanokouji-kun, can I talk to you for a second?”
+[says:kushida-kikyou] (p.243) “Actually, a 1st year student told me that they wanted to meet you, Ayanokouji-kun… Is this a bad time?”
+[says:kushida-kikyou] (p.244) “If that’s the case, I don’t think we can allow them to meet.”
+[says:kushida-kikyou] (p.244) “Eh? Ah, that… It’s actually a boy that wants to meet you… Sorry.”
+[says:kushida-kikyou] (p.244) “Right. After all, our group isn’t particularly good at interpersonal relationships, so it wouldn’t be a bad thing if Kiyotaka could gain some acquaintances in the 1st year.”
+[says:kushida-kikyou] (p.244) “Okay. What should I do?”
+[says:kushida-kikyou] (p.245) “Sorry about this.”
+[scene] (p.246–250) Walking to Keyaki mall; the 1st year arrives — Takuya Yagami of Class 1-B.
+[says:yagami-takuya] (p.246) “Nice to meet you, Ayanokouji-senpai. Thank you very much for taking your time to see me today.”
+[says] (p.246) “I believe you’re in… Class 1-B, right?”
+[says:yagami-takuya] (p.246) “Yes. I’m Takuya Yagami of Class 1-B.”
+[says:yagami-takuya] (p.247) “Standing is sort of… for the place, what about we go to my room to talk? The rare black tea I had ordered happened to arrive already. Although it takes some time to steep, it’s very delicious!”
+[says:kushida-kikyou] (p.247) “Ah, sorry Yagami-kun, but actually, Ayanokouji-kun has plans to meet up with his friends after this, so can we try to keep this within an hour?”
+[says:yagami-takuya] (p.247) “I see, that’s fine. Let’s talk at the cafe in Keyaki mall then.”
+[says:yagami-takuya] (p.247) “Oh, by the way, the special exam on the uninhabited island is about to start. I heard that you guys had the same special exam last year.”
+[says:yagami-takuya] (p.247) “Could you tell me about the rules and what happened? Since we haven’t experienced the exam as 1st years, we want to at least gather some information beforehand.”
+[says:yagami-takuya] (p.248) “Are you surprised? That I have information about the 3rd years.”
+[scene] (p.251–262) Keyaki mall café: Yagami reveals the secret special exam — 6 1st-year reps summoned by Nagumo with Tsukishiro present; 20M points on Ayanokōji's head; he confirms he saw the 20M with his own eyes; he defects and warns.
+[says:yagami-takuya] (p.252) “Actually— You might think, why I am talking to you after all this time, but there’s something I want to tell you, Ayanokouji-senpai. There’s a special exam that only a very small of 1st year students have been informed about. You already know about this, right? ”
+[says] (p.253) “Why are you telling me now?”
+[says:yagami-takuya] (p.253) “I recently heard that Housen-kun had failed in his first attempt. However, Ayanokouji-senpai’s left hand was injured in the process. I wouldn’t have been surprised if he did something inhumane but this was beyond my expectations.”
+[says:kushida-kikyou] (p.253) “Well, there’s really no denying it.”
+[says:yagami-takuya] (p.253) “In April, I received a notification about this. However, since I wasn’t interested in getting paid for setting people up, I decided not to participate.”
+[says:yagami-takuya] (p.254) “For the sake of protecting the first year students, I was going to be a complete bystander. However, if I don’t do anything about it, Ayanokouji-senpai… depending on the situation there’s a possibility that the situation will also affect your classmate, Kushida-senpai. That’s why I asked Kushida-senpai to help me out.”
+[says:kushida-kikyou] (p.254) “Excuse me, I have no idea what you guys are talking about…”
+[says:yagami-takuya] (p.254) “Can I continue to talk like this?”
+[says] (p.254) “I’ve got no right to stop you.”
+[says:yagami-takuya] (p.254) “It all started when I was contacted by President Nagumo of the student council. He instructed that one or two representatives were to be sent from each class and would secretly gather in the student council room. Actually, we were summoned there shortly after entering the school.”
+[says:yagami-takuya] (p.254) “The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students.”
+[says:kushida-kikyou] (p.254) “Eh?! To get Ayanokouji-kun expelled?”
+[says:yagami-takuya] (p.254) “The special exam was to get the 2nd year student Ayanokouji-senpai expelled from the school.”
+[says:yagami-takuya] (p.255) “The deadline was the beginning of the 2nd semester, and you could use any means. In addition, we weren’t allowed to tell anyone about the special exam. However, since Utomiya and I were the only participants from our classes, we were allowed to tell one person in our classes about it to make it fair, but I didn’t tell anyone. Utomiya might have told someone though.”
+[says:yagami-takuya] (p.255) “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
+[says:kushida-kikyou] (p.255) “Th-that’s a lot of points… I-is that sort of thing allowed?”
+[says:kushida-kikyou] (p.255) “Isn’t it a bit strange that the student council president is conducting this special exam on his own…?”
+[says:yagami-takuya] (p.255) “Yes. I too think the problem lies in how I expressed it as. I’m calling it a special test, but it would be easier to understand if you think of it as a challenge that President Nagumo made up on his own and gave to the first year students.”
+[says:yagami-takuya] (p.256) “As far as I know, it’s only Ayanokouji-senpai. As for why it’s him, I don’t think there’s a specific reason behind that. President Nagumo said that the student was selected at random from the 2nd years’. It was a simple game of chance, 1 in 157.”
+[says] (p.256) “Even if it’s the student council president conducting this special exam on his own, how was he able to prepare 20 million points?.”
+[says:yagami-takuya] (p.256) “Yes. Although it might not sound good… Could it be a lie, a joke? I really can’t believe he prepared 20 million points for an exam from an unknown source like this.”
+[says:yagami-takuya] (p.256) “Wh-why is it Ayanokouji-kun? Are there no other students apart from him?”
+[says:yagami-takuya] (p.257) “In fact, I’ve already confirmed with my own eyes that he has 20 million points.”
+[says:yagami-takuya] (p.257) “Apart from the disagreeable content of the exam itself, there’s nothing else unpleasant about it. I think that other than me, all the other students welcomed it. It’s being treated as a legitimate special exam.”
+[says:yagami-takuya] (p.257) “No, it’s not because we trust the president of the student council that we’re participating in the exam.”
+[says:yagami-takuya] (p.257) “When the student council president announced the exam, the acting director was also present.”
+[says] (p.258) “That’s all the information I have about this matter.”
+[says] (p.258) “Although I’m grateful that you told me about this, you might be putting yourself in some unnecessary danger by doing so.”
+[says:kushida-kikyou] (p.258) “Yagami-kun, will you be alright? If this conversation is exposed…”
+[says:yagami-takuya] (p.258) “It’s fine, Kushida-senpai. I didn’t hear about any punishment for talking about this to anyone.”
+[says:yagami-takuya] (p.258) “Plus I’m already prepared to be hated by the 1st years, because I’m going to have to face the other classes sooner or later.”
+[says:yagami-takuya] (p.259) “Generally speaking, Housen-san from Class 1-D is someone you need to be alert against. His complete disregard for the rules is very troublesome.”
+[says:yagami-takuya] (p.259) “I feel like this isn’t something I should be telling you senpais. If I list the names of who to watch out for, they’ll of course be marked by the senpais. While I think that is important for you to know, I don’t think it’s fair to them if I tell you, although I already marked Housen-kun.”
+[says:yagami-takuya] (p.260) “I’ll try to investigate in the next special exam. Once I’m sure that he’s a threat, I’ll tell you, Ayanokouji-senpai.”
+[says:kushida-kikyou] (p.260) “Be careful, Yagami-kun.”
+[says:yagami-takuya] (p.260) “Yeah. Also… after the exam on the uninhabited island is over, can I meet you alone for a bit? I’d like to talk to you, Kushida-senpai.”
+[says] (p.261) “In any case, your information was very helpful, Yagami. Thank you.”
+[says:kushida-kikyou] (p.261) “No problem.”
+[says:yagami-takuya] (p.261) “You saying that, is more than enough for me. If Ayanokouji-senpai drops out of the school, it’s going tobe very hard on your class, Kushida-senpai. I really want you to graduate from Class A.”
+[scene] (p.261–263) The cafe breaks up; Kushida's face betrays something odd; she leaves on a cold, determined note about Yagami.
+[says:kushida-kikyou] (p.262) “It doesn’t make a difference either way.”
+[says] (p.262) “In other words—”
+[says:kushida-kikyou] (p.262) “I’ll have to get rid of him as soon as possible. Yagami-kun, that is.”
+[says] (p.263) “It would be harder to eliminate an underclassman compared to Horikita and I.”
+[says:kushida-kikyou] (p.263) “That only depends on the method.”
+[says:kushida-kikyou] (p.263) “The more arrogant you are about your own excellence, the more simple you are. Horikita-san and youself are no exception to this.”
+[says:kushida-kikyou] (p.263) “Didn’t you agree to a ceasefire?”
+[says:kushida-kikyou] (p.263) “See you later, Ayanokouji-kun.”
+[note] (p.254–258) The 6 named summoned reps: Takahashi Osamu, Ishigami Kyou (1-A); Takuya Yagami (1-B); Utomiya Riku (1-C); Housen Kazuomi, Nanase Tsubasa (1-D). Amasawa's name is absent — a tell.
+[note] (p.256–258) Tsukishiro was present; Nagumo offered 20M; “1 in 157”; he confirmed Nagumo has the points; he hasn't participated and won't.
+[rel:yagami-takuya] (p.243–263) The 1st-year who defects; he trades for nothing.
+[rel:kushida-kikyou] (p.243–263) She is calmly executing something beneath the surface.
+[rel:nanase-tsubasa] (p.254) She's on the summoned list.
+[rel:housen-kazuomi] (p.254) He's on it too.
+
+### y2v2 p.264–270 — Utomiya and Tsubaki at the convenience store
+[scene] (p.264–265) He exits the store to meet Keisei; Tsubaki appears; she and Utomiya table the Hōsen plan.
+[says:tsubaki-sakurako] (p.264) “Umm…”
+[says] (p.264) “Hello Tsubaki. What can I do for you?”
+[says:tsubaki-sakurako] (p.264) “I’d like to talk to you about something. Could you wait outside for me?”
+[says:tsubaki-sakurako] (p.265) “Sorry to keep you waiting.”
+[says:tsubaki-sakurako] (p.266) “There is something that we wanted to tell you, that’s why I approached you.”
+[says] (p.266) “Is it Utomiya?”
+[says:tsubaki-sakurako] (p.266) “Looks like I was right.”
+[says:utomiya-riku] (p.265) “Sorry. For having to talk to you like this.”
+[says:utomiya-riku] (p.266) “It’s about Housen Kazuomi.”
+[says:utomiya-riku] (p.266) “We want to take Housen by surprise on the uninhabited island exam.”
+[says:utomiya-riku] (p.267) “Housen doesn’t have many private points right now. In other words, if he withdraws from the exam. Even as a first year student who gets a lighter penalty, he won’t be able to pay for his relief.”
+[says] (p.267) “Are you trying to force Housen out of the school?”
+[says:utomiya-riku] (p.267) “Yes. Right, that’s it.”
+[says:utomiya-riku] (p.267) “In Class C, a boy named Hatano was expelled from the school. I think Housen had something to do with it.”
+[says:tsubaki-sakurako] (p.267) “I guess I know the reason now, but what does it have to do with me?”
+[says:utomiya-riku] (p.267) “Housen hasn’t formed any alliances with people outside his class. However, he has formed a partnership with you, Ayanokouji-senpai.”
+[says:utomiya-riku] (p.268) “Please lend me your hand.”
+[says] (p.268) “I can’t give you an answer when we don’t even know what’s going to be on the exam.”
+[says:utomiya-riku] (p.268) “Then, could you keep this in mind? We’re willing to pay you a large sum of points if you’re able to get Housen expelled from this school.”
+[says:tsubaki-sakurako] (p.269) “Didn’t you get that injury on your left hand after you fought with Housen?”
+[says:tsubaki-sakurako] (p.269) “Because we were also aiming for the 20 million point bounty.”
+[says] (p.269) “But, even if I had partnered up with Tsubaki, you still wouldn’t have been able to force me out of the school.”
+[says:utomiya-riku] (p.270) “We can’t answer that.”
+[says:utomiya-riku] (p.270) “If we get you expelled, news of that’ll spread throughout the school. We’ll be enemies with the 2nd year Class D. Them hating the people who got their classmate expelled is to be expected.”
+[says] (p.270) “Then wouldn’t it be the same if Housen was expelled?”
+[says:utomiya-riku] (p.270) “No. The reason for that is because all the Class 1-D students are afraid of Housen. Rather, there’re a lot of students who wish that he be expelled.”
+[says:utomiya-riku] (p.270) “Anyway, remember. Please remember this. The only thing we care about is defeating Housen.”
+[note] (p.266–270) They don't ask him to expel Housen; they ask him to keep an eye out; he says nothing; he leaves them both in ambiguity.
+[rel:utomiya-riku] (p.264–270) He wants to use him against Housen.
+[rel:tsubaki-sakurako] (p.264–270) She manages the door.
+[rel:housen-kazuomi] (p.264–270) The target.
+
+### y2v2 p.271–284 — Kiriyama's warning; Kiryūin's attentions
+[scene] (p.271–272) On his way to Keyaki mall, Kiriyama intercepts him; the conversation turns to the island exam and Nagumo.
+[says:kiriyama-ikuto] (p.272) “You’re here.”
+[says] (p.272) “What does the Vice President want with me?”
+[says:kiriyama-ikuto] (p.272) “Don’t be in such a hurry to get this done with, it’s going to take some time today.”
+[says:kiriyama-ikuto] (p.272) “The large scale uninhabited island exam is coming at the end of the month, are you prepared?”
+[says] (p.272) “I feel I’ve done everything I can. How about you, Vice President Kiriyama?”
+[says:kiriyama-ikuto] (p.272) “I’ve formed a group of 3 without anyone from Class A.”
+[says:kiriyama-ikuto] (p.272) “I know what you must be thinking, if our Class 3-B wanted to reach Class A, then it’s a must to win first place with a team with only our class. Not only that, we would have to continue to win the following special exams by a landslide. However, that’s not realistic.”
+[says:kiriyama-ikuto] (p.272) “I wanted to personally battle Nagumo in this special exam.”
+[says:kiriyama-ikuto] (p.273) “It’s been a long time since we lost the battle with Nagumo and fell into Class B. After which, Nagumo became the student council president, and took control over the entire 3rd year, and eventually the entire school. It’s safe to say that the battle of the classes has already been decided.”
+[says:kiriyama-ikuto] (p.273) “But based on my evaluation of myself, I don’t think I’m any weaker than Nagumo.”
+[says:kiriyama-ikuto] (p.273) “You can form a big group of up to 6 people regardless of class. In order to win, you’ll have to have an eye for talent and the ability to get people to join you— In that aspect, I don’t think I can lose to Nagumo.”
+[says:kiriyama-ikuto] (p.274) “I understand where you’re going with this, but is it really necessary to specifically tell me this?”
+[says:kiriyama-ikuto] (p.274) “I don’t want you to get in my way.”
+[says] (p.274) “I’m not interested in your duel with the President anyway.”
+[says:kiriyama-ikuto] (p.274) “I know that, but what I’m trying to say is, I don’t want to be distracted by any outsiders.”
+[says] (p.274) “Outsiders?”
+[says:kiriyama-ikuto] (p.274) “I’m referring to Horikita Suzune, who just joined the student council.”
+[says] (p.274) “I see. It looks like she’s in your way, However I want to at least tell you that I sent Horikita Suzune to the student council on the wish of her brother, the former student council president.”
+[says:kiriyama-ikuto] (p.275) “There’s already no point to it. He’s only got a few months left as Student Council president. If we could do something starting from now, it wouldn’t be to take his presidency, but rather to settle a personal dispute with him.”
+[says:kiriyama-ikuto] (p.275) “That won’t work. Forget all thoughts about dealing with Nagumo. It’ll only lead to unnecessary fights.”
+[says:kiriyama-ikuto] (p.276) “To put it politely, don’t do anything.”
+[says] (p.276) “I know, I’ve made myself clear on that, right?”
+[says:kiriyama-ikuto] (p.276) “Then, you swear you won’t do anything. Can I interpret it like that?”
+[says] (p.276) “How you interpret it is your choice, but I didn’t make any promises.”
+[says:kiriyama-ikuto] (p.276) “Nagumo was more or less aware of what I’d been doing with Horikita-senpai. But since I’d been following his orders, he remained calm and simply observed what happened. Horikita-senpai’s sister joining the student council was annoying enough, so if you don’t stop meddling in this—”
+[says] (p.276) “Are you in trouble, Vice President?”
+[says:kiriyama-ikuto] (p.276) “…Yeah.”
+[says:kiriyama-ikuto] (p.277) “Nagumo’s idea, the one in which anyone can graduate from Class A. You want that chance.”
+[says:kiriyama-ikuto] (p.277) “Well…”
+[says:kiriyama-ikuto] (p.277) “Anyway, you should have understood what I want to say by now.”
+[says] (p.277) “I understand. When Horikita joined the student council, she was supposed to be introduced to the other members later on, but you came early, Vice President. I know the reason for that.”
+[says:kiriyama-ikuto] (p.277) “Say whatever you want-“
+[scene] (p.278–284) Kiryūin Fuūka intervenes on the bench; Ayanokōji is left alone with her.
+[says:kiryuin-fuuka] (p.278) “Kiriyama.”
+[says:kiryuin-fuuka] (p.279) “Fufu. You’re with an interesting underclassman, so I said hello.”
+[says:kiryuin-fuuka] (p.279) “Ayanokouji Kiyotaka, right? I heard you became famous after a perfect score on a difficult math test.”
+[says:kiriyama-ikuto] (p.278) “What do you want from me?”
+[says:kiriyama-ikuto] (p.278) “What are you doing, Ayanokouji? We’re leaving.”
+[says:kiryuin-fuuka] (p.279) “You won’t get anything from being with a guy like that, you know?”
+[says:kiriyama-ikuto] (p.279) “Staying with you is meaningless.”
+[says:kiryuin-fuuka] (p.279) “Ayanokouji’s the one who should decide that, right? Kiriyama, can’t you leave any quicker?”
+[says:kiryuin-fuuka] (p.279) “Would you like to join me in a meaningful conversation?”
+[says:kiriyama-ikuto] (p.279) “You can ignore that woman.”
+[says:kiryuin-fuuka] (p.280) “Don’t praise me like that, I’m getting embarrassed!”
+[says:kiriyama-ikuto] (p.280) “She’s just a good student, but Kiryuuin doesn’t have anyone supporting her, unlike Nagumo. She doesn’t even have a single friend.”
+[says:kiriyama-ikuto] (p.281) “She’s a lot like Kouenji from your year. All her words and actions, if you take her seriously, you’ll just be wasting your time.”
+[says:kiryuin-fuuka] (p.282) “Thanks for the compliments, Kiriyama.”
+[says:kiryuin-fuuka] (p.283) “It’s enough as long as I can figure out what sort of person you are.”
+[says:kiryuin-fuuka] (p.283) “Being interested and cooperating are 2 completely different things, aren’t they? There are some interesting people in my class, and sometimes I want to have a friendly conversation with them, just like what I’m doing with you now.”
+[says:kiryuin-fuuka] (p.283) “I’m not interested in the system of aiming for Class A of this school. Although the biggest selling point of the school is that you can go to whatever university you want and find employment wherever you want, I believe I can achieve whatever I want with my own abilities. I simply chose to come to this school on a whim.”
+[says:kiryuin-fuuka] (p.283) “Would you have chosen this place if you knew before you came here that the structure of this school is centered around cooperation?”
+[says:kiryuin-fuuka] (p.284) “That’s not the case. I like this school. In fact, I haven’t had a single complaint about life here since I arrived. The point system is also very pleasant.”
+[says:kiryuin-fuuka] (p.284) “It seems that you are fine with being hated by others.”
+[says:kiryuin-fuuka] (p.284) “Other people’s evaluations don’t matter to me.”
+[says:kiryuin-fuuka] (p.284) “I wanted to ask you something, but instead you’re the one asking the questions.”
+[says:kiryuin-fuuka] (p.284) “It’s about time you told me about yourself.”
+[says:kiryuin-fuuka] (p.284) “Why me? There are many students who excel in their studies.”
+[says:kiryuin-fuuka] (p.284) “Are you planning to get first place in the uninhabited island exam?”
+[says:kiryuin-fuuka] (p.284) “There’s no student who doesn’t want to be first. Except maybe, for people like you, Kiryuuin-senpai.”
+[says:kiryuin-fuuka] (p.284) “Letting aside first place, I’m also one of the people who is aiming for a top spot. If I get a high position, I can get private points. I’m the type to spend whatever I have, so I’m always short of money.”
+[says:kiryuin-fuuka] (p.284) “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right? The upcoming special exam will determine the top student at the school.”
+[says:kiryuin-fuuka] (p.284) “Whether my interest in you disappears or not, it all depends on what you do in the uninhabited island exam.”
+[says] (p.285) “On the contrary, I hope that your interest in me disappears.”
+[says:kiryuin-fuuka] (p.285) “I see. You say some interesting things, underclassman. I’m looking forward to fighting you, Ayanokouji.”
+[note] (p.278–284) Kiryūin's academic/physical abilities are both A+; she's the only A+/A+ in the school; her weakness is adaptability (D). Her instincts point, rightly or wrongly, at him.
+[note] (p.284–285) She'll take the exam for private points, not glory — and she beat all the people who hate the spotlight before.
+[rel:kiriyama-ikuto] (p.271–285) He wants him away from the bench; she wants to see him on the island.
+[rel:kiryuin-fuuka] (p.278–285) She sizes him up as the interesting underclassman.
+[rel:nagumo-miyabi] (p.271–285) His presence looms over all of it.
+
+### y2v2 p.286–292 — Nagumo and Kiryūin (he is not present)
+[note] (p.286–292) Ayanokōji leaves before this scene; it belongs to Kiryūin and Nagumo; recorded in their ledgers.
+
+<!-- walk: y2v2 Ch.4 → p.292 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

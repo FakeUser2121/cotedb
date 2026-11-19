@@ -217,6 +217,43 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:karuizawa-kei] (p.98–108) She teases her relentlessly and learns she's dating him.
 
 <!-- walk: y2v2 Ch.2 → p.108 -->
+
+### y2v2 p.236–242 — The alliance terms with Housen
+[scene] (p.236–238) Housen calls her to the cafe; Nanase comes late; the three weigh the deal.
+[says] (p.236) “The tick tock sound of the second hand going round, and round, and round is so annoying. I dislike these kinds of watches.”
+[says] (p.236) “Worth? Is it worth a lot? I don’t have the time to care for things I hate.”
+[says] (p.236) “So, what do you want from me?”
+[says] (p.236) “You want me to help you out again, huh? And on the uninhabited island? Are you thinking ’bout doing something vulgar?”
+[says] (p.237) “Want to see my panties? You can sneak a peek at them under the table, yeah?”
+[says] (p.237) “Well, that’s true? The other guys either knew about the bounty and didn’t do anything, or wanted to do something but gave up halfway. 20 million points is a large amount, isn’t it normal to go all out?”
+[says] (p.237) “Then what’s my reward if I group with you? I’m not cheap, yeah?”
+[says] (p.238) “Equal? You have a cute face, but your words are so bitter. So this boldness is what Housen-kun likes about you?”
+[says] (p.238) “I see. So the group that Housen-kun was thinking of forming was the three of us. What about the fourth person?”
+[says] (p.238) “Cocky, aren’t you? But, it seems to me there’s a lotta formidable upperclassmen compared to the first-years though?”
+[says] (p.238) “Well, even if you’re the strongest, Housen-kun… Didn’t the 1st year agree to work together as four classes? If we’re talking about the main force in Class D, there’s no doubt the two of you will be considered as such, right?”
+[says] (p.238) “Well, teamwork probably won’t be a thing if Housen-kun joins. In that sense, excluding him from the group is a safer option. Anyway, let’s go back to the topic. How much would you give me?”
+[says] (p.238) “There are no points for you. Like I said earlier, you’re on equal footing with us. Of course, we will evenly split the extra private points our class gets from the rewards.”
+[says] (p.239) “You wanna test it now?”
+[says] (p.239) “Woah. Damn, you’re pretty good aren’t you? I love strong girls.”
+[says] (p.239) “Maybe? You wanna test again?”
+[says] (p.240) “Although I now know that Nanase-chan has considerable skill, I still don’t think she and I are on equal footing.”
+[says] (p.240) “Why? Because two out of three of us are from Class D?”
+[says] (p.240) “I don’t care about that. It seems like the private points will be evenly split, but…. it’s you guys that asked for my help, so if I don’t get extra it’s kinda…”
+[says] (p.240) “Since you’re trying to bribe me, isn’t it natural for me to increase my price?”
+[says] (p.240) “What an arrogant attitude. Be it Nanase or you, both of you women are bolder than Yagami and Takahashi.”
+[says] (p.240) “Don’t you know? Nowadays, girls are the stronger ones.”
+[says] (p.240) “Fine, I’ll listen to what you have to say. What else do you want, besides the group rewards?”
+[says] (p.241) “I must receive all the points from the bounty to expel Ayanokouji-senpai. That’s my condition for forming a group with you.”
+[says] (p.241) “So you are gonna say no? However, what will you do without me? If you don’t have a comrade apart from Nanase-chan that you can trust, won’t you have a difficult time during this special exam?”
+[says] (p.241) “Besides, if I group up with Housen-kun, I’ll be even more isolated in Class A than I am now, so isn’t it only natural for me to not say ‘yes’ if I don’t get the corresponding rewards that would compensate for that loss?”
+[says] (p.241) “It’s true that if you give me the bounty for getting him expelled, you won’t get any money, but the reputation for getting Ayanokouji-senpai expelled will be given entirely to you Housen-kun. Is that enough for you to accept the condition?”
+[says] (p.241) “Thanks. The fact that you’re not a stingy guy is just brilliant.”
+[says] (p.241) “Please take care of me during the official exam.”
+[note] (p.236–242) She sets her price at the full bounty itself; Housen agrees verbally without intent to pay; her reputation is the price she actually pays.
+[rel:housen-kazuomi] (p.236–242) The alliance partner.
+[rel:nanase-tsubasa] (p.237–242) The equal footing.
+
+<!-- walk: y2v2 Ch.4 → p.242 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -651,6 +651,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [scene] (p.179) Airi, Akito and Haruka form their group; Yousuke rates his motor skills.
 
 <!-- walk: y2v2 Ch.3 → p.179 -->
+
+### y2v2 p.243 — Akito at his club
+[scene] (p.243) He is at his club; others wait for him to return for Keyaki mall; he is not at the after-school gathering.
+
+<!-- walk: y2v2 Ch.4 → p.243 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->
