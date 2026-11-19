@@ -341,6 +341,21 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:sudou-ken] (p.95–97) Sudou takes on bringing their relationship to health.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.110–180 — Ch.3: The Shinohara situation — patched by Hirata
+[mentioned] (p.110) Horikita names her as unusable for Kushida persuasion — too upfront? no: Kushida will not open the door for an upfront, good-natured, virtuous person.
+[mentioned] (p.147) Wang POV — Shimohara-san is among the hurting ones she asks AK about.
+[mentioned] (p.155) Mii-chan's hurt list: “Shinohara-san, Matsushita-san, and Hasebe-san.”
+[mentioned] (p.174) The patched couples — “Looks like you’ve managed to patch things up.” — Shinohara's rough reply: “You think an apology is enough?”
+[says:shinohara-satsuki] (p.174) “You think an apology is enough?”
+[says:shinohara-satsuki] (p.174) “That’s… anyway, is that how you apologize?”
+[mentioned] (p.179) Horikita: Hirata took the lead and brought them all to Keyaki Mall on Sunday — she was present too — they agreed to let the bad-mouthing be water under the bridge; Shinohara was against it for a while, but Ike calmed her down.
+[rel:ike-kanji] (p.179) He calmed her down — “Ike-kun calming her down was a big help.”
+[rel:hirata-yousuke] (p.179) He led the Keyaki Mall summit on Sunday.
+[rel:matsushita-chiaki] (p.174) “Shinohara-san, Matsushita-san and the others” — the apology list.
+[rel:kushida-kikyou] (p.174) Kushida's apology is aimed at her and the rest of the couple-making-fun crowd.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -531,6 +531,19 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [mentioned] (p.24) Horikita tells AK: “There is no doubt that Hasebe-san resents me, and Yukimura-kun and Miyake-kun might too.” — his possible resentment of her is explicitly flagged on the page.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.168–193 — Ch.3: Miyake — the return escort; the cafe silence
+[scene] (p.168) He contacts AK: “Haruka will be coming to school from Monday next week.” and “Could you quietly watch over Haruka for a while?” — he pulled this off on his own.
+[scene] (p.170–171) Monday: he escorts Haruka to her seat — she looks ready to flee at any moment; she never sits still for the whole first period.
+[scene] (p.184–193) The cafe — he listens; at the moment of the exit he goes after Haruka hoping to catch up with her; jaw dropped; the group is half broken now.
+[says:miyake-akito] (p.177) “Was she always intending on coming to school to talk to me?”
+[says:miyake-akito] (p.177) “I’m not sure… this is my first time hearing of it. That’s why I’m not sure what she wants to talk about. But, depending on how it goes, I don’t think I’ll be able to be on your side.”
+[rel:hasebe-haruka] (p.168–193) The one helping her return; his riding shotgun; he follows her out of the cafe.
+[rel:ayanokouji-kiyotaka] (p.168) He quietly updates AK on Haruka; asks AK to watch over her; keeps his own thoughts private.
+[rel:ishigami-kyou] (p.171) Keisei hesitates, then steels himself, calls out to her.
+[rel:horikita-suzune] (p.177) Horikita asked whether to walk with only her — Haruka wanted AK.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

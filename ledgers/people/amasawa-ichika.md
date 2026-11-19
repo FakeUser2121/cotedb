@@ -326,6 +326,45 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [trait] (p.339–341) Playful, obsessive and possessive — tries to provoke him (showing her underwear, offering to expose the White Room students so they'll fight), but he never bites (he only reads her moves); she admits she wants to be by his side even as a "nuisance," but knows her school life may not last forever.
 [rel:ayanokouji-kiyotaka] (p.339–341) She idolizes him — wants to be close to him; he sees her as untrustworthy and won't take her information.
 [rel:yagami-takuya] (p.339) She wants to expose "Takuya" so he'll fight Ayanokōji.
+
+### y2v6 p.162–168 — Ch.3: Amasawa's room search — the White Room offer (AK's POV)
+[scene] (p.162–164) Saturday evening; Amasawa is at AK's door — first-year, uniform despite the weekend; shouts loud enough for the neighbors; he refuses to open; she names Karuizawa-senpai and Wang-senpai as today's visitors; enters without permission; crawling on the carpet — fixing the sheets, pinching a single strand of sparkling, golden hair — “Kei's.”; also comments on her own growing hair — she wants to like the same kind of girls AK likes.
+[says:amasawa-ichika] (p.162) “Hiya Senpaaii. I came to hang out!”
+[says:amasawa-ichika] (p.162) “That won’t do~! I heard you brought a girl home and were doing something naughty, Senpai, so I’ve come to investigate. If you don’t open up, we’ll have a problem!”
+[says:amasawa-ichika] (p.163) “The source of the information is me~!”
+[says:amasawa-ichika] (p.163) “That isn’t true! You brought both Karuizawa-senpai and Wang-senpai home today, didn’t you?”
+[says:amasawa-ichika] (p.163) “Ah, I will say it first, but I haven’t set up any bugs in your room anything, ’kay? And it seems like the school is thorough with its inspections.”
+[says:amasawa-ichika] (p.163) “For now, could you let me in? Excuse me~”
+[says:amasawa-ichika] (p.164) “Eh? Nothing c’mon, I’m just checking a bit.”
+[says:amasawa-ichika] (p.164) “You’re wondering how I knew about Wang-senpai, aren’t you? Did I just happen to see her leave by chance? Or did I know about it through some other method?”
+[says:amasawa-ichika] (p.164) “Your girlfriend has long hair, doesn’t she? That means you like girls with long hair, right? That’s why I’m also growing mine out little by little.”
+[says:amasawa-ichika] (p.164) “What’s this~?”
+[says:amasawa-ichika] (p.164) “It must be Kei’s. She comes to hang out often these days.”
+[says:amasawa-ichika] (p.164) “I can think of various reasons, but do I have to list them one by one?”
+[says:amasawa-ichika] (p.165) “Don’t you have any doubts, Senpai? About why we—who were sent to this school to get you expelled—haven’t laid a hand on you and just integrated ourselves into daily life, even though it’s the second semester now?”
+[says:amasawa-ichika] (p.165) “I won’t deny that, but then what do you think about the others?”
+[says:amasawa-ichika] (p.165) “Well, I guess that’s right. If you stay vigilant, you won’t do anything careless~”
+[says:amasawa-ichika] (p.165) “I agree! I was also thinking I should do that…”
+[says:amasawa-ichika] (p.165) “Staring at my panties like that, how lewd, Senpai!”
+[says:amasawa-ichika] (p.166) “I think they have started to go off the rails, confusing means with ends. They are more focused on driving you to expulsion than returning to the White Room.”
+[says:amasawa-ichika] (p.166) “For you, Senpai, yes. So I’ve been thinking these past few days. Wouldn’t it be fine to just tell you who it is, and let you send them to the next world?”
+[says:amasawa-ichika] (p.166) “What will you do? Would you like me to tell you their name?”
+[says:amasawa-ichika] (p.166) “Is it because you’re not confident you will win after hearing the name?”
+[says:amasawa-ichika] (p.166) “Of course, they would probably switch targets to me.”
+[says:amasawa-ichika] (p.167) “You are very kind, aren’t you, Senpai?”
+[says:amasawa-ichika] (p.167) “I’ve been rejected, so I’ll go home.”
+[says:amasawa-ichika] (p.167) “Now which could it be?”
+[says:amasawa-ichika] (p.167) “I’ve visited your room a few times already, but I see that you are taking out the trash even though there is a lot less of it today. I thought you were the type to only throw it away after the bag was full to the brim.”
+[says:amasawa-ichika] (p.167) “If that’s the case, should I take the trash out with me on my way home?”
+[says:amasawa-ichika] (p.167) “You follow all the rules, huh.”
+[says:amasawa-ichika] (p.168) “Senpai. I’m sure that since it’s you, you’ll be fine, but—nevertheless—if I drop out of school, please know that something even you wouldn’t expect is happening.”
+[trait] (p.162–168) A first-year White Room dropout broadcasting her knowledge — ransacks his room for “a trick” her side might have planted; offers to name the hidden White Room member; knows his schedule; masks fear with lewd-joke confidence; warns him about what happens if she drops out.
+[rel:ayanokouji-kiyotaka] (p.162–168) The White Room's rogue atom — searched his room for their trick; her warning about the unexpected event is hers.
+[rel:tsukishiro] (p.163) Her own connection — AK names it as her channel for contraband.
+[rel:karuizawa-kei] (p.164) The golden hair strand lift — “Kei's.”
+[note] (p.163–165) She neither confirms nor denies bugs; White Room's status: she claims she was "expelled from the White Room's team, and branded as unnecessary" (AK's framing); the other White Room members are unclear to her too — "I'm not really interested" (AK) is his real stance.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

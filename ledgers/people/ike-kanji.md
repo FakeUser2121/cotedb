@@ -1087,6 +1087,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:karuizawa-kei] (p.73–74) Kei is one of the making-fun trio; she wants her friendship with Shinohara fixed.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.74–179 — Ch.3: Ike — mentioned and patch-up
+[mentioned] (p.74) Kei's "I said it at that time with Ike" — friends equal survival in the exam.
+[mentioned] (p.179) “Ike-kun calming her down was a big help.” — Shinohara's rough edges calmed; the Keyaki Mall peace summit succeeds.
+[rel:shinohara-satsuki] (p.179) He is the bridge — the one who can calm Shinohara.
+[rel:karuizawa-kei] (p.179) Kei's “I said it at that time with Ike” — her ally in the decision to expel Airi.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

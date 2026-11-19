@@ -922,6 +922,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ichinose-honami] (p.98) He dismisses both her and Ryūen's classes as fumbling.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.106–183 — Ch.3: Sakayanagi — Class A's invisible hand
+[mentioned] (p.106) Chabashira: “even for Ryuuen, Sakayanagi, or Ichinose.”
+[mentioned] (p.183) “Sakayanagi and Ryuuen will be implementing strategies you haven't even thought of.” — Horikita's caution.
+[rel:horikita-suzune] (p.183) She is named as the chess-setter to study.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

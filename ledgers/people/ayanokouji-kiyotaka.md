@@ -9479,6 +9479,311 @@ walk: y1v1 → DONE
 [rel:kushida-kikyou] (p.97) “Right now she's no good.”
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.155–161 — Ch.3: Mii-chan arrives — calm him-not-me advice session (AK POV)
+[scene] (p.155–156) Saturday; Mii-chan arrives almost exactly at the scheduled time; AK had wanted to send Kei back earlier but couldn't risk Mii-chan changing her mind; reserved, earnest posture; she came because of what Kushida exposed about her and Yousuke; she asks about the class — Shinohara, Matsushita, Hasebe, him.
+[says] (p.155) “Feel free to come in.”
+[says] (p.155) “Want a drink?”
+[says:wang-mei-yu] (p.155) “No, I am all right. Thank you very much for your concern.”
+[says] (p.155) “You came here because of what Kushida exposed about you and Yousuke, right?”
+[says:wang-mei-yu] (p.155) “I would also like to know how the class is doing. At least for those who are hurting much more than I am, like Shinohara-san, Matsushita-san, and Hasebe-san. And also you, Ayanokouji-kun.”
+[says] (p.156) “There must be a lot of people trying to get in touch with you?”
+[says:wang-mei-yu] (p.156) “… Thankfully, there are many people who are worried about me. But I just can’t look. Because if I do, I will have to reply to them.”
+[says] (p.156) “Okay then. There’s no need to put too much thought into it, but if there’s anything you want to ask me, feel free.”
+[says] (p.156) “Then, uh, I’ll feel free… Ah, but before that… Just checking, but were you the one who bought and left all that stuff in front of my room?”
+[scene] (p.156–157) The mysterious care-package benefactor — jelly, tea, sandwiches, salad — left daily at her door, only her room number on a note, no sender; she asks if it was AK; he says he doesn't know; she says she'd like to thank them; she'd been delivered about 10,000 points worth over five days; she'd gone as far as changing into her uniform Monday morning but couldn't take the next step.
+[says] (p.157) “Sorry, but it wasn’t me, and I don’t know who’s doing it either.”
+[says:wang-mei-yu] (p.157) “Is that so… That person has been so very helpful… I would like to thank them.”
+[says] (p.157) “Whoever it is, it means there are students who are worried about your absence.”
+[says:wang-mei-yu] (p.157) “You’re still going to school… right?”
+[says] (p.157) “I went to school this past week as usual.”
+[says:wang-mei-yu] (p.157) “… Didn’t you find it difficult? No, of course it was difficult, but weren’t you reluctant to go to school?”
+[says] (p.158) “You’re asking me generally, right? I’ve never tried to be a leader to my classmates up to now, so anyone would be surprised by how I cornered Kushida or expelled a friend.”
+[says:wang-mei-yu] (p.158) “… Yes. You were different from the Ayanokouji-kun that I knew. It was a bit scary.”
+[says] (p.158) “I forced myself to, lying to myself that I’d be a coward if I didn’t. It’s just that nobody noticed it since I was never any good at expressing my emotions in the first place. I think the reason that I can go to school and I’m not skipping is because I feel like it would be uncool to do so.”
+[says:wang-mei-yu] (p.158) “That is something I also thought about a little. I didn’t want everyone to think that—since I was skipping school—I was hurt because what Kushida said was right on the money. Even on Monday morning, I changed into my uniform and went as far as the front door. But I couldn’t take the next step. After taking that first day off, the door gradually got heavier and further away… I mean, it’s all my fault, but…”
+[says:wang-mei-yu] (p.158) “I am very sorry for missing a week because of something like this.”
+[says] (p.159) “I wasn’t thinking anything like that. Even coming here must have taken a fair amount of courage. Besides, you haven’t completely given up on going to school, have you?”
+[says:wang-mei-yu] (p.159) “O-of course not! I really want to go to school right away. I know that what I am doing right now is no good. But… I’m embarrassed, and pathetic…”
+[says] (p.159) “I can’t say that I understand your situation, or that I can take your place. But, at the very least, our classmates are worried about you.”
+[says] (p.159) “Yes…”
+[says] (p.159) “And it’s a fact that, right now, you’re causing trouble for the class.”
+[says] (p.159) “However, fortunately, Kushida and Haruka are also skipping school right now, so your absence has taken the back seat. But who knows about next week? What would happen if those two came to school and you were the only one who stayed back? You know, don’t you?”
+[says] (p.160) “You can just come to school, a nonchalant look on your face. You don’t have to tell Yousuke anything special.”
+[says:wang-mei-yu] (p.160) “But… I, um… sit in front of Hirata-kun… we’ll be so close…”
+[says] (p.160) “Come to think of it, during the seat change, you went for the seat right in front of the unpopular middle seat before anyone else. Was that because you were thinking that Yousuke would take the seat behind it?”
+[says:wang-mei-yu] (p.160) “Ugh…!”
+[says] (p.160) “As expected. You’ve been observing… I mean, you understand Yousuke very well.”
+[says:wang-mei-yu] (p.160) “Urghh, so embarrassing…”
+[says:wang-mei-yu] (p.160) “H-has Hirata-kun… said anything about me…?”
+[says] (p.160) “Naturally, he’s worried about you. Much, much more than about Kushida and Haruka.”
+[says:wang-mei-yu] (p.160) “…That’s… because he finds me to be a nuisance after all… isn’t it?”
+[says] (p.161) “It’s not that he thinks you’re a nuisance. On the contrary, he feels apologetic since he thinks he’s the reason why you’re skipping school.”
+[says:wang-mei-yu] (p.161) “That’s… but Hirata-kun did nothing wrong…!”
+[says] (p.161) “I know that. But I’m sure you know very well that he’s just that kind of guy. From well before I did.”
+[says:wang-mei-yu] (p.161) “It’s not like I never thought about it. That maybe Hirata-kun was suffering because of me. But I decided I wouldn’t prioritize myself…”
+[says] (p.161) “I know. But when you really catch a cold, it’s better to just get some rest.”
+[says:wang-mei-yu] (p.161) “No. Just for Monday, I’ll go even if I have to crawl.”
+[says:wang-mei-yu] (p.161) “I—I will definitely go to school properly on Monday.”
+[says] (p.161) “That must be the result of her parents’ education. It’s a bit much, though.”
+[note] (p.156–161) Speaker untagged alternating lines are assigned by printed adjacency; the benefactor's identity is never revealed on these pages — not AK, not confirmed as Hirata either (he never mentioned it).
+[trait] (p.155–161) Her sincerity — she calls in and stays on the phone, she cries, she bows deeply; almost "complete" as a second-year; AK mentions her parents' education; she promises to crawl in on Monday.
+[rel:wang-mei-yu] (p.155–161) The closest fix of the three wounds; the food-delivery angel; she will crawl in on Monday.
+[rel:hirata-yousuke] (p.155–161) Her secret: she sits in front of him — she knows him very well; he is suffering — he suffers for her.
+[rel:kushida-kikyou] (p.155, 159) “Kushida and Haruka are also skipping school” — the back-bench excuse for now.
+[rel:hasebe-haruka] (p.155, 159) Haruka is named; the same back-bench excuse.
+[rel:shinohara-satsuki] (p.155) “Shinohara-san, Matsushita-san, and Hasebe-san” — the hurt list.
+[rel:matsushita-chiaki] (p.155) The hurt list.
+
+### y2v6 p.162–169 — Ch.3: Amasawa's visit — the golden hair; the White Room (AK POV)
+[scene] (p.162–164) Mii-chan goes home; AK starts cleaning his room — more visitors lately; the doorbell rings thrice; he looks through the peephole, refuses; Amasawa calls out loudly so the neighbors can hear; he opens the door; she names both Karuizawa-senpai and Wang-senpai as today's visitors — an information network; she denies bugs; she enters uninvited; she reaches for the pillow and lifts a single strand of sparkling golden hair — “Kei’s.”
+[says:amasawa-ichika] (p.162) “Hiya Senpaaii. I came to hang out!”
+[says] (p.163) “Where did you hear that I brought a girl home?”
+[says:amasawa-ichika] (p.163) “The source of the information is me~!”
+[says] (p.163) “What an utterly unreliable source.”
+[says:amasawa-ichika] (p.163) “That isn’t true! You brought both Karuizawa-senpai and Wang-senpai home today, didn’t you?”
+[says:amasawa-ichika] (p.163) “Ah, I will say it first, but I haven’t set up any bugs in your room anything, ’kay? And it seems like the school is thorough with its inspections.”
+[says] (p.163) “If it’s you, with your connection to Tsukishiro, it wouldn’t be much of a surprise if you had one or two, though.”
+[says:amasawa-ichika] (p.163) “For now, could you let me in? Excuse me~”
+[says:amasawa-ichika] (p.164) “Eh? Nothing c’mon, I’m just checking a bit.”
+[says:amasawa-ichika] (p.164) “You’re wondering how I knew about Wang-senpai, aren’t you? Did I just happen to see her leave by chance? Or did I know about it through some other method?”
+[says] (p.164) “Did you come over just to brag about your information network?”
+[says:amasawa-ichika] (p.164) “Your girlfriend has long hair, doesn’t she? That means you like girls with long hair, right? That’s why I’m also growing mine out little by little.”
+[says:amasawa-ichika] (p.164) “What’s this~?”
+[says:amasawa-ichika] (p.164) “It must be Kei’s. She comes to hang out often these days.”
+[says] (p.164) “I’m sure that’s true, but what does it mean for it to be by the pillow?”
+[says:amasawa-ichika] (p.164) “I can think of various reasons, but do I have to list them one by one?”
+[says] (p.164) “No, no. You don’t really have to, but~”
+[scene] (p.165–168) She ransacks the room — White Room connection made explicit — AK asks if the White Room also taught her to ransack rooms; she says they were sent to get him expelled and have integrated into daily life without laying a hand on him; he says she seems expelled from the White Room's team, branded unnecessary; she says others went off the rails confusing means with ends — they are more focused on driving him to expulsion than returning to the White Room; she offers to name the student — the switch target would be her; he declines; on the way out she warns him: if she drops out, something he wouldn't expect is happening; Akito's message: Haruka is coming Monday — he should quietly watch over her.
+[says] (p.165) “Did the White Room also teach you how to ransack people’s rooms?”
+[says:amasawa-ichika] (p.165) “Don’t you have any doubts, Senpai? About why we—who were sent to this school to get you expelled—haven’t laid a hand on you and just integrated ourselves into daily life, even though it’s the second semester now?”
+[says] (p.165) “At the very least, it seems like you have been expelled from the White Room’s team, and branded as unnecessary.”
+[says:amasawa-ichika] (p.165) “I won’t deny that, but then what do you think about the others?”
+[says] (p.165) “I’m not really interested.”
+[says:amasawa-ichika] (p.165) “Well, I guess that’s right. If you stay vigilant, you won’t do anything careless~”
+[says] (p.165) “I recommend you stop worrying about me, and just enjoy your school life.”
+[says:amasawa-ichika] (p.165) “I agree! I was also thinking I should do that…”
+[says:amasawa-ichika] (p.165) “Staring at my panties like that, how lewd, Senpai!”
+[says] (p.166) “Sorry, but rather than looking at your underwear, I’m more wary of what you will do to me if I let you out of my sight.”
+[says:amasawa-ichika] (p.166) “I think they have started to go off the rails, confusing means with ends. They are more focused on driving you to expulsion than returning to the White Room.”
+[says] (p.166) “What an annoying story.”
+[says:amasawa-ichika] (p.166) “For you, Senpai, yes. So I’ve been thinking these past few days. Wouldn’t it be fine to just tell you who it is, and let you send them to the next world?”
+[says] (p.166) “Don’t get me sent to the next world.”
+[says:amasawa-ichika] (p.166) “Ahahaha, so funny.”
+[says:amasawa-ichika] (p.166) “What will you do? Would you like me to tell you their name?”
+[says] (p.166) “I’m grateful for the proposition. But I’ll pass.”
+[says:amasawa-ichika] (p.166) “Is it because you’re not confident you will win after hearing the name?”
+[says] (p.166) “If their identity was revealed unexpectedly, you would be the first to be suspected. How would that end?”
+[says:amasawa-ichika] (p.166) “Of course, they would probably switch targets to me.”
+[says] (p.167) “There’s no need to unsettle your school life just so I can find out their identity.”
+[says:amasawa-ichika] (p.167) “You are very kind, aren’t you, Senpai?”
+[says:amasawa-ichika] (p.167) “I’ve been rejected, so I’ll go home.”
+[says] (p.167) “Did you come all the way to my room just to tell me that? Or was the search your main purpose?”
+[says:amasawa-ichika] (p.167) “Now which could it be?”
+[says:amasawa-ichika] (p.167) “I’ve visited your room a few times already, but I see that you are taking out the trash even though there is a lot less of it today. I thought you were the type to only throw it away after the bag was full to the brim.”
+[says] (p.167) “It’s just that there’s so much food waste from vegetables and fish that I feel reluctant to leave it until next week.”
+[says:amasawa-ichika] (p.167) “If that’s the case, should I take the trash out with me on my way home?”
+[says] (p.167) “Sorry, but taking out the trash before 8 PM is prohibited.”
+[says:amasawa-ichika] (p.167) “You follow all the rules, huh.”
+[says] (p.167) “I see part of what you came here to do. You came to visit to make your proposition. And the reason why you searched every inch of my room was because you were on the lookout to see if anyone else was listening in.”
+[says:amasawa-ichika] (p.168) “Senpai. I’m sure that since it’s you, you’ll be fine, but—nevertheless—if I drop out of school, please know that something even you wouldn’t expect is happening.”
+[note] (p.168) Akito's message (written, not speech): “Haruka will be coming to school from Monday next week.” and “Could you quietly watch over Haruka for a while?” — printed as chat text.
+[thinks] (p.169) “That’s one problem solved.”
+[rel:amasawa-ichika] (p.162–168) The White Room's rogue atom — searched his room for a planted trick; offers to name the hidden student; warns him of an unexpected event if she drops out.
+[rel:tsukishiro] (p.163) Her connection — AK's jab about her owning a bug via Tsukishiro's channel.
+[rel:miyake-akito] (p.168) He sends word that Haruka is coming Monday — AK is to quietly watch over her.
+[rel:hasebe-haruka] (p.168–169) Her return is imminent — “quietly” — she does not want to see AK yet.
+[rel:karuizawa-kei] (p.164) The golden hair strand — “Kei’s.”
+
+### y2v6 p.170–175 — Ch.3: Monday — Mii-chan, Haruka, and Kushida all return (AK POV)
+[scene] (p.170–171) The week breaks; Monday; Mii-chan arrives first — girls welcome her warmly — “G-good… Morning…”; Hirata greets her — “M-morning, Hirata-kun.” — the girls' group chat about last week resumes; Haruka appears escorted by Akito, ready to flee at any moment; she glances at AK and quickly turns to her phone; Keisei steels himself to call out to her; Akito and Keisei say a couple of words and go back to their seats.
+[says:wang-mei-yu] (p.170) “G-good… Morning…”
+[says:wang-mei-yu] (p.171) “M-morning, Hirata-kun.”
+[says:hirata-yousuke] (p.170) “Morning, Mii-chan!”
+[scene] (p.171–172) Horikita enters the class alone three minutes before homeroom, a stiff expression; Kushida arrives late during homeroom — “I’m sorry, I’m late.” — calm; the first time late; takes her seat; the class tenses; Chabashira welcomes everyone back; “The Sports Festival is just around the corner.”
+[says:chabashira-sae] (p.172) “Looks like the two of you are feeling better. I suppose it was just a long summer cold, but take care of your health from now on.”
+[says:kushida-kikyou] (p.172) “I’m sorry, I’m late.”
+[says:kushida-kikyou] (p.172) “Yes. I will take care of myself moving forward.”
+[says:chabashira-sae] (p.172) “I’m sure a lot has happened, but after a week everyone’s back together.”
+[scene] (p.173–175) Horikita is just about to pull her chair when Kushida preempts her and stands — a threat move; Kushida goes to Mii-chan first — “I heard from Horikita-san that you’ve been absent because of me.” — she apologizes for making her a target; then comes for Shinohara, Matsushita and the others; “Looks like you’ve managed to patch things up.” — the group-repair sweat work; then her declaration to the class as a whole: she will keep the facade to some extent, gun in hand, “But I promise you just one thing. Unless I fall, I won’t even try to expose any other secrets. I’m not doing it for the class, I’m doing it for myself. So that I can graduate in Class A. It’s my final line of defense, so that I don’t lose my value as myself.” — she tries speaking to Hasebe, who does not respond.
+[says:kushida-kikyou] (p.173) “I heard from Horikita-san that you’ve been absent because of me.”
+[says:wang-mei-yu] (p.173) “”Um, er, erm…”
+[says:kushida-kikyou] (p.173) “Do you hate me?”
+[says:wang-mei-yu] (p.173) “N-No, it’s not like that─”
+[says:kushida-kikyou] (p.173) “It isn’t as if you have to like me, Wang-san. I can’t change the fact that I ended up exposing your secret to everyone, and I don’t intend to get along with you either. Well, not that I needed to say that, I suppose.”
+[says:kushida-kikyou] (p.174) “I’m not going to say you should understand what I was feeling at that time, but that was my only choice back then. I apologize for making you a target of that, Wang-san.”
+[says:kushida-kikyou] (p.174) “Shinohara-san, Matsushita-san and the others, I’m sorry I bothered you too. Looks like you’ve managed to patch things up.”
+[says:shinohara-satsuki] (p.174) “You think an apology is enough?”
+[says:kushida-kikyou] (p.174) “I don’t think so, but we can’t start without one at least, can we?”
+[says:shinohara-satsuki] (p.174) “That’s… anyway, is that how you apologize?”
+[says:kushida-kikyou] (p.174) “Who knows? At the very least, this is who I really am.”
+[says:kushida-kikyou] (p.174) “For the time being, I’m planning to continue to maintain the facade I had until now to some extent. That way, depending on the circumstances, I can even gather information from the other classes. But if any of you in the class are going to stand in my way while I do that, I’m fine with not doing it too.”
+[says:kushida-kikyou] (p.175) “I’ll leave it to you all to decide whether or not I should use the arsenal I’ve built up.”
+[says:kushida-kikyou] (p.175) “And if anybody comes at me with hostility, I won’t show any mercy, no matter who they are. I’ve only exposed a small portion of your secrets during the Special Exam. I’m sure many other people have things they want to keep secret, right?”
+[says:kushida-kikyou] (p.175) “But I promise you just one thing. Unless I fall, I won’t even try to expose any other secrets. I’m not doing it for the class, I’m doing it for myself. So that I can graduate in Class A. It’s my final line of defense, so that I don’t lose my value as myself.”
+[says:kushida-kikyou] (p.175) “Hasebe-san. Are you okay with that?”
+[note] (p.173) The corpus prints “”Um, er, erm…” with a double-open-quote glyph at the line start and no closing glyph — kept as printed.
+[note] (p.173) “It isn’t as if you have to like me… I don’t intend to get along with you” — the angel facade is officially dead — “Kushida the Angel, did not exist anymore.”
+[rel:kushida-kikyou] (p.172–175) She returns on her own terms; apologizes-as-armor; declares she will work only for herself; the class's tension does not break.
+[rel:hasebe-haruka] (p.171, 175) She does not respond to Kushida's question; she keeps staring out of the window.
+[rel:wang-mei-yu] (p.170–174) Back at her seat; visibly ambushed; polite hostess facade — “N-No, it’s not like that─”
+[rel:shinohara-satsuki] (p.174) Shoots Kushida's apology down — “You think an apology is enough?”
+[rel:miyake-akito] (p.171) He escorts Haruka to her seat; his worry for his side-group; Haruka's return is his doing.
+[rel:ishigami-kyou] (p.171) Keisei steels himself and calls out to Haruka; a small step toward repair.
+
+### y2v6 p.176–184 — Ch.3: The week of distance — Haruka's intercept; the Horikita pre-cafe walk (AK POV)
+[scene] (p.176–177) A week of silence; the Ayanokouji group hasn't met once — not even today with Haruka back at school; ten-minute breaks alone or with Kei sometimes; the library closed to him recently — Hiyori hasn't been coming either; he sets out for the dorm; Haruka approaches him in the hallway — “Kiyopon, do you have some time?” — forcefulness in her voice.
+[says:hasebe-haruka] (p.176) “Kiyopon, do you have some time?”
+[says] (p.176) “If it’s necessary, I’ll make time.”
+[says:hasebe-haruka] (p.177) “Then make some. That’s fine, right?”
+[says:hasebe-haruka] (p.177) “I already talked to Horikita-san. I’ll go ahead and wait at the cafe in Keyaki Mall.”
+[scene] (p.177–181) Akito follows her — “I’m not sure… this is my first time hearing of it… but, depending on how it goes, I don’t think I’ll be able to be on your side.”; both leave; Horikita waited for the three to leave before approaching him — “I checked if she’d be fine with just me, but she said you were absolutely essential and didn’t listen to me at all.”
+[says:miyake-akito] (p.177) “Was she always intending on coming to school to talk to me?”
+[says:miyake-akito] (p.177) “I’m not sure… this is my first time hearing of it. That’s why I’m not sure what she wants to talk about. But, depending on how it goes, I don’t think I’ll be able to be on your side.”
+[says] (p.177) “That’s fine.”
+[says:horikita-suzune] (p.177) “I checked if she’d be fine with just me, but she said you were absolutely essential and didn’t listen to me at all.”
+[scene] (p.178–184) Walking to the cafe, they talk: she is impressed he brought Kushida back; the gatekeeper story of “I treated her like a kid unbecoming of her age. To the point where I don’t want to talk about it.”; the Shinohara–Ike patch-up via Keyaki Mall on Sunday — Yousuke led, the bad-mouthing water under the bridge, Ike calmed Shinohara down; Miyake and Yukimura's wellbeing on her watch-list all week; she says Miyake had asked her to let Haruka be; Akito succeeded at convincing Haruka after all; he asks her to accept Nagumo's proposal — “Just tell him that I accept his proposal.”; Nagumo's one week is nearly up; then the fateful pre-cafe question — “What remains is the problem with Hasebe-san. I honestly can’t tell what we’re going to talk about – I can’t read her.”; Horikita asks about her Sports Festival strategy: she is aiming for first place — Sudou and Onodera will “make a bundle for us,” Kushida and her own steadiness, and “I’ve decided to take one single risk. I’m in the middle of preparations for that now.” — she wants him to come tomorrow after school, listen, and objectively assess the risk's value — no coddling like last time.
+[says] (p.178) “You seemed to have succeeded at bringing Kushida back to school. I’m honestly impressed.”
+[says:horikita-suzune] (p.178) “She has technically returned for the time being. However, there’s still many things that are uncertain. Things won’t be the same as before.”
+[says] (p.178) “But still, we couldn’t wish for a better development than that at this point.”
+[says] (p.178) “How did you convince her? I can’t imagine her becoming obedient from just a good plan.”
+[says:horikita-suzune] (p.178) “I treated her like a kid unbecoming of her age. To the point where I don’t want to talk about it.”
+[says] (p.179) “However, given who you were dealing with, that may have been the right choice.”
+[says:horikita-suzune] (p.179) “Anyway, it took a week but we’ve managed to gather everyone in the class.”
+[says] (p.179) “Speaking of which, it seems the trouble with the girls has also calmed down.”
+[says:horikita-suzune] (p.179) “For the matter with Shinohara-san and the others, Hirata-kun took the lead and brought them all to Keyaki Mall on Sunday.”
+[says] (p.179) “You were present as well?”
+[says:horikita-suzune] (p.179) “Yes. On top of that, they agreed to let the bad-mouthing be water under the bridge. Shinohara-san was against it for a while, but Ike-kun calming her down was a big help.”
+[says:horikita-suzune] (p.179) “A lot of students sure are growing up while we’re not looking.”
+[says] (p.179) “You don’t seem happy about it.”
+[says:horikita-suzune] (p.179) “I think I’m happy. It’s just that because of that, I feel pathetic in comparison. When I think about whether I’ve managed to grow myself… I feel anxious.”
+[says] (p.180) “Someday, a third party would be able to give you that answer.”
+[says:horikita-suzune] (p.180) “… Right.”
+[says:horikita-suzune] (p.180) “We couldn’t get a hold of Wan-san, but it looks like you helped her out. Thanks.”
+[says] (p.180) “I just gave her a bit of advice. Even if I hadn’t done anything, someone would have helped her out.”
+[says:horikita-suzune] (p.180) “Even if it was just one day, you’re to thank for her faster return. This time, too, I’ve been saved by many people. I feel like the fact that I can’t do anything on my own was once again thrown at my face.”
+[says:horikita-suzune] (p.180) “Oh yeah. I want you to send a message to Student Council President Nagumo.”
+[says] (p.180) “Me? You’re constantly using me as the middleman. Well, it’s fine. What should I tell him?”
+[says:horikita-suzune] (p.180) “Just tell him that I accept his proposal.”
+[says] (p.180) “… Accept his proposal?”
+[says:horikita-suzune] (p.180) “He’ll understand if you relay just that.”
+[says] (p.180) “Alright. I’ll be going to the student council room after this, so I’ll tell him what you just told me.”
+[says:horikita-suzune] (p.181) “What remains is the problem with Hasebe-san. I honestly can’t tell what we’re going to talk about – I can’t read her.”
+[says] (p.181) “From how she was today, I wouldn’t be surprised no matter what she throws at us.”
+[says:horikita-suzune] (p.181) “It does seem better to not be naive about this.”
+[says:horikita-suzune] (p.181) “While I was waiting to meet with Kushida-san, I also checked on Miyake-kun and Yukimura-kun many times.”
+[says:horikita-suzune] (p.181) “The one who bore the most difficult feelings during the special exam was Hasebe-san. It’s necessary to follow up with her.”
+[says] (p.181) “In the end, Akito succeeded at convincing her and managed to bring her with him to school – and that’s the end of that chapter.”
+[says:horikita-suzune] (p.181) “It would be good if that was it… but that’s not the case.”
+[says] (p.182) “Haruka is important, but it’s also necessary to change your mindset and look towards the Sports Festival.”
+[says:horikita-suzune] (p.182) “You’re right. Of course, I’ve been thinking well about how to fight in the Sports Festival. I think I’ve figured it out to some extent.”
+[says] (p.182) “Then I’ll ask. What’s your goal for the Sports Festival?”
+[says:horikita-suzune] (p.182) “It goes without saying─we’re aiming for first place. No, we will definitely take first place. We have to.”
+[says] (p.182) “It’s not a bad thing to set your sights high; we don’t lose to anyone else in terms of manpower. Have you thought of a strategy? There’s the battle between whole school years, but fundamentally, the fight for our cumulative points within the same year will be the focus. Sakayanagi and Ryuuen will be implementing strategies you haven’t even thought of.”
+[says:horikita-suzune] (p.183) “If one doesn’t complete five events, then all of their points will be forfeit. Considering Ryuuen, it wouldn’t be weird if he was aiming to feign an accident during the competition, injure someone and have them removed due to that.”
+[says] (p.183) “Considering all possibilities, what hand do you intend to play?”
+[says:horikita-suzune] (p.183) “To be specific, it’ll be a frontal attack. Sudou-kun and Onodera-san will make a bundle for us, and students like Kushida and me will also steadily earn points. We’ll just do what’s necessary to win.”
+[says] (p.183) “There’d be no trouble if we could win with that, but our class having only 38 people is also a handicap.”
+[says:horikita-suzune] (p.183) “That’s why I’ve decided to take one single risk. I’m in the middle of preparations for that now.”
+[says] (p.183) “Risk?”
+[says:horikita-suzune] (p.183) “For a more detailed conversation, perhaps you’ll come with me after school tomorrow?”
+[says] (p.183) “Do you mean you want me to help with something?”
+[says:horikita-suzune] (p.183) “No. It’ll be enough if you come along and listen to the conversation. And after that, I just want you to objectively assess whether or not there’s value in taking that risk and tell me.”
+[says] (p.184) “Are you really fine with just that?”
+[says:horikita-suzune] (p.184) “I can’t have you coddle me again and again, like last time.”
+[says] (p.184) “Got it. I’ll hear you out tomorrow after school.”
+[rel:horikita-suzune] (p.178–184) She is more transparent about feelings lately; elated she brought Kushida back despite the emotional cost; he promises to listen tomorrow and judge her risk.
+[rel:hasebe-haruka] (p.176–183) Her hallway intercept — “Kiyopon, do you have some time?” — the cafe in Keyaki Mall, waiting with Akito, Keisei and Horikita.
+[rel:hirata-yousuke] (p.179) The Shinohara–Ike peace summit via Keyaki Mall — he took the lead on Sunday.
+[rel:ike-kanji] (p.179) He calmed Shinohara down — “Ike-kun calming her down was a big help.”
+[rel:sakayanagi-arisu] (p.182) They will implement strategies no one has thought of — Horikita's counsel.
+[rel:ryuuen-kakeru] (p.182–183) The feigned-accident strategy possibility — injuring opponents to forfeit them.
+[rel:nagumo-miyabi] (p.180) AK relays Horikita's acceptance — one week, one message.
+[rel:ishigami-kyou] (p.181) Yukimura and Miyake were on Horikita's watch-list all week; Keisei called out to Haruka Monday.
+[rel:miyake-akito] (p.177) His worry for Haruka; his honesty about not being on AK's side.
+
+### y2v6 p.184–193 — Ch.3: The cafe in Keyaki Mall — Haruka's ultimatum (AK POV)
+[scene] (p.184) The three members of the Ayanokouji group were waiting at their seats with three drinks placed out in vain; they randomly picked drinks; Haruka urged them to sit without warmth — dispassionate opening; her gaze directed at neither him nor Horikita; then: “In a way, the problem has already been solved.”
+[says:hasebe-haruka] (p.184) “Sit down.”
+[says:hasebe-haruka] (p.184) “While I was away, you seemed to have wanted to talk to me several times, so I thought I’d ask about that.”
+[says:hasebe-haruka] (p.184) “What did you want to talk about?”
+[says:horikita-suzune] (p.184) “In a way, the problem has already been solved. You’d been absent from school for several days.”
+[says:hasebe-haruka] (p.184) “So you were worried. Our class evaluation may drop, after all.”
+[says:horikita-suzune] (p.184) “Of course that’s not everything. You must have had a good reason for being absent for a week, right?”
+[says:hasebe-haruka] (p.184) “I wasn’t feeling well. I told that to the school, so there shouldn’t be any problems? Miyacchi told me that we may receive a penalty if I’m out more than a week, so I came to school today.”
+[says:horikita-suzune] (p.185) “Certainly. However, the reason you skipped school wasn’t because you weren’t feeling good.”
+[says:hasebe-haruka] (p.185) “How can you say that’s the case? I could simply have been sick, right?”
+[says:hasebe-haruka] (p.185) “You seem to have your doubts, but I really wasn’t feeling well. It wasn’t an injury or sickness though. Waking up was emotionally difficult, I couldn’t sleep, and simply took off from school.”
+[says:horikita-suzune] (p.185) “Could you stop beating around the bush and say what you want to say?”
+[says:hasebe-haruka] (p.185) “Are you satisfied that you gained class points during the special exam?”
+[says:horikita-suzune] (p.185) “I’m not satisfied. There’s still a gap of more than 500 points between us and Class A. Moreover, striving for Class A without losing anyone if possible was my ideal… my vision. However, talking about those things is meaningless at this point.”
+[says:hasebe-haruka] (p.186) “My dear friend was sacrificed due to your selfish judgment. Are you aware of that, Horikita-san?”
+[says:horikita-suzune] (p.186) “Indeed.”
+[says:hasebe-haruka] (p.186) “What a fine leader. You don’t question the methods you take in order to make your class win.”
+[says:horikita-suzune] (p.186) “I still have ways to go.”
+[says:hasebe-haruka] (p.186) “Do you understand that I was being sarcastic?”
+[says:horikita-suzune] (p.186) “Of course I understand.”
+[says:hasebe-haruka] (p.186) “Where did your original promise to cut off the traitor – the student who kept pressing “agree” – go?”
+[says:horikita-suzune] (p.186) “Regarding that, I think my foresight was inadequate. However, so long as we can’t make it as if the special exam from the other day never happened, we have no choice but to keep living on.”
+[says:hasebe-haruka] (p.186) “There are mistakes that can’t be forgiven.”
+[says:horikita-suzune] (p.186) “I won’t deny that. It’s as you say.”
+[says:hasebe-haruka] (p.186) “Even if having Kyou-cha– Kushida-san remain in the class was the right choice?”
+[says:horikita-suzune] (p.187) “It’s because I deemed it to be the right choice that I had the resolve to keep her in the class, taking on the animosity from everyone else. This is getting redundant.”
+[says:hasebe-haruka] (p.187) “Ah, I see.”
+[says:horikita-suzune] (p.187) “I don’t intend to give a poor apology. No matter how much I apologize, it’s a fact that I changed my opinion and judged that Kushida-san should remain in the class. It’s natural for you to resent me, and one day I may receive painful retaliation. However, I decided that the person who can become fighting strength for our class was Kushida. I have gradually become certain of that.”
+[says:hasebe-haruka] (p.189) “Even if Kushida-san is an outstanding student, there are others who have no abilities. There was no need for it to be her.”
+[says:hasebe-haruka] (p.189) “I won’t accept it. No matter how many people approve of you from here on out, I will never accept it.”
+[says:horikita-suzune] (p.189) “I have no choice but to try hard so that you’ll approve of me then.”
+[says:hasebe-haruka] (p.189) “I just said that I don’t approve of you.”
+[says:horikita-suzune] (p.189) “The one responsibility for expelling Sakura-san lies with me. Yes, I won’t deny that. I can’t deny that. On the other hand, what should I do? Are you going to tell me from here on to quit school?”
+[says:hasebe-haruka] (p.189) “Give Airi back.”
+[says:horikita-suzune] (p.189) “… I can’t fulfill a request that can’t be done.”
+[says:hasebe-haruka] (p.189) “That’s all I wish for. I don’t care what happens to the class.”
+[says:hasebe-haruka] (p.189) “The decision from that time was wrong.”
+[says:horikita-suzune] (p.190) “If you’re dissatisfied, then perhaps you should have fought.”
+[says:horikita-suzune] (p.190) “But that’s a pointless conversation. Even if you had fought, you had no means to resist us, after all.”
+[says:hasebe-haruka] (p.190) “I suppose so. Certainly, there’s not much that the likes of me could have done. Kiyopon used Airi’s feelings and cornered her without mercy. That kind of behavior is something that a normal person absolutely couldn’t have done.”
+[says:hasebe-haruka] (p.190) “Is Kushida-san really going to work for the sake of the class? She’s bound to betray you.”
+[says:horikita-suzune] (p.190) “If Kushida-san drags us down moving forward, I’ll regret it.”
+[says:horikita-suzune] (p.190) “However, even if I were to go to the past with my memories as I am now, what I would most likely do wouldn’t change much. I would repeat my decision to save Kushida-san and choose Airi to be expelled. If I were to make just one change, I wouldn’t have carelessly made a promise.”
+[says:hasebe-haruka] (p.190) “Why? Why Airi?”
+[says] (p.190) “The issue is how we think about things. The events this time around have become a strong stimulus for the students whose names are lowest on the OAA. If they continue to fly low like this, then they may become the next ones to be expelled. Even just them possessing a stronger sense of danger can be thought of as a plus.”
+[says:hasebe-haruka] (p.191) “It’s as if we’re like Ryuuen’s class. Throwing away people without any abilities?”
+[says:horikita-suzune] (p.191) “I wonder about that. I’m not sure what principles Ryueen goes by, but it’s a fact that it’s close to his reigning with fear in some sense. Our class policy up until now has been vague and too weak.”
+[says:hasebe-haruka] (p.191) “It kind of reminds me of when we started school. It’s the same as when we all acted on our own and had not a shred of cohesiveness.”
+[says:horikita-suzune] (p.191) “The situation from that time was different. Preventing avoidable expulsions before they happen is important, but keeping those who we have to expel to a minimum was the issue at hand this time around.”
+[says] (p.191) “It’s because Horikita felt the possibility of the benefits gained upon Kushida becoming an ally greatly outweighing Airi’s that she reached that conclusion. It’s also because I saw that future that I respected her opinion and threw her a lifeline.”
+[says] (p.191) “Even though Airi disappeared, the class returned to their everyday lives before I knew it.”
+[says:hasebe-haruka] (p.191) “I understand your discontent, but did you think the same things when Yamauchi-kun was expelled?”
+[says:hasebe-haruka] (p.191) “He got what he deserved. It’s different this time around.”
+[says] (p.192) “It’s the same. You’re just mad that one of your friends was sacrificed.”
+[says:hasebe-haruka] (p.192) “What’s so wrong about that?”
+[says:hasebe-haruka] (p.192) “I can’t accept that kind of reality. I can’t come to terms with it.”
+[says:hasebe-haruka] (p.192) “Kushida-san indeed may have been a threat. She may now have a change of heart and work for the class from here on out. However, do you seriously think I’ll look at that and cooperate?”
+[says:horikita-suzune] (p.192) “You have a point. When you were out for a whole week, it felt like you would become a long-term problem more so than anyone else.”
+[says:horikita-suzune] (p.192) “However, you came to school. If you wanted to go out of your way to talk to me, you could’ve done so while continuing to stay absent. Isn’t that right?”
+[says:hasebe-haruka] (p.192) “I still haven’t come up with an answer so I simply tried coming here.”
+[says:horikita-suzune] (p.192) “An answer?”
+[says:hasebe-haruka] (p.192) “I came to school to look for the answer I couldn’t find while holed up inside my room.”
+[says:hasebe-haruka] (p.192) “What should I do to achieve revenge against Horikita-san and Kiyopon? I’m searching for that answer.”
+[says:horikita-suzune] (p.193) “… You’re serious, aren’t you?”
+[says:hasebe-haruka] (p.193) “I wanted to tell you today: I will make you regret expelling Airi.”
+[says:ishigami-kyou] (p.193) “I don’t think either of you, Horikita or Haruka, are wrong. It might seem unfair, but those are my honest thoughts. At the end of the day, so long as I survive it’s alright, that’s at the core of it.”
+[says:horikita-suzune] (p.193) “Everyone’s like that. It isn’t strange to want to save yourself.”
+[says:ishigami-kyou] (p.193) “That’s why I can’t understand Haruka’s feelings just now. But despite that, I don’t think I have the right to tell her to stop. Even if it ends up causing trouble for the class.”
+[says:ishigami-kyou] (p.193) “The group is half broken now. But still, I will be useful to the class as myself. While I might not do well in the Sports Festival, in turn I will study more and more to contribute to the class. If I don’t… I wouldn’t be able to rule out the possibility that I’ll get thrown out.”
+[scene] (p.193) Haruka grabs a few strands of her own hair and pulls them out with all her might at “Give Airi back”; “The decision from that time was wrong.”; then leaves without drinking; Akito goes after her; jaw dropped; Keisei strikes the table with his fist before getting up. The coldest line yet: “I wanted to tell you today: I will make you regret expelling Airi.”
+[rel:hasebe-haruka] (p.184–193) Haruka's revenge declaration — “I will make you regret expelling Airi.” — she grabs her own hair, leaves her drink, and walks out at 193.
+[rel:horikita-suzune] (p.184–193) She stands her ground — the cafe confrontation; she won't cry, won't kneel; she acknowledges her responsibility but will not quit.
+[rel:miyake-akito] (p.184–193) Akito listens in silence; he goes after Haruka when she leaves.
+[rel:ishigami-kyou] (p.193) Keisei's honest confession — “I will study more and more to contribute to the class.”
+[rel:sakayanagi-arisu] (p.185) “more than 500 points between us and Class A” — the gap she named.
+[rel:ryuuen-kakeru] (p.191) She compares the class's policy to his “reigning with fear.”
+[rel:yamauchi-haruki] (p.191) “did you think the same things when Yamauchi-kun was expelled?” — the Lucius precedent in the air.
+[note] (p.190) Haruka's “Kyou-cha– ” — the corpus prints her start to call Kushida “Kyou-cha” and re-prefixes “Kushida-san” mid-utterance — kept as printed.
+[note] (p.193) Haruka's withdrawal order — she leaves her drink on the table — the exit is the message.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

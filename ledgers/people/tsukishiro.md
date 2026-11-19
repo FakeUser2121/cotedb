@@ -386,6 +386,10 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.11) Passing mentions on pages: p.163, p.321.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.163–163 — Ch.3: Named — the bug buyer connection
+[mentioned] (p.163) AK jabs Amasawa: “If it’s you, with your connection to Tsukishiro, it wouldn’t be much of a surprise if you had one or two, though.” — bugs being obtainable via Tsukishiro's channel.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

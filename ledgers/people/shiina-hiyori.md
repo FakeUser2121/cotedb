@@ -578,6 +578,10 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.11) Passing mentions on pages: none.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.176–176 — Ch.3: Hiyori — the library absence
+[mentioned] (p.176) AK narrates: “Hiyori hasn’t been coming to the library recently, so it’s a bit of a shame that we haven’t been able to discuss any books.” — Shiina Hiyori is the study-spot companion who is no longer there.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

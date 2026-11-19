@@ -1199,6 +1199,46 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:sakura-airi] (p.60–63) Her five thousand private points spent post-exam pre-processing — a gray area the school could not classify; AK absorbs the cost.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.101–111 — Ch.3: The corridor talks; the long stare (Horikita's POV)
+[scene] (p.101) Five days of three absences — “That concludes homeroom.” — Chabashira-sensei lets Horikita walk with her; she grants the three a reprieve on their prior behavior; warns the 100 class points will disappear if the absences continue; accepts Horikita's “wavering”; her counsel: “Don’t be afraid of failure.”; she places her hand on Horikita's shoulder; “You’ve changed, haven’t you, Chabashira-sensei?” — she explains she has “started behaving like a teacher”; “Think nothing of it. As a teacher, doing at least this much should be the natural thing to do.”
+[says:chabashira-sae] (p.101) “That concludes homeroom.”
+[says:chabashira-sae] (p.102) “It’s the fifth day that Kushida-san, Wang-san, and Hasebe-san have been absent from school.”
+[says:chabashira-sae] (p.102) “Ah, about that. Two of them are ostensibly still sick; they’ve continued to call in as such. However, they still haven’t been examined at the clinic as they should have. As for Hasebe, she’s consistently said that she would be absent, but she hasn’t told me any details.”
+[says:chabashira-sae] (p.102) “Don’t worry about that. Especially for diligent students like Wang and Kushida, there are rules in place that allow for somewhat prolonged absences. Even with Hasebe, she’s not a problem student, so right now it’s not such a big deal. If they didn’t have good grades or had a track record of bad behavior, it would be a different story.”
+[says:chabashira-sae] (p.102) “Exactly. In addition, there might be healthy students who nonchalantly ditch school, but there also are students who will be down in the dumps for a week due to heartbreak. Distinguishing between the two is difficult. So, we have to make the decision by looking at their grades and how they have behaved in school.”
+[says:chabashira-sae] (p.103) “Also, the school isn’t fiendish. They aren’t plotting to force students to come to school and traumatize them mentally, you know. Anyhow, the three of those haven’t even been late to school before, and they had been taking their classes seriously. They’ve easily earned a reprieve.”
+[says:chabashira-sae] (p.103) “That said, the time limit is close. If they continue being absent next week, the 100 class points you guys obtained after such desperation will, without mercy, disappear.”
+[says:chabashira-sae] (p.103) “Wait a minute, Horikita. You look like you still have something you want to say.”
+[says:chabashira-sae] (p.104) “Are you regretting your choice?”
+[says:chabashira-sae] (p.104) “I want to give you an answer, but there’s nothing I can say.”
+[says:chabashira-sae] (p.104) “It’s not that. It’s just that, at this stage, you can’t prove whether or not you were right. Sure, there were students who thought your decision was a bit despotic and self-serving. Those opinions are weighing on you, and you are beginning to feel that you may have been mistaken.”
+[says:chabashira-sae] (p.104) “However, is it really that important? Nobody is perfect from the beginning, no matter who they may be. We make mistakes on simple arithmetic, learn from it, and move on. I myself have lived a life full of mistakes.”
+[says:chabashira-sae] (p.104) “Even when I took the same special exam, that was the case. I couldn’t even figure out whether I was right or wrong before time ran out. You, on the other hand, managed to produce a single answer. That’s something you did well! Nobody can score a 100 without gaining experience first. During that … special exam, you were recognized as a leader and given due authority. In addition, you were prepared to sacrifice someone to protect Kushida. From here on out is where you make everyone recognize that you made the right choice.”
+[says:chabashira-sae] (p.105) “It’s fine for you to not aim for a 100 now. After all, your only two choices were to either logically cut off the lowest ranked person on the OAA, or to prioritize your promise and receive a handicap.”
+[says:chabashira-sae] (p.105) “There will be times when you lose sight of your surroundings. There will also be times when you will doubt if your decision was correct once you cool down.”
+[says:chabashira-sae] (p.105) “Until now, you’ve only had to make decisions that, in a positive sense, could be considered appropriate, but, in a negative sense, could also be considered just simple, right? Of course, that’s normal. After all, the uniqueness of this school is what made you seek out a new choice.”
+[says:chabashira-sae] (p.106) “You fought within the rules the school set, didn’t you?”
+[says:chabashira-sae] (p.106) “Were you set on protecting Kushida from the start, and the promise was just a lie in order to get assent?”
+[says:chabashira-sae] (p.106) “If that’s the case, then there’s no problem. Sure, keeping your promise is important. However, sometimes, even adults have to go back on their word. I understand that your thinking changed, and you took that action because you realized it would be better if Kushida remained in the class. People are free to make fun of you, disrespect you, or ignore you now. Just as there are people who will follow you, there are also those who will not. Uniting a class of nearly 40 people is no easy task, even for Ryuuen, Sakayanagi, or Ichinose. Even while some students might ostensibly act as yes-men, there’s no telling what they are really thinking on the inside.”
+[says:chabashira-sae] (p.106) “Don’t be afraid of failure. I’m not the kind of adult who won’t accept and won’t forgive a child’s mistakes.”
+[says:chabashira-sae] (p.106) “… I suppose so. But that means that you need to protect that choice you made until the very end.”
+[says:chabashira-sae] (p.108) “Is it weird that, after being cold for too long, I’ve now started behaving like a teacher?”
+[says:chabashira-sae] (p.109) “Hm, I’m not so sure. During the incident with Kushida, he took drastic action. If he didn’t trust you, he probably would have just left you alone.”
+[says:chabashira-sae] (p.109) “You seem to trust and value him quite a bit more now.”
+[says:chabashira-sae] (p.110) “If it was Hirata, then… no, I’m not sure when it comes to Kushida. If you took an upfront, good-natured, virtuous person to her, I can’t imagine her simply opening the door for him.”
+[says:chabashira-sae] (p.110) “Unfortunately, I can’t think of the right person for the job, but it might not be a bad idea to try looking for someone outside of your classmates.”
+[says:chabashira-sae] (p.110) “It’s definitely necessary to balance the pros and cons. Still, it doesn’t mean you absolutely can’t tell anyone about it. For instance, some of us teachers already know about Kushida’s past, and, out of those who don’t, there are probably teachers who would stay quiet if you consulted them. I don’t think it’s that much of a secret.”
+[says:chabashira-sae] (p.111) “It’s about time I get going. It may be a bother, but let me say one last thing. What’s most important is what you want to do with Kushida. Think hard about that.”
+[says:chabashira-sae] (p.111) “Think nothing of it. As a teacher, doing at least this much should be the natural thing to do.”
+[trait] (p.101–111, 172–175) A teacher reborn — strict, heartfelt; threatens the loss of the 100 class points; gently advises; protects the corridor; “I don’t think it’s that much of a secret.”
+[rel:horikita-suzune] (p.101–111) Her new-old student — the counsel that rebuilds her resolve.
+[rel:kushida-kikyou] (p.109–111) The one she won't convince herself; the idea of teachers as outside-the-class persuaders.
+[rel:ayanokouji-kiyotaka] (p.108) She thinks he's observing Horikita and values her quite a bit; she'd never said that before.
+[rel:hasebe-haruka] (p.102, 110) Hasebe's absence — never told any details; a special reprieve due to her good grades.
+[rel:wang-mei-yu] (p.102, 110) Wang's absence — "diligent students like Wang and Kushida" — a reprieve.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

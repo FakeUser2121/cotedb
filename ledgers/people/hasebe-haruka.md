@@ -528,6 +528,59 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:kushida-kikyou] (p.87) Both absent; two of the three wounds.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.146–193 — Ch.3: Haruka — return; the cafe ultimatum
+[scene] (p.168) Akito's message reaches AK — “Haruka will be coming to school from Monday next week.” and “Could you quietly watch over Haruka for a while?” — AK receives his own copy marked as emphasis; he agrees to quietly watch.
+[scene] (p.170–171) She appears at Monday homeroom escorted by Akito, ready to flee at any moment; she glances at AK and quickly turns to her phone — “Speak of the devil thingy” — her expression unreadable; she does not move once from her seat for the whole period.
+[scene] (p.175) Kushida tries again — “Hasebe-san. Are you okay with that?” — Haruka doesn't respond and keeps staring out the window.
+[scene] (p.176–193) Her hallway intercept — “Kiyopon, do you have some time?” — the cafe in Keyaki Mall; the coldest performance yet: “Give Airi back.” — “I wanted to tell you today: I will make you regret expelling Airi.” — grabs a few strands of her own hair and pulls them out; leaves her drink; Akito goes after her; jaw dropped. The group is half broken now.
+[says:hasebe-haruka] (p.176) “Kiyopon, do you have some time?”
+[says:hasebe-haruka] (p.177) “Then make some. That’s fine, right?”
+[says:hasebe-haruka] (p.177) “I already talked to Horikita-san. I’ll go ahead and wait at the cafe in Keyaki Mall.”
+[says:hasebe-haruka] (p.184) “Sit down.”
+[says:hasebe-haruka] (p.184) “While I was away, you seemed to have wanted to talk to me several times, so I thought I’d ask about that.”
+[says:hasebe-haruka] (p.184) “What did you want to talk about?”
+[says:hasebe-haruka] (p.184) “So you were worried. Our class evaluation may drop, after all.”
+[says:hasebe-haruka] (p.184) “I wasn’t feeling well. I told that to the school, so there shouldn’t be any problems? Miyacchi told me that we may receive a penalty if I’m out more than a week, so I came to school today.”
+[says:hasebe-haruka] (p.185) “How can you say that’s the case? I could simply have been sick, right?”
+[says:hasebe-haruka] (p.185) “You seem to have your doubts, but I really wasn’t feeling well. It wasn’t an injury or sickness though. Waking up was emotionally difficult, I couldn’t sleep, and simply took off from school.”
+[says:hasebe-haruka] (p.185) “Are you satisfied that you gained class points during the special exam?”
+[says:hasebe-haruka] (p.186) “My dear friend was sacrificed due to your selfish judgment. Are you aware of that, Horikita-san?”
+[says:hasebe-haruka] (p.186) “What a fine leader. You don’t question the methods you take in order to make your class win.”
+[says:hasebe-haruka] (p.186) “Do you understand that I was being sarcastic?”
+[says:hasebe-haruka] (p.186) “Where did your original promise to cut off the traitor – the student who kept pressing “agree” – go?”
+[says:hasebe-haruka] (p.186) “There are mistakes that can’t be forgiven.”
+[says:hasebe-haruka] (p.186) “Even if having Kyou-cha– Kushida-san remain in the class was the right choice?”
+[says:hasebe-haruka] (p.187) “Ah, I see.”
+[says:hasebe-haruka] (p.189) “Even if Kushida-san is an outstanding student, there are others who have no abilities. There was no need for it to be her.”
+[says:hasebe-haruka] (p.189) “I won’t accept it. No matter how many people approve of you from here on out, I will never accept it.”
+[says:hasebe-haruka] (p.189) “I just said that I don’t approve of you.”
+[says:hasebe-haruka] (p.189) “Give Airi back.”
+[says:hasebe-haruka] (p.189) “That’s all I wish for. I don’t care what happens to the class.”
+[says:hasebe-haruka] (p.189) “The decision from that time was wrong.”
+[says:hasebe-haruka] (p.190) “I suppose so. Certainly, there’s not much that the likes of me could have done. Kiyopon used Airi’s feelings and cornered her without mercy. That kind of behavior is something that a normal person absolutely couldn’t have done.”
+[says:hasebe-haruka] (p.190) “Is Kushida-san really going to work for the sake of the class? She’s bound to betray you.”
+[says:hasebe-haruka] (p.190) “Why? Why Airi?”
+[says:hasebe-haruka] (p.191) “It’s as if we’re like Ryuuen’s class. Throwing away people without any abilities?”
+[says:hasebe-haruka] (p.191) “It kind of reminds me of when we started school. It’s the same as when we all acted on our own and had not a shred of cohesiveness.”
+[says:hasebe-haruka] (p.191) “I understand your discontent, but did you think the same things when Yamauchi-kun was expelled?”
+[says:hasebe-haruka] (p.191) “He got what he deserved. It’s different this time around.”
+[says:hasebe-haruka] (p.192) “What’s so wrong about that?”
+[says:hasebe-haruka] (p.192) “I can’t accept that kind of reality. I can’t come to terms with it.”
+[says:hasebe-haruka] (p.192) “Kushida-san indeed may have been a threat. She may now have a change of heart and work for the class from here on out. However, do you seriously think I’ll look at that and cooperate?”
+[says:hasebe-haruka] (p.192) “I still haven’t come up with an answer so I simply tried coming here.”
+[says:hasebe-haruka] (p.192) “I came to school to look for the answer I couldn’t find while holed up inside my room.”
+[says:hasebe-haruka] (p.192) “What should I do to achieve revenge against Horikita-san and Kiyopon? I’m searching for that answer.”
+[says:hasebe-haruka] (p.193) “I wanted to tell you today: I will make you regret expelling Airi.”
+[note] (p.190) The corpus prints her line as “That kind of behavior is something that a normal person absolutely couldn’t have done.” — as printed.
+[note] (p.190) The corpus prints “Kyou-cha– ” mid-utterance when she starts to call Kushida by her pet name and switches to “Kushida-san” — kept as printed.
+[rel:sakura-airi] (p.189–193) “Give Airi back.” — “I will make you regret expelling Airi.” — her cold declaration.
+[rel:horikita-suzune] (p.184–193) The cafe confrontation — she never approves, never forgives; she will search for revenge instead of a reunion.
+[rel:miyake-akito] (p.168–193) Akito escorts her in; she goes back out alone; he goes after her.
+[rel:ayanokouji-kiyotaka] (p.176–193) “Kiyopon, do you have some time?” — the hallway intercept; the cafe gauntlet.
+[rel:ishigami-kyou] (p.171, 193) His awkward hello: “Speak of the devil thingy”; his final honest verdict.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

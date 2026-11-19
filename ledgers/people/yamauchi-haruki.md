@@ -864,9 +864,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.11) Passing mentions on pages: p.191.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.191–191 — Ch.3: Named — the Lucius precedent
+[mentioned] (p.191) Haruka names Yamauchi's expulsion in the cafe — “did you think the same things when Yamauchi-kun was expelled?” — Horikita: “I understand your discontent, but…”; Haruka: “He got what he deserved. It’s different this time around.”
+[rel:horikita-suzune] (p.191) She reaches for the Yamauchi precedent to answer Haruka's discontent.
 
-
-
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

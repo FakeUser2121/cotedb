@@ -3745,6 +3745,377 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.82–84) AK channels help toward her; the class's trust rides on her growth.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.101–111 — Ch.3: Five days of absence; Chabashira's counsel (Horikita's POV)
+[scene] (p.101) Friday, after school; the last time she saw Kushida-san was at the end of last week during the special exam; both Wang-san and Hasebe-san are not coming to school either; Monday through Friday — five days; she is burdened by student council work, festival prep and studies; she cannot afford to fall here — even though she declared she would definitely bring her back; she can't reach out to Ayanokōji-kun; this is something she must solve on her own.
+[says:chabashira-sae] (p.101) “That concludes homeroom.”
+[says] (p.102) “Chabashira-sensei, are you free to talk right now?”
+[says] (p.102) “It’s the fifth day that Kushida-san, Wang-san, and Hasebe-san have been absent from school.”
+[says:chabashira-sae] (p.102) “Ah, about that. Two of them are ostensibly still sick; they’ve continued to call in as such. However, they still haven’t been examined at the clinic as they should have. As for Hasebe, she’s consistently said that she would be absent, but she hasn’t told me any details.”
+[says] (p.102) “Are we in a state where we’re continuously receiving severe penalties?”
+[says:chabashira-sae] (p.102) “Don’t worry about that. Especially for diligent students like Wang and Kushida, there are rules in place that allow for somewhat prolonged absences. Even with Hasebe, she’s not a problem student, so right now it’s not such a big deal. If they didn’t have good grades or had a track record of bad behavior, it would be a different story.”
+[says] (p.102) “It’s thanks to their usual behavior—is that what you’re saying?”
+[says:chabashira-sae] (p.102) “Exactly. In addition, there might be healthy students who nonchalantly ditch school, but there also are students who will be down in the dumps for a week due to heartbreak. Distinguishing between the two is difficult. So, we have to make the decision by looking at their grades and how they have behaved in school.”
+[says:chabashira-sae] (p.103) “Also, the school isn’t fiendish. They aren’t plotting to force students to come to school and traumatize them mentally, you know. Anyhow, the three of those haven’t even been late to school before, and they had been taking their classes seriously. They’ve easily earned a reprieve.”
+[says:chabashira-sae] (p.103) “More than anything, the school understands that they conduct harsh special exams.”
+[says:chabashira-sae] (p.103) “That said, the time limit is close. If they continue being absent next week, the 100 class points you guys obtained after such desperation will, without mercy, disappear.”
+[says:chabashira-sae] (p.103) “Wait a minute, Horikita. You look like you still have something you want to say.”
+[says] (p.103) “… Not at all. I can’t trouble you any further.”
+[says:chabashira-sae] (p.104) “I won’t know if it will trouble me or not until I hear about it. I still have a bit of time left. It’d feel better if you talk about it with someone, wouldn’t it?”
+[says] (p.104) “We gained class points by forcing Sakura-san to drop out. Was it really the right thing to do?”
+[says] (p.104) “At the time, I believed it was the right decision. But… honestly, I’m wavering now.”
+[says:chabashira-sae] (p.104) “Are you regretting your choice?”
+[says:chabashira-sae] (p.104) “I want to give you an answer, but there’s nothing I can say.”
+[says] (p.104) “I know. As a teacher, you can’t tell me the answer, right?”
+[says:chabashira-sae] (p.104) “It’s not that. It’s just that, at this stage, you can’t prove whether or not you were right. Sure, there were students who thought your decision was a bit despotic and self-serving. Those opinions are weighing on you, and you are beginning to feel that you may have been mistaken.”
+[says:chabashira-sae] (p.104) “However, is it really that important? Nobody is perfect from the beginning, no matter who they may be. We make mistakes on simple arithmetic, learn from it, and move on. I myself have lived a life full of mistakes.”
+[says] (p.104) “You… too?”
+[says:chabashira-sae] (p.104) “Even when I took the same special exam, that was the case. I couldn’t even figure out whether I was right or wrong before time ran out. You, on the other hand, managed to produce a single answer. That’s something you did well! Nobody can score a 100 without gaining experience first. During that … special exam, you were recognized as a leader and given due authority. In addition, you were prepared to sacrifice someone to protect Kushida. From here on out is where you make everyone recognize that you made the right choice.”
+[says:chabashira-sae] (p.105) “It’s fine for you to not aim for a 100 now. After all, your only two choices were to either logically cut off the lowest ranked person on the OAA, or to prioritize your promise and receive a handicap.”
+[says] (p.105) “I-Indeed…”
+[says] (p.105) “Even so—I think I might have lost sight of my surroundings. If I had been more open to opinions, I think I might have been able to reach a more correct answer.”
+[says:chabashira-sae] (p.105) “There will be times when you lose sight of your surroundings. There will also be times when you will doubt if your decision was correct once you cool down.”
+[says:chabashira-sae] (p.105) “Until now, you’ve only had to make decisions that, in a positive sense, could be considered appropriate, but, in a negative sense, could also be considered just simple, right? Of course, that’s normal. After all, the uniqueness of this school is what made you seek out a new choice.”
+[says] (p.105) “Yes…”
+[says:chabashira-sae] (p.106) “You fought within the rules the school set, didn’t you?”
+[says] (p.106) “Yes, but I broke my promise and expelled someone other than the traitor.”
+[says:chabashira-sae] (p.106) “Were you set on protecting Kushida from the start, and the promise was just a lie in order to get assent?”
+[says] (p.106) “No! At the time I really was prepared to expel the traitor… I really was.”
+[says:chabashira-sae] (p.106) “If that’s the case, then there’s no problem. Sure, keeping your promise is important. However, sometimes, even adults have to go back on their word. I understand that your thinking changed, and you took that action because you realized it would be better if Kushida remained in the class. People are free to make fun of you, disrespect you, or ignore you now. Just as there are people who will follow you, there are also those who will not. Uniting a class of nearly 40 people is no easy task, even for Ryuuen, Sakayanagi, or Ichinose. Even while some students might ostensibly act as yes-men, there’s no telling what they are really thinking on the inside.”
+[says:chabashira-sae] (p.106) “Don’t be afraid of failure. I’m not the kind of adult who won’t accept and won’t forgive a child’s mistakes.”
+[says] (p.106) “Chabashira-sensei, I haven’t failed yet.”
+[says:chabashira-sae] (p.106) “… I suppose so. But that means that you need to protect that choice you made until the very end.”
+[says] (p.108) “You’ve changed, haven’t you, Chabashira-sensei?”
+[says:chabashira-sae] (p.108) “Is it weird that, after being cold for too long, I’ve now started behaving like a teacher?”
+[says] (p.108) “I was a bit surprised, but it’s not weird.”
+[says] (p.108) “Is that so? Then that’s fine.”
+[says] (p.108) “What is Ayanokouji doing in regards to Kushida?”
+[says] (p.108) “Ayanokouji-kun? No, he’s not doing anything in particular. If I were to speak frankly, I think he’s simply observing what I’m doing.”
+[says] (p.108) “I see. So he thinks this is something that you should solve yourself?”
+[says] (p.108) “He may just not want to go along with my selfish plans.”
+[says:chabashira-sae] (p.108) “Hm, I’m not so sure. During the incident with Kushida, he took drastic action. If he didn’t trust you, he probably would have just left you alone.”
+[says] (p.108) “You think pretty highly of Ayanokouji-kun. But I remember you saying that he was the most defective among us.”
+[says:chabashira-sae] (p.108) “You remember that remark from back then pretty well.”
+[says] (p.108) “He’s more outstanding than the OAA can evaluate.”
+[says:chabashira-sae] (p.109) “You seem to trust and value him quite a bit more now.”
+[says] (p.109) “There’s no need to take everything I say so seriously. Haven’t you spent far more time with him than I have?”
+[says] (p.109) “Even so, I want to hear your opinion.”
+[says:chabashira-sae] (p.109) “…Well, my opinion of him hasn’t changed. Rather, I think I’m more certain of my evaluation now.”
+[says] (p.109) “He may have a few problems with his personality, but he’s not alone in that… What did you mean when you said that? Or were you mistaken?”
+[says:chabashira-sae] (p.109) “Is Kushida tough to deal with?”
+[says] (p.109) “It’s like I’m punching the air. No matter how many times I go to her room and wait for her, she won’t open her door.”
+[says:chabashira-sae] (p.109) “That’s a problem.”
+[says] (p.110) “I’m just happy that I could hear her moving around near the door.”
+[says:chabashira-sae] (p.110) “We can’t really say she’s not even moving. That said, if you don’t do something, the situation isn’t going to improve, and it’ll gradually get worse.”
+[says] (p.110) “I understand…”
+[says:chabashira-sae] (p.110) “If you can’t do anything on your own, you have the option of taking the help of others.”
+[says] (p.110) “A classmate who would happily help me persuade Kushida… that would be someone like Hirata-kun. But right now, asking him for help is out of the question.”
+[says:chabashira-sae] (p.110) “If it was Hirata, then… no, I’m not sure when it comes to Kushida. If you took an upfront, good-natured, virtuous person to her, I can’t imagine her simply opening the door for him.”
+[says] (p.110) “I somehow understand what you’re trying to say, sensei. She’s not an honest person.”
+[says:chabashira-sae] (p.110) “Unfortunately, I can’t think of the right person for the job, but it might not be a bad idea to try looking for someone outside of your classmates.”
+[says] (p.110) “However, going to persuade Kushida would mean knowing her true nature. Telling an outsider about that would be a detriment to our class.”
+[says:chabashira-sae] (p.110) “It’s definitely necessary to balance the pros and cons. Still, it doesn’t mean you absolutely can’t tell anyone about it. For instance, some of us teachers already know about Kushida’s past, and, out of those who don’t, there are probably teachers who would stay quiet if you consulted them. I don’t think it’s that much of a secret.”
+[says:chabashira-sae] (p.111) “It’s about time I get going. It may be a bother, but let me say one last thing. What’s most important is what you want to do with Kushida. Think hard about that.”
+[says] (p.111) “Thank you very much. Thanks to you, I have found my resolve.”
+[says:chabashira-sae] (p.111) “Think nothing of it. As a teacher, doing at least this much should be the natural thing to do.”
+[trait] (p.101–111) Self-critical but unyielding — she knows her exposure to doubt, she won't beg AK for help, and she finds her resolve through Chabashira.
+[rel:chabashira-sae] (p.102–111) The "new" teacher — strict, heartfelt; guidance on failure and on Kushida; gently places her hand on Horikita's shoulder.
+[rel:ayanokouji-kiyotaka] (p.101, 108–109) Deliberately not asking for his help; Chabashira notes he took drastic action for her and clearly trusts her.
+[rel:kushida-kikyou] (p.101, 109–111) She has not been able to move her — only sounds behind the door — her resolve returns.
+[rel:hirata-yousuke] (p.110) Hirata is spoken of as unusable for Kushida — too upfront, good-natured, virtuous.
+[rel:hasebe-haruka] (p.102) Hasebe consistently absent without details; Wang and Kushida "diligent students" granted a reprieve.
+[rel:wang-mei-yu] (p.102) Wang is absent ostensibly sick — no clinic examination — "diligent students like Wang and Kushida" get a reprieve.
+[rel:ryuuen-kakeru] (p.106) Chabashira names Ryuuen as a union-master who still can't unite 40 people without yes-men.
+[rel:sakayanagi-arisu] (p.106) Chabashira names Sakayanagi in the same breath.
+[rel:ichinose-honami] (p.106) Chabashira names Ichinose in the same breath.
+
+### y2v6 p.112–125 — Ch.3: Ibuki's "help" — the lobby, the scam, the door (Horikita's POV)
+[scene] (p.112–114) Returning from Keyaki Mall shopping, she sees Ibuki-san standing by the elevator glaring at the entrance; she calls her on the phone message Ibuki got — “This! This message, what does it mean? Answer me!” — Ibuki hadn't been able to decode AK's hint (“If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me. You wouldn't be such an idiot, right?”); Horikita explains: he was giving her a secret strategy so she wouldn't get expelled — indirectly helping Ryūen by removing her from his way — no, protecting HER from being thrown out.
+[says:ibuki-mio] (p.112) “Don’t ignore me!”
+[says] (p.112) “Ignore you? Do you have something you need from me?”
+[says:ibuki-mio] (p.112) “This! This message, what does it mean? Answer me!”
+[says] (p.112) “Are you an idiot? It’s too close, I can’t see anything. Move back a little?”
+[says:ibuki-mio] (p.112) “Fine! Here!”
+[says] (p.112) “What a well written message, I’m impressed. Clearly, a very intelligent person must have written it.”
+[says:ibuki-mio] (p.112) “Don’t toot your own horn! More importantly, what part of this screams intelligence?”
+[says] (p.113) “Why, if you read it out loud, you might get it.”
+[says:ibuki-mio] (p.113) “HUH? ‘If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me. You wouldn’t be such an idiot, right?’… Just how is this intelligent? No, forget it, just tell me what it means!”
+[says] (p.113) “You just read it, but you still haven’t understood it?”
+[says:ibuki-mio] (p.113) “Not at all. I thought about it all week, and I still don’t. What, is that a problem?’
+[says] (p.113) “Well, even if I tell you now, there’s no point. And it seems like it wasn’t a problem after all.”
+[says:ibuki-mio] (p.113) “Haa? What does that mean? Explain it, so I can understand.”
+[says] (p.113) “I was giving you a secret strategy to make sure you wouldn’t get expelled. It doesn’t seem like your classmates like you, and if there was a motion that involved expulsion, it could’ve meant trouble for you. But with this, I could spur you on and make sure you stayed here even if you hated it, right?”
+[says:ibuki-mio] (p.113) “Don’t tell me… You were worried about me?”
+[says] (p.114) “Don’t put words in my mouth. There are still things I need your help with. Being short on manpower could be a problem, and anyway, if you were … expelled in the previous exam, Ryuuen’s class would have gained 100 points with no downsides by removing you. If you had to be expelled, it would be better for me if you left during an exam which has a penalty.”
+[says] (p.114) “Anyway, that’s enough. Let’s go home.”
+[says] (p.114) “Aren’t you coming?”
+[says:ibuki-mio] (p.114) “I don’t feel like getting into an elevator with you.”
+[says] (p.114) “What a child. We’ve done this many times before, even as a coincidence.”
+[says:ibuki-mio] (p.114) “I don’t want to right now.”
+[says] (p.114) “I see. Do as you please.”
+[says] (p.115) “Really, it’s all useless.”
+[says:ibuki-mio] (p.115) “Wh, why are you here!?”
+[says] (p.115) “Aren’t you getting on?”
+[says:ibuki-mio] (p.115) “I said so, didn’t I!? You trying to piss me off?”
+[says:ibuki-mio] (p.115) “What is it!’
+[says] (p.115) “… If it’s going to be like this, I think I can use your help.”
+[says] (p.115) “Get on.”
+[says:ibuki-mio] (p.116) “How many times do I need to tell you that I’m not getting on?”
+[says] (p.116) “Enough already. Get on.”
+[says:ibuki-mio] (p.116) “… What is with you?”
+[says] (p.116) “There is something I need your advice on.”
+[says:ibuki-mio] (p.116) “HAAAHH? For you? No, no way I’m taking on something like that.”
+[says] (p.116) “But you got on the elevator.”
+[says:ibuki-mio] (p.116) “You dragged me on!”
+[says] (p.116) “You’re already on, so why not advise me on it too?”
+[says:ibuki-mio] (p.116) “Uh, that doesn’t make any sense.”
+[says] (p.116) “It won’t hurt you or anything. Anyway, it’s about…”
+[says:ibuki-mio] (p.116) “Don’t keep going on your own! Just having to give you advice hurts me though?”
+[says] (p.116) “Get off. You never know who’s listening here. Just in case.”
+[says] (p.116) “Don’t care. I’m going back. I don’t even understand what’s going on.”
+[says] (p.117) “Look, even the elevator wants you to get off.”
+[says:ibuki-mio] (p.117) “That’s because you’re keeping it from closing by pressing the button outside!”
+[says] (p.117) “By the way, do you have anything you like? Like anything you think is important?”
+[says:ibuki-mio] (p.117) “… What does that have to do with this?”
+[says] (p.117) “Just tell me.”
+[says:ibuki-mio] (p.117) “───nu”
+[says] (p.117) “nu?”
+[says:ibuki-mio] (p.117) “No, umm, what was it? I can’t really think of anything, strawberries, something like that?
+[says] (p.117) “Wow, there’s an unexpectedly cute side to you… Let’s move on and forget about this conversation.”
+[says:ibuki-mio] (p.117) “YOU’RE the one one asked! More importantly, enough already, let go of the button.”
+[says] (p.117) “I’m about to go meet Kushida-san.”
+[says:ibuki-mio] (p.117) “And? You can just go by yourself?”
+[says] (p.117) “I can’t just do that. For the past week, I haven’t been able to see her, and she’s not coming to school. Even when I come to her room, she shows no signs of coming out. I want you to drag her out. Do you understand?”
+[says:ibuki-mio] (p.118) “Huh? Wait, why do I have to do this?”
+[says] (p.118) “You’d be helping me out.”
+[says:ibuki-mio] (p.118) “Don’t care. I don’t even help my own classmates, so there’s no way I can help your class?”
+[says] (p.118) “Fine. If that’s the case, I’ll give you a reward if you succeed.”
+[says:ibuki-mio] (p.118) “Don’t need it. If you think I will work for money you are badly mistaken.”
+[says] (p.118) “Yes, you are right about that. However, my reward will definitely be something that you really want.”
+[says:ibuki-mio] (p.118) “… I don’t think there’s anything like that, though?”
+[says] (p.118) “At the sports festival, we can freely pick any 5 competitions, right? You are free to choose which competitions you want to participate in, and in which groups. This was a provision to help us clear the 5 required events, or, to put it another way, its main purpose is to allow one to avoid powerful opponents… but one the other hand, it’s also a system that also allows you to pick your opponent.”
+[says] (p.119) “Knowing you, in order to fight me, you’ve not reserved a spot in any competitions, and are just waiting for me, right? Unfortunately for you, I’m … not going to make my decision until the last moment. Depending on the situation, it’s likely that I’d be aiming for the last open slot in the competitions. In other words, you will never get the opportunity to challenge me, the very thing you want and are waiting for.”
+[says] (p.119) “… if I help you, you will let me fight you?”
+[says] (p.119) “Yes. I will fight you in one competition of your choice. Of course, for the sake of my class, I won’t be holding back, so you won’t be winning any points though. If that’s fine with you, I’ll do it.”
+[says:ibuki-mio] (p.119) “Ha. Isn’t that interesting. But I won’t be satisfied with just one. At the very least, three. If we have a best of three, I’ll help you.”
+[says] (p.119) “Three? That’s too greedy…”
+[says:ibuki-mio] (p.119) “I won’t give up otherwise.”
+[says] (p.119) “…… Fine. As you wish, I will compete against you in three matches. Is that alright?”
+[says:ibuki-mio] (p.119) “Done. You can’t back out now.”
+[says] (p.119) “Of course. But! You will help me until this situation is resolved.”
+[says:ibuki-mio] (p.120) “Can you tell me clearly what the goal is?”
+[says] (p.120) “Make Kushida-san come to school from Monday. That’s all.”
+[says:ibuki-mio] (p.120) “Sounds easy enough. Wait, why is Kushida taking a break from school a big deal, anyway? Couldn’t she just be unwell? Everyone has days like those.”
+[says] (p.120) “You aren’t surprised, huh. Did you know something?”
+[says:ibuki-mio] (p.120) “Nothing. But I don’t believe that anyone is that nice of a person. Not Kushida, not Hirata, not even Ichinose. I think anyone who puts on a ‘I’m a nice guy!’ image is guaranteed to have a dark side underneath.”
+[says] (p.120) “That’s an interesting way of looking at it.”
+[says] (p.121) “So, do you think highly of Ryuuen-kun then? He doesn’t pretend to be good… or rather, considering what he’s like inside, he isn’t a good person.”
+[says:ibuki-mio] (p.121) “I hate that more. And on that topic, I’m also beginning to dislike people who seem harmless, like Ayanokouji. Those pieces of shit piss me off!”
+[says] (p.121) “Well, I don’t hate dragging out someone like that. If anything, it makes me want to ask her how it felt to have her good girl front exposed as fake.”
+[says:ibuki-mio] (p.121) “So, Kushida is holed up at home, and I just need to drag her out?”
+[says] (p.121) “Yes.”
+[says:ibuki-mio] (p.121) “Just shut up and watch.”
+[says:ibuki-mio] (p.121) “…… Ah, it hurts, it HURTS!”
+[says:ibuki-mio] (p.122) “M-my stomach suddenly started to hurt… I… I can’t make it to my room…!”
+[says:ibuki-mio] (p.122) “To…Toilet, let me use your toilet!”
+[says] (p.122) “She isn’t out, is she?
+[says:ibuki-mio] (p.122) “First of all, I am very sure she is in her room.”
+[says:ibuki-mio] (p.122) “Really? If that performance didn’t work, that Kushida is a real piece of work.”
+[says] (p.122) “A-ah, yeah.”
+[says] (p.122) “You can see the disk in here, right? If this disk is spinning slowly, then it’s likely that she’s not in there. However, if she is in there using her TV or computer, then it should be spinning fast.”
+[says] (p.123) “With this, you get that there’s a high chance she’s in there, right?”
+[says:ibuki-mio] (p.123) “That’s the kind of thing a burglar would know…”
+[says] (p.123) “I looked up a lot of things while waiting for her last weekend. You are prohibited from abusing this knowledge.”
+[says] (p.123) “So, have you thought of any other methods? If not, then I might have to bench you───”
+[says:ibuki-mio] (p.123) “We’ve been going about this the wrong way.”
+[says:ibuki-mio] (p.123) “Hey, Kushida. I’ve heard all about you. The fact that you were deceiving everyone till now was revealed during the exam, was it?”
+[says:ibuki-mio] (p.123) “Sure serves you right! How does it feel to lose your position as the most popular up until now? Well, if we’re ranking good people, then Ichinose’s probably above you. How’s it feel falling from second?”
+[says:ibuki-mio] (p.124) “Come on, show me your unsightly face!”
+[says:ibuki-mio] (p.124) “I’ve got a lot of pent up stress ‘cause of Horikita just now. I can’t help wanting to vent it.”
+[thinks] (p.124) “Kicking the door to someone’s room might not be so bad. I kind of understand how Ryuuen feels.”
+[says:kushida-kikyou] (p.124) “───You’re annoying me, so could you stop it, Ibuki-san?”
+[scene] (p.125) Kushida opens the door; casual clothes; Ibuki has her foot stuck in the gap; both come in.
+[rel:ibuki-mio] (p.112–125) The unexpected ally — her charm-offensive “secret strategy” message from AK; the negotiation for a three-match promise (best of three) in exchange for helping; she bangs the door; Kushida opens.
+[rel:kushida-kikyou] (p.112–125) The target; one week holed up; Horikita's plan works only if Ibuki lifts the door.
+[rel:ayanokouji-kiyotaka] (p.112–120) The message Horikita decodes for Ibuki — he masterminded it; he is quietly behind the whole scene.
+[rel:ryuuen-kakeru] (p.112–114, 124) She considers how Ryuuen feels about kicking doors; his class would have gained 100 points if she were expelled.
+[rel:ichinose-honami] (p.120) Ibuki: “Not Kushida, not Hirata, not even Ichinose” — she doesn't believe in nice-guy images.
+[rel:hirata-yousuke] (p.120) Ibuki: “not even Ichinose” and “not Hirata” — the nice-guy image is fake in her eyes.
+
+### y2v6 p.125–145 — Ch.3: Inside Kushida's room — the negotiation; the left-handed handshake (Horikita's POV)
+[scene] (p.125–126) Kushida opens the door; casual clothes; a tidy room kept to a spotless standard; she expects only Horikita and Ibuki to sit at a distance; a two-on-one setup with no snacks offered.
+[says] (p.125) “Hmm? Well, well, you sure take care of the place, don’t you?”
+[says:kushida-kikyou] (p.125) “Your room is probably a mess, with dirty clothes scattered around where you took them off, isn’t it?”
+[says:ibuki-mio] (p.126) “Ngh… y-you haven’t even been to my room, how would you know?”
+[says:kushida-kikyou] (p.126) “Sit down. I won’t be providing any snacks or drinks, but you don’t really mind, right?”
+[says:kushida-kikyou] (p.126) “Well then. You’ve been causing a racket in front of my room for a long time. What are you after?”
+[says] (p.126) “You already know, don’t you? You’ve stayed here, absent from school for a whole week. It’s about that.”
+[says:kushida-kikyou] (p.127) “Huh.”
+[says:kushida-kikyou] (p.127) “You expect me to go to school after all that happened? Not that I’m surprised, but you let this girl know about me, too, right? Just something you did out of spite, I suppose.”
+[says] (p.127) “That’s not it. She’s not going to blabber about it to someone else.”
+[says:kushida-kikyou] (p.127) “Oh? You trust her?”
+[says] (p.127) “I don’t. It’s just that she’d be hard pressed to find someone to talk to.”
+[says:ibuki-mio] (p.127) “Oi.”
+[says:kushida-kikyou] (p.127) “Even if that is the case, you sure aren’t thinking about how I feel. I’m hurt.”
+[says] (p.127) “You have the right to say that?”
+[says:kushida-kikyou] (p.127) “Even if I don’t, Horikita-san, that’s no reason for you to ignore my feelings.”
+[says] (p.127) “Let’s move on from that. I fully understand I may be lacking in some areas, but in the beginning you were the one who came at me with hostility. Isn’t that right, Kushida-san?”
+[says:kushida-kikyou] (p.127) “I won’t deny that. But it couldn’t be helped; I just couldn’t stand it.”
+[says] (p.127) “I wonder what I should have done. Even looking back on it now, I can’t think of a clear answer.”
+[says:kushida-kikyou] (p.128) “I get it. I thought about the same thing many times—and then I came to a conclusion. I couldn’t stand Horikita-san being here, so shouldn’t she voluntarily drop out of school for my sake?”
+[says] (p.128) “Could you stop saying ridiculous things? That’s not a conclusion, that’s just absurd.”
+[says:kushida-kikyou] (p.128) “It was absurd, wasn’t it? However, that absurdity was the only choice I had.”
+[says] (p.128) “Can’t you put all of this behind us and cooperate?”
+[says:kushida-kikyou] (p.128) “I knew you’d say something like that, but don’t make me laugh.”
+[says] (p.128) “You just have that much ability and value.”
+[says:kushida-kikyou] (p.128) “I know.”
+[says:ibuki-mio] (p.128) “You sure think a lot of yourself…”
+[says:kushida-kikyou] (p.128) “Really? I don’t think so, though.”
+[says:ibuki-mio] (p.128) “I don’t think so either. I don’t think your abilities are all that great. Wanna throw down?”
+[says:kushida-kikyou] (p.129) “You’re more of an idiot than I imagined, Ibuki-san. That’s not what ability means, you know? Why don’t you take a look at the OAA? In this school, our ability is determined by how good those grades are. I believe the gap between me and you is larger than you’d think.”
+[says] (p.129) “I’d like you to put that great strength of yours to use for the sake of our class. If you continue being absent without permission any more than this, you will eventually lose your seat in our class.”
+[says:kushida-kikyou] (p.129) “It’s already lost, though. Well, you may be right. You were prepared for the class’s animosity when you opposed my expulsion, weren’t you? That’s why you are the one who’ll be in trouble if I don’t become an asset. I completely get why you’re so desperate to convince me like this.”
+[says:kushida-kikyou] (p.129) “I’ve lost. I have no place where I belong anymore. However, the reason why I stayed quiet at the very end of the Unanimous Consent Special Exam was to hurt you, even if only a little. If I continue to stay absent even going forward, won’t the school punish the class that caused a student to stop going to school? And then the responsibility for that punishment will be yours.”
+[says] (p.129) “You gain nothing from this.”
+[says:kushida-kikyou] (p.130) “It’s a bit late for that. I already have nothing to lose, so isn’t it normal to try to drag you down with me?”
+[says:ibuki-mio] (p.130) “Huh? That ain’t normal. Don’t get carried away just because your stats on the OAA are a bit good.”
+[says:kushida-kikyou] (p.130) “I invited you inside on a lark, Ibuki-san, and that might’ve been the right choice. You’re funny. If it was just me and Horikita-san, then the conversation would just have been boring. I certainly may have been mistaken for saying ‘normal’. What’s normal for me is definitely abnormal for others, after all.”
+[says:ibuki-mio] (p.130) “So you admit that you’re abnormal?”
+[says:kushida-kikyou] (p.130) “I’m not satisfied unless I’m number one. I can’t allow things that are inconvenient for me.”
+[says:ibuki-mio] (p.130) “You make me sick.”
+[says:kushida-kikyou] (p.130) “I can’t help it. I can’t change the way I think. I was born this way.”
+[says:kushida-kikyou] (p.130) “Until the school forces me to do something, I’m gonna keep skipping class.”
+[says:ibuki-mio] (p.130) “What are you gonna do?”
+[says] (p.130) “What am I going to do? I have no choice but to continue talking to you like this.”
+[says:ibuki-mio] (p.130) “No plan, huh? A big difference from Ayanokouji-kun.”
+[says:kushida-kikyou] (p.131) “I thought I had the advantage, but he never lost his nerve. On the contrary, he made a plan that used it against me. I think he’s someone I shouldn’t have made an enemy out of.”
+[says] (p.131) “He’s—that’s right. He might have the ability to see many possibilities of how things play out far into the future. I only realized that recently though.”
+[says:ibuki-mio] (p.131) “You’re just like me then.”
+[says] (p.131) “Right.”
+[says:kushida-kikyou] (p.131) “You’re really an idiot as well, Horikita-san. Things would have been easier if you’d just cut me off.”
+[says] (p.131) “I suppose I may be an idiot. It can’t be helped if people think my intuition or confidence was baseless. However, I have no doubts in the fact that you are an outstanding student. While your actions against the people who know your past—that is, me and Ayanokouji-kun—have had a negative impact, at the very least, there’s no changing the fact that you contributed to our class for the past year and a half.”
+[says] (p.131) “If causing trouble for the class is truly your top priority, then you may succeed at your revenge by continuing to stay absent like this. But, more importantly, is that all you want?”
+[says:kushida-kikyou] (p.131) “I wonder what you’re trying to get at.”
+[says] (p.131) “I’m asking if that much is enough to satisfy you.”
+[says:kushida-kikyou] (p.131) “It’s enough to satisfy me; I don’t currently wish for any more than that. No matter how you frame your words to try convince me, it’s pointless. I’m not … going to agree to anything.”
+[scene] (p.132) The “convince” word gets caught in her throat — she came to “convince” Kushida for her own sake and the class's, not for Kushida's; she admits it was mistaken; she offers not to convince her; Kushida counters that then the talk is over — she'd be happy to drag Horikita down; Horikita accepts that she herself will endure it while still having a place to return to; the trap is set.
+[says] (p.132) “I may have been mistaken.”
+[says:kushida-kikyou] (p.132) “What do you mean?”
+[says] (p.132) “I had come here with the intent to ‘convince’ you. But that’s not it. In the end that was just for my sake and the class’s sake. I wasn’t taking into account how you feel.”
+[says:kushida-kikyou] (p.132) “What? This time do you intend to break down crying out of pity?”
+[says] (p.132) “It’s just that I realized that bringing you to a school that you don’t want to go to is a mistake.”
+[says:kushida-kikyou] (p.132) “If that’s the case, then our conversation is over. If I pull your leg then you’ll naturally fall over. I’d be happy if you suffer through your long school life without me.”
+[says] (p.132) “I’m fine with that. But you’ll end up suffering at the same time.”
+[says:kushida-kikyou] (p.132) “I’ll suffer? What?”
+[says] (p.132) “Because even though you still have a place to return to, you’re going to end up losing it.”
+[says:kushida-kikyou] (p.132) “You started saying some very self-centered things. I already have no place to return to.”
+[says] (p.133) “I get irritated watching you.”
+[says:kushida-kikyou] (p.133) “… Huh?”
+[says] (p.133) “Even if I get close to you, there’s no use since you’re a child. In short, you’ve only made the wrong choices at every turn. I wasn’t going to spill your secret, and I didn’t even know everything, so if you hadn’t tried to expel me it wouldn’t have come to this. And the same goes for Ayanokouji-kun.”
+[says:kushida-kikyou] (p.133) “I told you, didn’t I? That I couldn’t stand it.”
+[says] (p.133) “That’s what makes you a child. Lashing out because you couldn’t stand it… isn’t that the same as being a child?”
+[says:ibuki-mio] (p.133) “Bear at least that much. You’re already a high schooler, you know? You can’t even just walk over to the classroom? Don’t just lie on the ground throwing a tantrum—c’mon, get up and walk.”
+[says:kushida-kikyou] (p.133) “Ah, you don’t say, Horikita-san. But I’m just a poor girl who’s hurt. If I went to school now, then I’d be disliked by my classmates and things won’t be like before. Taking me to such a painful place is unfair. You’re not getting close to me.”
+[says] (p.133) “I’m not in a position to say things about others, but this is the lamest you’ve ever been.”
+[says:kushida-kikyou] (p.133) “My past has already been found out. I can’t keep up my appearance anymore. So I’ll bother everyone. Your appearance crying in class looked like a child’s, but you really are a child. No, you’re a toddler. I feel like I’ve been dealing with a toddler.”
+[says:kushida-kikyou] (p.134) “Quit mocking me!”
+[scene] (p.134) Kushida raises her hand and swings at Horikita's cheek — Horikita calmly grabs her arm and grips it with force; Kushida's rage transfers through the trembling hand; Horikita's proposal: use your abilities solely for your own sake — rise to Class A for your own sake; go where no one knows your past.
+[says] (p.134) “Of course I’ll want to make fun of you. You trouble me and our class for your own enjoyment. Who else would make that their highest priority other than a toddler?”
+[says:kushida-kikyou] (p.134) “I alone should experience pain, deal with it, and cooperate as part of your class?”
+[says] (p.134) “Don’t make up a convenient interpretation, okay? You have solid abilities. As such, you should use them solely for your own sake. Those around you don’t matter. If you act for your own sake and rise to Class A for your own sake, then that will without a doubt be your achievement. You can do what you want with Class A’s special privileges as you please. If you want to do the same thing, then go somewhere where no one knows your past this time.”
+[says] (p.134) “We only have a year and a half left of school. It shouldn’t be that difficult, right? For the past year and a half, you only showed your classmates your good-person facade. This should be easier than that. Or is that perhaps the extent of your abilities?”
+[says] (p.134) “This is the only time I will come to visit you here. The rest is for you to figure out. If you still want to make me your enemy after talking this much, then there’s already no remedy—stay a child for the rest of your life.”
+[says:kushida-kikyou] (p.134) “So you’re saying… while I stop here, you will keep moving forward.”
+[says] (p.135) “You will be expelled. I will graduate from Class A and have my dreams fulfilled. That’s a pretty big difference.”
+[says:kushida-kikyou] (p.135) “Do you really… think that I have a chance to return to school at this point?”
+[says] (p.135) “That depends on you. Are you going to lower that raised fist of yours, or not? Decide.”
+[says:kushida-kikyou] (p.135) “I will hear you out, at least. Tell me what you’re planning, Horikita-san.”
+[says] (p.135) “After all that, do you want to pretend to be friendly and live your school life───”
+[says:kushida-kikyou] (p.135) “Not at all. Anyway, wouldn’t that be impossible? My classmates have seen my true nature, and nothing’s going to change that fact, right?”
+[says] (p.135) “Indeed. But, to put it another way, you can still pretend to be friendly to people who haven’t seen your true nature, don’t you think?”
+[says:kushida-kikyou] (p.136) “Maybe not?”
+[says:kushida-kikyou] (p.136) “Until now, only a few people knew my true self, like you or Ayanokouji-kun. That’s why I never hesitated to keep up appearances. But now, that number has gone up by an entire class, you know? And it’s not just you wise men, there’s quite a few idiots and shit people in there.”
+[says:ibuki-mio] (p.136) “What’d you call me!”
+[says:kushida-kikyou] (p.136) “I’m not talking about you, so why do you care?”
+[says] (p.136) “If you can’t stay quiet, Ibuki-san, you can just go home?”
+[says:ibuki-mio] (p.136) “Oh, sure. Then I’m leaving. I take it you’ll keep that promise?”
+[says] (p.136) “No. If you leave now, I’ll consider it as you giving up midway and cancel our promise.”
+[says:ibuki-mio] (p.136) “Huuuuh? You’re kiddi… Argh, fine, I’m gonna shut up so finish this quickly.”
+[says:kushida-kikyou] (p.136) “Promise? That’s interesting.”
+[says] (p.136) “If she helped me get you back to school, I promised I’d fight her in the Sports Festival. That’s it.”
+[says:kushida-kikyou] (p.136) “Oh, so that’s how it is. I was wondering why it was Ibuki-san, but now it’s clear.”
+[says] (p.137) “As a matter of fact, it was thanks to her that I was able to intrude on your room, so it did have some use.”
+[says] (p.137) “Back to the main topic, can I take it that it would be painful for you to continue pretending after your true nature has been known?”
+[says:kushida-kikyou] (p.137) “Yes. If there was some sense to it, I wouldn’t mind putting in the effort, but why would I do that if I get nothing out of it?”
+[says] (p.137) “If you are unwilling, you don’t need to continue treating your classmates as you’ve done so far.”
+[says:kushida-kikyou] (p.137) “Huh?”
+[says] (p.137) “Even though we have a gag rule in place, we can’t be entirely sure it’ll work. So, we must work from the assumption that to the other classes, Kushida-san is problematic and has a hidden personality.”
+[says:kushida-kikyou] (p.138) “Nobody trusts me anymore. I don’t think everyone will be happy with me when I’m like that. Don’t you think?”
+[says] (p.138) “Of course, it won’t be as it was until now. But can you really say you’ve completely lost their trust? What do you think, Ibuki-san?”
+[says:ibuki-mio] (p.138) “…”
+[says] (p.138) “Answer me, Ibuki-san.”
+[says:ibuki-mio] (p.138) “Weren’t you the one who told me to shut up?”
+[says] (p.138) “I give you permission to speak.”
+[says:ibuki-mio] (p.138) “On god… Telling me to shut up, telling me to speak—I’m not your henchman or anything, you know?”
+[says] (p.138) “You don’t want to compete with me? If so, just say the word and—”
+[says:ibuki-mio] (p.138) “Argh, fine!”
+[says:ibuki-mio] (p.138) “You were overacting as the goody two shoes until now. I don’t believe in anybody being perfect, and, in fact, how you used to be is way more shady to me. If I had to trust either the old you or the new you, maybe I’d pick the new you because you’re more honest this way.”
+[says:kushida-kikyou] (p.138) “Hahaha, that’s an interesting answer. Or should I say, you have a unique way of thought. But not everybody is a weirdo like you, Ibuki-san. In fact, normal people would hate me instead.”
+[says:ibuki-mio] (p.138) “I agree, she isn’t normal.”
+[says:kushida-kikyou] (p.138) “Oi!”
+[says] (p.139) “But, to some degree or another, everyone has two personas. Ibuki-san has recognized your true nature as acting for yourself first and foremost. And that’s because your true nature will absolutely never change.”
+[says] (p.139) “And, if you don’t change your tone or how you speak to others from how it was before, it would be difficult for someone who hasn’t seen your true self for themselves to imagine it. Even if someone explained it to them in words, people have trouble understanding something they’ve not experienced for themselves.”
+[says:kushida-kikyou] (p.139) “What do you mean?”
+[says] (p.139) “Let’s say, hmm. Consider Ichinose Honami-san. She is a good person, even more than you pretended to be. But if someone told you that she is a violent person who uses foul language and desires nothing more than to crush her enemies, would you quickly believe them?”
+[says:kushida-kikyou] (p.139) “…It could be difficult. She seems like a genuinely good person.”
+[says:ibuki-mio] (p.139) “I have my doubts,”
+[says] (p.139) “But those doubts aren’t about Ichinose-san, and more about whether a good person can really exist, right?”
+[says:ibuki-mio] (p.140) “Well… Sure, maybe it’s hard to understand something without experiencing it for yourself. I only heard about Kushida from what you said, and didn’t actually get that feeling myself.”
+[says] (p.140) “Right? At the very least, Ichinose-san has spent the past year and a half being a good person. Even if someone made a shocking revelation about her to you, you wouldn’t believe it. Let’s say her entire class lined up and told you that she was that kind of person, then, naturally, you would suspect her too. But—even after that—you wouldn’t really see it deep down, would you?”
+[says:ibuki-mio] (p.140) “That thing about not understanding until you experience it, you might be right on that. Even in martial arts, someone could explain a move to you and warn you that it’s dangerous, but you won’t really feel it. But when it hits you for real, then you truly know how powerful it is.”
+[says] (p.140) “Using martial arts as an example, how like you, Ibuki-san.”
+[says:kushida-kikyou] (p.140) “But as long as they still have doubts, I won’t be able to get their full trust.”
+[says] (p.140) “That’s where you show your skills. You have no choice but to act well from now on. At the very least, it is undeniable that your communication skills and ability to maintain the right distance are above most people’s.”
+[says:kushida-kikyou] (p.140) “That might be true for the other classes, but what about our classmates? Some people like Shinohara-san, Wang-san and especially Hasebe-san must resent me. Will they work with me?”
+[says] (p.140) “It might be impossible to get everyone on board. But if you just respond with your abilities, you can produce results.”
+[says] (p.140) “If their lack of trust in you becomes important, I will help.”
+[says:kushida-kikyou] (p.140) “… Do you think I’ll just take your word for it? You could just betray me.”
+[says] (p.140) “You can have your doubts. I’ll suffer your complaints if you get betrayed.”
+[says:kushida-kikyou] (p.141) “I get it. I, solely for my own sake, will fight for this class and contribute to it for the next year and half. I won’t fight for you, nor our classmates. That should be fine?”
+[says] (p.141) “I have no complaints. I’m fine so long as your results are up to the mark.”
+[says] (p.141) “It was the other way around that time, wasn’t it?”
+[says] (p.141) “You do know that a left-handed handshake signifies animosity?”
+[says:kushida-kikyou] (p.141) “… Does it? Hm, which hand did I proffer last time?”
+[says] (p.141) “The left.”
+[says] (p.141) “It’s almost like we’re commemorating our animosity.”
+[says:kushida-kikyou] (p.141) “Don’t you think that suits us better?”
+[says] (p.141) “Perhaps it does.”
+[says:kushida-kikyou] (p.141) “That reminds me. There’s something I wanted to do to you, Horikita-san. Is that alright?”
+[says] (p.142) “A request? What is it?”
+[says:kushida-kikyou] (p.142) “I really hate you, Horikita-san.”
+[says] (p.142) “Whach are you…!?”
+[says:kushida-kikyou] (p.142) “I’ve been so annoyed ever since we met today, and even though we’re now allies you’re still annoying. The thought that this’ll go on forever from Monday fills me with such an insane amount of stress, so you gotta give me an outlet like this, at least a little!”
+[says] (p.142) “I-isn’t this enuf?”
+[says:kushida-kikyou] (p.142) “No, no! I’m not even close to satisfied!”
+[says] (p.142) “???”
+[says] (p.142) “I think itsh about chime you stopped?”
+[says] (p.143) “Ofofo, can ju keep jour jokes to that silly faish?”
+[scene] (p.145) A battle of who could be more stubborn — even the pain begins to numb; Ibuki leaves calling them both stupid; when they release each other, both are beet-red; “… Come to school on Monday.” — Kushida shoves her out of the room; “You’re persistent. Just go home already?” — Ibuki waits in the elevator; “… She sure has the talent to annoy people…” — it was thanks to her.
+[says:ibuki-mio] (p.145) “… You guys gonna keep this up until you’ve ripped each other apart? You look fucking stupid so I’m going home.”
+[says] (p.145) “… Come to school on Monday.”
+[says:kushida-kikyou] (p.145) “You’re persistent. Just go home already?”
+[says] (p.145) “Wait, were you waiting for me?”
+[thinks] (p.145) “… She sure has the talent to annoy people…”
+[note] (p.144) p.144 is a blank page (no prose) in the corpus.
+[rel:kushida-kikyou] (p.125–145) The deal: she comes back Monday “for her own sake”; the left-handed handshake of animosity; the cheek-pinching battle as a stress outlet; the counter-terms — “I, solely for my own sake, will fight for this class and contribute to it for the next year and half.”
+[rel:ibuki-mio] (p.112–145) The unexpected ally — her charm-offensive “secret strategy” message from AK; the negotiation for a three-match promise (best of three) in exchange for helping; she bangs the door; Kushida opens.
+[rel:ayanokouji-kiyotaka] (p.137–145) Kushida ranks him as the counter-example plan-maker; both she and Horikita agree he sees many possibilities far into the future; the deal's reluctance test.
+[rel:ichinose-honami] (p.139–140) The “good person” test case — would you believe it if Ichinose were violent? — no one would.
+[rel:shinohara-satsuki] (p.140) “Some people like Shinohara-san” — the resentment list.
+[rel:wang-mei-yu] (p.140) “Wang-san” on the resentment list.
+[rel:hasebe-haruka] (p.140) “especially Hasebe-san must resent me” — the deepest resenter to watch.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

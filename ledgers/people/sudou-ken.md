@@ -1584,6 +1584,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:shinohara-satsuki] (p.95–96) Their relationship is awkward since Kushida's leak; he wants it to go well.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.179–183 — Ch.3: The bundle makers
+[mentioned] (p.179) “For the matter with Shinohara-san and the others, Hirata-kun took the lead and brought them all to Keyaki Mall on Sunday.” — Sudou and the rest worked to bring them together again.
+[mentioned] (p.183) “To be specific, it'll be a frontal attack. Sudou-kun and Onodera-san will make a bundle for us” — Horikita's stated strategy for the festival.
+[rel:hirata-yousuke] (p.179) Hirata led the Sunday Keyaki Mall summit.
+[rel:onodera-kayano] (p.183) “Sudou-kun and Onodera-san will make a bundle for us.”
+[rel:horikita-suzune] (p.183) Her stated strategy: a frontal attack.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

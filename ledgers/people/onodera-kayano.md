@@ -137,6 +137,14 @@ char_id: onodera-kayano · status: minor
 [rel:hirata-yousuke] (p.94) The fallback partner — but she'd rather not cause weird misunderstandings.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.179–183 — Ch.3: The bundle with Sudou
+[mentioned] (p.179) “For the matter with Shinohara-san and the others, Hirata-kun took the lead and brought them all to Keyaki Mall on Sunday.”
+[mentioned] (p.183) “To be specific, it'll be a frontal attack. Sudou-kun and Onodera-san will make a bundle for us” — Horikita's stated strategy.
+[rel:sudou-ken] (p.183) The doubles pact — aiming for first place at all costs.
+[rel:hirata-yousuke] (p.179) Hirata led the Sunday Keyaki Mall summit.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

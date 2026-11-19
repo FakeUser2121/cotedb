@@ -1727,6 +1727,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.85) No immediate solution for Kushida either.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.110–179 — Ch.3: Hirata — the fixer behind the peace
+[mentioned] (p.110) Horikita names him as too upfront, good-natured, virtuous for Kushida persuasion.
+[scene] (p.146–148) Wang POV — Wang loves him from afar; the only two-shot photo of her life; she doesn't even know how she fell for him; China, where academics are rigorous and competitive.
+[rel:wang-mei-yu] (p.146–161, 170–175) The unspoken crush — she sits in front of him; she went for the middle seat right before he did; she is back at school as of Monday — "M-morning, Hirata-kun."
+[mentioned] (p.155) Mii-chan tells AK: she followed his seat change; she understands Yousuke very well.
+[says:hirata-yousuke] (p.170) “Morning, Mii-chan!”
+[scene] (p.179) Horikita confirms: Hirata took the lead and brought them all — Shinohara and the others — to Keyaki Mall on Sunday; the bad-mouthing became water under the bridge; attendance reassured.
+[rel:shinohara-satsuki] (p.179) He led the peace summit on Sunday.
+[rel:ike-kanji] (p.179) Ike calmed Shinohara down at the summit.
+[rel:horikita-suzune] (p.110, 179) She names him unusable for Kushida — the good-guy image is wrong for Kushida's persuasion.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -1496,6 +1496,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ryuuen-kakeru] (p.98) His class is fumbling too.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.106–139 — Ch.3: Ichinose — the good-person benchmark
+[mentioned] (p.106) Chabashira: “even for Ryuuen, Sakayanagi, or Ichinose.”
+[mentioned] (p.120) Ibuki: “Not Kushida, not Hirata, not even Ichinose.” — no nice-guy image is real to her.
+[mentioned] (p.123) Ibuki: “if we’re ranking good people, then Ichinose’s probably above you.”
+[mentioned] (p.130) Ibuki: “Not Kushida, not Hirata, not even Ichinose”
+[scene] (p.139–140) The test case: if someone said Ichinose Honami-san was violent and wanted nothing but to crush enemies — would you believe it? Kushida: “She seems like a genuinely good person.” Ibuki doubts — “I have my doubts.”; Horikita: her class spent a year and a half being good.
+[rel:kushida-kikyou] (p.139) The good-person test case.
+[rel:ibuki-mio] (p.120, 123, 130) “Not even Ichinose.”
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

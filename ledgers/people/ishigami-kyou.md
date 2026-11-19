@@ -21,6 +21,19 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [mentioned] (p.22) Keisei contacted AK over the weekend; the Airi topic was not broached.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.170–193 — Ch.3: Keisei — the cafe test
+[mentioned] (p.170–171) Monday — his hems and haws; he steels himself and calls out to Haruka; she glances at AK then quickly turns to her phone; a small beginning of repair.
+[rel:hasebe-haruka] (p.170–171) He tries to step toward her — the first step since the expulsion.
+[scene] (p.184–193) The cafe scene — Keisei listens calmly in silence; his honest confession at the end: “I don't think either of you, Horikita or Haruka, are wrong. It might seem unfair, but those are my honest thoughts. At the end of the day, so long as I survive it’s alright, that’s at the core of it.”; “The group is half broken now. But still, I will be useful to the class as myself. While I might not do well in the Sports Festival, in turn I will study more and more to contribute to the class. If I don’t… I wouldn’t be able to rule out the possibility that I’ll get thrown out.”
+[says:ishigami-kyou] (p.193) “I don’t think either of you, Horikita or Haruka, are wrong. It might seem unfair, but those are my honest thoughts. At the end of the day, so long as I survive it’s alright, that’s at the core of it.”
+[says:ishigami-kyou] (p.193) “That’s why I can’t understand Haruka’s feelings just now. But despite that, I don’t think I have the right to tell her to stop. Even if it ends up causing trouble for the class.”
+[says:ishigami-kyou] (p.193) “The group is half broken now. But still, I will be useful to the class as myself. While I might not do well in the Sports Festival, in turn I will study more and more to contribute to the class. If I don’t… I wouldn’t be able to rule out the possibility that I’ll get thrown out.”
+[rel:hasebe-haruka] (p.193) Her plan for revenge horrifies him; he still refuses to order her to stop; he will serve the class on his own terms.
+[rel:horikita-suzune] (p.193) His "half broken" group verdict — he stays with the class in his own way.
+[rel:miyake-akito] (p.171, 193) Akito escorts Haruka; Keisei follows to the cafe; the half-broken group.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

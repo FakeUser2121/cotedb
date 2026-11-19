@@ -1779,6 +1779,18 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.20) AK notes: Ryūen chose to challenge Sakayanagi in the end-of-year exam; it was natural for Ryūen to choose Class A and steal their points; Sakayanagi had nothing in it for her — possibly allied with Ichinose; the promise between Sakayanagi and Ryūen may also be a factor.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.106–191 — Ch.3: Ryuuen — the fear reference
+[mentioned] (p.106) Chabashira: “Uniting a class of nearly 40 people is no easy task, even for Ryuuen, Sakayanagi, or Ichinose.”
+[mentioned] (p.113–114) Horikita: “… if you were … expelled in the previous exam, Ryuuen’s class would have gained 100 points with no downsides by removing you.” — the sentence bridges the page break
+[mentioned] (p.124) Ibuki: “I kind of understand how Ryuuen feels.”
+[mentioned] (p.121) Horikita asks Ibuki: “So, do you think highly of Ryuuen-kun then? He doesn't pretend to be good… or rather, considering what he's like inside, he isn't a good person.”
+[mentioned] (p.183) “Considering Ryuuen, it wouldn’t be weird if he was aiming to feign an accident during the competition, injure someone and have them removed due to that.”
+[mentioned] (p.191) “It’s as if we’re like Ryuuen’s class. Throwing away people without any abilities?” — Haruka.
+[rel:ibuki-mio] (p.113, 121, 124) She understands his methods; he is the gulf between classes.
+[rel:ichinose-honami] (p.106) Cited as a leader benchmark by Chabashira.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -137,6 +137,16 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:shinohara-satsuki] (p.73) The Shinohara situation's brief was already given by Matsushita.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.147–179 — Ch.3: The couple list — patched
+[mentioned] (p.147) Wang POV — Matsushita-san is among the hurting ones she asks AK about.
+[mentioned] (p.155) Mii-chan's hurt list: “Shinohara-san, Matsushita-san, and Hasebe-san.”
+[mentioned] (p.174) Kushida's apology: “Shinohara-san, Matsushita-san and the others, I’m sorry I bothered you too. Looks like you’ve managed to patch things up.”
+[mentioned] (p.179) The patched group — Keyaki Mall summit — water under the bridge; Kei and Matsushita are both in the couple-making-fun crowd Shinohara had cut off.
+[rel:shinohara-satsuki] (p.174) Kushida apologizes to her.
+[rel:ike-kanji] (p.179) His girlfriend — the couple at the center.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

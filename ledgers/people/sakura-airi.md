@@ -1066,6 +1066,17 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.85, 87) The closest friend expelled; the wound that powers the Haruka/Keisei/Autho thread.
 
 <!-- walk: y2v6 Ch.2 → p.100 -->
+
+### y2v6 p.104–193 — Ch.3: Airi — the frame of everything
+[mentioned] (p.104) Horikita to Chabashira: “We gained class points by forcing Sakura-san to drop out. Was it really the right thing to do?”
+[scene] (p.146–148) Wang POV — Airi's farewell to Hasebe was kind and harsh; Wang pressed the Support button anyway and hates herself for it.
+[mentioned] (p.159–161) The meeting — the three alternate sharing wounds; Airi is the one Ayanokōji named without hesitation.
+[mentioned] (p.189–193) Haruka: “Give Airi back.” — “I wanted to tell you today: I will make you regret expelling Airi.” — “The decision from that time was wrong.”
+[rel:hasebe-haruka] (p.189–193) Haruka's revenge declaration is aimed at Horikita and AK — “Give Airi back.”
+[rel:wang-mei-yu] (p.146–148) Wang pressed the Support button for her — hates herself.
+[rel:horikita-suzune] (p.104) “Forcing Sakura-san to drop out.”
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

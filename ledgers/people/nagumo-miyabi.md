@@ -545,6 +545,12 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-suzune] (p.48–50) Sent for AK through Yagami and her; she relays it with advice not to anger him.
 
 <!-- walk: y2v6 Ch.1 → p.63 -->
+
+### y2v6 p.180–184 — Ch.3: Nagumo's acceptance relay
+[mentioned] (p.180) AK's week: “Oh yeah. I want you to send a message to Student Council President Nagumo.” — Horikita: “Just tell him that I accept his proposal.” — AK: “Alright. I'll be going to the student council room after this, so I'll tell him what you just told me.” — his Sports Festival duel (five Nagumo-specified competitions, one head-to-head win to settle everything) is now officially on.
+[note] (p.180) The week's elapsed Nagumo ultimatum — one week is about to expire — he must at least reply; he has told no one about the five-competition condition.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

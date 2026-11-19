@@ -1119,6 +1119,93 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [trait] (p.243–275) Obsessed with settling their rivalry — sprints up exhausted before the 100m, loses by the same narrow margin as last year, beats Horikita in the long jump by 2cm (5.81m), then misses the balance-beam registration (a default loss); badgers Horikita until she begs ("Pl…ease… fight… me!!"), then joins her volleyball team purely to crush Amasawa — her competitive fire and inability to let go are both endearing and exhausting.
 [rel:horikita-suzune] (p.243–275) Her rival — they're 1–1 after the long jump, and she refuses to let the score stand; Horikita notes she has no friends but agrees to team up.
 [rel:amasawa-ichika] (p.273–275) She wants to beat the "piece of shit brat" first-year — joins Horikita's volleyball team for that chance.
+
+### y2v6 p.112–125 — Ch.3: She gets roped in — the scam, the meter, the door (Horikita's POV)
+[scene] (p.112–119) Ibuki corners Horikita at the elevator — “This! This message, what does it mean? Answer me!” — AK's secret strategy message (“If you get expelled because of something that has nothing to do with me… You wouldn't be such an idiot, right?”) which Ibuki cannot decode; Horikita explains: he was giving her a secret strategy to avoid expulsion — if she were expelled, Ryūen's class would gain 100 points with no downsides by removing her; if she had to be expelled, it would be better during an exam with a penalty; Horikita asks for Ibuki's help; Ibuki stalls over the bus-stop signals; the negotiation ends with a promise: Horikita will fight her in three competitions of Ibuki's choice at the Sports Festival, best of three.
+[says:ibuki-mio] (p.112) “Don’t ignore me!”
+[says:ibuki-mio] (p.112) “This! This message, what does it mean? Answer me!”
+[says:ibuki-mio] (p.112) “Fine! Here!”
+[says:ibuki-mio] (p.112) “Don’t toot your own horn! More importantly, what part of this screams intelligence?”
+[says:ibuki-mio] (p.113) “HUH? ‘If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me. You wouldn’t be such an idiot, right?’… Just how is this intelligent? No, forget it, just tell me what it means!”
+[says:ibuki-mio] (p.113) “Not at all. I thought about it all week, and I still don’t. What, is that a problem?’”
+[says:ibuki-mio] (p.113) “Haa? What does that mean? Explain it, so I can understand.”
+[says:ibuki-mio] (p.113) “Don’t tell me… You were worried about me?”
+[says:ibuki-mio] (p.114) “I don’t feel like getting into an elevator with you.”
+[says:ibuki-mio] (p.114) “I don’t want to right now.”
+[says:ibuki-mio] (p.115) “Wh, why are you here!?”
+[says:ibuki-mio] (p.115) “I said so, didn’t I!? You trying to piss me off?”
+[says:ibuki-mio] (p.115) “What is it!’”
+[says:ibuki-mio] (p.116) “How many times do I need to tell you that I’m not getting on?”
+[says:ibuki-mio] (p.116) “… What is with you?”
+[says:ibuki-mio] (p.116) “HAAAHH? For you? No, no way I’m taking on something like that.”
+[says:ibuki-mio] (p.116) “You dragged me on!”
+[says:ibuki-mio] (p.116) “Uh, that doesn’t make any sense.”
+[says:ibuki-mio] (p.116) “Don’t keep going on your own! Just having to give you advice hurts me though?”
+[says:ibuki-mio] (p.117) “That’s because you’re keeping it from closing by pressing the button outside!”
+[says:ibuki-mio] (p.117) “… What does that have to do with this?”
+[says:ibuki-mio] (p.117) “───nu”
+[says:ibuki-mio] (p.117) “No, umm, what was it? I can’t really think of anything, strawberries, something like that?”
+[says:ibuki-mio] (p.117) “YOU’RE the one one asked! More importantly, enough already, let go of the button.”
+[says:ibuki-mio] (p.117) “And? You can just go by yourself?”
+[says:ibuki-mio] (p.118) “Huh? Wait, why do I have to do this?”
+[says:ibuki-mio] (p.118) “Don’t care. I don’t even help my own classmates, so there’s no way I can help your class?”
+[says:ibuki-mio] (p.118) “Don’t need it. If you think I will work for money you are badly mistaken.”
+[says:ibuki-mio] (p.118) “… I don’t think there’s anything like that, though?”
+[says:ibuki-mio] (p.119) “… if I help you, you will let me fight you?”
+[says:ibuki-mio] (p.119) “Ha. Isn’t that interesting. But I won’t be satisfied with just one. At the very least, three. If we have a best of three, I’ll help you.”
+[says:ibuki-mio] (p.119) “I won’t give up otherwise.”
+[says:ibuki-mio] (p.119) “Done. You can’t back out now.”
+[says:ibuki-mio] (p.120) “Can you tell me clearly what the goal is?”
+[says:ibuki-mio] (p.120) “Sounds easy enough. Wait, why is Kushida taking a break from school a big deal, anyway? Couldn’t she just be unwell? Everyone has days like those.”
+[says:ibuki-mio] (p.120) “Nothing. But I don’t believe that anyone is that nice of a person. Not Kushida, not Hirata, not even Ichinose. I think anyone who puts on a ‘I’m a nice guy!’ image is guaranteed to have a dark side underneath.”
+[says:ibuki-mio] (p.121) “I hate that more. And on that topic, I’m also beginning to dislike people who seem harmless, like Ayanokouji. Those pieces of shit piss me off!”
+[says:ibuki-mio] (p.121) “So, Kushida is holed up at home, and I just need to drag her out?”
+[says:ibuki-mio] (p.121) “Just shut up and watch.”
+[says:ibuki-mio] (p.121) “…… Ah, it hurts, it HURTS!”
+[says:ibuki-mio] (p.122) “M-my stomach suddenly started to hurt… I… I can’t make it to my room…!”
+[says:ibuki-mio] (p.122) “To…Toilet, let me use your toilet!”
+[says:ibuki-mio] (p.122) “First of all, I am very sure she is in her room.”
+[says:ibuki-mio] (p.122) “Really? If that performance didn’t work, that Kushida is a real piece of work.”
+[says:ibuki-mio] (p.123) “That’s the kind of thing a burglar would know…”
+[says:ibuki-mio] (p.123) “We’ve been going about this the wrong way.”
+[says:ibuki-mio] (p.123) “Hey, Kushida. I’ve heard all about you. The fact that you were deceiving everyone till now was revealed during the exam, was it?”
+[says:ibuki-mio] (p.123) “Sure serves you right! How does it feel to lose your position as the most popular up until now? Well, if we’re ranking good people, then Ichinose’s probably above you. How’s it feel falling from second?”
+[says:ibuki-mio] (p.124) “Come on, show me your unsightly face!”
+[says:ibuki-mio] (p.124) “I’ve got a lot of pent up stress ‘cause of Horikita just now. I can’t help wanting to vent it.”
+[scene] (p.125–145) She bangs the door with her foot — Kushida opens the door; insults fly — “You’re more of an idiot than I imagined, Ibuki-san” — OAA gap, Kushida's stats crush hers; she blurts “Just shut up and watch” — then the doubles pact inside the room: betrayal, appearance vs reality, Ichinose as a test case — she sticks to the deal; she leaves calling them both stupid — “… You look fucking stupid so I’m going home.”
+[says:ibuki-mio] (p.125) “Ngh… y-you haven’t even been to my room, how would you know?”
+[says:ibuki-mio] (p.127) “Oi.”
+[says:ibuki-mio] (p.128) “You sure think a lot of yourself…”
+[says:ibuki-mio] (p.128) “I don’t think so either. I don’t think your abilities are all that great. Wanna throw down?”
+[says:ibuki-mio] (p.130) “Huh? That ain’t normal. Don’t get carried away just because your stats on the OAA are a bit good.”
+[says:ibuki-mio] (p.130) “So you admit that you’re abnormal?”
+[says:ibuki-mio] (p.130) “You make me sick.”
+[says:ibuki-mio] (p.130) “What are you gonna do?”
+[says:ibuki-mio] (p.130) “No plan, huh? A big difference from Ayanokouji-kun.”
+[says:ibuki-mio] (p.133) “Bear at least that much. You’re already a high schooler, you know? You can’t even just walk over to the classroom? Don’t just lie on the ground throwing a tantrum—c’mon, get up and walk.”
+[says:ibuki-mio] (p.136) “What’d you call me!”
+[says:ibuki-mio] (p.136) “Oh, sure. Then I’m leaving. I take it you’ll keep that promise?”
+[says:ibuki-mio] (p.136) “Huuuuh? You’re kiddi… Argh, fine, I’m gonna shut up so finish this quickly.”
+[says:ibuki-mio] (p.138) “…”
+[says:ibuki-mio] (p.138) “Weren’t you the one who told me to shut up?”
+[says:ibuki-mio] (p.138) “On god… Telling me to shut up, telling me to speak—I’m not your henchman or anything, you know?”
+[says:ibuki-mio] (p.138) “Argh, fine!”
+[says:ibuki-mio] (p.138) “You were overacting as the goody two shoes until now. I don’t believe in anybody being perfect, and, in fact, how you used to be is way more shady to me. If I had to trust either the old you or the new you, maybe I’d pick the new you because you’re more honest this way.”
+[says:ibuki-mio] (p.138) “I agree, she isn’t normal.”
+[says:ibuki-mio] (p.139) “I have my doubts,”
+[says:ibuki-mio] (p.140) “Well… Sure, maybe it’s hard to understand something without experiencing it for yourself. I only heard about Kushida from what you said, and didn’t actually get that feeling myself.”
+[says:ibuki-mio] (p.140) “That thing about not understanding until you experience it, you might be right on that. Even in martial arts, someone could explain a move to you and warn you that it’s dangerous, but you won’t really feel it. But when it hits you for real, then you truly know how powerful it is.”
+[says:ibuki-mio] (p.145) “… You guys gonna keep this up until you’ve ripped each other apart? You look fucking stupid so I’m going home.”
+[trait] (p.112–145) Loud, crude, secretly lonely — expelled-energy; the only one who can be real inside Kushida's room; her own words betray her softness (“strawberries”) and her disgust with fake people (“I don’t believe in anybody being perfect”); she negotiated a three-match best-of-three Sports Festival promise with Horikita.
+[rel:horikita-suzune] (p.112–145) She is the pry-bar for Kushida's door — Horikita promised to fight her in three competitions of her choice; she resents-befriends Horikita; “Argh, fine!”
+[rel:kushida-kikyou] (p.112–145) She drags Kushida out by crude force — Kushida opens the door for her; the OAA gap shocks her; both loud, both real underneath.
+[rel:ayanokouji-kiyotaka] (p.113–124) His secret message detonates; Ibuki realizes she was bait — “he made a plan that used it against me.”
+[rel:ryuuen-kakeru] (p.124) She says she kind of understands how Ryuuen feels about kicking doors.
+[rel:hirata-yousuke] (p.120) “not Hirata” — the nice-guy image is fake in her eyes.
+[rel:ichinose-honami] (p.120, 139) “Not even Ichinose” — no nice-guy image is real.
+[note] (p.121) The corpus prints a mixed glyph for “What is it!’” — kept as printed.
+
+<!-- walk: y2v6 Ch.3 → p.193 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->
