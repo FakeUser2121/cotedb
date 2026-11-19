@@ -1506,6 +1506,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.153–160, 184) Chabashira was blackmailed (via the 100,000-point rule) into working as a maid for the festival's final hour; red-faced, she became the café's biggest attraction (63 photos, "surpassing Kushida"), and "ran out of the classroom like a rabbit as soon as 4 o'clock came" — the "cosplay" is credited by the class for their 1st-place win ("I guess Chabashira-sensei's cosplay really struck!").
 [rel:ayanokouji-kiyotaka] (p.153–156) He paid to rent her as a maid — "using the school rules" against her.
 [rel:horikita-suzune] (p.184) She handled the festival debrief; Chabashira's "cosplay" became a class joke.
+### y2v7 p.54–55 — The teachers' gossip about her change
+[mentioned] (p.54–55) In the staff-corridor teachers' gossip: “Chabashira-sensei has changed recently.” / “She's become more chirpy, or rather, she seems to be laughing more often.” — Mashima, her schoolmate, is asked about it; he asks Ayanokōji what happened at the unanimous special exam; he withdraws the question.
+[note] (p.55) The change the teachers gossip about was triggered by the unanimous voting special exam — she came out of her shell.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

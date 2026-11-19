@@ -387,10 +387,38 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — mashima-tomonari mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.54-57, p.175-176, p.181-182.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.54–57 — The corridor gossip; Mashima's chat
+[scene] (p.54) After school, Ayanokōji passes the special-building corridor — the teacher in charge of 2nd year Class A and teachers for the other grades, standing around in the corridor talking; the unusual sight attracted his gaze; the gossip is about Chabashira's change.
+[note] (p.55) “Chabashira-sensei has changed recently.” / “She's become more chirpy, or rather, she seems to be laughing more often.” / “Mashima-sensei, you and Chabashira-sensei were schoolmates, weren't you? Well, I'd like to ask you a few questions...” — the overheard teachers' conversation.
+[says] (p.55) “Ayanokōji, what are you doing here in the special building?” — Mashima notices his presence and interrupts.
+[says:ayanokouji-kiyotaka] (p.55) “I have a short meeting. There are some things I want to talk about that I don't want to be accidentally overheard.” — the teachers, with the exception of Mashima-sensei, look somewhat dismayed and walk away.
+[says:ayanokouji-kiyotaka] (p.55) “Mashima-sensei, perfect timing. I would like to ask you a few questions.” — Ayanokōji takes the opportunity.
+[says] (p.55) “Me? What do you want to ask me?” — Mashima stays.
+[says:ayanokouji-kiyotaka] (p.55) “This is in respect of rules that are not explicitly stated in the festival” — although he looked slightly skeptical, Mashima immediately faced him head-on as a teacher.
+[says] (p.56) “I don't know what you want to ask, but shouldn't you first check with your homeroom teacher, Chabashira-sensei?” — Mashima; he doesn't hesitate to ask this to ensure that the underlying assumption is correct.
+[says:ayanokouji-kiyotaka] (p.56) “Sometimes, depending on the occasion, it is more expedient not to approach Chabashira-sensei.” — Ayanokōji.
+[says] (p.56) “Teachers are supposed to be fair to all pupils. But still, when it comes to other classes in the same grade, it doesn't mean that there won't be any problems at all. I hope you realise that.” — Mashima.
+[says:ayanokouji-kiyotaka] (p.56) “I judge that Mashima-sensei isn't the kind of person who would fail a student.” — Ayanokōji.
+[says] (p.56) “If that's what you think, then let's not go any further.” — Mashima; tone of “ask what you want if you're going to trust me.”
+[says] (p.56) “So what is it that you want to know regarding unstated rules?” — Mashima, giving his permission to ask.
+[says] (p.56) “Surely you're right. It isn't impossible to exercise it, if necessary.” — Mashima's confirmation of the unstated-rule premise.
+[says:ayanokouji-kiyotaka] (p.56) “I knew it.” — Ayanokōji.
+[says] (p.56) “However, it begs the question if it is efficient. As you know, if it were between pupils, no problems would arise. No, it would be precisely to have their own discussions so that they don't arise. You know what I mean, don't you?” — Mashima.
+[says:ayanokouji-kiyotaka] (p.56) “Yes. I thought it was something that didn't need to be specified in the rules and could be done independently.” — Ayanokōji.
+[says] (p.56) “Yes. Of course the risks will be different for each, but for whatever reason we will look at that option.” — Mashima.
+[says:ayanokouji-kiyotaka] (p.56) “I suppose it's only natural to be prepared for contingencies.” — Ayanokōji.
+[says] (p.56) “Whether you exercise it or not - or...? Well, it certainly wouldn't hurt to understand.” — Mashima; he may have had a vague idea of the sales strategy based on what was said.
+[says:ayanokouji-kiyotaka] (p.57) “It was good to get confirmation. Thank you.” — Ayanokōji.
+[says] (p.57) “It's no problem.” — Mashima.
+[says] (p.57) “Ayanokōji, you heard a little of what Chabashira-sensei said… What happened at the unanimous special exam?” — Mashima stops him; Mashima and Chabashira were schoolmates in the same year.
+[says:ayanokouji-kiyotaka] (p.57) “You haven't heard? Not from Chabashira-sensei?” — Ayanokōji.
+[says] (p.57) “With or without the expulsions, she started to look forward and smile. In other words, there was an influential event in that special exam that changed her mind, right?” — Mashima.
+[says] (p.57) “That wasn't the right thing to ask a pupil. Please forget I asked such a thing.” — Mashima.
+[says:ayanokouji-kiyotaka] (p.57) “I understand. Excuse me.” — Ayanokōji; he leaves for the special wing.
+[trait] (p.54–57) A teacher who tells what can and cannot be exercised under the school's unstated rules; he gives Ayanokōji the permission without endorsing it.
+[rel:chabashira-sae] (p.55–57) He is her schoolmate; asks about her change; withdraws the question.
+[rel:ayanokouji-kiyotaka] (p.54–57) He confirms the unstated-rule path — the future 100,000-point maid hiring was vetted here.
+<!-- walk: y2v7 Ch.2 → p.71 -->
 
 ## y2v8
 

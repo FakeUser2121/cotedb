@@ -520,6 +520,15 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:wang-mei-yu] (p.26) Mii-chan is drawn into the circle too.
 [rel:ayanokouji-kiyotaka] (p.26) She gives him a “gaze” of hurt and jealousy — remembered from the morning with Kei.
 
+### y2v7 p.54 — The pivot to Kei's plan
+[scene] (p.54) After school, Satō — still in the classroom; Kei switches to her after being declined by Ayanokōji; she accepts with a smile; invites Shinohara and other girls to join; they leave together.
+[note] (p.54) “You're not going with Ayanokōji-kun?” / “Come on, come on, don't say that. See?” — printed untagged (one is Satō's, one is Kei's); not assigned.
+[note] (p.54) “Satō rushed in, but didn't show any disapproval at all, but rather accepted Kei's proposal with a smile. She then invited a few other girls to join her and happily left the classroom. Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — the narration.
+[rel:karuizawa-kei] (p.54) Kei's quick switch lands on her; she takes it with a smile.
+[rel:shinohara-satsuki] (p.54) She invites Shinohara to join the walk home.
+[rel:ayanokouji-kiyotaka] (p.54) She leaves with the girls instead of him.
+<!-- walk: y2v7 Ch.2 → p.71 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

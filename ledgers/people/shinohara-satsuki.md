@@ -420,6 +420,12 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:satou-maya] (p.26) She is the friend Shinohara is drawn toward.
 [rel:karuizawa-kei] (p.26) She is part of the pair whose warmth pulls Shinohara in.
 
+### y2v7 p.54 — Joins Kei and Satō
+[mentioned] (p.54) “Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — invited by Satō; the circle's newest member after their recent fight.
+[rel:satou-maya] (p.54) She is the one who invites her.
+[rel:karuizawa-kei] (p.54) Shinohara and Kei have a new chapter after fighting.
+<!-- walk: y2v7 Ch.2 → p.71 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

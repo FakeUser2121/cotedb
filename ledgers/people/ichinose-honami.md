@@ -1891,6 +1891,10 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.32) She bows and averts her eyes; an old, polite distance.
 [rel:nagumo-miyabi] (p.38) Kanzaki says Nagumo's plan concentrates points on her — “Concentrating private points on Ichinose is what we've been doing.”
 
+### y2v7 p.57–71 — Discussed; never present
+[mentioned] (p.57–71) Kanzaki and Ayanokōji discuss her in the special wing — she cannot reach Class A under her “protect everyone” policy; she never really listens to dissent; concentrating points on her is the planned move ("Concentrating private points on Ichinose is what we've been doing"); she does not appear on-page until Ch.3+.
+[rel:kanzaki-ryuuji] (p.57–71) He comes to Ayanokōji for advice on her; envious of nothing but sees she can't win.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

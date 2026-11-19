@@ -1889,6 +1889,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.51–52) Nagumo plays her as the card to sway Ayanokōji — “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?” — Ayanokōji's answer: “It doesn't matter who it is.” — “If she disappears, she's gone, and that's all there is to it.” — Nagumo appears genuinely shaken: “You have loose screws.”
 [rel:nagumo-miyabi] (p.51–52) She is the card Nagumo plays; it fails.
 
+### y2v7 p.54 — Snubbed; the Shinohara pivot
+[scene] (p.54) After school; Kei asks Ayanokōji to come home; he declines — “Sorry, I've got plans later today.”; she switches to Satō without flinching; invites Shinohara too; they walk off together.
+[says] (p.54) “Hey, Kiyotaka. Come home with me.” — Kei asks him to come home.
+[says:ayanokouji-kiyotaka] (p.54) “Sorry, I've got plans later today.” — Ayanokōji declines.
+[says] (p.54) “Oh, really? I see....... Well then, Maya-chan, go home with me!” — after a quick switchover, Kei turned to Satō, who was still in the classroom.
+[note] (p.54) “You're not going with Ayanokōji-kun?” / “Come on, come on, don't say that. See?” — printed untagged (one is Satō's, one is Kei's); not assigned.
+[note] (p.54) “Satō rushed in, but didn't show any disapproval at all, but rather accepted Kei's proposal with a smile. She then invited a few other girls to join her and happily left the classroom. Among them is Shinohara, who not so long ago had a rough relationship with Kei.” — the narration.
+[note] (p.54) “After getting closer to Satō, Kei seemed to have grown even more mature than before.” — the narration.
+[rel:satou-maya] (p.54) Satō goes home with her with a smile; their closest friendship anchors her growth.
+[rel:shinohara-satsuki] (p.54) She invites Shinohara, who recently had a rough relationship with Kei.
+[rel:ayanokouji-kiyotaka] (p.54) He declines; she doesn't miss a beat.
+<!-- walk: y2v7 Ch.2 → p.71 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->
