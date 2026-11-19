@@ -1825,12 +1825,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
 
+
 ### y2v3 p.234 — Ichinose named by Sakayanagi
 [mentioned] (p.234) “Ichinose-san and Shibata-kun are putting forth their best efforts for my sake, so I truly can’t ask for much more than that.” — named as Sakayanagi's working group; not present; POV Ayanokōji.
 [mentioned] (p.219) “That doormat Ichinose aside, I don’t think Sakayanagi’ll choose to lend a hand so easily.” — named by Ryūen; not present; same scene.
 [mentioned] (p.219) “If you run into Ichinose, can you tell her the plan as well?” — named by Ayanokōji; not present; same scene.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
+
 
 ### y2v3 p.331–334 — The broken watch; the walk back
 [scene] (p.331) 7:00 AM day 7; her watch died in a morning fall (GPS and heart-rate monitor dead); the group is in the southwest of E6; her resolve to return to the starting area and fix/replace it; guilt; Shibata joins her without a second thought.
@@ -1854,6 +1856,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.334) “I just need to walk in a straight line. I’ll be fine.”
 [says:shibata-sou] (p.334) “…Alright, but please don’t do anything foolish. If it starts raining, don’t try to force it, just wait until it stops, okay?”
 [says] (p.334) “Yep, I definitely won’t overdo it. After all, it’d be no laughing matter if I got injured and was made to retire because of it.”
+
 
 ### y2v3 p.334–342 — The forest; the noise; Tsukishiro and Shiba
 [scene] (p.334–338) Lost; the dead tablet; the faint noise; two figures — Tsukishiro and Shiba (Class 1-D homeroom); she trails them; the overheard plot to force Ayanokōji–kun's expulsion; the recognition of her own expulsion risk; his head snaps around; the run; the root; the grab.
@@ -1895,6 +1898,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says:tsukishiro] (p.345) “Are you really that worried? I thought I gave her a rather effective warning.”
 [says:tsukishiro] (p.345) “Regardless of her relationship with Ayanokōji-kun, the elimination of a formidable enemy like him would be great for Class C. She herself will also come to terms with that as time passes, so let’s just stay calm and see what happens, shall we?”
 
+
 ### y2v3 p.346–355 — Tsukishiro's smile; her class's doom
 [scene] (p.346) A raindrop lands on his cheek; his 99% certainty; “If everything goes according to plan, Ayanokōji-kun’s Emergency Alert should go off any time now.”; she vanishes into the tree line; his unwavering conviction.
 [says:tsukishiro] (p.346) “I was 99% certain that Nanase-san would fail, but it seems that she’s finally taken action. If everything goes according to plan, Ayanokōji-kun’s Emergency Alert should go off any time now.”
@@ -1902,6 +1906,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:sakayanagi-arisu] (p.336–338) The thing Sakayanagi wanted; the conspiracy now visible to her.
 
 <!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.357–358 — Ichinose named at the harbor (SS)
+[mentioned] (p.357) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.” — named by Sakayanagi; not present; POV Sakayanagi.
+[mentioned] (p.358) “I’m glad to say I’m still being recognised for that as it wasn’t my intention to retire after all.” — named by Sakayanagi as her ongoing reward; not present; POV Sakayanagi.
+[mentioned] (p.358) “The fact Nanase-san isn’t by him now means there was an empty spot for the girls’ side.” — her absent accompanier; Nanase, not Ichinose; same scene; recorded for Ichinose's file as same-class rival mention.
+
+<!-- walk: y2v3 Afterword → p.368 -->
 
 ## y2v4
 

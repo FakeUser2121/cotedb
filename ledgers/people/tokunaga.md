@@ -13,3 +13,10 @@ char_id: tokunaga · class: unknown · status: unknown
 [scene] (p.125–126) A third-year girl with an identical B+ Physical Ability rating; wins her last two matches decisively; the final is a proper showdown — even start, then Nanase's stronger pull; her smile bitter; the handshake offered to the victor two years her junior.
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
+
+### y2v3 p.366 — Tokunaga's vice-loss to Nanase (SS)
+[scene] (p.366) In the SS account, her consoling handshake after the final; her own admission of being beaten; she watches the first-year disappear; hands off the water bottle.
+[says] (p.366) “What a terrifying 1st year. It’s my loss.”
+[says] (p.366) “You know about me?”
+
+<!-- walk: y2v3 Afterword → p.368 -->

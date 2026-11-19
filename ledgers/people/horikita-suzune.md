@@ -5037,6 +5037,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.47) “There don’t seem to be any second-year groups in a hurry or anything. Well, it’s not a very good idea to compete for this first designated area anyway. Even if they rushed to try and catch up, they’d still be over 10 minutes behind the first-years in the lead. Closing a gap like that would use up a lot of stamina, don’t you think?”
 [trait] (p.44–47) Leagues ahead of a year ago; owns her solo position — solitary girls face real strain (water, night, toilets); she takes his ironic concern in stride; regards point averaging and six-member bonuses as reasons to merge early; politely deflects his advice on solo travel.
 [rel:ayanokouji-kiyotaka] (p.44–47) Their pre-exam exchange; Tables differ (his D7, hers F9); she deflects his solo-travel warning; he worries about her expulsion math (Kushida contract, his unpaid loan to protect Kei).
+
 ### y2v3 p.48–52 — Kōenji’s promise; Ishizaki’s sprint; Ibuki’s visit; the hat
 [scene] (p.48) Kōenji strides past grinning — she and AK wonder whether he’ll take the exam seriously; it’s a coin flip on her bet; her leadership of the class makes a Kōenji betrayal costlier.
 [says] (p.48) “Kōenji… Do you really think that guy will take this special exam seriously?”
@@ -5058,24 +5059,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.48–52) Their last exchange before the exam; she keeps their Tables separate; he watches her walk off.
 
 <!-- walk: y2v3 Ch.2 → p.52 -->
+
 ### y2v3 p.100–103 — Horikita named at the fire
 [mentioned] (p.101) “Well, it is true that you’ve always been devoted to Horikita. But like, what the hell happened then?” — named (by Hondō, to Sudō) as the object of Sudō's known devotion; not present; POV Ayanokōji.
 [mentioned] (p.101) “If Horikita were here, she probably would’ve said the same thing.” — named in narration on Sudō's distrust of Nanase; not present; POV Ayanokōji.
 [mentioned] (p.103) “Reading the room had never been one of Sudō’s strong points. From the look of it, however, he had gradually picked up on how to pay attention to his surroundings and notice the subtle nuances of a situation. This was probably yet another byproduct of Horikita’s teachings over the last year.” — named in narration; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.3 → p.109 -->
+
 ### y2v3 p.239 — Horikita named by Sakayanagi
 [mentioned] (p.239) “I’ll leave it to you to decide on a messenger then. Whether it be Horikita-san or Ryūen-kun, it’s of no concern to me.” — named as a potential messenger; not present; POV Ayanokōji.
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
-### y2v3 p.363–364 — Short story: "A Brief Farewell" — leaving Ayanokōji at the starting line
-[scene] (p.363) From her own POV, tells Ayanokōji she's leaving as she adjusts her sun hat, he staying at the starting line having seen her off.
-[narrates] (p.363) "Well then, I'll be leaving."
-[narrates] (p.363) "…no need to worry, huh?"
-[narrates] (p.364) "As if… I guess that wasn't like me."
-[narrates] (p.364) "First priority is to fight in the best way only I knew possible"
-[trait] (p.363–364) Reflects she needn't worry about him — having watched him up close all year, always calm, always finding the right answer and winning; acknowledges his flaws (needing to reveal some ability, poor communication) but that he shields them using others; realizes she wants to become someone who can "cover his back, a partner he could rely on," but that mimicking his style is useless — her priority is to fight her own way on the island.
-[rel:ayanokouji-kiyotaka] (p.363–364) She wants to become someone who can stand shoulder-to-shoulder with him and cover his back — a feeling she can't quite name.
+
+### y2v3 p.363–364 — Horikita POV SS: “A Brief Farewell”
+[scene] (p.363–364) POV Horikita Suzune; the farewell at the starting line; her POV on his strength; her aspiration — partner; she steps forward into the island alone; her resolve.
+[says] (p.363) “Well then, I’ll be leaving.”
+[note] (p.363–364) Her attention sweep: “he never panicked and remained calm no matter what. He was a person who would always find the right answer and win regardless of the situation he was in.” — her interior assessment of him; quoted for her file.
+[trait] (p.363–364) Her resolve to fight in the best way she knows; admiration, not jealousy; partner-shaped ambition.
+[rel:ayanokouji-kiyotaka] (p.363–364) Her gauge of him completely remade overnight.
+
+<!-- walk: y2v3 Afterword → p.368 -->
 
 ## y2v4
 

@@ -157,6 +157,11 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v3 Ch.4 → p.163 -->
 
+### y2v3 p.367 — Kiriyama named in the Tapestry SS
+[mentioned] (p.367) “Ayanokouji-senpai seems to be talking to Kiriyama-senpai” — named as speaking with Ayanokouji on the beach; not present; POV Nanase.
+
+<!-- walk: y2v3 Afterword → p.368 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

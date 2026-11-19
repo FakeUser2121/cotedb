@@ -283,6 +283,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v3 Ch.6 → p.259 -->
 
+
 ### y2v3 p.331–334 — Shibata walks Ichinose back
 [scene] (p.331–334) The walk back with Ichinose; her watch broken; he volunteers to stick with her; she insists he return to the front; he consents with the rain warning.
 [says] (p.331) “Ichinose, is it really broken?”
@@ -302,6 +303,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [says:ichinose-honami] (p.334) “Yep, I definitely won’t overdo it. After all, it’d be no laughing matter if I got injured and was made to retire because of it.”
 
 <!-- walk: y2v3 Epilogue → p.355 -->
+
+### y2v3 p.357 — Shibata named at the harbor (SS)
+[mentioned] (p.357) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.” — named by Sakayanagi; not present; POV Sakayanagi.
+
+<!-- walk: y2v3 Afterword → p.368 -->
 
 ## y2v4
 
