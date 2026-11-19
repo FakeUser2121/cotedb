@@ -123,6 +123,12 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.121 — Tsubaki mentioned in passing
+[mentioned] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.” — Nanase names her as the coordinator.
+[mentioned] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya. But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.” — Nanase.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 
 
 ### y2v4 p.127–139, 152–185 — Tsubaki's siege plan; its failure

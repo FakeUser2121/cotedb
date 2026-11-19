@@ -170,17 +170,22 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-
-<!-- walk: y2v4 Ch.2 → p.59 -->
-
 ### y2v4 p.15, 47 — Hōsen mentioned in passing
 [mentioned] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?” — Amasawa needles Nanase about her own alliance.
 [mentioned] (p.47) “You have your other group member, Hōsen, to watch out for as well.” — Ayanokōji warns Nanase.
 
+<!-- walk: y2v4 Ch.1 → p.50 -->
 
 ### y2v4 p.53 — Hōsen mentioned in passing
 [mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase asks Ayanokōji about finding both group members.
-<!-- walk: y2v4 Ch.1 → p.50 -->
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+
+### y2v4 p.120–122 — Ch.4: The feigning cooperator
+[mentioned] (p.120) “Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.” — Nanase leaks to Ayanokōji; Housen pretended to cooperate with the first-years to get close to her and never intended to deliver.
+[mentioned] (p.121) Her information: around the ninth day an errand boy from one of the first-year groups showed up with a walkie-talkie and asked for Hōsen's help again — he wants to force Ayanokōji-senpai to withdraw at the end of the exam, and to hunt down and remove seniors performing alone. Specifics will come on the day; Housen holds the walkie-talkie but has no intention of cooperating.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 
 
 
@@ -195,6 +200,7 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:nanase-tsubasa] (p.168) His classmate; her warning was secretly Ayanokōji's tip-off.
 [rel:ishizaki-daichi] (p.177) Restrains him from behind; part of the 3-on-1 trap.
 [rel:yamada-albert] (p.177) Restrains his dominant arm — a man stronger than Ryūen himself.
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

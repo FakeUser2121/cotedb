@@ -593,16 +593,29 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4 Ch.2 → p.59 -->
 
-### y2v4 p.120–122 — Nanase's midnight warning about the day-12 plot
+### y2v4 p.120–122 — Ch.4: 2:30 a.m.; Nanase's warning
+[scene] (p.120) In the middle of the night she slips to his tent — she was working with Hōsen all day; she came straight to him with the leak.
 [says] (p.120) “It's me, Nanase.”
 [says] (p.120) “I'm fine; I was in I9 like you. In fact, I even saw you from afar at night, but since I was working with Housen-kun, so I decided to avoid contact.”
-[says] (p.120) “Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.”
+[says] (p.120) “There is something I need to tell you as soon as possible ...Today... well, the date has already changed, so it was yesterday to be exact, but Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.”
+[says:ayanokouji-kiyotaka] (p.120) “A great play? It sure isn't the only thing.”
+[says] (p.120) “No, no, let me tell you in order.”
+[note] (p.121) She explains: around the ninth day an errand boy from one of the first-year groups showed up with a walkie-talkie and asked for Hōsen's help again — he wants to force Ayanokōji-senpai to withdraw at the exam's end, and to hunt down and remove seniors performing alone. Specifics would be communicated on the day; Hōsen holds the walkie-talkie but has no intention of cooperating — he's pretending to go along.
+[says:ayanokouji-kiyotaka] (p.121) “Who is in charge?”
 [says] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.”
-[says] (p.122) “Yes, I'll let you know if there is more important news.”
-[trait] (p.120–122) Risks sneaking to his tent at 2:30 a.m., terrified, to pass on intelligence — the first-years (led by Tsubaki via walkie-talkie) plan to force his withdrawal on day twelve; explains the errand-boy contact and Hōsen's feigned cooperation; agrees to keep him informed but is told to stop helping him.
-[rel:ayanokouji-kiyotaka] (p.120–122) Warns him of the plot at personal risk; he sends her away so she won't be exposed.
-[rel:housen-kazuomi] (p.120–121) Only pretending to cooperate with the first-years; Hōsen told her about the day-12 plan.
-[rel:tsubaki-sakurako] (p.121) The main contact on the walkie-talkie.
+[says:ayanokouji-kiyotaka] (p.121) “She didn't seem like the type that has long been outdoors.”
+[says] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya. But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.”
+[says:ayanokouji-kiyotaka] (p.122) “Oh no, thanks for that, but that's enough for this uninhabited island exam. If you see a freshman moving around, you don't have to come tell me, and you don't have to help me.”
+[says] (p.122) “Nevertheless...”
+[says:ayanokouji-kiyotaka] (p.122) “Nanase, you have given me enough information. Now you must do what you have to do as one of the group of Housen and Amasawa.”
+[says] (p.122) “If Ayanokouji senpai says so, I understand ...”
+[trait] (p.120–122) She risks her cover at 2:30 a.m. to pass the leak; she knows Hōsen pretends to cooperate; she reports whatever she hears; he cuts her loose so she can protect her cover.
+[rel:ayanokouji-kiyotaka] (p.120–122) Her leak is his edge; he sends her away so she stays an operative.
+[rel:housen-kazuomi] (p.120–121) Pretending to cooperate; holds the walkie-talkie.
+[rel:tsubaki-sakurako] (p.121) The main person on the walkie-talkie.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

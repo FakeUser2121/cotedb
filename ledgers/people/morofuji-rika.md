@@ -83,13 +83,17 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.116 — Morofuji mentioned in passing
-[scene] (p.116) Named in the context of the group discussion.
-[note] (p.116) Passing mention; not a distinct scene presence.
-[mentioned] (p.116) Passing mention only.
+### y2v4 p.116–125 — Ch.4: The merged group at the sunset
+[scene] (p.116) She and her Class 2-B groupmates (Isoyama Nagisa, Shiina Hiyori) merge with Ishizaki Daichi's group (Takeko Nishino, Hitomi Tsutsube) at J10; Hiyori does the talking; the group watches the sea at sunset; she camps at I9 with them; walks with them on the twelfth day.
+[note] (p.116–125) No dialogue printed for her; her presence is the merger's silent half.
+[trait] (p.116–125) One of the six members; takes the merger without complaint; parts ways with Ayanokōji on the twelfth-day route walk.
+[rel:shiina-hiyori] (p.116–125) Her groupmate.
+[rel:isoyama-nagisa] (p.116–125) Her groupmate.
+[rel:ishizaki-daichi] (p.116–125) The merged group's leader.
+[rel:nishino-takeko] (p.116–125) Her merged groupmate.
+[rel:tsube-hitomi] (p.116–125) Her merged groupmate.
 
-<!-- walk: y2v4 Ch.4 → p.116 -->
-
+<!-- walk: y2v4 Ch.4 → p.125 -->
 
 ## y2v5
 

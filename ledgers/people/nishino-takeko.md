@@ -67,15 +67,17 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.116–124 — Nishino mentioned in passing
-[scene] (p.116) Named in the context of the group discussion.
-[scene] (p.119) Named in the context of the Hōsen confrontation.
-[scene] (p.123–124) Named in the context of the battle.
-[note] (p.116–124) Passing mentions; not a distinct scene presence.
-[mentioned] (p.116–124) Passing mention only.
+### y2v4 p.116–125 — Ch.4: The merged group; the sharp-tongued gatekeeper
+[scene] (p.116) She and her group merge; the six of them watch the sea at sunset; she punches Ishizaki for the couple-theory and walks with them on the twelfth day.
+[says] (p.124) “You're thinking about it a lot.”
+[says] (p.124) “I do not think so at all. You are the one who is so obsessed with Ayanokouji-kun.”
+[says] (p.124) “I don't think you are on the same wavelength. I don't think anyone is on the same wavelength as you.”
+[trait] (p.116–125) The group's razor tongue — knows Ishizaki's crushes are ridiculous; protects Ayanokōji from Ishizaki's couple-scheme with a straight face and a punch.
+[rel:ishizaki-daichi] (p.116–125) Her group leader; she swats him down.
+[rel:shiina-hiyori] (p.116–125) Her Class 2-B counterpart.
+[rel:tsube-hitomi] (p.116–125) Her merged groupmate.
 
-<!-- walk: y2v4 Ch.4 → p.124 -->
-
+<!-- walk: y2v4 Ch.4 → p.125 -->
 
 ## y2v4.5
 

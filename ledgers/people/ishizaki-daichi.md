@@ -713,14 +713,29 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.116–125 — Ishizaki in the Hōsen confrontation
-[scene] (p.116) Named in the context of the group discussion.
-[scene] (p.118–119) Named in the context of the Hōsen confrontation.
-[scene] (p.123–125) Named in the context of the battle.
-[note] (p.116–125) Passing mentions; Ishizaki is present in these scenes.
-[mentioned] (p.116–125) Passing mention only.
+### y2v4 p.116–125 — Ch.4: The merged group; the J10 gatekeeper
+[scene] (p.116) He and his group (Nishino Takeko, Tsutsube Hitomi) merge with Hiyori's Class 2-B group at J10; the merged group watches the sea; he calls Ayanokōji over; he smiles happily when finally noticed; he camps at I9 with them; walks with them on the twelfth day.
+[says] (p.119) “Hey, Ayanokouji!”
+[says] (p.119) “What the hell? Don't get in my way.”
+[says] (p.119) “Do not…”
+[says] (p.119) “No. Good point? I'd say you just can't read the air.”
+[says] (p.119) “Sorry to interrupt.”
+[says] (p.119) “Anyway, you don't have any more tests today, and you were planning to camp near I9, right?”
+[says] (p.124) “They are very close. Don't they?”
+[says] (p.124) “Why don't they go out? They can be couples and that's how Ayanokoji comes to our class, right?”
+[says] (p.124) “Ouch, that hurts. If you want to put Ayanokouji in your class, don't you think it's necessary?”
+[says] (p.124) “Well, what can I say? ... We are on the same wavelength.”
+[says] (p.124) “What do you mean?”
+[says] (p.125) “Oh yeah! I don't know what it is, but I don't feel bad about being praised!”
+[says] (p.125) “That's all for now, Ayanokouji. See you later.”
+[trait] (p.116–125) Cheerful and socially fearless — calls him over mid-sea-watch, proposes his I9 camp, invites him to be a couple for his class, and cannot read the air; his merged group feels safe enough that Ayanokōji almost believes their comfort is genuine.
+[rel:ayanokouji-kiyotaka] (p.116–125) He is delighted to see him; invites him to camp and to join his class.
+[rel:shiina-hiyori] (p.116–125) His assigned merger partner; she steers the group.
+[rel:nishino-takeko] (p.116–125) His groupmate; they trade barbs.
+[rel:tsube-hitomi] (p.116–125) His groupmate from the other class.
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

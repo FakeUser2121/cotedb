@@ -40,11 +40,17 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.48, 121 — Takahashi mentioned in passing
+### y2v4 p.48 — Takahashi in the printed top-ten
 [mentioned] (p.48) “8th Place: First-Year Group Takahashi – 115 Points” — the printed top-ten.
-[mentioned] (p.121) The first-years’ day-12 play is being discussed — Takahashi’s involvement is suspected. Named on p.121 only.
 
 <!-- walk: y2v4 Ch.1 → p.50 -->
+
+### y2v4 p.121 — Takahashi mentioned in passing
+[mentioned] (p.121) “Housen was summoned by Takahashi, Yagami, Tsubaki, and Utomiya...” — Nanase's report.
+[mentioned] (p.121) “There is also the possibility that someone like Yagami or Takahashi is pulling the strings behind the scenes.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

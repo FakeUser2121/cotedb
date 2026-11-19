@@ -169,6 +169,113 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [mentioned] (p.48) “3rd Place: Third-Year Group Kiriyama – 150 Points” — the printed top-ten.
 
 <!-- walk: y2v4 Ch.1 → p.50 -->
+
+### y2v4 p.95–99 — Ch.4: The plan against Kouenji
+[scene] (p.95) On the tenth day after the test ended, Ikuto Kiriyama, third year of Class B, closes his eyes once after a walkie-talkie call — Kouenji sits atop the podium with 230 points to Nagumo’s 236, six points apart, and Kiriyama, Nagumo’s right hand, quietly closes his eyes at the news.
+[says] (p.95) “Kiriyama. Don’t you think Nagumo's answer is a step backwards? If so, you would have been in a position to take the lead by starting of the second part of the test.” — Mikitani.
+[says] (p.95) “All I could think was: ‘Don't get carried away just because you're wealthy.’”
+[says] (p.96) “The main reason why Kouenji has not been appreciated is that he doesn’t have a sincere attitude towards things.”
+[says] (p.96) “I don't know what happened, but Kouenji has literally gone all out in this special survey of the uninhabited island.”
+[says] (p.96) “If left unchecked, Kouenji will definitely finish the exam in the top three places. In some cases, it wouldn’t even be possible for me to reach Nagumo. Losing to a group from the younger years was a problem, but losing to a loner would be a disgrace for the third year.”
+[says] (p.97) “The six groups that I have in custody. I am mobilizing them all”.
+[says] (p.97) “The only threat is Kouenji, and other than that, there is plenty of time to go after destroying him. We will be able to see the results until the end of the 12th. In two days starting tomorrow, we will fully contain Kouenji. Once Kouenji loses his momentum, he won't be able to surface again.”
+[says] (p.97) “I don't think you have to worry about that anymore. Nagumo's fears are unfounded.”
+[says] (p.97) “An invisible ghost grabbed me by the shoulders, I am not surprised.” — no, this is Mikitani's line? Let me check: Mikitani said “An invisible ghost...”? No — Kiriyama says this. The speaker of “An invisible ghost grabbed me by the shoulders, I am not surprised.” is Kiriyama.
+[says] (p.98) “Do you want me to put you in charge?” — Mikitani.
+[says] (p.98) “Unlike you, who have decided to win, I have to earn Nagumo's reputation.”
+[says] (p.98) “But you also have to get second place, right? Don't waste your time on unnecessary things.” — Mikitani.
+[says] (p.98) “There is no one who can stop Kouenji except Nagumo and me. That is the end of the story.”
+[trait] (p.95–99) Calm strategist for Nagumo — sees Kouenji as the only real obstacle, plans an encirclement with six “Free Groups” (Nagumo’s 15 reserved three-person groups, two teams each free to act), and takes direct command personally to earn Nagumo’s reputation rather than “win” by his own count.
+[rel:mikitani] (p.95–99) His Class B subordinate; groans at the six-group plan.
+[rel:nagumo-miyabi] (p.95–99) Nagumo handed him the Free Groups; Kiriyama acts as his eyes.
+[rel:kouenji-rokusuke] (p.95–99) The obstacle: 230 vs 236; two days to contain him.
+
+### y2v4 p.100–102 — Ch.4: The morning siege; the departure
+[scene] (p.100) Six free groups plus Kiriyama’s group surround Kouenji’s tent at 6:30; he sleeps on through the approach; they decide to settle in at his departure — never within two meters — and GPS is declared fallible (not teacher-proof).
+[says:mikitani] (p.100) “Hey, why don't we go around him and block him before he leaves the tent? If we make it impossible for him to leave the tent, Kouenji won't be able to move.”
+[says] (p.100) “If we interfere with his departure, we can delay the time it takes to reach the designated area. But what would your excuse be if a third party saw the situation? If you are going to interfere, you must refrain from doing something that can be easily recognized.”
+[says] (p.100) “Why don't you do a GPS search? Anyway, there are a lot of points to spend. ”
+[says] (p.100) “Our tablets don't know where the teachers are. Do not forget that the search is not absolute. As originally planned, we'll be settling in when Kouenji clears the tent and starts moving. If you come across a freshman or sophomore, or an adult on your way to set a task, immediately open a distance of at least two meters from Kouenji.”
+[says:mikitani] (p.101) “It's on the move, it's Kouenji!”
+[says] (p.101) “Go.”
+[says] (p.101) “Can you give me some time, Kouenji?” — the third-years call out; not Kiriyama alone.
+[says] (p.101) “I didn't expect you to do so well in this special exam.”
+[says] (p.101) “You know what I mean, Kouenji. You've got too many points.”
+[says] (p.101) “I want you to stay where you are the rest of the day.”
+[says] (p.102) “Then you don't have to worry about me, right?” — Kouenji.
+[says] (p.102) “It is a matter of precaution. Also, it is difficult for a third year student to accept the fact that he is competing for the highest position with you, a lonely student.”
+[trait] (p.100–102) The plan is passive — surround, isolate, never touch; he trusts discipline over confrontation; the 7:00 designated-zone timing is his weapon; Kouenji bolts the moment the zone is revealed.
+[rel:kouenji-rokusuke] (p.100–102) His siege is intimidation, never contact; Kouenji flees the moment the zone appears.
+[rel:mikitani] (p.100–102) His hothead; restrains him twice.
+
+### y2v4 p.103–106 — Ch.4: The sleep revelation; the circle spreads
+[scene] (p.103) Six hours into the chase, Kouenji is found asleep in broad daylight by the E3 task site; Kiriyama’s first doubt arrives when the REM hypersomnia claim reaches him.
+[says:mikitani] (p.103) “Get up, Kouenji! You've been running for more than 10 days, so you took a nap from exhaustion, right?”
+[says:kouenji-rokusuke] (p.103) “I'm sure you will agree. I am a human being like you. ”
+[says:mikitani] (p.104) “If that's the case, then go ahead and take the rest of the day off. You must be exhausted from all this. You must listen to the kind advice of your elders.”
+[says:kouenji-rokusuke] (p.104) “Take the day off? That's kind of funny.”
+[says:mikitani] (p.104) “Don't… make an effort. If you could get rid of fatigue just with a little rest, no one would have a problem.”
+[says] (p.104) “You certainly look good. But like Mikitani said, you've run for the last 10 days or so with more energy than anyone. There's no question about it, since you've probably repeatedly ranked first in the order of arrival. But even if you have extraordinary stamina, you should have reached your limit by now.”
+[says:kouenji-rokusuke] (p.105) “I have a very short dream. I have an extremely low REM phase.”
+[says] (p.105) “The ideal average daily sleep time for a human being is about seven to eight hours. It is said that the ideal amount of sleep is between seven and eight hours a day, because more or less is not enough to maintain good health. However, those who sleep little are those who are predisposed to maintaining good health, even if they sleep less than six hours. ”
+[says] (p.105) “It seemed strange to me to sleep in peace, but I suppose that is what there is ...”
+[says:kouenji-rokusuke] (p.105) “By the way, do you still need me?”
+[says] (p.105) “I don't care if you are physically strong or not, shut up ...”
+[says] (p.105) “I'm not here at all, don't worry about us.”
+[says:kouenji-rokusuke] (p.105) “You seem quite belligerent when you say that.”
+[says:kouenji-rokusuke] (p.106) “I'm not one to accept advice, Kiriyama.”
+[says] (p.106) “It's useless, I'll change my strategy. We will seal the matter.”
+[trait] (p.103–106) The REM claim breaks the math he ran on Kouenji — he still cannot believe a loner can sustain this; orders the circle expanded for the third-designated-zone window; first impatience arises.
+[rel:kouenji-rokusuke] (p.103–106) His REM secret now terrifies Kiriyama; he drops persuasion for containment.
+
+### y2v4 p.106–110 — Ch.4: The circle strategy
+[scene] (p.106) The third-designated zone is announced; Kouenji walks off mid-threat; Kiriyama orders the 18-person circle spread wide; the E3 English task is one-person and 8 points; Dodo Michimichi takes first, Kouenji second with four points; the circle quietly fails to stop him even once.
+[says] (p.106) “I'm the one in charge now. Don't interrupt the circle, Mikitani.”
+[says:mikitani] (p.107) “Kouenji! Don't be so harsh!”
+[says:kouenji-rokusuke] (p.107) “Well, well, they're getting noisy. So, let me pick up the pace a bit.”
+[says:mikitani] (p.107) “Shut! I won't let him get away twice! Catch him and drag him!”
+[says] (p.107) “Do not lose sight that the target is Kouenji.”
+[says] (p.108) “There is a task at E3 that Kouenji can participate in. But the reward is 8 points for first place or ...”
+[says] (p.109) “This is your last warning, Kouenji.”
+[says] (p.109) “Only tomorrow. Take our advice and stay put. That's it.”
+[says] (p.109) “If we can keep him at bay for a day, Nagumo will be able to escape with the safe first place. The important thing is not to let Kouenji take the top spot again.”
+[says] (p.110) “If we can keep him at bay for a day, Nagumo will be able to escape with the safe first place.”
+[trait] (p.106–110) Tactical flailing — the circle, the task-blocking, all failures; his pride as a third-year breaks; the teachers signal but the siege continues; he settles on two days of containment with Nagumo’s safe first as the prize.
+[rel:kouenji-rokusuke] (p.106–110) The E3 English task — Dodo first, Kouenji second with 4 points; the siege wins nothing.
+[rel:nagumo-miyabi] (p.109–110) Keep Kouenji contained two days; Nagumo’s safe first is the goal now.
+
+### y2v4 p.110–115 — Ch.4: The walk-through; the plan that failed
+[scene] (p.110) At the last designated zone, Kouenji is ordered to stay; Mikitani grabs him; he simply walks through the circle — Morooka breaks his arm on contact; Kouenji doesn’t even break stride.
+[says] (p.110) “I'm sure you heard us. I'm going to ask you to stay here tomorrow and the next day.”
+[says:kouenji-rokusuke] (p.110) “Are you asking me for a favor?”
+[says] (p.110) “No, it's an order.”
+[says:kouenji-rokusuke] (p.110) “It is a request that I cannot ignore, but what happens if I refuse?”
+[says] (p.110) “In the worst case, you will be expelled.”
+[says:kouenji-rokusuke] (p.110) “I don't obey anyone.”
+[says] (p.111) “Then I will make you obey me. You understand, Kouenji? Right…Kiriyama.” — Mikitani.
+[says] (p.110) “As long as Kouenji obeys, I will leave it up to you.”
+[says:kouenji-rokusuke] (p.111) “It is not a pretty situation. I don't like male sexuality.”
+[says:mikitani] (p.111) “What would you do? If you try to push me away, I will take it as a declaration of war.”
+[says:kouenji-rokusuke] (p.111) “Oh I see.”
+[note] (p.111) It was as if a large rock was slowly crashing into Mikitani, and before he knew it, he was forced to move to the side to give way.
+[says:morooka] (p.111) “What? I think I have broken my arm!” — Morooka (not rostered).
+[note] (p.112) “No matter what you say, it doesn't change the fact that you pushed Morooka away.” — printed untagged; Mikitani or Kiriyama; not assigned.
+[says:kouenji-rokusuke] (p.112) “I have no intention of showing mercy to those who prevent me from moving forward, much less turning against me.”
+[says:mikitani] (p.113) “… Ah. If that's the case, I'll go down with Kouenji in my arms. Let's do it!”
+[says:kouenji-rokusuke] (p.114) “It's not nice that you always follow me. It's not nice to have a dead leaf slapping my cheek over and over again.”
+[says] (p.114) “I see. It is true that the current Mikitani was prepared to go after you until the end. If he was shown such an overwhelming skill difference, his spirit would be broken. But you are the only one who can devise and perform the trick of breaking your opponent's heart without counterattacking.” — Kiriyama’s read of Kouenji.
+[says:kouenji-rokusuke] (p.114) “Even if I have to drop the reward for reaching the designated area, here I will nip the counterattack of third year students in the bud.”
+[says] (p.114) “I'll go then, if it's okay with you.”
+[says:kouenji-rokusuke] (p.115) “Now if you'll excuse me. Bye.”
+[says] (p.115) “Do what you want, Kouenji.”
+[says:mikitani] (p.115) “There is always someone who does not agree with your calculations. Like Nagumo.”
+[trait] (p.110–115) The siege fails completely — his own named plan collapses in 15 minutes of walking; Morooka’s arm is broken; Kiriyama’s final analysis is not panic: the design was deliberate — make Kouenji think the third-years are nothing, so he walks out feeling no threat; the “big is better than small” hint is his next lever.
+[rel:kouenji-rokusuke] (p.110–115) The containment plan collapses in 15 minutes; Kouenji walks out untouched.
+[rel:mikitani] (p.110–115) The spearhead breaks first.
+[rel:nagumo-miyabi] (p.109–115) His disappointment; Kiriyama’s counter-plot is revealed to himself — weaken Kouenji’s threat perception, not his score.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

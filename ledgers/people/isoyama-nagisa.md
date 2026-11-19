@@ -19,13 +19,17 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.116 — Isoyama mentioned in passing
-[scene] (p.116) Named in the context of the group discussion.
-[note] (p.116) Passing mention; not a distinct scene presence.
-[mentioned] (p.116) Passing mention only.
+### y2v4 p.116–125 — Ch.4: The merged group at the sunset
+[scene] (p.116) He and his Class 2-B groupmates (Morofuji Rika, Shiina Hiyori) merge with Ishizaki Daichi's group (Takeko Nishino, Hitomi Tsutsube) at J10; Hiyori does the talking; the group watches the sea at sunset; he camps at I9 with them; walks with them on the twelfth day.
+[note] (p.116–125) No dialogue printed for him; his presence is the merger's silent half.
+[trait] (p.116–125) One of the six members; takes the merger without complaint; parts ways with Ayanokōji on the twelfth-day route walk.
+[rel:shiina-hiyori] (p.116–125) His groupmate.
+[rel:morofuji-rika] (p.116–125) His groupmate.
+[rel:ishizaki-daichi] (p.116–125) The merged group's leader.
+[rel:nishino-takeko] (p.116–125) His merged groupmate.
+[rel:tsube-hitomi] (p.116–125) His merged groupmate.
 
-<!-- walk: y2v4 Ch.4 → p.116 -->
-
+<!-- walk: y2v4 Ch.4 → p.125 -->
 
 ## y2v10
 

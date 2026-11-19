@@ -83,11 +83,19 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.121 — Utomiya mentioned in passing
+[mentioned] (p.121) “Housen was summoned by Takahashi, Yagami, Tsubaki, and Utomiya...” — Nanase's report.
+[mentioned] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya.” — Nanase.
+[mentioned] (p.121) “But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.” — Nanase.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 ### y2v4 p.5–284 — Utomiya mentioned in passing
 [note] (p.5–284) Passing mentions; not a distinct scene presence.
 [mentioned] (p.5–284) Passing mention only.
 
 <!-- walk: y2v4 Ch.6 → p.284 -->
+
 
 
 ## y2v4.5

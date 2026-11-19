@@ -134,6 +134,12 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.121 — Yagami mentioned in passing
+[mentioned] (p.121) “Housen was summoned by Takahashi, Yagami, Tsubaki, and Utomiya...” — Nanase's report; the first-years' coalition behind the day-12 play.
+[mentioned] (p.121) “There is also the possibility that someone like Yagami or Takahashi is pulling the strings behind the scenes.” — Ayanokōji.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 ### y2v4 p.5–284 — Yagami mentioned in passing
 [note] (p.5–284) Passing mentions; not a distinct scene presence.
 [mentioned] (p.5–284) Passing mention only.

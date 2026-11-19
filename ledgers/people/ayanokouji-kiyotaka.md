@@ -8803,27 +8803,81 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4 Ch.3 → p.94 -->
 
-### y2v4 p.116–120 — Camping with Hiyori's expanded group
-[scene] (p.116) At J10 near sunset, encounters Hiyori's Class 2-B group merged with Ishizaki's (six members: Hiyori, Isoyama, Morofuji, Ishizaki, Nishino, Tsutsube).
+### y2v4 p.116–118 — Ch.4: The six-member group at the sunset
+[scene] (p.116) At J10 just before 5:00 p.m., he barely makes the last zone and spots the merged group — three girls from Class 2-B and three more from another sophomore group (Ishizaki Daichi, Takeko Nishino, Hitomi Tsutsube); only Hiyori notices him first and waves.
+[says:shiina-hiyori] (p.116) “What? Isn't it Ayanokouji-kun?”
 [says:shiina-hiyori] (p.116) “You look better than I thought.”
-[says] (p.116) “Everyone has worked very hard.”
+[says:shiina-hiyori] (p.116) “Everyone has worked very hard. We have expanded our group to a maximum of six people.”
+[says:shiina-hiyori] (p.118) “That's right. We have several priorities for the merger, and this is one of those groups.”
+[says:shiina-hiyori] (p.118) “Ayanokouji-kun, how do you feel?”
+[says] (p.118) “Yes. So far, so good.”
 [says:shiina-hiyori] (p.118) “I don't think there is anything to worry about, but you have to be careful.”
-[says:ishizaki-daichi] (p.118) “Nothing happens. That is one of the good things about you, Ishizaki-kun.”
-[trait] (p.116–120) Notices Hiyori doesn't ask his score — “convinced that they will not expel me”; observes the group's warm, balanced atmosphere (Hiyori the “brains,” Tsutsube well-integrated) and that Ryūen's class is “starting to change little by little”; accepts their invitation to camp near I9, struck by how comfortable it feels.
-[rel:shiina-hiyori] (p.116–118) Sits with her watching the sea; she trusts he won't be expelled and warns him to be careful.
-[rel:ishizaki-daichi] (p.118–120) He happily invites Ayanokōji to camp with them; the others readily agree.
-[note] (p.116) The Class 2-C girl is Hitomi Tsutsube (“Tsutsube”); she has integrated well into Ishizaki's group.
+[says] (p.118) “I know.”
+[says:shiina-hiyori] (p.118) “There are three days left.”
+[says] (p.118) “That's how it is.”
+[trait] (p.116–118) She doesn't ask his score — he reads her as convinced he won't be expelled; he sits with them watching the sea; their comfort feels strange and good; Ryūen's class is changing little by little.
+[rel:shiina-hiyori] (p.116–118) She waves at him; she checks on him; they merge effortlessly.
+[rel:ishizaki-daichi] (p.116) His side of the merged group waves from afar.
 
-### y2v4 p.120–122 — Nanase's midnight warning: the first-years' day-12 play
-[scene] (p.120) At 2:30 a.m., Nanase slips to his tent, terrified — she was in I9 and avoided contact because she was with Hōsen's group.
+### y2v4 p.119–120 — Ch.4: Ishizaki's invitation to I9
+[scene] (p.119) He watches the sea with them; Ishizaki finally notices him and beams; he grabs his shoulder and invites him to camp at I9; the rest of the group agrees on the spot.
+[says:ishizaki-daichi] (p.119) “Hey, Ayanokouji!”
+[says:ishizaki-daichi] (p.119) “What the hell? Don't get in my way.”
+[says:shiina-hiyori] (p.119) “What? It's not that Ayanokouji doesn't like it, right?”
+[says:ishizaki-daichi] (p.119) “Do not…”
+[says:shiina-hiyori] (p.119) “Nothing happens. That is one of the good things about you, Ishizaki-kun.”
+[says:ishizaki-daichi] (p.119) “No. Good point? I'd say you just can't read the air.”
+[says:shiina-hiyori] (p.119) “Well …… yes, that could be undeniable.”
+[says:ishizaki-daichi] (p.119) “Sorry to interrupt.”
+[says:ishizaki-daichi] (p.119) “Anyway, you don't have any more tests today, and you were planning to camp near I9, right?”
+[says:ishizaki-daichi] (p.119) “It's a great idea!”
+[says:shiina-hiyori] (p.119) “It's a great idea!”
+[says:shiina-hiyori] (p.120) “Isn't it good? Ayanokouji-kun seems quite harmless.”
+[trait] (p.119–120) The atmosphere draws him out — no one asks questions; for a moment he almost forgets this is a survival exam; Ichinose's class comfort leaks into Ryūen's class.
+[rel:ishizaki-daichi] (p.119–120) He invites him to I9 camping; the others readily agree.
+
+### y2v4 p.120–122 — Ch.4: 2:30 a.m.; Nanase's warning
+[scene] (p.120) During the night at I9, Nanase slips to his tent at 2:30 a.m., frightened — she was working with Hōsen all day; she came straight to him.
 [says:nanase-tsubasa] (p.120) “It's me, Nanase.”
-[says] (p.120) “There is something I need to tell you as soon as possible.”
-[says] (p.120) “Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.”
-[says] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.”
-[says] (p.122) “that's enough for this uninhabited island exam.”
-[inference] (p.120–122) Learns the first-years plan to force his withdrawal at the exam's end (day 12), targeting solo seniors; Hōsen was contacted via walkie-talkie by an errand boy and only pretending to cooperate, hasn't received details; suspects Tsubaki as intermediary (with Yagami/Takahashi possibly pulling strings); tells Nanase to stop helping him so she won't be exposed.
-[rel:nanase-tsubasa] (p.120–122) She risks coming at night to warn him about the day-12 plot; he sends her away for her own safety.
-[rel:housen-kazuomi] (p.120–121) Only feigning cooperation with the first-years' plot; received a walkie-talkie.
+[says:nanase-tsubasa] (p.120) “I'm fine; I was in I9 like you. In fact, I even saw you from afar at night, but since I was working with Housen-kun, so I decided to avoid contact.”
+[says:nanase-tsubasa] (p.120) “There is something I need to tell you as soon as possible ...Today... well, the date has already changed, so it was yesterday to be exact, but Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.”
+[says] (p.120) “A great play? It sure isn't the only thing.”
+[says:nanase-tsubasa] (p.120) “No, no, let me tell you in order.”
+[says:nanase-tsubasa] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.”
+[says] (p.121) “It's good that you told us the date and the details until the last moment.”
+[says] (p.121) “Oh no, thanks for that, but that's enough for this uninhabited island exam. If you see a freshman moving around, you don't have to come tell me, and you don't have to help me.”
+[says:nanase-tsubasa] (p.122) “Nevertheless...”
+[says] (p.122) “Nanase, you have given me enough information. Now you must do what you have to do as one of the group of Housen and Amasawa.”
+[says:nanase-tsubasa] (p.122) “If Ayanokouji senpai says so, I understand ...”
+[trait] (p.120–122) He deduces the first-years' day-12 plan: force his withdrawal at the exam's end; seniors alone targeted; Hōsen feigning cooperation; he cuts Nanase loose so she can protect her cover.
+[rel:nanase-tsubasa] (p.120–122) Her leak is his edge; he sends her away so she stays an operative.
+[rel:housen-kazuomi] (p.121) Feigning cooperation; holds the walkie-talkie.
+[rel:tsubaki-sakurako] (p.121) The intermediary named on the walkie-talkie.
+
+### y2v4 p.123–125 — Ch.4: The quiet morning; the empty leak
+[scene] (p.123) At 6:00 AM he checks GPS — nothing unusual among the first-years; he walks with Hiyori's merged group on the twelfth day; Hiyori confides she is scared; they part at the designated-area junction.
+[says:shiina-hiyori] (p.123) “Ayanokouji-kun, do you ever feel lonely being in the exam?”
+[says] (p.123) “Not especially. I feel more comfortable.”
+[says:shiina-hiyori] (p.123) “I think ...... It's a bit lonely and scary.”
+[says] (p.123) “Scared, huh? I can't imagine Hiyori being scared.”
+[says:shiina-hiyori] (p.123) “But I'm still pretty scared, you know. That is why I am sincerely impressed with Ayanokouji-kun.”
+[says:shiina-hiyori] (p.123) “Surely ... living on an uninhabited island alone is ... impossible for me.”
+[says:ishizaki-daichi] (p.124) “They are very close. Don't they?”
+[says:nishino-takeko] (p.124) “You're thinking about it a lot.”
+[says:nishino-takeko] (p.124) “I do not think so at all. You are the one who is so obsessed with Ayanokouji-kun.”
+[says:ishizaki-daichi] (p.124) “Well, what can I say? ... We are on the same wavelength.”
+[says:nishino-takeko] (p.124) “I don't think you are on the same wavelength. I don't think anyone is on the same wavelength as you.”
+[says:shiina-hiyori] (p.124) “That's not true. Ishizaki-kun has a determined look.”
+[says:shiina-hiyori] (p.124) “It is what it is. I can't answer any more questions.”
+[says] (p.125) “...So yes. In any case, it's good that Shiina-san praises you.”
+[says:ishizaki-daichi] (p.125) “Oh yeah! I don't know what it is, but I don't feel bad about being praised!”
+[says:ishizaki-daichi] (p.125) “That's all for now, Ayanokouji. See you later.”
+[says] (p.125) “Ah. There are only a few days left, so don't lose your temper.”
+[note] (p.125) The Nanase information produced no freshmen movements; either the information leak was pointed out or the plan was postponed; day thirteen will be hot too.
+[note] (p.125) After missing two random designated zones in a row, he is down to 16th place; the last day will decide everything.
+[rel:shiina-hiyori] (p.123–125) She confides she is scared; they part on good terms.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 
 ### y2v4 p.151–164 — Day 12: evading the first-year siege
 [scene] (p.151) On the twelfth day, uses GPS searches to see the first-years (Utomiya, Tsubaki, Yagami) converging; recognizes from Nanase's warning that today is the trap, with many Class 1-D groups around D4/E6.

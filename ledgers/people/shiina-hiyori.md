@@ -526,15 +526,66 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.116–120 — Hiyori's six-person group at sunset
+### y2v4 p.116–120 — Ch.4: The sunset circle; six members
+[scene] (p.116) Just before 5:00 p.m. at J10 he spots a group of three girls from 2nd-year Class B — Isoyama Nagisa, Morofuji Rika, Shiina Hiyori — plus three more from another sophomore group: Ishizaki Daichi, Takeko Nishino, and Hitomi Tsutsube (six people); only Hiyori notices him first and waves.
 [says] (p.116) “What? Isn't it Ayanokouji-kun?”
 [says] (p.116) “You look better than I thought.”
 [says] (p.116) “Everyone has worked very hard. We have expanded our group to a maximum of six people.”
+[says:ayanokouji-kiyotaka] (p.118) “Did you plan to join Ishizaki and the others from the beginning?”
+[says] (p.118) “That's right. We have several priorities for the merger, and this is one of those groups.”
+[says] (p.118) “Ayanokouji-kun, how do you feel?”
+[says:ayanokouji-kiyotaka] (p.118) “Yes. So far, so good.”
 [says] (p.118) “I don't think there is anything to worry about, but you have to be careful.”
+[says:ayanokouji-kiyotaka] (p.118) “I know.”
+[says] (p.118) “There are three days left.”
+[says:ayanokouji-kiyotaka] (p.118) “That's how it is."
+[says:ishizaki-daichi] (p.119) “Hey, Ayanokouji!”
+[says:ishizaki-daichi] (p.119) “What the hell? Don't get in my way.”
+[says] (p.119) “What? It's not that Ayanokouji doesn't like it, right?”
+[says:ishizaki-daichi] (p.119) “Do not…”
+[says] (p.119) “Nothing happens. That is one of the good things about you, Ishizaki-kun.”
+[says:ishizaki-daichi] (p.119) “No. Good point? I'd say you just can't read the air.”
+[says] (p.119) “Well …… yes, that could be undeniable.”
+[says:ishizaki-daichi] (p.119) “Sorry to interrupt.”
+[says:ishizaki-daichi] (p.119) “Anyway, you don't have any more tests today, and you were planning to camp near I9, right?”
 [says] (p.119) “It's a great idea!”
-[trait] (p.116–120) Notices Ayanokōji from afar and waves; merged her Class 2-B group with Ishizaki's to six members, providing the “brains” (though her physical capacity is low); doesn't ask his score — convinced he won't be expelled — and simply sits with him watching the sea; agrees he should camp with them.
-[rel:ayanokouji-kiyotaka] (p.116–118) Trusts he's safe; watches the sea with him and warns him to be careful.
-[rel:ishizaki-daichi] (p.116–119) Her group merged with his; she supports his invitation to Ayanokōji.
+[says] (p.120) “Isn't it good? Ayanokouji-kun seems quite harmless.”
+[trait] (p.116–120) Notices him first and waves; engineered the six-member merger with Ishizaki's group (her priorities list included the merger); doesn't ask his score — convinced he won't be expelled; sits with him watching the sea; proposes I9 camping when he can't camp at J10.
+[rel:ayanokouji-kiyotaka] (p.116–120) Trusts him completely; watches the sea together; invites him to walk with them.
+[rel:ishizaki-daichi] (p.116–120) Leader of his assigned partner group; she supports his invitation to Ayanokōji.
+[rel:nishino-takeko] (p.116–120) Her groupmate; they merged groups at the J10 site.
+[rel:tsube-hitomi] (p.116–120) The other-class member of their group; integrated well.
+[rel:isoyama-nagisa] (p.116–120) Her Class 2-B groupmate.
+[rel:morofuji-rika] (p.116–120) Her Class 2-B groupmate.
+
+### y2v4 p.123–125 — Ch.4: Her quiet question; the parting
+[scene] (p.123) Walking beside him on the twelfth day, she confides she is scared — living alone on an uninhabited island feels impossible to her; he is the example she studies.
+[says] (p.123) “Ayanokouji-kun, do you ever feel lonely being in the exam?”
+[says:ayanokouji-kiyotaka] (p.123) “Not especially. I feel more comfortable.”
+[says] (p.123) “I think ...... It's a bit lonely and scary.”
+[says:ayanokouji-kiyotaka] (p.123) “Scared, huh? I can't imagine Hiyori being scared.”
+[says] (p.123) “But I'm still pretty scared, you know. That is why I am sincerely impressed with Ayanokouji-kun.”
+[says] (p.123) “Surely ... living on an uninhabited island alone is ... impossible for me.”
+[says:ishizaki-daichi] (p.124) “They are very close. Don't they?”
+[says:ishizaki-daichi] (p.124) “Why don't they go out? They can be couples and that's how Ayanokoji comes to our class, right?”
+[says:nishino-takeko] (p.124) “You're thinking about it a lot.”
+[says] (p.124) “It's funny, isn't it, Ishizaki-kun?”
+[says:nishino-takeko] (p.124) “I do not think so at all. You are the one who is so obsessed with Ayanokouji-kun.”
+[says:ishizaki-daichi] (p.124) “Well, what can I say? ... We are on the same wavelength.”
+[says:nishino-takeko] (p.124) “I don't think you are on the same wavelength. I don't think anyone is on the same wavelength as you.”
+[says] (p.124) “That's not true. Ishizaki-kun has a determined look.”
+[says:ishizaki-daichi] (p.124) “What do you mean?”
+[says] (p.124) “It is what it is. I can't answer any more questions.”
+[says:ayanokouji-kiyotaka] (p.125) “...So yes. In any case, it's good that Shiina-san praises you.”
+[says:ishizaki-daichi] (p.125) “Oh yeah! I don't know what it is, but I don't feel bad about being praised!”
+[says:ishizaki-daichi] (p.125) “That's all for now, Ayanokouji. See you later.”
+[says:ayanokouji-kiyotaka] (p.125) “Ah. There are only a few days left, so don't lose your temper.”
+[trait] (p.123–125) Scared of the island, more impressed by Ayanokōji than she shows; deflects Ishizaki's couple-theory with light laughter; parts with him with warmth.
+[rel:ayanokouji-kiyotaka] (p.123–125) Her private benchmark; he keeps walking with her brother's-group pair down the path.
+[rel:ishizaki-daichi] (p.124–125) Laughs him off; she lets the couple-talk slide.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
