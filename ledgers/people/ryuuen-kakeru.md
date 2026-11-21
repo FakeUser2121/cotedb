@@ -3096,7 +3096,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.205) He never once appears on these pages; the whole chapter is anchored on his effect, his entourage, and Hiyori's worry.
 
 ### y2v10 p.102–120 — Ch.5: passing mentions (locator cross-check)
-[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
 [mentioned] (p.102) Passing mention — The future where I might lose to Ryūen in a direct showdown with a
 [mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
 
