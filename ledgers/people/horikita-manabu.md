@@ -1109,12 +1109,12 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — horikita-manabu mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4-8, p.17.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.4–8 — The shared surname, no print of his name
+[note] (p.4–8) Every locator hit on these pages is the surname printed for his sister; “Manabu” never appears in the volume.
+[note] (p.17) The credits page carries the proofreader's joke “Kushida (Kikyō) x Horikita (Suzune) x Ibuki (Mio)” — the same shared surname, naming Suzune.
+[mentioned] (p.4–8, 17) Zero genuine prints; no presence is claimed.
 
-<!-- walk: y2v9.75 Epilogue → p.17 -->
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 
 ## y2v10
 

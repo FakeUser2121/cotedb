@@ -59,3 +59,23 @@ place_id: keyaki-mall · location: ANHS Campus Commercial District · type: shop
 [rel:horikita-suzune] (p.122) Going there means Horikita must risk being seen outside with the bottle on her arm.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+## y2v9.75
+
+<!-- walk: y2v9.75 → start -->
+
+### y2v9.75 p.4 — New Year's reopening and the supermarket run
+[scene] (p.4) January 3rd: the mall comes back from its New Year break and three classmates converge on the supermarket at the same hour.
+[trivia] (p.4) The complex closes for two days over New Year and reopens on January 3rd; by a little past ten the supermarket is serving customers.
+[trivia] (p.4) The supermarket carries vegetables, meat, fish and a processed-food section, and ends at a ready-made food corner.
+[note] (p.4) The trip is a household restock, not a school errand — one student's refrigerator emptied over the holiday.
+[rel:ayanokouji-kiyotaka] (p.4) He walks in alone and leaves with two classmates.
+
+### y2v9.75 p.5–7 — The ready-made food corner
+[scene] (p.5) The ready-made food corner is where Ibuki is found and where, two pages later, Horikita unloads her basket back onto the shelves.
+[trivia] (p.5) The corner sits at the far end of the shopping route, after the vegetable, meat, fish and processed-food sections.
+[note] (p.5) Prices there are the scene's stated stake: one classmate is read as checking her point balance against the ready-made shelves.
+[note] (p.7) The shelf work happens in the open with no staff intervention recorded on the page.
+[rel:ibuki-mio] (p.5–7) She is shopping the corner for convenience food when the three find her.
+
+<!-- walk: y2v9.75 Epilogue → p.8 -->

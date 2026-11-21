@@ -393,13 +393,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — shibata-sou mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: none.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 pp.4–17 — Zero hits in the volume
+[note] (p.4–17) No page of the seventeen carries the name “Shibata”; the page locator returns 0 of 17 pages and 0 hit lines.
+[mentioned] (p.4–17) No print, no presence.
 
-
-<!-- walk: y2v9.75 Epilogue → p.17 -->
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 
 ## y2v10
 

@@ -6909,16 +6909,70 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.4–8 — Horikita at the supermarket and at her own place
-[scene] (p.4) Accepts Kushida's suggestion to shop together on impulse, walks into the supermarket with her; at the end of her shopping, she catches Ibuki in the ready-made food corner.
-[scene] (p.5–6) Stalks Ibuki's basket with Kushida; forces Ibuki to put the instant noodles and sweet bread back; in front of everyone, orders her body back into shape for their martial arts match someday.
-[scene] (p.7–8) Offers Ibuki lunch at her room; tells Kushida and Ayanokōji they may join; cooking lesson follows; the fire drill goes predictably.
-[says] (p.5) "Well, that might be a good idea."
-[says] (p.7) "You've been living on a similar diet during this winter break, haven't you? If you continue like this, you won't grow anything, you know."
-[says] (p.7) "You're free after this, right? Come to my room. I'll let you have lunch. I'll also teach you how to make some simple dishes."
-[rel:kushida-kikyou] (p.4–8) On the offense against Ibuki's diet.
-[rel:ibuki-mio] (p.6–8) Cleans up Ibuki's basket; assumes responsibility for her meal.
-[rel:ayanokouji-kiyotaka] (p.8) Mentions he'll accept; she has him watch her cook.
+### y2v9.75 p.4 — A greeting, then a proposal she takes up
+[scene] (p.4) She is on the same errand and tries to pass with a greeting; Kushida calls her back and proposes shopping together, and she stops to consider it instead of refusing.
+[says] (p.4) “Happy New Year.”
+[says:kushida-kikyou] (p.4) “Happy New Year. Are you also shopping, Horikita-san?”
+[says] (p.4) “And why would that matter?”
+[says:kushida-kikyou] (p.4) “It doesn’t particularly matter, but I thought it might be fun to go shopping with two classmates who happened to be together.”
+[note] (p.4) The narrator reads the acceptance as a challenge met rather than a courtesy: “If I had to choose a fitting phrase for the situation, it was as if she ‘took on the challenge.’”
+[says] (p.4) “Well, that might be a good idea.”
+[rel:kushida-kikyou] (p.4) She answers the needle by accepting it.
+[rel:ayanokouji-kiyotaka] (p.4) She joins the pair as a third.
+
+### y2v9.75 p.5 — The aisle talk and the read on Ibuki
+[scene] (p.5) She spars with Kushida over which of them is the sarcastic one, then reads Ibuki's mood and her budget before Ibuki has said a word on the page.
+[says] (p.5) “Doesn’t that pertain more to you? You went out of your way to invite me.”
+[says:kushida-kikyou] (p.5) “Is that so? I’m just curious to see a new side of the both of you.”
+[says] (p.5) “Being able to speak so nonchalantly about the truth is a talent.”
+[says] (p.5) “She seems upset. Maybe she's checking her private point balance while shopping.”
+[says] (p.5) “She's not the type to bother with that. She knows she needs to save money, but she's not managing it properly.”
+[says] (p.5) “You would understand if you watched her.”
+[feat] (p.5) She reads a classmate's money trouble from behaviour alone, and the explanation is plain observation — watching is enough.
+[trait] (p.5) She will not soften the read for the company: the diagnosis of Ibuki's finances is given in front of her friends.
+[rel:kushida-kikyou] (p.5) Two barbed compliments, no winner.
+[rel:ibuki-mio] (p.5) She is the one who names Ibuki's money problem first.
+
+### y2v9.75 p.6 — The basket emptied by hand
+[scene] (p.6) She needles Ibuki about the hidden basket, diagnoses the diet, then takes the rim of the basket and puts one item after another back on the shelf.
+[says] (p.6) “Can't you even say a New Year's greeting properly?”
+[says:ibuki-mio] (p.6) “I don't know. Besides, it's not like I wanted to see you at New Year's anyway.”
+[says] (p.6) “That's not the issue, but oh well...”
+[says] (p.6) “Did you buy something you don't want to be seen?”
+[says] (p.6) “I'm not surprised considering you're not one for cooking, but your diet is shockingly unhealthy to the point of concern.”
+[says] (p.6) “I think there is a problem though...”
+[says] (p.6) “Well... let's put this, and this, and this, and this, and this back.”
+[says:ibuki-mio] (p.6) “Hey, what are you doing without my permission!”
+[note] (p.6) The greeting scolding and the basket question carry no speaker tags in the print; the surrounding narration turns on what caught her attention, and Ibuki's answers bound the exchange — recorded as hers, with the tag gap kept in the volume's attribution list.
+[action] (p.6) She holds the basket's rim so it cannot be pulled away while she unloads it.
+[rel:ibuki-mio] (p.6) She takes the diet personally enough to empty the basket in public.
+
+### y2v9.75 p.7 — Nutrition as an argument, lunch as leverage
+[scene] (p.7) She turns the diet into a condition of their future match, offers to cook for Ibuki, prices the offer in private points when the refusal comes, and includes both onlookers without being asked.
+[says] (p.7) “You've been living on a similar diet during this winter break, haven't you? If you continue like this, you won't grow anything, you know.”
+[says:ibuki-mio] (p.7) “Don't just say whatever you want!”
+[says] (p.7) “I do want to settle things with you in a martial arts match someday. However, if you only take in imbalanced nutrition, you'll lose the muscles needed for sports. If you think you can beat me with that kind of thinking, you're naive.”
+[says:ibuki-mio] (p.7) “But, it can't be helped. I don't cook. Do you mean I should buy a bento box then?”
+[says] (p.7) “Supermarket bentos tend to have too many carbohydrates and fats. They wouldn't suit your body type.”
+[says:ibuki-mio] (p.7) “Then, what am I supposed to do?”
+[says] (p.7) “You're free after this, right? Come to my room. I'll let you have lunch. I'll also teach you how to make some simple dishes.”
+[says:ibuki-mio] (p.7) “Who would go to your room! Besides, I don't feel like eating!”
+[says] (p.7) “But it would save you money, right?”
+[says] (p.7) “If you want to save your private points, it's not a bad proposition, don't you think?”
+[says:kushida-kikyou] (p.7) “Then maybe I should have you make lunch for me too, Horikita-san.”
+[says] (p.7) “You're planning to come too?”
+[says] (p.7) “You have such twisted thinking. Well alright then, and how about you?”
+[says:ayanokouji-kiyotaka] (p.7) “Eh, me? Aren’t I unrelated here?”
+[says] (p.7) “Well, yes. But it doesn't make much difference if I make food for three or four anyways.”
+[tactic] (p.7) The invitation is argued rather than offered: muscle lost for the match she wants, bentos as bad nutrition, then private points as the closing argument.
+[rel:ibuki-mio] (p.7) She wins the invitation by finding the one cost Ibuki cannot refuse.
+[rel:kushida-kikyou] (p.7) She lets the self-invitation through.
+[rel:ayanokouji-kiyotaka] (p.7) She includes him without being asked.
+
+### y2v9.75 p.8 — Her room, that day
+[scene] (p.8) The four settle on her room that afternoon; the meal itself is left off the page with only its verdict.
+[note] (p.8) The closing sentence keeps her kitchen in view without narrating it: “Needless to say, it turned out to be an extremely difficult and tumultuous lunch party, filled with exhaustion.”
+[rel:ayanokouji-kiyotaka] (p.8) She cooks for him as one of four.
 
 <!-- walk: y2v9.75 Epilogue → p.8 -->
 ## y2v10

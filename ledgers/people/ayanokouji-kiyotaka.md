@@ -14825,13 +14825,82 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.4–8 — The supermarket trip with Kushida, Horikita and Ibuki
-[scene] (p.4) On January 3rd he heads to the supermarket alone; Kushida greets him and spots Horikita heading the same way; she ropes them into shopping together; all three put ingredients in their baskets.
-[scene] (p.5–6) They spot Ibuki sulking over the ready-made food; Kushida stalks behind her and peeks in her basket (instant ramen, sweet bread); Ibuki yells; Horikita grabs the basket and puts the ready-made items back.
-[scene] (p.7–8) Horikita declares war with Ibuki, offers to cook her lunch at her room after learning she doesn't cook; Kushida gets invited too; he accepts; the four go to Horikita's room; the lunch party is famously "extremely difficult and tumultuous."
-[rel:horikita-suzune] (p.4–8) She invites the three of them to lunch at her room; she cooks.
-[rel:kushida-kikyou] (p.4–8) She fishes him along with them.
-[rel:ibuki-mio] (p.5–8) Shares a ready-made-food-free lunch with him at Horikita's room.
+### y2v9.75 p.4 — The supermarket entrance: a trio he did not plan
+[scene] (p.4) January 3rd, a little past ten in the morning: he walks to the supermarket alone to restock a refrigerator emptied over the holiday and meets Kushida at the entrance just as Horikita passes on the same errand.
+[note] (p.4) The errand's cause is stated outright: “During the New Year holiday, I spent a lot of time in my room with Kei, consuming more food and drinks than we had anticipated.”
+[note] (p.4) The mall has just come back: “After taking a two-day break, Keyaki Mall was ready to resume its New Year's operation.”
+[says:kushida-kikyou] (p.4) “Good morning, Ayanokōji-kun. Happy New Year.”
+[says] (p.4) “Happy New Year. Are you also grocery shopping, Kushida?”
+[says:kushida-kikyou] (p.4) “Yes. You too Ayanokōji-kun? What a coincidence… Oh.”
+[says:horikita-suzune] (p.4) “And why would that matter?”
+[says:kushida-kikyou] (p.4) “It doesn’t particularly matter, but I thought it might be fun to go shopping with two classmates who happened to be together.”
+[note] (p.4) His own estimate of the proposal: “However, the chances of having fun with both Horikita and Kushida combined seemed close to zero.”
+[says:horikita-suzune] (p.4) “Well, that might be a good idea.”
+[note] (p.4) He reads her acceptance as a challenge taken up, and the three enter with baskets.
+[rel:kushida-kikyou] (p.4) She greets him first and assembles the group.
+[rel:horikita-suzune] (p.4) She stops for Kushida's proposal instead of walking past.
+
+### y2v9.75 p.5 — The aisles, and the girl at the ready-made corner
+[scene] (p.5) Vegetable, meat, fish, processed food: the three shop and talk about cooking, then spot Ibuki scowling at her phone in the ready-made food corner.
+[says:kushida-kikyou] (p.5) “You have quite the sarcastic personality, don’t you, Horikita-san?”
+[says:horikita-suzune] (p.5) “Doesn’t that pertain more to you? You went out of your way to invite me.”
+[says:kushida-kikyou] (p.5) “Is that so? I’m just curious to see a new side of the both of you.”
+[says:horikita-suzune] (p.5) “Being able to speak so nonchalantly about the truth is a talent.”
+[note] (p.5) His read on the exchange: “Even though it didn’t sound like a lie, I knew it was.”
+[says] (p.5) “By the way, do you cook, Kushida?”
+[says:kushida-kikyou] (p.5) “I can manage to some extent. We never know when our cooking skills might come in handy. Isn't it unquestionable that girls who can cook are more attractive in society?”
+[note] (p.5) The shopping is unremarkable on purpose: “As they idly chatted about various safe topics, each of them placed the ingredients and seasonings they needed or lacked into their baskets.”
+[says:kushida-kikyou] (p.5) “Is she looking up something?”
+[says:horikita-suzune] (p.5) “She seems upset. Maybe she's checking her private point balance while shopping.”
+[says] (p.5) “Or perhaps she’s comparing prices to see if it's cheaper to buy online?”
+[says:horikita-suzune] (p.5) “She's not the type to bother with that. She knows she needs to save money, but she's not managing it properly.”
+[note] (p.5) The online-price idea is his own recent acquisition: “I brought up the online shopping site that I recently learned about.”
+[says:kushida-kikyou] (p.5) “Wow, you know a lot. I don't think she told us anything like that.”
+[says:horikita-suzune] (p.5) “You would understand if you watched her.”
+[rel:kushida-kikyou] (p.5) He answers her cooking question plainly and lets her carry the talk.
+[rel:ibuki-mio] (p.5) He joins the watch on her from a distance before she notices them.
+
+### y2v9.75 p.6 — The basket
+[scene] (p.6) Ibuki hides her basket; Kushida circles behind her and reads its contents aloud; the swing that follows misses, and Horikita takes the basket's rim and begins putting items back.
+[note] (p.6) The approach is described from his side: “As I approached, she retreated slightly but kept her protective stance over her basket.”
+[says:ibuki-mio] (p.6) “I don't know. Besides, it's not like I wanted to see you at New Year's anyway.”
+[says:kushida-kikyou] (p.6) “Instant ramen, instant yakisoba, sweet bread, and processed foods. Lovely shopping you've done there.”
+[says:ibuki-mio] (p.6) “H-hey, stop peeking in there!”
+[note] (p.6) Kushida's dodge is prepared, not lucky: “Perhaps anticipating the retaliation, Kushida had already kept her distance.”
+[says:kushida-kikyou] (p.6) “It's dangerous to swing your basket around inside the store, you know?”
+[says:horikita-suzune] (p.6) “I'm not surprised considering you're not one for cooking, but your diet is shockingly unhealthy to the point of concern.”
+[says:ibuki-mio] (p.6) “Huh? Don't nitpick at my diet. Everything is fine because I'm taking supplements.”
+[says:horikita-suzune] (p.6) “Well... let's put this, and this, and this, and this, and this back.”
+[note] (p.6) The basket work is done by hand in the aisle, and he watches it rather than intervening.
+[rel:kushida-kikyou] (p.6) Her ambush from behind is the scene's turn.
+[rel:horikita-suzune] (p.6) She polices the basket herself.
+
+### y2v9.75 p.7 — The invitation, and his name in it
+[scene] (p.7) Horikita turns the diet scolding into a martial-arts argument and then into a lunch invitation; Ibuki stalls, the private-points argument lands, Kushida invites herself, and Horikita asks him too.
+[says:horikita-suzune] (p.7) “I do want to settle things with you in a martial arts match someday. However, if you only take in imbalanced nutrition, you'll lose the muscles needed for sports. If you think you can beat me with that kind of thinking, you're naive.”
+[note] (p.7) The nutrition line lands where she aimed: “Apparently, those words hit a sore spot for Ibuki.”
+[says:ibuki-mio] (p.7) “But, it can't be helped. I don't cook. Do you mean I should buy a bento box then?”
+[says:horikita-suzune] (p.7) “Supermarket bentos tend to have too many carbohydrates and fats. They wouldn't suit your body type.”
+[says:ibuki-mio] (p.7) “Then, what am I supposed to do?”
+[says:horikita-suzune] (p.7) “You're free after this, right? Come to my room. I'll let you have lunch. I'll also teach you how to make some simple dishes.”
+[says:ibuki-mio] (p.7) “Who would go to your room! Besides, I don't feel like eating!”
+[says:horikita-suzune] (p.7) “If you want to save your private points, it's not a bad proposition, don't you think?”
+[says:kushida-kikyou] (p.7) “Then maybe I should have you make lunch for me too, Horikita-san.”
+[says:horikita-suzune] (p.7) “You have such twisted thinking. Well alright then, and how about you?”
+[says] (p.7) “Eh, me? Aren’t I unrelated here?”
+[says:horikita-suzune] (p.7) “Well, yes. But it doesn't make much difference if I make food for three or four anyways.”
+[note] (p.7) The argument that moves Ibuki is money, not food: she freezes at the private-points line and answers “...I see.”
+[rel:horikita-suzune] (p.7) She counts him in without asking whether he wants to come.
+[rel:ibuki-mio] (p.7) He watches her lose the argument on her own budget.
+
+### y2v9.75 p.8 — Acceptance, and the lunch left off the page
+[scene] (p.8) He weighs the invitation as a food bill and accepts; the four agree to meet in Horikita's room, and the story closes on the lunch being hard work.
+[thinks] (p.8) “If Horikita were to cook for me, it would certainly save me some on food expenses.”
+[thinks] (p.8) “Watching another person cooking up close wouldn't be bad either.”
+[note] (p.8) Second reason, stated flatly: “It could even be a good experience to improve my own cooking skills.”
+[says] (p.8) “I’ll accept your proposal then.”
+[note] (p.8) The outcome is withheld except for its verdict: “Needless to say, it turned out to be an extremely difficult and tumultuous lunch party, filled with exhaustion.”
+[rel:horikita-suzune] (p.8) He trades a free lunch for the chance to watch her cook.
 
 <!-- walk: y2v9.75 Epilogue → p.8 -->
 ## y2v10

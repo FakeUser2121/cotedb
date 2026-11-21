@@ -532,13 +532,12 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.4–8 — The surname only, never the given name
+[note] (p.4–8) Every hit on these pages is the surname shared with his son; “Atsuomi” never prints in the volume.
+[note] (p.4) The hit lines are Kiyotaka being greeted by name at the supermarket entrance.
+[mentioned] (p.4–8) Zero genuine prints; no presence is claimed.
 
-
-<!-- walk: y2v9.75 Epilogue → p.17 -->
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 
 ## y2v10
 
