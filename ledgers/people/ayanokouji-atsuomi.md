@@ -553,10 +553,9 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.1-2, p.4.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.1–9 — The surname only, never the given name
+[note] (p.1–9) Every occurrence of “Ayanokōji” on these pages is Kiyotaka’s surname; “Atsuomi” never prints in the volume.
+[mentioned] (p.1–9) Zero genuine prints; no presence is claimed.
 
 
 ## y2v11

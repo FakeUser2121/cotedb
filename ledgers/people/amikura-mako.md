@@ -223,17 +223,76 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1–9 — SS: From That Time On…
-[scene] (p.1–2) Arrives at the gym with Ichinose; they join Ayanokōji; Amikura comments on his tapioca answer; Amikura's Ichinose is called aside by the gym staff; they wait together.
-[scene] (p.3–8) Alone with him: recounts how the girls knew who Honami-chan meant to send the misdirected message to; the boys misread the alphabet (“a” and “i” adjacent in Gojuuon); Ishizaki came to the class and asked what the message meant; Honami-chan froze; nobody knew she'd rather have died than tell; they saved her.
-[scene] (p.8–9) Expresses the wish that he doesn't hurt her; the conversation is hard, but she says it with certainty.
-[says] (p.3) "Honami-chan's really changed, huh? It's like, unimaginable from a few months ago…"
-[says] (p.8) "I'm telling you this because… I don't want you to make Honami-chan sad or hurt her."
-[says] (p.8) "It's tough for Honami-chan, falling for a guy who has a girlfriend."
-[rel:ichinose-honami] (p.3–8) Her best friend; watched her fall apart; stayed.
-[rel:ayanokouji-kiyotaka] (p.3–8) Warns him; tests whether he understands.
+### y2v10.25 p.1–2 — Arrival at the gym and the exam questions
+[scene] (p.1) Arrives at the gym with Ichinose during the first break after the survival and elimination exam and finds Ayanokōji in the rest area looking at a red-panda article.
+[says] (p.1) “Oh, that’s a cute photo. It’s a red panda, right?”
+[says] (p.2) “Is that really the problem? These things garnered quite a buzz on the internet too, didn’t they?”
+[voice] (p.1–2) Light and needling: she takes the red-panda photo as an opening, then doubts his not-watching-TV excuse instead of accepting it.
+[note] (p.2) The page repeats a clause — “Amikura expressed her doubt; perhaps my not-watching-TV excuse wasn’t persuasive enough, Amikura expressed her doubt.” — kept as printed.
+[rel:ichinose-honami] (p.1) Comes to the gym with her.
+[rel:ayanokouji-kiyotaka] (p.1–2) Gym acquaintance; teases him about the questions he missed.
 
-<!-- walk: y2v10.25 Epilogue → p.9 -->
+### y2v10.25 p.2–3 — The change in Honami
+[scene] (p.2) With Ichinose called to the counter by Akiyama over a paperwork mistake, she sits down beside Ayanokōji and opens the subject of how Ichinose has changed.
+[says] (p.2) “Honami-chan’s really changed, huh? It’s like, unimaginable from a few months… ago…”
+[note] (p.2–3) The line runs across the page break and the print leaves it untagged; the next speech tag comes on p.3 with “Amikura began to speak”. Recorded in the volume’s unattributed list.
+[says] (p.3) “It was right after the second-year deserted island exam ended, and the second semester had just started, I think.”
+[says] (p.3) “Back then, Honami-chan seemed unstable, or rather, she was often lost in thought.”
+[says] (p.3) “Right around that time, a little incident happened in the class… Oh, but keep this story between us, okay? Don’t tell Honami-chan.”
+[trait] (p.3) Treats the story as a confidence with responsibility attached; she asks for secrecy before she tells it.
+
+### y2v10.25 p.3–4 — The misdirected message
+[scene] (p.3) Explains the origin of the rumor: a message Ichinose sent by mistake during an unstable spell after the deserted island exam.
+[says] (p.3) “I didn’t see the text myself, but I think it was something like, ‘I want to calm down and talk. Can we meet in person?’ Taken out of context, it sounds quite meaningful, right?”
+[says] (p.4) “Different class. But the problem lies in who she accidentally sent it to. That person was Ishizaki-kun, and during the break, he came to our class and boldly asked, ‘What does this message mean?’ while showing the screen.”
+[says] (p.4) “Honami-chan was flustered but immediately corrected it, saying it was a misdirected message. Ishizaki-kun was convinced and went back to his class, but the difficulty was what followed. The fact that it was a missent message meant that she intended to send that important message to someone else.”
+[rel:ishizaki-daichi] (p.4) Names him as the accidental recipient who carried the screen into Ichinose’s class.
+[rel:ichinose-honami] (p.3–4) Keeps her confidence and tells the story without blaming her for the mistake.
+
+### y2v10.25 p.4–5 — The alphabet and the freeze
+[scene] (p.4) Lays out why the class settled on Ayanokōji: the contact list’s alphabetical order puts his “A” next to Ishizaki’s “I”.
+[says] (p.4) “You’d understand if you saw it, right?”
+[says] (p.4) “Well, that’s limited to those with sharp intuition… The boys started making noise for a different reason. Ayanokōji-kun, maybe it’s because your ‘A’ and Ishizakikun’s ‘I’ are close in the contact list, which is arranged in alphabetical order. There are other names close by, but you and Honami-chan are often seen together…”
+[note] (p.4) “Ishizakikun” prints without a hyphen or space — kept as printed.
+[note] (p.4) A translator’s note printed on the page explains the Japanese gojūon ordering that places あ and い together.
+[says] (p.4) “Honami-chan is always bright and composed, but she gets quite flustered when it comes to matters concerning herself. Maybe she couldn’t come up with a good excuse at that time, and she turned pale with her eyes drawn to the floor.”
+[says] (p.5) “Catching sight of the scene, from our point of view, it was very rare to see Honami-chan like that.”
+[says] (p.5) “We were watching over her for a while, but it gradually started to feel heavy. Boys who didn’t think it was you started to wonder if she was planning to confess to someone.”
+[rel:ichinose-honami] (p.4–5) Reads her public composure as a mask that fails when the matter is personal.
+[note] (p.5) The page prints an unlabelled first-person inset on Ichinose’s dilemma before Amikura resumes; the inset is recorded in the volume notes, not attributed to a speaker.
+
+### y2v10.25 p.6–7 — The girls’ rescue and the thanks
+[scene] (p.6) Describes how the girls closed ranks: they knew the intended recipient and protected her privacy.
+[says] (p.6) “Like me, the girls knew who Honami-chan intended to send it to. We secretly discussed how to help and stepped in to support her.”
+[note] (p.6) The intended recipient was a girl who had sought love advice from Ichinose; Ichinose’s silence protected that girl.
+[says] (p.7) “There was nothing to do but accept it, right?”
+[note] (p.7) The print leaves this line untagged; recorded in the volume’s unattributed list.
+[says] (p.7) “I didn’t do anything special. Ichinose just recovered with her own strength.”
+[says] (p.7) “Thanking someone who did nothing?”
+[trait] (p.6–7) Deflects credit for the rescue onto Ichinose and the group rather than claiming a hand in it.
+
+### y2v10.25 p.7 — The warning
+[scene] (p.7) Turns from the past to the present: she tells Ayanokōji that Ichinose still sees him as someone special and asks him not to hurt her.
+[says] (p.7) “No, it’s a different matter.”
+[says] (p.7) “You can tell if you look, but even now, Honami-chan sees you as someone very special. You’re the only one in this school who can have a strong influence on her, that’s why.”
+[says] (p.7) “I’m telling you this because… I don’t want you to make Honami-chan sad or hurt her.”
+[says] (p.7) “Right,”
+[says] (p.7) “Of course, I understand your position. It’s not about whether you’re dating or not. I just don’t want her to be unnecessarily hurt.”
+[says] (p.7) “It’s tough for Honamichan, falling for a guy who has a girlfriend.”
+[note] (p.7) “Honamichan” prints without a hyphen — kept as printed.
+[says] (p.7) “I have a vague idea of you too. I figure you aren’t flustered, right?”
+[rel:ayanokouji-kiyotaka] (p.7) Reads him as unflustered and says so; asks him plainly not to hurt Ichinose.
+[rel:ichinose-honami] (p.7) Her best friend; she can see Ichinose’s feelings and acts on them without speaking for her.
+
+### y2v10.25 p.8–9 — The terms and the goodbye
+[scene] (p.8) Accepts his answer without pressing, apologizes for speaking as a third party, and covers her embarrassment when Ichinose returns.
+[says] (p.8) “I’m sorry, it’s not my place to tell you this as a third party.”
+[note] (p.8) The print leaves “Sorry to keep you both waiting,” and “No, not at all.” untagged; the first follows “Ichinose returned”, the second follows the narration of Amikura’s momentary fluster. Both are listed in the volume’s unattributed lines.
+[says] (p.8) “No, not at all.”
+[voice] (p.8) Blunt but careful: she states the hard request, then immediately concedes she has no standing to make it.
+[status] (p.9) Leaves the story as Ichinose’s best friend who has said her piece; no further scene.
+
+<!-- walk: y2v10.25 Coverage notes → p.9 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

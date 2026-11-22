@@ -2540,14 +2540,43 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1–9 — SS: From That Time On…
-[scene] (p.1–2) Joins Ayanokōji at the gym with Amikura; says his recent forgetting of his TV special exam is amusing; goes with Akiyama to the counter over paperwork.
-[scene] (p.9) Sends him a message afterward, guessing he and Amikura talked about her with a bit of anxiety ("Mako-chan"); he deflects; she sends a stamp with the utmost happiness.
-[says] (p.2) "Is it related to the exam question? Ayanokōji-kun, you got it wrong, didn't you?"
-[says] (p.9) "Were you having another private talk with Mako-chan? About me?"
-[rel:amikura-mako] (p.1–9) Her steady alibi; she trusts her to manage Ayanokōji.
+### y2v10.25 p.1–2 — The gym arrival and the exam teasing
+[scene] (p.1) Comes to the gym with Amikura during the first break after the survival and elimination exam and greets Ayanokōji in the rest area.
+[says] (p.1) “Good morning, Ayanokōji-kun.”
+[note] (p.1) The print does not attach a speaker tag to the greeting; the next sentence names Ichinose and Amikura as the arrivals. Recorded in the volume’s unattributed list.
+[says] (p.2) “Is it related to the exam question? Ayanokōji-kun, you got it wrong, didn’t you?”
+[note] (p.2) The print leaves this line untagged; it follows “Ichinose seemed to have some insight” and the next speech is explicitly “Hearing Ichinose’s words”.
+[says] (p.2) “Now that you mention it, you got the tapioca question wrong too. Are you surprisingly ignorant of the world?”
+[says] (p.2) “An unexpected weakness was discovered, huh?”
+[trait] (p.1–2) Reads his phone search as curiosity about the exam rather than embarrassment, and teases him about the missed questions with a laugh.
+[action] (p.2) Akiyama calls her to the counter over a mistake in her paperwork; she leaves the rest area with Akiyama.
+[rel:amikura-mako] (p.1) Arrives with her.
+[rel:ayanokouji-kiyotaka] (p.1–2) Probes his exam mistakes, then leaves him alone with Amikura.
 
-<!-- walk: y2v10.25 Epilogue → p.9 -->
+### y2v10.25 p.3–8 — The misdirected-message story: present only in the retelling
+[mentioned] (p.3–8) The subject of Amikura’s account; she is not on-page between leaving for the counter (p.2) and returning (p.8).
+[note] (p.3) Amikura dates the change in her to the period right after the second-year deserted island exam, when she seemed unstable and often lost in thought.
+[back] (p.3) The narration ties that instability to the confession she made to Ayanokōji and his telling her about Kei.
+[says:amikura-mako] (p.4) “That person was Ishizaki-kun, and during the break, he came to our class and boldly asked, ‘What does this message mean?’ while showing the screen.”
+[says:amikura-mako] (p.4) “Honami-chan was flustered but immediately corrected it, saying it was a misdirected message.”
+[note] (p.4) The message she meant to send read “I want to calm down and talk. Can we meet in person?” — Amikura’s reconstruction, printed inside her account.
+[note] (p.5) The page prints an unlabelled first-person inset on her dilemma: “Even though I wandered into this myself, it feels like I’ve approached a dead end.” The inset is not attributed to a speaker by the print.
+[trait] (p.4–5) Her public composure fails when the matter concerns herself; she turns pale and cannot improvise an excuse.
+[rel:ishizaki-daichi] (p.4) His open handling of her misdirected message starts the rumor.
+
+### y2v10.25 p.8–9 — The return and the messages
+[scene] (p.8) Returns from the counter and finds Ayanokōji and Amikura in the rest area; she does not ask what they discussed.
+[says] (p.8) “Sorry to keep you both waiting,”
+[note] (p.8) The apology is untagged; it follows “Ichinose returned” and is listed in the volume’s unattributed lines.
+[says] (p.8) “Were you having another private talk with Mako-chan? About me?”
+[note] (p.8) The line is printed in square brackets as a phone message, not speech.
+[says:ayanokouji-kiyotaka] (p.8) “Looks like you’ve got a good best friend.”
+[action] (p.9) Replies to his message with a stamp of “the utmost happiness”.
+[trait] (p.8–9) Checks on the conversation through Amikura’s interests rather than her own, then answers his deflection with a happy stamp instead of pressing.
+[rel:amikura-mako] (p.8) Calls her “Mako-chan”; trusts her enough not to interrogate her.
+[rel:ayanokouji-kiyotaka] (p.8–9) Guesses the talk concerned her and accepts his non-answer.
+
+<!-- walk: y2v10.25 Coverage notes → p.9 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
