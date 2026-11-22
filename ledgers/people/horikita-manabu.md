@@ -886,6 +886,24 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.21 — Suzune's haircut after reconciling with her brother
+[scene] (p.21) Suzune's newly short hair is explained by a reconciliation with her older brother.
+[mentioned] (p.21) “She had chosen to cut her hair after reconciling with Horikita Manabu, her older brother, and bidding farewell to her former self.”
+
+### y2v1 p.318 — Nagumo measured against Manabu
+[scene] (p.318) Nanase and Suzune discuss the student council's tolerance of fighting.
+[mentioned] (p.318) “Compared to Horikita’s older brother Manabu, Nagumo had a more tolerant mindset when it came to fighting.”
+
+### y2v1 p.6–368 — Coverage gate: the shared surname
+[note] (p.6–368) The locator's 181 hit pages are almost all the shared Horikita surname referring to Suzune; Manabu himself is named only in the two lines above.
+[mentioned] (p.6–368) No scene presence; passing references only.
+
+<!-- walk: y2v1 Coverage notes → DONE -->
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->
