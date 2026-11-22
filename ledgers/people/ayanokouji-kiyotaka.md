@@ -5836,12 +5836,27 @@ walk: y1v1 → DONE
 [says] (p.297) "It's slightly different from that. We're looking to have our two classes collaborate with each other. There would be no difference in status between us, a relationship of equality so to speak."
 [scene] (p.298–300) Hōsen refuses equal footing, demands water and a million points as collateral, and Horikita holds Sudō back.
 
-### y2v1 p.301–315 — Nanase's argument and the escalating demands
-[scene] (p.301–303) Nanase argues that making enemies now will cost him partners later and raises protection points; Hōsen still rejects equal terms and Sudō is restrained.
-[scene] (p.304–305) Hōsen asks for a million points as collateral; Horikita refuses, and the narrator notes his calculating, Ryūen-like precision.
-[scene] (p.306–308) He grabs Horikita's collar and offers to settle by fighting; she ends the negotiation, and he splashes water in her face.
-[scene] (p.309–311) The parties separate, but Hōsen follows and admits he sought Class 2-D; he demands two million points.
-[scene] (p.312–315) The price rises to three million behind the dormitory; Sudō and Horikita are dumbfounded.
+### y2v1 p.301–303 — Nanase's protection-point argument
+[scene] (p.301) Nanase argues that making enemies now will cost him partners later and raises protection points.
+[scene] (p.302–303) Hōsen still rejects equal terms and Sudō is restrained.
+
+### y2v1 p.304–305 — The million-point collateral
+[scene] (p.304) Hōsen asks for a million points as collateral; Horikita refuses.
+[scene] (p.305) The narrator notes his calculating, Ryūen-like precision.
+
+### y2v1 p.306–308 — Collar, water and the broken negotiation
+[scene] (p.306) He grabs Horikita's collar and offers to settle by fighting.
+[scene] (p.307) She calls the discussion over.
+[scene] (p.308) He releases her, then throws water in her face; Sudō charges and she stops him.
+
+### y2v1 p.309–311 — The party follows them out
+[scene] (p.309) The parties separate, but Hōsen follows and admits he sought Class 2-D.
+[scene] (p.310–311) He demands two million points; Horikita says she is ready to take the penalty.
+
+### y2v1 p.312–315 — The price doubles, then triples
+[scene] (p.312) She counters that Class 1-D only needs 501 points; he says he will flatten them, then unexpectedly says he will consider her position.
+[scene] (p.313–314) He moves the discussion to the back of the first-year dormitory at 10 PM; Horikita allows ten minutes.
+[scene] (p.315) He raises the price to three million; Sudō and Horikita are dumbfounded.
 
 ### y2v1 p.316–320 — The fight with Sudō
 [scene] (p.316) Hōsen sweeps Sudō's legs and charges; Nanase looks away as if she knows what is coming.
