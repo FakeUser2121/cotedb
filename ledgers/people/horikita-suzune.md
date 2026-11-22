@@ -3552,21 +3552,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.68–69) Admires her "dazzling" trust-building; concedes Class D cannot replicate it.
 [rel:ayanokouji-kiyotaka] (p.68–74) Shares her observations and strategy with him as they leave the meet-and-greet.
 
-### y2v1 p.111–123 — The Keyaki Mall negotiation; three goals
+### y2v1 p.111–113 — The Keyaki Mall negotiation; three goals
 [note] (p.113) Sudō complains about the first-years "messin' around without a care in the world"; Horikita notes their lack of urgency compared to second-years.
+[scene] (p.114) She approaches three Class 1-D honor students (Kaga, Mikami, Shiratori) and asks if they have partners.
 [says] (p.114) "We're searching for partners for the upcoming special exam. You guys don't have partners yet, right?"
+[scene] (p.115–116) Shiratori demands 500,000 points to partner with Sudō, revealing that Hashimoto (Class 2-A) and Ryūen (Class 2-C) have already bought off the first-years.
 [says] (p.116) "It's natural to desire points, but is chasing after short-sighted greed really worth it?"
 [says] (p.117) "if you were to do us a favor here, we might be able help you out in a similar situation later on down the line."
 [says] (p.117) "There are also times where athletic ability is required." — leveraging Sudō's A+ physical rating
+[scene] (p.118) She bluffs that the higher-ranked classes would not have approached Class 1-D honor students; Shiratori confirms Hashimoto did.
 [says] (p.118) "You guys are in Class D, just the same as us. I don't believe the higher-ranked classes would've approached you so easily."
+[rel:shiratori] (p.114–121) Negotiates with him; he demands 500,000 points.
+[rel:hashimoto-masayoshi] (p.118) Correctly guesses he approached the Class 1-D honor students (per Shiratori).
+
+### y2v1 p.122–123 — Three goals
+[scene] (p.122) She sets three goals: no expulsions, third place or higher overall, no monetary exchanges.
 [says] (p.122) "I had decided on three goals for us back when I first heard about this special exam."
 [says] (p.122) "The most important one is to not let anyone get expelled."
 [says] (p.123) "The next is that we try to get third place or higher in the overall class ranking."
 [says] (p.123) "The third is to avoid participating in any monetary exchanges."
-[trait] (p.111–123) Negotiates shrewdly — tries to trade future favors and Sudō's athletic ability instead of points, bluffs to expose that Class 2-A and 2-C bought off the first-years, and refuses to chase a bidding war.
 [rel:sudou-ken] (p.111–120) Brings him along; uses his A+ Physical Ability as leverage, then tells him to focus on studies.
-[rel:shiratori] (p.114–121) Negotiates with him; he demands 500,000 points.
-[rel:hashimoto-masayoshi] (p.118) Correctly guesses he approached the Class 1-D honor students (per Shiratori).
+[trait] (p.111–123) Negotiates shrewdly — tries to trade future favors and Sudō's athletic ability instead of points, bluffs to expose that Class 2-A and 2-C bought off the first-years, and refuses to chase a bidding war.
 
 ### y2v1 p.180–191 — Horikita coaches the cooking test by earpiece; debrief
 [note] (p.181–191) Horikita feeds Ayanokōji recipe instructions in real time through a wireless earpiece (rendered as bracketed inner-voice in the corpus) — guidance on knife work, telling him to ask Amasawa about the whisk/Petty knife and apple, and a 15–30 minute cooking target.

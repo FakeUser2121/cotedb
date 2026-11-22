@@ -5655,19 +5655,29 @@ walk: y1v1 → DONE
 [rel:housen-kazuomi] (p.108–110) Reputed to have hospitalized a gang leader two years his senior; Miyake rates him above Sudō and Ryūen.
 [rel:hasebe-haruka] (p.108–110) Calls Hōsen scary and teases Akito about being a delinquent.
 
-### y2v1 p.111–123 — Sudō's partner search; Shiratori's 500,000-point demand
+### y2v1 p.111–113 — Sudō tags along; Keyaki Mall
 [scene] (p.111) Walks with Horikita and Sudō to Keyaki Mall (she avoids the first-year floor after the lunchtime trouble and Hōsen); approaches Class 1-D students Kaga, Mikami and Shiratori (B− or higher).
+[scene] (p.112–113) The first-years are idle and unhurried; Sudō complains about their lack of urgency.
+
+### y2v1 p.114–117 — Shiratori's demand
+[scene] (p.114) Horikita approaches three Class 1-D honor students (Kaga, Mikami, Shiratori); they are wary but willing to talk.
 [says:horikita-suzune] (p.114) "We're searching for partners for the upcoming special exam. You guys don't have partners yet, right?"
+[scene] (p.115–116) Shiratori demands 500,000 points to partner with Sudō, revealing that Hashimoto (Class 2-A) and Ryūen (Class 2-C) have already bought off the first-years.
 [says] (p.116) "500,000. If you give me 500,000 points, I'll happily partner up with you right here, right now." — Shiratori
 [says:horikita-suzune] (p.116) "It's natural to desire points, but is chasing after short-sighted greed really worth it?"
+[rel:shiratori] (p.114–116) Class 1-D A-rated first-year who demands 500,000 points to partner with Sudō.
+
+### y2v1 p.118–123 — Horikita's three goals
+[scene] (p.118) Horikita tries future favors and Sudō's A+ Physical Ability as leverage, bluffs to expose the approach, and ultimately declines the bidding war.
 [says:horikita-suzune] (p.118) "You guys are in Class D, just the same as us. I don't believe the higher-ranked classes would've approached you so easily." — a bluff
 [says] (p.121) "Before you arrived, we were consulted by another class of second-year students." — Shiratori
 [inference] (p.115–122) Notices all three first-years agreed from the start to wait a week; deduces Hōsen instructed Class 1-D to hold out for 500,000 and use the deadline penalty as a weapon to wring maximum points from desperate second-years — a reckless strategy disregarding the future.
-[trait] (p.111–122) Reads the situation sharply — sees Shiratori leak the buyout info under Horikita's bluff, notes Shiratori calls Hōsen when asked to gather classmates (confirming Hōsen controls 1-D), and recognizes the point-exchange mindset now permeates the first-years (likely Sakayanagi and Ryūen's doing).
+[rel:hashimoto-masayoshi] (p.118) Correctly guesses he approached the Class 1-D honor students (per Shiratori).
+[rel:housen-kazuomi] (p.119–122) Confirmed as the one controlling Class 1-D, holding out for maximum points.
+[scene] (p.122–123) She sets three goals: no expulsions, third place or higher overall, no monetary exchanges.
 [rel:horikita-suzune] (p.111–123) Accompanies her; listens as she negotiates using Sudō's A+ physical rating as leverage and sets three goals.
 [rel:sudou-ken] (p.113–120) Watches him get ticked off at Shiratori's tactful jab about his E+ rating and carelessly reveal he lacks 500,000 points.
-[rel:shiratori] (p.114–121) Class 1-D A-rated first-year who demands 500,000 points to partner with Sudō.
-[rel:housen-kazuomi] (p.119–122) Confirmed as the one controlling Class 1-D, holding out for maximum points.
+[trait] (p.111–122) Reads the situation sharply — sees Shiratori leak the buyout info under Horikita's bluff, notes Shiratori calls Hōsen when asked to gather classmates (confirming Hōsen controls 1-D), and recognizes the point-exchange mindset now permeates the first-years (likely Sakayanagi and Ryūen's doing).
 
 ### y2v1 p.122–123 — Horikita's three goals
 [says:horikita-suzune] (p.122) "The most important one is to not let anyone get expelled."
