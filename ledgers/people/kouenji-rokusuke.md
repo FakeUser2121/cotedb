@@ -831,7 +831,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.119–150 — Ch.4 — depth read: Kōenji's casual massacre
+### y3v3 p.128–134 — Ch.4 — depth read: Kōenji's casual massacre
 [scene] (p.131) Ambushes Class B's E9 supply group from the forest with unseen, precise shots.
 [says] (p.133) "You're the VIP, aren't you? If you were to fight back, you would simply be eliminated for nothing."
 [says] (p.133) "There is nothing to it, is there? I am from Class A, you are from Class B. We're enemies."

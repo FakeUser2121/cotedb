@@ -1905,7 +1905,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.197–232 — Ch.7 — depth read: Hirata's killing intent
+### y3v3 p.222–229 — Ch.7 — depth read: Hirata's killing intent
 [says] (p.222) "Not bad, Hirata... You're way more skilled than I thought. There's no hesitation or mercy in your aim." — Hashimoto
 [trait] (p.222–229) Fights with "naked killing intent, unbecoming of a mere honor student," driven by resentment over Ayanokōji's transfer; after defeating Hashimoto he raises the gun on the already-out opponent but stops before firing.
 [rel:hashimoto-masayoshi] (p.222–229) Duels him and wins; nearly fires a follow-up shot but restrains himself.

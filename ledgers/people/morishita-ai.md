@@ -248,14 +248,18 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 p.46–85 — Ch.2 — depth read: Morishita's complaints and exhaustion
+### y3v3 p.56–58 — Ch.2 — depth read: Morishita's complaints and exhaustion
+[scene] (p.56) Complains about her middle-row placement during the march.
 [says] (p.56) "I'm not pleased with being placed in the middle row, Ayanokouji Kiyotaka. I'm the main strength of this class."
 [says] (p.56) "To demote me and place a traitor in the front row instead... It seems we've been saddled with an incompetent leader."
 [says] (p.58) "This special exam is on a deserted island, so the rewards are pretty huge, y'know."
-[says] (p.74) "Hah... hah... I suppose this is because I ran a full marathon in the schoolyard yesterday, isn't it... hah."
 [trait] (p.56–74) Complains about her placement and calls others names (traitor, "tissue paper"), but lags furthest behind on the retreat — an "Amazoness of the Dense Forest" who overexerts herself.
 [rel:ayanokouji-kiyotaka] (p.56) Complain about her middle-row placement.
 [rel:hashimoto-masayoshi] (p.56–58) Calls him a traitor and argues with him.
+
+### y3v3 p.74 — Ch.2 — depth read: Morishita's complaints and exhaustion
+[scene] (p.74) Lags behind on the retreat, exhausted.
+[says] (p.74) "Hah... hah... I suppose this is because I ran a full marathon in the schoolyard yesterday, isn't it... hah."
 
 ### y3v3 p.34 — The surplus-weapons question
 [scene] (p.34) Approaches Ayanokōji after he checks the weapon count.

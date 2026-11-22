@@ -102,7 +102,7 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.46–85 — Ch.2 — depth read: Kitou's counterattack
+### y3v3 p.63–70 — Ch.2 — depth read: Kitou's counterattack
 [says] (p.63) "Let me confirm something, just to be sure. You're aiming to take first place in this exam... Am I right to think that?"
 [says] (p.63) "A survival game... This feels like nothing more than playtime, but if we're aiming to win, I'm going to take this seriously."
 [says] (p.63) "...In other words, you're not confident?"

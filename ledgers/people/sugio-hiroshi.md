@@ -15,7 +15,8 @@ char_id: sugio-hiroshi · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 p.14–45 — Ch.1 — depth read: the mountain-crossing proposal
+### y3v3 p.31–32 — Ch.1 — depth read: the mountain-crossing proposal
+[scene] (p.31) In the supply debate, Sugio proposes crossing the mountain to monopolise the northeast events instead of risking a shootout.
 [says] (p.31) "I definitely think aiming for nearby events is dangerous. If we're going to shoulder the risk of fighting poorly and getting out, why don't we just avoid Class A from the start and cross the mountain?"
 [says] (p.32) "Not moving, huh? I don't intend to deny that, but if we do that, it means we're resolving ourselves to a shootout right from the start, doesn't it?"
 [trait] (p.31–32) Proposes crossing the mountain to monopolize northeast events; argues against a passive strategy.

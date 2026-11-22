@@ -161,36 +161,44 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 pp.117–232 — Depth review: Class C's recon commander
+### y3v3 p.117 — Ch.3 — depth read: Class C's recon commander
 [scene] (p.117) Speaks privately with Ayanokōji after the surprise attack, assuring him she trusts him completely.
 [says] (p.117) "At the very least, I trust you."
 [says] (p.117) "Then I'll make use of that trust without reservation."
-[says] (p.230) "Just as you said, Ayanokouji-kun, it's turned into quite a chaotic battle, hasn't it?"
-[role] (p.230) Acts as Class C's commander over the radio, relaying other classes' positions and directing the GPS-jammer tactics.
 [trait] (p.117) Shows respect and a willingness to tell a "gentle lie" for someone's own good, or speak plainly when it is not — Ayanokōji notes this diverges from his first impression of her.
 [trait] (p.117) Expresses no doubt about Ayanokōji's leadership even after the failed prediction, which unsettles him.
 [rel:ayanokouji-kiyotaka] (p.117–232) Places unconditional trust in him and serves as his reconnaissance lead.
 
+### y3v3 p.230 — Ch.7 — depth read: Class C's recon commander
+[scene] (p.230) Acts as Class C's commander over the radio during the chaotic final battle.
+[says] (p.230) "Just as you said, Ayanokouji-kun, it's turned into quite a chaotic battle, hasn't it?"
+[role] (p.230) Acts as Class C's commander over the radio, relaying other classes' positions and directing the GPS-jammer tactics.
+
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.14–45 — Ch.1 — depth read: the food problem
+### y3v3 p.31 — Ch.1 — depth read: the food problem
+[scene] (p.31) Shiraishi points out that the meager food makes running away impossible, forcing event participation.
 [says] (p.31) "Looking at the rules, if we can keep running away, we won't lose for the time being. Paintballs won't be consumed unless we fight, but the food problem is unavoidable."
 [trait] (p.31) Points out the meager food forces event participation and combat — a sharp strategic observation.
 [rel:ayanokouji-kiyotaka] (p.31) Shares her analysis of the food/supply constraint.
 
-### y3v3 p.46–85 — Ch.2 — depth read: Shiraishi as VIP and messenger
+### y3v3 p.46–54 — Ch.2 — depth read: Shiraishi as VIP and messenger
+[scene] (p.46) Acts as a VIP and radio messenger during the march; struggles to keep up on the retreat.
 [says] (p.52) "H9? On his own?...Does that mean it's Koenji?"
-[says] (p.55) "I was able to confirm that the GPS at H9 is Koenji-kun's. His role is apparently a guard."
 [trait] (p.46–74) Acts as a VIP and radio messenger to the commander; confirms Koenji split off; struggles to keep up during the retreat and can't communicate due to exhaustion.
 [rel:ayanokouji-kiyotaka] (p.52–74) Relays reports and is placed in the front row as a VIP.
 [rel:shimazaki-ikkei] (p.46–74) Receives intel from him as commander (via radio).
 
-### y3v3 p.151–166 — Ch.5 — depth read: Class D's trust impresses
+### y3v3 p.55 — Ch.2 — depth read: Shiraishi as VIP and messenger
+[scene] (p.55) Confirms Kōenji's GPS and role as guard.
+[says] (p.55) "I was able to confirm that the GPS at H9 is Koenji-kun's. His role is apparently a guard."
+
+### y3v3 p.160–160 — Ch.5 — depth read: Class D's trust impresses
 [says] (p.160) "The charm Class D possesses is incredible."
 [trait] (p.160) Impressed by how warmly Class D treats the wary Class C members as equals, lowering their guard.
 [rel:ayanokouji-kiyotaka] (p.160) Discusses the alliance and Class D's strength with him.
 
-### y3v3 p.197–232 — Ch.7 — depth read: Shiraishi reports the chaos
+### y3v3 p.230–232 — Ch.7 — depth read: Shiraishi reports the chaos
 [says] (p.230) "The tactic's effect has worn off and it seems Class A's current locations were all displayed at once."
 [says] (p.230) "Just as you said, Ayanokouji-kun, it's turned into quite a chaotic battle, hasn't it?"
 [says] (p.231) "I imagine Class A is surprised right about now."
@@ -199,7 +207,7 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.230–232) Reports to him and admiration for his outplaying of Class A.
 [rel:shimazaki-ikkei] (p.231) Prepares to use the individual GPS shutdown on Class D's VIPs.
 
-### y3v3 p.233–252 — Epilogue — depth read: reporting the final state
+### y3v3 p.233–233 — Epilogue — depth read: reporting the final state
 [scene] (p.233) Arrives breathless with Yamamura, Kanzaki and the two Class D VIPs to report the situation after Ayanokōji's solo action.
 [says] (p.233) "Yes. We were attacked by two Class B students while we were running away... According to Ichinose-san, it seems those two had their personal GPS signals turned off, so they completely caught us by surprise."
 [trait] (p.233) Recovers from the surprise attack and reports calmly despite being out of breath; confirms the surviving Class B members and their location.

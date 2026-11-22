@@ -156,14 +156,17 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 p.86–118 — Ch.3 — depth read: Yamamura's fear and reassurance
+### y3v3 p.94–94 — Ch.3 — depth read: Yamamura's fear and reassurance
 [says] (p.94) "It's just... it's scary, isn't it? If I get separated, I won't have any idea where my allies are or where the enemy is, right?"
 [trait] (p.94) Anxious about being separated and feeling useless after Class C lost Nishikawa (a VIP); nods with resolve after Ayanokōji's reassurance.
 [rel:ayanokouji-kiyotaka] (p.94) Is reassured by him that simply surviving is a contribution.
 
-### y3v3 p.233–252 — Epilogue — depth read: the unseen final guard
+### y3v3 p.233 — Epilogue — depth read: the unseen final guard
 [scene] (p.233) Arrives out of breath with Shiraishi, Kanzaki and the two Class D VIPs after Ayanokōji's solo action; too exhausted to speak.
 [trait] (p.233, 246) Survives to the final stage as Class C's last guard and is named by Ayanokōji as the ideal person to sneak up silently — light, nimble and skilled at erasing her presence — which makes the bluff against Ryūen credible.
+
+### y3v3 p.246 — Epilogue — depth read: the unseen final guard
+[scene] (p.246) Named as the guard who might be positioned behind Ryūen, though never actually there.
 [rel:ayanokouji-kiyotaka] (p.246) Is named as the guard who might be positioned behind Ryūen, though she was never actually there.
 [rel:ryuuen-kakeru] (p.246) Is used as a phantom threat to force him to turn around in the final standoff.
 
