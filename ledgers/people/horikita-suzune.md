@@ -3600,15 +3600,32 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.287–295) Reluctantly lets him come as backup; warns him to stay quiet — he wants to hear her sing.
 [rel:ayanokouji-kiyotaka] (p.295) Teases him for not talking even when he should.
 
-### y2v1 p.296–324 — Confronting Hōsen; the fighting and the knife
+### y2v1 p.296–298 — The opening exchanges
+[scene] (p.296) Hōsen arrives with Nanase and demands "equal" cooperation; she needles him about his lateness with the Musashi metaphor.
 [says] (p.296) "So you came on time. I was nearly certain that you'd be late."
 [says] (p.296) "What a selfish interpretation. We were just taking advantage of this rare opportunity to enjoy ourselves."
+[scene] (p.297–298) She offers a relationship of equals; he answers with threats and vulgar conduct.
 [says] (p.297) "It's slightly different from that. We're looking to have our two classes collaborate with each other. There would be no difference in status between us, a relationship of equality so to speak."
 [says] (p.298) "Do you really think we will submit to violence?"
+
+### y2v1 p.299–305 — The collateral demand
+[scene] (p.299–300) Hōsen refuses equal footing and demands a million points as collateral; she refuses to let him line his pockets.
+[scene] (p.301–303) Nanase argues for mutual trust and protection points; Hōsen rejects it and Sudō is held back.
+[scene] (p.304–305) He asks for a million points as collateral; she refuses, and the narrator notes his calculating, Ryūen-like precision.
+
+### y2v1 p.306–315 — Collar, water and the brawl
+[scene] (p.306) He grabs her collar and offers to settle by fighting; she calls the discussion over.
+[scene] (p.307–308) He releases her, then throws water in her face; Sudō charges and she stops him from falling into the trap.
+[scene] (p.309–311) The parties separate; Hōsen follows and admits he sought Class 2-D; he demands two million points.
+[scene] (p.312–315) The price rises to three million behind the dormitory; she remains unbending.
+
+### y2v1 p.316–324 — Slapped and threatened
+[scene] (p.316–321) Hōsen attacks Sudō; she screams for him to turn back, but her distress causes his fatal lapse.
+[scene] (p.322–324) She takes a fighting stance; her single strike is caught and Hōsen slaps her, then demands five million points.
 [says] (p.323) "…So be it. I'll be the one to stop you then."
-[trait] (p.296–324) Stands firm on equality, calmly needling Hōsen about his lateness metaphor (Musashi); when violence erupts she is distressed and screams for Sudō to turn back, then takes a fighting stance herself — her one knockout strike is caught, and Hōsen slaps her down.
 [rel:housen-kazuomi] (p.296–324) Negotiates as an equal, then is forced to defend herself; he slaps her, demands five million points, and calls the teachers.
 [rel:sudou-ken] (p.321–324) Cries out for him when he's knocked down; her distress causes his fatal lapse.
+[trait] (p.296–324) Stands firm on equality, calmly needling Hōsen about his lateness metaphor; when violence erupts she is distressed and screams for Sudō to turn back, then takes a fighting stance herself — her one knockout strike is caught, and Hōsen slaps her down.
 
 ### y2v1 p.338–341 — Aftermath: panic over the knife; pressing Nanase
 [says] (p.338) "W-what should we do…? Should we, uhm, p-pull the knife out?"
