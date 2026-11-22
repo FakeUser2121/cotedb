@@ -1866,3 +1866,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v1 Keyaki split INTEGRATED at parent | 369 | two scene sections; parent verify ALL PASS (367 says / 84 non-says); gate OK; make check OK | docs rebuilt at parent | 39686a30e1226fb8ac4dafd47f8bfa15 (x2) |
 | y2v1 Amasawa POV split INTEGRATED at parent | 369 | three scene sections; parent verify ALL PASS (367 says / 85 non-says); gate OK; make check OK | docs rebuilt at parent | 99e8b6774604c2d9abb16de34c254173 (x2) |
 | y2v1 library split INTEGRATED at parent | 369 | four scene sections; parent verify ALL PASS (367 says / 85 non-says); gate OK; make check OK | docs rebuilt at parent | f2bb6b6b7af4d598085b0258571bcf31 (x2) |
+| y2v1 Nanase argument split INTEGRATED at parent | 369 | five scene sections; parent verify ALL PASS (367 says / 85 non-says); gate OK; make check OK | docs rebuilt at parent | f88dea7736df73e343ef60d69aea87d1 (x2) |
