@@ -78,24 +78,84 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:horikita-suzune] (p.101) Names her as he leaves — a deliberate parting shot.
 [rel:shiba-katsunori] (p.100–101) His homeroom teacher, who breaks up the confrontation.
 
-### y2v1 p.296–337 — Hōsen's violent negotiation and framing plot
-[scene] (p.296) Arrives at the karaoke room with Nanase, slouches across three seats, and treats Class 1-D as his own property — demanding "equal" cooperation while posturing.
-[says] (p.296) "Outta the way Nanase."
-[says] (p.296) "So you came on time. I was nearly certain that you'd be late."
-[says] (p.297) "Oh really? So you aren't gonna bring up the fact that you're one grade up on us, eh? Ain't lettin' yer seniority get to yer head. Smart move."
-[says] (p.321) "Aight, seems that your trusty bodyguard's eatin' the dirt. Who's next?"
-[says] (p.322) "Five million points. That much, and all your problems'll go away. How 'bout it?"
-[says] (p.325) "If you submit to me right here, right now, an' fork over the points─ I'll let Ayanokōji live."
-[says] (p.326) "Somethin' wrong with your eyes? It's a knife, plain an' simple!"
-[says] (p.327) "'The hell…? Who the fuck are you…?"
-[says] (p.331) "Ha! So even though you managed to piece it all together, you still came an' got stabbed yourself? You outta your mind?"
-[says] (p.337) "Fuckin' good shit there, Ayanokōji-sempai! You're the first opponent who's gotten my blood boilin' like this."
-[trait] (p.296–337) Violent, proud and cunning — escalates from posturing to slapping Horikita and sucker-punching Sudō, then draws a knife intending to stab himself in the thigh with Ayanokōji's own Petty knife and frame him for expulsion (to claim a 20-million-point bounty); outsmarted when Ayanokōji lets himself be stabbed, his plot backfires and he accepts the deal, his pride wounded that Ayanokōji called Ryūen better.
-[rel:ayanokouji-kiyotaka] (p.321–337) Targets him for the bounty; is completely outwitted and bested, then becomes his partner — "the first opponent who's gotten my blood boilin'."
-[rel:nanase-tsubasa] (p.296–328) Brought her as mediator/block; berates her when she reveals the plot and stops his knife.
+### y2v1 p.296–297 — Hōsen enters the karaoke room
+[scene] (p.296) Nanase brings him to the staged karaoke meeting; he pushes past her, then needles Horikita for arriving early.
+[says] (p.296) “Outta the way Nanase.”
+[says] (p.296) “So you came on time. I was nearly certain that you’d be late.”
+[scene] (p.297) He slouches across three places and opens the negotiation by treating Class 1-D as if it were already his.
+[says] (p.297) “Oh really? So you aren’t gonna bring up the fact that you’re one grade up on us, eh? Ain’t lettin’ yer seniority get to yer head. Smart move.”
+[trait] (p.297) Speaks with total certainty only two weeks after enrolling; treats his classmates as property.
+
+### y2v1 p.298–300 — The equality proposal is refused
+[scene] (p.298) Horikita offers a relationship of equals; he answers with vulgar conduct and asks whether she is the leader before rejecting the premise.
+[scene] (p.299) He calls the penalty gap irrelevant, demands water and says they will pay.
+[scene] (p.300) Nanase asks him to let Horikita finish; he calls disobedient students trash and demands to know what he gains.
+
+### y2v1 p.301–303 — Nanase's protection-point argument
+[scene] (p.301) Nanase argues that enemies made now may deny him partners later; she raises the school's protection points.
+[scene] (p.302) Horikita confirms that a partner holding a protection point could leave him forcibly expelled; the negotiation's tone shifts.
+[scene] (p.303) He still refuses equal footing; Horikita holds Sudō back before he can lash out.
+
+### y2v1 p.304–305 — The million-point collateral
+[scene] (p.304) He calls the trust argument one-sided and asks for a million points as collateral, promising repayment if he ever needs their help.
+[note] (p.304–305) The deposit would have to be repaid only if Class 1-D were ever asked for help; a written contract would still leave the class exposed.
+[trait] (p.305) Not merely a musclehead: the move is calculated and precise, and the narrator compares him to Ryūen.
+[scene] (p.305) Horikita refuses; he leans forward for the first time.
+
+### y2v1 p.306–308 — Collar, water and the broken negotiation
+[scene] (p.306) He grabs Horikita's collar; Sudō seizes his arm, and he offers to settle the deal by fighting all three of them at once.
+[scene] (p.307) Horikita calls the discussion over; he releases her, then throws his cup of water in her face.
+[scene] (p.308) Sudō charges and Horikita stops him, warning him not to fall into the trap.
+
+### y2v1 p.309–311 — The party follows them out
+[scene] (p.309) Horikita walks away; Nanase says cooperation would have been better, and the group dissolves with Horikita unbowed.
+[scene] (p.311) He follows them, admits he had gone looking for Class 2-D and calls the two D classes comrades.
+
+### y2v1 p.312–315 — The price doubles, then triples
+[scene] (p.312) He demands two million points as the classes reach the dormitory junction; Horikita says she is ready to take the penalty.
+[scene] (p.313) She counters that Class 1-D only needs 501 points; he says he will flatten them, and then unexpectedly says he will consider her position.
+[scene] (p.314) He moves the discussion to the back of the first-year dormitory at 10 PM; Horikita allows ten minutes.
+[scene] (p.315) He raises the price to three million; Sudō and Horikita are dumbfounded.
+
+### y2v1 p.316–321 — The brawl with Sudō
+[scene] (p.316) He sweeps Sudō's legs and charges; Nanase looks away as if she knows what is coming.
+[scene] (p.317–318) He overpowers Sudō against the wall; Nanase explains that Nagumo's student council now tolerates a degree of fighting.
+[scene] (p.319–320) He keeps Sudō pinned and beaten; the narrator notes his overwhelming experience and speed.
+[scene] (p.321) He points at Horikita to break Sudō's guard, then punches him from behind with a fiendish grin.
+
+### y2v1 p.322–325 — Horikita is slapped; the knife threat
+[scene] (p.322) He asks who is next and says he will beat them until they sign binding agreements.
+[says] (p.322) “Aight, seems that your trusty bodyguard’s eatin’ the dirt. Who’s next?”
+[scene] (p.322) The narrator weighs what he is really after: the violence escalates beyond what a negotiation would require.
+[scene] (p.323–324) He catches Horikita's single strike, slaps her across the face and demands five million points.
+[says] (p.324) “Five million points. That much, and all your problems’ll go away. How ’bout it?”
 [rel:horikita-suzune] (p.296–324) Bullies her, demands five million points, slaps her.
+[scene] (p.325) He threatens to hurt the two doormats if the narrator runs, then says he will let Ayanokōji live if they submit.
+[says] (p.325) “If you submit to me right here, right now, an’ fork over the points─ I’ll let Ayanokōji live.”
 [rel:sudou-ken] (p.321–325) Sucker-punches and kicks him.
-[rel:amasawa-ichika] (p.334) She helped refine his knife plot and retrieved the knife; he calls her a "random chick" he shouldn't have trusted.
+
+### y2v1 p.326–329 — The knife, Nanase's confession and Ayanokōji's charge
+[scene] (p.326) He draws a Petty knife and threatens to stab the narrator.
+[says] (p.326) “Somethin’ wrong with your eyes? It’s a knife, plain an’ simple!”
+[scene] (p.328) Nanase blocks him and tells Horikita that cooperation was never possible: the Class 2-D overture was a ploy, and the class was to profit from the bounty on Ayanokōji.
+[scene] (p.329) He sweeps Nanase aside and raises the blade; Ayanokōji charges him instead of fleeing.
+
+### y2v1 p.330–333 — The frame is exposed
+[scene] (p.331) The narrator lets the blade pierce his palm; the plot was for Hōsen to stab his own thigh with the knife and blame Ayanokōji.
+[says] (p.331) “Ha! So even though you managed to piece it all together, you still came an’ got stabbed yourself? You outta your mind?”
+[scene] (p.332–333) The narrator explains the reverse grip, the sheath, and how he identified his own knife; Hōsen's fist is locked in place.
+[says] (p.333) “…The hell…? Who the fuck are you…?”
+[rel:ayanokouji-kiyotaka] (p.321–337) Targets him for the bounty; is completely outwitted and bested, then becomes his partner — “the first opponent who’s gotten my blood boilin’.”
+[rel:nanase-tsubasa] (p.296–328) Brought her as mediator/block; berates her when she reveals the plot and stops his knife.
+
+### y2v1 p.334–337 — Amasawa's part, the offer, and the new rivalry
+[scene] (p.334) The narrator traces the knife to Amasawa, who stopped his purchase at Keyaki Mall and later retrieved the copy planted in Ayanokōji's room.
+[rel:amasawa-ichika] (p.334) She helped refine his knife plot and retrieved the knife; he calls her a "random chick" he shouldn’t have trusted.
+[scene] (p.335) He curses having trusted her; the narrator points out the plan could not have taken shape without her.
+[scene] (p.336) Ayanokōji asks him to be his partner; he refuses to accept that Ryūen is rated above him and is wounded in his pride.
+[scene] (p.337) He accepts the outcome and looks forward to beating Ayanokōji next time; Nanase stays behind to speak to the second-years, and he leaves first.
+[says] (p.337) “Fuckin’ good shit there, Ayanokōji-sempai! You’re the first opponent who’s gotten my blood boilin’ like this.”
+[trait] (p.296–337) Violent, proud and cunning — escalates from posturing to slapping Horikita and sucker-punching Sudō, then draws a knife intending to stab himself in the thigh with Ayanokōji's own Petty knife and frame him for expulsion; outsmarted when Ayanokōji lets himself be stabbed, his plot backfires and he accepts the deal.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
