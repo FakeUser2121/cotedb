@@ -228,6 +228,17 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y1v9 ch7 → p.175 -->
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.7–369 — Coverage gate: no appearances in this volume
+[scene] (p.7) The volume opens with Kiyotaka's first day at the school and closes with the short stories.
+[note] (p.7–369) The locator finds 0 hit pages and 0 hit lines for Yamada Albert; there is no name reference and no scene presence in this volume.
+[mentioned] (p.7–369) Zero prints; no presence is claimed.
+
+<!-- walk: y2v1 Coverage notes → DONE -->
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->

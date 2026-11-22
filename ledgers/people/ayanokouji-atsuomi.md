@@ -456,6 +456,17 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [trait] (p.259–260) Weighing whether to make Kiyotaka a politician — the "ultimate, perfected existence" exists in only one person; notes the disadvantage of nepotism and his son's lack of emotions and worldly knowledge, and begins preparing to change the plan and develop Kiyotaka's individuality.
 [rel:tsukishiro] (p.260–261) Enlisted to handle background arrangements; agrees to cooperate when Atsuomi implements his plan.
 [rel:kamogawa] (p.259–260) Left in shock by the plan; kept close.
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.7–358 — Coverage gate: Atsuomi is never printed
+[scene] (p.7) The volume follows Kiyotaka through his first weeks at the school; Atsuomi's given name never appears on these pages.
+[note] (p.7–358) The locator's 66 hit pages all match the shared family name Ayanokōji, which refers to Kiyotaka here; a whole-volume search finds no occurrence of Atsuomi.
+[mentioned] (p.7–358) Zero genuine prints; no scene presence is claimed.
+
+<!-- walk: y2v1 Coverage notes → DONE -->
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->

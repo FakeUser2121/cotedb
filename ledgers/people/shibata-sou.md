@@ -261,6 +261,17 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y0 Epilogue → p.265 -->
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.7–369 — Coverage gate: no appearances in this volume
+[scene] (p.7) The volume opens with Kiyotaka's first day at the school and closes with the short stories.
+[note] (p.7–369) The locator finds 0 hit pages and 0 hit lines for Shibata Sō or the unmacroned Shibata So; there is no name reference and no scene presence in this volume.
+[mentioned] (p.7–369) Zero prints; no presence is claimed.
+
+<!-- walk: y2v1 Coverage notes → DONE -->
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->
