@@ -5741,16 +5741,32 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.190–191) Praises his cleverness and asks what changed in him; he deflects.
 [rel:nanase-tsubasa] (p.193) Receives her message: "[May we meet up after school tomorrow?]"
 
-### y2v1 p.205–215 — Library: the Class 1-D negotiation begins
+### y2v1 p.205–206 — The OAA update and the library meeting
 [scene] (p.205) Brings Horikita to the library to meet the Class 1-D students Nanase is bringing; en route, notes 17 more pairs (73 total) and that two Class 1-D students finally paired — reading it as Hōsen's orders/a gag order.
-[says] (p.208) "I'm a little annoyed. I thought Hōsen-kun would wait and see how the situation developed for a little while longer." — Horikita
 [says] (p.205) "There's a fine line between them actually not knowing anything and them having a gag order in place."
-[trivia] (p.206–207) Hiyori, in the library, thoughtfully suggests the far-end seats so they won't disturb patrons and can spot anyone approaching; Ayanokōji is vaguely concerned about her (Ryūen's class).
-[trivia] (p.208) Nanase arrives alone (Hōsen not with her); she fumbles her self-introduction, starting with the masculine "Boku" before correcting to "Watashi" (a detail flagged by the translation).
-[trait] (p.205–215) Sees in Nanase an honest, straightforward, upright personality "that reminded me of Ichinose"; stays alert to whether Hōsen will appear, and suspects the two Class 1-D pairings were bought with large points.
+[scene] (p.206) Shiina Hiyori greets them in the library and suggests the far-end seats; Ayanokōji is vaguely concerned about her (Ryūen's class).
 [rel:shiina-hiyori] (p.206–207) She advises them on seating; he notes her situation with concern.
-[rel:nanase-tsubasa] (p.205–215) The negotiation with her; her upright honesty and "I will never yield to violence" conviction impress him despite suspicion about her identity.
+[trivia] (p.206–207) Hiyori, in the library, thoughtfully suggests the far-end seats so they won't disturb patrons and can spot anyone approaching.
+
+### y2v1 p.207–209 — Nanase arrives; Hōsen's policy
+[scene] (p.207) Nanase arrives alone (Hōsen not with her); she fumbles her self-introduction, starting with the masculine "Boku" before correcting to "Watashi".
+[scene] (p.208) Horikita asks about Class 1-D's policy; Nanase confirms Hōsen is in charge and that she cannot share the strategy.
+[says] (p.208) "I'm a little annoyed. I thought Hōsen-kun would wait and see how the situation developed for a little while longer." — Horikita
+[scene] (p.209) Nanase explains that Hōsen forbids free partnerships and ostracizes rule-breakers, and that she fears the individualist mindset will prevent the class from uniting later.
+[rel:nanase-tsubasa] (p.205–209) The negotiation with her; her upright honesty and "I will never yield to violence" conviction impress him despite suspicion about her identity.
 [rel:horikita-suzune] (p.207–208) They probe whether the other has been studying for their bet; each worries the other is neglecting it to use as an excuse.
+
+### y2v1 p.210–212 — The point-free proposal
+[scene] (p.210) Horikita proposes an equal, point-free partnership for 15 pairs; Nanase doubts Hōsen will allow it.
+[scene] (p.211–212) Nanase says about fifteen students would struggle to find partners alone; Horikita counters that the disadvantages of pairing E-rated students with C/D-rated ones are manageable.
+[rel:nanase-tsubasa] (p.210–212) She explains Hōsen's policy and confirms he has taken no compensation.
+
+### y2v1 p.213–215 — Why Hōsen controls the class
+[scene] (p.213) Horikita asks why Hōsen would refuse help that benefits everyone; Nanase says he still won't allow it.
+[scene] (p.214) Ayanokōji deduces Hōsen is not hoarding points but controlling the class, and that the capable students won't join for free.
+[scene] (p.215) Nanase confirms Hōsen has taken no compensation; Horikita and Ayanokōji consider using points for a couple of capable students as a fallback.
+[trait] (p.205–215) Sees in Nanase an honest, straightforward, upright personality "that reminded me of Ichinose"; stays alert to whether Hōsen will appear, and suspects the two Class 1-D pairings were bought with large points.
+[rel:nanase-tsubasa] (p.213–215) She says Hōsen controls the class and that capable students won't join for free.
 
 ### y2v1 p.209–214 — Nanase confirms Hōsen's control; the 15-pair proposal
 [says:nanase-tsubasa] (p.209) "Many students have already begun taking action in accordance with Hōsen-kun's orders."
