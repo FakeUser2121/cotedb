@@ -120,19 +120,22 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.152–181 — Ch.5 — depth read: Yamamura's courage to change
-[scene] (p.157) Appears silently outside the south entrance after leading them on a change of meeting place.
+### y3v2 p.152–163 — Ch.5 — depth read: Yamamura's courage to change
+[scene] (p.152) Appears silently outside the south entrance after leading them on a change of meeting place.
 [says] (p.157) "S-Sorry."
 [says] (p.157) "Y... Yes. Since you transferred classes, Ayanokouji-kun, we still... haven't said a single word to each other... so..."
+[trait] (p.157–161) Extremely shy and passive, but mustering real courage to voice her desire to change; Ayanokōji sees it as evolution, not regression.
+[rel:ayanokouji-kiyotaka] (p.157–163) Confides her wish to change and accepts his task to investigate Shiraishi.
+[rel:morishita-ai] (p.158–159) Is startled by Morishita's "Ear Gun" (blowing in her ear), which oddly helps ease her tension.
 [says] (p.161) "I want to change. I want to have more self-confidence, to be able to smile in front of others."
 [says] (p.161) "Please let me... help with getting to Class A, too."
 [says] (p.161) "I want to do more... much more. Because I believe... there's something... that only I can do."
 [says] (p.162) "Yes... If you're okay with it, Ayanokouji-kun, I think I can... try to investigate Shiraishi-san in my own way."
-[trait] (p.157–161) Extremely shy and passive, but mustering real courage to voice her desire to change; Ayanokōji sees it as evolution, not regression.
-[rel:ayanokouji-kiyotaka] (p.157–163) Confides her wish to change and accepts his task to investigate Shiraishi.
-[rel:morishita-ai] (p.158–159) Is startled by Morishita's "Ear Gun" (blowing in her ear), which oddly helps ease her tension.
 [rel:shiraishi-asuka] (p.162) Is asked to investigate her.
-
+### y3v2 p.164–175 — Ch.5 — depth read: Yamamura's courage to change
+[scene] (p.164) Appears silently outside the south entrance after leading them on a change of meeting place.
+### y3v2 p.176–181 — Ch.5 — depth read: Yamamura's courage to change
+[scene] (p.176) Appears silently outside the south entrance after leading them on a change of meeting place.
 ### y3v2 p.157–161 — Yamamura's courage to change
 [scene] (p.157) Appears soundlessly at the south entrance after leading Ayanokōji and Morishita around; bows in apology.
 [says] (p.157) "S-Sorry."

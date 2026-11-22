@@ -1826,8 +1826,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.66–125 — Ch.3 — depth read: Kushida's backhanded support
-[scene] (p.111) Stays behind after Ibuki leaves Horikita's room; thanks her for the meal and offers help with the exam.
+### y3v2 p.66–77 — Ch.3 — depth read: Kushida's backhanded support
+[scene] (p.66) Stays behind after Ibuki leaves Horikita's room; thanks her for the meal and offers help with the exam.
+### y3v2 p.78–89 — Ch.3 — depth read: Kushida's backhanded support
+[scene] (p.78) Stays behind after Ibuki leaves Horikita's room; thanks her for the meal and offers help with the exam.
+### y3v2 p.90–101 — Ch.3 — depth read: Kushida's backhanded support
+[scene] (p.90) Stays behind after Ibuki leaves Horikita's room; thanks her for the meal and offers help with the exam.
+### y3v2 p.102–113 — Ch.3 — depth read: Kushida's backhanded support
+[scene] (p.102) Stays behind after Ibuki leaves Horikita's room; thanks her for the meal and offers help with the exam.
 [says] (p.111) "Thank you for the meal today. I appreciate it."
 [says] (p.111) "You're not so bad, I suppose. Unlike a certain someone, you can actually say thank you."
 [says] (p.112) "But Class C has Ayanokouji-kun."
@@ -1838,21 +1844,24 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.111–113) Thanks her and offers to think about the exam, then leaves with a parting challenge.
 [rel:ibuki-mio] (p.111) Stayed later partly to avoid discussing exam strategies in front of her.
 [rel:ayanokouji-kiyotaka] (p.112) Names him as the reason Class C is dangerous.
-
-### y3v2 p.96–113 — Kushida at the wagyu dinner; revealing Yagami's secret
+### y3v2 p.114–125 — Ch.3 — depth read: Kushida's backhanded support
+[scene] (p.114) Stays behind after Ibuki leaves Horikita's room; thanks her for the meal and offers help with the exam.
+### y3v2 p.96–107 — Kushida at the wagyu dinner; revealing Yagami's secret
 [scene] (p.96) Eats the hamburger steak at Horikita's invitation, initially wary of a "catch."
 [says] (p.98) "There might be a catch to this. If you eat it carelessly, you might regret it—"
+[trait] (p.96–113) Two-faced and candid by turns — guards against the elaborate meal, reveals she lied about being Yagami's kouhai to probe him, admits Ayanokōji saved her, and openly embraces her pretend-kind persona while complaining about Class A's fall.
 [says] (p.105) "When I tried to get similar information out of him a few times before, he skillfully evaded my questions."
 [says] (p.107) "Yagami-kun and I aren't from the same middle school."
+[rel:yagami-takuya] (p.107–108) Lied about being from the same middle school; he knew her past and blackmailed her into cooperation.
+### y3v2 p.108–113 — Kushida at the wagyu dinner; revealing Yagami's secret
+[scene] (p.108) Eats the hamburger steak at Horikita's invitation, initially wary of a "catch."
 [says] (p.108) "I asked Ayanokouji-kun directly after Yagami-kun was expelled. He said he 'took care of' Yagami-kun to save me from being used."
 [says] (p.111) "Thank you for the meal today. I appreciate it."
-[says] (p.112) "It'd be pretty uncool if we keep losing like this, I think."
-[says] (p.113) "I just love the cute me who pretends to be kind."
-[trait] (p.96–113) Two-faced and candid by turns — guards against the elaborate meal, reveals she lied about being Yagami's kouhai to probe him, admits Ayanokōji saved her, and openly embraces her pretend-kind persona while complaining about Class A's fall.
 [rel:ayanokouji-kiyotaka] (p.108) Says he took care of Yagami to save her from being used; calls him someone she didn't want to expose.
-[rel:yagami-takuya] (p.107–108) Lied about being from the same middle school; he knew her past and blackmailed her into cooperation.
 [rel:horikita-suzune] (p.111–113) Thanks her, offers cooperation on the exam, and leaves with a mocking challenge.
 [rel:amasawa-ichika] (p.108) Had a hand in the Yagami blackmail affair.
+[says] (p.112) "It'd be pretty uncool if we keep losing like this, I think."
+[says] (p.113) "I just love the cute me who pretends to be kind."
 ## y3v3
 
 <!-- walk: y3v3 → start -->

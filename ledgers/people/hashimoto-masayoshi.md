@@ -521,19 +521,22 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.126–151 — Ch.4 — depth read: Hashimoto's intel and Ike's anger
+### y3v2 p.126–137 — Ch.4 — depth read: Hashimoto's intel and Ike's anger
 [scene] (p.127) Intercepts Ayanokōji and Hiyori in the morning; later joins the café discussion.
 [says] (p.128) "'Yo, good mornin'. And mornin' to you too, Shiina."
 [says] (p.128) "Ayanokouji Kiyotaka, you certainly don't discriminate, do you? Are you trying to make a move on Shiina Hiyori, too?"
-[says] (p.132) "I spent all day yesterday looking into the other classes."
-[says] (p.133) "You must have a skilled scout, or maybe you've got a spy planted in there."
-[says] (p.141) "Why're you so bent out of shape about it? It's not like Ayanokouji transferred from C to A."
 [trait] (p.127–145) Eager, gossipy and self-serving — investigates other classes, defends Ayanokōji for his own benefit, and tries to defuse Ike's anger.
 [rel:ayanokouji-kiyotaka] (p.127–145) Confirms his group-chat instructions and probes his sources.
 [rel:shiina-hiyori] (p.127) Unintentionally drives her away by intercepting them.
+[says] (p.132) "I spent all day yesterday looking into the other classes."
+[says] (p.133) "You must have a skilled scout, or maybe you've got a spy planted in there."
+### y3v2 p.138–151 — Ch.4 — depth read: Hashimoto's intel and Ike's anger
+[scene] (p.138) Intercepts Ayanokōji and Hiyori in the morning; later joins the café discussion.
+[says] (p.141) "Why're you so bent out of shape about it? It's not like Ayanokouji transferred from C to A."
 [rel:ike-kanji] (p.141–143) Tries to calm him in the café.
-
-### y3v2 p.152–181 — Ch.5 — depth read: Hashimoto's declaration of loyalty
+### y3v2 p.152–163 — Ch.5 — depth read: Hashimoto's declaration of loyalty
+[scene] (p.152) Tracks Ayanokōji and Morishita down at the south entrance by process of elimination.
+### y3v2 p.164–175 — Ch.5 — depth read: Hashimoto's declaration of loyalty
 [scene] (p.164) Tracks Ayanokōji and Morishita down at the south entrance by process of elimination.
 [says] (p.164) "Kinda cold, isn't it? Not inviting me to what looks like a pretty important chat."
 [says] (p.165) "Are you making Yamamura your aide, Ayanokouji?"
@@ -544,14 +547,14 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.164–167) Declares his loyalty and reasons for staying.
 [rel:morishita-ai] (p.164–165) Is repeatedly rebuffed by her.
 [rel:yamamura-miki] (p.165) Calls her "Miki-chan," drawing a rebuke.
-
+### y3v2 p.176–181 — Ch.5 — depth read: Hashimoto's declaration of loyalty
+[scene] (p.176) Tracks Ayanokōji and Morishita down at the south entrance by process of elimination.
 ### y3v2 p.45–47 — Hashimoto starts the discussion
 [says] (p.45) "Looks like this school just loves to dump one troublesome thing after another on us, huh?"
 [says] (p.45) "So, what's the plan, leader? Wanna start the discussion now?"
 [says] (p.46) "Whoops, my bad. I didn't mean anything weird by that laugh."
 [says] (p.47) "Another test? You're kidding me, back-to-back?"
 [trait] (p.45–47) Eager and informal — immediately looks to Ayanokōji as leader to start the discussion, compares his deferring style favorably to Sakayanagi's, and doubts back-to-back written tests.
-
 ### y3v2 p.127–133 — The morning interrogation and the café
 [says] (p.127) "'Yo, good mornin'. And mornin' to you too, Shiina."
 [says] (p.127) "'Wanted to check on somethin' related to our class before we get to school, y'see."
@@ -561,7 +564,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.127–133) Investigates the other classes, questions Ayanokōji's plan with Sakayanagi jabs, and is awed by his 90% certainty and apparent "scout" in Horikita's class.
 [rel:ayanokouji-kiyotaka] (p.127–133) Presses him for the exam plan; suspects a spy but wisely doesn't dig into Yamamura.
 [rel:morishita-ai] (p.129–131) Bickers with her; ends up treating her a 1,300-point strawberry frappé for her silence.
-
 ### y3v2 p.206–209 — Hashimoto asks about Hiyori
 [scene] (p.206) Waits in the dorm lobby for Ayanokōji to return, then pulls him outside to ask about the flower and Hiyori.
 [says] (p.206) "You're really tolerant of Shiina, or rather, you're pretty close with her, aren't you?"

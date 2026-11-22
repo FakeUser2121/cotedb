@@ -170,20 +170,23 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.152–181 — Ch.5 — depth read: Morishita's comic manipulation
+### y3v2 p.152–163 — Ch.5 — depth read: Morishita's comic manipulation
 [scene] (p.152) Tugs Ayanokōji's hair from behind and announces Yamamura wants to see him; leads him on a deliberately pointless detour.
 [says] (p.152) "Ayanokouji Kiyotaka. I must ask you to lend me your face."
 [says] (p.152) "It appears Yamamura Miki wishes to see you now."
 [says] (p.155) "You mustn't be so easily swayed and deceived by the words of others."
-[says] (p.159) "Hmph. That's the Ear Gun. All those who're caught unaware are startled, you see."
-[says] (p.159) "How about it, Yamamura Miki? Don't you feel a little less tense now?"
-[says] (p.165) "Trust isn't built in a day."
 [trait] (p.152–165) Eccentric, theatrical and manipulative — plays the straight-man comedy routine, tricks Ayanokōji into touching a "warm" floor and blows in Yamamura's ear, yet her odd methods ease Yamamura's tension.
 [rel:ayanokouji-kiyotaka] (p.152–163) Leads him to Yamamura and claims he owes her.
+[says] (p.159) "Hmph. That's the Ear Gun. All those who're caught unaware are startled, you see."
+[says] (p.159) "How about it, Yamamura Miki? Don't you feel a little less tense now?"
 [rel:yamamura-miki] (p.158–161) Uses the "Ear Gun" to help her relax.
+### y3v2 p.164–175 — Ch.5 — depth read: Morishita's comic manipulation
+[scene] (p.164) Tugs Ayanokōji's hair from behind and announces Yamamura wants to see him; leads him on a deliberately pointless detour.
+[says] (p.165) "Trust isn't built in a day."
 [rel:hashimoto-masayoshi] (p.164–165) Sharply rejects him ("Trust isn't built in a day").
-
-### y3v2 p.182–210 — Ch.6 — depth read: Morishita's rubber-band gun
+### y3v2 p.176–181 — Ch.5 — depth read: Morishita's comic manipulation
+[scene] (p.176) Tugs Ayanokōji's hair from behind and announces Yamamura wants to see him; leads him on a deliberately pointless detour.
+### y3v2 p.182–193 — Ch.6 — depth read: Morishita's rubber-band gun
 [scene] (p.182) Fires a rubber band at Ayanokōji from a gun made of disposable chopsticks.
 [says] (p.182) "To think you're still alive. You're quite something."
 [says] (p.183) "It is a gun. A gun."
@@ -193,7 +196,10 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [trait] (p.182–184) Eccentric and violent-playful — crafted a "lethal" rubber-band gun during break, targets only Ayanokōji, and teases him about having feelings.
 [rel:ayanokouji-kiyotaka] (p.182–184) Shoots him with rubber bands and needles him.
 [note] (p.183–184) Turns down Satonaka's group invitation bluntly; teases Ayanokōji about having feelings for him.
-
+### y3v2 p.194–205 — Ch.6 — depth read: Morishita's rubber-band gun
+[scene] (p.194) Fires a rubber band at Ayanokōji from a gun made of disposable chopsticks.
+### y3v2 p.206–210 — Ch.6 — depth read: Morishita's rubber-band gun
+[scene] (p.206) Fires a rubber band at Ayanokōji from a gun made of disposable chopsticks.
 ### y3v2 p.44 — Morishita's needling in homeroom
 [says] (p.44) "Have you gotten used to the class environment yet?"
 [says] (p.44) "More or less, is it? If you're acting tough, you can be honest with me, you know?"
@@ -201,7 +207,6 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [says] (p.44) "That's right. I was thinking I'd have a good laugh at your expense if you'd said you hadn't fit in."
 [says] (p.44) "Aww, so stubborn. This is why people whose names start with 'A', end with 'Ka', and are ten hiragana characters long are just hopeless."
 [trait] (p.44) Needling and theatrical — pretends concern only to mock him; her priest-confession line and oddly specific jab at his name show her peculiar humor.
-
 ### y3v2 p.128–140 — Morishita's needling and the expulsion point
 [says] (p.128) "Ayanokouji Kiyotaka, you certainly don't discriminate, do you?"
 [says] (p.129) "Well, I hold our former leader, Sakayanagi-san, in high regard."
@@ -211,7 +216,6 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [trait] (p.128–140) The "onlooker" who needles Hashimoto as a "traitor," defends Sakayanagi, and corrects his ignorance with the fact that ~15 third-years were expelled the prior year — revealing sharp memory beneath the quiet act.
 [rel:hashimoto-masayoshi] (p.129) Calls him "traitorous Hashimoto THE Righteous."
 [rel:ayanokouji-kiyotaka] (p.128–140) Tags along to the café as a "phantom," zips her mouth, and drinks her frappé silently before rejoining the expulsion discussion.
-
 ### y3v2 p.152–158 — Pulling Ayanokōji to Yamamura; the "Ear Gun"
 [says] (p.152) "Ayanokouji Kiyotaka. I must ask you to lend me your face."
 [says] (p.152) "It appears Yamamura Miki wishes to see you now."
@@ -226,7 +230,6 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [trait] (p.152–165) Theatrical and manipulative — leads Ayanokōji on a deliberately pointless detour (claiming the floor was still warm, using a message she'd read five minutes earlier), tricks him into touching it, then blows in Yamamura's ear to ease her tension; puts herself in his debt and needles Hashimoto.
 [rel:ayanokouji-kiyotaka] (p.152–166) Drags him to Yamamura, claims he owes her, and repeatedly tricks/teases him.
 [rel:yamamura-miki] (p.158–161) Uses the "Ear Gun" on her, which genuinely helps her relax and speak.
-
 ### y3v2 p.251–252 — "Ear Gun" (Morishita's account)
 [scene] (p.251) Frustrated that Ayanokōji merely watches Yamamura struggle to speak, decides to give her a push.
 [narrates] (p.251) "In this world, time is money."

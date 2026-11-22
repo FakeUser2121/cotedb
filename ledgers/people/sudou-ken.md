@@ -1708,20 +1708,27 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.66–125 — Ch.3 — depth read: Sudō, the reliable ally
+### y3v2 p.66–77 — Ch.3 — depth read: Sudō, the reliable ally
+[scene] (p.66) Is in his room studying with Onodera when Horikita visits late at night.
+### y3v2 p.78–89 — Ch.3 — depth read: Sudō, the reliable ally
+[scene] (p.78) Is in his room studying with Onodera when Horikita visits late at night.
+### y3v2 p.90–101 — Ch.3 — depth read: Sudō, the reliable ally
+[scene] (p.90) Is in his room studying with Onodera when Horikita visits late at night.
+### y3v2 p.102–113 — Ch.3 — depth read: Sudō, the reliable ally
+[scene] (p.102) Is in his room studying with Onodera when Horikita visits late at night.
+### y3v2 p.114–125 — Ch.3 — depth read: Sudō, the reliable ally
 [scene] (p.115) Is in his room studying with Onodera when Horikita visits late at night.
 [says] (p.115) "S-S-S-Suzune!? Wh-what are you doing here?"
 [says] (p.115) "Well, y'see, about this special exam. They said we don't gotta study yet, but it'd be bad if there was a written test, right?"
 [says] (p.117) "Oh, right. They were checkin' stuff like tardiness, absences, and our attitude in class. That's how our Class Points went to zero, wasn't it?"
-[says] (p.118) "Then we gotta make damn sure no one finds out about this."
-[says] (p.118) "Ayanokouji's probably figured it out."
-[says] (p.123) "But still, isn't five hundred thousand just for doing nothing way too steep?"
-[says] (p.124) "W-well… If you're asking me to keep my mouth shut, then I won't tell anyone."
 [trait] (p.115–125) Flustered and bashful around Horikita but dependable — already studying, agrees to keep the plan secret, and helps with Kōenji without hesitation.
 [rel:horikita-suzune] (p.115–125) Is trusted with her exam theory and the Kōenji deal; silently supportive, which warms her.
 [rel:onodera-kayano] (p.115) Is studying with her when Horikita arrives.
+[says] (p.118) "Then we gotta make damn sure no one finds out about this."
+[says] (p.118) "Ayanokouji's probably figured it out."
 [rel:kouenji-rokusuke] (p.119–123) Accompanies Horikita to his room and beats on his door.
-
+[says] (p.123) "But still, isn't five hundred thousand just for doing nothing way too steep?"
+[says] (p.124) "W-well… If you're asking me to keep my mouth shut, then I won't tell anyone."
 ### y3v2 p.115–123 — Sudō: studying with Onodera; backing Horikita with Kōenji
 [scene] (p.115) Opens his door in his uniform (blazer off), glasses on, a mechanical pencil in hand — flustered to find Horikita.
 [says] (p.115) "Who the hell is it at this hour—"

@@ -4774,43 +4774,53 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.66–125 — Ch.3 — depth read: Horikita's leadership tested
+### y3v2 p.66–77 — Ch.3 — depth read: Horikita's leadership tested
 [scene] (p.67) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
 [says] (p.67) "The special exam doesn't start until tomorrow, so just panicking here is a waste of time. First, we should calm down, brainstorm ideas, and discuss things."
+[rel:kouenji-rokusuke] (p.69–74, 120–123) Chases him down twice; strikes a secret deal for his discipline.
 [says] (p.71) "It's necessary for the class to unite once again. I don't want you to disrupt that harmony."
 [says] (p.72) "It's true that Ayanokouji-kun left our class. But we didn't win through his power alone."
+[trait] (p.71–73) Stands up to Kōenji despite his killing intent and blunt criticism of her leadership; rattled but refuses to back down.
+### y3v2 p.78–89 — Ch.3 — depth read: Horikita's leadership tested
+[scene] (p.78) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
+[rel:nanase-tsubasa] (p.85–88) Investigates the first-year fight with her in the student council room.
 [says] (p.87) "I'm nothing special. I was told I was exceptional quite often back in middle school, but… Ayanokouji-kun, my brother, Nagumo-senpai… no, Sakayanagi-san and Ichinose-san are the same."
 [says] (p.88) "Hmph… You know, hearing that repeatedly is starting to get on my nerves."
+[rel:karuizawa-kei] (p.89–93) Consults her at the supermarket about the exam and Ayanokōji/Ichinose.
+### y3v2 p.90–101 — Ch.3 — depth read: Horikita's leadership tested
+[scene] (p.90) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
+### y3v2 p.102–113 — Ch.3 — depth read: Horikita's leadership tested
+[scene] (p.102) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
+[rel:kushida-kikyou] (p.111–113) Talks with her after Ibuki leaves; draws the key insight about Chabashira's hint.
+### y3v2 p.114–125 — Ch.3 — depth read: Horikita's leadership tested
+[scene] (p.114) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
+[feat] (p.114–123) Deduces the exam is likely a repeat of the first-year conduct test, secures Kōenji's week of perfect discipline for 500,000 points, and swears Sudō to secrecy.
+[rel:sudou-ken] (p.115–125) Shares her theory with him, borrows him for the Kōenji visit, and thanks him.
 [says] (p.121) "If you exhibit no problematic behavior whatsoever, just like the other classmates, I will pay you 200,000 Private Points."
 [says] (p.121) "Yes." — agreeing with Kōenji that discipline is likely the basis
-[feat] (p.114–123) Deduces the exam is likely a repeat of the first-year conduct test, secures Kōenji's week of perfect discipline for 500,000 points, and swears Sudō to secrecy.
-[trait] (p.71–73) Stands up to Kōenji despite his killing intent and blunt criticism of her leadership; rattled but refuses to back down.
-[rel:kouenji-rokusuke] (p.69–74, 120–123) Chases him down twice; strikes a secret deal for his discipline.
-[rel:nanase-tsubasa] (p.85–88) Investigates the first-year fight with her in the student council room.
-[rel:karuizawa-kei] (p.89–93) Consults her at the supermarket about the exam and Ayanokōji/Ichinose.
-[rel:kushida-kikyou] (p.111–113) Talks with her after Ibuki leaves; draws the key insight about Chabashira's hint.
-[rel:sudou-ken] (p.115–125) Shares her theory with him, borrows him for the Kōenji visit, and thanks him.
-
-### y3v2 p.231–263 — Epilogue — depth read: investigating Ayanokōji's past
+### y3v2 p.231–242 — Epilogue — depth read: investigating Ayanokōji's past
+[scene] (p.231) Scene.
 [says] (p.231) "Good morning, I apologize for contacting you so suddenly last night."
 [says] (p.231) "If that's what you were expecting, then I'm afraid I'll have to apologize. I didn't invite you to hang out for fun."
 [says] (p.232) "You're sharp. That is one of my objectives."
 [says] (p.232) "But if it's something even you don't know, then I can give up."
 [says] (p.234) "I have no intention of keeping secrets or telling you any clumsy lies, either."
-[says] (p.237) "I'm sorry. I know it's sudden, but I have to go to the student council."
 [feat] (p.231–246) Begins investigating Ayanokōji's past — tails Amasawa with Karuizawa, then receives Ishigami's lead that Nanase is the one who knows his past.
 [rel:karuizawa-kei] (p.231–237) Invites her out; they tail Amasawa together.
+[says] (p.237) "I'm sorry. I know it's sudden, but I have to go to the student council."
 [rel:ishigami-kyou] (p.238–246) Is approached by him; receives the lead about Nanase and agrees to keep his identity secret.
 [rel:amasawa-ichika] (p.235–236) Tails her as a possible link to Ayanokōji's past.
+### y3v2 p.243–254 — Epilogue — depth read: investigating Ayanokōji's past
+[scene] (p.243) Scene.
 [rel:nanase-tsubasa] (p.244–246) Learns from Ishigami that she may know Ayanokōji's past; plans to investigate.
-
+### y3v2 p.255–263 — Epilogue — depth read: investigating Ayanokōji's past
+[scene] (p.255) Scene.
 ### y3v2 p.66–68 — Class A reels from Chabashira's cold announcement
 [scene] (p.66) Waters as Chabashira announces the exam with no rules and leaves; the class grumbles.
 [says] (p.67) "The special exam doesn't start until tomorrow, so just panicking here is a waste of time. First, we should calm down, brainstorm ideas, and discuss things."
 [says] (p.68) "If we pool our wisdom, it's possible we can get closer to the rules."
 [trait] (p.66–68) Calm and proactive — calls for brainstorming while others complain; reads Chabashira's coldness as possibly a way to make the class refocus, not mere harassment.
 [rel:kouenji-rokusuke] (p.69–73) Chases him down after he walks out; he rebuffs her with his "contract."
-
 ### y3v2 p.69–73 — Confronting Kōenji in the hallway
 [says] (p.70) "Would you mind waiting a moment?"
 [says] (p.70) "I just want you to at least hear me out."
@@ -4821,7 +4831,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.73) "Without his cooperation, we might not be able to graduate from Class A."
 [trait] (p.69–73) Persistent but rattled — presses Kōenji about "unity," is stung by his claim that Class A only won through Ayanokōji, and admits he is right that she has not truly grown.
 [rel:kouenji-rokusuke] (p.69–73) He calls her "Horikita Girl," cites their contract, bluntly says victory is impossible while she leads, and warns her not to make an enemy of him.
-
 ### y3v2 p.86–88 — The student council case: deducing a girl attacked the first-years
 [scene] (p.86) Reviews the case of first-years Kusanagi and Maki with Nanase in the student council room.
 [says] (p.87) "Boys can be a bit childish in the way they think, don't you agree?"
@@ -4831,7 +4840,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.88) "A mediocre Horikita-senpai isn't bad at all." — Nanase, correcting her
 [trait] (p.86–88) Sharp deductive reasoning — realizes two proud boys would be too embarrassed to admit losing to a single girl, and asks Nanase to help investigate; brushes off her praise with honest self-doubt.
 [rel:nanase-tsubasa] (p.86–88) Works the case with her; Nanase admires her and calls her "amazing."
-
 ### y3v2 p.89–93 — The supermarket: asking Karuizawa's opinion
 [scene] (p.89) Meets Karuizawa at the Keyaki Mall supermarket to discuss the exam.
 [says] (p.90) "We can't keep doing the same things as always. That's why I want to take a step toward changing things."
@@ -4841,23 +4849,23 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.89–93) Genuinely seeks Karuizawa's view as a way to change the class's thinking; recognizes she is "far more clever" than credited.
 [rel:karuizawa-kei] (p.89–93) Consults her; they grow closer as she values her opinion.
 [rel:ayanokouji-kiyotaka] (p.91) Reasons he would give Ichinose information to hurt Class A because he knows it better than anyone.
-
-### y3v2 p.96–114 — The wagyu dinner; probing Ibuki and Kushida about Ayanokōji
+### y3v2 p.96–107 — The wagyu dinner; probing Ibuki and Kushida about Ayanokōji
 [scene] (p.96) Cooks a meal (kuroge wagyu hamburger steak, rice) for Ibuki and Kushida in her room, intending to ask their opinions.
 [trivia] (p.96) The ingredients cost twice her usual budget; she notes the noisy voices of her two guests now reach her "like strangely calming music" — a shift in perspective.
 [trivia] (p.96–97) Admits to herself she told Ibuki a small lie — that she has fully recovered from Ayanokōji's departure; her wounded heart is far from healed, and the lie was meant to prevent another victim of Ibuki's kicks and to deceive herself.
-[says] (p.101) "I want to hear both of your opinions."
-[says] (p.101) "Regarding Ayanokouji-kun, who has become quite the topic of conversation."
-[says] (p.101) "It seems that when you think of 'defeating him,' you only consider it in a physical sense."
-[says] (p.104) "Wanting to know his roots, I actually went to the three-way conference hoping to meet his parents."
-[says] (p.104) "It was his father who came for the interview, and while he had a somewhat stern look, he was a calm, ordinary person."
-[says] (p.104) "Even among them, Ayanokouji-kun feels... anomalous... as if he alone is clearly standing on a different plane."
-[inference] (p.102–109) Reconstructs Ayanokōji's background: Ibuki and Kushida both suspect he has a "secret," Yagami and Amasawa knew him and bore resentment, and he avoided leaving any trace (no middle-school records online) — concluding their relationship was more than mere acquaintance.
 [trait] (p.96–114) Vulnerable under the confident surface — still wounded by the transfer, deifying Ayanokōji to preserve her peace of mind, yet methodically gathering intelligence.
 [rel:ibuki-mio] (p.96–110) Feeds her and probes her for insights into Ayanokōji; Ibuki says beating him is impossible and calls her "useless."
 [rel:kushida-kikyou] (p.96–113) Shares the meal; Kushida reveals Yagami was not actually her kouhai and that Ayanokōji got him expelled to save her.
+[says] (p.101) "I want to hear both of your opinions."
+[says] (p.101) "Regarding Ayanokouji-kun, who has become quite the topic of conversation."
+[says] (p.101) "It seems that when you think of 'defeating him,' you only consider it in a physical sense."
+[inference] (p.102–109) Reconstructs Ayanokōji's background: Ibuki and Kushida both suspect he has a "secret," Yagami and Amasawa knew him and bore resentment, and he avoided leaving any trace (no middle-school records online) — concluding their relationship was more than mere acquaintance.
+[says] (p.104) "Wanting to know his roots, I actually went to the three-way conference hoping to meet his parents."
+[says] (p.104) "It was his father who came for the interview, and while he had a somewhat stern look, he was a calm, ordinary person."
+[says] (p.104) "Even among them, Ayanokouji-kun feels... anomalous... as if he alone is clearly standing on a different plane."
 [rel:ayanokouji-atsuomi] (p.104) Met his father at the three-way conference — "calm, ordinary," claimed nothing special about his education; she suspects a lie.
-
+### y3v2 p.108–114 — The wagyu dinner; probing Ibuki and Kushida about Ayanokōji
+[scene] (p.108) Cooks a meal (kuroge wagyu hamburger steak, rice) for Ibuki and Kushida in her room, intending to ask their opinions.
 ### y3v2 p.111–114 — Kushida's goodbye; the conduct-exam breakthrough
 [scene] (p.111) After Ibuki leaves, Kushida lingers and thanks her for the meal before departing.
 [says] (p.112) "But Class C has Ayanokouji-kun."
@@ -4867,7 +4875,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.113) "I expect your strength isn't just for show."
 [trait] (p.111–113) Reflects on Kushida's way of life — endlessly concerned with appearances — and is impressed; resolves to live up to her parting words.
 [inference] (p.114) Noticing the mess Ibuki left (spilled miso soup, rice grains), and recalling Chabashira's coldness and "show me you've grown," she realizes the exam likely observes daily conduct/manners — and must secure Kōenji's cooperation by tomorrow.
-
 ### y3v2 p.115–124 — Enlisting Sudō and Onodera; the Kōenji deal
 [scene] (p.115) Visits Sudō's room after 8 p.m. to explain her conduct-exam theory; Onodera is there studying with him.
 [says] (p.115) "I apologize for visiting without notice. I have something I'd like to talk about."
@@ -4885,7 +4892,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:onodera-kayano] (p.115–119) Explains the plan to her too; she is studying with Sudō.
 [rel:kouenji-rokusuke] (p.120–124) Negotiates in his room; he doubles her 200,000 offer to 500,000 and sees through her bluff about the upper limit.
 [rel:karuizawa-kei] (p.118) Recalls her fear that the information might reach Class D.
-
 ### y3v2 p.231–237 — Meeting Karuizawa; tailing Amasawa
 [scene] (p.231) Meets Karuizawa near the dorm lobby on a Saturday before 11 a.m., in uniform for a 2 p.m. Student Council matter.
 [says] (p.231) "Good morning. I apologize for contacting you so suddenly last night."
@@ -4896,7 +4902,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.231–237) Opens up to Karuizawa about wanting to defeat Ayanokōji and investigate his roots; trusts her discretion and enjoys tailing Amasawa despite herself.
 [rel:karuizawa-kei] (p.231–237) Invites her to help; she knows Ayanokōji best and agrees to answer, though she blushes at "anything."
 [rel:amasawa-ichika] (p.235–237) Tails her through Keyaki Mall, noting she acts alone and forms no close relationships; loses the lead when a message calls Horikita away.
-
 ### y3v2 p.237–247 — The unexplained message; Ishigami's consultation
 [scene] (p.237) Receives an unregistered text, "I'm waiting in the Student Council room," and rushes to school, but the room is empty — a prank.
 [says] (p.241) "Were you the one who sent me the message?"

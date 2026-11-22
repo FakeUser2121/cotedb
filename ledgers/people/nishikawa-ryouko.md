@@ -38,19 +38,20 @@ char_id: nishikawa-ryouko · class: Class 1-A · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.43–65 — Ch.2 — depth read: Nishikawa's skepticism
-[scene] (p.52) Joins the lunch group at Shiraishi's invitation; keeps up a running critique of Ayanokōji and Yoshida.
+### y3v2 p.43–54 — Ch.2 — depth read: Nishikawa's skepticism
+[scene] (p.43) Joins the lunch group at Shiraishi's invitation; keeps up a running critique of Ayanokōji and Yoshida.
+[rel:shiraishi-asuka] (p.52–63) Is her friend; calls her "Asuka."
+### y3v2 p.55–65 — Ch.2 — depth read: Nishikawa's skepticism
+[scene] (p.55) Joins the lunch group at Shiraishi's invitation; keeps up a running critique of Ayanokōji and Yoshida.
 [says] (p.55) "Looks like you've become quite hated, Ayanokouji-kun."
 [says] (p.57) "I'm more jealous than happy, though~."
 [says] (p.57) "I think blind faith is a dangerous way of thinking."
-[says] (p.62) "I'm still holding on to my theory that you're an assassin sent by Horikita-san, you know."
-[says] (p.62) "I can't do it right away, but I guess I do hope I can learn to trust Ayanokouji-kun as soon as possible."
-[says] (p.64) "It's hard to tell what Kitou-kun's thinking. And his face is scary."
 [trait] (p.55–62) Openly skeptical, negative and teasing — refuses to blindly root for Ayanokōji, suspects Horikita sent him, but is willing to move toward trust.
 [rel:ayanokouji-kiyotaka] (p.55–62) Skeptical of him and his OAA; floats the "assassin" theory before softening.
 [rel:yoshida-kenta] (p.57–62) Teases him mercilessly as Ayanokōji's follower and a second Hashimoto; needles him about Shiraishi.
-[rel:shiraishi-asuka] (p.52–63) Is her friend; calls her "Asuka."
-
+[says] (p.62) "I'm still holding on to my theory that you're an assassin sent by Horikita-san, you know."
+[says] (p.62) "I can't do it right away, but I guess I do hope I can learn to trust Ayanokouji-kun as soon as possible."
+[says] (p.64) "It's hard to tell what Kitou-kun's thinking. And his face is scary."
 ### y3v2 p.55–58 — Nishikawa's suspicion
 [says] (p.55) "Looks like you've become quite hated, Ayanokouji-kun."
 [says] (p.55) "The special exam's about to start, so maybe they don't want to carelessly give away any information?"

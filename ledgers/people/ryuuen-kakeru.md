@@ -2064,19 +2064,23 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.152–181 — Ch.5 — depth read: Ryūen's class prepares
+### y3v2 p.152–163 — Ch.5 — depth read: Ryūen's class prepares
+[scene] (p.152) Scene.
+### y3v2 p.164–175 — Ch.5 — depth read: Ryūen's class prepares
+[scene] (p.164) Scene.
+### y3v2 p.176–181 — Ch.5 — depth read: Ryūen's class prepares
+[scene] (p.176) Scene.
 [says] (p.177) "So he's made up his mind, huh?"
 [says] (p.177) "If he makes a clumsy move to secure his own escape route, he'll be cut off without mercy."
 [says] (p.178) "I don't give a damn what kind of feelings you have for Ayanokouji. But as long as you're a member of my class, you need to work to make us win."
 [says] (p.179) "Tearing down Ayanokouji and the next special exam. Figured I'd touch on that."
-[says] (p.180) "Fouls, whatever, I'll use any means necessary to win."
-[says] (p.181) "I'll make damn sure you're useful. Not for Ayanokouji, but for this class."
 [trait] (p.177–181) Ruthless and pragmatic — rates Ayanokōji highly, plans to exploit any means (including Shiina's feelings) to defeat him.
 [rel:shiina-hiyori] (p.178, 181) Presses her for her read on Ayanokōji and resolves to use her feelings for the class.
 [rel:kaneda-satoru] (p.177) Notes Hashimoto has stopped contacting him — proof of his commitment to Ayanokōji.
-[rel:katsuragi-kouhei] (p.180) Clashes with him over fighting dirty vs. by the rules.
 [rel:hashimoto-masayoshi] (p.177) Interprets his silence as a decision to commit fully.
-
+[says] (p.180) "Fouls, whatever, I'll use any means necessary to win."
+[says] (p.181) "I'll make damn sure you're useful. Not for Ayanokouji, but for this class."
+[rel:katsuragi-kouhei] (p.180) Clashes with him over fighting dirty vs. by the rules.
 ### y3v2 p.177–179 — Ryūen's karaoke meeting: Shiina's feelings and Hashimoto's loyalty
 [says] (p.177) "They let me know they'd be late. More importantly, Kaneda, have you heard anything from that Hashimoto guy?"
 [says] (p.177) "So he's made up his mind, huh?"

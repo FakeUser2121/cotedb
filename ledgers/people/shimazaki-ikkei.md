@@ -24,20 +24,23 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.13–42 — Ch.1 — depth read: the studious rival
+### y3v2 p.13–24 — Ch.1 — depth read: the studious rival
 [scene] (p.13) Is in the dorm lobby listening to English listening practice on a wireless earbud before class.
 [says] (p.13) "English listening practice for the entrance exams. Personally, English isn't my strong suit, so I want to devote as much time as possible to it now, while I still can."
 [says] (p.14) "I try to set aside at least five hours a day to study, but that's about it."
 [says] (p.14) "The right to graduate from Class A is ultimately just a trump card."
 [says] (p.16) "Today, I'm going to make you confess all of your secrets."
-[says] (p.17) "After seeing the results of the last special exam, I know you're ranked higher than me. I don't expect to catch up to your level today or tomorrow. But that doesn't mean I'm going to give up trying."
-[says] (p.30) "I think Nishikawa has special feelings for Shiraishi."
-[says] (p.32) "But information is information. I'll have you pay me back in kind someday."
 [trait] (p.13–32) Diligent and competitive — studies ~5 hours daily, aware of his weaknesses, and determined to close the gap to Ayanokōji; sharp analyst of the Shiraishi rumor.
 [rel:ayanokouji-kiyotaka] (p.16–33) Presses him for study secrets; decides to trust his advice and owes him a future favor.
 [rel:yoshida-kenta] (p.13–32) Friends with him; debates study habits and the Shiraishi rumors; secretly also likes Shiraishi.
+[says] (p.17) "After seeing the results of the last special exam, I know you're ranked higher than me. I don't expect to catch up to your level today or tomorrow. But that doesn't mean I'm going to give up trying."
+### y3v2 p.25–36 — Ch.1 — depth read: the studious rival
+[scene] (p.25) Is in the dorm lobby listening to English listening practice on a wireless earbud before class.
+[says] (p.30) "I think Nishikawa has special feelings for Shiraishi."
+[says] (p.32) "But information is information. I'll have you pay me back in kind someday."
 [rel:shiraishi-asuka] (p.30–31) Has watched her since enrollment; theorizes about the "100-man slayer" lie and her preferences.
-
+### y3v2 p.37–42 — Ch.1 — depth read: the studious rival
+[scene] (p.37) Is in the dorm lobby listening to English listening practice on a wireless earbud before class.
 ### y3v2 p.13–16 — The invitation: studying on a day off
 [scene] (p.13) Waits in the dorm lobby having come down early; greets Ayanokōji and Yoshida.
 [says] (p.13) "English listening practice for the entrance exams. Personally, English isn't my strong suit, so I want to devote as much time as possible to it now, while I still can."
@@ -48,7 +51,6 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 [says] (p.16) "The truth is, my business is only with Ayanokouji, but we aren't exactly on terms where we can just go out and talk."
 [says] (p.16) "Today, I'm going to make you confess all of your secrets."
 [trait] (p.13–16) Diligent and competitive — a top-ranked former Class A student who studies ~5 hours daily and attends the Keyaki Mall cram school; aware of his weaknesses and determined to close the gap.
-
 ### y3v2 p.17–20 — Pressing for the study method
 [says] (p.17) "Tell me what kind of study guides you usually use, and how you study."
 [says] (p.17) "After seeing the results of the last special exam, I know you're ranked higher than me."
@@ -58,7 +60,6 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 [trait] (p.17–20) Sincere and relentless — offers Private Points or anything else for the method, presses Ayanokōji without reservation, and accepts partial advice after weighing whether to write him off.
 [rel:ayanokouji-kiyotaka] (p.16–20) Presses him for his study secrets; notices his subconscious sense of rivalry toward him.
 [rel:yoshida-kenta] (p.13–16) Friends with him; the two banter about study habits.
-
 ### y3v2 p.46–51 — Shimazaki's exam theories
 [says] (p.47) "What's certain at this point is that, either way, the rules probably aren't that complex."
 [says] (p.47) "He also mentioned 'student-like behavior,' which I took to mean studying, the fundamental duty of a student."

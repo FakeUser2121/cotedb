@@ -29,31 +29,36 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.13–42 — Ch.1 — depth read: the lovesick Yoshida
+### y3v2 p.13–24 — Ch.1 — depth read: the lovesick Yoshida
 [scene] (p.13) Greets Ayanokōji in the dorm lobby; tags along to Keyaki Mall.
 [says] (p.13) "Yo, mornin'."
 [says] (p.16) "So that's what this is about. Well, people naturally tend to rely on me, after all."
+[rel:ayanokouji-kiyotaka] (p.13–42) Acts as go-between with Shimazaki; confides his feelings and envies/gets envied by Ayanokōji.
+[rel:shimazaki-ikkei] (p.13–32) Friends with him; is shaken to learn Shimazaki is also a rival for Shiraishi.
 [says] (p.21) "Studying is important, but I wanna take romance seriously, too."
+[trait] (p.21–39) Openly emotional and lovesick — prioritizes romance over studying, is devastated by the rumor, then resolves to pursue Shiraishi; wears his feelings openly.
+[rel:shiraishi-asuka] (p.21–39) Is in love with her; calls her mysterious and kind, vows to pursue her.
+### y3v2 p.25–36 — Ch.1 — depth read: the lovesick Yoshida
+[scene] (p.25) Greets Ayanokōji in the dorm lobby; tags along to Keyaki Mall.
 [says] (p.34) "What am I supposed to do if Shiraishi likes girls...? I'm a guy, y'know, a guy!"
+### y3v2 p.37–42 — Ch.1 — depth read: the lovesick Yoshida
+[scene] (p.37) Greets Ayanokōji in the dorm lobby; tags along to Keyaki Mall.
 [says] (p.39) "I wanna go out with Shiraishi!"
 [says] (p.39) "I'm getting soaked!"
-[trait] (p.21–39) Openly emotional and lovesick — prioritizes romance over studying, is devastated by the rumor, then resolves to pursue Shiraishi; wears his feelings openly.
-[rel:ayanokouji-kiyotaka] (p.13–42) Acts as go-between with Shimazaki; confides his feelings and envies/gets envied by Ayanokōji.
-[rel:shiraishi-asuka] (p.21–39) Is in love with her; calls her mysterious and kind, vows to pursue her.
-[rel:shimazaki-ikkei] (p.13–32) Friends with him; is shaken to learn Shimazaki is also a rival for Shiraishi.
 [rel:morishita-ai] (p.38) Refuses to compare her to Shiraishi — calls her an "incomprehensible weirdo."
-
-### y3v2 p.43–65 — Ch.2 — depth read: Yoshida the loyal supporter
+### y3v2 p.43–54 — Ch.2 — depth read: Yoshida the loyal supporter
+[scene] (p.43) Scene.
 [says] (p.52) "Hey, let's grab a bite to eat, Ayanokouji!"
+[rel:ayanokouji-kiyotaka] (p.52–62) Defends him and starts from a place of trust.
+[rel:shiraishi-asuka] (p.52–63) Eager to join her for lunch; avoids sitting directly across from her out of shyness.
+### y3v2 p.55–65 — Ch.2 — depth read: Yoshida the loyal supporter
+[scene] (p.55) Scene.
 [says] (p.55) "The special exam's about to start, so maybe they don't want to carelessly give away any information?"
 [says] (p.57) "You're the acting leader of Class C now. Dude, you really were an amazing guy all along."
+[trait] (p.55–62) Cheerfully roots for Ayanokōji as a "comrade" and defends him against Nishikawa; transparently tries to sit with Shiraishi.
+[rel:nishikawa-ryouko] (p.57–62) Argues with her over Ayanokōji; she teases him about liking Shiraishi.
 [says] (p.62) "We're still in the process of feeling each other out."
 [says] (p.62) "Ayanokouji earned that right by getting us through the first special exam, didn't he?"
-[trait] (p.55–62) Cheerfully roots for Ayanokōji as a "comrade" and defends him against Nishikawa; transparently tries to sit with Shiraishi.
-[rel:ayanokouji-kiyotaka] (p.52–62) Defends him and starts from a place of trust.
-[rel:nishikawa-ryouko] (p.57–62) Argues with her over Ayanokōji; she teases him about liking Shiraishi.
-[rel:shiraishi-asuka] (p.52–63) Eager to join her for lunch; avoids sitting directly across from her out of shyness.
-
 ### y3v2 p.13–16 — The chatty go-between on a rainy day
 [scene] (p.13) Greets Ayanokōji in the dorm lobby in a hoodie, raising a hand — "Yo, mornin'."
 [says] (p.13) "Yo, mornin'."
@@ -66,7 +71,6 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 [trait] (p.13–16) Cheerful, talkative and average — complains about studying (five hours is unthinkable), wants an "average university," but is a good friend who acts as the go-between for Shimazaki and Ayanokōji.
 [rel:shimazaki-ikkei] (p.13–16) Friends with him; good-naturedly accepts being compared and teased about his study habits.
 [rel:ayanokouji-kiyotaka] (p.16) Urges him to hear Shimazaki out and places a hand on his shoulder.
-
 ### y3v2 p.52–58 — Yoshida the go-between and comrade
 [says] (p.52) "Hey, let's grab a bite to eat, Ayanokouji!"
 [says] (p.52) "What, Shiraishi and her group are coming too? Well, I guess that's fine."

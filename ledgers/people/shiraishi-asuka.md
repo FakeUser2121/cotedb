@@ -66,21 +66,26 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.43–65 — Ch.2 — depth read: Shiraishi digs deeper
-[scene] (p.52) Invites Ayanokōji to lunch; arranges the group and proposes everyone share private-life details.
+### y3v2 p.43–54 — Ch.2 — depth read: Shiraishi digs deeper
+[scene] (p.43) Invites Ayanokōji to lunch; arranges the group and proposes everyone share private-life details.
 [says] (p.52) "If you'd like, would you care to have lunch with me in the cafeteria today?"
 [says] (p.53) "Fufufu. Doesn't that sound interesting? I'm all for it." — on including Kitou
-[says] (p.59) "If you demonstrated your current potential from the very beginning, Ayanokouji-kun, Horikita-san's Class A would have surely earned more Class Points by now."
-[says] (p.63) "You can't truly know someone without seeing their private life."
 [trait] (p.52–63) Cheerful and sociable; orchestrates the group and steers the conversation toward knowing one another.
 [rel:ayanokouji-kiyotaka] (p.52–63) Invites him to lunch, supports him and questions why he hid his ability.
 [rel:nishikawa-ryouko] (p.52–63) Friends with her; calls her by first name.
 [rel:kitou-hayato] (p.53) Approves of including him in the meal.
-
-### y3v2 p.126–151 — Ch.4 — depth read: Shiraishi's deliberate mystery
+### y3v2 p.55–65 — Ch.2 — depth read: Shiraishi digs deeper
+[scene] (p.55) Invites Ayanokōji to lunch; arranges the group and proposes everyone share private-life details.
+[says] (p.59) "If you demonstrated your current potential from the very beginning, Ayanokouji-kun, Horikita-san's Class A would have surely earned more Class Points by now."
+[says] (p.63) "You can't truly know someone without seeing their private life."
+### y3v2 p.126–137 — Ch.4 — depth read: Shiraishi's deliberate mystery
 [scene] (p.127) Is in the elevator with Ayanokōji and walks with him briefly in the morning; interrupts again after school to walk back to school with him.
 [says] (p.129) "Well, I hold our former leader, Sakayanagi-san, in high regard."
+[rel:ayanokouji-kiyotaka] (p.127, 146–151) Walk together; she probes his deduction and then resets their introduction.
+[rel:sakayanagi-arisu] (p.129) Defends her former leader's legacy against Hashimoto.
 [says] (p.137) "May I ask a small question? You've concluded that the exam is based on our everyday conduct, Ayanokouji-kun, but what would you say the probability of that is?"
+### y3v2 p.138–151 — Ch.4 — depth read: Shiraishi's deliberate mystery
+[scene] (p.138) Is in the elevator with Ayanokōji and walks with him briefly in the morning; interrupts again after school to walk back to school with him.
 [says] (p.138) "It seems you based your judgment on Mashima-sensei's comment to 'try to act in a way that befits a student,' Ayanokouji-kun, but I feel that alone is insufficient grounds for such a conclusion."
 [says] (p.147) "I thought you were a more reserved person. I must say, that was a bold question."
 [says] (p.148) "There were actually quite a few who, like me, wanted to hold onto hope and believe in you."
@@ -88,12 +93,13 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [says] (p.148) "I'm Shiraishi Asuka."
 [says] (p.148) "And you—who are you?"
 [trait] (p.146–151) Playful and opaque — reintroduces herself as a test, never answers his question about her, deepening rather than resolving the mystery.
-[rel:ayanokouji-kiyotaka] (p.127, 146–151) Walk together; she probes his deduction and then resets their introduction.
-[rel:sakayanagi-arisu] (p.129) Defends her former leader's legacy against Hashimoto.
 [rel:morishita-ai] (p.148) Notes his full-name speech reminds her of Morishita.
-
-### y3v2 p.211–230 — Ch.7 — depth read: Shiraishi reveals herself as an observer
+### y3v2 p.211–222 — Ch.7 — depth read: Shiraishi reveals herself as an observer
+[scene] (p.211) Meets Nanase back-to-back at a quiet restaurant to avoid being seen together.
+### y3v2 p.223–230 — Ch.7 — depth read: Shiraishi reveals herself as an observer
 [scene] (p.226) Meets Nanase back-to-back at a quiet restaurant to avoid being seen together.
+[trait] (p.226–230) Calm and strategic — chose the covert meeting setup deliberately, sees through Nanase's probes, and refuses to cooperate while reassuring her selectively.
+[rel:nanase-tsubasa] (p.226–230) Meets her secretly; refuses to provide intelligence, only reassures about Hashimoto/Morishita, and warns of consequences if she is expelled.
 [says] (p.227) "How I procured that information is a trade secret."
 [says] (p.229) "That's because I am, strictly speaking, an observer."
 [says] (p.229) "From the very beginning, I was never given any role beyond that."
@@ -101,12 +107,9 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [says] (p.229) "All that is required of us is to spend three years as ordinary students."
 [says] (p.230) "If you wish to know, I suggest you ask your superiors directly. Tsukishiro-san, was it?"
 [feat] (p.229) Reveals she is a White Room "observer" — tasked only to live as an ordinary student for three years; her proximity to Ayanokōji is coincidence she chooses to enjoy.
-[trait] (p.226–230) Calm and strategic — chose the covert meeting setup deliberately, sees through Nanase's probes, and refuses to cooperate while reassuring her selectively.
-[rel:nanase-tsubasa] (p.226–230) Meets her secretly; refuses to provide intelligence, only reassures about Hashimoto/Morishita, and warns of consequences if she is expelled.
 [rel:ayanokouji-kiyotaka] (p.229) Is his classmate and neighbor; enjoys the environment as an observer.
 [rel:tsukishiro] (p.230) Names him as Nanase's superior; does not like him.
 [note] (p.229) Uses Ayanokōji's own line ("trade secret") back on him, per Nanase's recollection.
-
 ### y3v2 p.52–54 — Shiraishi's lunch circle
 [says] (p.52) "Ayanokouji-kun. Would you mind if I took a moment of your time?"
 [says] (p.52) "If you'd like, would you care to have lunch with me in the cafeteria today?"
@@ -116,7 +119,6 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [trait] (p.52–54) Cheerful and socially deft — invites Ayanokōji, expands the circle to Nishikawa and others, watches Yoshida's antics with a warm smile, and finds inviting Kitou "interesting."
 [rel:yoshida-kenta] (p.52–54) Amused by his transparent attempt to muscle into the invitation.
 [rel:kitou-hayato] (p.53) Enthusiastically approves inviting him.
-
 ### y3v2 p.129–138 — Shiraishi's deduction of the conduct exam
 [says] (p.129) "Well, I hold our former leader, Sakayanagi-san, in high regard."
 [says] (p.134) "I thought I would join you all."
@@ -126,7 +128,6 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [says] (p.138) "A single statement shouldn't have been enough to narrow it down, but adding the information from the other classes feels like it's removing all the static."
 [trait] (p.129–138) Sharp and inquisitive — presses Ayanokōji on his 90% figure, demands his reasoning, and follows the cross-class hint logic to confirm the conduct exam; blends into the group's atmosphere.
 [rel:ayanokouji-kiyotaka] (p.137–138) Challenges and then accepts his deduction.
-
 ### y3v2 p.226–230 — Shiraishi meets Nanase back-to-back: the observer revealed
 [scene] (p.226) Sits alone at the back of a quiet restaurant, back-to-back with Nanase across the sofa, speaking without looking at her.
 [says] (p.226) "Not at all. I only just arrived myself."
@@ -145,7 +146,6 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.229) An "observer" of him; admits an "impulse" to close the distance now they are classmates and adjacent seats.
 [rel:tsukishiro] (p.230) Names him as Nanase's superior; "not that I'm fond of him."
 [rel:sakayanagi-arisu] (p.229) Notes Sakayanagi has voluntarily withdrawn from the school.
-
 ### y3v2 p.255–256 — "The Voice Hidden Within"
 [scene] (p.255) Reflects on Ayanokōji seeing through her observer disguise.
 [narrates] (p.255) "It may be conceited of me to say, but hadn't you been watching me, to some extent, before I transferred classes?"
