@@ -88,8 +88,12 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [scene] (p.107-121) Mentioned/appears in Ch.7.
 [rel:ayanokouji-kiyotaka] (pp.107-121) Appears in this volume.
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+### y2v12.5 p.213–216 — Epilogue: first contact with his son's classmates
+[scene] (p.213–214) In the first-year guidebook short story he comes down the stairs on a call and finds two students waiting; Horikita introduces herself as Kiyotaka's classmate.
+[scene] (p.215) He answers Ryūen, who calls himself neither classmate nor friend but an enemy, with interest rather than offence.
+[rel:horikita-suzune] (p.214–216) He gives her a short answer about Kiyotaka being upstairs and leaves her with a stern first impression.
+[rel:ryuuen-kakeru] (p.215–216) He hears Ryūen call Kiyotaka dangerous and appears impressed by the bluntness.
+[note] (p.216) He has no intention of talking at length before the chairman's office; the students cannot know he is a politician or that they will meet again.
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 

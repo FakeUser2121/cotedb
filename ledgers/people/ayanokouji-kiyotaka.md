@@ -6596,6 +6596,16 @@ walk: y1v1 → DONE
 [rel:satou-maya] (p.192) Satō's cold glances mark how far the class has fallen out with him.
 
 <!-- walk: y2v12.5 Ch.10 → p.199 -->
+
+### y2v12.5 p.202–203 — Epilogue: he transfers to Class 3-A
+[scene] (p.202) He waits near the classroom while the homeroom teacher learns of the transfer; the class has already been told to expect him.
+[scene] (p.203) He enters and tells the class he used twenty million private points to transfer after Sakayanagi's withdrawal.
+[says] (p.203) “Just after the opening ceremony, I used 20 million private points to transfer to this class. I am Ayanokōji Kiyotaka. I cannot replace Sakayanagi, who voluntarily withdrew, but if all my classmates still have the will to fight, I am confident that I can help overcome the greatly deteriorated situation.”
+[note] (p.203) The money came from his own points, the points Hashimoto saved for the transfer and an equal contribution from every student in the class.
+[trait] (p.202–203) His final year begins in a class full of capable students — convenient pieces for the four-class battle he has been preparing for.
+
+<!-- walk: y2v12.5 Epilogue → p.203 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

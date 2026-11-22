@@ -2011,6 +2011,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.33–42) Ayanokōji's hidden message inverted the result; Ryūen resolves to defeat him within one year.
 
 <!-- walk: y2v12.5 Ch.2 → p.42 -->
+
+### y2v12.5 p.213–216 — Epilogue: waiting for Ayanokōji's father
+[scene] (p.213) In the first-year guidebook short story he comes to the school entrance out of curiosity about Ayanokōji's family and finds Horikita already waiting for the same reason.
+[rel:horikita-suzune] (p.213–216) They wait together and compare impressions of the man who appears; both feel something off about the explanation they hear.
+[scene] (p.215) When asked, he tells Atsuomi plainly that he is neither classmate nor friend — just Ayanokōji's enemy — and calls him dangerous after two years of trouble.
+[scene] (p.216) Atsuomi leaves; he calls the father's presence impressive but the meeting anticlimactic, then tells Horikita he will defeat both her and Ayanokōji.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

@@ -424,6 +424,17 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v12.5 Ch.4 → p.76 -->
 
+### y2v12.5 p.200–202 — Epilogue: the joker is gone
+[scene] (p.200) After the opening ceremony she calls Sae-chan out of the staff room and walks with her toward the third-year corridor.
+[says] (p.200) “Of course. I won’t change—I absolutely won’t let Sae-chan graduate from Class A.”
+[scene] (p.200) She retracts the threat to cheat, and promises she is not imposing any conditions.
+[says] (p.200) “What I said before about resorting to cheating to stop you from finishing as Class A—I’m retracting that statement.”
+[rel:ayanokouji-kiyotaka] (p.201) Ayanokōji persuaded her to accept the situation; she calls him a joker who can sway class competitions and resentful feelings alike.
+[scene] (p.201–202) At the classroom door she tells Chabashira the joker is no longer in her hand, enters Class 3-D and shuts the door, looking forward to Sae-chan's despair.
+[rel:chabashira-sae] (p.200–202) She drops the cheating threat, then reveals that the transfer out of Class 2-D has already been decided.
+
+<!-- walk: y2v12.5 Epilogue → p.202 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
