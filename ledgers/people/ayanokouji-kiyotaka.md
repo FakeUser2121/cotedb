@@ -5707,20 +5707,29 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.148–152) Tests her as a possible White Room enforcer; she agrees in principle to cooperate but is hesitant about her classmates and the top-30% reward.
 [rel:housen-kazuomi] (p.152) Brings him up to probe Nanase's knowledge of Class 1-D's control.
 
-### y2v1 p.176–188 — The Amasawa cooking test: tom yum goong via earpiece
+### y2v1 p.176–179 — The cooking test begins
 [scene] (p.176) Brings Amasawa Ichika and groceries back to his room; she sets strict rules — no phone, a dish made from memory — and tasks him with tom yum goong.
 [says:amasawa-ichika] (p.176) "Anyway, I'm super picky about taste~ If it's not yummy enough, the deal's off, okay?"
 [says:amasawa-ichika] (p.176) "Oh, looking up anything on your phone is against the rules, okay~?"
+[scene] (p.177–179) Horikita's two-part plan: basic knife work learned overnight, and real-time recipe guidance through a hidden earpiece; Amasawa demands the dish by heart.
 [says:amasawa-ichika] (p.179) "The dish you're gonna make is… tom yum goong!"
 [says:amasawa-ichika] (p.179) "Could you make it for me~? Please, Seeenpai~?"
+[trivia] (p.177–179) Had Horikita teach him knife techniques (slicing, shredding, dicing, chopping) overnight — not recipes; hides a <2cm wireless earpiece, with Horikita feeding him recipe steps in real time from her room via Sudō's phone (held in his bag), and plans discrete signals; places the phone on his bed and leaves the TV on as cover.
+
+### y2v1 p.180–183 — Cooking by earpiece
+[scene] (p.180) He cooks under Horikita's guidance, with Amasawa watching TV, and leaves out cilantro deliberately.
+[scene] (p.181–183) He serves the dish and peels an apple with the Petty knife to demonstrate his skill; Amasawa eats every bite.
+[trivia] (p.180–183) Leaves out cilantro deliberately; Ayanokōji serves the dish and peels an apple with a Petty knife to demonstrate skill; Amasawa eats every bite, calls it "just barely good enough," and cleans the kitchen meticulously.
+
+### y2v1 p.184–188 — The verdict and the deal
+[scene] (p.184) Amasawa calls the dish "just barely good enough" and cleans the kitchen meticulously.
 [says:amasawa-ichika] (p.184) "Your tom yum goong—… Yeah, I guess it was just barely good enough."
+[scene] (p.185–186) She announces the result: not a pass, but adequate; she agrees to pair with Sudō out of respect for his effort.
 [says:amasawa-ichika] (p.187) "I'll pair up with Sudō-senpai, outta respect for your efforts."
-[trivia] (p.177–183) Had Horikita teach him knife techniques (slicing, shredding, dicing, chopping) overnight — not recipes; hides a <2cm wireless earpiece, with Horikita feeding him recipe steps in real time from her room via Sudō's phone (held in his bag), and plans discrete signals; places the phone on his bed and leaves the TV on as cover.
-[trivia] (p.184–186) Leaves out cilantro deliberately; Ayanokōji serves the dish and peels an apple with a Petty knife to demonstrate skill; Amasawa eats every bite, calls it "just barely good enough," and cleans the kitchen meticulously.
-[trait] (p.176–188) Carefully orchestrates every detail — seats her where she can see but with the TV distraction, anticipates her rules, and uses the earpiece to compensate for lacking recipe knowledge; still can't tell if she's the White Room agent.
-[rel:amasawa-ichika] (p.176–189) Cooks for her to win Sudō a partner; finds her speech and conduct hard to fake for a White Room dropout but remains suspicious of select quirks.
+[rel:amasawa-ichika] (p.176–188) Cooks for her to win Sudō a partner; finds her speech and conduct hard to fake for a White Room dropout but remains suspicious of select quirks.
 [rel:horikita-suzune] (p.180–191) Her real-time earpiece instructions make the cooking possible; they debrief afterward.
 [rel:sudou-ken] (p.187–188) His phone is used for the relay; Amasawa submits a partnership application to him.
+[trait] (p.176–188) Carefully orchestrates every detail — seats her where she can see but with the TV distraction, anticipates her rules, and uses the earpiece to compensate for lacking recipe knowledge; still can't tell if she's the White Room agent.
 
 ### y2v1 p.188–193 — The debrief with Horikita; hiding the Class 1-A strategy
 [says] (p.190) "I get the feeling that we were saved by Amasawa's merciful judgment, though."
