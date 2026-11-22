@@ -1,0 +1,398 @@
+# Komiya Kyogo
+
+*Character · Main · 1-C*
+
+Komiya Kyogo is named in 19 of 36 volumes. 20 scenes from 13 volumes have been read line by line, with a page for every line.
+
+## Summary
+
+- **Class:** 1-C
+- **Appears in:** Year 1 · Year 2 · Year 3
+- **Named in:** 19 volumes
+- **Read so far:** 20 scenes, 47 quoted lines
+- **First read scene:** Year 1, Volume 3, p.105–106
+
+## Volume by volume
+
+- **Year 1, Volume 2** — named, not read yet
+- **Year 1, Volume 3** — 1 scene read
+- **Year 1, Volume 5** — 2 scenes read
+- **Year 1, Volume 6** — 1 scene read
+- **Year 1, Volume 7** — 6 scenes read
+- **Year 1, Volume 7.5** — 1 scene read
+- **Year 1, Volume 10** — named, not read yet
+- **Year 1, Volume 11** — named, not read yet
+- **Year 2, Volume 2** — 1 scene read; 1 mentioned
+- **Year 2, Volume 3** — 2 scenes read; 5 mentioned
+- **Year 2, Volume 4** — 3 mentioned
+- **Year 2, Volume 4.5** — 1 scene read; 1 mentioned
+- **Year 2, Volume 5** — 1 scene read; 1 mentioned
+- **Year 2, Volume 7** — 1 scene read; 1 mentioned
+- **Year 2, Volume 9** — 1 scene read
+- **Year 2, Volume 12** — 1 scene read
+- **Year 3, Volume 1** — named, not read yet
+- **Year 3, Volume 2** — named, not read yet
+- **Year 3, Volume 3** — 1 scene read
+
+## Relationships
+
+- **Ryūen Kakeru** — 11 notes
+- **Kondō Reo** — 4 notes
+- **Ishizaki Daichi** — 4 notes
+- **Ike Kanji** — 3 notes
+- **Ayanokōji Kiyotaka** — 3 notes
+- **Miyake Akito** — 2 notes
+- **Sudō Ken** — 1 note
+- **Horikita Suzune** — 1 note
+- **Hasebe Haruka** — 1 note
+- **Ibuki Mio** — 1 note
+- **Yamada Albert** — 1 note
+- **Shinohara Satsuki** — 1 note
+- **Yagami Takuya** — 1 note
+- **Kinoshita Minori** — 1 note
+- **Mashima Tomonari** — 1 note
+- **Sakagami** — 1 note
+- **Tamiya Emi** — 1 note
+- **Morofuji Rika** — 1 note
+- **Kōenji Rokusuke** — 1 note
+
+## Names
+
+- **Shown as:** Komiya Kyogo
+
+## Scenes
+
+### Year 1, Volume 3
+
+#### p.105–106 — Ch.3 sec. 3.1: the campsite visit
+
+Strides into the Class D campsite with Kondō, chips and soda in hand, smug grins on.
+
+- **Spoken** (p.105) — “Wow, you Class D rejects are really living frugal, eh? I guess that's what I'd expect from a class of defectives.”
+- **Caveat** (p.105) — The translation voices the taunt and the whole visit to the pair without saying which of them speaks.
+- **What happens** (p.105–106) — Tosses a bag of potato chips near Ike's feet and keeps snacking for ten minutes until Hirata's group returns.
+- **Spoken** (p.106) — “We have a message from Ryuuen-san. If you want to enjoy your summer vacation to the fullest, come to the beach right now. Don't hang back. If you're sick of living like idiots, then we're happy to share our luxuries.”
+- **Relationship · Ike Kanji** (p.105–106) — Bait him directly; he snaps and they ignore him.
+- **Relationship · Kondō Reo** (p.105) — Enters with Kondō; their voices are never separated on these pages.
+- **Backstory** (p.105) — The pair who once fought Sudō, recalled as acting on Ryūen's orders rather than looking for a fight.
+
+### Year 1, Volume 5
+
+#### p.100 — Ch.6 sec. 6: passing mention
+
+Named with Sakazaki as one of the Class C students from the earlier fight with Sudou, assembled for capture the flag.
+
+- **Relationship · Sudō Ken** (p.100) — Recalled among those involved in the fight that almost got Sudou expelled.
+- **Caveat** (p.100) — Sakazaki is named on the same page but has no roster row; only Komiya appears here.
+
+#### p.120 — Ch.6 sec. 6: passing mention
+
+Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
+
+- **Relationship · Horikita Suzune** (p.120) — Horse under her; the unit holds until four enemy horsemen commit to the jockey.
+- **Caveat** (p.120) — No separate action is shown for him on these pages beyond the formation.
+
+### Year 1, Volume 6
+
+#### p.136 — Ch.6 sec. 6.1: named among the goons
+
+Named as one of the evergreen trio of goons standing behind Ryuuen when the study group’s cup is crushed.
+
+- **Relationship · Ryūen Kakeru** (p.136) — Enforcer in the café crash; no dialogue from him on these pages.
+- **Caveat** (p.136) — Present only in the roll-call of Ryuuen’s party.
+
+### Year 1, Volume 7
+
+#### p.17–18, 28 — Ch.2: the Class C follower at the mall
+
+Named as Ryuuen’s henchman watching the Keyaki Mall group from just far enough away to deny it.
+
+- **Caveat** (p.17) — Sat at a distance so confrontation would label Class D the aggressors.
+- **Caveat** (p.18) — Ayanokōji reads him as monitoring the group while keeping plausible deniability.
+- **Caveat** (p.28) — Follows the group toward the restaurant once Ayanokōji peels off to the bathroom.
+- **Relationship · Ryūen Kakeru** (p.17) — His man on the mall tail.
+- **Relationship · Miyake Akito** (p.18) — One of the two who showed up at archery club to glare.
+- **Relationship · Ayanokōji Kiyotaka** (p.17–18, 28) — Target of the watch; uses the bathroom ruse to break the line of sight.
+
+#### p.50–51 — Ch.3: still at the mall
+
+Named by Miyake as present both yesterday and today at Keyaki Mall.
+
+- **Caveat** (p.50) — Class C student around late afternoons when Miyake finishes club.
+- **Caveat** (p.51) — Haruka spat “Gross” looking at him; the group agrees not to react.
+- **Relationship · Miyake Akito** (p.50) — The observer who names the pattern.
+- **Relationship · Hasebe Haruka** (p.51) — Disgust without disguise.
+- **Relationship · Ryūen Kakeru** (p.50) — His man on the mall watch.
+
+#### p.65–97 — Ch.3 half2: not named in the second half
+
+- **Caveat** (p.65–97) — Not named in the second half of this chapter.
+
+#### p.98 — Ch.4: in the raid party
+
+- **Caveat** (p.98) — Named with Kondou as part of Ryuuen’s classroom storm.
+- **Relationship · Ryūen Kakeru** (p.98) — Follower in the Class D visit.
+- **Relationship · Kondō Reo** (p.98) — The pair inside the door.
+
+#### p.138 — Ch.5 half2: the upperclassmen dead end
+
+- **Caveat** (p.138) — Named with Kondou as students who once asked upperclassmen for exam hints and got nothing — felt like asking was not even allowed.
+- **Relationship · Kondō Reo** (p.138) — The pair who hit the same wall.
+- **Relationship · Ryūen Kakeru** (p.138) — Evidence he cites for the school’s silent-generation rule.
+
+#### p.176, 181 — Ch.6: on the beaten-into-obedience list
+
+Named by Ibuki among the classmates Ryuuen beat until they obeyed; later as one of the tails on Class D.
+
+- **Caveat** (p.176) — “Ishizaki. Komiya. Kondou. Even Albert. You beat every single one of them until they were ready to obey you at all times,”
+- **Caveat** (p.181) — Ayanokōji: “You had Ishizaki, Komiya, and the others tail Class D students.”
+- **Relationship · Ibuki Mio** (p.176) — The accuser who lists him.
+- **Relationship · Ryūen Kakeru** (p.176, 181) — The boss who beat him and used him as a tail.
+- **Relationship · Ayanokōji Kiyotaka** (p.181) — Counts the tails as part of the trap arithmetic.
+- **Relationship · Kondō Reo** (p.176) — Named in the same list.
+- **Relationship · Yamada Albert** (p.176) — Same list.
+
+### Year 1, Volume 7.5
+
+#### p.54 — Ch.3: walking with Ishizaki
+
+One of the three Class C boys passing Ayanokōji and Ibuki.
+
+- **Spoken · Komiya Kyogo** (p.54) — “About earlier…did you really get into it with Ryuuen-san? For real?”
+- **Spoken · Komiya Kyogo** (p.54) — “That’s a relief, man. But wait. Who’s gonna come up with strategies and stuff?”
+- **Relationship · Ishizaki Daichi** (p.54) — Asks him about the Ryuuen fight.
+- **Relationship · Ryūen Kakeru** (p.54) — Fearful of the boss’s temper; relieved by the cover story.
+
+### Year 2, Volume 2
+
+#### p.172–177 — Komiya finds her on the steps
+
+He spots her stopped on the steps with red eyes; walks with her at her pace; she opens up a crack. He keeps her company at the café; Ike can't watch.
+
+- **Spoken** (p.172) — “Satsuki.”
+- **Spoken** (p.172) — “What’s wrong? Are you crying?”
+- **Spoken** (p.172) — “Well, because your eyes are red.”
+- **Spoken** (p.172) — “By the way, I heard from Sudo-kun that you’re gonna be a regular on the basketball team?”
+- **Spoken** (p.173) — “Yeah you always practice until late at night, so I’d be lying if I said you …  …  didn’t deserve it.”
+- **Caveat** (p.168–193) — He invited her the day after the rules dropped; the group is him, her and Kinoshita Minori of Class B; he told Ishizaki he'll confess on the island.
+- **Relationship · Shinohara Satsuki** (p.172–177) — He is the one who gets the seat beside her.
+- **Relationship · Ike Kanji** (p.172–186) — His silent defeat is witnessed.
+- **Relationship · Ishizaki Daichi** (p.193) — He unknowingly briefs him via the pact question.
+
+#### p.194–197 — Coverage note: passing mentions
+
+- **Mentioned** (p.194) — “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
+- **Mentioned** (p.195) — “I expressed my concerns to Horikita about the current situation between Ike, Shinohara, and Komiya and that it might affect this upcoming uninhabited island exam.”
+- **Mentioned** (p.196) — “It seems like Komiya and Shinohara have already agreed to form a group, but because of your orders, they haven’t confirmed yet.”
+- **Mentioned** (p.197) — “The prospect of forming groups for the uninhabited island exam would be difficult.”
+
+### Year 2, Volume 3
+
+#### p.86, 90 — Komiya named at the fire build-up
+
+- **Mentioned** (p.86) — “time together with his rival, Komiya.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.90) — “Komiya had begun dating or had otherwise gotten close to each other during” — named; not present; POV Ayanokōji.
+
+#### p.105–106 — Komiya named at the fire: the Shinohara rival
+
+- **Mentioned** (p.105–106) — “Shinohara is in a group together with Komiya right now. That guy… probably likes her too.” — named as Shinohara's current group partner; not present; POV Ayanokōji (via Ike's confession at the tent-fire).
+- **Mentioned** (p.106) — “Plus, well… it seems like she sees him as someone special as well.” — his perceived status with Shinohara; not present; same scene.
+
+#### p.169–176 — Komiya: the found victim
+
+Collapsed at the bottom of the slope with Kinoshita; left leg wrecked; he recounts being struck in the calf; then the rolling descent; the wait for Satsuki; the last loyalty: entrusts Shinohara to Ike.
+
+- **Caveat** (p.174) — Komiya (2-B) is recovering consciousness with memory intact up to the impact.
+- **Spoken · Sudō Ken** (p.171) — “Komiya! Can you hear me Komiya!?”
+- **Spoken** (p.171) — “Ugh… guh…!”
+- **Spoken** (p.173) — “M-my leg… it hurts…!”
+- **Spoken** (p.174) — “I-I don’t know… it just happened out of nowhere. I suddenly felt something strike my calf and the next thing I knew I was rolling down the slope… Agh…!”
+- **Spoken** (p.175) — “M-maybe? I don’t really remember very well… Sorry.”
+- **Spoken** (p.175) — “Eh…? N-no, I have no idea. Why is Kinoshita here…? If I remember correctly, when it happened we…”
+- **Spoken** (p.175) — “That’s right…! Satsuki, where’s Satsuki!? Did she fall too!?”
+- **Spoken** (p.176) — “Satsuki was─ Agh…!!”
+- **Spoken** (p.176) — “N-no, I’m worried about Satsuki… Sorry Sudō, but can you help me sit up…?”
+- **Spoken** (p.176) — “…I don’t know… We… We were trying to move quickly…”
+- **Spoken** (p.176) — “Then, we were waiting… for Satsuki to come back…”
+- **Spoken** (p.176) — “Let me start from the beginning. We were in a hurry because we missed the last two designated areas yesterday. After talking it out last night, we ultimately decided to try and close the distance early this morning… It was still fairly dark when we set out, so we were keeping tabs on each other as we traveled, but… at some point, Satsuki said she needed to go to the restroom, so she split off for a bit while Kinoshita and I waited for her to finish. Of course, we were using our flashlights to keep track of each other…”
+- **Spoken** (p.176) — “I remember it hurt like hell… But the pain didn’t last long ‘cause the next thing I knew I was rolling down the slope… And then, when I came to, Sudō and the rest of you guys were here.”
+
+#### p.177–209 — Komiya named in passing (Ch.5)
+
+- **Mentioned** (p.177) — “If Komiya had been the only one involved in this incident, then it would” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.177) — “Did she suddenly freak out upon seeing Komiya start to collapse and end” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.178) — “upon a narrow point that Komiya and Kinoshita had apparently fallen from.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.179) — “appeared to belong to Komiya, Kinoshita, and Shinohara.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.179) — “I could picture the scene of Komiya and Kinoshita standing here talking” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.180) — “K-Komiya-kun and Kinoshita-san, where are they!?” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.180) — “…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.181) — “But if those first-years had attacked Komiya and Kinoshita as part of” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.182) — “the ground beside Komiya-senpai.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.187) — “Don’t tell me… They… pushed Komiya-senpai and Kinoshita-senpai…?” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.189) — “In particular, I told her that Shinohara had seen someone push Komiya” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.190) — “grievous injury, isn’t it strange that Komiya-senpai didn’t notice anybody?” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.190) — “Komiya definitely would’ve said something if he remembered seeing” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.191) — “In his earlier testimony, Komiya said that it all started when something” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.191) — “As for me… If I were to attack Komiya-senpai and Kinoshita-senpai… I” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.193) — “Sakagami-sensei spoke as he approached Komiya, who was sitting up,” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.193) — “From a cursory observation, it seems like it’ll be difficult for Komiya” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.193) — “Her expression was heavy, which was to be expected given that Komiya’s” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.195) — “How could you! Then what’s gonna happen to Komiya and Kinoshita!?” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.198) — “We relied on Komiya and Kinoshita’s GPS signals to get here. Komiya’s” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.198) — “Komiya’s group before us.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.199) — “Komiya and Kinoshita after this, right?” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.199) — “With Komiya and Kinoshita’s retirement all but guaranteed at this point,” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.199) — “Komiya, moments away from being carried off on a stretcher by the” — named; not present; POV Ayanokōji.
+
+#### p.200–207 — The rival's final act
+
+Moments before being carried to the stretcher, he lurches up to call Ike close, entrusts Shinohara to him with a rival-in-love-to-rival-in-love handoff, then collapses back.
+
+- **Spoken** (p.200) — “Ike… come here real quick.”
+- **Spoken** (p.200) — “Show me how much of a man you are.”
+- **Caveat** (p.200) — Komiya had planned on confessing to Shinohara during this exam; whether he did is not printed; his final gesture is unambiguous.
+
+#### p.211, 217–218, 238 — Komiya named in passing (Ch.6)
+
+- **Mentioned** (p.211) — “Shinohara had been left to fend for herself after Komiya and Kinoshita” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.217) — “Komiya and Kinoshita retired.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.217) — “Komiya and Kinoshita were fellow comrades that he needed to protect.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.217) — “Neither Komiya nor Kinoshita could recall whether they were actually” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.218) — “it’ll be meaningless if Komiya and Kinoshita get expelled.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.218) — “Komiya and Kinoshita still have their uses.” — named by Ryūen; not present; POV Ayanokōji.
+- **Mentioned** (p.238) — “Komiya-kun and Kinoshita-san, right? It seems you’re fairly well” — named by Sakayanagi; not present; POV Ayanokōji.
+- **Mentioned** (p.238) — “He’s on board with my plan. It seems he thinks quite highly of Komiya” — named; not present; POV Ayanokōji.
+
+#### p.289 — Komiya named at the mountain reveal
+
+- **Mentioned** (p.289) — “So, something similar to what happened to Komiya and Kinoshita. Were” — named; not present; POV Ayanokōji.
+
+### Year 2, Volume 4
+
+#### p.10–14, 21–26, 32 — Komiya mentioned in passing
+
+- **Mentioned** (p.10) — “Back when Shinohara-senpai’s group was attacked and Komiya-senpai and Kinoshita-senpai retired from the exam, do you remember how you left to climb the slope with Ike-senpai?” — Amasawa to Ayanokōji.
+- **Mentioned** (p.11) — “You also hurt Komiya-senpai and Kinoshita-senpai, didn’t you?” — Nanase accuses Amasawa of the cliff attack.
+- **Mentioned** (p.13) — “Since Shinohara herself had testified that they had been attacked by someone, the school would definitely investigate the case in detail.” — Shinohara’s testimony forces an investigation.
+- **Mentioned** (p.14) — “What’s more, Komiya and Kinoshita didn’t even testify that they had been attacked in the first place, and Shinohara herself had only been able to make a vague statement, unable to say who it was she saw.”
+- **Mentioned** (p.21) — “Back when Komiya and Kinoshita were attacked, I found some footprints nearby the scene of the crime. From what I can tell, I’m fairly confident that they’re the same size as Amasawa’s.” — Ayanokōji to Nanase.
+- **Mentioned** (p.23) — “In other words, Amasawa had definitely been there, just like Nanase claimed she was.”
+- **Mentioned** (p.32) — “From what we knew: someone had pushed Komiya and Kinoshita down the slope. And, judging from the fact that there were no other GPS signals in the area at the time, it was clear that it had been a premeditated attack, rather than something done in the heat of the moment.”
+
+#### p.31, 34 — Komiya mentioned in passing
+
+- **Mentioned** (p.31) — “I convinced myself that Amasawa-san was the one who pushed Komiya-senpai and Kinoshita-senpai down the slope.” — Nanase.
+- **Mentioned** (p.34) — “I do have a pretty good idea which Table everyone belongs to.” — Ayanokōji.
+
+#### p.56–57 — Komiya mentioned in passing
+
+- **Mentioned** (p.56) — “whereupon she was informed of Komiya and Kinoshita’s retirement.” — narrated; Sakayanagi told Horikita.
+
+### Year 2, Volume 4.5
+
+#### p.26–35 — Shinohara confession report; the infirmary visit
+
+Ike and Ayanokōji arrive at the infirmary and find Ryūen's group (Albert, Kaneda, Kondō, Yamawaki) leaving Komiya's room; Komiya, leg fixed in a brace, welcomes them and asks after his condition.
+
+- **Spoken** (p.29) — “Well, he certainly has that power. Despite appearances, he just came to visit me.”
+- **Spoken** (p.29) — “But somethin’ about Ryūen-san’s changed a little bit. He’s become a bit more mellow…or maybe not…”
+- **Spoken** (p.29) — “If it’s that guy from now, I feel like I can honestly follow him, you know?”
+- **Spoken** (p.30) — “As you can see, I’m fine except for my leg.”
+- **Spoken** (p.30) — “I’m in the process of asking for permission to walk on crutches.”
+- **Spoken** (p.30) — “Ryūen-san’s trying to figure out who pushed me during the exam. He asked me a bunch of questions to see if I remembered anything, but just like I told Ayanokōji, I don’t even remember being attacked at all…”
+- **Spoken** (p.32) — “If you make Satsuki cry, I’ll show you no mercy.”
+- **Spoken** (p.32) — “Satsuki’s had her eye on you for a while, that’s why she accepted your confession.”
+- **Spoken** (p.34) — “I’m against it. To be honest, I’d rather chalk this one up as an accident caused by my own mistake.”
+- **Trait** (p.29–30) — Cheerful and nostalgic despite his injury; his memory of the attack never returned; Ryūen's visit softened his image of him — he now believes he can follow Ryūen honestly.
+- **Relationship · Ike Kanji** (p.31–32) — His rival in love; accepts the confession gracefully, grabs Ike's shoulder, presses a fist to his chest and extracts a promise that he won't make Shinohara cry.
+- **Relationship · Ryūen Kakeru** (p.28–30) — Ryūen visited him in person; snacks and juice were left at his bedside; he worries Ryūen will go too far hunting the culprit.
+- **Relationship · Ayanokōji Kiyotaka** (p.33–34) — Asks him to keep an eye on Ryūen's culprit hunt in case Shinohara saw the attacker; they exchange contact information.
+- **Caveat** (p.28–35) — The same scene is recorded in duplicate form in the other rostered file komiya.md (that file tracks Year 2, Vol. 3 only); the two roster rows for Komiya are a pre-existing duplication flagged to the owner, not resolved here.
+
+#### p.178, 183–185, 190–191 — Mentions: the culprit hunt front
+
+- **Mentioned** (p.178) — Ryūen was "looking for the culprit who injured Komiya and the others."
+- **Mentioned** (p.183) — "Komiya was injured. I'm lookin' for the one who did it."
+- **Mentioned** (p.184) — Ryūen to Nanase: "The first ones to arrive at the crime scene were Sudō, Ayanokōji, Ike, Hondō and also you."
+- **Mentioned** (p.185) — "But the Komiya situation has nothing to do with Kurachi."
+- **Mentioned** (p.190) — "there is a witness to Komiya-senpai's case that you don't know about, Ryūen-senpai."
+- **Mentioned** (p.191) — "I don't mind telling you who that person is."
+
+### Year 2, Volume 5
+
+#### p.142 — Komiya: the compliance chorus
+
+- **Spoken** (p.142) — "Hey, there's nothing to be gained by hiding opinions, is there?"
+- **Spoken** (p.142) — "It's not like we're going to get mad at you for voting in favour once."
+- **Spoken** (p.142) — "It's not like you were being told what to do. It was your personal choice to vote for or against, right?"
+- **Caveat** (p.142) — Adjacent narration: "Komiya explains that they can't be blamed for that, and just to be sure, he checks with Ryūen to make sure he's right. However, when Ryūen didn't respond immediately, it caused a moment of tension in Komiya."
+- **Trait** (p.142) — Democracy's costumed advocate — exhorts the silent "in favour" voters to come forward under the guise of fairness.
+- **Relationship · Ryūen Kakeru** (p.142) — His check-in backfires into a frozen second of fear.
+- **Relationship · Ishizaki Daichi** (p.142) — Both prod the class toward compliance.
+
+#### p.172, 206 — Komiya: mentioned in the spear
+
+- **Mentioned** (p.172) — Eye-contact interrogation — he answered like everyone else.
+- **Mentioned** (p.206) — Kushida: "only ugly boys like Ike-kun and Komiya-kun come on to her" — her taunt reaches him via Shinohara's spear.
+
+### Year 2, Volume 7
+
+#### p.175–176 — Komiya at the student council room; identifying Yagami
+
+§2 — Komiya showed up with Ryūen-kun with Kinoshita; he stood discreetly behind Ryūen; two of Ryūen's classmates also showed up; Sakagami-sensei and Mashima-sensei also showed up later in the student council room.
+
+- **Spoken · Ryūen Kakeru** (p.176) — “This is the one you guys were talking about, right?” — Ryūen-kun asked Komiya-kun and the others standing discreetly behind him, confirming something.
+- **Spoken** (p.176) — “Yes, sir. I'm sure of it.” — Komiya.
+- **Caveat** (p.176) — Ryūen-kun heard this and, with a wan smile on his face as usual, moved even closer to Yagami-kun.
+- **Spoken · Ryūen Kakeru** (p.176) — “Don't play dumb. Komiya and Kinoshita reminded me just the other day. The reason they got seriously injured during the desert island test was because you violently attacked them.” — Ryūen.
+- **Caveat** (p.176) — Severe injuries on a deserted island; they were seriously injured with broken bones; as Horikita recalled, an accident caused by carelessness.
+- **Spoken · Ryūen Kakeru** (p.176–177) — “These guys had lost their memories due to the shock of their injuries, but once it was put away as an accident, they remembered. They remember now that you were the culprit.” — Ryūen.
+- **Caveat** (p.176–177) — Just as he was suspected by them, now he was suspected by Student Council President Nagumo as well.
+- **Spoken · Ryūen Kakeru** (p.177) — “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
+- **Caveat** (p.177) — Shinohara is named as one of those injured; the fourth injured student; her name is mentioned only in this sentence.
+- **Caveat** (p.182) — Ryūen-kun gave instructions to Komiya-kun with his chin to Ibuki-san, who still could not stand up, and then lent her a hand and left the room.
+- **Relationship · Yagami Takuya** (p.176) — Yagami was behind his injury; he and Kinoshita remember now.
+- **Relationship · Kinoshita Minori** (p.176) — The other of the two injured brought by Ryūen to identify Yagami.
+- **Relationship · Ryūen Kakeru** (p.175–182) — He brought him; he nodded; he never spoke beyond “Yes, sir.”
+- **Relationship · Mashima Tomonari** (p.175–181) — Mashima-sensei appeared alongside; Yagami kicked the sensei.
+- **Relationship · Sakagami** (p.175–182) — Sakagami watched Yagami kick Mashima; assists in the exit.
+
+#### p.193 — Named as the trick's instrument
+
+- **Mentioned** (p.193) — “What kind of a trick was used for Komiya and the others to name Yagami? Was it a coincidence that the teacher showed up?” — Ayanokōji's question to Nagumo.
+- **Caveat** (p.193) — Ayanokōji versus Nagumo: Ayanokōji arranged the luring; the "next step" is the caller's confirmation that his script was followed.
+
+### Year 2, Volume 9
+
+#### p.96 — Komiya: karaoke intrusion with Ishizaki
+
+He and Ishizaki barge into Kanzaki's karaoke meeting, claiming they only came to join the singing; Kanzaki sees through the excuse and they leave clicking their tongues.
+
+- **Spoken** (p.96) — "Oh, oh. We were both at karaoke and I saw you guys. I thought it would be more fun to have a bunch of people singing than just two guys singing in solitude."
+- **Trait** (p.96) — Playfully evasive — helps keep up the pretense that the intrusion is harmless fun.
+- **Relationship · Ishizaki Daichi** (p.96) — His classmate and partner in the intrusion.
+- **Relationship · Ryūen Kakeru** (p.96) — The harassment is done on his orders.
+
+### Year 2, Volume 12
+
+#### p.177–182 — Ch.8: The eye-contact accused
+
+Named in the first-discussion participant list for Class C — one of the seven; Tamiya claims he and Takanashi made eye contact before the discussion started — “Komiya-kun and Takanashi were looking at each other just before the discussion started, right?” The fifth round proves it — Takanashi is the honor student, but Komiya is not; Komiya and Toba are both disclosed as ordinary students by the system reveal.
+
+- **Caveat** (p.182) — “It was revealed that Komiya and Toba were both ordinary students.”; he is not the honor student Tamiya claimed.
+- **Relationship · Tamiya Emi** (p.178–182) — She pointed at him as her suspect; she was wrong about him and right about Takanashi.
+
+### Year 3, Volume 3
+
+#### p.128–131 — Komiya's bravado and downfall
+
+Leads Class B's ten-person E9 supply group, accompanied by VIP Morofuji.
+
+- **Spoken** (p.128) — "You say he's comin' our way, but it's just one guy, right? Some scrub like that doesn't even know where we are, so there's no need to sweat it."
+- **Spoken** (p.129) — "See, I told ya you're worryin' too much. If we run into him, I'll put a round right through his heart."
+- **Spoken** (p.129) — "Where are you, Koenji!"
+- **Spoken** (p.129) — "Here!? It's over here, huh!?"
+- **Spoken** (p.131) — "Why are you attacking us, Koenji!"
+- **Trait** (p.128–131) — Overconfident and loud — dismisses the lone Kōenji as a "scrub," fires his shotgun into the forest to bait him, and is the first cut down; his bragging reveals the group's position.
+- **Relationship · Morofuji Rika** (p.128) — Leads the guard group escorting her.
+- **Relationship · Kōenji Rokusuke** (p.129–131) — Taunts him; is eliminated by him first.

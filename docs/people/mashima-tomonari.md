@@ -1,0 +1,607 @@
+# Mashima Tomonari
+
+*Character · Main*
+
+Mashima Tomonari is named in 22 of 36 volumes. 29 scenes from 14 volumes have been read line by line, with a page for every line.
+
+## Summary
+
+- **Posts:** Teacher
+- **Appears in:** Year 1 · Year 2 · Year 3
+- **Named in:** 22 volumes
+- **Read so far:** 29 scenes, 168 quoted lines
+- **First read scene:** Year 1, Volume 3, p.24–29
+
+## Volume by volume
+
+- **Year 1, Volume 3** — 2 scenes read
+- **Year 1, Volume 4** — 4 scenes read
+- **Year 1, Volume 8** — 1 mentioned
+- **Year 1, Volume 10** — 3 scenes read
+- **Year 1, Volume 11** — 3 scenes read
+- **Year 1, Volume 11.5** — 3 scenes read
+- **Year 2, Volume 1** — 1 scene read
+- **Year 2, Volume 2** — 1 mentioned
+- **Year 2, Volume 3** — 5 scenes read; 5 mentioned
+- **Year 2, Volume 4** — 2 mentioned
+- **Year 2, Volume 4.5** — 1 scene read; 2 mentioned
+- **Year 2, Volume 7** — 2 scenes read
+- **Year 2, Volume 8** — 1 scene read; 2 mentioned
+- **Year 2, Volume 9** — 1 mentioned
+- **Year 2, Volume 9.5** — 1 scene read
+- **Year 2, Volume 10** — 3 mentioned
+- **Year 2, Volume 11** — 1 scene read
+- **Year 2, Volume 12** — 1 scene read; 1 mentioned
+- **Year 2, Volume 12.5** — 1 scene read
+- **Year 3, Volume 1** — named, not read yet
+- **Year 3, Volume 2** — named, not read yet
+- **Year 3, Volume 3** — named, not read yet
+
+## Relationships
+
+- **Chabashira Sae** — 8 notes
+- **Ayanokōji Kiyotaka** — 8 notes
+- **Hoshinomiya Chie** — 6 notes
+- **Sakayanagi Arisu** — 6 notes
+- **Tsukishiro** — 5 notes
+- **Katsuragi Kōhei** — 3 notes
+- **Ryūen Kakeru** — 3 notes
+- **Ike Kanji** — 2 notes
+- **Karuizawa Kei** — 2 notes
+- **Ichinose Honami** — 2 notes
+- **Totsuka Yahiko** — 2 notes
+- **Sakagami** — 2 notes
+- **Yukimura Teruhiko** — 1 note
+- **Kaneda Satoru** — 1 note
+- **Yagami Takuya** — 1 note
+- **Nagumo Miyabi** — 1 note
+- **Akiyama** — 1 note
+
+## Names
+
+- **Shown as:** Mashima Tomonari
+
+## Scenes
+
+### Year 1, Volume 3
+
+#### p.24–29 — Ch.2 sec. 2.1: the announcement that erases the vacation
+
+A prepared white platform on the beach; uniformed adults setting up a tent and computers behind him.
+
+- **Post** (p.24) — Introduced as Class A's homeroom teacher, English, "well-known for having a stubborn disposition," built like a wrestler but "actually quite intelligent" — and he opens grim: "it’s unfortunate that one of you was unable to participate due to illness."
+- **Spoken** (p.25) — “Well then. We shall commence the current academic year’s first special test.”
+- **Spoken** (p.25) — “This test will determine if you can live on a deserted island together as a group… designed based on real-world corporate training.”
+- **Relationship · Ike Kanji** (p.26–27) — Answers Ike's disbelief without contempt for the complaint itself, only for its basis — "you’ve lived a short, superficial life. There is an actual, prominent company that holds training sessions on uninhabited islands."
+- **Relationship · Ike Kanji** (p.27) — Concedes the process complaint where he didn't concede the disbelief: "I suppose that you’re not wrong about that. I can understand why you would be discontented."
+- **Spoken** (p.27–28) — Sets the theme that names the chapter: "The theme of this special exam is ‘freedom’, after all."
+- **Rule** (p.27–28) — Hands out the three-hundred-point budget and the manual; frames the week as playable.
+- **Rule** (p.28–29) — Names the stakes — remaining points convert to class points after vacation — and the Class A illness penalty: thirty points, leaving A at 270.
+
+#### p.243–244 — Ch.7: the results announcement
+
+Cuts the beach argument short with a megaphone and announces the special test’s results to all four classes.
+
+- **What happens** (p.242) — Appears on the beach with a megaphone the moment its click cuts the argument short.
+- **Spoken** (p.243) — “It’s fine. We don’t mind if you want to keep relaxing. The test has already concluded. Now we’ve entered the summer vacation part of the trip, so it’s all right if you loosen up.”
+- **Spoken** (p.243) — “Well then, to get straight to the point. I would like to announce the results of the special test.”
+- **Spoken** (p.243) — “We will not accept any questions regarding the results, no exceptions. We would like you to accept the results you have been given, analyze them, and use them to help you for the next test. It is what it is. Don’t wet yourselves over these results. You must accept reality, you know?”
+- **Spoken** (p.244) — “Now, we will announce the rankings. The lowest class is¾Class C, with zero points.”
+- **Spoken** (p.244) — “In third place is Class A, with 120 points. Coming in second place is Class B, with 140 points.”
+- **Spoken** (p.244) — “…has come in first with 225 points. This concludes the announcement.”
+- **Position** (p.244) — Class D takes first with 225 points, Class B second with 140, Class A third with 120, Class C last with zero.
+- **Caveat** (p.244) — The broken three-quarter mark in the Class C line and the clipped opening before “has come in first” are kept as printed.
+
+### Year 1, Volume 4
+
+#### p.32–36 — Ch.2 sec. 2.3: the zodiac briefing
+
+Briefs the four Class D students in Room 204: zodiac groups, thinking tested four ways.
+
+- **Spoken** (p.33) — “What are you doing? Hurry and take a seat.”
+- **Spoken** (p.33) — “We are still waiting on one more. Please sit quietly.”
+- **Spoken** (p.34) — “I believe you were told punctuality was key, and yet you’re late. Hurry and take your seat”
+- **Spoken** (p.34) — “Sotomura, Yukimura, Ayanokouji, and Karuizawa, from Class D. Without further ado, I will now explain the special test.”
+- **Spoken** (p.34) — “I will not answer any questions at this time. Be quiet and listen.”
+- **Spoken** (p.34) — “In this special test, all the first-year students will be divided into twelve groups based on the signs of the Zodiac.”
+- **Rule** (p.35) — Names the four tested abilities: processing information, analyzing the situation, solving after clarifying, and creating new values through imagination.
+- **Spoken** (p.35) — “Society needs three fundamental qualities in order to progress: action, thinking, and teamwork. Those with the necessary qualities will become wonderful adults.”
+- **Spoken** (p.35) — “I’ve already told you. I will not be answering any questions.”
+- **Spoken** (p.36) — “You four gathered here will be in the same group. At this very moment, students in other rooms are receiving the same explanation you are.”
+- **Spoken** (p.36) — “Calm down, you two. Yukimura, your concerns are groundless. The test hasn’t yet begun, so you won’t be affected. Besides, your attitude has no bearing on this test.”
+- **Trait** (p.32–36) — Cold and unanswerable; the narrator pits him against Chabashira — she “unmotivated and unnaturally uncooperative,” he “impossible to read.”
+- **Relationship · Chabashira Sae** (p.34) — The comparison the narrator draws between the two homeroom instructors.
+- **Relationship · Karuizawa Kei** (p.34–35) — Warns her twice before shutting her questions down.
+
+#### p.37–49 — Ch.2 sec. 2.3: the handout and the four outcomes
+
+Carries the briefing to its end: cross-class groups, the printed roster, the VIP handout, Werewolf, and the meeting logistics.
+
+- **Spoken** (p.37) — “Listen. Your group assignments are a done deal. You cannot change them. To gain a good result on the test, you must get along.”
+- **Spoken** (p.37) — “Finished? Please let me continue my explanation.”
+- **Spoken** (p.38) — “It would appear that you cannot help but be concerned by this small gathering. Therefore, I will try to provide an answer. This is neither a conspiracy against the students, nor is it harassment. It’s rather simple. The groups don’t consist of members from just one class; they are made up of about three to five individuals collected from each class. If we didn’t explain things in advance, we would run the risk of confusion.”
+- **Spoken** (p.38) — “You’ve been competing until now? Your school lives have only just begun. You shouldn’t run around like a chicken with its head cut off this early, Yukimura.”
+- **Spoken** (p.38) — “Right now, you shouldn’t spend your energy on trying to understand this test. Rather, focus on how to think. Your group assignment is ‘Rabbit’. Here is a list of the members. You will be required to return this list when you leave the room. If you feel it’s necessary, I would recommend trying to memorize it now.”
+- **Spoken** (p.39) — “Don’t worry. I will answer any questions you have. I believe you will be able to understand everything afterward. Probably.”
+- **Spoken** (p.39) — “The point of this test is to ignore the prior fraught relationships between Classes A through D. If you do, you’ll have a shortcut.”
+- **Spoken** (p.39) — “From this point on, you are no longer acting as members of Class D, but rather as members of the Rabbit group. Whether you pass or fail this test depends on each group.”
+- **Rule** (p.40) — Four outcomes only; handouts of the grade items may be verified on the spot but not taken, photographed, or copied.
+- **Rule** (p.40–41) — The test runs from 8:00 a.m. day one’s message to 9:00 p.m. day four; two one-hour group meetings daily at set times and rooms; answers accepted only 9:30–10:00 p.m. the final night, by email, first submission per group counts, one answer per student, VIPs may not submit, results emailed 11:00 p.m.
+- **Rule** (p.41) — Outcome #1: a correct final answer pays every group member 500,000 private points. Outcome #2: no or wrong final submission pays only the VIP 500,000.
+- **Spoken** (p.41) — “This exam has one critical element. Understand it, and this test will not pose a problem. The key element is the existence of the VIP. There is only one VIP in the group. In this test, you’re after the name of the VIP. It’s that simple. For example, Yukimura, let’s say that you were chosen as VIP. The correct answer for the Rabbit group would be ‘Yukimura.’”
+- **Spoken** (p.42) — “Now then, as for Outcome #2… In the event that the VIP’s identity is not discovered before the end of the examination, and no one in your group found out the identity of the VIP or some even attempted to lie about the identity, then only the VIP will be awarded points, just as it says. He or she will receive 500,000 points.”
+- **Spoken** (p.43) — “Did you understand the explanation for the first two? If you do not, then we cannot continue.”
+- **Spoken** (p.43) — “Regarding the remaining outcomes, they are written on the reverse side of the handout. However, please wait a bit before turning the paper over.”
+- **Spoken** (p.43) — “Very well, I will explain in simpler terms. Have you played the game Werewolf?”
+- **Spoken** (p.44) — “Although I said that there is only one VIP in the group, if the VIP is exposed right away, then Outcomes #3 and #4 will appear.”
+- **Rule** (p.45) — Outcome #3: an early correct answer by a non-VIP pays that student 500,000 private points and their class 50 class points, costs the VIP’s class 50, and ends the group’s test — a VIP-classmate’s early correct answer doesn’t count. Outcome #4: an early wrong answer by a non-VIP costs their class 50 class points and pays the VIP 500,000 plus 50 to the VIP’s class — a VIP-classmate’s early wrong answer doesn’t count.
+- **Spoken** (p.45) — “The school will take anonymity into account during this test. At the end, only the outcomes for each group and the increase or decrease in points for each class will be announced. In other words, we will not announce the names of the VIPs or those who submitted answers. Also, if you wish, you may have a temporary ID assigned to you, to which you can transfer points. It is also possible to divide points up and receive them that way. If you yourself remain quiet, there should be no fear of discovery after the test. Of course, if it’s not necessary for you to hide your identity, you may receive your points openly. That is perfectly fine.”
+- **Spoken** (p.46) — “Outcomes #3 and #4 are very different from the first two. That’s why they are listed on the reverse side of the sheet. With that, the explanation is complete.”
+- **Spoken** (p.48) — “There should also be a list of prohibited actions on the sheet. Make sure to examine it thoroughly.”
+- **Rule** (p.48) — Prohibited: stealing phones, threats to confirm VIP information, using another’s phone to submit — up to expulsion; cross-class discussion until the exam ends — expulsion; school messages may not be copied, deleted, transferred, or modified.
+- **Spoken** (p.49-50) — “Tomorrow, you will go to your designated room at 1:00 p.m. and again at 8:00 p.m. Your group’s name will be displayed on a nameplate… Be sure to introduce yourselves when you meet the other members for the first time. After you’ve entered, leaving the room during the examination is not permitted. Please use the restroom ahead of time. In the event that you feel ill or can’t endure it any longer, please contact your homeroom teacher immediately and make a request.”
+- **Spoken** (p.49) — “The explanation is written on the sheet. The discussion period is for one hour. Aside from self-introduction upon your initial meeting, you are free to use that time however you like. Once the hour has passed, you are free to remain in the room or to leave.”
+- **Spoken** (p.49) — “The school is committed to fairness, so we will be strict and impartial. After the VIP has been selected, we will not accept any changes, not even if the VIP wants to be changed. In addition, copying, deleting, transferring, or modifying emails sent from the school is prohibited. Understand these points clearly.”
+- **Trait** (p.41–43) — Flat, unchanging tone throughout; sharp-eyed when they reach for the paper — “It seemed like the exam had already begun.”
+- **Relationship · Karuizawa Kei** (p.37–49) — Absorbs her four interruptions without expression.
+- **Relationship · Yukimura Teruhiko** (p.38) — Cuts his chicken-with-its-head-short speech down.
+
+#### p.67 — Ch.3: the phrasing he still hears
+
+One backward glance at her briefing inside Ayanokōji’s VIP-message reading.
+
+- **Backstory** (p.67) — “Mashima-sensei had said something to the same effect. The VIP had been chosen based on certain considerations. There was something about the chosen that set them apart.” — Ayanokōji folds Mashima’s words into the email’s “After thorough consideration.”
+- **Relationship · Ayanokōji Kiyotaka** (p.67) — His reading of the VIP rule still runs on her briefing.
+
+#### p.121–123 — Ch.3 sec. 3.6: the teachers’ sofa
+
+One of three homeroom instructors on the first-level sofa — Chabashira with a cocktail, Hoshinomiya with whiskey, Mashima beside them — while Ayanokouji hides and listens.
+
+- **Caveat** (p.121) — The opening lines of the table are untagged in the translation: “You know, it’s been a long time since the three of us all got together.” / “It is what it is. Fate. After bouncing around from one thing to the next, we all chose the teacher’s life.” / “Enough. There’s no point talking about that.” / the Mashima playboy needle / “Chie, what happened to the man you were with?” — only Hoshinomiya’s break-up line and Mashima’s “Relax. I’m not worried about that.” are safely assigned by address or tag; the volume attribution list keeps the rest.
+- **Spoken** (p.121) — “Ah ha ha! We broke up two weeks ago. I’m the type of girl who breaks it off once the relationship starts getting serious. It’s just like, see ya later!” Hoshinomiya-sensei said. (her own tagged line; kept here because the table is the scene)
+- **Caveat** (p.122) — “What are you planning, Chie?” addresses Hoshinomiya; the speaker is not printed — likely Chabashira or Mashima, not assigned.
+- **Spoken** (p.122) — “I’m not screwing around or anything. It’s certainly true that as far as grades and attitude are concerned, Ichinose-san is number one. However, someone’s true place in society cannot be measured by numbers alone. I determined that she needed a challenge. And besides, rabbits are just so cute, aren’t they? The way they hop around. Doesn’t that suit Ichinose-san?” Hoshinomiya-sensei asked. (the Ichinose-in-Rabbit admission, tagged)
+- **Caveat** (p.122) — “We wouldn’t want you to base your judgment on personal grudges.” and the ten-year-bridge exchange sit between untagged speakers at the table.
+- **Spoken** (p.122) — “I see.” Mashima-sensei nodded as though convinced of something. However, he then strictly addressed Hoshinomiya-sensei. “There’s no rule against this, but I want to be clear. Stop spying on other colleagues’ classes.” (both halves tagged to Mashima)
+- **Caveat** (p.122–123) — Hoshinomiya’s reply names Sakagami over the Class C Dragon pick and says “they threw Ryuuen in there”; the closing “That’s certainly true. This isn’t your average year. The students seem rather special.” is untagged.
+- **Relationship · Hoshinomiya Chie** (p.121–123) — The drinking partner she needles and who orders her to stop spying colleagues’ classes.
+- **Relationship · Mashima Tomonari** (p.121–123) — The third seat; the strict order lands on him.
+- **Relationship · Ichinose Honami** (p.122) — Named as the student Hoshinomiya moved out of Dragon.
+- **Relationship · Ayanokōji Kiyotaka** (p.122) — The student Hoshinomiya admits watching since the island.
+
+### Year 1, Volume 8
+
+#### p.11–43 — Ch.2: named at the group report
+
+Not on the bus briefing line; named when Yamauchi’s winning draw is reported to him as the Class A entrant is finalised.
+
+- **Caveat** (p.42) — Passing mention: “They reported to Mashima-sensei” after the first large group forms.
+- **Mentioned** (p.42) — Passing mention only.
+- **Caveat** (p.76) — Chapter ends at the group report mention; no further pages this chapter.
+
+### Year 1, Volume 10
+
+#### p.262–263 — Ch.6: Class A vote
+
+As Class A homeroom teacher explains the supplemental exam, then gives time for discussion; Sakayanagi nominates Katsuragi. Quietly looks away as Class A unanimously votes to expel Katsuragi.
+
+- **Relationship · Sakayanagi Arisu** (p.262–263) — Oversees her class’s decision to expel Katsuragi.
+- **Relationship · Katsuragi Kōhei** (p.262–263) — Watches the vote to expel him.
+
+#### p.292–297 — Epilogue: Announcing Class A results
+
+Announces the Class A Class Poll results, naming Sakayanagi first in praise votes. Announces Totsuka Yahiko received 36 censure votes and will be expelled. Tells Totsuka the decision cannot be overturned and asks him to come to the staff room. Answers Sakayanagi’s question about potential consequences and says they will not arise.
+
+- **Relationship · Sakayanagi Arisu** (p.292, 297) — Announces results and responds to her question.
+- **Relationship · Totsuka Yahiko** (p.293, 296) — Announces his expulsion and escorts him.
+- **Relationship · Katsuragi Kōhei** (p.293–296) — Confirms the result when Katsuragi protests.
+
+#### p.294 — Epilogue: Announcing Class A results
+
+Calmly confirms there were no mistakes when Katsuragi protests Totsuka’s expulsion.
+
+- **Spoken** (p.294) — “There haven’t been any mistakes.”
+- **Relationship · Katsuragi Kōhei** (p.294) — Confirms the result when Katsuragi protests.
+- **Relationship · Totsuka Yahiko** (p.293–294) — Announces his expulsion.
+
+### Year 1, Volume 11
+
+#### p.14–26 — Ch.1: Opposing the acting director
+
+Breaks the silence in the staff meeting and questions Acting Director Tsukishiro about the first-years’ exams. Protests that the Class Vote creates a huge risk of expulsions and is inappropriate so soon after Tsukishiro’s appointment. Argues the provisional exam is different from past policies and that expulsions should not be practically forced. Asks Tsukishiro to reconsider the provisional exam, but is shut down. Listens as Hoshinomiya and Chabashira discuss the exam in the hallway. Tries to mediate between Chabashira and Hoshinomiya over their past rivalry. Warns Hoshinomiya that Class C is different this year.
+
+- **Spoken** (p.15) — “Forgive my rudeness, Acting Director, but you’ve only just recently been appointed to your post at this school. Although I understand you’ve made this decision based on everything that has happened so far, I think it’s somewhat inappropriate for us to do something that will force expulsions just because there haven’t been any amongst the first-years yet.”
+- **Relationship · Tsukishiro** (p.14–19) — Challenges his decision but fails to change it.
+- **Relationship · Chabashira Sae** (p.21–24) — Speaks with her and Hoshinomiya after the meeting.
+- **Relationship · Hoshinomiya Chie** (p.21–26) — Speaks with her after the meeting and warns her about Class C.
+- **Spoken** (p.15) — “While the special exams for the second and third years are just as difficult as they had been in previous years, the special exam for the first years is far more difficult than usual. There’s a huge risk that there will be expulsions because of this ‘Class Vote’ provisional exam…”
+- **Spoken** (p.16) — “If it’s just about getting numerous students expelled, then wouldn’t this exam do the same thing?”
+- **Spoken** (p.16) — “No. This provisional exam is obviously different than the policies we’ve had up until now. I cannot approve of something that practically forces expulsions.”
+- **Spoken** (p.18) — “Then, by any chance, could you at least reconsider it?”
+- **Spoken** (p.24) — “Are you two still fussing over what happened back then? How many years need to pass befー”
+- **Spoken** (p.25) — “Be careful not to have the carpet pulled out from under you. This year’s Class D… No, Class C is different from usual.”
+
+#### p.62–71 — Ch.3: Explaining the commander system
+
+Runs the lottery to decide which commander may choose an opponent. Confirms the lottery results and Kaneda’s right to choose. Finalizes the matchups as Class D vs Class B and Class C vs Class A. Explains the commander’s exam-day procedures, including participant selection and time limits. Warns that improper interference can lead to disqualification and explains headset/text-to-speech rules.
+
+- **Relationship · Kaneda Satoru** (p.63–65) — Confirms his choice of opponent.
+- **Relationship · Chabashira Sae** (p.67–71) — Explains the system alongside her.
+
+#### p.368–374 — Ch.8: Proctoring Class B vs Class D
+
+Announces the results of the fourth event in the Class B vs Class D matchup. Checks on the condition of Class B students who reported feeling unwell. Proceeds with the fifth event drawing at Ryūen’s insistence. Rules the Judo event a default loss for Class B and declares Class D the overall victor.
+
+- **Relationship · Ichinose Honami** (p.368–374) — Reports results and rulings to her as Class B’s commander.
+- **Relationship · Ryūen Kakeru** (p.368–374) — Oversees the matchup as he commands Class D.
+
+### Year 1, Volume 11.5
+
+#### p.47–87 — Ch.1: Chess exam meeting
+
+Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam. Hears Sakayanagi claim that Ayanokōji was the original winner of the chess game and that the process was manipulated. Takes part in the teachers’ response as the issue of Acting Director Tsukishiro’s interference is pressed.
+
+- **Relationship · Tsukishiro** (p.47–87) — Confronts the acting director over exam interference.
+- **Relationship · Sakayanagi Arisu** (p.47–87) — Hears her accusation regarding the chess exam.
+- **Relationship · Ayanokōji Kiyotaka** (p.47–87) — Present in the meeting involving his exam.
+
+#### p.60–81 — Depth review: confronting Tsukishiro's manipulation
+
+Joins Ayanokōji and Sakayanagi in a secret meeting with teachers Mashima and Chabashira during the closing ceremony.
+
+- **Spoken** (p.60) — "You seem to have something to say to us, Ayanokouji. Making a special announcement through Chairman Sakayanagi, allowing us to skip the closing ceremony to have a secret meeting… What's the big deal? What's going on?"
+- **Spoken** (p.68) — "Never mind what I think, the current situation is hard for anyone to accept."
+- **Spoken** (p.71) — "Do you two have any evidence?"
+- **Spoken** (p.75) — "Yeah…The part about how the father was dissatisfied with his child's decision to enrol into the school and tried to get him expelled, I believe. And I don't want to help him with that."
+- **Spoken** (p.76) — "Are you trying to feel me out, Ayanokouji?"
+- **Spoken** (p.76) — "In future special examinations and tests, I will handle it appropriately, and will not allow"
+- **Spoken** (p.79) — "Both these situations are connected. If something is considered dangerous to the students, I'll quickly stop it. If there's improper behaviour, I'll quickly see it corrected."
+- **Spoken** (p.79) — "I've always consciously done my job as a teacher."
+- **Trait** (p.77–79) — Strong sense of righteousness; accepted a pay cut for declaring Class B's judo event a forfeit rather than risk an accident against Yamada, and accepts he may be fired for opposing Tsukishiro.
+- **Relationship · Ayanokōji Kiyotaka** (p.64–77) — Hears the account of Tsukishiro's interference and agrees to act against it.
+- **Relationship · Chabashira Sae** (p.70–79) — Consults with her, warns her resisting Tsukishiro could cost their jobs.
+- **Relationship · Sakayanagi Arisu** (p.80–81) — Notes her harshness, accepts her pledge to crush Class D once Tsukishiro is gone.
+- **Caveat** (p.78–79) — His pay cut is explained as a result of the Class B/D event-selection exam where he declared Ichinose's judo forfeit against Yamada.
+
+#### p.378–380 — Short story: Sakayanagi’s request
+
+In Sakayanagi’s short story, Mashima encounters her after the ceremonies and questions why she is waiting for him. He initially hesitates but agrees to let Sakayanagi accompany him after she reveals knowledge of the meeting.
+
+- **Relationship · Sakayanagi Arisu** (p.378–380) — Is approached by her and takes her along toward the reception room.
+- **Relationship · Ayanokōji Kiyotaka** (p.379–380) — Is headed to a meeting that involves him.
+
+### Year 2, Volume 1
+
+#### p.344 — Epilogue: Mention
+
+Mentioned in passing.
+
+### Year 2, Volume 2
+
+#### p.24 — Mashima mentioned in passing
+
+Named in the context of Ayanokōji's injured left hand; Chabashira asks about it.
+
+- **Caveat** (p.24) — Passing mention; not a distinct scene presence.
+- **Mentioned** (p.24) — Passing mention only.
+
+### Year 2, Volume 3
+
+#### p.9 — Mashima named at the ship talk
+
+- **Mentioned** (p.9) — “This is a much bigger island than the last one, just like Mashima-sensei said it’d be.” — named; not present; POV Ayanokōji.
+
+#### p.16–22 — The briefing: Basic Movement rule
+
+Class 2-A's homeroom teacher, Mashima-sensei, stands before the screen with a microphone in hand and opens the uninhabited-island exam briefing; Hoshinomiya-sensei (Class 2-C homeroom) is also on stage; the theater holds nearly 160 second-years.
+
+- **Spoken** (p.16) — “Starting tomorrow, your stay on the island will last for the next two weeks.”
+- **Spoken** (p.16) — “However, once the exam is underway and a certain condition is met, the size restriction will be lifted and small groups will be allowed to work together, raising the maximum group size to six.”
+- **Spoken** (p.18) — “There are two ways to score points. The first is via the ‘Basic Movement’ rule, whereby you will be directed to go to one of the 100 cells on the map in specified intervals.”
+- **Spoken** (p.18) — “The first three groups to arrive at area C8 will receive an ‘Early Bird Bonus’, with the first receiving 10 points, the second receiving 5 points, and the third receiving 3 points.”
+- **Spoken** (p.18) — “Furthermore, everybody who arrives at the area within the fixed interval will receive an individual ‘Arrival Bonus’ of 1 point.”
+- **Spoken** (p.18) — “The designated area for the Basic Movement rule will change three times a day on the first and last day of the exam, on the remaining twelve days, however, it'll change four times a day.”
+- **Spoken** (p.19) — “Please also keep in mind that, should a group fail to reach a designated area three times in a row, they will lose one point.”
+- **Spoken** (p.20) — “When it comes to whether or not a group has missed a designated area, you'll be safe as long as a single member of your group manages to get there in time.”
+- **Spoken** (p.20) — “There is one caveat to this, however. The Early Bird Bonus given to the first three groups will only be given if nobody in the group has retired and all of its members arrive at the area.”
+- **Spoken** (p.20) — “Of the 100 areas on the map, some are clearly inaccessible.”
+- **Spoken** (p.21) — “There are also certain restrictions in place that help decide how designated areas will be chosen. Three out of four times a day, the next designated area will be within two cells laterally or one cell diagonally of the previously designated area.”
+- **Spoken** (p.21) — “There is an exception to this restriction, however. Of the four new area selections that happen per day, one will shift to a completely random, unknown location.”
+- **Spoken** (p.22) — “Also, while the same area will never be designated twice in a row, it's entirely possible for it to designate D2, then D3, and then D2 again.”
+- **Rule** (p.16–22) — Up to three per group (six once linked); the five lowest groups face expulsion, nullifiable by points (6M solo / 2M per three-person member); bottom three forfeit class points; a fully retired group is disqualified, points voided; 100 cells, four interval changes daily (three on first/last day); intervals 7–9 / 9–11 / 13–15 / 15–17; ocean cells B1, C1, F10, G10 never designated; the random shift never occurs twice in a row; misses escalate 1/2/3+ points; a single member reaching an area saves the group; Early Bird requires all members, ranked by last arrival; an already-present group earns the 1-point Arrival Bonus but no Early Bird.
+- **Relationship · Hoshinomiya Chie** (p.16, 23–24) — Class 2-C homeroom teacher sharing the stage; hands him the watch.
+- **Relationship · Tsukishiro** (p.32–34) — Yields the microphone to him; later whispers to him on stage.
+
+#### p.23–27 — The watches and the twelve Tables
+
+Hoshinomiya-sensei comes up on stage and hands him a digital wristwatch; a staff member fastens it with a special tool; his live metrics appear on the screen.
+
+- **Spoken** (p.24) — “Starting tomorrow, all students will be required to wear one of these watches until the end of the exam.”
+- **Spoken** (p.24) — “Your watch will be an indispensable tool for you, not only for telling the time but also for earning points.”
+- **Spoken** (p.25) — “Additionally, the school will continuously monitor the wearer's body temperature, heart rate, blood pressure, blood oxygen level, sleep cycle, stress levels, and so on. If any of these go beyond a prescribed level, it will sound off a ‘Warning Alert’.”
+- **Spoken** (p.25) — “This is the Warning Alert. Since the sound is only meant to be a warning, it's automatically configured to stop ringing after five seconds.”
+- **Spoken** (p.25) — “However, if any of the metrics continue to stay beyond the prescribed level, the Warning Alert will sound off again ten minutes later.”
+- **Spoken** (p.25) — “Instead of a ‘Warning Alert’, this final alert is known as an ‘Emergency Alert’.”
+- **Spoken** (p.25) — “As you must have seen earlier, special tools are required to fasten and unfasten the watch from your wrist to prevent dishonest practices during the exam.”
+- **Spoken** (p.26) — “Alright, now that you all have an understanding of the watch itself, let's revisit the Basic Movement rule for a moment.”
+- **Spoken** (p.26) — “In other words, from the first day of the exam to the last, every single designated area you're given has been decided internally since before the exam even started.”
+- **Spoken** (p.26) — “Needless to say, every member of a group will be assigned to the same table.”
+- **Rule** (p.24–27) — Warning Alert: 5 seconds, then repeats after 10 minutes while abnormal, escalating to a louder second warning, then the Emergency Alert (continuous unless disabled; 24-hour checkup required, else retirement/punishment; if it sounds for over five minutes, faculty and medical personnel are dispatched by GPS); the watch is fastened with a special tool, and forcible removal stops point tallying; damage/malfunction disables point scoring until a swap at the starting area; twelve ‘Tables’ pre-program each watch's designated-area sequence; whole groups share a table; linked members take the main group's table.
+- **Relationship · Hoshinomiya Chie** (p.23–24) — Hands him the watch mid-briefing.
+
+#### p.28–32 — Tasks and the Main Link
+
+Shows a Math Test Task example on the screen (red dot in C3); explains Task categories, staffing and registration rules.
+
+- **Spoken** (p.28) — “Next, I'll explain the second way to earn points. Simply put, you can earn points by completing ‘Tasks’ set up throughout the island.”
+- **Spoken** (p.30) — “School faculty or exam managerial staff will always be on standby at the Task location. If you want to participate, they'll help finalize your registration with your watch and tablet.”
+- **Spoken** (p.30) — “On your tablets, you'll be able to see where the Task will be held along with all of the information you can see up here on the screen right now.”
+- **Spoken** (p.30) — “Tasks will all be split up into three general categories, with 40% being centered around Academic Ability, 30% around Physical Ability, and 30% Other.”
+- **Spoken** (p.31) — “Starting on the fourth day of the exam, some Tasks will begin to provide a different reward: the ability to increase the maximum size of your group.”
+- **Spoken** (p.31) — “Should you manage to satisfy the conditions required to increase the maximum size of your group, you just need to initiate a ‘Main Link’ request with your watch when you want to take in another group.”
+- **Spoken** (p.31) — “All that being said, Tasks that grant permission to increase the size of your group will be limited in number.”
+- **Spoken** (p.31) — “Oh, and I forgot to mention this, but when two groups link up, their points will be averaged together.”
+- **Rule** (p.28–32) — Tasks appear as tablet red dots only, 7:00–17:00 (from 10:00 on the first day; until 15:00 on the last); identical Tasks may recur; staff on standby for registration with watch and tablet; examples given: Math Test (1/group, max 10 groups, 5/3/1 + provisions), Shot Put (3 throwing aggregate distance, max 6 groups, 10/5/3 + free prize), Fishing (2 participants, biggest fish in one hour, max 8 groups, 15 pts); expansion Tasks from day 4 (1st +3 spots / 2nd +2 / 3rd +1; six-member cap; only ~20–30% of groups unlock); group-size tasks never offered to six-person groups; standings (top and bottom ten plus own) visible days 4–12; GPS search from day 6 (1 pt per search); on link, points average; a solo climber needs two expansions to reach six.
+- **Relationship · Tsukishiro** (p.32–34) — Invites him to the stage; yields the microphone to him before stepping down.
+
+#### p.35–39 — Provisions and tablets
+
+Staff wheel out a cart of provisioned goods; the Uninhabited Island Survival Manual is distributed from the front row; purchases open until 6:00 AM tomorrow; a hands-on exhibition runs until midnight; the port shop sells at double price later.
+
+- **Spoken** (p.35) — “Everybody will be given a base of 5000 points. You're free to use them to buy whatever you'd like from what you see up here.”
+- **Spoken** (p.35) — “And, students who have a ‘Head Start’ card will receive an additional 2500 points on top of that.”
+- **Spoken** (p.35) — “Purchases can be made from now until 6:00 AM tomorrow, but you can also choose to save some points for later.”
+- **Spoken** (p.38) — “When it comes to whether or not a group can share some of their food or provisions with others, the decision is left entirely up to you. The school is fine with you doing whatever you want with what you have while on the island.”
+- **Spoken** (p.38) — “Later, you'll all be given a special tablet along with your watch. Your tablet will be an essential tool for monitoring basic information, so be sure to charge it whenever you're at the starting area or one of the Task locations.”
+- **Caveat** (p.35) — Prices shown: drinks 500ml 100 / 1L 150 / 2L 250; water purifier 4,000 (150L; 99.9% bacteria); tents 1,000/1,500/2,500; bags 20–80L flat price; canned goods cheaper; coolers add a day; double price at the port shop; potable water at the starting area from day 2 (drink-only, no take-away); free amenities at the start.
+- **Caveat** (p.38–39) — The tablets map designated areas and Tasks, show top/bottom ten and own standing (days 4–12), unlock GPS search day 6 (1 pt per search); ~8 hours battery; charge at start/charging points; exhibition on until midnight.
+- **Relationship · Tsukishiro** (p.32–34) — Introduces him: “Thank you very much, Acting Director Tsukishiro.” (p.34) — yields the stage to him before provisions.
+
+#### p.73 — Mashima named at the shopping stop
+
+- **Mentioned** (p.73) — “recover from it. If his plan was that careless, Mashima-sensei and other” — named; not present; POV Ayanokōji.
+
+#### p.164 — Mashima named at the briefing replay
+
+- **Mentioned** (p.164) — “It sounded similar to what Mashima-sensei had played for us during his” — named; not present; POV Ayanokōji.
+
+#### p.240–241 — Mashima at the provisions desk (Ch.6)
+
+Manning the provisions desk near the harbor; pulls Ayanokōji aside with a look; the two-boats disclosure; his daily watch for the Acting Director's moves.
+
+- **Spoken** (p.240) — “Ah, Ayanokōji. Perfect timing actually. I have something to tell you, so make it seem like you’re looking through the merchandise and listen up.”
+- **Spoken** (p.240) — “Acting Director Tsukishiro hasn’t done anything noteworthy so far, at least not since the exam started. I haven’t noticed him planning anything to interfere with you.”
+- **Spoken · Ayanokōji Kiyotaka** (p.240) — “So you’re saying I don’t need to worry about him doing anything?”
+- **Spoken** (p.240) — “…That’s what I’d like to tell you, but there are still certain things that seem a bit strange.”
+- **Spoken** (p.240) — “In this exam, there’s no telling when or where someone might run into danger. In the event that a student suffers a particularly time-critical injury, the school has prepared a small boat and a helicopter to help expedite the rescue process.”
+- **Spoken · Ayanokōji Kiyotaka** (p.240) — “That seems reasonable to me.”
+- **Spoken** (p.240) — “We originally planned on bringing along one helicopter and one boat… found that the Acting Director had arranged it as a supposed safety precaution.”
+- **Spoken · Ayanokōji Kiyotaka** (p.241) — “So then, maybe it’s possible that he did so expecting the need for two boats to arise at once?”
+- **Spoken** (p.241) — “That’s certainly true. In the end, it’s just something peculiar that I thought would be worth mentioning. Take it for what you will.”
+- **Spoken · Ayanokōji Kiyotaka** (p.241) — “Where does the Acting Director usually spend his time?”
+- **Spoken** (p.241) — “Generally, he stays in the tent where the monitoring equipment has been set up, making sure that nothing has gone wrong with any of the students’ watches. Of course, other staff members are in there monitoring the watches as well. Outside of that, he tends to go out and patrol the island once or twice a day, sometimes for several hours at a time.”
+- **Spoken · Ayanokōji Kiyotaka** (p.241) — “The Acting Director goes out of his way to patrol the island, all on his own?”
+- **Spoken** (p.241) — “Yes.”
+- **Spoken** (p.241) — “In any case, I have a bad feeling about all of this, so be sure to watch your back, Ayanokōji.”
+- **Spoken · Ayanokōji Kiyotaka** (p.241) — “Thank you for going to the trouble of providing me with this warning.”
+
+#### p.337 — Mashima named at the slope
+
+- **Mentioned** (p.337) — “…Mashima seems to be on particularly high alert…” — named by Shiba; not present; POV Ichinose.
+- **Mentioned** (p.337) — “Be it Chabashira-sensei or Mashima-sensei, there’s no doubt in my mind that their actions link back to Ayanokōji-kun. Since Ayanokōji-kun happened to be at the scene back then, it’s only natural that he managed to figure out the truth.” — named by Shiba; not present; same scene.
+
+#### p.344 — Mashima named at the slope
+
+- **Mentioned** (p.344) — “Acting Director Tsukishiro, rather than showing such leniency, wouldn’t it be better to exercise your authority here? If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.” — named by Shiba; not present; same scene.
+
+### Year 2, Volume 4
+
+#### p.268–272 — Mashima lands the rescue boat
+
+- **Mentioned** (p.268) — “If you look closely at the end of the small boat, you could see Mashima-sensei and Chabashira-sensei. And that's how Tsukishiro found out.” — narration.
+- **Mentioned** (p.269) — “When you find out that it is the 2nd A class and the 2nd D class, you have no choice but to bring your class teacher, even if you don't want to.” — narration; the teachers are brought in because of the broken-watch rule.
+- **Mentioned** (p.270) — “I was watching the fight between Shiba and her, although it was out of the corner of my eye and she could hold out well, even if she only defended herself.” — narration.
+- **Mentioned** (p.270) — “In the end, the boat landed and Mashima-sensei and Chabashirasensei got off.” — narration.
+
+#### p.271–272 — Mashima lands the rescue
+
+- **Mentioned** (p.271) — “In the end, the boat landed and Mashima-sensei and Chabashirasensei got off.” — narration.
+- **Mentioned** (p.272) — “Then let's go. The students haven't finished their special exams yet.” — Mashima/Chabashira head to the ship.
+
+### Year 2, Volume 4.5
+
+#### p.161 — Mentions: the watchers
+
+- **Mentioned** (p.161) — "In fact, Mashima-sensei and Chabashira had seen him, so his role had become known."
+
+#### p.225–226 — Mentions: the watchers
+
+- **Mentioned** (p.225) — "Mashima, who was sat in between the two of them, urged her to hold her ground."
+- **Mentioned** (p.226) — "Mashima and Chabashira also ordered beers a step later."
+
+#### p.227–233 — Mashima reveals the next special exam
+
+Sandwiched between the two women, sets down his half-empty beer forcefully and warns that the second-years' success "can invite trouble" — not one second-year has ever dropped out.
+
+- **Spoken** (p.227) — "It's not like the school wants anyone to drop out, but still, in reality, not even one of our second-year students has dropped out of school during any special exams so far."
+- **Spoken** (p.228) — "The outline for the next special exam was announced recently. It will be implemented for the first time in 11 years."
+- **Spoken** (p.229) — "It's to make sure the contents of the special exams don't get leaked to other students while they're at school, right?"
+- **Spoken** (p.231) — "you two suffered a great deal with this particular exam."
+- **Spoken** (p.232) — "Even though Class A is a head above of the rest, there's still a chance for those in Class B and below to turn things around."
+- **Trait** (p.227–236) — Sober and informative — explains the four-year exam rotation and that the "problematic" exam from 11 years ago (their third year) has been reinstated because too few second-years have dropped out; tries to defuse the tension between Chabashira and Hoshinomiya before leaving with the drunk Hoshinomiya.
+- **Relationship · Chabashira Sae** (p.227–232) — Fellow teacher; informs her of the exam and watches her go silent.
+- **Relationship · Hoshinomiya Chie** (p.232–236) — Drinks with her and ultimately escorts her home.
+
+### Year 2, Volume 7
+
+#### p.54–57 — The corridor gossip; Mashima's chat
+
+After school, Ayanokōji passes the special-building corridor — the teacher in charge of 2nd year Class A and teachers for the other grades, standing around in the corridor talking; the unusual sight attracted his gaze; the gossip is about Chabashira's change.
+
+- **Caveat** (p.55) — “Chabashira-sensei has changed recently.” / “She's become more chirpy, or rather, she seems to be laughing more often.” / “Mashima-sensei, you and Chabashira-sensei were schoolmates, weren't you? Well, I'd like to ask you a few questions...” — the overheard teachers' conversation.
+- **Spoken** (p.55) — “Ayanokōji, what are you doing here in the special building?” — Mashima notices his presence and interrupts.
+- **Spoken · Ayanokōji Kiyotaka** (p.55) — “I have a short meeting. There are some things I want to talk about that I don't want to be accidentally overheard.” — the teachers, with the exception of Mashima-sensei, look somewhat dismayed and walk away.
+- **Spoken · Ayanokōji Kiyotaka** (p.55) — “Mashima-sensei, perfect timing. I would like to ask you a few questions.” — Ayanokōji takes the opportunity.
+- **Spoken** (p.55) — “Me? What do you want to ask me?” — Mashima stays.
+- **Spoken · Ayanokōji Kiyotaka** (p.55) — “This is in respect of rules that are not explicitly stated in the festival” — although he looked slightly skeptical, Mashima immediately faced him head-on as a teacher.
+- **Spoken** (p.56) — “I don't know what you want to ask, but shouldn't you first check with your homeroom teacher, Chabashira-sensei?” — Mashima; he doesn't hesitate to ask this to ensure that the underlying assumption is correct.
+- **Spoken · Ayanokōji Kiyotaka** (p.56) — “Sometimes, depending on the occasion, it is more expedient not to approach Chabashira-sensei.” — Ayanokōji.
+- **Spoken** (p.56) — “Teachers are supposed to be fair to all pupils. But still, when it comes to other classes in the same grade, it doesn't mean that there won't be any problems at all. I hope you realise that.” — Mashima.
+- **Spoken · Ayanokōji Kiyotaka** (p.56) — “I judge that Mashima-sensei isn't the kind of person who would fail a student.” — Ayanokōji.
+- **Spoken** (p.56) — “If that's what you think, then let's not go any further.” — Mashima; tone of “ask what you want if you're going to trust me.”
+- **Spoken** (p.56) — “So what is it that you want to know regarding unstated rules?” — Mashima, giving his permission to ask.
+- **Spoken** (p.56) — “Surely you're right. It isn't impossible to exercise it, if necessary.” — Mashima's confirmation of the unstated-rule premise.
+- **Spoken · Ayanokōji Kiyotaka** (p.56) — “I knew it.” — Ayanokōji.
+- **Spoken** (p.56) — “However, it begs the question if it is efficient. As you know, if it were between pupils, no problems would arise. No, it would be precisely to have their own discussions so that they don't arise. You know what I mean, don't you?” — Mashima.
+- **Spoken · Ayanokōji Kiyotaka** (p.56) — “Yes. I thought it was something that didn't need to be specified in the rules and could be done independently.” — Ayanokōji.
+- **Spoken** (p.56) — “Yes. Of course the risks will be different for each, but for whatever reason we will look at that option.” — Mashima.
+- **Spoken · Ayanokōji Kiyotaka** (p.56) — “I suppose it's only natural to be prepared for contingencies.” — Ayanokōji.
+- **Spoken** (p.56) — “Whether you exercise it or not - or...? Well, it certainly wouldn't hurt to understand.” — Mashima; he may have had a vague idea of the sales strategy based on what was said.
+- **Spoken · Ayanokōji Kiyotaka** (p.57) — “It was good to get confirmation. Thank you.” — Ayanokōji.
+- **Spoken** (p.57) — “It's no problem.” — Mashima.
+- **Spoken** (p.57) — “Ayanokōji, you heard a little of what Chabashira-sensei said… What happened at the unanimous special exam?” — Mashima stops him; Mashima and Chabashira were schoolmates in the same year.
+- **Spoken · Ayanokōji Kiyotaka** (p.57) — “You haven't heard? Not from Chabashira-sensei?” — Ayanokōji.
+- **Spoken** (p.57) — “With or without the expulsions, she started to look forward and smile. In other words, there was an influential event in that special exam that changed her mind, right?” — Mashima.
+- **Spoken** (p.57) — “That wasn't the right thing to ask a pupil. Please forget I asked such a thing.” — Mashima.
+- **Spoken · Ayanokōji Kiyotaka** (p.57) — “I understand. Excuse me.” — Ayanokōji; he leaves for the special wing.
+- **Trait** (p.54–57) — A teacher who tells what can and cannot be exercised under the school's unstated rules; he gives Ayanokōji the permission without endorsing it.
+- **Relationship · Chabashira Sae** (p.55–57) — He is her schoolmate; asks about her change; withdraws the question.
+- **Relationship · Ayanokōji Kiyotaka** (p.54–57) — He confirms the unstated-rule path — the future 100,000-point maid hiring was vetted here.
+
+#### p.175–182 — The teacher who stood between them
+
+§2 — Mashima-sensei showed up later in the student council room; he stood up in pain at the end. At 3:00 p.m. the room had been surrounded by Ryūen-kun, Komiya-kun and others who unexpectedly appeared as well as the teachers. However, we must do something to hold him here; Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun. Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+
+- **Spoken** (p.176) — “Ryūen!” — Mashima-sensei scolded him for his violent behavior, but he showed no sign of paying attention.
+- **Spoken** (p.177) — “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei; Sakagami-sensei confirmed Mashima-sensei, as if remembering something.
+- **Caveat** (p.177) — “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
+- **Spoken** (p.180) — “Stop it, Yagami!” — Mashima-sensei scolded him for his violent behavior.
+- **Spoken** (p.181) — “Stop it, Yagami. And Ryūen, too. If you cause a commotion here, it will be a serious penalty.” — Mashima-sensei.
+- **Caveat** (p.181) — Still, Mashima-sensei, as a teacher, stepped in between Yagami-kun and Ryūen-kun.
+- **Caveat** (p.181) — “Get lost.” He kicked Mashima-sensei in the knee, and when he staggered over, he slammed his fist into his face.
+- **Caveat** (p.181) — Sakagami-sensei witnessed it up close and took a frightened step away.
+- **Caveat** (p.181) — Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+- **Caveat** (p.182) — Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+- **Spoken** (p.182) — “You people are...” — Mashima-sensei confirmed as he stood up in pain.
+- **Caveat** (p.182) — “We are related to Yagami and Amasawa. We will settle this situation, so please go ahead and get treated. Please do not tell anyone about what happened here, not even the teachers and students. Rest assured that we will pass everything on to Chairman Sakayanagi.” — printed untagged; flagged untagged.
+- **Caveat** (p.182) — “I understand.” — with Sakagami-sensei's help, Mashima-sensei left the student council room; the room, which had been so noisy, was suddenly enveloped in silence.
+- **Relationship · Yagami Takuya** (p.176–181) — Yagami's violence against him: the kick in the knee and the fist to the face.
+- **Relationship · Ryūen Kakeru** (p.180–181) — He was between Ryūen and Yagami; Yagami kicked him; he staggered over.
+- **Relationship · Sakagami** (p.175–182) — Sakagami-sensei witnessed the kick; helped Mashima-sensei leave.
+- **Relationship · Nagumo Miyabi** (p.176–183) — Nagumo brought him into the room; Nagumo revealed the special-exam rumor.
+
+### Year 2, Volume 8
+
+#### p.11-208 — mashima-tomonari mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.11) — Passing mentions on pages: p.46, p.49, p.156.
+- **Mentioned** (p.11) — Passing mention only.
+
+#### p.46 — Class A's homeroom teacher gives the send-off speech
+
+Mashima-sensei, Class A's homeroom teacher, gives a speech before boarding; the four 2nd-year homeroom teachers split by class across the four buses: Mashima (No.1), Chabashira (No.2), Sakagami (No.3), Hoshinomiya (No.4).
+
+#### p.49, 156 — The bus assignments; the Daifügō reading
+
+- **Mentioned** (p.49) — "Mashima-sensei was in charge of groups 1 through 5, Chabashira-sensei was in charge of groups 6 through 10, Sakagami-sensei was in charge of groups 11 through 15, and Hoshinomiya-sensei was in charge of groups 16 through 20."
+- **Mentioned** (p.156) — "In Mashima's Class A, the cards in his hand are all in order, and he is dealt more 10s and 11s." (Hoshinomiya's analogy; Hoshinomiya frames his class as the strongest deck)
+
+### Year 2, Volume 9
+
+#### p.124 — Mashima mentioned in passing
+
+Named in the gym scene — "I often see Mashima-sensei here as well."
+
+- **Caveat** (p.124) — Passing mention; not a scene presence.
+- **Mentioned** (p.124) — Passing mention only.
+
+### Year 2, Volume 9.5
+
+#### p.15–23 — Mashima: gym training, and a favor to investigate Akiyama
+
+At the gym he is pleased to find Ayanokōji is now a member, shows him his bench-press routine (80–100 kg, using safety bars), trains absorbed for two hours and accepts Ayanokōji's advice to stop. In the break room he asks Ayanokōji to investigate a gym employee, Akiyama — whether she has a boyfriend, her type and hobbies — explaining he dismissed Hoshinomiya and Chabashira as too flirtatious/serious and picked Ayanokōji as discreet and trustworthy.
+
+- **Spoken** (p.15) — "Hm? Ayanokōji? Are you a gym member too?"
+- **Spoken** (p.16) — "When doing bench presses, never forget these safety bars."
+- **Spoken** (p.21) — "I want you to investigate her. As carefully and discreetly as possible."
+- **Spoken** (p.22) — "You're the only one who goes to the gym, remains discreet, and seems trustworthy."
+- **Trait** (p.15–23) — Cheerful and dedicated to training but secretly smitten — he delegates a discreet Investigation rather than confess himself, showing a calculating side behind the simple enthusiasm.
+- **Relationship · Ayanokōji Kiyotaka** (p.15–23) — Gym buddy whom he trusts with a personal favor.
+- **Relationship · Akiyama** (p.20–23) — The gym employee he is interested in; asks Ayanokōji to investigate her.
+
+### Year 2, Volume 10
+
+#### p.9-235 — mashima-tomonari mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.9) — Passing mention (locator pages: p.72, p.180; not line-by-line verified; substring false positives possible). Not a scene presence.
+- **Mentioned** (p.9) — Passing mention only.
+
+#### p.72 — Ch.3: The promised meeting, skipped
+
+- **Mentioned** (p.72) — Passing mention: "I had also promised to meet Mashima-sensei, but I could surely skip it for today." — no scene presence; no dialogue; the appointment is simply dropped.
+
+#### p.180–180 — Ch.6: passing mentions (locator cross-check)
+
+- **Mentioned** (p.180) — Passing mention — Upon receiving Mashima-sensei's signal, Ichinose opened her phone.
+
+### Year 2, Volume 11
+
+#### p.205–209 — Epilogue: The witness
+
+The career counseling room; he stands with arms crossed in confusion; he does not know what is happening; he is asked to wait.
+
+- **Spoken · Mashima Tomonari** (p.205) — “What are you planning to talk about? And with whom?”
+- **Spoken · Mashima Tomonari** (p.207) — “You seem to be moving the conversation along on your own, but could you explain the situation?”
+- **Spoken · Mashima Tomonari** (p.208) — “Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.”
+- **Caveat** (p.207) — He remembers the story Sakayanagi told him before — Ayanokōji as a childhood friend; he stays silent.
+- **Caveat** (p.208) — The Protection Point is meaningless; the withdrawal voids the contract; he knows what the contract means; he says nothing now.
+- **Relationship · Sakayanagi Arisu** (p.205–209) — The homeroom teacher witnessing the contract; the Protection Point; the end-of-year exam.
+- **Relationship · Ryūen Kakeru** (p.205–209) — The homeroom teacher witnessing the contract; the end-of-year exam.
+
+### Year 2, Volume 12
+
+#### p.67–78 — Ch.3: Explaining the special exam
+
+Mashima-sensei and Chabashira-sensei appear in the classroom just as the reps grow restless; he steps forward — the homeroom teacher of Class A — and announces he will explain the exam and its detailed rules. On the monitor: the twelve finalists — A: Sanada, Kitō, Sakayanagi; B: Hirata, Horikita, Ayanokōji; C: Nishino, Katsuragi, Ryūen; D: Hamaguchi, Kanzaki, Ichinose; each two males and one female; the announcement notes each classroom has an identical setup and Class A vs C will compete here while B vs D faces the same arrangement elsewhere. He walks through the flow: five groups of seven participants per class; discussion rounds of five minutes; roles — ordinary students, honor students ×2, one teacher, one graduate, one underclassman, one upperclassman, 0–2 traitors; traitor rights once per class per exam; interrogation rules; his tone is flat and complete.
+
+- **Spoken** (p.68) — “My name is Mashima, and I will be explaining the end-of-year special exam.”
+- **Spoken** (p.69) — “The vanguard representatives from each class will take their seats, and that’s when the special exam will begin.”
+- **Spoken** (p.70) — “The basic flow of the special exam is conducted and repeated according to steps ① to ⑤.”
+- **Spoken** (p.71) — “‘participants’ refers to all students other than you representatives.”
+- **Spoken** (p.74) — “If both representatives successfully nominate, a process of canceling each other out will occur.”
+- **Spoken** (p.76) — “The representatives can check these rules on their tablet at any time during the exam.”
+- **Spoken** (p.77) — “That’s a valid question, but that’s impossible since the participants will receive a ‘different explanation’ from you representatives.”
+- **Caveat** (p.74) — He was the one explaining the zodiac exam last year as well — noted by Ayanokōji's recollection mid-explanation.
+- **Caveat** (p.78) — His explanation covers ~10 pages; the questions come only from Sanada; the rest of the room is silent throughout.
+- **Relationship · Chabashira Sae** (p.67) — They enter together; the half-line "You better quiet down now" is printed without a speaker tag — unattributed, possibly his or hers (see this volume's attribution gaps).
+
+#### p.80, 83 — Mentioned in passing
+
+Named in passing — “I walked towards Horikita with Yōsuke under Mashima-sensei’s instructions.” Named in passing — “All that was left was to sit in any available seat and wait for the signal to start the special exam...” — Mashima collects the tablets.
+
+- **Mentioned** (p.80, 83) — Passing mention only; his scene entries are recorded separately in his own sections.
+
+### Year 2, Volume 12.5
+
+#### p.65–76 — Ch.4: Gathered at Keyaki Mall and Mashima's room
+
+Mashima and Sakagami arrive at the Keyaki Mall meeting; Mashima is the first to voice doubt about being summoned under false pretenses.
+
+- **Spoken** (p.66) — “What’s this all about, Ayanokōji? Wasn’t I the only one you called?”
+- **Spoken** (p.66) — “I don’t appreciate you calling teachers under false pretenses. It’s a problem.”
+- **Spoken** (p.66) — “No, that won’t do. There must be an appropriate distance between teachers and students. Above all, there must be no lies between us to maintain trust.”
+- **Spoken** (p.66) — “I’ll overlook it this time, but be careful next time.”
+- **Spoken** (p.66) — “I thought it would be a waste of the teacher’s time to continue lecturing here.”
+- **Spoken** (p.66) — “Don’t worry about it. Listen, Ayanokōji, I have something to discuss with you later. Got it?”
+- **Spoken** (p.69) — “Eavesdropping on the conversation? I can’t say I agree with your approach.”
+- **Spoken** (p.70) — “Sorry, but we were listening to your conversation with Ayanokōji. Any poor excuse will only backfire, Hoshinomiya.”
+- **Spoken** (p.75) — “Chabashira-sensei, why don’t we give Hoshinomiya-sensei a little more time?”
+- **Spoken** (p.75) — “Yes. Whether Hoshinomiya-sensei makes her decision now or you change your way of thinking, there’s no need to draw a conclusion here. Of course, it would be best if we could resolve it, but given the current situation, it seems difficult. However, fortunately, it’s spring break now. There’s enough time to organize thoughts and calm down. A third option might emerge during this time.”
+- **Relationship · Ayanokōji Kiyotaka** (p.66–76) — Ayanokōji was to deliver information on Akiyama-san (Keyaki Mall gym staff); Mashima turns the lecture on its head mid-way when Ayanokōji volunteers it.
+- **Relationship · Chabashira Sae** (p.65–76) — Fellow former classmate; he agrees not to escalate.
+- **Relationship · Sakagami** (p.65–76) — Sakagami plays the impartial bad cop; Mashima tolerates it.
+- **Relationship · Hoshinomiya Chie** (p.70–76) — He proposes delaying the issue over spring break.

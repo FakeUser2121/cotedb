@@ -77,6 +77,19 @@ class Build(unittest.TestCase):
                            check=True, capture_output=True)
             self.assertEqual(tree(a), tree(docs), "docs/ is stale: run make build")
 
+    def test_every_character_page_has_a_markdown_card(self):
+        docs = ROOT / "docs"
+        if not docs.exists():
+            self.skipTest("docs/ not built yet")
+        for c in MODEL.chars.values():
+            if not c["has_page"]:
+                continue
+            f = docs / "people" / f"{c['id']}.md"
+            self.assertTrue(f.exists(), f"missing {f.relative_to(docs)}")
+            text = f.read_text(encoding="utf-8")
+            self.assertTrue(text.startswith(f"# {c['name']}\n"), f.relative_to(docs))
+            self.assertIn("## Scenes\n", text, f.relative_to(docs))
+
 
 if __name__ == "__main__":
     unittest.main()
