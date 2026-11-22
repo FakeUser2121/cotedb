@@ -1420,26 +1420,35 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
-### y2v1 p.246–260 — Kei's diagnostic test, tutoring session, and the red-hair jealousy
-[scene] (p.246) Sits for five 10-minute diagnostic tests in Ayanokōji's room, and after 50 minutes collapses onto the table, exhausted.
+### y2v1 p.246–249 — The diagnostic test and tutoring
+[scene] (p.246) She sits for five 10-minute diagnostic tests in Ayanokōji's room, and after 50 minutes collapses onto the table, exhausted.
 [says] (p.246) "I'm soooooo tired of this…!"
+[scene] (p.247) She worries her B−-rated partner Shimazaki will be enough, but the expulsion risk frightens her into accepting tutoring.
 [says] (p.247) "B-but like, my partner, Shimazaki-san, has a B-. Shouldn't I be fine?"
 [says] (p.247) "I think I'm like, gettin' a little scared all of a sudden…"
 [says] (p.247) "You're tryin' to tutor me and all, but Kiyotaka, you've got a C rating right now, right?"
 [says] (p.248) "Stop avoiding the question and tell me already~!"
 [says] (p.248) "I'll go I'll go. I felt like, a sense of danger from what you said earlier anyway."
 [says] (p.249) "Come sit here and teach me."
+[rel:shimazaki-ikkei] (p.247) Her B−-rated partner.
+
+### y2v1 p.250–253 — The red hair
+[scene] (p.250–252) He reveals his 400-point intent and manages the jealousy/Amasawa situation; they keep their relationship secret.
+[scene] (p.252) She finds a long red hair in his room.
 [says] (p.252) "The heck is this?"
 [says] (p.253) "A red hair! A freaking long hair at that! No matter how you look at it, this is a girl's hair!"
 [says] (p.253) "Who did you have over!?"
 [says] (p.253) "I'm your girlfriend Kiyotaka! I have the right to stick my nose in all sorts of stuff!"
+
+### y2v1 p.254–260 — Amasawa's visit and the resolution
+[scene] (p.254) She suspects the hair belongs to Amasawa; Amasawa arrives and introduces herself.
 [says] (p.254) "A girl I've never seen before with red hair…"
 [says] (p.256) "...Karuizawa Kei."
+[scene] (p.257–260) The two meet tense but polite; Amasawa proposes they all eat together next time.
 [says] (p.258) "That's got nothin' to do with you. What about it anyway? What's your relationship with Kiyotaka?"
-[trait] (p.246–260) Capable but academically behind (her bullying interrupted her middle-school education), she resists studying until the expulsion risk frightens her; furiously jealous over a red hair and insists on her rights as his girlfriend; endures Amasawa's visit to confirm the hair's owner.
 [rel:ayanokouji-kiyotaka] (p.246–260) His girlfriend; tutors her, reveals his 400-point intent, and manages the jealousy/Amasawa situation; they keep their relationship secret.
 [rel:amasawa-ichika] (p.253–260) Suspects the red hair belongs to her; meets her at Ayanokōji's room, tense but polite; Amasawa proposes they all eat together next time.
-[rel:shimazaki-ikkei] (p.247) Her B−-rated partner.
+[trait] (p.246–260) Capable but academically behind (her bullying interrupted her middle-school education), she resists studying until the expulsion risk frightens her; furiously jealous over a red hair and insists on her rights as his girlfriend; endures Amasawa's visit to confirm the hair's owner.
 
 ### y2v1 p.362–363 — Short story: "A Time for Them Alone"
 [scene] (p.362) Recounts the moment Ayanokōji said he'd take 400 points, and their subsequent studying together in his room.
