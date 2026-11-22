@@ -5507,18 +5507,41 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.20) Secretly dating her.
 [rel:kushida-kikyou] (p.21–24) Perceives her concealed hostility behind innocent words.
 
-### y2v1 p.25–47 — The digitalized school; the Paper Shuffle–style exam announced
-[scene] (p.25) On Monday, examines the new 12-inch tablet replacing textbooks, with charging ports, portable batteries, and school wireless; notes the first-years are now around but he hasn't spoken to any.
-[trivia] (p.25–26) He moved from the back window seat to the hallway-side back desk ( seats can now be chosen with private points); a 12-inch tablet holds all materials, supports graphics/photos and globalized English use.
+### y2v1 p.25–26 — The digitalized school
+[scene] (p.25) On Monday, examines the new 12-inch tablet replacing textbooks, with charging ports, portable batteries, and school wireless; notes the first-years are now around but he hasn’t spoken to any.
+[trivia] (p.25–26) He moved from the back window seat to the hallway-side back desk (seats can now be chosen with private points); a 12-inch tablet holds all materials, supports graphics/photos and globalized English use.
+
+### y2v1 p.27–31 — The OAA app
+[scene] (p.27–28) Chabashira has everyone install the school's new OAA app; it shows each student's name, photo and first-year ratings.
+[scene] (p.29–31) His own first-year ratings appear: Academic C, Physical C+, Adaptability D+, Social Contribution C+, Overall C; the app explains the four categories and the formula for Overall Ability, and his low Adaptability is consistent with his small social circle.
+
+### y2v1 p.32–34 — Ranking the class
+[scene] (p.32) Sorted by Overall Ability, Hirata leads Class 2-D at B+ while Ike and Sakura Airi sit at the bottom with 37.
+[scene] (p.33–34) Sudō's E+ Academic and Social Contribution ratings are offset by an A+ in Physical Ability; Sakayanagi's Physical Ability takes the lowest rating.
+
+### y2v1 p.35–37 — Nagumo's meritocracy
+[scene] (p.35) Chabashira explains the Social Contribution category and warns that students below a threshold may face a penalty.
+[scene] (p.36) Hirata asks why Social Contribution counts less; she answers that it can be improved by changing one's mindset.
+[scene] (p.37) She attributes the app to Nagumo's proposal for an individualist meritocracy and warns that poor Overall ratings are dangerous.
+
+### y2v1 p.38–43 — The Paper Shuffle-style exam
+[scene] (p.38–39) The first special exam pairs second-years with first-years on a five-subject written test, 500 points, with class-average and individual rewards.
 [says:chabashira-sae] (p.40) "Now, I'll give you guys an overview of the next special exam."
 [says:chabashira-sae] (p.40) "The bottom line is that the exam will take the form of a written test where you second-years will be partnering up with the newly admitted first-years."
+[scene] (p.40–41) She says the exam will focus on test-taking and communication skills, and compares it to an improved Paper Shuffle exam.
 [says:chabashira-sae] (p.41) "This special exam will primarily focus on your test-taking and communication skills."
 [says:chabashira-sae] (p.42) "this particular exam is about helping you build cooperative relationships, so do well to keep that in mind."
 [says:chabashira-sae] (p.42) "You can think of this exam as an improved version of the Paper Shuffle exam, where you were partnered up from among your classmates."
-[inference] (p.40–43) Suspects Tsukishiro or Nagumo is behind the school's changes; reasons the exam breaks the year barrier deliberately for communication, and sees OAA as the tool making cross-year partnerships practical (matching faces to names and gauging ability).
-[trait] (p.40–47) Follows the reasoning skeptically — doubts Chabashira's grade-skipping explanation is the whole story, and sees how weaker students will be abandoned as smart students pair off.
-[rel:chabashira-sae] (p.40–47) Delivers the exam briefing; he reads between the lines of her scripted explanation.
+[inference] (p.40–43) Suspects Tsukishiro or Nagumo is behind the school’s changes; reasons the exam breaks the year barrier deliberately for communication, and sees OAA as the tool making cross-year partnerships practical (matching faces to names and gauging ability).
 [rel:tsukishiro] (p.40) Suspects he may be behind the sudden school changes.
+
+### y2v1 p.44–47 — Partnering rules and the safety net
+[scene] (p.44–45) The exam is framed as an improved Paper Shuffle, with the added difficulty of building trust with underclassmen in two weeks.
+[scene] (p.46) The rules for choosing a partner are explained: one application per day, no cancellation once accepted, a random partner with a 5% penalty if none is chosen by the deadline.
+[scene] (p.46–47) Ike complains that no first-year will want to partner with him; Chabashira says a random partner is guaranteed, but past the deadline it carries a 5% penalty.
+[scene] (p.47) The class groans at the penalty; the exam's stakes are now clear.
+[rel:chabashira-sae] (p.40–47) Delivers the exam briefing; he reads between the lines of her scripted explanation.
+[trait] (p.40–47) Follows the reasoning skeptically — doubts Chabashira’s grade-skipping explanation is the whole story, and sees how weaker students will be abandoned as smart students pair off.
 
 ### y2v1 p.44–49 — Exam rewards, rules, and the expulsion condition
 [trivia] (p.44) Five subjects, 100 points each (500 total); class rewards 50/30/10/0 by average; individual rewards — top five pairs ¥100,000, top 30% ¥10,000.
