@@ -218,3 +218,4 @@ html[data-theme=light] :is(.card,.task,.facts,.chap,ul.vols>li){box-shadow:0 1px
 html[data-theme=light] #sr{border-color:var(--line);box-shadow:0 12px 32px -12px #0e223366}
 html[data-theme=light] .top{background:linear-gradient(to bottom,#fff,transparent)}
 html[data-theme=light] .dir .row:hover{background:linear-gradient(90deg,#0877a61a,transparent 75%)}
+.dl{margin:34px 0 0;font-size:.78rem}.dl a{color:var(--mut)}

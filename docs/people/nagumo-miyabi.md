@@ -1,0 +1,1580 @@
+# Nagumo Miyabi
+
+*Character · Main*
+
+Nagumo Miyabi is named in 25 of 36 volumes. 61 scenes from 18 volumes have been read line by line, with a page for every line.
+
+## Summary
+
+- **Appears in:** Year 1 · Year 2 · Year 3
+- **Named in:** 25 volumes
+- **Read so far:** 61 scenes, 518 quoted lines
+- **First read scene:** Year 1, Volume 4.5, p.72
+
+## Volume by volume
+
+- **Year 1, Volume 4.5** — 3 scenes read
+- **Year 1, Volume 5** — 3 scenes read
+- **Year 1, Volume 6** — 2 scenes read
+- **Year 1, Volume 7** — 1 scene read
+- **Year 1, Volume 7.5** — 2 scenes read; 2 mentioned
+- **Year 1, Volume 8** — 10 scenes read; 3 mentioned
+- **Year 1, Volume 9** — 7 scenes read
+- **Year 1, Volume 10** — 4 scenes read
+- **Year 1, Volume 11.5** — 1 scene read
+- **Year 2, Volume 1** — 1 mentioned
+- **Year 2, Volume 2** — 2 scenes read; 1 mentioned
+- **Year 2, Volume 3** — 1 scene read; 5 mentioned
+- **Year 2, Volume 4** — 1 scene read; 8 mentioned
+- **Year 2, Volume 4.5** — 5 scenes read
+- **Year 2, Volume 5** — 1 mentioned
+- **Year 2, Volume 6** — 1 scene read; 1 mentioned
+- **Year 2, Volume 7** — 4 scenes read; 3 mentioned
+- **Year 2, Volume 8** — 3 mentioned
+- **Year 2, Volume 9** — 8 scenes read
+- **Year 2, Volume 9.5** — 1 mentioned
+- **Year 2, Volume 10** — 1 mentioned
+- **Year 2, Volume 11** — 5 scenes read; 13 mentioned
+- **Year 2, Volume 12** — 1 mentioned
+- **Year 2, Volume 12.5** — 1 scene read
+- **Year 3, Volume 2** — named, not read yet
+
+## Relationships
+
+- **Horikita Manabu** — 25 notes
+- **Ayanokōji Kiyotaka** — 25 notes
+- **Ichinose Honami** — 16 notes
+- **Horikita Suzune** — 14 notes
+- **Kiriyama Ikuto** — 10 notes
+- **Ryūen Kakeru** — 5 notes
+- **Kōenji Rokusuke** — 4 notes
+- **Ishikura** — 4 notes
+- **Asahina Nazuna** — 4 notes
+- **Kiryuin Fuuka** — 4 notes
+- **Hashimoto Masayoshi** — 3 notes
+- **Yagami Takuya** — 3 notes
+- **Kushida Kikyō** — 2 notes
+- **Fujimaki** — 2 notes
+- **Sakayanagi Arisu** — 2 notes
+- **Karuizawa Kei** — 2 notes
+- **Amasawa Ichika** — 2 notes
+- **Katsuragi Kōhei** — 1 note
+- **Hirata Yōsuke** — 1 note
+- **Yukimura Teruhiko** — 1 note
+- **Tachibana Akane** — 1 note
+- **Ikari Momoko** — 1 note
+- **Hoshinomiya Chie** — 1 note
+- **Sudō Ken** — 1 note
+- **Ishizaki Daichi** — 1 note
+- **Kanzaki Ryūji** — 1 note
+- **Mashima Tomonari** — 1 note
+- **Ibuki Mio** — 1 note
+
+## Names
+
+- **Shown as:** Nagumo Miyabi
+
+## Scenes
+
+### Year 1, Volume 4.5
+
+#### p.72 — Ch.3: a passing mention
+
+Named for the first time in this volume: Tachibana says next year's change means Nagumo-kun's election as student council president.
+
+- **Relationship · Horikita Manabu** (p.72) — Manabu frames the coming school change as something he will need power to combat; Tachibana reads it as the Nagumo presidency.
+- **Inference, not stated** (p.72) — AK has never heard the name from any first-year and infers Nagumo is a second-year.
+
+#### p.177–182 — Ch.6: the vice president's show
+
+The blond player the crowd cheers is Nagumo Miyabi, a second-year Class A student and student council vice president who dominates the pool volleyball game.
+
+- **Feat** (p.178) — His volleyball spike dominates the game by himself; the girls' high-pitched cheers drown out the other matches going on at the same time.
+- **Fact** (p.179) — Kushida names him Nagumo-senpai from Class A, a second year who is really popular with the girls.
+- **Fact** (p.179) — Ichinose adds that he is the current student council vice president, said to take over as president next year, and really smart.
+- **Relationship · Horikita Suzune** (p.179) — Every time he shows off, her shoulders tighten slightly at the student council connection.
+- **Fact** (p.180) — During the student council elections President Horikita and Nagumo both ran for president, when Nagumo was just a first-year student.
+- **Fact** (p.180) — The final decision on Ichinose's application came from Nagumo; she heard President Horikita seemed disappointed in this year's first-year students.
+- **Relationship · Ichinose Honami** (p.180) — She models her goal on him — both rose from Class B — and says she will become president after him, then adds she was just kidding.
+- **Relationship · Horikita Suzune** (p.181) — She calls his potential limited and his start delayed; he is the reason her shoulders tighten at the student council words.
+- **Detail** (p.182) — The earring visible on him is a clip-on; Ichinose says he dresses normally in school.
+- **Position** (p.180) — Ichinose believes President Horikita might be stepping down in October, leaving Nagumo next in line.
+
+#### p.185 — Ch.6: a passing mention
+
+Sudou's spike power is measured against Nagumo's during the volleyball game.
+
+### Year 1, Volume 5
+
+#### p.68–85 — Ch.5 sec. 5: The practice pitch
+
+Nagumo strolls onto the soccer pitch mid-practice and is greeted by Kushida by nickname.
+
+- **Spoken** (p.76) — “I see you’re on a date.”
+- **Spoken** (p.76) — “We don’t really hold back here, so I think this is a good way to measure our players’ strengths,”
+- **Relationship · Kushida Kikyō** (p.76) — Calls her “Kikyou-chan” and winks before rejoining the game.
+- **Feat** (p.77) — Outclasses both Hirata and Shibata in the practice game, then scores from midfield — “in a different league.”
+- **Relationship · Horikita Suzune** (p.77) — Horikita refuses to concede the skill: “He’s just really athletic, that’s all.”
+- **Relationship · Horikita Manabu** (p.76) — Introduced as the candidate to be next student council president, abilities on par with Horikita’s older brother.
+
+#### p.79, 187 — Ch.5, Ch.9: passing mentions
+
+Second-year soccer players take a break; Nagumo calls to Hirata on the track.
+
+- **Caveat** (p.79) — Horikita and Ayanokouji watch the exchange from the stands.
+- **Caveat** (p.187) — Shibata chases down Nagumo on the anchor leg; Ayanokouji’s eyes meet the president’s instead.
+
+#### p.183–185 — Ch.9 sec. 9: the second-year anchor’s politics
+
+Nagumo runs the second-year anchor leg and tells the student council president he will remake the school as a meritocracy.
+
+- **Spoken · Nagumo Miyabi** (p.184) — “Looks like victory is ours this time, President Horikita. I would’ve liked to run against you directly, if possible.”
+- **Spoken · Nagumo Miyabi** (p.184) — “Looks like we’re going to win in overall points, too. Guess this is the dawn of a new era, eh?”
+- **Spoken · Nagumo Miyabi** (p.185) — “You’re too traditional. And even though you’re strict, you’re weak. Your rules are too generous, and they stop people from getting expelled. All I’m going to do is help make this school the ultimate meritocracy,”
+- **Relationship · Horikita Manabu** (p.184–185) — Addresses the president by title while taking the second-year anchor baton.
+
+### Year 1, Volume 6
+
+#### p.14–16 — Ch.2: sworn in as student council president
+
+Second-year Class A member introduced as the next president; he takes the microphone after Horikita Manabu’s farewell.
+
+- **Spoken · Nagumo Miyabi** (p.14) — “Hello. I’m Nagumo, second-year Class A. Student Council President Horikita, I sincerely appreciate the strict yet kind guidance you’ve shown me.”
+- **Spoken · Nagumo Miyabi** (p.14) — “I’d like to express my respect for you, while also emphasizing what an honor it’s been to serve alongside the most capable president in this school’s history. You’ve exhibited the strongest leadership possible.”
+- **Spoken · Nagumo Miyabi** (p.15) — “Allow me to introduce myself again. My name is Nagumo Miyabi, and I will be assuming the position of student council president at the Tokyo Metropolitan Advanced Nurturing High School. I sincerely look forward to working with all of you.”
+- **Rule** (p.15) — Pledges: indefinite officer terms while enrolled; annul October general election; no size cap; open officer intake; majority-vote removal.
+- **Spoken · Nagumo Miyabi** (p.15) — “To bring this school into the future, I intend to thoroughly destroy the past.”
+- **Trait** (p.15) — Enigmatic during the sports festival, then the picture of politeness — until the reform announcement changes the atmosphere.
+- **Spoken · Nagumo Miyabi** (p.16) — “A revolution is coming. Students with real ability will rise to the top, and students without any will fall. I intend to turn this school into a true meritocracy, so please, give me everything you’ve got. I look forward to seeing what you can do.”
+- **Relationship · Horikita Manabu** (p.15) — Glances at Horikita while explaining he cannot implement the changes at once as a newly elected president.
+- **Narration** (p.16) — Almost every second-year shouts delight; first years do not know the second/third-year tension behind it.
+
+#### p.70 — Ch.4: contrasted with Ryuuen’s violence
+
+Named as current president in the same contrast with former-president Horikita.
+
+- **Relationship · Horikita Manabu** (p.70) — Paired with him as the authority style Ryuuen wields violence against instead.
+- **Relationship · Ryūen Kakeru** (p.70) — Ryuuen: I will not yield to authority. Even if the school tries to expel me… — their style is not his.
+- **Caveat** (p.70) — No dialogue or action from Nagumo on these pages.
+
+### Year 1, Volume 7
+
+#### p.87–89 — Ch.3: named through Manabu
+
+The subject of Manabu’s dorm-room warning — failed successor, council hijacker, coming expulsions.
+
+- **Caveat** (p.87) — Second-year Class A, current student council president; Ayanokōji only exchanged pleasantries at the sports festival.
+- **Caveat** (p.87) — Ideologies differed from Manabu’s; almost all second-year students under his sway; “already won over the entire school.”
+- **Caveat** (p.88) — Worked behind Manabu to contact Ichinose and force her onto the council.
+- **Relationship · Horikita Manabu** (p.87–89) — The successor who went wrong; the man Manabu watches.
+- **Relationship · Ichinose Honami** (p.88) — The first-year he snatched onto the council.
+- **Relationship · Katsuragi Kōhei** (p.87) — The other applicant Manabu refused to protect them both.
+- **Relationship · Ayanokōji Kiyotaka** (p.87–89) — Warned about him; still declines the student-council game.
+
+### Year 1, Volume 7.5
+
+#### p.86–92 — Ch.4: the target of the debt
+
+Named as the new student council president whose way Horikita Manabu wants stopped.
+
+- **Spoken · Nagumo Miyabi** (p.88) — “Nagumo’s just tryin’ to make this shitty, boring-ass school into something fun, from the sound of it.” — speaker is Ryuuen; Nagumo does not speak in ch4.
+- **Relationship · Horikita Manabu** (p.86–92) — The debt Ayanokōji owes is to stop him; Manabu prepared student-council briefs.
+- **Relationship · Horikita Suzune** (p.92) — If Suzune joins the student council, Manabu would cooperate — a Nagumo-adjacent lever.
+- **Feat** (p.88) — Seventeen second-year expulsions already; involved in over half the cases per exit interviews.
+
+#### p.123–126, 131–132, 145, 149, 151–153 — Ch.5: the arm-grab and the online-game tease
+
+Interrupts the double date outside the theater with Kiriyama, Mizowaki, Tonokawa and Ichinose; grabs Ayanokōji’s arm.
+
+- **Spoken · Nagumo Miyabi** (p.124) — “You’re the student Horikita-senpai’s been so fixated on. I’m just following the rumors, is all.”
+- **Spoken · Nagumo Miyabi** (p.125) — “Former student council president. After he graduates, I have a whole year at this school. Won’t you play with me?”
+- **Spoken · Nagumo Miyabi** (p.126) — “I imagine that you first years have had some shitty, boring tests so far… What if we had a special test based on a popular online game?”
+- **Spoken · Nagumo Miyabi** (p.126) — “Sorry for pushing in on your date. See ya around.”
+- **Relationship · Ayanokōji Kiyotaka** (p.123–126, 145, 151–153) — Targets him because Manabu talks to him; the mystery second year is about stopping him.
+- **Relationship · Horikita Manabu** (p.125, 151–153) — Rival; Manabu’s influence on Ayanokōji “doesn’t sit well.”
+- **Relationship · Hirata Yōsuke** (p.123–126, 131–132) — Soccer club under him; people who butted heads quit and dropped out.
+- **Relationship · Ichinose Honami** (p.123) — Walks with his entourage; gentle smile at Ayanokōji.
+- **Feat** (p.125) — Grabs Ayanokōji’s arm without letting go while smiling amiably.
+
+#### p.149 — Ch.5: named in the threat list
+
+Named once in Ayanokōji’s honeypot math as a threat who would not crumble Karuizawa now.
+
+- **Caveat** (p.149) — Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
+- **Mentioned** (p.149) — Passing mention only.
+
+#### p.155–159, 161–162 — Ch.6: the enemy Kiriyama describes
+
+Discussed throughout the Kiriyama meet; not present.
+
+- **Caveat** (p.155) — Passing mention: Kiriyama never agreed with Nagumo; Nagumo’s reform pitch of promoting capable students regardless of class.
+- **Mentioned** (p.155) — Passing mention only.
+- **Caveat** (p.156–158) — Passing mention: almost all second-years under Nagumo; dissatisfied but not enough votes; persons-of-interest list starts third semester; anyone on his bad side expelled across the board.
+- **Mentioned** (p.156–158) — Passing mention only.
+- **Caveat** (p.161–162) — Passing mention: Ayanokōji’s risk model — dirty play could get people expelled (Sudou/Ishizaki fight as example).
+- **Mentioned** (p.161–162) — Passing mention only.
+- **Relationship · Kiriyama Ikuto** (p.155–159) — The regime Kiriyama infiltrates and wants removed from office.
+- **Relationship · Ayanokōji Kiyotaka** (p.157–162) — Already on the radar after the relay; Ayanokōji weighs pretending the relay was a fluke.
+
+### Year 1, Volume 8
+
+#### p.10 — Ch.1: named as the bulldozer
+
+Named in Manabu’s graduation soliloquy as the one who took direct action to clear him from the path.
+
+- **Caveat** (p.10) — Passing mention: “Nagumo Miyabi continues to take direct action against me” — “Perhaps ‘a bulldozer’ is the description that fits him best.”
+- **Mentioned** (p.10) — Passing mention only.
+- **Relationship · Horikita Manabu** (p.10) — Pressed Manabu for three years; Manabu had given up responding before graduation.
+
+#### p.11–43 — Ch.2: named as the grade-level thread to watch
+
+Not on the bus or in the gym; named once in Ayanokōji’s protection planning as the exam opens.
+
+- **Caveat** (p.32) — Passing mention: given the rare chance for grade levels to intermingle, Ayanokōji resolves to keep an eye on Nagumo’s movements.
+- **Mentioned** (p.32) — Passing mention only.
+- **Relationship · Ayanokōji Kiyotaka** (p.32) — Outside thread Ayanokōji flags while listing who he will and will not protect.
+
+#### p.52–68 — Ch.2: the early draft, the duel, and Kōenji’s bust
+
+After first-year small groups finish, Nagumo moves the large-group draft forward and then presses Ayanokōji’s delayed group for a representative.
+
+- **Spoken · Nagumo Miyabi** (p.52) — “How about we form a large group right now?”
+- **Spoken · Nagumo Miyabi** (p.52) — “Should we have a draft-pick system?”
+- **Relationship · Horikita Manabu** (p.53, 57–60) — Brief private talk with the former president; then the public challenge — Fujimaki interrupts, but Nagumo forces the average-score duel with anti-collateral conditions.
+- **Spoken · Nagumo Miyabi** (p.59) — “How about which of us can get the most students expelled?”
+- **Spoken · Nagumo Miyabi** (p.59) — “how about which group can earn the higher average score?”
+- **Relationship · Fujimaki** (p.57–58) — Taunts Fujimaki as third-year Class A’s number two and invites him to be the opponent instead of Horikita.
+- **Relationship · Kōenji Rokusuke** (p.64–67) — Exposes Kōenji’s twenty-million-point Class A purchase plan, warns the second- and third-years off dealing with him, and says he will report pre-graduation point purchases to the school.
+- **Relationship · Yukimura Teruhiko** (p.61–68) — Deduces the delayed groups from the draft timing; orders the representative chosen now; dismisses the group once Yukimura volunteers.
+- **Feat** (p.61) — Reads group composition from a one-second delay in the rock-paper-scissors circle — Ayanokōji admits the attempt to hide the weakness failed.
+- **Relationship · Ayanokōji Kiyotaka** (p.52, 61) — Calls him out after the draft; Ayanokōji notes Nagumo may be watching at every meal.
+- **Position** (p.46–47, 57–58) — Top dog of second-year Class A; second-years wear worshipful looks — rival, hated enemy, deeply respected.
+
+#### p.55–56, 72, 90, 116–117, 144, 159, 200–201 — Ch.2–9: passing mentions
+
+Named across the third-year contest and post-exam pages without individual rows beyond his cited scenes.
+
+- **Caveat** (p.116) — Identified as the student Kiriyama served under as vice president, demoted after losing to Nagumo.
+- **Caveat** (p.200) — Tachibana’s account centres on how second-years, particularly Nagumo, operate.
+
+#### p.84–109 — Ch.3: breakfast order, the card visit, the marked deck
+
+At the outdoor breakfast as first-years accept the rotation; later invades group six’s dorm with Kiriyama, Tsunoda and Ishikura for Old Maid stakes on breakfast duty.
+
+- **Spoken · Nagumo Miyabi** (p.84) — “Yeah. I’ve got no objections. I’d like to start with the first-years.”
+- **Spoken · Nagumo Miyabi** (p.96) — “I came to check on you since we’re in the same group. Can I come in?”
+- **Spoken · Nagumo Miyabi** (p.97) — “Let’s bet on that. If, for example, you lose constantly, you’ll be on meal duty until the end of camp.”
+- **Spoken · Nagumo Miyabi** (p.98) — “Why don’t you join the student council, Kouenji? I’d love to have someone as interesting as you aboard.”
+- **Spoken · Nagumo Miyabi** (p.107) — “You must be glad, Ayanokouji. Looks like you escaped.”
+- **Relationship · Kōenji Rokusuke** (p.98, 105–106) — Invites Kōenji to the student council, takes his foreseen-outcome question seriously enough to answer, then shuffles away amiable when Kōenji declines all of it.
+- **Relationship · Ayanokōji Kiyotaka** (p.100, 104, 107–108) — Never looks at him until he beckons him in for game five; the last two-card offer is a marked-joker trap Ayanokōji walks past by picking the winner.
+- **Relationship · Ishikura** (p.96–109) — Banter about rooms, soccer vs council, and Horikita; Ishikura brushes the “might get along just fine” line and leaves abruptly.
+- **Relationship · Kiriyama Ikuto** (p.100–103) — VP finishes second in the early rounds; Nagumo’s third-place finish in round three is played as bad luck.
+- **Feat** (p.105–108) — Predicts outcomes in a chance game, holds a sealed-box deck he first dealt (the notch on the joker), and still loses the last pick without the marked card being exposed.
+- **Trait** (p.104, 106–109) — “I’d like to leave the first-years with three losses. But I’m also okay with four” — the whole night is a controlled test, not a party.
+
+#### p.118–119 — Ch.4: the open offer from the sidelines
+
+Watches Kiriyama’s confrontation from the sidelines and applauds Ishikura’s handling.
+
+- **Spoken · Nagumo Miyabi** (p.118) — “Excellent, Ishikura-senpai. You really got a handle on things, didn’t you?”
+- **Spoken · Nagumo Miyabi** (p.118) — “The only reason you haven’t been able to rise to Class A is because there’s a genius like Horikita Manabu in your way. I know you’ve fought the good fight for three years. There’s a 312-point difference between Classes A and B right now.”
+- **Spoken · Nagumo Miyabi** (p.119) — “It doesn’t matter if he’s the representative or not. There are many” — ways to crush Horikita, said with a laugh.
+- **Relationship · Ishikura** (p.118–119) — Lays out Class A and Horikita-removal plans in front of everyone; gets “I can’t trust you” for it.
+- **Relationship · Horikita Manabu** (p.118–119) — Names Manabu as the blocker; claims many ways to crush him whether or not he is representative.
+- **Relationship · Kiriyama Ikuto** (p.118) — Kiriyama’s coaching is the occasion; Nagumo watches without intervening until after.
+- **Trait** (p.119) — Guileless-or-performed show of plans — Ayanokōji doubts it was the former.
+- **Numbers** (p.118) — 312-point gap between Classes A and B at the time of the offer.
+
+#### p.146 — Ch.4: named in the corridor assessment
+
+Not on the page; named throughout Manabu’s corridor brief to Ayanokōji.
+
+- **Caveat** (p.146) — Passing mention in Manabu’s assessment: Nagumo’s public average-score challenge, underhanded methods, unusually high second-year expulsion rate, never broken a promise.
+- **Mentioned** (p.146) — Passing mention only.
+- **Relationship · Horikita Manabu** (p.146) — The two-year student-council history is why Manabu trusts the no-third-parties claim.
+- **Relationship · Ayanokōji Kiyotaka** (p.145–146) — Ayanokōji withholds his own Nagumo concerns while taking the brief.
+- **Position** (p.146) — Manabu’s group is mostly Class A including first-years — strong chance to win the test; that is why Nagumo’s inaction reads as anxiety fuel.
+
+#### p.150 — Ch.5: named in the hanging-around rumor
+
+Not on the page; named when a Class A girl raises the student-council-president rumor.
+
+- **Caveat** (p.150) — Rumor named: “People say they see you hanging around with Nagumo-senpai a lot, just the two of you…”
+- **Relationship · Ichinose Honami** (p.150) — Ichinose’s answer: council work only, not on his radar, no one she likes now.
+- **Position** (p.150) — Confirmed she worked a lot with him after joining the student council — the grain of truth under the dating rumor.
+
+#### p.165 — Ch.6 half 1: named only as the group force
+
+Not on the page in half 1; the Ryuuen-groups context sits under Nagumo’s exam design (half 2 develops it).
+
+- **Limit** (p.165) — No half 1 dialogue or action — half 2 Asahina interview carries his picture.
+
+#### p.173–181 — Ch.6 half 2: the picture Asahina draws
+
+Not on the page; built entirely through Ayanokōji’s plan and Asahina’s interview.
+
+- **Caveat** (p.173) — Target of the probe: true intentions toward Horikita’s brother.
+- **Caveat** (p.176) — Asahina: respects Horikita-senpai, made him a goal, jealous of missing the relay challenge.
+- **Caveat** (p.179) — Second-years shared bus exam info at his urging; four classes on the way to allies.
+- **Caveat** (p.180) — Girls’ large group adjusted with members Miyabi could count on; Tachibana’s group has the secretary.
+- **Caveat** (p.181) — Asahina: always sticks to his word, no dirty tricks; “whoever cares too much is the one who loses.”
+- **Relationship · Asahina Nazuna** (p.176–181) — The source of the fair-square / care-too-much picture; deep classmate relationship named.
+- **Relationship · Horikita Manabu** (p.176, 180–181) — The rival frame — goal, jealousy, and the girls’ group irrelevance to their fight.
+- **Relationship · Ayanokōji Kiyotaka** (p.173–181) — The one probing; reads clues-that-disappear as a unique strategy vs Sakayanagi and Ryuuen.
+- **Relationship · Ishikura** (p.181) — “Ishikura-senpai” named as the third-year his group met — not assigned (see volume note).
+- **Position** (p.181) — Public promise of fair square plus shadow-manufacturing under investigation — feint or real still open.
+
+#### p.207–211 — Ch.7: the abstain demand and the name play
+
+Interrupts the Hashimoto–Ryuuen meeting with Manabu; demands Manabu abstain; uses Ayanokōji’s name on Hashimoto.
+
+- **Spoken · Nagumo Miyabi** (p.207) — “What’s up, first-years? Having a secret meeting at a time like this, huh?”
+- **Spoken · Nagumo Miyabi** (p.208) — “I’ve heard you’re quite the delinquent. Your name’s Ryuuen, right? I’m going to have a little chat with Horikita-senpai, but you should come along.”
+- **Spoken · Nagumo Miyabi** (p.208) — “Wow, you’re confident. Not scared of me, Ryuuen?”
+- **Spoken · Nagumo Miyabi** (p.208) — “Heh.”
+- **Spoken · Nagumo Miyabi** (p.208) — “I don’t dislike people like you.”
+- **Spoken · Nagumo Miyabi** (p.208) — “Hey, how about you join this wager, as a third party? Which group do you think will place higher in today’s special exam, mine, or Horikita-senpai’s? How about ten thousand points a head? No matter which side you bet on, I’ll pay up if you’re right on the money. If you’re wrong, though, you gotta pay up.”
+- **Spoken · Nagumo Miyabi** (p.208) — “Ten thousand is ‘that kind of money’, huh? You’re in Class D, meaning you’re always short on cash, right? Can’t hurt to earn a little more.”
+- **Spoken · Nagumo Miyabi** (p.208) — “Hahaha! You’re a funny guy, Ryuuen. Talk about a ballsy joke.”
+- **Spoken · Nagumo Miyabi** (p.209) — “Hey, you. First-year. You think Ryuuen can pay that much?”
+- **Spoken · Nagumo Miyabi** (p.209) — “If we had our phones, we could check. I wouldn’t mind playing along then. Too bad.”
+- **Spoken · Nagumo Miyabi** (p.209) — “Horikita-senpai. Please abstain from taking the exam tomorrow”
+- **Spoken · Nagumo Miyabi** (p.209) — “That’s right.”
+- **Spoken · Nagumo Miyabi** (p.209) — “Actually, I’m being quite serious.”
+- **Spoken · Nagumo Miyabi** (p.209) — “It’s for your own sake, senpai.”
+- **Spoken · Nagumo Miyabi** (p.209) — “Sorry. Being able to see too far into the future is a curse. Anyway, if you don’t kindly abstain tomorrow, senpai, you’ll regret it. What I’m saying is that I’m trying to help you. I could just put the hurt on you without warning, but that would just be heartless, wouldn’t it?”
+- **Spoken · Nagumo Miyabi** (p.209) — “I understand. The rules of our contest are that we have to fight fair and square, without involving any third parties.”
+- **Spoken · Nagumo Miyabi** (p.210) — “Yes. Because abstaining will allow you to get through this with the least amount of damage, senpai. Are you aware of the strategic groundwork that I’ve laid? No, you aren’t, are you? There isn’t a single student at this school who can read my thoughts.”
+- **Spoken · Nagumo Miyabi** (p.210) — “Ah, that’s right. If I recall, he’s in the same group as that first-year. Ayanokouji Kiyotaka.”
+- **Spoken · Nagumo Miyabi** (p.210) — “What do you think, Hashimoto? About Ayanokouji.”
+- **Spoken · Nagumo Miyabi** (p.210) — “I know, right? But Horikita-senpai here seems to value Ayanokouji over all other first-years.”
+- **Spoken · Nagumo Miyabi** (p.210) — “See, Horikita-senpai prizes Ayanokouji above even Sakayanagi, even Ryuuen, even Ichinose. Since you’re in the same group as him, I thought you might have noticed something.”
+- **Spoken · Nagumo Miyabi** (p.210) — “Why is that, senpai? Please, I think it’s about time you tell me the reason.”
+- **Spoken · Nagumo Miyabi** (p.211) — “Sorry, senpai. I suppose you’re right. My bad, Hashimoto. That was a little joke.”
+- **Relationship · Horikita Manabu** (p.207–211) — Abstain demand; fair-square contest frame; “strategic groundwork”; name-drops Ayanokōji at Manabu.
+- **Relationship · Ryūen Kakeru** (p.208–209) — Wager offer; million counter laughed off; told he is not really fit for the student council.
+- **Relationship · Hashimoto Masayoshi** (p.207–211) — Pulls him into the corridor triangle; uses him for the Ayanokōji-value test.
+- **Relationship · Ayanokōji Kiyotaka** (p.210) — Emphasized by name as Manabu’s prized first-year above Sakayanagi, Ryuuen, Ichinose.
+- **Relationship · Sakayanagi Arisu** (p.210) — Named in the prized-first-year ranking.
+- **Relationship · Ichinose Honami** (p.210) — Same ranking list.
+- **Trait** (p.208–211) — Playful menace; seeing too far into the future called a curse; serious abstain under the joke; walks out on Ryuuen’s million.
+- **Goal** (p.209–210) — Win tomorrow with groundwork laid — least damage path for Manabu is abstention.
+
+#### p.227–228 — Ch.9 half 1: second place with a smile
+
+Their large group announced second; Nagumo smiles beside Ayanokōji with no sign of upset.
+
+- **Relationship · Horikita Manabu** (p.228) — Manabu’s group first; Nagumo’s second — the smile is the tell that the loss was the plan.
+- **Relationship · Hashimoto Masayoshi** (p.220–221) — Overnight interest in Ryuuen still in Hashimoto’s head (prior context carried into the day).
+- **Trait** (p.227–228) — Not the look of a man who lost after throwing the gauntlet — the POV reads concoction, not defeat.
+- **Limit** (p.227–228) — No direct speech in half 1 after the announcements begin.
+
+#### p.229–240 — Ch.9 half 2: the blind spot
+
+Loud congratulations to Horikita-senpai; runs the girls’ trap to Tachibana’s naming; the gym-floor victory lap and the XP monologue.
+
+- **Spoken · Nagumo Miyabi** (p.229) — “You’ve earned first place. Congratulations are in order, Horikita-senpai. Just as I’d expect from you,” said Nagumo, speaking loudly.
+- **Spoken · Nagumo Miyabi** (p.229) — “It sure seems that way. But they’ve only just started announcing the results, haven’t they?”
+- **Spoken · Nagumo Miyabi** (p.229) — “Yes. They have nothing to do with the fight between Horikita-senpai and I, that’s right. At all.”
+- **Spoken · Nagumo Miyabi** (p.231) — “Come now, senpai, we’re still in the middle of the results. Please calm down. This has nothing to do with you anyway, Fujimaki-senpai. Does it? The only thing that’s happening is that a Class B student will be expelled. If anything, this means you’ll pull even further ahead of your rivals, right?”
+- **Spoken · Nagumo Miyabi** (p.231) — “Ikari-senpai. I’m sure everyone is wondering just who in the world will be expelled alongside you.”
+- **Spoken · Nagumo Miyabi** (p.235) — “Ah, such beautiful friendship. Or perhaps I should call it love? Anyway, congratulations to you, Horikita-senpai. Once again, please allow me to pay you my compliments. I’ve lost.”
+- **Spoken · Nagumo Miyabi** (p.235) — “It was a truly fantastic strategy. No, perhaps I should say that it was a strategy that went well beyond what is expected. There is not a single person here who can read my intentions, and that includes you, Horikita-senpai,”
+- **Spoken · Nagumo Miyabi** (p.235) — “Please, enlighten me, Tachibana-senpai. How does it feel to have served on the student council, to have been on verge of graduating from Class A, only to then be expelled? And Horikita-senpai, how do you feel right now? I’m sure you must be positively filled with feelings of frustration, the likes of which you’ve never felt before. Hmm?”
+- **Spoken · Nagumo Miyabi** (p.235) — “Because I can’t imagine you ever being expelled, even if I tried such a method on you, senpai. I was terrified you’d counter me with some method I couldn’t anticipate. But more importantly, I’ve never actually wanted you to be expelled, Horikita-senpai. If anything, if you got expelled, then we wouldn’t be able to see each other, would we? That’s why, of all the many possible targets, I went after Tachibana-senpai. I wanted to see your face when I made her disappear,”
+- **Spoken · Nagumo Miyabi** (p.235) — “Trust is an awful lot like experience points in a game,” he said. “The more you accumulate, the more you increase your worth. I think that the ultimate form of this is family. If you ran into a stranger when you were out and about at night, you’d be cautious. But if that person happened to be family, then you’d drop your guard. It’s like that, Horikita-senpai. Though I”
+- **Spoken · Nagumo Miyabi** (p.236) — “I’m glad to hear that. This was, after all, nothing more than a warmup,” replied Nagumo. “I’m fine with getting people expelled, if I have to. That’s the way this school operates.”
+- **Relationship · Horikita Manabu** (p.229–237) — Congratulates him loudly; admits never wanting him expelled so they can keep facing each other; the trust discarded as game XP.
+- **Relationship · Tachibana Akane** (p.231–235) — Calls her over for the reveal; the target chosen over Manabu to watch his face.
+- **Relationship · Fujimaki** (p.229–232) — Enigmatic wording draws Fujimaki’s stern face; then the “nothing to do with me” denial under the shout-down.
+- **Relationship · Ishikura** (p.229, 238–240) — Quiet Class B observer beside him; the collusion and the twenty-million advance read by the POV.
+- **Relationship · Ikari Momoko** (p.231) — Her naming of Tachibana is the trap’s firing pin.
+- **Tactic** (p.232, 238–240) — Trap set without the school realizing it; Class B representative; large group held low; Nagumo paid twenty million private points up front so Class B would cooperate.
+- **Effect** (p.236–240) — Forces the lifeline spend; keeps the A–B gap from widening while Class A burns cash; “warmup” for what comes next.
+
+### Year 1, Volume 9
+
+#### p.7–11 — Vice presidential interview of Ichinose
+
+Student council room on a day off; Vice President Nagumo interviews first-year Class B Ichinose Honami one-on-one after President Horikita rejected her application.
+
+- **Spoken · Nagumo Miyabi** (p.7) — “1st year, Class B, Ichinose Honami, huh?”
+- **Trait** (p.8) — Seeks her chiefly as personal property — Class B like himself and outstanding grades are bonuses; the important question is whether she is worth keeping at his side.
+- **Spoken · Nagumo Miyabi** (p.8) — “I hear you were on the student council, and student council president no less, during middle school?”
+- **Spoken · Nagumo Miyabi** (p.8) — “I heard from your homeroom teacher, Hoshinomiya-sensei. Looks like your results on the entrance exams were also outstanding.”
+- **Tactic** (p.9) — Lies that Horikita rejected Ichinose out of hand for not being Class A and that the man obsesses over status — the narration states Horikita assesses talent from D or A alike.
+- **Spoken · Nagumo Miyabi** (p.9) — “It’s because President Horikita’s a strict person. In all likelihood, he already rejected you out of hand because you’re not in Class A.”
+- **Feat** (p.10) — Claims he confessed the full truth behind his own Class B assignment when applying to the council and that it resulted in his current position; refuses to say what that confession was.
+- **Spoken · Nagumo Miyabi** (p.10) — “Sorry but I have no intention of answering that. Right now, the one being questioned is you, Ichinose.”
+- **Goal** (p.10) — Presses why a student with her grades, interpersonal skills and middle-school presidency is in Class — “There must be some reason for that.”
+- **Spoken · Nagumo Miyabi** (p.11) — “Someone who is unable to grab hold of this opportunity has no place in the student council.”
+- **Spoken · Nagumo Miyabi** (p.11) — “It won’t leave this room, of course. Your secret is our secret.”
+- **Relationship · Ichinose Honami** (p.7–11) — Interviewer who extracts her secret under a promise of confidentiality while framing her as prospective personal property.
+- **Relationship · Horikita Manabu** (p.9) — Slanders Horikita’s standards to Ichinose; the narration marks the slander as a lie.
+- **Relationship · Hoshinomiya Chie** (p.8) — Obtains Ichinose’s entrance-exam results from Hoshinomiya-sensei.
+
+#### p.14–24 — Audience with Sakayanagi; Kōenji’s point loophole
+
+Early February after the training camp; Sakayanagi Arisu visits the student council room, which Nagumo has remade in his own formal style.
+
+- **Spoken · Nagumo Miyabi** (p.14) — “Did Horikita-senpai recommend you for the student council, by any chance?”
+- **Spoken · Nagumo Miyabi** (p.15) — “By showing me an appropriate amount of talent. That’s the only way. First off, it’s not too late to join the student council you know? Come over to my side, Sakayanagi.”
+- **Spoken · Nagumo Miyabi** (p.15) — “Both you and Ryuuen. We’ve got a lot of interesting 1st years this year, don’t we?”
+- **Tactic** (p.16) — Mentions another ‘1st year’ has an appointment to hurry Sakayanagi; previously shared information with her about Ichinose.
+- **Spoken · Nagumo Miyabi** (p.17) — “I don’t recall giving you permission to ‘go that far’, Sakayanagi.”
+- **Spoken · Nagumo Miyabi** (p.17) — “Honami is my personal property I plan on loving. I only gave you permission to weaken her a bit.”
+- **Spoken · Nagumo Miyabi** (p.17) — “You’re a bold woman. Aren’t you afraid of me?”
+- **Goal** (p.17) — Only authorized weakening of Ichinose, not expulsion; treats the possibility of expulsion as beyond the permission he granted.
+- **Spoken · Nagumo Miyabi** (p.18) — “Very well, Sakayanagi. The student council too will turn a blind eye to your actions.”
+- **Trait** (p.18) — Narration: not the least bit trustworthy; will throw away someone who could become an asset for the student council.
+- **Spoken · Nagumo Miyabi** (p.19) — “Unfortunately for you, I don’t particularly dislike the use of violence either.”
+- **Spoken · Nagumo Miyabi** (p.19) — “Unlike Horikita-senpai, I don’t plan to crack down on them either”
+- **Rule** (p.19) — For the Sudō–Ishizaki fight he would not push to expulsion — he would suspend the parties involved rather than hand down a harsher sentence than the previous president.
+- **Spoken · Nagumo Miyabi** (p.21) — “Kōenji seems to be the only one in possession of an amount greater than what the school permits after all. It’s a form of rule violation.”
+- **Rule** (p.20–22) — Private points are collected at graduation and worthless afterward; a third year may entrust them to an underclassman; he wants the 20-million-point Class A rule revised and says repeal would not apply to the first years; Kōenji’s pre-graduation purchases tipped the school off to a loophole.
+- **Spoken · Nagumo Miyabi** (p.23) — “I definitely lost Horikita-senpai’s trust and the trust of the students of 3rd year Class A.”
+- **Tactic** (p.23) — Deliberately threw away Horikita-senpai’s trust during the training camp; narration: even breaking the rules established with Horikita Manabu had been planned from the beginning.
+- **Spoken · Nagumo Miyabi** (p.24) — “Ayanokōji…? I am somewhat familiar with that name. He’s a 1st year, is he not?”
+- **What happens** (p.24) — Ends the Ayanokōji topic when Sakayanagi says she does not know the name; refuses her offer to investigate him.
+- **Relationship · Sakayanagi Arisu** (p.14–24) — Receives her report on the planned Ichinose attack, grants the council a blind eye, debates violence and point rules, and asks about Ayanokōji.
+- **Relationship · Kōenji Rokusuke** (p.20–21) — Kōenji’s private-points conversation at the training camp is the source Sakayanagi reopens; Nagumo treats Kōenji as the rule-violating holder of excess points.
+- **Relationship · Ryūen Kakeru** (p.15) — Names Ryuuen with Sakayanagi as an interesting first year who would not hesitate to make enemies of anyone.
+- **Relationship · Sudō Ken** (p.19) — Recalls the Class D–Class C fight involving Sudou and Ishizaki’s groups when asked how he would have sentenced it.
+- **Relationship · Ishizaki Daichi** (p.19) — Same fight recollection — he would suspend rather than expel.
+- **Relationship · Ayanokōji Kiyotaka** (p.24) — Asks Sakayanagi about Ayanokōji by name and then drops the subject.
+- **Relationship · Horikita Manabu** (p.14, 19, 23) — Contrasts his own council posture with Horikita-senpai’s; admits losing Horikita-senpai’s trust; planned the break with Manabu from the start.
+
+#### p.100 — Named as Kushida’s new lever
+
+- **Relationship · Kushida Kikyō** (p.100) — She made contact with him asking for help expelling Suzune.
+- **Relationship · Horikita Manabu** (p.100) — Manabu’s relationship with him deteriorated at the last training camp — he expects another move.
+- **Caveat** (p.100) — Does not appear; named in Manabu’s call only.
+
+#### p.120 — The remark that set the tail running
+
+- **Relationship · Hashimoto Masayoshi** (p.120) — His enigmatic claim — Ayanokōji is somebody Manabu holds in higher esteem than anyone — is what changed Hashimoto’s evaluation.
+- **Relationship · Horikita Manabu** (p.120) — The remark is framed as Manabu’s judgement, passed through the current president.
+- **Relationship · Ayanokōji Kiyotaka** (p.120) — The subject; Hashimoto planned to pass it off as a joke and could not.
+- **Caveat** (p.120) — Does not appear; named through his remark only.
+
+#### p.157, 165 — Named at a distance
+
+Named twice from a distance this chapter — as the president Hashimoto invokes, and in the call as the risk to the elder Horikita.
+
+- **Caveat** (p.157) — Hashimoto invokes the current student council president as someone who would turn a blind eye to petty disputes — his grounds for throwing the first kick.
+- **Backstory** (p.165) — In the call: his influence over all of the second-years could be lent to the third-year Class B, and he goes for weak points that are easy to exploit — as with targeting Tachibana Akane during the training camp.
+
+#### p.180 — The school’s intervention
+
+Enters Class B with Hoshinomiya and Chabashira; announces the school will punish rumor-spreading.
+
+- **Spoken** (p.180) — “You’re correct. This dispute does only involve the first-years. However, as of today, it is against the rules to spread irresponsible rumors.”
+- **Relationship · Ichinose Honami** (p.180) — Intervenes to stop the rumors against her.
+
+#### p.218 — The encounter on exam day
+
+Ichinose catches up to Nagumo on the morning of the end-of-year exam and thanks him for recruiting her to the student council. Looks at Ayanokōji with displeasure, knowing he interfered.
+
+- **Spoken** (p.218) — “Don’t you resent me, Honami?”
+- **Relationship · Ichinose Honami** (p.218) — She thanks him; he is displeased with Ayanokōji’s interference.
+
+### Year 1, Volume 10
+
+#### p.12–29 — Ch.1: Exam results and the hallway encounter
+
+Nagumo and Manabu are seen talking in the hallway; Nagumo spots Ayanokōji. Nagumo tests Ayanokōji about the forum rumors; Manabu backs Ayanokōji up. Nagumo invites Horikita Suzune to the student council; she rejects. Nagumo tells Manabu to cherish time with his sister; Manabu leaves. Nagumo says taking down Manabu is his only objective.
+
+- **Spoken** (p.15) — “In order to divert attention away from the slander that had been going around about Ichinose Honami, it seems that someone went and posted a bunch of rumors about various first-year students on the school forums.”
+- **Spoken** (p.18) — “If it’s my senpai’s little sister, I can have her take over as the student council president after I graduate.”
+- **Spoken** (p.20) — “I would cherish the time I have left with my little sister if I were you.”
+- **Spoken** (p.21) — “Of course. Taking down Horikita-senpai is the only objective I have left at this school.”
+- **Relationship · Horikita Manabu** (p.14–21) — Nagumo competes with Manabu; says taking him down is his only objective.
+- **Relationship · Horikita Suzune** (p.18) — Invites her to the student council; she rejects.
+- **Relationship · Ayanokōji Kiyotaka** (p.14–15) — Tests Ayanokōji about forum rumors.
+- **What happens** (p.14) — Spots Ayanokōji and waves at him, preventing him from slipping away.
+- **Spoken** (p.14) — “Yo Ayanokōji. Did you manage to pass the end-of-term exam?”
+- **Spoken** (p.15) — “How cold. I don’t think that’s the right attitude to have when the student council president is right in front of you.”
+- **Spoken** (p.15) — “Well, whatever. You’ve come by at just the right time. There’s something I’ve been wanting to ask you.”
+- **Spoken** (p.16) — “So, what have you two celebrities been talking about?”
+- **Spoken** (p.16) — “Just having a little discussion with Horikita-senpai. Ain’t that right?”
+- **Spoken** (p.17) — “Tomorrow, a step ahead of the other school years, the third-year students will begin a decisive battle that will determine whether Horikita-senpai will successfully graduate from Class A or not. So I wanted to hear about it from him personally. Are you interested too?”
+- **Spoken** (p.17) — “How cold. You’re acting like that just because you’re Horikita-senpai’s favorite, aren’t you?”
+- **Spoken** (p.17) — “Don’t delude yourself, Ayanokōji. All that preferential treatment doesn’t make you special. You just got lucky with the environment you were placed in. That’s right… It’s all thanks to that watchful, anxious classmate of yours right over there.”
+- **Spoken** (p.18) — “Come here.”
+- **Spoken** (p.18) — “Well, not exactly, but close enough. You’re Horikita-senpai’s little sister, right?”
+- **Spoken** (p.18) — “I didn’t expect my predecessor’s little sister to get placed in Class D after enrollment. I was surprised.”
+- **Spoken** (p.19) — “I just wanted to meet with you and your little sister.”
+- **Spoken** (p.19) — “Concession? Certainly not! Do you really think that I’d ever make a move on her? Such a cute underclassman and moreover my senpai’s precious little sister?”
+- **Spoken** (p.19) — “Even so, you don’t have to be so distant do you? If only you had told me about your sister earlier. If you had, I would’ve been able to invite her to the student council much sooner.”
+- **Spoken** (p.19) — “This meeting is just for introductions. I’ll invite you again another day.”
+- **Spoken** (p.21) — “Good grief. Of course this isn’t enough to get him to take me seriously.”
+- **Spoken** (p.21) — “I would cherish the time I have left with my little sister if I were you.”
+- **Spoken** (p.21) — “Is it really so important for you to compete with the former president like this?”
+- **Spoken** (p.21) — “Well, what I do will depend on the details of the exam and Horikita-senpai himself.”
+- **Spoken** (p.22) — “Will there be any problems with next week’s special exam on your end, president Nagumo? I wouldn’t expect the second-years to have it easy either.”
+- **Spoken** (p.22) — “Well, I wonder. Just carry on, hoping for my inevitable failure.”
+
+#### p.97–103 — Ch.3: Ichinose’s deal
+
+Asahina reveals Ichinose asked Nagumo for points and he consented. Nagumo’s condition for lending points is a relationship with Ichinose.
+
+- **Caveat** (p.99–101) — Nagumo does not appear in person; his actions are reported by Asahina.
+
+#### p.165–166 — Ch.4: Third-year politics
+
+Tachibana reports Nagumo has been in close contact with third-year Class B recently.
+
+- **Caveat** (p.166) — Nagumo does not appear in person; his moves are discussed at the meeting.
+
+#### p.257–259 — Ch.6: Lending points to Ichinose
+
+Takes Ichinose’s call and confirms their arrangement. Asks how many more points she needs after she collects her classmates’ points. Answers without hesitation when Ichinose asks whether he likes her. Warns her about his deadline before transferring the points.
+
+- **Spoken** (p.257) — “Honami? This is about our little arrangement, right?”
+- **Spoken** (p.258) — “How many more do you need?”
+- **Spoken** (p.259) — “I wouldn’t have made this a condition if I didn’t like you.”
+- **Spoken** (p.259) — “Be careful. I’m a man who’s fussy about keeping deadlines.”
+- **Relationship · Ichinose Honami** (p.257–259) — Confirms the conditions and pressures her to decide.
+
+### Year 1, Volume 11.5
+
+#### p.94–104 — Ch.1: Graduation farewells
+
+As current student council president, Nagumo approaches Horikita Manabu after the graduates’ meeting and congratulates him on graduating. He tells Manabu he was unable to threaten him, attributing it in part to being in a different year. Nagumo shakes Manabu’s hand and exchanges words with him about the past year. He declares he will use his remaining year to turn the school into a meritocracy based on ability. After parting from Manabu, Nagumo approaches Horikita Suzune and speaks to her as Manabu’s sister. In conversation with Asahina and others, Nagumo maintains that he did not lose to Horikita Manabu despite Manabu graduating from Class A.
+
+- **Spoken** (p.94) — “Congratulations on graduating, Horikita-senpai.”
+- **Relationship · Horikita Manabu** (p.94–98) — Congratulates him and exchanges parting words as successor and graduate.
+- **Relationship · Horikita Suzune** (p.98–104) — Approaches and speaks to her during the farewells.
+- **Relationship · Asahina Nazuna** (p.94–104) — Is accompanied by her and discusses the outcome with her.
+- **Relationship · Kiriyama Ikuto** (p.94) — Appears with him among student council members at the farewell.
+- **Relationship · Ayanokōji Kiyotaka** (p.94–104) — Is observed by him during the farewell exchanges.
+
+### Year 2, Volume 1
+
+#### p.35–36, 40, 317–318 — Nagumo mentioned in passing
+
+Named in the context of the student council. Named in the context of Tsukishiro's actions. Named in the context of the student council room.
+
+- **Caveat** (p.35–36, 40, 317–318) — Passing mentions; not a distinct scene presence.
+- **Mentioned** (p.35–36, 40, 317–318) — Passing mention only.
+
+### Year 2, Volume 2
+
+#### p.71–350 — Coverage note: passing mentions
+
+- **Mentioned** (p.71) — “Could it be that President Nagumo might have something to do with this?”
+- **Mentioned** (p.72) — “Without realizing it, maybe you aroused Nagumo’s jealousy. President Nagumo had always been interested in brother’s affairs, because he had always been only interested in your affairs.”
+- **Mentioned** (p.72) — “the issue of Nagumo that Manabu was worried about.”
+- **Mentioned** (p.73) — “could spy on President Nagumo, but actually, that’s not the only reason, right?”
+- **Mentioned** (p.73) — “different from what Nagumo thinks.”
+- **Mentioned** (p.73) — “If Nagumo is going in the wrong direction, there’s a need to stop him.”
+- **Mentioned** (p.74) — “Well, I’d like to show you using the meeting with Nagumo as evidence.”
+- **Mentioned** (p.74) — “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
+- **Mentioned** (p.83) — Kiriyama was someone who had struggled to overthrow Nagumo… the battle between Kiriyama and Nagumo had already been settled.
+- **Mentioned** (p.116) — “But as long as Nagumo continues to pursue his policies, we would definitely compete with each other sooner or later.”
+- **Mentioned** (p.250) — “President Nagumo about the uninhabited island survival exam held two years ago, and he kindly told me.”
+- **Mentioned** (p.254) — “It all started when I was contacted by President Nagumo of the student council.”
+- **Mentioned** (p.255) — “The student council president Nagumo-senpai told the six of us that he’ll give 20 million points to the student who got him expelled.”
+- **Mentioned** (p.256) — “President Nagumo said that the student was selected at random from the 2nd years’. It was a simple game of chance, 1 in 157.”
+- **Mentioned** (p.257) — “It was now confirmed that Tsukishiro and Nagumo were the ones behind the 20 million points.”
+- **Mentioned** (p.271) — “Putting aside personal opinions of Nagumo, the student council operated smoothly.”
+- **Mentioned** (p.271) — “If he wanted to keep this a secret from Nagumo, he could have chose to meet late at night or early in the morning.”
+- **Mentioned** (p.272) — “I wanted to personally battle Nagumo in this special exam.”
+- **Mentioned** (p.273) — “After which, Nagumo became the student council president, and took control over the entire 3rd year, and eventually the entire school.”
+- **Mentioned** (p.273) — “However, Nagumo’s overall strength was even higher than his, so you could say that Nagumo’s boisterous attitude was in line with his strength.”
+- **Mentioned** (p.273) — “In that aspect, I don’t think I can lose to Nagumo.”
+- **Mentioned** (p.274) — “You wanted Horikita Manabu’s sister to join the student council to monitor Nagumo, right?”
+- **Mentioned** (p.274) — “That means she won’t get in Nagumo’s way, right?”
+- **Mentioned** (p.275) — “Unless Horikita thinks Nagumo’s an obstacle.”
+- **Mentioned** (p.275) — “That won’t work. Forget all thoughts about dealing with Nagumo.”
+- **Mentioned** (p.275) — “Nagumo was more or less aware of what I’d been doing with Horikitasenpai.”
+- **Mentioned** (p.276) — “I didn’t want to interfere in the relationship between Nagumo and Kiriyama, in which the winner and the loser had already been decided.”
+- **Mentioned** (p.276) — “Nagumo’s idea, the one in which anyone can graduate from Class A.”
+- **Mentioned** (p.277) — “He wasn’t really going to challenge Nagumo.”
+- **Mentioned** (p.279) — “She doesn’t even have a single friend.” — Kiriyama speaking to Ayanokōji about Kiryūin, noting she lacks Nagumo’s supporters.
+- **Mentioned** (p.280) — “She’s just a good student, but Kiryuuin doesn’t have anyone supporting her, unlike Nagumo. She doesn’t even have a single friend.”
+- **Mentioned** (p.281) — “If she had been someone Nagumo or Manabu-senpai would pay attention to, it wouldn’t have been strange to hear about her.”
+- **Mentioned** (p.284) — “Nagumo and Kiriyama will obviously aim for 1st place, and it seems that there are some competent underclassmen, right?”
+- **Mentioned** (p.285) — “And it might prove to be even more troublesome than defeating Nagumo and Kiriyama.”
+- **Mentioned** (p.335) — “there were the elites of the 3rd year- Nagumo, Kiriyama and Kiryuuin.”
+- **Mentioned** (p.348) — “When I told him I wanted to join the council, president Nagumo looked surprised at me.”
+- **Mentioned** (p.349) — “President Nagumo who was speaking in front of me and acknowledged by my brother is certainly an amazing student, no doubt about that… but if compared to Ayanokouji-kun that impressions strangely changes everything.”
+- **Mentioned** (p.350) — “I had to enter the student council and confirm President Nagumo’s movements.”
+
+#### p.75–82 — Horikita joins the council; his challenge
+
+Horikita's request lands; the two council members react the same way, in a manner that is neither welcoming nor rejecting.
+
+- **Spoken** (p.75) — “Well, what a turn of events! I don’t really want to obediently say yes.”
+- **Spoken** (p.75) — “Not really, I’m basically one of those people who can’t refuse. As long as there’s space in the student council, I’ll allow people to join. I won’t even care about your reason for joining the council. It doesn’t matter if it’s for the OAA, or wanting to assume a post in the future, or maybe you just have a sense of righteousness. I don’t really care.”
+- **Spoken** (p.76) — “But then again, you’re special, Horikita Suzune. Let me at least mention one condition for your membership.”
+- **Spoken** (p.76) — “Why do you choose to join the student council at this time? Would you please tell me that?”
+- **Spoken** (p.76) — “And then? Have you reconciled?”
+- **Spoken** (p.77) — “The road brother took, it really is a nice story.”
+- **Spoken** (p.77) — “In other words, can I assume that you have the intention to become the student council president?”
+- **Spoken** (p.77) — “I see. But Honami has been working hard behind the scenes for a year as a member of the student council. You’re already a year behind her in your quest in becoming the student council president. You can understand that, right?”
+- **Spoken** (p.78) — “Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune.”
+- **Spoken** (p.78) — “As a congratulations for joining, I’ll tell you something interesting. The past presidents of the student council have always graduated in Class A. Remember that and work towards a higher goal.”
+- **Spoken** (p.80) — “Then show me that isn’t just all talk.”
+- **Spoken** (p.80) — “Are you going to …  join the student council by the way? Ayanokouji.”
+- **Spoken** (p.80) — “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t …  …  have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
+- **Spoken** (p.81) — “I knew you would say that.”
+- **Spoken** (p.81) — “Ayanokouji.”
+- **Spoken** (p.81) — “There’s a lot more work in the student council than I thought , but everything has started to calm down now, so when summer starts, I’ll spend my time with my kouhais.”
+- **Spoken** (p.81) — “I’ll play with you, so look forward to it.”
+- **Spoken** (p.82) — “By the way, Kiriyama, why did you get involved with this today?”
+- **Spoken** (p.82) — “When the 1st and 2nd years requested to enter the student council you had no intention to attend. But this time when Horikita Suzune said she wanted to meet me, you showed up. It’s weird isn’t it?”
+- **Spoken** (p.82) — “It’s nothing, nothing. Don’t mind it.”
+- **Spoken** (p.82) — “Then, Suzune, I want to introduce you to the student council members outside of Kiriyama. You stay right here.”
+- **Caveat** (p.77–82) — Horikita was prompting her own designs on the presidency; his mention of Honami is the second-year council seat Ichinose holds. He notes Kiriyama's attendance was for Suzune, not for him.
+- **Trait** (p.75–82) — Welcoming and unreading on the surface; the council is a meritocracy now; he openly says presidents graduate in Class A — and means it as a challenge.
+- **Relationship · Horikita Suzune** (p.75–82) — He accepts her; he sets the presidential bar out loud.
+- **Relationship · Kiriyama Ikuto** (p.75–82) — He tests and dismisses him in the same breath.
+- **Relationship · Ayanokōji Kiyotaka** (p.80–82) — He invites him, is declined, and declares he'll play with him.
+- **Relationship · Ichinose Honami** (p.77) — She is the one-year-ahead standard he sets for Horikita.
+
+#### p.286–292 — Nagumo and Kiryūin
+
+Ayanokōji leaves; Kiriyama returns; Nagumo shows up behind Kiryuuin.
+
+- **Spoken · Kiriyama Ikuto** (p.286) — “Who the hell do you think you are? You’re the one-“
+- **Spoken** (p.287) — “If possible, I too don’t want to stay here for longer than I have to.”
+- **Spoken** (p.287) — “You’re beautiful but charmless, and I don’t have much interest in charmless women.”
+- **Spoken** (p.287) — “If there’s a man who can bring out the charming side of you, I’d like to meet him.”
+- **Spoken** (p.287) — “Women with too high an ability are hard to deal with. Unfortunately, I don’t like those types either.”
+- **Spoken** (p.288) — “I heard something from Kiriyama. I would have never thought that someone who wasn’t interested in both Horikita-senpai or I, would be interested in Ayanokouji. I was surprised when I heard that.”
+- **Spoken** (p.288) — “Someone who has never been with a man before, can understand the fundamentals of love?”
+- **Spoken · Kiryuin Fuuka** (p.291) — “There’s a saying, that a predator doesn’t reveal his fangs, right? He seems to have gotten a perfect score in a difficult test.”
+- **Spoken** (p.289) — “There are people who hate being in the limelight and hide their talents. I’ve defeated all of them, and they weren’t very interesting.”
+- **Spoken** (p.289) — “If I had to say, it’s his aura. I feel that he has a different aura from you and Horikita Manabu.”
+- **Spoken** (p.290) — “Well well, can you really say that there’s definitely nothing in which you’re inferior to me at?”
+- **Spoken** (p.291) — “You seem to be bored ever since Horikita Manabu left. So this underclassmen should be a good playmate for you, eh? If you’re really serious, then you’ll definitely get 1st place in the upcoming exam.”
+- **Spoken** (p.291) — “Of course I’ll get 1st place. Or maybe it’ll be Kiriyama, who’s been dying to fight me. But to get control of the whole podium, I still need more groups, right? I’ll give you this role, Kiryuuin. If necessary, I’ll even help you find comrades.”
+- **Spoken** (p.291) — “Although letting the underclassmen get 3rd place wouldn’t be too bad, I’m not that soft.”
+- **Spoken** (p.292) — “That’s just how you are. We’re both 3rd years, but it seemed to be a waste of time to try to talk to you like that.”
+- **Spoken · Kiryuin Fuuka** (p.292) — “With that logic, nobody can give you any advice”
+- **Caveat** (p.286–292) — He offers her the underclassmen play role; she declines; he takes Kiriyama and leaves with a monologue warning.
+- **Trait** (p.286–292) — Bored predator; collecting underclassmen for the island exam; genuinely puzzled by her indifference.
+- **Relationship · Kiryuin Fuuka** (p.286–292) — He studies her; she declines.
+- **Relationship · Kiriyama Ikuto** (p.286–292) — He dismisses him; he serves him.
+- **Relationship · Ayanokōji Kiyotaka** (p.291–292) — The interesting underclassman; he might test him.
+- **Relationship · Horikita Suzune** (p.289) — Her sister spy-experiment bores him.
+- **Relationship · Horikita Manabu** (p.289–291) — His predecessor's antics linger.
+
+### Year 2, Volume 3
+
+#### p.51–52 — Nagumo searched for at 3-B's disembarkation
+
+- **Mentioned** (p.51–52) — “From the numbers, it seemed like students from Class 3-B had just about finished disembarking, so I took a moment to try and catch a glimpse of Nagumo. However, I couldn’t find him anywhere. … As I continued to look for him, the third-year students who were walking toward me eventually caught up and began to pass by. … I continued to linger around the area for a little bit longer, but ultimately never caught sight of Nagumo.” — named as Ayanokōji's target to spot; not seen; POV Ayanokōji.
+
+#### p.124 — Nagumo named at the Beach Flags
+
+- **Mentioned** (p.124) — “take down Nagumo. His skills seemed to be an accurate representation of his” — named; not present; POV Ayanokōji.
+
+#### p.128–132 — Nagumo: the sandbar heads-up; the real event starts tomorrow
+
+On the sandbar with his third-year friends, swimming and lounging in rented swimsuits and a beach ball; he beckons Ayanokōji over. His warning about first/second-years; the 4th day promise; the Masuwaka pull-away; Asahina's aborted whisper.
+
+- **Spoken** (p.130) — “I’ll say it again just to be sure: Don’t get in my way, got it?”
+- **Spoken** (p.130) — “From what I saw, it didn’t look like you were able to participate in that Task.”
+- **Spoken** (p.130) — “Aren’t we the same in that regard? Or did you just come here because of a nearby designated area?”
+- **Spoken** (p.130) — “Hmm, who knows?”
+- **Spoken** (p.130) — “How about you come take a swim with us?”
+- **Spoken** (p.130) — “You seem awfully composed, playing on the beach like this. I thought you’d be fighting tooth and nail to rack up points like the rest of us.”
+- **Spoken** (p.130) — “Well it’s important to take breaks, right? Besides… the real event starts tomorrow.”
+- **Spoken** (p.131) — “If it turns out that a first or second-year group has managed to sneak into the top three, I’ll take action accordingly. First and second-years have no right to stand on the winners’ podium. You’re no exception either, so keep that in mind.”
+- **Spoken** (p.131) — “Thank you very much for your considerate advice.” — no wait, that's AK's line.
+- **Spoken** (p.131) — “In that case, you’d better group up with someone as soon as possible. Horikita-senpai would probably be fairly disappointed if you self-destructed and got yourself expelled.”
+- **Spoken · Masuwaka** (p.131) — “Nagumo. Come over here for a sec?”
+- **Spoken** (p.132) — “Asahina, it’s time. Let’s get going.”
+- **Trait** (p.128–132) — President of the student council; leader of Class 3-A; the beach frolic is a façade; the first/second-year rule is his intended trap; his strategy unrevealed; his calm is total.
+- **Relationship · Ayanokōji Kiyotaka** (p.128–132) — Warns him; hints at action.
+- **Relationship · Kiriyama Ikuto** (p.128–132) — His VP on the front lines; they stage the run.
+- **Relationship · Asahina Nazuna** (p.131–132) — Interrupts her mid-sentence.
+
+#### p.212, 239, 243–244 — Nagumo named in passing (Ch.6)
+
+- **Mentioned** (p.212) — “hadn’t gotten the chance to look at yesterday. In first place was Nagumo’s” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.239) — “Moreover, I had reason to believe that Nagumo has been carrying out a” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.243) — “However, it would be incorrect to say that this put Nagumo at a” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.244) — “Rather, the fact remained unchanged that Nagumo was in an” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.244) — “Moving forward, Nagumo would undoubtedly max out the size of his” — named; not present; POV Ayanokōji.
+
+#### p.276–277 — Nagumo named at the day-7 standings
+
+- **Mentioned** (p.276) — “the first place group, Nagumo’s, by a slim eight-point margin.” — named; not present; POV Ayanokōji.
+- **Mentioned** (p.277) — “increased to six, with Nagumo’s group up in first place undoubtedly paving” — named; not present; POV Ayanokōji.
+
+#### p.312 — Nagumo named at the intercept
+
+- **Mentioned** (p.312) — “cozy up to Student Council President Nagumo, but got turned away at the” — named; not present; POV Kushida.
+
+### Year 2, Volume 4
+
+#### p.38–43, 48–50 — Nagumo mentioned in passing
+
+- **Mentioned** (p.38) — “For example, some third-year groups moved fairly unusually throughout the day yesterday. Furthermore, these groups are always closely related to Nagumo’s group or Kiriyama’s group. When I looked into it, I noticed something pretty interesting.”
+- **Mentioned** (p.38) — “To begin with, Nagumo’s group was in area B8 at 7:00 AM that morning.”
+- **Mentioned** (p.39) — “Most likely, the point is to have Nagumo effortlessly secure first-place in any Task they come across by fixing the competition in his favor.”
+- **Mentioned** (p.39) — “Behind the scenes, Nagumo has probably prepared some relief measures of his own.”
+- **Mentioned** (p.40) — “That was exactly why Nagumo’s strategy was so brilliant. If multiple groups all had zero points, it would be far too conspicuous.”
+- **Mentioned** (p.41) — “It’s impossible for the other third-year classes to graduate as Class A by coming out on top through special exams. That being said, what if it’s possible to get into Class A by agreeing to work together with Nagumo instead?”
+- **Mentioned** (p.41) — “In a sense, we should also assume that the groups supporting him are competing with each other.”
+- **Mentioned** (p.41) — “Honestly, you’re probably onto something there as well. Nagumo has the entire third-year in the palm of his hand after all. He’s not here to follow the rules; He’s here to make and dictate them to the rest of us.”
+- **Mentioned** (p.42) — “It probably wouldn’t be an exaggeration to say that, throughout the entire history of the Advanced Nurturing High School, Nagumo was and will be the first and last of his kind.”
+- **Mentioned** (p.43) — “In reality, however, Nagumo’s group was most likely just putting on an act as they slowed down to match pace with Kōenji.”
+- **Mentioned** (p.48) — “2nd Place: Third-Year Group Nagumo – 166 Points” — the printed top-ten.
+- **Mentioned** (p.49) — “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
+- **Mentioned** (p.50) — “Furthermore, there would definitely be groups looking to conserve their stamina for the double points being offered on the final day as well.”
+
+#### p.61–62, 83–84 — Nagumo mentioned in passing
+
+- **Mentioned** (p.62) — “I was curious about what Nagumo was going to do moving forward. It seemed like it'd be a good idea for him to take on countermeasures of some sort to deal with Kōenji, his foremost competitor for the top spot.”
+- **Mentioned** (p.83) — “Everyone is competing with each other for the podium. I could not continue with that game. However, if Miyabi Nagumo collapses down, the story could be a little different.” — Kiryūin.
+- **Mentioned** (p.83) — “Do you think Nagumo is going to release Kouenji as he is right now?” — Ayanokōji.
+
+#### p.95–98, 102, 107, 109, 115 — Nagumo mentioned in passing
+
+- **Mentioned** (p.95) — “on the tenth day, he has been scoring points to stick with Nagumo's group...nothing close to impatience in Kiriyama or Nagumo.” — narration.
+- **Mentioned** (p.96) — “enemy to be watched by Nagumo long before.” — narration.
+- **Mentioned** (p.97) — “The only man Nagumo recognized, the only thing left of Manabu Horikita. It's no wonder that Nagumo's eyes, which can see the battlefield with an eagle's eye, are clouded.” — narration.
+- **Mentioned** (p.98) — “there is no one who can stop Kouenji except Nagumo and me.” — Kiriyama to Mikitani.
+- **Mentioned** (p.102) — “The following is not a bad idea, if you are willing to follow it. If you have the student council president, Nagumo, on your side, your school life will be more stable.” — Kiriyama to Kouenji.
+- **Mentioned** (p.107) — “These are the soldiers, so to speak, that Nagumo and Kiriyama have brought together to monopolize many of the tasks.” — narration.
+- **Mentioned** (p.109) — “And when Nagumo found out about this result, he was very disappointed.” — narration.
+- **Mentioned** (p.115) — “there is always someone who does not agree with your calculations. Like Nagumo.” — Mikitani.
+
+#### p.152 — Nagumo mentioned in passing
+
+- **Mentioned** (p.152) — “The only option now is to flee until the freshmen run out of energy and give up the chase.” — Ayanokōji's own position; Nagumo is not on these pages but the third-years are under Nagumo's control — “not only the first-year students, but also the third-year students, who are under Nagumo's control, are the enemy.”
+
+#### p.163 — Nagumo mentioned in passing
+
+- **Mentioned** (p.163) — “I mean, in the near future, the first-year students will take action against Ayanokouji-kun, right?” — Ayanokōji tells Sakayanagi about the bounty's origin; Tsukishiro may be planning something else.
+- **Mentioned** (p.163) — “Besides, Tsukishiro may be planning something .. If possible, I want to focus on that.” — Ayanokōji.
+
+#### p.201–214 — Ch.6: The beach talk; he gets knocked out
+
+On the last day, Ayanokōji walks to I2 and finds President Nagumo standing on the beach with a tablet; the two of them talk — the bounty, Horikita-senpai, Koenji, why Ayanokōji is really here.
+
+- **Spoken** (p.202) — “Ayanokouji, what a coincidence.”
+- **Spoken** (p.202) — “Don’t worry. We are the only ones here.”
+- **Spoken** (p.203) — “I was having fun on the beach at I4. Life on this uninhabited island is coming to an end, after all.”
+- **Spoken** (p.203) — “But I’ll ask you the same thing, Ayanokouji. This place is not a designated area and doesn’t have an event, so why did you come here? Did you meet up with Honami?”
+- **Spoken** (p.203) — “No. If you two are still together now, you would have spoken about quite a bit. But you are here by yourself, so it means you have a different objective. What’s there at I2?”
+- **Spoken** (p.204) — “Your critical thinking ain’t bad.”
+- **Spoken** (p.204) — “Don’t blame me for the bounty. It wasn’t my proposal in the first place.”
+- **Spoken** (p.204) — “It was Acting Director Tsukishiro’s.”
+- **Spoken** (p.204) — “Since you know this much, I’ll be blunt. The money’s all from the Acting Director. I just lent the name of the Student Council president to him.”
+- **Spoken** (p.204) — “It’s an order from the Acting Director, so you had to accept it. But if it’s the Student Council President I know, I think you would have refused such a proposal, right?”
+- **Spoken** (p.204) — “If it’s about the matter of the bounty, I wouldn’t have accepted it, if it were a student other than you. But the one which he named was none other but you, the only man that Horikita-senpai trusted.”
+- **Spoken** (p.205) — “Answer me, Ayanokouji. What do you plan to do next?”
+- **Spoken** (p.205) — “Don’t worry about it. On this last day, I have completely overwhelmed Koenji.”
+- **Spoken** (p.205) — “Although I do care what you’re going to do, if you won’t answer, then I’ll change my question. Let me see if you, who hold the expectations of Horikita-senpai, have the strength worthy of my expectations, which of course means that you’ll have to get serious.”
+- **Spoken** (p.207) — “Let me guess your group’s ranking at the end of the 12th day.”
+- **Spoken** (p.208) — “You’re ranked…11th, right?”
+- **Spoken** (p.208) — “A little off? Then you’re ranked around 15th or 16th right?”
+- **Spoken** (p.208) — “I joked around with that superpower stuff. I just guessed, assuming that you really have hidden your strength.”
+- **Spoken** (p.208) — “In order not to attract attention, your ranking is a bit lower than 10th, but still, you’ve maintained an upper-ranking position. If I lose the battle against Koenji, then you’d have a chance to make a comeback.”
+- **Spoken** (p.208) — “Kurona from third-year has been keeping the 10th place, right? I had him maintain that rank to block those who had been secretly saving points and aiming to make a comeback.”
+- **Spoken** (p.209) — “If I want to earn points, whether that’s 400 or 500 points, I can earn them. However, that’s not interesting, right? Now there’s hope that he might beat the second and first-years. Besides, if he lost in the battle with me, we might be able to see his regretful expression.”
+- **Spoken · Ayanokōji Kiyotaka** (p.209) — “Was it part of your plan? Your command of the attack on Koenji on the last day?”
+- **Spoken** (p.209) — “I’ve always doubted whether you were strong enough, but now I understand. You’ve been granted the right to be crushed by me, so rejoice.”
+- **Spoken** (p.210) — “Then I would have to force you to appear on the front stage, which includes using the bounty.”
+- **Spoken** (p.210) — “You think you can escape this easily? I won’t let you go before you agree to a fight with me.”
+- **Spoken · Ayanokōji Kiyotaka** (p.212) — “President Nagumo, although your abilities are different from President Horikita’s, it still allowed you to brilliantly stand at the top of this school. You maintained a top ranking in this special exam with ease, and it’s no exaggeration to say you had complete control over it. Even so, I plan to beat you.”
+- **Spoken · Ayanokōji Kiyotaka** (p.212) — “It’s just that there are certain areas where you shouldn’t step into. Please understand.”
+- **Spoken · Ayanokōji Kiyotaka** (p.212) — “Don’t you understand what I said?”
+- **Spoken** (p.213) — “I…!?”
+- **Caveat** (p.212–214) — The transceiver voice: “Nagumo, I’ve gotten in the way of Koenji’s event three times in a row. Please give me your next instructions.” — a 3rd-year student reports; “Hey, Nagumo, if you don’t give instructions, your subordinates can’t act. In order to drop Koenji down to 2nd, isn’t it necessary to continue with the attack until the end?” — he switches it off; “What’s important to me isn’t Koenji.” — he lunges; Ayanokōji punches him once in the chest and he collapses; his warning alarm rings; Ayanokōji hides him under a tree; 20–30 minutes before someone finds him; he walks away to I2.
+- **Trait** (p.201–214) — He is a god among men on this island; he runs the third-year lockdown to block comebacks; he enjoys unmasking Ayanokōji to force him to “be” Manabu's shadow; he loses to a single punch and goes down for good — without landing a blow.
+- **Relationship · Ayanokōji Kiyotaka** (p.201–214) — He came to measure Ayanokōji against Horikita Manabu; he gets measured; he loses in a second.
+- **Relationship · Kōenji Rokusuke** (p.205–209) — He is working to drop Koenji down to second; he uses the 3rd years to do it; the transceiver men are his.
+- **Relationship · Horikita Manabu** (p.205–209) — He sees the ghost of Manabu in Ayanokōji; his whole approach is Manabu's ghost.
+
+#### p.254–255 — Nagumo mentioned in passing
+
+- **Mentioned** (p.254) — “Nagumo has stopped moving, and Ichinose has already moved away, so there is nothing to worry about.” — Tsukishiro.
+- **Mentioned** (p.255) — “What happened to Nagumo-kun and Ichinose-san?” — Tsukishiro asks Shiba.
+
+#### p.273 — Nagumo mentioned in passing
+
+- **Mentioned** (p.273) — “Miyabi Nagumo was no longer there.” — Ayanokōji.
+
+#### p.279–282 — Nagumo mentioned in passing
+
+- **Mentioned** (p.279) — “They had assumed that Nagumo would be the one to rescue them. I also thought that...however...” — narration.
+- **Mentioned** (p.281) — “2nd place, 2nd year Group Class A Nagumo Miyabi. 325 points” — the results announcement.
+- **Mentioned** (p.282) — “Today I remember the figure of Miyabi Nagumo who took the trouble to...” — Ayanokōji.
+
+### Year 2, Volume 4.5
+
+#### p.10–290 — Relations in this volume (depth pass)
+
+- **Relationship · Kiriyama Ikuto** (p.47–48) — Kiriyama's Class A ticket ties him to Nagumo's public face; Nagumo holds his ticket.
+- **Relationship · Kiriyama Ikuto** (p.152–157) — He meets Honami with the Karuizawa reveal; Kiriyama had seen them together.
+- **Relationship · Kiryuin Fuuka** (p.290) — Kiryūin's SS watches him assemble the third-years; he has not turned on her.
+
+#### p.23–24 — Third-years watching him at the results board
+
+Ayanokōji notices third-years watching him at the results board — all of them third-years; he estimates 80–90% chance it is Nagumo's plan, pushed off in anticipation of the exam.
+
+#### p.41–53 — Kiryūin's profile; Nagumo arrives at the pool
+
+Kiriyama spots Nagumo arriving at the pool and flees rather than be seen with Ayanokōji; Kiriyama must give him an answer before Nagumo's next move.
+
+- **Caveat** (p.42) — Kiryūin's profile for him: Academic A, Physical A, Adaptability A+, Social Contribution A+ — “He cannot be faulted”; the only student with all A or higher; the only person in the school he recognized as his equal, Horikita Manabu, has graduated.
+- **Caveat** (p.41–43) — Per Kiryūin: his strategy favors flashy one-on-ones but he'll use any strategy to win — “He'll prioritise winning, no matter what it takes”; “The Nagumo administration is rock solid” — his year cannot oppose him while he holds their Class A tickets (see the volume record for the ticket mechanics); she judges him “the type of person you're no good at dealing with.”
+
+#### p.152–158 — Nagumo in person: the Ichinose reveal
+
+Appears behind Ayanokōji and Ichinose at their secret spot; reveals he knows about Karuizawa; positions himself as Ichinose's protector; whispers to Ayanokōji.
+
+- **Spoken** (p.153) — “It seemed like you met on the last day of the uninhabited island exam, but are the two of you having another sneaky clandestine meeting?”
+- **Spoken** (p.154) — “It seems you've only told your closest friends, but I've heard that you've been going out with Karuizawa for quite some time. Isn't that right, Ayanokōji?”
+- **Spoken** (p.155) — “Don't tell me you were thinking of two timing, were you?”
+- **Spoken** (p.155) — “You're free to think what you like about my methods. But I haven't even gotten started yet, you know?”
+- **Spoken** (p.156) — “You can mix a hundred truths with one lie and nobody would notice. You need to make a decision before it's too late. If you ever want to fight me, at that time, come and see me. If you get down on your knees, I'll be your opponent.”
+- **Caveat** (p.154–156) — His information source is never revealed; Kiriyama knew they were together; Nagumo enjoys keeping it unverifiable; "hundred truths with one lie" is his stated doctrine.
+- **Relationship · Ichinose Honami** (p.153–157) — Speaks to his face as "Honami," his fellow council member; plays protector while using her as bait.
+- **Relationship · Karuizawa Kei** (p.154) — Weaponizes her relationship with Ayanokōji in public.
+- **Relationship · Ayanokōji Kiyotaka** (p.153–157) — Delivers the warning in person: surveillance, harassment indefinite; an all-out campaign recruiting the whole third year; invites a formal challenge to the end.
+
+#### p.159–165 — The treasure hunt; Nagumo's sponsor speech
+
+Treasure-hunt briefing; delivers a short speech as the game's sponsor (Takatō-sensei presents it as inspired by him); Ichinose is seated beside the faculty for the announcement.
+
+- **Spoken** (p.161) — “With the full cooperation of the school, the bonus game is now open. The idea for this project came from the student council's daily commitment to enriching and improving school life. During the uninhabited island exam, all years often competed against each other, but in this treasure hunt, it's possible to make partners across year groups. We hope you take advantage of the merits and participate.”
+
+### Year 2, Volume 5
+
+#### p.241–242 — Credits: PrinceYG's and Amadeus's staff notes
+
+- **Mentioned** (p.241) — PrinceYG#6558 (Translator, RoyalMTL): the volume has "almost no students from other grades in this volume" — the first and third years are absent except Yagami; Nagumo is flagged by Amadeus for the next volume ("Nagumo vs Ayanōkoji???").
+- **Mentioned** (p.242) — Amadeus#6844 (Editor/Proof Reader): "Nagumo vs Ayanōkoji??? (Please do more than make your third year sheep stare at him, Nagumo.)" — the staff's wishlist, not story.
+- **Caveat** (p.241–242) — These are translator/editor staff credits, not story content — no scene presence on these pages.
+
+### Year 2, Volume 6
+
+#### p.50–57 — Ch.1: Summons; one-week ultimatum; lunch with Ichinose
+
+He summons AK to the student council room by way of Horikita and Yagami; alone inside, he opens with a light jab; he tells him to fight him head-to-head in the Sports Festival; everything between them will be water under the bridge if AK beats him in even one head-to-head match; five competitions Nagumo will personally specify — miss even one and it is AK's loss; one week to answer, by next Monday. Ichinose arrives with bentos; he has had lunch together with Honami in the student council room every day; he tells AK that when it is just the two of them she tells him all her worries “every day”; he remarks that he is keeping AK from leaving with flimsy plans; at the end of the meal he notes AK has already finished; his gaze stays fixed on Ichinose; AK leaves; Nagumo may be cultivating her for the student council presidency.
+
+- **Spoken** (p.50) — “Yo, Ayanokouji. Anything unusual happen in your daily life lately?”
+- **Spoken** (p.51) — “As the student council president, you can talk to me about those worries, you know?”
+- **Spoken** (p.51) — “You’ve already heard the rules for the Sports Festival, right? It means the time when we can settle our score has come, Ayanokouji. In the sports festival, there are competitions for all grades. Fight me in them.”
+- **Spoken** (p.51) — “You always answer like that. You think that if you act humble, I’ll be satisfied. No, I guess I can’t blame you for that. Because acting all modest is the only option you have now.”
+- **Spoken** (p.52) — “I know you’re not eager. For me as well, spending too long on you is a waste of time. That’s why, if you beat me in even one head-to-head match during this sports festival, everything that’s happened between us will be water under the bridge.”
+- **Spoken** (p.52) — “It looks like you’re thinking ‘just one win is enough?’. Is it that easy for you?”
+- **Spoken** (p.52) — “But there’s a condition. You’ll participate in all five competitions I specify. It doesn’t matter who wins or loses, but if you miss even one of them, it’s your loss.”
+- **Spoken** (p.52) — “That would be nice, but… The cause of your annoyance will remain, and on top of that I might keep calling you out like this, over and over again. Or maybe you’ll have to suffer from your worries more than ever before.”
+- **Spoken** (p.52) — “Well, that’s all you can say for now. I’ll give you one week. Get in touch by next Monday.”
+- **Spoken** (p.53) — “There’s no need to hurry. Or do you have plans for after this? Since I called for you, you didn’t make any flimsy promises, did you?”
+- **Spoken** (p.53) — “I’m relieved to hear it.”
+- **Spoken** (p.53) — “Eh──”
+- **Spoken** (p.53) — “Sorry I couldn’t come along to buy it with you today.”
+- **Spoken** (p.53) — “Ahh, this? Lately, I’ve been having lunch together with Honami in the student council room every day. The student council is keeping me busy, you see, so my right hand is very tired.”
+- **Spoken** (p.54) — “When it’s just the two of us, she tells me all about her worries. Isn’t that right? Honami.”
+- **Spoken** (p.54) — “I told her that we would have a visitor today. Join us for lunch, Ayanokouji.”
+- **Spoken** (p.54) — “You said you didn’t have plans after this, right? Since that’s the case, sit down.”
+- **Spoken** (p.54) — “The rules for the Sports Festival are quite different from last year.”
+- **Spoken** (p.54) — “If anything, you should be thanking me. Because if the Sports Festival had exactly the same rules as last year, my victory would be certain.”
+- **Spoken** (p.57) — “What’s this? Have you finished eating already? You can leave the empty box there.”
+- **Trait** (p.50–57) — Exacting, manipulative, possessive of the third year's respect — his pride is a shield he drags underclassmen into the fray with; keeps Ichinose as a daily companion; his power stands behind the Sports Festival rules themselves (his own words: “I know you're not eager.” — spending time on AK is a waste of his time).
+- **Relationship · Ayanokōji Kiyotaka** (p.50–57) — Summons him; one-week ultimatum — five Nagumo-specified competitions at the Sports Festival, one head-to-head win settles everything; he is the underclassman who challenged him.
+- **Relationship · Ichinose Honami** (p.53–57) — Lunches with her every day in the student council room; she confides in him “every day”; AK suspects she is being cultivated for the presidency.
+- **Relationship · Horikita Suzune** (p.48–50) — Sent for AK through Yagami and her; she relays it with advice not to anger him.
+
+#### p.180–184 — Ch.3: Nagumo's acceptance relay
+
+Anchored references — quoted corpus verbatim where shown; see rows for pages.
+
+- **Mentioned** (p.180) — AK's week: “Oh yeah. I want you to send a message to Student Council President Nagumo.” — Horikita: “Just tell him that I accept his proposal.” — AK: “Alright. I'll be going to the student council room after this, so I'll tell him what you just told me.” — his Sports Festival duel (five Nagumo-specified competitions, one head-to-head win to settle everything) is now officially on.
+- **Caveat** (p.180) — The week's elapsed Nagumo ultimatum — one week is about to expire — he must at least reply; he has told no one about the five-competition condition.
+
+### Year 2, Volume 7
+
+#### p.30–206 — Named in Ryūen's counterproposal; in the council analysis; in the caller's recap
+
+- **Mentioned** (p.30) — “Well, I would've preferred a more flashy battle with a different opponent, but Student Council President Nagumo ran away, saying that he wouldn't participate in the festival this time.” — Ryūen's explanation of why he targeted Horikita instead; Nagumo ran.
+- **Mentioned** (p.37) — “Nagumo is saying that he's going to let the nonA's compete and pick one student from the class that takes first place,” — Asahina tells Ayanokōji the festival policy.
+- **Mentioned** (p.41) — “Nagumo had never experienced losing, rather, only winning streak after winning streak.” — the narration.
+- **Mentioned** (p.43) — “Because Student Council President Nagumo Miyabi has actually implemented this and it's shown to be effective. Concentrating private points on Ichinose is what we've been doing.” — Kanzaki's account to Ayanokōji (recap of Nagumo's system).
+- **Caveat** (p.37) — “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — printed in Nagumo's speech run; flagged untagged; not assigned.
+- **Mentioned** (p.75) — “Actually, one of my friends asked me to give it to Nagumo Miyabi, the student council president.” — Ichihashi Ruri's line about Nagumo; the letter is for Nagumo.
+- **Mentioned** (p.161) — “The student council was closed for a while due to the circumstances of Student Council President Nagumo.” — the chapter opens; the students knew what was happening.
+- **Mentioned** (p.167) — “It was in regards to the comments made by Student Council President Nagumo, wasn't it?” — Yagami's reply to Horikita.
+- **Mentioned** (p.192) — “I've once again realized the power of Student Council President Nagumo.” — the caller's praise.
+- **Mentioned** (p.193) — “Of course. I'm looking forward to it, President Nagumo.” — Ayanokōji's farewell to the caller.
+- **Caveat** (p.206) — “Nagumo > Yagamid.” — BGS003#2745's editor quote in the RoyalMTL's credits page; Nagumo is named in the credits as the winner of the Nagumo-Yagami match.
+- **Relationship · Ichinose Honami** (p.37) — Asahina tells Ayanokōji about Nagumo's plan to pick one student from the winning class; Ichinose is the likely target.
+- **Relationship · Ryūen Kakeru** (p.30) — Ryūen chose Horikita because Nagumo refused to fight.
+- **Relationship · Yagami Takuya** (p.167) — Yagami names Nagumo in the student-council meeting notes.
+
+#### p.31–32 — The Class A maze; the pre-opening
+
+Rumors fly: 3rd-year Class A will rent out gymnasium space for a combined “haunted house” and “maze” exhibit — as if they had no intention of hiding it from the start; the class consensus was to let him do what he wants; winning was secondary. The pre-opening is held over several days — his class's exhibit is being shown to the invited guests to gauge the quality; the gymnasium, with its dimmed lights, has a slightly frightening atmosphere.
+
+- **Caveat** (p.31) — “Perhaps it wasn't Nagumo's plan, but the consensus of the class was to let them do what they want. They were handling the festival in a way that made others think that winning was secondary.” — the narration.
+- **Mentioned** (p.32) — The production is clearly hand-made and still in production; third-year students also weren't able to proceed smoothly, perhaps because it was the first day.
+- **Relationship · Ichinose Honami** (p.32) — She attends the pre-opening scouting with Kanzaki.
+- **Relationship · Kanzaki Ryūji** (p.32) — Kanzaki scouts the maze and reports its scale.
+
+#### p.44–53 — The negotiation: a match and a favor
+
+Ayanokōji arrives at the student council room — the place he doesn't usually visit; his cell phone in his left hand; the door slammed; the air passed in silence; he urges a chair.
+
+- **Spoken** (p.44–45) — “I waited for you because Nazuna insisted on giving you some time, but I'm not going to assume anything. So, are you here for the student council or for me?” — Nagumo.
+- **Spoken** (p.45) — “Well, in that case, I can only commend you for showing your face in front of me. Don't you think so, Ayanokōuji?” — Nagumo; the Ayanokōuji spelling is printed as is.
+- **Spoken** (p.45) — “Don't give me that shit, man. I saw you at Keyaki Mall the next day and you looked fine.” — Nagumo.
+- **Spoken** (p.45) — “That's a blatant lie.” — Nagumo.
+- **Spoken** (p.45) — “Truth or lie, I don't really care anymore. Anyway, let me hear your reason for coming here.” — Nagumo.
+- **Spoken** (p.45) — “You told me before you had no business with me, the student council president. If I wanted to, I could choose to have no business with you too, right?” — Nagumo.
+- **Spoken** (p.45) — “Sorry, I don't have anything to drink.” — Nagumo.
+- **Spoken** (p.46) — “I'm also getting stories up here that some stupid class had their event exposed.” — Nagumo.
+- **Spoken** (p.46) — “He was pressing me to bet tens of millions of points with him.” — Nagumo telling Ayanokōji.
+- **Spoken** (p.46) — “Yeah, well, the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival. So, there's no need for me to give out any instructions. They can go and make memories during their final moments in high school.” — Nagumo.
+- **Spoken** (p.46) — “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo.
+- **Spoken** (p.46) — “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
+- **Spoken** (p.46) — “No one can complain to me, ’cause if they do, their Class A status will no longer be guaranteed. When the festival gets closer, I, or rather the student council, will make a not-so-bad proposal. A little help for a class that's struggling to win.” — Nagumo.
+- **Spoken** (p.46) — “Well, I'm the student council president, after all.” — Nagumo.
+- **Spoken** (p.46) — “Come on, tell me what you came here for.” — Nagumo.
+- **Spoken** (p.47) — “I don't exactly believe that.” — Nagumo.
+- **Spoken** (p.47) — “I know that very well.” — Nagumo.
+- **Spoken** (p.47) — “I don't know. I'm sure it's not because you're scared of my ability.” — Nagumo.
+- **Spoken** (p.47) — “Sure. But that's just a front, isn't it?” — Nagumo.
+- **Spoken** (p.47) — “If someone else said what I just heard from your mouth, I might've gotten angry.” — Nagumo.
+- **Spoken** (p.47) — “Nah, you don't need to apologize. If you feel that way, that's your business. I'm the one who made you speak your mind,” — Nagumo stated.
+- **Spoken** (p.47) — “But still, if it wasn't you who said that, I'm sure I would've changed their mind right away.” — Nagumo quickly added.
+- **Spoken** (p.48) — “I'm not sold, this isn't like you.” — Nagumo.
+- **Spoken** (p.48) — “I don't know when exactly this change of heart came, but it's too late. You ran away from the last chance I gave you at the sports festival. If I may borrow words from your true feelings, you weren't interested. Isn't that right?” — Nagumo.
+- **Spoken** (p.48) — “Yeah, you're right. After having given up three opportunities, and now being asked to play a game on the grounds of a change of heart, there's no way I can honestly say yes.” — Nagumo.
+- **Spoken** (p.48) — “And, get this, it's the same as what you said earlier about the sports festival. You said you were sick the whole time. I've decided that's an obvious lie. Besides, don't tell me you've forgotten about what happened on the island.” — Nagumo.
+- **Spoken** (p.48) — “You aren't funny Ayanokōji. It wouldn't ever be the same knockout. There's a huge difference in value between you and me.” — Nagumo.
+- **Spoken** (p.48) — “Well, I'm going to shelve it because there's no point in getting into it now. Understand this, Ayanokōji. I'm allowed to challenge you to a fight, but you're not allowed to challenge me to a fight.” — Nagumo.
+- **Spoken** (p.49) — “You really are strange. You don't show any sign of timidity when dealing with me. No, it's not only against me, but also against Horikita-senpai.” — Nagumo.
+- **Spoken** (p.49) — “Oh, man. If I were to play a game with you, what would you do? It's almost the third semester of the school year, and we already passed the second semester's halfway point. As you probably know by now, I gave all the power to my classmates to compete for sales at the school festival. I can't ask them to give it back now. On the other hand, even if I wait for the next special exam, there's no guarantee that there will be a competition between all the grades.” — Nagumo.
+- **Spoken** (p.49) — “Above all, you're well aware of the difficulty of competing in earnest between different grades, as you and the former student council president know, don't you?” — Nagumo.
+- **Spoken** (p.49) — “More than anyone else. How hard do you have to work to adjust? Because of you, not just this year, last year too, the match with Horikita-senpai didn't happen.” — Nagumo.
+- **Spoken** (p.49) — “I don't know if we can achieve a 100% perfect match, but I think this can become a reality.” — Nagumo.
+- **Spoken** (p.50) — “I see. I was planning to shake you up at that time, but instead of getting upset, you decided to take advantage of it.” — Nagumo.
+- **Spoken** (p.50) — “Alright, tell me the main issue. I'll think about whether or not I'll accept the proposal after that.” — Nagumo.
+- **Spoken** (p.50) — “I'd be happy to accept your proposal, but...” — Nagumo.
+- **Spoken** (p.50) — “But what's your real purpose?” — Nagumo.
+- **Spoken** (p.50) — “I don't believe it for a second.” — Nagumo.
+- **Spoken** (p.50) — “I understand what you're telling me. But that's not a proposal based on your desire to compete with me. You brought up the idea of a match because you had no choice but to control what you wanted to happen. Am I right?” — Nagumo.
+- **Spoken** (p.50) — “You're an honest guy.” — Nagumo.
+- **Spoken** (p.50) — “You're a joke. You asked for a match, and now you're being so brazen.” — Nagumo.
+- **Spoken** (p.50) — “Do you think I'm going to play along with you and give you what you want?” — Nagumo.
+- **Spoken** (p.51) — “I doubt it. If it's a random guy, you'd probably leave him for dead, but if it's Karuizawa Kei?” — Nagumo.
+- **Spoken** (p.51) — “It doesn't sound like you're bluffing. It seems like… you really mean it.” — Nagumo.
+- **Spoken** (p.51) — “If I want to fuck you over, which I deeply do, I have no choice but to accept your current proposal.” — Nagumo.
+- **Spoken** (p.51) — “Okay, I'll take your word for it, Ayanokōji. My graduation from Class A is unassailable anyway. It's not a bad idea to end up playing with you.” — Nagumo.
+- **Spoken** (p.51) — “But are you sure you want to do this? If I do what you suggest, then... no matter how it turns out, people will be hurt.” — Nagumo.
+- **Spoken** (p.52) — “You knew?” — Nagumo.
+- **Spoken** (p.52) — “So you're saying that it's not only Karuizawa, but also Honami...” — Nagumo.
+- **Spoken** (p.52) — “I take back my comment about playing around. You are the only one that Horikita-senpai recognized. I've been able to make sure of that.” — Nagumo.
+- **Spoken** (p.52) — “Man, I'll admit that you've got a real poker face. I also understand that you negotiated diligently to get me into your deal. So, let me hear your true feelings for once. Even if I was serious about getting Karuizawa to drop out of school, would you have stood by and watched?” — Nagumo.
+- **Spoken** (p.52) — “That's not an answer. The answer you're giving is to the likeness of classmates. What I'm saying is that I didn't feel any anxiety about the disappearance of Karuizawa, who's very special to you.” — Nagumo.
+- **Spoken** (p.52) — “You have loose screws, Ayanokōji.” — Nagumo.
+- **Trait** (p.44–53) — He accepts the match and the favor, but Ayanokōji's cold sincerity rattles him; the negotiation settles into a future contest.
+- **Relationship · Ayanokōji Kiyotaka** (p.44–53) — He accepts the match and the favor.
+- **Relationship · Karuizawa Kei** (p.51) — He threatens Kei to sway Ayanokōji — it fails.
+
+#### p.72–73 — The preliminary festival announcement — his "not-so-bad proposal"
+
+- **Mentioned** (p.72) — "This was probably what Nagumo meant last week, when he said that the student council would make a not-so-bad proposal." — the bulletin board announced the rehearsal the day before the festival — a separate proposal, "A little help for a class that's struggling to win" — the source was the student council president.
+- **Rule** (p.72–73) — Preliminary festival: participation optional; each class reimbursed on receipts via the student council budget; a quota of several tens of thousands of points for each class.
+- **Relationship · Horikita Suzune** (p.72) — Horikita attends the bus discussion of the rehearsal announcement.
+
+#### p.78–83 — The student council meeting: suspension over the Kishi rumor
+
+§2 — the student council room; Nagumo arrives; the members are already there except him; the air tenses; a council meeting begins.
+
+- **Spoken** (p.78) — “The meeting will begin immediately. Take your seats.” — Nagumo.
+- **Spoken** (p.78) — “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
+- **Spoken · Ichinose Honami** (p.78) — “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose reports.
+- **Spoken · Kiriyama Ikuto** (p.78–79) — “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student …  council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
+- **Spoken** (p.79) — “It's just an idea. I thought starting a little earlier would make the juniors happy.” — Nagumo replied without any particular apology.
+- **Caveat** (p.79) — Then there was a sudden silence; Nagumo had his arms crossed and his eyes closed — "It was obvious that he was holding back his anger."
+- **Spoken** (p.79) — “Listen, I heard a strange rumor.” — Nagumo.
+- **Caveat** (p.79) — “Um, what's wrong, Nagumo-senpai...?” — printed untagged (Ichinose or Kiriyama); not assigned.
+- **Caveat** (p.79) — “Rumor...?” — printed untagged; not assigned.
+- **Spoken** (p.79) — “It's not proven, but there was a guy, Kishi, who said that I was betting a lot of money to get certain students expelled from school.” — Nagumo.
+- **Spoken · Ichinose Honami** (p.79) — “What? What do you mean?” — Ichinose.
+- **Caveat** (p.79) — “Who told you that nonsense?” — printed untagged; not assigned.
+- **Spoken** (p.79) — “Someone from your class, Kiriyama.” — Nagumo.
+- **Spoken · Kiriyama Ikuto** (p.79) — “From my class?” — Kiriyama.
+- **Spoken** (p.79) — “It's just a rumor from my friends, though it wouldn't be strange if you were aware of it.” — Nagumo.
+- **Spoken · Kiriyama Ikuto** (p.79) — “Sorry, that's news to me. I don't understand why you would bet a lot of money to get someone expelled in the first place.” — Kiriyama.
+- **Spoken** (p.79–80) — “It's just a rumor. But I'm not willing to sit idly by and let the accusations against me go unchallenged.” — Nagumo.
+- **Spoken** (p.80) — “The student council will be suspended for a while.” — Nagumo.
+- **Spoken · Ichinose Honami** (p.80) — “Suspended...?” — Ichinose was surprised by this unexpected proposal.
+- **Caveat** (p.80) — “The student council used to meet like this once a week and repeatedly discuss various topics … … It was unusual to suspend them during the regular school year.” — narrated.
+- **Spoken** (p.80) — “We're done discussing the cultural festival, too. There shouldn't be any problems.” — Nagumo.
+- **Caveat** (p.80) — “Are you going to look for the culprits?” — printed untagged; not assigned.
+- **Spoken** (p.80) — “Of course, we'll look for them thoroughly. The next meeting will be held after the festival.” — Nagumo.
+- **Relationship · Horikita Suzune** (p.78–83) — Horikita-senpai attends the meeting; she leaves with the letter for Nagumo.
+- **Relationship · Kiriyama Ikuto** (p.78–79) — The Kishi rumor; the thorny remarks.
+- **Relationship · Ichinose Honami** (p.78–80) — She reports the rehearsal decision; surprised by the suspension.
+- **Relationship · Yagami Takuya** (p.78–83) — The secretary keeps the logs; Nagumo brought the rumor; they talk after the meeting.
+
+#### p.169 — The door opens — “Oh shit, this is quite an unusual situation”
+
+At 3:00 in the festival, Nagumo opened the door to the student council room, where no one was supposed to come — only Yagami-kun didn't change his attitude, but Ibuki-san and Horikita were terribly surprised. “Wait, please. What in the world is going on all of a sudden? Why would I do such a thing?” — Yagami-kun.
+
+- **Spoken** (p.169) — “Oh shit, this is quite an unusual situation, isn't it?” — the one who showed up was Student Council President Nagumo.
+- **Spoken · Horikita Suzune** (p.169) — “Student council president, why are you here ……?” — Horikita.
+- **Spoken** (p.170) — “What is this about?” — Nagumo.
+- **Caveat** (p.170) — By "this" he meant mainly that Ibuki-san was restraining Yagami-kun.
+- **Spoken** (p.170) — “If it took two girls to bully a junior student, that's a big problem, man.” — Nagumo; Ibuki-san couldn't continue restraining him, so she released Yagami-kun with both hands.
+- **Spoken · Yagami Takuya** (p.170) — “Thank you for saving me, Student Council President Nagumo.” — Yagami-kun looked calm and fixed his ruffled uniform.
+- **Caveat** (p.170) — What was with Yagami-kun's calm demeanor, as if he had known that the student council president was coming?
+- **Spoken** (p.170) — “Then, let's ask you to explain why you're here without permission.” — Nagumo.
+- **Caveat** (p.170) — If she said she lost her notebook, Yagami-kun might've pointed out that she was lying; on the other hand, if she brought up the subject of the notes, the story would spread to Student Council President Nagumo.
+- **Spoken · Yagami Takuya** (p.170) — “Horikita-senpai s … eemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
+- **Spoken** (p.170) — “I see, so that's the reason for the restraint.” — Nagumo.
+- **Spoken** (p.170) — “I think the misunderstanding has been cleared up, and I don't particularly …  intend to make an issue of it.” — Nagumo.
+- **Spoken** (p.170) — “Then there's no need for further mention. So, did you find the notebook?” — Nagumo.
+- **Spoken · Horikita Suzune** (p.170) — “No, I did not find it. This was the last place I placed it. Maybe I mistook it for trash and threw it away. I'll just give up.” — Horikita.
+- **Caveat** (p.170) — Although he could check himself, he probably didn't care about the whereabouts of the notebook; the student body president looked away from her, as if he wasn't interested, and then sat down in his usual seat.
+- **Spoken** (p.170) — “Whatever the reason, this isn't something you should be doing in the middle of a cultural festival. Break it up now.” — Nagumo.
+- **Caveat** (p.170) — Even if she persisted here, she could no longer see the meeting notes; she just had to back off quietly for now.
+- **Caveat** (p.170) — With that thought in mind, she was about to leave the room with Ibuki-san, but then...
+- **Spoken · Yagami Takuya** (p.170) — “By the way, Student Council President Nagumo, how did you know we were here?” — Yagami-kun asked such a question beside her and Ibuki-san.
+- **Spoken** (p.171) — “Are you curious?” — Nagumo.
+- **Caveat** (p.170) — It was certainly unnatural; she didn't know if the student body president had a spare key or not, but he should have tried to open the door by inserting the key at least once; it was understandable to be suspicious that he entered the room so naturally without question; it was as if he knew from the beginning that something was going on.
+- **Caveat** (p.170) — Were Student Council President Nagumo and Yagami-kun planning to meet up here? If so, then Yagami-kun's prediction that the student body president would come would make sense. But, the exchange between the two was far from indicative.
+- **Spoken** (p.171) — “I'd be happy to answer you, but before I do, I wanted to ask Yagami-kun something too.” — Nagumo.
+- **Spoken · Yagami Takuya** (p.171) — “Me?” — Yagami.
+- **Spoken** (p.171) — “You remember the …  matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
+- **Spoken · Yagami Takuya** (p.171) — “Of course. I've been doing some digging on my end, but I haven't been able to find out where the rumors are coming from.” — Yagami.
+- **Caveat** (p.171) — She couldn't keep up with the sudden rehash of the story.
+- **Spoken** (p.170) — “But you know, don't you? Where the rumors are coming from.” — Nagumo kicked the underside of the desk lightly in frustration.
+- **Spoken · Yagami Takuya** (p.171) — “Pardon me?” — Yagami.
+- **Spoken** (p.171) — “I mean, you're the one who started them, aren't you?” — Nagumo.
+- **Caveat** (p.171) — Student Council President Nagumo kicked the underside of the desk lightly in frustration.
+- **Spoken · Yagami Takuya** (p.171) — “Wait, please. What in the world is going on all of a sudden? Why would I do such a thing?” — Yagami-kun.
+- **Caveat** (p.171) — Just as he was suspected by them, now he was suspected by Student Council President Nagumo; and it was completely unrelated.
+- **Spoken** (p.171) — “The reason for you doing it is quite clear. It was a special exam among first-year students where certain students were expelled for a prize money. You were one of the few who participated.” — Nagumo.
+- **Caveat** (p.171) — Yagami-kun's expression clouded slightly here; it contained irritation, just like Student Council President Nagumo's.
+- **Spoken · Yagami Takuya** (p.171) — “What do you mean, Student Council President Nagumo, what on earth are you talking about?” — Yagami.
+- **Spoken** (p.171) — “You denied it at the student council meeting, but it was a fact.” — Nagumo.
+- **Spoken · Yagami Takuya** (p.171) — “Well, you were involved too, weren't you?” — Yagami.
+- **Spoken** (p.171) — “But I didn't break any rules, you know? It's just school policy. I was standing in as student council president with Director Tsukishiro to maintain fairness. Am I right? Yagami.” — Nagumo.
+- **Caveat** (p.172) — There had been relentless special exams at this school, but she didn't think that was even possible.
+- **Spoken · Yagami Takuya** (p.172) — “Wasn't it a rule not to talk about that special exam and its participants?” — Yagami.
+- **Spoken** (p.172) — “You broke that rule first, didn't you?” — Nagumo.
+- **Spoken · Yagami Takuya** (p.172) — “It wasn't me. There is no merit in embarrassing Student Council President Nagumo. Besides, there were several other first-year students who received the same explanation.” — Yagami.
+- **Spoken** (p.172) — “Well, yeah. But you showed up here. It's tempting to speculate.” — Nagumo.
+- **Spoken · Yagami Takuya** (p.172) — “That's just a coincidence.” — Yagami.
+- **Caveat** (p.172) — Student Council President Nagumo was facing Yagami-kun, but changed his gaze to them.
+- **Spoken** (p.172) — “You guys go back now. I'll talk to Yagami from here.” — Nagumo.
+- **Spoken · Horikita Suzune** (p.172) — “I did not know about that matter, but please allow me to speak.” — Horikita.
+- **Spoken · Yagami Takuya** (p.172) — “Horikita-senpai … , what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; “I covered for you earlier, return the favor” he seemed to be saying; she had to ignore such a gaze.
+- **Spoken** (p.172) — “Tell me.” — Nagumo.
+- **Spoken · Horikita Suzune** (p.172) — “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was …  following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
+- **Spoken** (p.172) — “You think so, Suzune? Is this true, Yagami?” — Nagumo.
+
+#### p.172–183 — The anagram; the trap; the exit
+
+Yagami-kun's expression hardened as he was caught between the two sides, but then he exhaled in irritation. At 3:00 p.m. the room had been surrounded by Ryūen-kun, Komiya-kun and others who unexpectedly appeared as well as the teachers. “So much for this. A lot of things have gone wrong, but I guess we've settled the matter once and for all.” — Nagumo.
+
+- **Spoken · Yagami Takuya** (p.172) — “I understand. You two were working together from the beginning, weren't you? From the moment you handed me that letter disguised as a love letter, you decided to force me into a corner here, didn't you?” — Yagami.
+- **Caveat** (p.172) — “The letter disguised as a love letter?” — printed untagged (Nagumo or Yagami); adjacent beats suggest Nagumo repeats the phrase, stunned; not assigned.
+- **Caveat** (p.172) — “You mean this one?” — printed untagged (the same exchange); not assigned.
+- **Caveat** (p.172) — Student Council President Nagumo took out from his pocket the love letter Horikita had received from Ichihashi-san.
+- **Caveat** (p.172) — What did he mean by a letter disguised as a love letter?
+- **Spoken** (p.172) — “I don't understand. It's just a love letter from an unknown sender, with true feelings for me written on it.” — Nagumo.
+- **Spoken · Yagami Takuya** (p.172–173) — “No, it's not. The letter is indeed a love letter at first glance, but it says, “Cultural Festival, 3:00 p.m., Student Council Room.” Other words like “important,” “expulsion,” and “secret” are everywhere. No?” — Yagami.
+- **Caveat** (p.173) — Opening the already sealed letter, Student Council President Nagumo looked it over.
+- **Spoken** (p.173) — “Where is that written? I have no idea.” — Nagumo; with that, Student Council President Nagumo moved to hand her the love letter.
+- **Spoken · Horikita Suzune** (p.172) — “Excuse me.” — Horikita; she borrowed the letter and look through the contents but couldn't find the letter Yagami-kun mentioned anywhere.
+- **Caveat** (p.173) — Ibuki-san was also curious and took a peek at the note, but her reaction was the same as theirs; such was the content:
+- **Caveat** (p.173) — “[I want you to forgive me for confessing without telling you my name. I have always loved you.]” — the letter's full text.
+- **Spoken · Yagami Takuya** (p.173) — “Please stop playing games. If you analyze the anagrams, you will find the truth.” — Yagami-kun.
+- **Spoken · Horikita Suzune** (p.173) — “What's an anagram?” — Horikita; unlike Ibuki-san, she didn't understand the meaning of the word itself.
+- **Caveat** (p.173) — An anagram is a rearrangement of letters to change their meanings; a play on words.
+- **Spoken** (p.173) — “You are very clever, Yagami. Apparently neither Suzune nor I can analyze …  anagrams right away, right?” — Nagumo.
+- **Spoken** (p.173) — “Could it have been written by one of you two? Or was it someone you know in common?” — Nagumo.
+- **Spoken · Yagami Takuya** (p.173) — “Common acquaintance? Who the hell are you talking about?” — Yagami.
+- **Spoken · Yagami Takuya** (p.173) — “I don't know that. But you can trust that I followed the anagram to this place.” — Yagami.
+- **Caveat** (p.173) — If that was so… no, he said something completely strange.
+- **Spoken** (p.173) — “I don't care at this point if it's an anagram or not. How do you know in advance what's in this love letter? You read it before you handed it to me, right?” — Nagumo.
+- **Spoken · Yagami Takuya** (p.173) — “It's from coincidence. When I dropped the letter, the seal came off and the contents came out. I wasn't supposed to look at it, but I couldn't resist looking through it.” — Yagami.
+- **Spoken · Horikita Suzune** (p.173) — “That's not very good behavior for a member of the student council.” — Horikita.
+- **Spoken · Yagami Takuya** (p.173) — “You checked inside because you usually have bad morals, right? I had a hunch that I was being set up in some kind of trap.” — Yagami.
+- **Spoken · Horikita Suzune** (p.173) — “It doesn't sound like we can quite believe your words at the moment.” — Horikita.
+- **Caveat** (p.173) — The world as she saw it, the world as Yagami-kun saw it, and the world as President Nagumo saw it; she couldn't help but feel that they were all slightly different from each other.
+- **Caveat** (p.173) — It was bad enough that Yagami-kun read the letter without permission; the fact that he spread a bad rumor about Student Council President Nagumo, not to mention the ambiguous meeting notes, made it worse.
+- **Caveat** (p.173) — Yagami-kun looked at her and Student Council President Nagumo alternately and gave a small laugh.
+- **Spoken · Yagami Takuya** (p.174) — “Isn't it about time for you to answer the question? The truth is, you all already know, don't you?” — Yagami-kun.
+- **Spoken · Yagami Takuya** (p.174) — “Horikita-senpai, you were shown the meeting notes, associated the paper with the one you received during the uninhabited island, and thought I was the culprit. Then you gave a letter to Student Council President Nagumo, disguised as a love letter, and secretly sent him a message.” — Yagami-kun.
+- **Caveat** (p.174) — For some reason, he started mentioning the notes and paper himself, which he had not mentioned up to this point.
+- **Spoken · Yagami Takuya** (p.174) — “Why do you have to go through all that trouble? You could have just called or chatted. Isn't it so you don't leave evidence that you suspect me? You can make any number of requests with this letter disguised as a love letter. And Student Council President Nagumo would be willing to go over the meeting records with you to determine if I am the person Horikita-senpai is looking for.” — Yagami.
+- **Spoken** (p.174) — “The island? The Notes? The person Suzune is looking for? What are you talking about?” — Nagumo.
+- **Spoken · Yagami Takuya** (p.174) — “Are you still going to continue your act, Student Council President Nagumo? I already know that you and Horikita-senpai are acting under the direction of a certain person. Everything is under the direction of Ayanokōji-senpai, who created the anagram of this letter, isn't it? I feel bad for him. I'm sure he had already arrived at this conclusion far before I even had to show you the notes, Horikita-senpai.” — Yagami-kun.
+- **Spoken** (p.174) — “Why is Ayanokōji-kun's name mentioned here?” — Nagumo.
+- **Spoken · Yagami Takuya** (p.174) — “He's going around a lot, isn't he? I thought he didn't like to be publicized, but I didn't expect him to contact me in this way.” — Yagami.
+- **Spoken · Yagami Takuya** (p.174) — “So what happens after this? Are we finally going to meet Ayanokōji-senpai?” — Yagami-kun looked at the doorway like a child with a toy gift box in front of him.
+- **Spoken · Yagami Takuya** (p.174) — “I'm impatient. Can you tell me what you have heard about me before he arrives? I would especially like to hear it from your mouth, Horikita-senpai.” — Yagami.
+- **Spoken · Horikita Suzune** (p.174) — “Wait. I really don't know what you are talking about. I suspected that you came to my tent and put the letter in there, but I only talked to Ibuki-san about it.” — Horikita.
+- **Caveat** (p.174) — Even when she told him the truth, Yagami-kun did not seem to believe her.
+- **Spoken** (p.174) — “Explain it to me so I can understand, Yagami.” — Nagumo.
+- **Spoken · Yagami Takuya** (p.175) — “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have …  thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
+- **Caveat** (p.175) — Nagumo pulled out his cell phone and turned the screen toward them; a phone number was displayed, as if there was an incoming call from someone.
+- **Spoken** (p.175) — “Looks like you've arrived. Come in.” — Nagumo; the other end of the phone hung up.
+- **Spoken · Yagami Takuya** (p.175) — “Ha-ha-ha! I knew Ayanokōji-senpai was here! I'm so happy!” — Yagami-kun.
+- **Caveat** (p.175) — “It seems I'm a little unexpected.” — the first to react was not her, Student Council President Nagumo, or Yagami-kun, but Ibuki-san.
+- **Spoken · Ibuki Mio** (p.175) — “What? Ryūen? What are you doing here?” — Ibuki-san.
+- **Caveat** (p.175) — Ryūen-kun was not the only one who showed up; two of his classmates also showed up.
+- **Spoken · Ryūen Kakeru** (p.175) — “Oh, you look pretty good in that outfit, Ibuki. What do you think, Kinoshita?” — Ryūen.
+- **Spoken · Kinoshita Minori** (p.175) — “Honestly. I think you look cute with your little bow.” — Kinoshita.
+- **Spoken · Ibuki Mio** (p.175) — “What? Wait, Komiya? And even Kinoshita is...?” — Ibuki-san.
+- **Caveat** (p.175) — Sakagami-sensei and Mashima-sensei also showed up later in the student council room.
+- **Caveat** (p.175) — Student Council President Nagumo stood up and forced the letter onto Yagami-kun's chest.
+- **Spoken** (p.175) — “Anagrams masquerading as love letters, secret notes, this doesn't make any sense to me, Yagami.” — Nagumo.
+- **Caveat** (p.175–176) — “I came to the student council room to talk to Ryūen and the others. Isn't that right?” — printed (Nagumo); flagged untagged.
+- **Caveat** (p.175–176) — “Yeah, that was the plan, but were you in the middle of taking them in?” — printed (Yagami); flagged untagged.
+- **Spoken · Yagami Takuya** (p.176) — “This can't be true... what's going on?” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.176) — “This is the one you guys were talking about, right?” — Ryūen.
+- **Spoken · Komiya Kyogo** (p.176) — “Yes, sir. I'm sure of it.” — Komiya.
+- **Spoken · Kinoshita Minori** (p.176) — “Yes. I'm sure.” — Kinoshita.
+- **Spoken · Ryūen Kakeru** (p.176) — “I'm going to have to have a long talk with you, aren't I?” — Ryūen.
+- **Spoken · Yagami Takuya** (p.176) — “About what?” — Yagami.
+- **Caveat** (p.176) — Ryūen-kun laughed, extended his right arm, and suddenly grabbed Yagami-kun by the bangs.
+- **Spoken · Mashima Tomonari** (p.176) — “Ryūen!” — Mashima-sensei.
+- **Spoken · Ryūen Kakeru** (p.176) — “Yo, what's your name again?” — Ryūen.
+- **Spoken · Yagami Takuya** (p.176) — “Yagami, Yagami Takuya, Ryūen-senpai.” — Yagami.
+- **Caveat** (p.176) — Ryūen-san pulled up his hair and Yagami-kun's face changed to one of anguish.
+- **Spoken · Ryūen Kakeru** (p.176) — “So you're Yagami. I heard you're the one who took care of Komiya and Kinoshita.” — Ryūen.
+- **Spoken · Yagami Takuya** (p.176) — “What do you mean? I don't understand.” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.176) — “Don't play dumb. Komiya and Kinoshita reminded me just the other day. The reason they got seriously injured during the desert island test was because you violently attacked them.” — Ryūen.
+- **Caveat** (p.176) — Severe injuries on a deserted island; they were seriously injured with broken bones.
+- **Spoken · Yagami Takuya** (p.176–177) — “Me? What in the world is going on?!” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.176–177) — “These guys had lost their memories due to the shock of their injuries, but once it was put away as an accident, they remembered. They remember now that you were the culprit.” — Ryūen.
+- **Spoken** (p.176) — “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo; as if in response to this statement, Student Council President Nagumo also commented.
+- **Spoken** (p.176) — “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
+- **Spoken** (p.176–177) — “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
+- **Spoken · Mashima Tomonari** (p.177) — “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei.
+- **Spoken · Yagami Takuya** (p.177) — “Hey, what are you saying? I didn't do anything!” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.177) — “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
+- **Spoken · Yagami Takuya** (p.177) — “He couldn't remember, but later he remembered and gave my name? That's impossible! It's obvious that the two of them must have talked past each other to come up with my name!” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.177) — “Mutual back-channeling? The fact that your watch was broken is a fact that the average student does not know.” — Ryūen.
+- **Caveat** (p.177) — Over 400 people were taking the test on a deserted island; two of them were wearing watches with broken GPS at the time they were injured.
+- **Spoken · Ryūen Kakeru** (p.177) — “They recall seeing the culprit. What's your basis for your doubts about their claims? Tell me.” — Ryūen.
+- **Caveat** (p.177) — With more strength in his fingertips, Ryūen-kun pulled on Yagami-kun's hair.
+- **Spoken · Yagami Takuya** (p.177) — “Gghh! That's...” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.177) — “‘No one could have seen me, I must have done it perfectly well.’ That's what you think, right?” — Ryūen.
+- **Spoken · Yagami Takuya** (p.177) — “Well, wait a minute. I didn't do anything. Do you think I'm capable of such a terrible thing?” — Yagami.
+- **Caveat** (p.177) — Yagami-kun was not a big man; to the casual observer, it would seem strange; but Ryūen-kun didn't trust Yagami-kun's words at all.
+- **Spoken · Ryūen Kakeru** (p.177) — “I've learned from the past that the ones who look harmless are the most troublesome. Isn't that right, Ibuki?” — Ryūen.
+- **Spoken · Ibuki Mio** (p.177) — “No doubt, this guy is strong. He can at least seriously injure Komiya and the others without them noticing.” — Ibuki-san.
+- **Spoken · Ryūen Kakeru** (p.177) — “Normally, I'd have you suffer an equal or greater injury to avenge our enemy, but unfortunately, we're in front of Sensei. I'll give you a break. What awaits you is nothing but expulsion.” — Ryūen.
+- **Caveat** (p.177) — If the facts were confirmed and it was proven that Yagami-kun caused serious injury to Komiya-kun and the others, that it would be more than a suspension; expulsion was inevitable, even with no extenuating circumstances.
+- **Spoken** (p.178) — “So? What are you doing here, Suzune?” — Ryūen.
+- **Spoken · Horikita Suzune** (p.178) — “I had some research to do on Yagami-kun too.” — Horikita.
+- **Spoken · Ryūen Kakeru** (p.178) — “Oh? What's that?” — Ryūen.
+- **Caveat** (p.178) — She told them what had happened on the deserted island, that she had been looking for a student with beautiful handwriting, that she had come here to check the notes because they were similar to Yagami-kun's; she pulled out the notebook and opened it to Yagami-kun's page.
+- **Spoken · Horikita Suzune** (p.178) — “The handwriting and Yagami-kun's handwriting are almost identical. It also matches my memory.” — Horikita.
+- **Spoken** (p.178) — “Let me ask you to explain what this means, Yagami.” — Student Council President Nagumo asked, even though he didn't have a full grasp of what's going on.
+- **Caveat** (p.178) — The only thing that was certain was that something mysterious was going on in this place; while all of them were related to Yagami-kun, there wasn't a definitive key.
+- **Caveat** (p.178) — There was no one who could be the most important key; how was such a thing possible? what if it had all started with that one love letter... and she entrusted it to Yagami-kun, and Yagami-kun saw what was inside, too?
+- **Caveat** (p.178) — They knew for sure that Yagami-kun would analyse the anagram inside of it... but they didn't know that she had seen Yagami-kun's notes; she was an outsider, and Ibuki-san was an outsider with her; even if Ibuki-san and she were not here, this sequence of events would've continued; Yagami-kun, who was lured by the letter and came to the student council room, would have been questioned by President Nagumo.
+- **Caveat** (p.178) — But was such a thing possible? Even if it were possible, who would do it? When and where?; no, this kind of question itself may be wrong; it would not be at all surprising... if Ayanokōji-kun was behind this event.
+- **Spoken · Ryūen Kakeru** (p.180) — “Kuku, I'm surprised too, but I can't help it. He was playing with fire too much.” — Ryūen.
+- **Caveat** (p.180) — “I don't know what kind of background you have, but you're trapped.” — printed untagged; not assigned.
+- **Spoken · Yagami Takuya** (p.180) — “Why is this happening, this is beyond stupid.” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.180) — “Shut up. Don't yell so close to me, you little bitch.” — Ryūen.
+- **Caveat** (p.180) — In a clear sign of change, Ibuki-san jumped toward Yagami-kun from behind just as he was about to take a bold step toward Ryūen-kun; “Guh!” — just one shot and Ibuki-san crumpled to the ground, unable to stand up.
+- **Spoken · Mashima Tomonari** (p.180) — “Stop it, Yagami!” — Mashima-sensei.
+- **Spoken · Ryūen Kakeru** (p.180) — “Pull back. He's not fucking around. Guess it's time for me to step up, isn't it?” — Ryūen.
+- **Spoken · Yagami Takuya** (p.180) — “Oh my god, you can't stop me. I'm not going to tolerate anyone who stands in front of me from now on.” — Yagami.
+- **Spoken · Ryūen Kakeru** (p.180) — “Kuku. So that's your true nature. That's funny, isn't it?” — Ryūen.
+- **Spoken · Ryūen Kakeru** (p.180) — “I'll gladly stand in your way, so come at me. You're only a punk.” — Ryūen.
+- **Spoken · Mashima Tomonari** (p.181) — “Stop it, Yagami. And Ryūen, too. If you cause a commotion here, it will be a serious penalty.” — Mashima-sensei.
+- **Spoken · Yagami Takuya** (p.181) — “My expulsion is 100% inevitable. If that's the case, there's no reason to stop it, right Mashima?” — Yagami.
+- **Caveat** (p.181) — “Get lost.” He kicked Mashima-sensei in the knee, and when he staggered over, he slammed his fist into his face.
+- **Caveat** (p.181) — Sakagami-sensei witnessed it up close and took a frightened step away.
+- **Caveat** (p.181) — Ryūen-kun, excited at the start of a perfect fight, was just about to jump on Yagami-kun.
+- **Spoken · Amasawa Ichika** (p.181) — “Let's stop now, Takuya.” — Amasawa appeared.
+- **Spoken · Yagami Takuya** (p.181) — “Ah? Why are you here?” — Yagami.
+- **Spoken · Amasawa Ichika** (p.181) — “What's it going to take for you to get any more out of control? Do you think that will make them accept you? They're already done with-” — Amasawa.
+- **Spoken · Yagami Takuya** (p.181) — “No, it's not! The instructors are waiting for me! I'm going to be the best!” — Yagami-kun.
+- **Caveat** (p.181) — Who are the instructors? At least she could guess that they were not the teachers of this school.
+- **Spoken · Yagami Takuya** (p.181) — “I was just going to close out the cultural festival today in an interesting way by exposing that guy's past, but he's done something absurd.” — Yagami.
+- **Caveat** (p.181) — “Takuya, I knew you were going to do that. ……” — printed untagged (Amasawa); flagged untagged.
+- **Spoken · Yagami Takuya** (p.181) — “Get out of my way; I'm going to make Ayanokōji regret it. I'll make it so funny you won't stop laughing.” — Yagami.
+- **Spoken · Amasawa Ichika** (p.181) — “If you insist on going to Ayanokōji-senpai, I'll stop you before you do.” — Amasawa.
+- **Spoken · Yagami Takuya** (p.181) — “You? You've never beaten me once. Don't make me laugh.” — Yagami.
+- **Spoken · Amasawa Ichika** (p.181) — “Maybe I can't beat you with force. But I'll give it a try.” — Amasawa.
+- **Spoken · Amasawa Ichika** (p.181) — “I knew you were devoted to Ayanokōji, but I didn't know you were that stupid.” — Amasawa.
+- **Caveat** (p.182) — “I just learned that a frog in a well doesn't know the ocean. It's just like that story we learned about before... Don't you remember?” — Amasawa had a sad look in her eyes.
+- **Caveat** (p.182) — Yagami-kun seemed to falter for a moment, before returning to his murderous gaze.
+- **Spoken · Yagami Takuya** (p.182) — “Then it's time for you to die. There is no reason for you to be alive.” — Yagami.
+- **Caveat** (p.182) — Five adults steped into the student council room with blank expressions on their faces; not all of them were recognizable, but two of the five were guests of honor who had also shown up at the maid cafe.
+- **Caveat** (p.182) — Yagami-kun, who had been untouchable until a moment ago, suddenly began to tremble.
+- **Spoken · Yagami Takuya** (p.182) — “W-why are you guys here? Hey, why...?” — Yagami-kun.
+- **Caveat** (p.182) — “We even got a call to come pick you up at the student council office. It wasn't exactly what we had in mind.” — printed untagged; flagged untagged.
+- **Caveat** (p.182) — Surrounded by adults, Yagami-kun was taken away without resistance; Amasawa-san walked with him.
+- **Spoken · Mashima Tomonari** (p.182) — “You people are...” — Mashima-sensei.
+- **Caveat** (p.182) — “We are related to Yagami and Amasawa. We will settle this situation, so please go ahead and get treated. Please do not tell anyone about what happened here, not even the teachers and students. Rest assured that we will pass everything on to Chairman Sakayanagi.” — printed untagged; flagged untagged.
+- **Caveat** (p.182) — “I understand.” — with Sakagami-sensei's help, Mashima-sensei left the student council room.
+- **Spoken · Ryūen Kakeru** (p.182) — “Get up Ibuki, let's pull out.” — Ryūen.
+- **Spoken · Ibuki Mio** (p.182) — “Come on, at least give me a hand!” — Ibuki.
+- **Caveat** (p.182) — Ryūen-kun gave instructions to Komiya-kun with his chin to Ibuki-san, who still could not stand up, and then lent her a hand and left the room.
+- **Caveat** (p.182) — Only me and Student Council President Nagumo were left in the Student Council Room.
+- **Spoken** (p.182) — “So much for this. A lot of things have gone wrong, but I guess we've settled the matter once and for all.” — Nagumo.
+- **Spoken · Horikita Suzune** (p.182) — “How much did you know about today's incident involving Ayanokōji-kun?” — Horikita.
+- **Spoken** (p.183) — “What are you talking about? As I said before, I just came here with the intention of talking to Ryūen.” — Nagumo.
+- **Spoken · Horikita Suzune** (p.183) — “Then you didn't need to bring that letter.” — Horikita.
+- **Caveat** (p.183) — The love letter remained crumpled and fallen on the floor in emptiness.
+- **Spoken** (p.183) — “To borrow Yagami's words, it was a coincidence. It just happened to be still in my pocket.” — Nagumo; a simple lie; there was nothing more to say, such was the notice from the student body president.
+- **Spoken** (p.183) — “The noisy festival is over. You too, go back.” — Nagumo.
+- **Caveat** (p.183) — “I understand.” — she turned to leave the room, and saw Nagumo settling into his chair, eyes closed, with a slight grin on his face.
+- **Trait** (p.169–183) — Nagumo runs the show: enters unasked (the only one with the key), tests Horikita's story with the notebook, announces the Kishi rumor to pressure Yagami, orders them all out, then calls Ryūen and the teachers into the room; he reveals the Kishi rumor's details after Sakagami-sensei shows up; he holds the letter and pretends coincidence; he ends with a grin.
+- **Relationship · Horikita Suzune** (p.169–183) — She pushes him about the rumor; he rebuffs her — she watches his grin at the end.
+- **Relationship · Yagami Takuya** (p.169–183) — He was one of the few who participated in the first-year special exam; Nagumo pressed him; the five adults took him away.
+- **Relationship · Ryūen Kakeru** (p.175–182) — Nagumo called Ryūen; he came with Komiya and Kinoshita; he leaves with Ibuki.
+- **Relationship · Amasawa Ichika** (p.181–182) — She arrives with the instructors; she walks out with Yagami; they are related.
+- **Relationship · Mashima Tomonari** (p.176–182) — He stood up in pain; he left with Sakagami's help.
+- **Relationship · Ibuki Mio** (p.175–182) — She speaks; he dismisses.
+
+### Year 2, Volume 8
+
+#### p.11-208 — nagumo-miyabi mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.11) — Passing mentions on pages: p.61, p.207.
+- **Mentioned** (p.11) — Passing mention only.
+
+#### p.61 — Passing-mention record
+
+- **Mentioned** (p.61) — "I had been in contact with Nagumo, Ryūen, and Horikita, several people who either knew of or suspected my involvement." (Ayanokōji, chronicling his suspects)
+
+#### p.207 — The credits: Nagumo > Ishigami
+
+- **Mentioned** (p.207) — BGS003's credit line: "Nagumo > Ishigami" — the illustrator's quip.
+
+### Year 2, Volume 9
+
+#### p.18–19 — The summons to the student council room
+
+Ayanokōji arrives to find Nagumo and Kiriyama already arguing; Kiriyama has called Horikita and Ichinose in as well. Kiriyama urges caution about rivals waiting to take Nagumo's place; Nagumo answers that those without tickets have already fallen.
+
+#### p.21–22 — The last act as president
+
+Nagumo cuts short the argument and makes conversation about the second-years' close race. He recalls his own final exams, in which three students still dropped out despite his efforts, then says it is time to name the next president.
+
+#### p.23–26 — The match and the twenty-million-point bet
+
+He reveals that he and Ayanokōji will decide which of Horikita and Ichinose becomes president, with one third of the votes at his discretion. Ayanokōji demands an anonymous ballot; Nagumo agrees and then demands stakes. Kiriyama objects to a twenty-million-point bet; Nagumo insists he is free to use the points as he pleases and sets the terms at expulsion or the money. The candidates arrive; Kiriyama warns them not to mention the match or the bet, and Nagumo keeps the arrangement from them.
+
+- **Spoken · Ayanokōji Kiyotaka** (p.25) — "If I win, I want to get some private points from you."
+
+#### p.27–28 — The public election
+
+Nagumo tells Horikita and Ichinose that they will compete in an election; Horikita endorses Ichinose without hesitation. He questions Ichinose's chances of graduating in Class A, and the two agree to run; he then asks Ayanokōji which candidate he will back.
+
+#### p.29–32 — Kiryūin's accusation
+
+Kiryūin forces her way in, puts her foot on a chair and demands to be heard first; the others let her speak. She asks whether Nagumo ordered Yamanaka to frame her for shoplifting; Nagumo refuses to answer directly and points out that only Yamanaka would be punished.
+
+- **Spoken · Kiryuin Fuuka** (p.33) — "I'm sorry for interrupting, but I want to talk about what you said earlier."
+- **Relationship · Kiryuin Fuuka** (p.29–33) — She bursts in and exposes the shoplifting order — he tries to "make a pass" at her but she's unmoved; "You are full of faults, but I appreciate what you said."
+
+#### p.33–35 — Ichinose withdraws; the match ends
+
+He moves to confirm the election; Ichinose announces she will not run, calling herself a criminal after Kiryūin's shoplifting words. With Ichinose gone from the council, Horikita will be president unopposed; Nagumo tells her so.
+
+- **Spoken** (p.35) — "It was impossible to replace Honami now."
+- **Relationship · Ichinose Honami** (p.33–35) — He wanted her in the election ("I don't get it") — her withdrawal frustrates him ("Damn it…").
+
+#### p.36–38 — Recruitment and the souvenirs
+
+He orders Horikita to fill Ichinose's vacancy with at least one second-year and enlists Ayanokōji's help. He accepts the Hokkaido souvenirs and calls Ayanokōji "very disciplined in a strange way."
+
+- **Spoken** (p.36) — "You're a student in Suzune's class. Please help me gather members for the student council."
+- **Relationship · Ayanokōji Kiyotaka** (p.24–37) — He loses his 20-million-point bet (Ichinose withdrew) but still ropes him into helping recruit.
+- **Trait** (p.18–38) — Steps down as president after arranging the election and the bet, refuses to acknowledge the shoplifting accusation without evidence, then hands the presidency to an unopposed Horikita.
+
+#### p.74–75 — Nagumo's farewell: regrets at the handover
+
+At the formal handover he pats the president's chair reluctantly, says the tenure was both long and short, and admits his regret — he wanted talented students to graduate in Class A across class lines but could not overturn the school's decisions; he tells Ayanokōji their battle is not over.
+
+- **Spoken** (p.74) — "Well, I guess I'm relieved of my duties as student council president now."
+- **Spoken** (p.74) — "It was both a long and short time. It's an indescribable feeling."
+- **Trait** (p.74–75) — Reflective and slightly wistful at leaving — he acknowledges the limits of the council's power, takes pride in the OAA/transfer-ticket system he introduced, and hints at unfinished business with Ayanokōji.
+- **Relationship · Horikita Suzune** (p.74) — Hands her the presidency; she notes his influence on the school's rules.
+- **Relationship · Ayanokōji Kiyotaka** (p.75) — Reminds him their battle is not over.
+
+### Year 2, Volume 9.5
+
+#### p.49-175 — Nagumo mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.49) — Passing mention (locator pages: p.49, p.52, p.56, p.57, p.120, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
+- **Mentioned** (p.49) — Passing mention only.
+
+### Year 2, Volume 10
+
+#### p.9-235 — nagumo-miyabi mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.9) — Passing mention (locator pages: p.234; not line-by-line verified; substring false positives possible). Not a scene presence.
+- **Mentioned** (p.9) — Passing mention only.
+
+### Year 2, Volume 11
+
+#### p.39 — Ch.2: The stacked group reveal
+
+The bus ride; the printout lists him.
+
+- **Caveat** (p.39) — “Um... Chabashira-sensei. May I ask a question?” — the Sonoda question; Nagumo's group is the example.
+- **Caveat** (p.39) — “Wow, it's true. Isn't Nagumo-senpai's group quite dangerous?” — Ike's line; the stacked group is public knowledge.
+- **Mentioned** (p.39) — Named in dialogue; not present on these pages.
+
+#### p.53–62 — Ch.2: The bet he sets before graduation
+
+Rest Area, just before one; drooping of boredom with Asahina; beckons Kiyotaka over; Asahina muscles into the sofa next to him.
+
+- **Spoken** (p.53) — “Need? Well, it's not much of a need, but I do have something to talk about.”
+- **Spoken** (p.54) — “Many of us third-years are dealing with exams and job hunting at this time.”
+- **Spoken** (p.55) — “Do you want to know?”
+- **Spoken** (p.55) — “I'm going to university. I have no intention of using the Class A privilege.”
+- **Spoken** (p.55) — “That’s one of the reasons I dominated the third-year and became an overwhelming presence. Whether I'm in Class B or Class D at graduation, I believe I can get into the university I want and get a job at the company I desire with my own power.”
+- **Spoken** (p.56) — “Do you know why Horikita Suzune joined the student council, Nazuna?”
+- **Spoken** (p.56) — “This guy right here. Ayanokōji was using Suzune to keep an eye on me.”
+- **Spoken** (p.57) — “Horikita-senpai did pass the baton to me, after all.”
+- **Spoken** (p.57) — “I can assume you're willing to accept a match with me, right?”
+- **Spoken** (p.57) — “Actually, calling it a match is an exaggeration. It's more like a small bet.”
+- **Spoken** (p.58) — “You participate in all the games. And when you lose three times, that's your defeat.”
+- **Spoken** (p.58) — “Yeah. Even if Kiryūin's group loses 19 times in a row, if you don't lose to anyone, it's a win.”
+- **Spoken** (p.58) — “If I make being undefeated a condition and you lose in the first battle, it would be a real turn-off, right?”
+- **Spoken** (p.59) — “That’s the way I like to treat you.”
+- **Spoken** (p.60) — “Nazuna seems to misunderstand, but victory or defeat is not determined solely by whether one is excellent. If the person on top isn’t more capable, using a skilled person will only lead to their loss.”
+- **Spoken** (p.60) — “Ah, everything's going smoothly. It's going to be a match between me and Ayanokōji as planned”
+- **Spoken** (p.61) — “Huh, you've really bought into Ayanokōji. If you want, I can challenge you individually and not just in this exchange meeting. If we're both third-years, there's no need to hold back. I'll even bet the ticket price for Class A.”
+- **Spoken** (p.61) — “She's just a woman, after all.”
+- **Spoken** (p.61) — “You should also practice or something and prepare for the match.”
+- **Spoken** (p.62) — “Amasawa. From first-year Class A.”
+- **Spoken** (p.62) — “She wasn't my pick. Somehow, she heard rumors and knew about the next social gathering.”
+- **Spoken** (p.64) — “Sorry, but I don't like women who pretend to be cute or flatter me.”
+- **Spoken** (p.64) — “I'm leaving now. Do your best, Ayanokōji.”
+- **Caveat** (p.54–56) — His university choice: same one Horikita Manabu goes to; no need for the Class A privilege; he dominated the third-year on his own power; Asahina is also bound for university but not the same level.
+- **Caveat** (p.58–59) — Terms: Kiyotaka plays all 19 games; three individual losses end the bet; his group record irrelevant; Nagumo demands his defeat; he smiles like he's already won.
+- **Caveat** (p.62–65) — Amasawa pressed herself onto his group; he recruited hesitantly; she heard the plans via Yagami and Tsukishiro.
+- **Relationship · Ayanokōji Kiyotaka** (p.53–66) — He sets the match inside the exchange meeting; he wants Kiyotaka to lose in any game; he offers private points.
+- **Relationship · Asahina Nazuna** (p.53–64) — Nazuna sides with Kiyotaka; she's irked by his "on top among the same sex" line; she hurt-shoves him; he ignores it.
+- **Relationship · Kiryuin Fuuka** (p.60–62) — Kiryūin volunteered for the leader role to watch; he chalks it up to her usual cool distance.
+- **Relationship · Horikita Suzune** (p.56) — He believes Kiyotaka used Suzune to keep an eye on him when she joined the council.
+- **Relationship · Horikita Manabu** (p.54–57) — Horikita Manabu's university choice drew Nagumo; the baton passed to Nagumo as president.
+
+#### p.67–72 — Ch.2: The hands and feet
+
+The Telling Hashimoto scene; he is named.
+
+- **Caveat** (p.67) — “Even if it's an informal exchange meeting, it's still selfish. It’s an act that disrupts the group's dynamic.” — Hashimoto's objection; Nagumo is the unseen hand.
+- **Caveat** (p.68) — “Kiryūin-senpai is amazing, isn't she? Maybe she already knows about us?” — his stack's architecture; he built it.
+- **Caveat** (p.70) — “Among them was Takahashi Osamu, a first-year Class A student from the Nagumo group.” — his group's reach.
+- **Caveat** (p.71) — “Takahashi was following all the games, probably because Nagumo had instructed him to confirm the results.” — his eyes in the oshibana room.
+- **Caveat** (p.72) — “Even the great Nagumo couldn't foresee or determine whether Horikita and the others could make good oshibana.” — his one blind spot.
+- **Mentioned** (p.67–72) — Named in dialogue; not present on these pages.
+
+#### p.78 — Ch.2: The bet's price
+
+The Kōenji dog park; he is named.
+
+- **Caveat** (p.78) — “It could waste time and potentially affect my bet with Nagumo.” — his bet hangs over Kiyotaka's head.
+- **Mentioned** (p.78) — Named in narration; not present on these pages.
+
+#### p.84 — Ch.2: The first day closes
+
+The first day closes 5–0; he is not in it.
+
+- **Caveat** (p.84) — “Overall, it was a good first day.” — Kiyotaka's verdict; Nagumo's group is undefeated.
+- **Caveat** (p.84) — “Including the oshibana, Takahashi was following all the games, probably because Nagumo had instructed him to confirm the results.” — his orders in the hall.
+- **Mentioned** (p.84) — Named in narration; not present on these pages.
+
+#### p.86–92 — Ch.3: The first-place contender
+
+The shared room; his group's standings.
+
+- **Caveat** (p.86) — “Nagumo-senpai's group is a first-place contender, aren't they?” — Oda's verdict; his group wins all five.
+- **Caveat** (p.87) — “If we don't take action, there's a high chance of that happening.” — Kiyotaka's read; his group is the problem to solve.
+- **Caveat** (p.92) — “It was common knowledge that Nagumo's group had been undefeated and was in first place with five consecutive wins since the first day.” — the standings at the start of day 2.
+- **Mentioned** (p.86–92) — Named in dialogue; not present on these pages.
+
+#### p.98 — Ch.3: The stacked class
+
+The Tatebayashi corridor; he is named.
+
+- **Caveat** (p.98) — “Nagumo-senpai and the other senpais took most of the good students, so they didn't have much leeway.” — Hashimoto's read of his group's luck.
+- **Mentioned** (p.98) — Named in dialogue; not present on these pages.
+
+#### p.115–116 — Ch.5: The determined winner
+
+The second day; the sculpture match; he is named.
+
+- **Caveat** (p.115) — “Nagumo is determined to win, and his members are serious, so he won't hold back.” — Kushida's verdict; his determination is public.
+- **Caveat** (p.116) — “If you ask with a certain amount of money and sincerity, there should be plenty of room for negotiation, right?” — Kiyotaka's counter-scenario.
+- **Mentioned** (p.115–116) — Named in dialogue; not present on these pages.
+
+#### p.133 — Ch.5: The concentration of wins
+
+The lobby; the standings.
+
+- **Caveat** (p.133) — “The difference between the third-place group and Satō's group was three wins. Quite a significant amount.” — his group is the benchmark.
+- **Caveat** (p.133) — “The wins were concentrated in groups like the Nagumo group, who were taking it seriously.” — the league's center of gravity.
+- **Mentioned** (p.133) — Named in narration; not present on these pages.
+
+#### p.135 — Ch.5: The blonde senpai
+
+Kiyotaka borrows a deck of cards.
+
+- **Caveat** (p.135) — “Huh? Could it be Nagumo?” — Kiyotaka wonders if the blonde senpai was Nagumo.
+- **Caveat** (p.135) — “That man also does such cliché things.” — Kiryūin's verdict on him.
+- **Mentioned** (p.135) — Named in dialogue; not present on these pages.
+
+#### p.145 — Ch.6: The battle looming
+
+The third day; the exchange meeting ends.
+
+- **Caveat** (p.145) — “The exchange meeting was nearing its end, and a battle with Nagumo's group was looming” — the countdown to the final match.
+- **Mentioned** (p.145) — Named in narration; not present on these pages.
+
+#### p.151 — Ch.6: The happy Nagumo
+
+The morning training; she reports Nagumo's reaction.
+
+- **Caveat** (p.151) — “Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things.” — his verdict on the loss.
+- **Mentioned** (p.151) — Named in dialogue; not present on these pages.
+
+#### p.159–161 — Ch.6: The leader's silent table
+
+The 17th match; he attends as the leader; he says not a word; his bet comes due to watch him from afar.
+
+- **Caveat** (p.159–161) — His group wins four of five; his record stands at 18–1; the card-game loss is his only loss.
+
+#### p.162–164 — Ch.6: The empty rest area
+
+After the final 19th game; just the two of them in the rest area; the bet's terms settle; the money is transferred; he offers the university.
+
+- **Spoken** (p.162) — “Allowing me to lose up to two times was what caused your defeat, wasn't it?”
+- **Spoken** (p.162) — “Indeed, I'd like to say so.”
+- **Spoken** (p.163) — “That's irrelevant. Even if I tried to pick up a win by buying my opponent's defeat, if you were serious, you'd buy it back. You could've also tried preventing it in advance. You have control over all the third-years, so you should be good at that kind of thing.”
+- **Spoken** (p.164) — “When I decide to win, I strive towards it without mercy. It's only natural.”
+- **Spoken** (p.164) — “I have no intention of belittling your victory. I've transferred the money. Check it.”
+- **Spoken** (p.164) — “If you want, come to the same university. I'll make your boring personality a little better.”
+- **Caveat** (p.162–164) — He pays without a written receipt; he says he has several million yen just in his personal pocket; he pats Kiyotaka's right shoulder as he passes.
+- **Relationship · Ayanokōji Kiyotaka** (p.162–164) — The bet settles; the money moves; the invitation is offered and left on the table.
+
+#### p.165–167 — Ch.6: The message to carry
+
+Just after the games end; he is stopped at the exit with one last request: a message to pass to Horikita-senpai.
+
+- **Spoken** (p.165) — “Huh? A message? To Horikita-senpai?”
+- **Spoken** (p.167) — “I'll go a step ahead and start the second phase at Horikita-senpai's place.”
+- **Caveat** (p.166–167) — “That's a strange message.” — he doesn't laugh it off; he is asked to carry one line: feel free to join, if it suits the other party; the decision is up to the addressee.
+- **Caveat** (p.167) — He says it is a gift from the exchange meeting, a farewell; the message is entrusted to him unfinished; the same Horikita-senpai at his side.
+
+#### p.177–181 — Ch.7: The cafeteria at 1 a.m.
+
+Past 11 p.m. the previous day; long past lights-out; he walks down the darkened hallway alone; Amasawa is waiting in the darkened cafeteria.
+
+- **Spoken · Amasawa Ichika** (p.177) — “You came as promised.”
+- **Spoken** (p.177) — “I've never refused a woman's call before,”
+- **Spoken · Amasawa Ichika** (p.177) — “Yawn, what a cheesy line. Honestly, I hate your type.”
+- **Spoken** (p.177) — “Relax. I'm not into women like you either.”
+- **Spoken · Amasawa Ichika** (p.177) — “So, there was no need to threaten me. That might've been an unnecessary move.”
+- **Spoken** (p.177) — “Amasawa, did you really want to be alone with me that much?”
+- **Spoken · Amasawa Ichika** (p.177) — “Opportunities to be alone with a former student council president don't come around often, do they?”
+- **Spoken** (p.177) — “I want to confirm something. What would you have done if I hadn't come?”
+- **Spoken · Amasawa Ichika** (p.177) — “I would've beaten up your precious Asahina-senpai, Nagumo-senpai.”
+- **Spoken** (p.178) — “Did you show your skills in archery with Ayanokōji to make your threats more effective?”
+- **Spoken · Amasawa Ichika** (p.178) — “Well, yeah. If I don't show that I'm capable, people might dismiss a woman's threats.”
+- **Spoken** (p.178) — “Okay, let's get to the point. So, why did you threaten me to call me out?”
+- **Spoken · Amasawa Ichika** (p.178) — “There's a problem that only you can solve, Nagumo-senpai. That's what I want to talk about.”
+- **Spoken** (p.178) — “You had plenty of chances to talk during the exchange meeting.”
+- **Spoken · Amasawa Ichika** (p.178) — “By the way, I'm thinking of seriously injuring you, Nagumo-senpai.”
+- **Spoken** (p.178) — “Seriously injuring me? That's quite sudden.”
+- **Spoken · Amasawa Ichika** (p.178) — “Is it too unrealistic? Or do you think you can't lose to a girl?”
+- **Spoken** (p.178) — “I wonder. Maybe it's both.”
+- **Spoken · Amasawa Ichika** (p.178) — “Will you run away?”
+- **Spoken** (p.178) — “Can I at least hear the reason?”
+- **Spoken · Amasawa Ichika** (p.178) — “The reason? Hmm, let's just say it's a personal vendetta.”
+- **Spoken** (p.178) — “Personal vendetta, huh?”
+- **Spoken · Amasawa Ichika** (p.178) — “Yes, a personal vendetta. Now, if we take too long, the teachers might find us, and it would be embarrassing if the fact that you were beaten by a girl got out, so can we start?”
+- **Spoken** (p.178) — “Just to confirm, do you really think you can beat me?”
+- **Spoken · Amasawa Ichika** (p.178) — “Haha, I've been waiting for you to say that. Let's give it a try.”
+- **Spoken** (p.178) — “It's easy to say, but there's nothing in it for me. It would be a problem if I retaliated against a girl who came at me out of personal vendetta.”
+- **Spoken · Amasawa Ichika** (p.178) — “It's pointless to resist anyway, you can just let me beat you up. That way, you'll lose your pride, but you won't get penalized by the school. I recommend it.”
+- **Spoken** (p.178) — “Aren't you afraid of being expelled?”
+- **Spoken · Amasawa Ichika** (p.179) — “Of course not. If I get expelled, I have nothing to lose.”
+- **Spoken** (p.179) — “So, persuasion is impossible?”
+- **Spoken · Amasawa Ichika** (p.179) — “Yes, I have no 'value.' In other words, I'm invincible.”
+- **Spoken** (p.179) — “Did you get cautious because of the recording? Go ahead and answer without holding back. State the reasons behind this so-called personal vendetta.”
+- **Spoken · Amasawa Ichika** (p.179) — “You teamed up with Ayanokōji-senpai and expelled Yagami Takuya, right? It's payback.”
+- **Spoken** (p.179) — “Yagami? Don't tell me, you were Yagami's girlfriend?”
+- **Spoken · Amasawa Ichika** (p.179) — “That's not it, but we were like siblings who had surpassed that kind of relationship.”
+- **Spoken** (p.179) — “Then aren't you targeting the wrong person? I wasn't the one who led that.”
+- **Spoken · Amasawa Ichika** (p.179) — “I know that. I told you, this is just a personal vendetta. Unfortunately, even if I stand on my head, I can't beat Ayanokōji-senpai, and I thought about beating up Karuizawa-senpai and expelling her, but that's a bit scary.”
+- **Spoken** (p.179) — “Scary? Of getting revenge from Ayanokōji? I don't think he cares about what happens to Karuizawa.”
+- **Spoken · Amasawa Ichika** (p.179) — “Ayanokōji-senpai has his own goals. I don't want to interfere with that.”
+- **Spoken · Amasawa Ichika** (p.179) — “People like Nagumo-senpai are well-suited for stories where the character ultimately faces their downfall at the conclusion.”
+- **Spoken** (p.180) — “It suits me, huh?”
+- **Spoken · Amasawa Ichika** (p.179) — “Last year and the year before, the one always causing a stir at this school was Horikita Manabu.”
+- **Spoken · Amasawa Ichika** (p.179) — “I'm sure it'll be the same next year after I'm gone.”
+- **Spoken · Amasawa Ichika** (p.179) — “I was indeed enrolled at this school for three years.”
+- **Spoken · Amasawa Ichika** (p.180) — “There's nothing more empty than that.”
+- **Spoken · Amasawa Ichika** (p.180) — “I realized it just before graduation. It's not Horikita-senpai or Ayanokōji that's to blame. It's me who couldn't reach that realm.”
+- **Spoken** (p.180) — “But… that's not the case. I wouldn't have been satisfied with that situation either.”
+- **Spoken** (p.180) — “That's why I won't quit this game. Next year I'll do it again with Horikita-senpai. And someday I'll have a real match with Ayanokōji and settle it.”
+- **Spoken** (p.180) — “Before you put anything into action, I have a gift for you.”
+- **Spoken · Amasawa Ichika** (p.180) — “A gift? I'm the type to throw away presents from men I'm not interested in without opening them.”
+- **Spoken** (p.180) — “I see. Then it might end with you throwing it away without opening it. After all, it's just a message from Ayanokōji.”
+- **Spoken · Amasawa Ichika** (p.180) — “...Ayanokōji-senpai...?”
+- **Spoken** (p.180) — “If it's a lie to save yourself, it will only widen the wound.”
+- **Spoken** (p.181) — “Believe my words or not, it's up to you. The message from Ayanokōji is 'You still have value. Don't waste it.'”
+- **Spoken** (p.181) — “Is this just a coincidence? The message seems to have foreseen even the fact that you would despairingly declare yourself someone without 'value.'”
+- **Spoken** (p.181) — “I'm tired, so I'm going back first. You should return to your room before you catch a cold.”
+- **Caveat** (p.181) — The message from Ayanokōji arrives in exactly the moment of her declaration that she has no 'value'; the exchange ends with him walking out and her left standing still.
+- **Relationship · Amasawa Ichika** (p.177–181) — The 1 a.m. summons; her planned vengeance for Yagami's expulsion; the message that foresees her and strips the threat of meaning.
+
+#### p.182 — Ch.8: The message from 1:30 a.m.
+
+The 4th day morning; the single message from him in the middle of the night — “I won't say thank you.”
+
+- **Caveat** (p.182) — The message came in at 1:30 in the morning; it closes the bet's aftermath; the school trip ends Sunday.
+- **Mentioned** (p.182) — Named in the one message received; not present on these pages.
+
+#### p.221 — Postscript
+
+The translator's afterword; she is named as missing.
+
+- **Caveat** (p.221) — “or the lack of detail surrounding Kiyo and Nagumo's match.” — the translator's complaint; his match is named.
+- **Mentioned** (p.221) — Named in the afterword; not present on these pages.
+
+### Year 2, Volume 12
+
+#### p.20, p.40, p.42, p.50–51, p.63 — Ch.1–3: Mentioned
+
+Named during Ayanokōji's private reckoning about the balance of the four classes.
+
+- **Mentioned** (p.20) — p.20: "Both Horikita Manabu's and Nagumo Miyabi's classes had created a dominating system as a result."
+- **Mentioned** (p.40) — p.40: Amasawa recounts her own near-expulsion over the Nagumo incident at the camp.
+- **Mentioned** (p.50–51) — p.50–51: recalled as the transfer-fee discussion with Hashimoto (the 20 million point transfer cost) and as the source of a 3 million private-point reward for the camp bet.
+- **Mentioned** (p.63) — p.63: Kiryūin reports that Nagumo asked her to look into how Ayanokōji would handle the special exam; he has no intention of seeing Ayanokōji anymore.
+- **Caveat** (p.20, p.40, p.42, p.50–51, p.63) — Named throughout but never on-page; not present; discussed only in others' speech and Ayanokōji's thoughts.
+
+### Year 2, Volume 12.5
+
+#### p.213-216 — Epilogue
+
+Mentioned/appears in Epilogue.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.213-216) — Appears in this volume.

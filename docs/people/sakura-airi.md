@@ -1,0 +1,1413 @@
+# Sakura Airi
+
+*Character · Main · 1-D*
+
+Sakura Airi is named in 29 of 36 volumes. 96 scenes from 22 volumes have been read line by line, with a page for every line.
+
+## Summary
+
+- **Class:** 1-D
+- **Appears in:** Year 1 · Year 2 · Year 3
+- **Named in:** 29 volumes
+- **Read so far:** 96 scenes, 329 quoted lines
+- **First read scene:** Year 1, Volume 1, p.110–111
+
+## Volume by volume
+
+- **Year 1, Volume 1** — 1 scene read
+- **Year 1, Volume 2** — 20 scenes read
+- **Year 1, Volume 3** — 7 scenes read
+- **Year 1, Volume 4** — 7 scenes read
+- **Year 1, Volume 4.5** — 15 scenes read
+- **Year 1, Volume 5** — 6 scenes read
+- **Year 1, Volume 6** — 4 scenes read
+- **Year 1, Volume 7** — 4 scenes read
+- **Year 1, Volume 7.5** — 1 scene read; 2 mentioned
+- **Year 1, Volume 8** — 3 scenes read; 1 mentioned
+- **Year 1, Volume 9** — 5 scenes read
+- **Year 1, Volume 10** — 4 scenes read
+- **Year 1, Volume 11** — 3 scenes read
+- **Year 1, Volume 11.5** — named, not read yet
+- **Year 2, Volume 1** — 1 mentioned
+- **Year 2, Volume 2** — 4 scenes read; 1 mentioned
+- **Year 2, Volume 3** — 1 scene read; 1 mentioned
+- **Year 2, Volume 4** — 1 scene read; 1 mentioned
+- **Year 2, Volume 4.5** — 2 scenes read
+- **Year 2, Volume 5** — 2 scenes read; 2 mentioned
+- **Year 2, Volume 6** — 2 scenes read; 5 mentioned
+- **Year 2, Volume 7** — 2 scenes read; 5 mentioned
+- **Year 2, Volume 8** — 2 mentioned
+- **Year 2, Volume 9** — 1 mentioned
+- **Year 2, Volume 9.5** — 1 mentioned
+- **Year 2, Volume 12** — 1 scene read; 1 mentioned
+- **Year 2, Volume 12.5** — 1 scene read
+- **Year 3, Volume 1** — named, not read yet
+- **Year 3, Volume 2** — named, not read yet
+
+## Relationships
+
+- **Ayanokōji Kiyotaka** — 47 notes
+- **Hasebe Haruka** — 27 notes
+- **Yukimura Teruhiko** — 11 notes
+- **Miyake Akito** — 9 notes
+- **Horikita Suzune** — 7 notes
+- **Kushida Kikyō** — 7 notes
+- **Yamauchi Haruki** — 7 notes
+- **Sudō Ken** — 5 notes
+- **Ichinose Honami** — 4 notes
+- **Kōenji Rokusuke** — 3 notes
+- **Karuizawa Kei** — 3 notes
+- **Satō Maya** — 3 notes
+- **Katsuragi Kōhei** — 2 notes
+- **Ike Kanji** — 2 notes
+- **Ibuki Mio** — 2 notes
+- **Inogashira Kokoro** — 2 notes
+- **Totsuka Yahiko** — 1 note
+- **Shinohara Satsuki** — 1 note
+- **Ichihashi Ruri** — 1 note
+- **Maezono** — 1 note
+- **Matsushita Chiaki** — 1 note
+- **Sakayanagi Arisu** — 1 note
+- **Hirata Yōsuke** — 1 note
+- **Hashimoto Masayoshi** — 1 note
+- **Ishigami Kyō** — 1 note
+- **Wang Mei-Yu** — 1 note
+- **Yagami Takuya** — 1 note
+
+## Names
+
+- **Shown as:** Sakura Airi
+- **Also written:** sakura, airi
+
+## Scenes
+
+### Year 1, Volume 1
+
+#### p.110–111 — Campus store debut: the broken camera
+
+Campus convenience/electronics store, late April.
+
+- **What happens** (p.110–111) — A quiet, bespectacled girl standing alone by the digital camera display rack. Wears glasses with large frames, long hair draped forward to obscure her facial features, wearing the ANHS uniform.
+- **What happens** (p.110–111) — Holds a compact digital camera with a damaged/broken casing in both hands, staring at the replacement models with intense anxiety.
+- **What happens** (p.111) — When Ayanokōji steps into the aisle nearby, she flinches in alarm, avoids eye contact completely, clutches her broken camera tightly to her chest, and hurriedly flees down the aisle.
+- **Trait** (p.110–111) — Pathologically shy, hyper-sensitive to the presence of others, deeply attached to digital photography.
+
+### Year 1, Volume 2
+
+#### p.10 — Ch.1 "Sakura Airi's Soliloquy": the volume opens in her POV
+
+- **Backstory** (p.10) — Whole first-person monologue chapter — the only non-Ayanokōji POV chapter opening in Year 1, Vol. 2; foreshadows her role as "An Unexpected Witness" (Ch.4).
+- **Inner voice** (p.10) — "I don't know how to interact with other people. I'm bad at talking while making eye contact. I'm horrible with crowds. I don't remember how or when I became so hopeless."
+- **Inner voice** (p.10) — "However, one thing I do know for certain is that a person cannot live entirely in isolation. No matter how much I may love my solitude, I can't remain totally by myself. So, I came up with a solution. I would adopt a false face and hide my true self. Then, I wouldn't be completely honest, but I could be a version of myself. I could continue to live in this dark, lonely world."
+- **Trait** (p.10) — Self-aware about her condition; frames the false face as a deliberate "solution," not an accident — same masking logic she later applies to photography.
+- **Inner voice** (p.10) — "Is everyone else putting on a façade, just like me? Or do most people show their true selves to the outside world? Since I can't connect with people, I suppose there's no way for me to find out the answer. Therefore, I remain alone."
+- **Inner voice** (p.10) — "I'm all right by myself. I'm all right with being alone."
+- **Inner voice** (p.10) — "I… I want to connect with someone from the bottom of my heart."
+- **Voice** (p.10) — Her interior voice: short declarative confessions, self-questioning, closing cadence "And so I will continue to live quietly, with my eyes downcast. Alone."
+- **Trait** (p.10) — Paradox locked in at volume start: wants a heart-to-heart connection while believing connection is impossible for her — the engine of her Year 1, Vol. 2 arc.
+
+#### p.12–13 — Ch.2 opening: she stumbles on Sudou's three-on-one brawl (the witness birthed)
+
+Evening of June 30, inside a school building with a staircase (the "special building," named Sudou's account p.30–31). While hunting for a good selfie spot, Sakura finds three male students writhing on the floor and a red-haired boy standing over them. Sudou, sensing movement, calls "Is someone there?" toward her hiding spot; she escapes by seconds: "I’d successfully escaped by a hair’s breadth. If I’d lagged a mere two seconds, he probably would’ve seen me." sec. 2.2 lunch, observed by Ayanokōji: still eating alone, hunched over a homemade bento; the glasses-and-plain-girl reputation ("At one time Ike had made a ruckus about how large her breasts were, but because she was considered plain, everyone quickly lost interest.").
+
+- **Inner voice** (p.12) — "The timing couldn’t have been worse. While searching for a place to take a good selfie, I stumbled into something. Even a certain famous, diminutive detective would have held his breath when witnessing such a tense situation."
+- **Inner voice** (p.12) — "His right fist was covered in blood from the students he’d pummeled. This was the first brawl I’d ever witnessed."
+- **Feat** (p.12) — Terror overrides etiquette but not habit: "Though I was terrified, I began capturing the scene with my camera. The shutter didn’t make a sound."
+- **Inner voice** (p.12) — Panic freeze: "After taking the pictures, I asked myself what I was doing. I couldn’t think clearly in my panicked state... My legs didn’t obey my command to move, like I was paralyzed."
+- **Inner voice** (p.13) — "I’d heard that that when someone was involved in a crisis, his or her body would lock up, exactly like what was happening now." (sic — doubled "that" in corpus)
+- **Inner voice** (p.13) — "I’d hate it if someone were to spot me and involve me in this mess. If that happened, it would cast a dark cloud over my otherwise peaceful school life."
+- **Trait** (p.12–13) — Document-first, confront-never instinct: she photographs the fight but flees rather than intervene or report; self-protection through invisibility.
+- **Relationship · Sudō Ken** (p.12–13) — Unseen witness to his brawl; nearly discovered by him — she does not know his name-to-face link yet beyond "Sudou-kun" heard in his taunts.
+
+#### p.40–65 — Ch.3: the witness sits in the room and says nothing
+
+Chabashira puts the ask to the classroom: "If anyone here witnessed the fight, please raise your hand." — "No students raised their hands in response to her question." Kushida re-asks the same question in a form a witness could answer privately — "If anyone knows someone who saw what happened, whether it’s someone in class, a friend, or an upperclassman, please tell me. You can contact me at any time." — the one line in the chapter that would have been safe for her to answer, and she does not.
+
+- **Caveat** (p.41) — This is inference, stated as inference: Sakura was in that homeroom (pp.40–43 is Class D's classroom, and she is a Class D student), but Chapter 3 never singles her out, never names her, and never says whether she looked up. All this page can assert is that no hand went up.
+- **Position** (p.40–65) — She holds the only neutral visual record of pp.12–13 — silent-camera photographs she has not shown anyone — and Chapter 3 closes with it still hidden.
+- **Limit** (p.41) — The window that her silence consumes is fixed and public: "We’ll make our final judgment next Tuesday, taking into account any eyewitnesses and evidence," and "In order to check for witnesses, every teacher will inform their classes of the details of this incident." The school is now actively canvassing every class in the year for her.
+- **Caveat** (p.62) — AK, in a classroom with "about one third of our class remained in the room": "Suddenly, I felt a sensation, like someone was watching me. I turned around." The text never says who watched him and never resolves it inside the chapter. Do not read it as Sakura — it is an unanswered beat, not a link.
+- **Trait** (p.40–65) — Her Chapter 1 creed ("And so I will continue to live quietly, with my eyes downcast. Alone.") is what the whole chapter quietly costs Sudou: invisibility works, and it works on the class's behalf too.
+
+#### p.77–82 — Ch.4 sec. 4.1: she is named, and stays a rumour to the people who sit near her
+
+Nobody in the room can place her body in the room: Sudou and Yamauchi "exchanged looks. They didn’t seem to know who Sakura even was"; the seating is argued wrong twice before Kushida fixes it — "She sits diagonally ahead of Sudou-kun to the right." Kushida defends her, in the only defence she gets in the chapter: "It’s not good to remember people based on something like that, Ikekun! That’s pathetic." The plan the chapter ends on is to let one girl approach her alone: "Well, I’ll try to talk to her myself tomorrow. I think she might be on her guard if a lot of people approach her," Kushida said — and AK's gloss: "If Kushida couldn’t manage it, then I doubted anyone else would be able to get through to Sakura."
+
+- **Spoken** (p.77) — "Sakura-san." — the first time anyone in Class D says her name out loud in the volume, spoken by Horikita in Ayanokōji's room.
+- **Spoken** (p.77) — Horikita's proof, which is entirely about Sakura's own behaviour: "When Kushida-san said that she was looking for a witness in class, Sakura looked down. A lot of students were staring at Kushida-san. Sakura was the only one who didn’t appear interested."
+- **Position** (p.77–78) — She is now identified as the witness by the one student who was watching the wrong student, and Horikita's confidence is absolute: "No, Sakura-san is undoubtedly the witness. Her actions confirmed it. Although she may not admit to it, she is definitely the one."
+- **Spoken** (p.79) — Sudou's admission of the class's real opinion of her: "Diagonally ahead to the right? I can’t remember at all. I’m sure there’s someone there, though."
+- **Trait** (p.79) — AK's verdict on why that matters for the case: "Sakura certainly didn’t stand out very much. The fact we didn’t really know her was a problem."
+- **Spoken** (p.79–80) — Ike, asked to describe her, offers one fact: "Would it help if I said she has the biggest boobs in class? Her boobs are insanely huge." — and Yamauchi converts it into a stereotype on the spot: "Oh, she’s that plain girl with glasses, right?"
+- **Position** (p.80) — Her phone goes unanswered when Kushida calls: "She listened to her phone ring for about 20 seconds, but then she shook her head and hung up." — AK's reading: "Sakura might just be pretending to be out, too."
+- **Spoken** (p.81) — Kushida's account of what Sakura actually gave her: "She gave me her contact information, but she doesn’t know me very well. She might be confused if I tried to call her."
+- **Feat** (p.78, p.82) — Her invisibility is total enough to make the room's memory unreliable: Sudou misnames her on the spot — "this Sakura, or Kokura, or whoever" — and Yamauchi disowns having ever confessed to her ("It wasn’t Sakura; it was a girl from the next class over. Not a gloomy and ugly girl like Sakura."), then drops the subject mid-sentence by claiming a message.
+- **Trait** (p.82) — Even the class's most charitable description is an apology for her: "It’s certainly true that Sakura was plain, but she wasn’t ugly. I’d never gotten a good look at her face before, but she seemed to have very nice features. Even so, I couldn’t say that with complete confidence, probably because Sakura had so little presence."
+- **Relationship · Horikita Suzune** (p.77) — The only Class D student who ever looked at her closely is the one who does not like being looked at; Horikita's read of Sakura's downcast eyes is the chapter's hinge and Sakura never learns it happened.
+- **Relationship · Kushida Kikyō** (p.80–82) — Kushida holds her contact number, her seating position and the class's only defence of her, and still cannot reach her by phone.
+- **Caveat** (p.77–82) — All of this is Class D talking about her in a room she is not in. Chapter 4 gives her no line of her own until her own section later in the chapter; nothing here is her choice.
+
+#### p.132–142 — Ch.4 sec. 4.9–4.10: she lets two people take a camera to a repair counter
+
+She has already arrived and is unnoticed at her own meeting: "Had Sakura really been sitting there the entire time? Amazing that we hadn’t noticed her at all. Not a sign of her presence or aura." What the camera actually is, technically: "when the store clerk opened up the camera to confirm the contents, he saw that part of it had been damaged from the fall. That was why the camera wouldn’t turn on properly. Fortunately, because Sakura still had the warranty card, the item could be repaired free of charge." — the contents are never described. She turns to the quietest of the three for a verdict on a man who frightened her: "Turning to me, she asked" and then "What do you think, Ayanokouji-kun?"
+
+- **Spoken** (p.136) — "I’m sorry, I don’t stand out much, I suppose… Good morning," — the first line she speaks aloud in the volume, and she apologises for it before it is needed.
+- **Spoken** (p.136) — "Oh, you don’t need to say that for my sake, Ayanokouji-kun." — his compliment that he felt her presence is declined.
+- **Feat** (p.136) — Her chosen disguise, as read by the boy who has never seen her before: "Sakura was wearing a hat, and even a surgical face mask, which made it difficult to recognize her at a glance." and "She didn’t seem to have a cold. Rather, she seemed like the type to wear the mask in order to avoid attention. She must have really hated standing out."
+- **Spoken** (p.136) — "Yeah, I suppose so. I think I do stand out, especially here," — and the mask comes off: "Sheepishly, she removed her mask."
+- **Spoken** (p.136) — "So anyway, about my digital camera. Is it okay if we go to the electronics store in the mall?" — the ask that opens the day, and it is hers.
+- **Spoken** (p.138) — "I wonder if they’ll fix it right away…" — "Sakura, looked rather anxious as she took out her digital camera and held it tight."
+- **Spoken** (p.138) — "Yeah. It’s weird, isn’t it?" — on being asked whether she loves the camera.
+- **Limit** (p.138) — The repair counter stops her cold in front of two classmates: "For some reason, Sakura suddenly stopped in her tracks. When I glanced over at her, I noticed she was wearing an expression of blatant fear and revulsion."
+- **Spoken** (p.139) — "Ah, umm… Well…" and then "It’s nothing." — "She donned an earnest smile, and walked to the repair counter."
+- **Feat** (p.139) — Kushida takes the entire transaction: "Sakura, the camera’s owner, spoke only when she needed to give her consent or to clarify something."
+- **Feat** (p.140) — The cost of having her address written down by someone else: "Sakura gently patted her chest and sighed in apparent relief, but when she learned it’d take two weeks for the camera to be repaired, she grew discouraged. Her shoulders slumped."
+- **Spoken** (p.141) — "Didn’t you feel kind of disgusted?" — to Kushida, about the clerk; the first time she questions someone else's reading of a room.
+- **Spoken** (p.141) — "That was kind of what I was trying to get at before… I was scared to go to the repair shop alone because of that…"
+- **Spoken** (p.141) — "Th-thank you…Ayanokouji-kun. You really…saved me."
+- **Spoken** (p.141) — "Since you were with me today, Kushida-san, we completed our task without me having to talk at all. Thank you."
+- **Spoken** (p.142) — The camera's history, given unprompted: "Yeah… I’ve liked cameras ever since I was little. My dad bought me one before I entered junior high, and I absolutely fell in love with it. Or I suppose you could say that I just love taking pictures… I’m not really wellinformed when it comes to this stuff, though." — the missing hyphen is the translation's.
+- **Limit** (p.142) — The one question that makes her physically retreat: "Sakura stepped backwards, looking quite flustered." then "Sakura shut her mouth, and her body stiffened." and "Th-that’s a secret."
+- **Spoken** (p.142) — "W-well, it’s just… It’s embarrassing," — "replied Sakura, her cheeks reddening. She looked down as she spoke."
+- **Caveat** (p.142) — Whether she photographs people is asked but not answered in this volume, and the asker is not tagged in the translation; only her refusal is hers.
+
+#### p.144–146 — Ch.4 sec. 4.10: she is offered a friendship and answers with the case
+
+Kushida asks her to take off her glasses and she refuses in front of a stranger's question: "Huh?! B-but that’s… My eyesight is so bad, I wouldn’t be able to see a thing…" — "Sakura put her hand up and waved it, signaling to Kushida that she did not want to."
+
+- **Spoken** (p.144) — "Umm… Thank you for everything today. You really helped me out,"
+- **Spoken** (p.145) — "I didn’t mean to sound that way. I wasn’t aware of it… I sound weird?" — on being told she speaks too formally for a classmate.
+- **Spoken** (p.145) — "Ah… O-okay… I…I got it. I’ll do my best."
+- **Spoken** (p.145) — "I-It’s okay. I…will." — and the delivery of even that: "Sakura kept her eyes down as she spoke. Partway through her sentence she began to sputter, and her words faded so much that we couldn’t hear them. However, it didn’t seem as though she felt uncomfortable."
+- **Feat** (p.145) — She accepts a change in how she talks rather than lose the two people who came with her: "I thought that Sakura would have rejected the notion, but she managed to squeak out a few words of agreement."
+- **Spoken** (p.146) — "Well!" — "Sakura spoke in a small voice, but looked straight at us. When our gazes met, however, she immediately averted her eyes."
+- **Spoken** (p.146) — "About Sudou-kun… As my way of saying thanks for today, I… Well, that might be a little misleading, but if you like…"
+- **Spoken** (p.146) — "I-I may be able to help you with Sudou-kun’s case." — the volume's hinge, offered as a gift in exchange for a day of errands: "In her own words, Sakura told us that she was the witness."
+- **Spoken** (p.146) — "Yes. I saw everything. It was a total coincidence, though… I’m sure you don’t believe me."
+- **Spoken** (p.146) — Her stated reason for three weeks of silence: "It’s okay… I think that if I kept quiet, I’d probably come to regret it. I…don’t want to cause trouble for my classmates. But, if I spoke up as a witness, then…I would definitely stand out. I hated the thought of that… I’m sorry."
+- **Feat** (p.146) — She apologises while giving the class exactly what it has been asking for; "While Sakura apologized to us repeatedly, full of remorse, she also promised Kushida that she would testify."
+- **Trait** (p.132–146) — Everything the case needed was available from her on the first day; what changed is not her courage but her company — she testifies the moment she has two people standing beside her instead of a crowd asking her alone.
+- **Relationship · Kushida Kikyō** (p.142, p.144–146) — She tells Kushida the camera history, refuses Kushida the glasses, and hands Kushida the testimony — the friendship is real before the evidence is.
+- **Relationship · Ayanokōji Kiyotaka** (p.140) — He wrote his own name and dorm room on her repair form so she would not have to hand over her address; her first unscheduled call is to him, not to Kushida.
+
+#### p.148–150 — Ch.4 sec. 4.11: the call she cannot finish
+
+The name on Ayanokōji's screen that night: "I answered Sakura’s call before it cut out."
+
+- **Spoken** (p.149) — "Um… Hello. This is Sakura…"
+- **Spoken** (p.149) — "Thank you for coming out with me today,"
+- **Spoken** (p.149) — The only question she asks anyone in the volume: "What were you…thinking about?" — his own report of its shape: "Sakura asked me a rather ambiguous question."
+- **Spoken** (p.149) — "I’m sorry, it’s nothing. Goodnight." — "Sakura ended the call without even giving me a chance to reply. No 'please wait' or 'hold on.'"
+- **Limit** (p.149–150) — Her attempt to reach him fails in silence rather than in words: two stretches of quiet, then an apology, then a hang-up — and the volume's last sight of her before Class D's punishment falls is a girl who tried to say something twice and did not.
+- **Caveat** (p.150) — She did not call Kushida either: "A few minutes later, Kushida confirmed that she hadn’t heard back from Sakura." Whatever she wanted is not in the record; his reading of it is a guess about the store clerk.
+
+#### p.163–166 — Ch.5 sec. 5.2: she testifies in the faculty room, and the teacher tests her
+
+After homeroom, the faculty room. Kushida brings her forward; Ayanokōji waits at the back "out of consideration for Sakura".
+
+- **Spoken** (p.163) — "Yes. I saw it."
+- **Feat** (p.163) — She gives the account in full for the first time: "None of us, not even the teacher, spoke a single word or even moved until the very end."
+- **Limit** (p.164) — Asked why she is speaking now, she cannot answer cleanly: "Well… That’s… I’m just not good at talking with other people…"
+- **Spoken** (p.164) — "Umm… Well, it’s because our…class is in trouble now, and…I thought if…if I testify, I can help…"
+- **Limit** (p.164) — Chabashira's interrogation reduces her physically: "Sakura hunched and shrank away, much like a frog cornered by a snake."
+- **Caveat** (p.164) — The narrator's reading, kept as his: "She should have realized that merely by speaking up, Sakura had made great progress."
+- **Spoken** (p.164) — "Yes…" — her answer to whether she mustered the courage; the page notes that "Sakura, upon imagining this, turned pale and anguished."
+- **Spoken** (p.165) — "Y-yeah…" — answering Kushida; "Sakura’s reply lacked confidence."
+- **Limit** (p.165) — The deliberation itself is the threat, not the testimony: "In addition to having to give her testimony in front of others, she was also going to have to sit alone with Sudou."
+- **Spoken** (p.166) — "N-no, it’s fine."
+- **Caveat** (p.166) — She agrees to an arrangement she does not want: "She didn’t seem to like this at all, but she also didn’t have much choice right now."
+
+#### p.169–175 — Ch.5 sec. 5.4: the night she asks him to come to her room
+
+Evening, her dorm room 1106 on the eleventh floor — "This was my first time setting foot there" — reached by email rather than a call.
+
+- **Spoken** (p.169) — "If I was absent from school tomorrow, what do you think would happen?"
+- **Spoken** (p.169) — "If it’s okay with you, could we meet right now? I’m in room 1106."
+- **Spoken** (p.169) — "If you could keep this a secret from everyone… That would really help me out."
+- **Spoken** (p.171) — "Come on in." — "She greeted me wearing casual clothes."
+- **Spoken** (p.171) — "Umm… Ayanokouji-kun, do you remember what you said before? You said I wasn’t obligated to step forward, even though I was the witness. You also said it was meaningless to force me to testify."
+- **Spoken** (p.171) — "I…just don’t have any self-confidence after all."
+- **Spoken** (p.171) — "I’ve been terrible at it for so long… I’m not good at speaking in front of others. If I’m asked to testify in front of the teachers tomorrow, I don’t think I’ll have the confidence to answer properly. So…"
+- **Spoken** (p.171) — "Ahhhhh. Jeez, why am I so completely useless?!"
+- **Trait** (p.171–172) — The outburst is new to him: "It was the first time I’d seen her like that." and "So she could be animated. I’d had no idea, considering her usually depressed look."
+- **Spoken** (p.172) — "That’s because I’m not afraid of your eyes, Ayanokouji-kun…"
+- **Spoken** (p.172) — "Oh, no. I don’t mean the eyes that you’ve seen me with. I mean the pupils, way back in the eyes… If you look someone deep in their eyes, you’ll understand. I’m sorry, I can’t really explain it well."
+- **Spoken** (p.172) — "Well, it’s just… When I see a man…even if he seems kind…I suddenly get afraid."
+- **Caveat** (p.172) — A cause is guessed and not confirmed: "I wondered if something had happened in Sakura’s past to cause her intense fear of men."
+- **Spoken** (p.172) — "I know it would be good to simply say what it is I saw. But no matter what I do, I can’t seem to imagine it… How can I speak that assertively?"
+
+#### p.176–178 — Ch.5 sec. 5.5: the club building, and advice she did not ask for
+
+She takes him to the club-activities building away from the school, the one "that hosted things like the archery club and the tea ceremony club", where arrows can be heard.
+
+- **Spoken** (p.176) — "I’m not, but I’ve wanted to come here at least once. I’d stand out if I came by myself, so…"
+- **Spoken** (p.176) — "Why did you ask me to come out, anyway?"
+- **Spoken** (p.176) — "Horikita-san, Kushida-san, Ike-kun, Sudou-kun, Yamauchi-kun…"
+- **Spoken** (p.177) — "I don’t know how to make friends at all. I’m envious. You were the first person to call me a friend."
+- **Spoken** (p.177) — "Yeah. I should apologize to Kushida-san sometime. She was the first one to call and invite me out, because I didn’t have the courage… I actually wanted to hang out with her. I just couldn’t answer her, no matter what I did. I’m so pathetic."
+- **Spoken** (p.177) — "Thank you, Ayanokouji-kun."
+- **Caveat** (p.178) — Whether the advice lands is left unresolved: "Hopefully, my words had found purchase somewhere in Sakura’s heart."
+
+#### p.179–181 — Ch.5 sec. 5.6: the class finds out what she does with her face
+
+Ayanokōji's room, that night; Kushida has called everyone but Sudō.
+
+- **Caveat** (p.179) — She is not present when the class identifies her; the blog is found by Kushida, under the name Shizuku.
+- **Caveat** (p.180) — The proof the narrator offers is a dormitory door visible in one photograph, and his line is: "You can barely see it, but the door to her dorm room is in this picture."
+- **Trait** (p.181) — The double life, stated plainly: "She lived a double life as an idol and a quiet, inconspicuous student at our school."
+- **Limit** (p.181) — Why she made the second life is not answered: "Why had she wanted to create another life? It was like a coin with two very different sides."
+- **Caveat** (p.180–181) — The lensless glasses she dropped the night before are the disguise the class is now discussing, though not in her own words.
+
+#### p.186–188 — Ch.5 sec. 5.7: the comments that explain her fear
+
+Her blog ran about two years, starting when she began working as an idol; more than 5000 followers on Twitter; she stopped replying after being accepted to the school.
+
+- **Limit** (p.187) — The record of one commenter escalates in public view: "Do you believe in fate? I do. I believe we will be together forever." then "Look, God is real after all."
+- **Caveat** (p.187) — The chapter's connection, kept as the narrator's inference: the electronics-store clerk recognised her, and the repair form carried her real name and phone number.
+- **Caveat** (p.187–188) — Her fear at the repair counter is explained in hindsight by that inference, not by anything she says.
+- **Limit** (p.188) — Nothing can be done before the hearing: "In the end, the only option was to wait on an SOS from the girl in question."
+
+#### p.190 — Ch.6 open: the morning she comes anyway
+
+The day of the hearing; she is in the classroom early, sitting alone "so as not to get roped into other students’ conversations," her expression "even gloomier than usual."
+
+- **Spoken** (p.190) — "Ah, yeah. I’m fine."
+- **Spoken** (p.190) — "I thought that things would be tough if I were absent today, so…"
+- **Caveat** (p.190) — Her attendance is a decision, not a habit: she came because "the entire class would be upset if she were absent."
+- **Spoken** (p.190) — "Yeah. I’ll be okay."
+- **Caveat** (p.190) — She can tell Ike and Yamauchi know about the idol work, and answers the room without being asked: she "quietly mouthed the words, 'It’s all right.'"
+- **Trait** (p.190) — The narrator credits the double life with the sensitivity: "Maybe working as an idol had made her sensitive to subtle changes in a room."
+
+#### p.191–200 — Ch.6 sec. 6.1: the testimony that nearly does not start
+
+Class D’s classroom at 3:50 PM, ten minutes before the hearing; she is "still sitting down, her body rigid" and stands with her lips trembling. The student council room on the fourth floor; she enters only when called, "looking worried and restless" and "down at her feet, as if scared of danger." Chabashira orders her to leave; she "closed her eyes tightly, as if she couldn’t bear it anymore, as if she regretted her own weakness."
+
+- **Spoken** (p.191) — "Yeah… I’m okay. Thank you…"
+- **Trait** (p.191) — "Sakura was far tenser than I’d expected" — enough that the narrator fears she "might not be able to speak satisfactorily."
+- **Spoken** (p.199) — "Y-yes, okay… Well… I…"
+- **Caveat** (p.199) — The silence is measured on the page: "Ten seconds. Twenty seconds." She looks further down and her face goes pale; Horikita’s prompt does not reach her.
+- **Spoken** (p.200) — "I definitely saw what happened!"
+- **Caveat** (p.200) — The narrator does not recognise the voice at first, and what identifies her is volume: "What most struck me was the volume of her voice."
+- **Spoken** (p.200) — "The students in Class C threw the first punch. There’s no mistake about that!"
+- **Trait** (p.202) — The delivery carries force beyond her manner: "She spoke so desperately that you wanted to believe she was telling the truth."
+
+#### p.202–205 — Ch.6 sec. 6.1: the photographs
+
+- **Spoken** (p.202) — "That’s… Well, that’s… I didn’t want to get involved…"
+- **Spoken** (p.202) — "Because I’m not very good at talking with other people…"
+- **Spoken** (p.202) — "That’s… I’m just…telling the truth…"
+- **Spoken** (p.202) — "N-no, that’s not it…"
+- **Spoken** (p.203) — "If you want proof… I’ll give it to you!"
+- **What happens** (p.203) — She slams her hand on the desk and throws down what look like "a few small, rectangular pieces of paper" — photographs, not paper.
+- **Spoken** (p.203) — "This is proof that I was in the special building that day!"
+- **Spoken** (p.204) — "I’m…I was looking for places where no one was around so I could take pictures of myself. The pictures also show the date and time, which proves that I was there when I said."
+- **Spoken** (p.204) — "A digital…camera."
+- **Caveat** (p.204) — The photographs show her in the other life: "this Sakura wore a lovely expression that looked both similar and dissimilar to the Sakura with us now. It was the idol, Shizuku."
+- **Caveat** (p.204) — The line presenting the decisive photo is untagged in the translation — "I think that you’ll believe I was there after seeing…this." — so it is recorded here without a speaker.
+- **Caveat** (p.204) — The last photo shows the fight itself: "The setting sun bathed the hallway in dusky light," and the image appears to be "what had happened immediately after Sudou hit Ishizaki."
+
+#### p.209–212 — Ch.6 sec. 6.1: after the hearing
+
+- **Spoken** (p.209) — "I tried my absolute hardest to speak up during the discussion, but do we even have a chance? Horikita?"
+- **Spoken** (p.210) — "You understand that we won’t solve this problem just by being stubborn. Won’t that just hurt more people in the process?"
+- **Spoken** (p.210) — "I’m sorry, Ayanokouji-kun… If I’d only stepped forward in the very beginning, everything would have been fine, but… Everything turned out this way because I didn’t have the courage."
+- **Spoken** (p.210) — "But!"
+- **Spoken** (p.211) — "I-I…I just…told the truth…"
+- **Spoken** (p.212) — "But…it’s all my fault… Hic."
+- **Spoken** (p.212) — "But… I…"
+- **Spoken** (p.212) — "But… I… Wasn’t I completely useless?"
+- **Trait** (p.213) — The narrator’s read of the crying: "Sakura seemed to be the type who bottled up her feelings," and the hearing "might have been an important step forward for her."
+
+#### p.213–214 — Ch.6 sec. 6.2: walking out
+
+- **Spoken** (p.213) — "I let you see something so embarrassing…"
+- **Spoken** (p.213) — "It’s been such a long time since I cried in front of someone. I feel a little relieved, actually."
+- **Spoken** (p.213) — "I had no idea that you were like that, Ayanokouji-kun. That’s completely unlike the image I have of you."
+- **Spoken** (p.213) — "I was really happy…when you said that you believed me."
+- **Spoken** (p.213) — "Yeah… But you came out and told me directly, Ayanokouji-kun. You said it."
+- **Spoken** (p.213) — "You gave me courage. I was happy,"
+- **Spoken** (p.213) — "U-um, well… I don’t think I should be saying this now, but…"
+- **Spoken** (p.214) — "Actually… I… Right now…"
+- **Spoken** (p.214) — "Oh, no, it’s nothing. I just…wanted to say that I would try my best. I’ll be brave."
+- **Limit** (p.214) — The sentence she begins at the entranceway is cut off by Ichinose’s arrival and never resumed; she opens her shoe locker, gives the smaller answer, and hurries out when the narrator calls after her.
+
+#### p.222–225 — Ch.7 sec. 7.1–7.2: the morning greeting and the last talk before the trial
+
+She is already at her desk when Ayanokōji arrives — earlier than usual — sitting up straight, "as if ready for something."
+
+- **Spoken** (p.222) — "Um… Good morning, Ayanokouji-kun. Horikita-san."
+- **Caveat** (p.222) — The answer she gets back, "G-good morning…", is printed with no speaker; the narrator only records that his own response stuck in his throat.
+- **Spoken** (p.224) — "Ayanokouji-kun… We’re having the trial today."
+- **Spoken** (p.224) — "I see…"
+- **Spoken** (p.224) — "It’s because everyone’s doing their best. I thought I’d do my best, too."
+- **Caveat** (p.224) — The page reads the line "felt like that she was saying that to herself, rather than to me."
+- **Spoken** (p.224) — "Well, if there’s something I need to move forward… I’ll do it."
+- **Caveat** (p.224) — Her farewell smile and words "seemed so unlike her" and leave him with an unpleasant feeling.
+- **Spoken** (p.224) — "See you later, Ayanokouji-kun."
+- **Spoken** (p.225) — "I have plans today. Maybe tomorrow?"
+
+#### p.236–238 — Ch.7 sec. 7.4: the shuttered door
+
+At the electronics-store entrance her fan — the store clerk who has been sending hundreds of letters to her room — catches her alone.
+
+- **Spoken** (p.236) — "Please don’t contact me anymore!"
+- **Spoken** (p.236) — "Stop… Please, stop it!"
+- **Spoken** (p.236) — "How do you know my room number? Why do you keep sending these?"
+- **Spoken** (p.236) — "Please stop it. It’s bothering me!"
+- **What happens** (p.236) — She throws the bundle of letters to the floor, rejecting him.
+- **Spoken** (p.236) — "D-don’t come any closer!"
+- **What happens** (p.236) — He latches onto her arm and shoves her against the store’s shuttered door.
+- **Spoken** (p.237) — "No, let me go!"
+- **Caveat** (p.237) — She is "completely dumbfounded" by the delinquent tone Ayanokōji puts on for the act.
+- **What happens** (p.238) — When the clerk runs she is exhausted enough to topple, and Ayanokōji catches her arms and holds her up.
+- **Spoken** (p.238) — "Ayanokouji… kun. Why are you here?"
+- **Spoken** (p.238) — "I guess I’m no good after all… I couldn’t do anything by myself in the end."
+
+#### p.239–240 — Ch.7 sec. 7.4: permission, and a footing with Class B
+
+- **What happens** (p.239) — She meets Ayanokōji’s eyes and gives him a slight nod — permission to tell Ichinose the idol name.
+- **Spoken** (p.239) — "When did you realize, Ayanokouji-kun?"
+- **Spoken** (p.239) — "But I never appeared on TV or anything…"
+- **Spoken** (p.239) — "I think I’m actually glad about this, though… It’s been hard to lie."
+- **Trait** (p.239) — "She laughed while seemingly on the verge of tears."
+- **Spoken** (p.239) — "Ayanokouji-kun… Don’t look at me with such strange eyes."
+- **Spoken** (p.239) — "Never mind, it’s nothing."
+- **Spoken** (p.239) — "Do you think everyone would notice if I came to class without my glasses, and changed my hairstyle?"
+- **Spoken** (p.240) — "Okay. I understand,"
+- **What happens** (p.240) — A little hesitant, she shakes Ichinose’s outstretched hand.
+- **Position** (p.240) — The new footing is stated to her: if she suffers or feels lost she can talk to Ayanokōji, and she should consult Horikita and Kushida too.
+
+### Year 1, Volume 3
+
+#### p.48, p.52–63, p.74–97 — Ch.2: the forest team, the blush, and the second volunteer shift
+
+Walking from beach to forest; she is at the back, watching Ayanokōji's back — and looks away when he turns.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.53–55) — Leftover-paired with him and Kouenji; trips on roots and he pulls her up, brushing dirt from her hands — "S-sorry." / "You don’t need to apologize."
+- **Relationship · Ayanokōji Kiyotaka** (p.54) — Flusters and hurries forward when he asks why she raised her hand: "Th-that’s not what I mean! It’s just that since there isn’t anyone I can talk to, that’s why…"
+- **Feat** (p.57) — Lends her handkerchief for the trail marker without hesitation.
+- **Relationship · Ayanokōji Kiyotaka** (p.60–61) — Goes "almost comatose" when he holds her hand through the Class A hide — "I thought I was going to die. My heart stopped…" — and adjusts her glasses as she recovers.
+- **Relationship · Kōenji Rokusuke** (p.56) — Surprisingly harsh on him in the moment: "Kouenji-kun has been acting pretty funny from the start, so it’s okay."
+- **Relationship · Horikita Suzune** (p.63–64) — Scared off by a single sharp look — "Were you looking at me just now?" — and runs to put distance between them.
+- **Relationship · Ayanokōji Kiyotaka** (p.74–75) — Second volunteer shift, the branch run, after Sudou and Yamauchi refuse; "if I stay here, well…it’ll be…a little uncomfortable."
+- **Relationship · Ayanokōji Kiyotaka** (p.86) — Asks whether he should have taken Ike's fire credit himself; his answer moves her — "like she was moved by my words."
+- **Relationship · Yamauchi Haruki** (p.96–97) — Eats alone at the edge of the groups; the boys' attention lands on her body while the chapter keeps her out of the conversation entirely.
+- **Limit** (p.96) — Yamauchi's map of the class: she and Horikita are the two girls "who are by themselves."
+
+#### p.131–135 — Ch.4 sec. 4.1: chasing him into the forest
+
+Chases him out of base camp breathless on the third day and insists on coming along, rumors or not.
+
+- **Spoken** (p.131) — “Ahh, ahh, ahh… Wh-where are you planning to go now, Ayanokouji-kun?”
+- **Spoken** (p.131) — “I-It’s probably not okay for me…to come along, is it? I’d only slow you down, probably, but…”
+- **Spoken** (p.131) — “That doesn’t bother me at all. Besides, I….”
+- **Spoken** (p.131) — “Th-this is fun, though!”
+- **Relationship · Ayanokōji Kiyotaka** (p.131) — Offers more resistance to being left behind than he expects; after their eyes meet she crouches and hides her face.
+- **Spoken** (p.132) — “Really? It’s okay?!”
+- **Spoken** (p.132) — “No, not at all… We don’t really talk or anything,”
+- **Spoken** (p.132) — “I’m just worthless, really. I can’t do sports, or study. I’m not really growing as a person in any area.”
+- **Spoken** (p.132) — “Huh? Me, progress? Ah ha ha… That’s not true, though.”
+- **Voice** (p.132) — Absolute self-devaluation — worthless, no growth in any area — delivered while twirling her hair with an index finger, with a laugh to wave off the encouragement.
+- **Relationship · Ayanokōji Kiyotaka** (p.132) — Stops walking at his assurance, eyes trembling, to work out whether he means it.
+- **Spoken** (p.133) — “Thank you for everything… Everything worked out thanks to you, Ayanokouji-kun.”
+- **Spoken** (p.133) — “No, everything’s been fine. Actually, I’ve been taking a little break from the bulletin board, too.”
+- **Position** (p.133) — The stalker from the electronics store has resigned, and she has stepped back from the bulletin board as a precaution.
+- **Spoken** (p.133) — “Well, that’s…that’s because I did the photography myself.”
+- **Spoken** (p.133) — “I didn’t do well, and I also took way more time than the others. A cameraman would take pictures of the girls to make sure there were as few people involved as possible. Besides…back then, I was able to bear it because I made myself empty. It was like I erased myself, eliminated my feelings. But I eventually reached my limit, so I had to take a break.”
+- **Trait** (p.133) — On the idol years: she made herself empty to get through the shoots and only broke when she reached her limit — spoken in one run, stopping at the end for a deep breath.
+- **Caveat** (p.133–135) — The trip answer and the lines between the narration beats are untagged; they continue her own tagged speech, so they are recorded as hers.
+- **Spoken** (p.134) — “Nature sure is amazing, isn’t it? I like to spend a lot of my free time out in nature, even if it’s just walking around,”
+- **Spoken** (p.134) — “When we left for the trip, I felt depressed at first. I didn’t have any friends, and I don’t really like traveling. I thought it would be fine if I could just stay in my room. If I did that, my life would have been the same as always. But then, all this happened. We were told this was some kind of test…”
+- **Spoken** (p.134) — “But now I’m kind of glad that we came here. That’s because I never really had the chance to talk with you like this before, Ayanokouji-kun…”
+- **Relationship · Ayanokōji Kiyotaka** (p.134) — The two of them deep in the forest, embraced by nature and a feeling of serenity.
+- **Spoken** (p.135) — “I wish we could stay like this forever…”
+- **Spoken** (p.135) — “Oh… It’s too bad. If I had my digital camera, I probably could have taken the best photos, but…”
+- **Spoken** (p.135) — “No, if you’re in the picture, Ayanokouji-kun, it will be the best photo… Ah! No! I mean, that is, I’ve never taken a picture with a friend before!”
+- **Relationship · Ayanokōji Kiyotaka** (p.135) — Frames herself and him with thumb and forefingers several times, then makes an embarrassed face at having done it.
+- **Trait** (p.135) — The camera habit runs deep enough to frame a shot that cannot be taken — and the new thing she names is a picture with a friend.
+
+#### p.137–140 — Ch.4 sec. 4.2: the caterpillar and the corn
+
+Panics when he seizes her shoulders mid-break — a caterpillar is in her hair, a fact he never tells her.
+
+- **Spoken** (p.137) — “Wh-what?! What is it?!”
+- **Spoken** (p.137) — “Wh-what is it?”
+- **Spoken** (p.137) — “N-not at all. I absolutely can’t stand them. Ants either.”
+- **Spoken** (p.137) — “O-okay. Sure…”
+- **Spoken** (p.138) — “Ugh…I feel like there was something gross on me…”
+- **Spoken** (p.138) — “Umm… What’s different?”
+- **What happens** (p.138) — Searches the bushes away from him and shrieks at something in them.
+- **Spoken** (p.139) — “Hey, look! I found something amazing!”
+- **Feat** (p.139) — Finds a different variety of leaves and yellow ears inside a thicket — the discovery the trip was for.
+- **Spoken** (p.139) — “Huh?! Wh-wh-wh-what are you doing, Ayanokouji-kun?! It’s way too soon for that!”
+- **What happens** (p.139) — Drops the corn and covers her eyes with both hands when he takes his shirt off.
+
+#### p.140–142 — Ch.4 sec. 4.3: Katsuragi at the cornfield
+
+Jumps when Katsuragi and Yahiko arrive at the thicket and hides behind his back.
+
+- **Relationship · Katsuragi Kōhei** (p.140) — Draws his apology for the surprise — he saw where she had run to.
+- **Relationship · Totsuka Yahiko** (p.140) — His shout makes her jump again and curl into a ball; Katsuragi answers with a thump to his head.
+- **Relationship · Ike Kanji** (p.141) — Ike’s camp greeting names her as one of the two who found the food.
+- **Relationship · Yamauchi Haruki** (p.141) — The jealousy scene runs over her: he shoves Ayanokōji away from her side before the whole camp.
+- **Relationship · Ayanokōji Kiyotaka** (p.141) — Leaves the thicket with him while she still looks worried.
+- **What happens** (p.141–142) — Back at base camp for the report; the harvest team forms soon after and everyone is back by one o’clock.
+
+#### p.171–178 — Ch.6 sec. 6.1: speaking up
+
+Cowering behind everyone, she speaks up for Ayanokōji when no other girl will — and becomes Karuizawa’s next target.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.175) — Speaks in his defense when the girls turn on him; the narration notes she dislikes being noticed more than anything.
+- **Spoken · Sakura Airi** (p.175) — “Um… I don’t think that A-Ayanokouji-kun would do such a thing…”
+- **Trait** (p.175) — Fidgets bashfully with her back arched, cowering behind everyone — a bold act for her.
+- **Relationship · Karuizawa Kei** (p.176) — Karuizawa changes her target to her the instant she speaks, lashing out as if sinking her teeth into prey.
+- **Spoken · Sakura Airi** (p.176) — “Well…that’s because…he isn’t that kind of person.”
+- **Spoken · Sakura Airi** (p.176) — “Y-you’re wrong!”
+- **What happens** (p.176) — Runs off into the forest under the teasing; Kushida chases after her.
+- **Relationship · Kushida Kikyō** (p.176) — Chases after her into the woods, judging it dangerous to go alone.
+
+#### p.194–199 — Ch.6 sec. 6.4: the forest search
+
+On the last forage with Yamauchi watching her, she trails the pair that heads off with Horikita.
+
+- **Spoken · Sakura Airi** (p.194) — “Eh? O-oh, it’s okay. I’m fine.”
+- **What happens** (p.194) — Leans forward to avoid Yamauchi’s gaze.
+- **Relationship · Yamauchi Haruki** (p.194) — He looks for excuses to talk to her while staring at her chest.
+- **What happens** (p.197) — Trails behind Horikita and Ayanokōji with her shoulders slumped as the pairs form.
+
+#### p.201–202 — Ch.6 sec. 6.5: waiting for the shower
+
+Refuses the river behind Ibuki’s lead and keeps her place in the shower line.
+
+- **Spoken** (p.201) — “W-well, I will, too…”
+- **What happens** (p.202) — Stays in the line rather than swim — she does not want the boys to see her in a swimsuit.
+- **Relationship · Ibuki Mio** (p.202) — Takes her refusal from Ibuki; the two wait in line together behind Karuizawa’s group.
+
+### Year 1, Volume 4
+
+#### p.15 — Ch.2: one of the three
+
+Named in Ayanokōji’s recollection of the people he could talk to in the first semester.
+
+- **Caveat** (p.15) — Listed with Horikita and Kushida as the three he talked with — his school life hadn’t been all that bad.
+
+#### p.25–28 — Ch.2 sec. 2.2: the roommate appeal
+
+Emails Ayanokōji to the second deck and stammers through her roommate worry; flees when Kushida appears.
+
+- **Spoken** (p.26) — “Wah! A-Ayanokouji-kun?!”
+- **Spoken** (p.26) — “N-no, no. I’m just kind of strangely nervous is all.”
+- **Trait** (p.26) — Nervous to the point of jolt-like surprise; her normally hunched posture straightens at once.
+- **Spoken** (p.26) — “Ayanokouji-kun, you’re roommates with Hirata-kun, Kouenji-kun, and Yukimura-kun. Right?”
+- **Spoken** (p.26) — “Oh. Well, to tell you the truth, I…I’m a little worried about the people I’m sharing a room with.”
+- **Spoken** (p.26) — “I’m not sure. I have mixed feelings. I do want to get along with them, but I also want to be alone, too. I’m just hopeless, aren’t I?”
+- **Spoken** (p.27) — “Oh. Didn’t I tell you? Shinohara-san, Ichihashi-san, and Maezono-san.”
+- **Spoken** (p.27) — “I…just thought any advice from you, Ayanokouji-kun, would be good?”
+- **Spoken** (p.27) — “I-I’m sorry to just come to you for help like this out of the blue. You’re so busy, Ayanokouji-kun.”
+- **What happens** (p.28) — “retreated as fast as her legs would carry her” at Kushida’s arrival.
+- **Relationship · Kushida Kikyō** (p.27–28) — Rejection and flight; Kushida’s brightness lands as threat.
+- **Relationship · Shinohara Satsuki** (p.27) — Names her as roommate one; the narration adds Shinohara won’t go out of her way for her.
+- **Relationship · Ichihashi Ruri** (p.27) — Roommate two — named only; no file yet (first appearance volume).
+- **Relationship · Maezono** (p.27) — Roommate three — named only; no file yet.
+- **Relationship · Ayanokōji Kiyotaka** (p.25–28) — Comes to him because “any advice from you…would be good.”
+
+#### p.97–102 — Ch.3 sec. 3.2: the bow stress-talk
+
+Waits behind a pillar on the bow deck after moving from the crowded elevator route; mutters to herself, hands Ayanokōji the Cow roster, and finds the one person who will take her call.
+
+- **Spoken** (p.98) — “I was thinking about it, but…h-how do I do it?” she murmured out loud. (before he arrives — self-talk over the wind)
+- **Spoken** (p.98) — “Aaaieeeeeeeeeeee!” Sakura yelped, practically jumping out of her own skin. Seemed like I’d surprised her after all. “Wh-wh-when did you get here? How much did you hear?” she asked frantically.
+- **Spoken** (p.100) — “Were you listening?! Did you hear what I was saying?!” Sakura shouted.
+- **Spoken** (p.100) — “Um, well. You see, it’s…ah… I was s-stressing out over the test!” she shouted.
+- **What happens** (p.100) — Hands him a list — the Cow group names by class — looking incredibly depressed.
+- **Spoken** (p.100-101) — “I thought I might know someone from another class but…amazingly enough, I don’t know anyone. No one who would remotely consider me a … friend,” said Sakura.
+- **Spoken** (p.101) — “Ah, it’s okay. You don’t need to apologize. It’s just that…I don’t have any friends!” Sakura responded.
+- **Spoken** (p.101) — “Huh? Me? What is it?”
+- **Spoken** (p.101) — “Yamauchi-kun? No, he hasn’t. Is something the matter?” she asked. (on Yamauchi contact)
+- **Spoken** (p.101) — “Is that okay?” asked Sakura. (after he offers to be her contact)
+- **Spoken** (p.101) — “I’ll definitely contact you!” she said.
+- **Trait** (p.101–102) — Eyes sparkle like a child’s; a little different from her usual self — overjoyed, more vigor, maybe more assertive; the island test “changed her life in unexpected ways” and she has learned to stay positive.
+- **Relationship · Ayanokōji Kiyotaka** (p.98–102) — The loner pact, the contact offer, and the secret he keeps about Yamauchi’s email promise.
+- **Relationship · Yamauchi Haruki** (p.101) — Names him as not having been in touch; does not know the email promise.
+- **Relationship · Sudō Ken** (p.100) — On her Cow roster as a Class D boy she is stuck with.
+- **Relationship · Ike Kanji** (p.100) — The other Class D boy on the roster.
+- **Relationship · Matsushita Chiaki** (p.100) — The fourth Class D name on her list.
+
+#### p.103–105 — Ch.3: the email-address standoff
+
+Yamauchi corners Ayanokōji over the promise he never made.
+
+- **Caveat** (p.103) — Yamauchi shouts that Ayanokōji was talking with Sakura just now and was after her all along.
+- **Caveat** (p.104) — Ayanokōji refuses to hand over Sakura’s contact information without her consent, then asks whether Yamauchi means to make Sakura tell him.
+- **Caveat** (p.105) — Yamauchi bursts at the chance of a new camera for Sakura; Ayanokōji tells him to earn it first so he deserves a former idol.
+
+#### p.116 — Ch.3: a pair of assets
+
+Named as one of the two people Ayanokōji might still be able to use.
+
+- **Caveat** (p.116) — He counts Horikita and Sakura as potential eyes and ears while planning his next move.
+
+#### p.179, p.189 — Ch.4: the meek comparison
+
+Her name becomes the measure for the meek, bullied type.
+
+- **Caveat** (p.179) — The narration contrasts personalities like Sakura against Karuizawa’s confident, selfish type.
+- **Caveat** (p.189) — Another girl with them seems meek, rather like Sakura — probably Rika.
+
+#### p.183–184 — Ch.4 sec. 4.5: the Cow group ends
+
+Calls Ayanokōji after the Cow-group early-end email; denies the VIP role, reports Class A’s silence, and waves goodbye.
+
+- **Spoken** (p.183) — “Yeah…” she replied.
+- **Spoken** (p.183) — “Have I done something wrong?” she asked.
+- **Position** (p.183) — The Cow group has ended — same notice the Monkey group got; she reads unease into it.
+- **Relationship · Kōenji Rokusuke** (p.183) — His Monkey ending is the comparison Ayanokōji uses for the Cow email — two different betrayal motives (certainty vs impatience).
+- **Spoken** (p.183) — “No, you haven’t. This just means that someone in the Cow group reported to the school who they think the VIP is.” (his line, in exchange)
+- **Spoken** (p.183) — “Sakura, were you the VIP? Or was it someone else?” (his line)
+- **Spoken** (p.183) — “No, I’m not the VIP. But I’m not sure about Sudou-kun or, um, the others,” she answered.
+- **Relationship · Sudō Ken** (p.183) — Names him in the uncertain Cow roster — no idea whether he or the others were the VIP.
+- **Spoken** (p.183) — “Okay. Thank you, Ayanokouji-kun. I’m happy you told me that.”
+- **Spoken** (p.183) — “How are things with Class A? I heard rumors that none of them are participating in the discussions.” (his line)
+- **Spoken** (p.184) — “Yeah, it’s just like what the others have been saying. None of them have talked at all,” said Sakura.
+- **Relationship · Katsuragi Kōhei** (p.184) — The Class A silence confirmed from her side — Katsuragi’s plan “rather thorough.”
+- **Spoken** (p.184) — “If there’s anything else, please let me know. You can talk to me anytime,” I told Sakura.
+- **Spoken** (p.184) — “Thank you, Ayanokouji-kun. See you later.”
+- **Trait** (p.184) — Waves her hands adorably on the goodbye — the meek profile he filed against Karuizawa’s type.
+
+### Year 1, Volume 4.5
+
+#### p.23 — Ch.2: a passing mention
+
+Ibuki is contrasted with Sakura as someone who never seemed to struggle the way Sakura does.
+
+#### p.28 — Ch.2: a passing mention in the partner list
+
+Named once as the one girl who would probably come — and the reason he does not ask her.
+
+- **Caveat** (p.28) — The couples floor would make her uncomfortable: “I felt like Sakura would probably come with me, but if I brought her to a place positively teeming with couples, it’d make her uncomfortable.”
+
+#### p.41 — Ch.2: a passing mention in the rescue call
+
+Named once as the quiet option that still would not work.
+
+- **Caveat** (p.41) — Gossip-free but easily flustered: “Sakura wouldn’t gossip, but the situation would probably fluster her.”
+
+#### p.49 — Ch.3: a passing mention
+
+AK compares Inogashira to Sakura: “a somewhat quiet, plain girl from Class D, rather like Sakura.”
+
+- **Relationship · Inogashira Kokoro** (p.49) — The comparison is the only footprint Sakura has in this chapter.
+
+#### p.83 — Ch.3: a passing mention
+
+Named as the girl Yamauchi is aiming for while he enjoys Kushida's company on the walk.
+
+- **Relationship · Yamauchi Haruki** (p.83) — The narration notes Kushida's charms reach him even with Sakura on his mind.
+
+#### p.120 — Ch.4: a passing mention
+
+Horikita immediately defers the water request to Sakura-san.
+
+- **Caveat** (p.120) — Relying on Kushida or Sakura is raised as the alternative.
+
+#### p.122, 130 — Ch.4: the one who had water
+
+AK's chat asking to borrow water goes unread; he assumes she is asleep. She replies that she was researching and didn't notice the message.
+
+- **Relationship · Horikita Suzune** (p.130) — Her late reply opens the way to real water; Horikita asks that she never learn who was stuck.
+- **Spoken** (p.130) — “You wanted water, right?”
+- **Spoken** (p.130) — “I’ll wait for you,”
+- **Caveat** (p.130) — Texting with her goes smoothly where talking in person is difficult.
+
+#### p.132–136 — Ch.5: the letter plan
+
+Yamauchi's scheme to buy her phone number and deliver a love letter runs through the chapter's opening.
+
+- **Caveat** (p.132) — The bargain made without her consent is recalled, along with the damage it caused.
+- **Caveat** (p.133) — Yamauchi's letter opens with his feelings for Sakura Airi-sama.
+- **Caveat** (p.134) — The plan to pay her to date him is weighed, and Kushida is asked to call her out.
+- **Caveat** (p.135) — How she feels is held as the deciding factor, given her shyness around men.
+- **Caveat** (p.136) — Ayanokōji contacts her and sets up the meeting behind the school building.
+
+#### p.137–143 — Ch.5 sec. 5.1: the letter
+
+Kushida's invitation brings her behind the school building; finding only AK is a relief.
+
+- **Relationship · Kushida Kikyō** (p.137) — She doesn't normally talk to Kushida and feared she had done something to make her angry.
+- **Spoken** (p.137) — “I don’t normally talk to Kushida-san, so I was worried I did something to make her angry.”
+- **Spoken** (p.138) — “But why get Kushida’s help, Ayanokouji-kun?”
+- **Spoken** (p.138) — “A l-letter…behind the school… A boy…”
+- **Spoken** (p.138) — “Ah, ahhh. Th-this is… Oh my. Oh my. Ahhh!”
+- **What happens** (p.139) — She stammers to a standstill once the words love letter come out.
+- **Spoken** (p.141) — “What about…Horikita-san?!”
+- **Spoken** (p.141) — “Eh? I-It’s not from you, Ayanokouji-kun?”
+- **Spoken** (p.141) — “But I can’t…I can’t do it! I can’t…”
+- **Spoken** (p.142) — “Never!”
+- **Spoken** (p.142) — “Will you read it with me?”
+- **Spoken** (p.142) — “That’s not possible now,”
+- **Spoken** (p.142) — “I-I’ll try reading it!”
+- **What happens** (p.142) — She hangs her head and leaves to read the letter alone in her room.
+
+#### p.144–146 — Ch.5 sec. 5.2: the night call
+
+Her midnight texts become a phone call; tomorrow's answer keeps her awake.
+
+- **Spoken** (p.144) — “Are you awake?”
+- **Spoken** (p.144) — “Did I wake you?”
+- **Spoken** (p.144) — “I have to meet with Yamauchi-kun at five tomorrow, but…can I meet you before that?”
+- **Spoken** (p.144) — “Is it okay if I call you?”
+- **Spoken** (p.145) — “I-I don’t know anything about Yamauchi-kun.”
+- **Spoken** (p.145) — “I just realized that liking someone, or hating someone, actually comes with a ton of responsibility.”
+- **Spoken** (p.145) — “Yamauchi-kun hasn’t done anything wrong, but this… I think I just don’t want this.”
+- **Spoken** (p.145) — “That’s what I’m wondering.”
+- **Spoken** (p.145) — “are you perhaps dating anyone at the…present time?”
+- **Spoken** (p.145) — “R-really?!”
+- **Spoken** (p.146) — “I was happy because you’re like me, that’s all.”
+- **Spoken** (p.146) — “Oh, you!”
+- **Spoken** (p.146) — “has anyone ever confessed their feelings to you?”
+- **Spoken** (p.146) — “Okay, I see!”
+- **What happens** (p.146) — She sounds happy again; they chat until she grows drowsy and the call ends.
+
+#### p.147–152 — Ch.5 sec. 5.3: the rejection
+
+She waits ten minutes early with a pained, shifting look; rain soaks them before the answer.
+
+- **Spoken** (p.147) — “Thank you for coming here, Ayanokouji-kun.”
+- **Spoken** (p.148) — “It’s raining,”
+- **Spoken** (p.148) — “I-I’m fine.”
+- **Spoken** (p.148) — “I’m surprisingly tough, you know,”
+- **What happens** (p.148) — She dries his hair and face with the island handkerchief.
+- **Backstory** (p.148) — The handkerchief is the one she lent him on the uninhabited island.
+- **Spoken** (p.149) — “I…I wonder what I should do…”
+- **Spoken** (p.149) — “I’m going to turn him down.”
+- **Spoken** (p.149) — “I don’t think I’m qualified to reject someone.”
+- **Spoken** (p.150) — “Please don’t leave me alone,”
+- **Spoken** (p.150) — “Wh-why do you like…me?”
+- **Spoken** (p.150) — “I…I’m sorry!”
+- **Spoken** (p.150) — “I can’t, um, return your feelings”
+- **Spoken** (p.151) — “G-goodbye!”
+
+#### p.158–177 — Ch.6: the subject and the friend
+
+She is the reason AK forbids Karuizawa's bullying — Sakura has helped him several times.
+
+- **Relationship · Karuizawa Kei** (p.159) — Karuizawa agrees to be careful with her, at AK's asking.
+- **Relationship · Ayanokōji Kiyotaka** (p.175) — Walking beside him at the pool, she thanks him for the invitation.
+- **Spoken** (p.175) — “For inviting me out today.”
+- **Spoken** (p.175) — “Still, thank you,”
+- **Relationship · Ayanokōji Kiyotaka** (p.176) — Her growth — answering the confession instead of running — makes him think he could change too.
+- **Spoken** (p.176) — “I used my poor health as an excuse to run away.”
+- **Trait** (p.176) — She has become bolder — barely recognizable as the girl he first met.
+- **What happens** (p.177) — She steps back the moment Kanzaki approaches so he won't notice her.
+
+#### p.182, 200–203 — Ch.6: watching, deciding, grinning
+
+Sakura sits out the volleyball game, freezes over the ice cream freezer, and ends the day looking a little more relaxed.
+
+- **Spoken** (p.182) — “U-um, I'm pretty bad at physical activity, so…I'll watch,” said Sakura.
+- **Spoken** (p.200) — “Wh-what do I pick, I wonder?”
+- **Spoken** (p.200) — “What should I do?” she muttered.
+- **Spoken** (p.201) — “Oh no, I like all kinds.”
+- **Spoken** (p.201) — “W-well, I'll have that too, then.”
+- **Relationship · Ayanokōji Kiyotaka** (p.201) — After he picks the soft serve, she copies his choice so she won't hold up the group.
+- **Position** (p.203) — She parts with Kushida looking a little more relaxed and manages a small grin after the last day of vacation.
+
+#### p.215, 218 — Ch.7: the rash guard and the escape
+
+She changes apart from the other two in her rash guard, deeply self-conscious even among girls, and escapes at the first chance.
+
+- **Caveat** (p.215) — The rash guard that completely hides her upper body is her salvation, unlike ordinary swim class.
+- **Relationship · Ichinose Honami** (p.218) — She answers rigidly and avoids eye contact when Ichinose greets her, then shifts away the moment Kanzaki comes up.
+- **Spoken** (p.218) — “Y-yeah, I suppose so,” replied Sakura.
+- **Spoken** (p.218) — “Y-yes,” said Sakura.
+- **Trait** (p.218) — Even being around the other girls makes her deeply self-conscious.
+
+#### p.219 — Ch.7: a passing mention
+
+Recognizing her chance to escape, she shifts away.
+
+### Year 1, Volume 5
+
+#### p.30 — Ch.2: passing mention
+
+Named in the narration comparing Sakayanagi’s looks to Kushida and her.
+
+- **Relationship · Sakayanagi Arisu** (p.30) — One of the two girls Sakayanagi is measured against when Class D’s boys size her up.
+
+#### p.39–53 — Ch.3 sec. 3: Follows Sudou’s hand
+
+Sakura raises her hand with Sudou and Yukimura for Horikita’s ability plan during the homeroom vote.
+
+- **What happens** (p.43) — Votes with the ability camp — one of the sixteen hands for Horikita’s plan.
+- **Relationship · Sudō Ken** (p.43) — Follows Sudou’s declared choice into the same camp.
+
+#### p.54–67 — Ch.4 sec. 4: Last place, then the worst pair
+
+Sakura finishes last in the aptitude tests, barely able to stand, and is praised for giving it her all.
+
+- **Spoken** (p.57) — “A-Ayanokouji-kun.”
+- **Trait** (p.57) — Works hard to contribute for the class, but her lack of physical endurance is still the problem.
+- **Relationship · Inogashira Kokoro** (p.62) — Pairs with Inogashira for the three-legged race — the slowest of the five girl pairs, “slow as molasses.”
+
+#### p.68–85 — Ch.5 sec. 5: Named in passing
+
+Sakura is named as the girl Yamauchi confessed to over the summer — and lost.
+
+- **Relationship · Yamauchi Haruki** (p.72) — The defeat still shows in Yamauchi’s forced smile during the noodle talk.
+- **Caveat** (p.74) — Ayanokōji considers bringing her or Karuizawa to the grounds instead of Kushida, but judges the wrong person for the job.
+
+#### p.92–99 — Ch.6 sec. 6: not last
+
+Sakura arrives breathless beside Ayanokōji after the girls’ 100-metre dash, still hurting from the effort.
+
+- **Caveat** (p.92) — Sakura arrives panting “Ahh…ahh…! I-It hurts…” — the broken cry is too short for a quote row.
+- **Spoken** (p.92) — “W-were you watching me, Ayanokouji-kun?” she asked.
+- **Relationship · Ayanokōji Kiyotaka** (p.92) — He lies by omission and says “You did well,” because he had been chasing Sudou and saw nothing.
+- **Spoken** (p.92) — “This is the first time I didn’t come in dead last.” She beamed.
+- **Relationship · Sudō Ken** (p.92–94) — Her race ran while he was chasing Sudou; she never knows the gap.
+- **Spoken** (p.94) — “You might hurt yourself,” I said.
+- **Caveat** (p.94) — She replies “O-okay!” — a five-character answer kept as note rather than a quote row.
+- **What happens** (p.94) — Always the slowest in practice, she finally beats someone on her own effort, not an opponent’s mistake.
+- **What happens** (p.99) — Runs the girls’ hurdles in the same heat as Horikita; zero expectations, trembling at the start.
+- **Trait** (p.92–99) — Gratitude for the smallest kindness; her festival is measured in not finishing last.
+
+#### p.98, 189 — Ch.6, Ch.9: passing mentions
+
+Named in the stalker-incident flashback that Ichinose may have seen Ayanokouji running.
+
+- **Caveat** (p.98) — Back during the incident with Sakura’s stalker, she might have seen him; she paid for that knowledge somehow.
+- **Caveat** (p.189) — After the relay, Sakura was also looking at Ayanokouji from afar, blocked by the crowd.
+
+### Year 1, Volume 6
+
+#### p.19, 22 — Ch.2 sec. 2.1: almost says something
+
+As Ayanokouji follows Satou out, Sakura makes a sound as if to speak — no words come out, and she does not follow.
+
+- **Relationship · Satō Maya** (p.19) — Present at the classroom door when Satou leads him away for the phone-number talk.
+- **Relationship · Yamauchi Haruki** (p.22) — Ayanokouji recalls Yamauchi’s earlier confession to her while reflecting on his own unexpected “confession.”
+- **Caveat** (p.19) — No dialogue from Sakura on these pages.
+
+#### p.97–98, 102 — Ch.5: the stalker at Pallet
+
+Watching Ayanokōji from another seat; jumps when he sits beside her. Watching Ayanokōji from another seat; jumps when he sits beside her.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.97–98) — Claims coincidence, then study materials in her bag scream a wish to join; he invites her, then keeps his distance.
+- **Caveat** (p.97) — Short utterance: Hyaaah?!
+- **Spoken · Sakura Airi** (p.97) — “I-It’s just a coincidence, Ayanokouji-kun!”
+- **Spoken · Sakura Airi** (p.97) — “Yes, a coincidence.”
+- **Spoken · Sakura Airi** (p.97) — “Well, that’s… I mean… I’m sorry.”
+- **Spoken · Sakura Airi** (p.98) — “Wh-wh-why do you say that?!”
+- **Spoken · Sakura Airi** (p.98) — “B-but I…I’ve hardly ever spoken to them before.”
+- **Relationship · Yukimura Teruhiko** (p.102) — Still has not come over when the group leaves.
+- **Trait** (p.97–98) — Public places remain hard; she almost flees to the dorm but holds her seat — something is going on in her mind.
+- **Relationship · Ayanokōji Kiyotaka** (p.97–98) — Claims coincidence, then study materials in her bag scream a wish to join; he invites her, then keeps his distance.
+- **Caveat** (p.97) — Short utterance: Hyaaah?!
+- **Spoken · Sakura Airi** (p.97) — “I-It’s just a coincidence, Ayanokouji-kun!”
+- **Spoken · Sakura Airi** (p.97) — “Yes, a coincidence.”
+- **Spoken · Sakura Airi** (p.97) — “Well, that’s… I mean… I’m sorry.”
+- **Spoken · Sakura Airi** (p.98) — “Wh-wh-why do you say that?!”
+- **Spoken · Sakura Airi** (p.98) — “B-but I…I’ve hardly ever spoken to them before.”
+- **Relationship · Yukimura Teruhiko** (p.102) — Still has not come over when the group leaves.
+- **Trait** (p.97–98) — Public places remain hard; she almost flees to the dorm but holds her seat — something is going on in her mind.
+
+#### p.152–154 — Ch.6 sec. 6.3: she asks to join the new group
+
+Has tailed every study session; when the four stand outside the convenience store and name the Ayanokouji Group, she trips out of hiding and forces a request.
+
+- **Spoken · Sakura Airi** (p.152) — “U-u-um, excuse me!”
+- **Spoken · Sakura Airi** (p.152) — “I-I also want to join Ayanokouji-kun’s group!”
+- **Spoken · Sakura Airi** (p.153) — “N-no, it’s not that. I just… I genuinely want to join the group!”
+- **Spoken · Sakura Airi** (p.153) — “Is letting me join really all right?”
+- **Spoken · Sakura Airi** (p.153) — “Th-thank you, Miyake-kun… Yukimura-kun…”
+- **Spoken · Sakura Airi** (p.153) — “Ah…so I-I, uh, I can’t…?”
+- **Spoken · Sakura Airi** (p.154) — “U-um…”
+- **Spoken · Sakura Airi** (p.154) — “K-Keisei-kun, Akito-kun, Haruka…san… Whew…”
+- **Spoken · Sakura Airi** (p.154) — “Ki-Kiyo-Kiyo…pyo!”
+- **Spoken · Sakura Airi** (p.154) — “Yeah…K-Kiyotaka-kun. I look forward to studying with you all.”
+- **Spoken · Sakura Airi** (p.154) — “H-hello!”
+- **Feat** (p.152–154) — Walks up to a new friend group uninvited, takes Haruka’s first-name test, and says Airi’s name back — the biggest social step in her record so far.
+- **Relationship · Ayanokōji Kiyotaka** (p.152–154) — The group is named for him; he supplies her first name Airi without hesitation and encourages her after the test.
+- **Relationship · Hasebe Haruka** (p.153–154) — Haruka holds the smile back and runs the first-name rule as a gate; only then votes yes.
+- **Relationship · Yukimura Teruhiko** (p.153) — Suggests she join Horikita’s group instead; concedes when Akito and Haruka accept.
+- **Relationship · Miyake Akito** (p.153) — First to say she fits: all loners, no qualifications needed.
+- **Trait** (p.152–154) — Crooked glasses, deep blush, stammer that worsens under attention — but she does not leave until the vote is in.
+
+#### p.156, 159–162 — Ch.6 sec. 6.4–6.5: the movie seat and the jealousy check
+
+Texts that she wants to go; at the theater she walks beside Ayanokōji and later quizzes him about Satou.
+
+- **Spoken · Sakura Airi** (p.156) — “I want to go, too.”
+- **Spoken · Sakura Airi** (p.156) — “I’m really excited about tomorrow, Kiyotaka-kun. Goodnight.”
+- **Spoken · Sakura Airi** (p.159) — “It kinda feels exciting to go out with everyone…K-Kiyotaka-kun,”
+- **Spoken · Sakura Airi** (p.159) — “Hee hee. Kiyotaka-kun.”
+- **Spoken · Sakura Airi** (p.159) — “Huh? What do you mean?”
+- **Spoken · Sakura Airi** (p.159) — “I-I did?! S-sorry, you must’ve heard wrong!”
+- **Spoken · Sakura Airi** (p.161) — “Um, K-Kiyotaka-kun?”
+- **Spoken · Sakura Airi** (p.161) — “Well, Kiyotaka-kun, it’s… Recently, you’ve gotten along pretty well with, um, Satou-san, right?”
+- **Spoken · Sakura Airi** (p.161) — “B-but…p-people don’t normally walk, um, a-arm-in-arm like that, do they?”
+- **Spoken · Sakura Airi** (p.161) — “Well, if you dislike it, you could just, um, shake her off,”
+- **Spoken · Sakura Airi** (p.162) — “Before we partnered up, you went somewhere with Satou-san alone, didn’t you?”
+- **Spoken · Sakura Airi** (p.162) — “I-Is there s-something g-going between you two?”
+- **Spoken · Sakura Airi** (p.162) — “N-no, I am. S-sorry. I’ve been asking you all these strange questions… Did I make you uncomfortable?”
+- **Spoken · Sakura Airi** (p.162) — “I’ll keep an eye on you, then, Kiyotaka-kun,” she replied. “L-Leave it to me!”
+- **Feat** (p.161–162) — Names the arm-in-arm and the earlier solo meeting without being told; her timid pushbacks are correct and Ayanokōji concedes each one.
+- **Relationship · Ayanokōji Kiyotaka** (p.156–162) — First-name texts at night; jealousy check about Satou; promised she can ask anytime.
+- **Relationship · Satō Maya** (p.161–162) — Watches the partner closeness and the classroom call-out; will keep an eye on them.
+- **Trait** (p.159–162) — Still stammers when she says his name, but she does not drop the questions until she has answers she can accept.
+
+### Year 1, Volume 7
+
+#### p.14–28 — Ch.2: Airi’s fun winter table
+
+Joins the Keyaki Mall group after class; speaks more freely than before and ends in tears of simple happiness.
+
+- **Spoken · Sakura Airi** (p.14) — “But it’s good that we made it through this exam, isn’t it? Besides, I don’t want to see someone expelled, even if they’re from another class,”
+- **Spoken · Sakura Airi** (p.15) — “I think that’d be wonderful, though,”
+- **Spoken · Sakura Airi** (p.16) — “Ah, so this other student made you want to join?”
+- **Spoken · Sakura Airi** (p.24) — “Y-yeah. I think that’s rude to Kiyotaka-kun,”
+- **Spoken · Sakura Airi** (p.26) — “Kiyotaka-kun, do you have any plans for Ch-Christmas?”
+- **Spoken · Sakura Airi** (p.27) — “S-sorry. No, it’s just… Well, I’m having fun. I’m having so much fun I started to laugh.”
+- **Spoken · Sakura Airi** (p.27) — “It’s just that I’ve never had such a fun time before. I’m really happy,”
+- **Spoken · Sakura Airi** (p.27) — “That’s fine with me. I like talking about stupid stuff,”
+- **Relationship · Hasebe Haruka** (p.16–17) — Hurt by the Instagram dismissal until Keisei apologises; included in the Christmas dating talk.
+- **Relationship · Yukimura Teruhiko** (p.15–17) — Direct beneficiary of his Instagram apology; teases his period confusion from the side.
+- **Relationship · Ayanokōji Kiyotaka** (p.17, 26–27) — Reacts when he defends her hobby; stammers the Christmas invitation question; happy he is present for the silly talk.
+- **Relationship · Miyake Akito** (p.16) — Chimes in on his archery origin story.
+- **Trait** (p.14–28) — No stomach for cruelty; camera hobby defended in public; opens up enough to laugh and name her happiness; no longer needs Ayanokōji standing over her to leave the table.
+- **Caveat** (p.31) — Blank page (page number only).
+
+#### p.48–53 — Ch.3: the rice-spill worry
+
+At the Keyaki Mall table when Haruka exposes the Shiina lunch; later asks the mastermind question.
+
+- **Spoken · Sakura Airi** (p.48) — “Wah! You promised that you wouldn’t say anything, Haruka-chan!”
+- **Spoken · Sakura Airi** (p.49) — “S-see?”
+- **Spoken · Sakura Airi** (p.49) — “I told you, but you wouldn’t believe me, Haruka-chan.”
+- **Spoken · Sakura Airi** (p.49) — “I-I see. So, it wasn’t a date or anything.”
+- **Spoken · Sakura Airi** (p.50) — “I see. They haven’t done anything to me, though,”
+- **Spoken · Sakura Airi** (p.50) — “Well, maybe someone’s been watching us, and we just haven’t noticed it yet,”
+- **Spoken · Sakura Airi** (p.52) — “H-hey, Kiyotaka-kun?”
+- **Spoken · Sakura Airi** (p.52) — “Please don’t be upset, but I wanted to ask you something,”
+- **Spoken · Sakura Airi** (p.52) — “Is it possible that maybe you’re the mastermind?”
+- **Spoken · Sakura Airi** (p.53) — “W-well, it’s just…you’re calm, and smart, and…reliable, so… I thought that you gave Horikita-san all kinds of helpful advice, so…”
+- **Spoken · Sakura Airi** (p.53) — “S-sorry. It’s just, well, I kind of thought that, for some reason or another. Maybe because of the advice you gave, that Ryuuen-kun might be after you. I felt bad for you…”
+- **Relationship · Hasebe Haruka** (p.48–49) — The one who broke the lunch secret; Airi had asked for silence.
+- **Relationship · Ayanokōji Kiyotaka** (p.48–53) — Worries for him, then asks the honest mastermind question without malice.
+- **Relationship · Yukimura Teruhiko** (p.51) — Named as the smart boy in Haruka’s candidate list.
+- **Trait** (p.48–53) — Honest to a fault; blushes through the rumor; turns worry into a direct, kind question.
+
+#### p.91–96 — Ch.3: first karaoke, then Ichinose fear
+
+Sings once at the group’s karaoke; later worries aloud that Ichinose might really be rotten.
+
+- **Spoken · Sakura Airi** (p.91) — “I wonder whether I can eat that stuff at all?” said Airi, who’d been anxious even before the game started.
+- **Spoken · Sakura Airi** (p.92) — “Y-yeah. It, um, was really embarrassing, though.” Even though she’d been painfully shy, Airi had given it her all.
+- **Spoken · Sakura Airi** (p.94) — “It was really warm today,” said Airi. “Everyone’s out in pretty light clothing, huh?”
+- **Spoken · Sakura Airi** (p.95) — “It’s just, like, how do I put this?”
+- **Spoken · Sakura Airi** (p.95) — “It’s like Ichinose-san lives in a different world from us or something.”
+- **Spoken · Sakura Airi** (p.96) — “I…I think it’s good that she’s like that, though. If Ichinose-san really was a bad person like Haruka-chan said, no one would believe it,” said Airi. She sounded anxious, as if she really didn’t want that to be true.
+- **Relationship · Hasebe Haruka** (p.91, 95–96) — Haruka’s spice pity and the Ichinose-rot debate.
+- **Relationship · Ichinose Honami** (p.95–96) — The “different world” girl she needs to stay kind.
+- **Relationship · Miyake Akito** (p.91, 94) — Group partners through karaoke and the walk.
+- **Relationship · Yukimura Teruhiko** (p.91) — Present for the punishment game.
+- **Trait** (p.91–96) — First karaoke embarrassment handled; kindness-as-moral anchor; anxiety that perfection might be a lie.
+
+#### p.154–156, 172 — Ch.6: Airi’s quiet Christmas
+
+Downhearted in the hallway as the group teases Ayanokōji about Satou.
+
+- **Spoken** (p.154) — “Y-y-you don’t think that S-Satou-san is interested in Kiyotaka-kun, do you?!”
+- **Spoken** (p.155) — “I’m okay with staying here…”
+- **Spoken** (p.155) — “Plus, the campus has almost everything we need. Do you feel the same as Haruka, Kiyotaka-kun? About going off campus?”
+- **Caveat** (p.156) — Looks disappointed when Ayanokōji heads back; Haruka is left to make sure she has a good time.
+- **Caveat** (p.172) — Named as one of the three people who could have seen Ibuki’s dirt-covered hands on the island — the circle that proves Ayanokōji’s claim.
+- **Trait** (p.154–156) — Shy, campus-content, frantic about the Satou rumour; not the night-on-the-town type.
+- **Relationship · Ayanokōji Kiyotaka** (p.154–156, 172) — Kiyotaka-kun she worries about and whose island observation she unknowingly corroborates.
+- **Relationship · Satō Maya** (p.154) — The classmate she fears is interested in him.
+- **Relationship · Hasebe Haruka** (p.154–156) — The friend tasked with keeping her company.
+- **Relationship · Ibuki Mio** (p.172) — One of the only witnesses to Ibuki’s dirty hands.
+
+### Year 1, Volume 7.5
+
+#### p.71 — Ch.3: named in the feelings talk
+
+Phone-call topic only — Haruka’s warning about Airi seeing Ayanokōji with Satou.
+
+- **Caveat** (p.71) — Passing mention: “If Airi sees you and Satou-san on a Christmas date, chances are she’ll faint, Kiyopon.”
+- **Mentioned** (p.71) — Passing mention only.
+- **Relationship · Hasebe Haruka** (p.71–72) — Haruka will handle Airi and move her own party.
+- **Relationship · Ayanokōji Kiyotaka** (p.71) — Feelings he acknowledges are not what she feels for most people; a baby bird leaving the nest.
+
+#### p.103–106 — Ch.4 sec. 4.3: the glove gift
+
+Past ten on Christmas Eve, Ayanokōji’s door; Airi returns from an afternoon with Haruka and hands him a red-ribbon package.
+
+- **Spoken · Sakura Airi** (p.103) — “G-g-good evening, K-Kiyotaka-kun!” stammered a familiar voice
+- **Spoken · Sakura Airi** (p.103) — “I heard from Haruka-chan that you have something going on tomorrow, Kiyotaka-kun. That means you won’t be able to come with us.”
+- **Spoken · Sakura Airi** (p.104) — “Um, well…I hope…that’ll you like it.”
+- **Spoken · Sakura Airi** (p.106) — “I’ve thought for a little while that you could use gloves, Kiyotaka-kun. You don’t have a pair, do you?”
+- **Spoken · Sakura Airi** (p.106) — “H-how do they feel?” she asked.
+- **Spoken · Sakura Airi** (p.106) — “I’m glad,” said Airi. “Well, uh, sorry for dropping by so late. Good night, Kiyotaka-kun.”
+- **Relationship · Ayanokōji Kiyotaka** (p.103–106) — Christmas gift of plain-blue gloves; first time she has seen him wear gloves; tiny wave at the elevator.
+- **Relationship · Hasebe Haruka** (p.103) — Hung out with her since two in the afternoon — Haruka’s “handling” of the Airi problem.
+- **Trait** (p.104–106) — Stammers; gifts for everyone so the one for him is easy to accept; watches him flex his hands.
+
+#### p.112, 142 — Ch.5: named in the safety net
+
+Named as the person Haruka is keeping away from the date; p.142 as the same answer Ayanokōji would give her.
+
+- **Caveat** (p.112) — Passing mention: Haruka’s plan so Airi would not bump into the date — Ayanokōji notes a four-person look would be more natural.
+- **Mentioned** (p.112) — Passing mention only.
+- **Caveat** (p.142) — Passing mention: “I’d give Airi the same answer if she ever decided to tell me about her feelings.”
+- **Mentioned** (p.142) — Passing mention only.
+- **Relationship · Ayanokōji Kiyotaka** (p.112, 142) — The feelings he would refuse with the same “not ready” line.
+- **Relationship · Hasebe Haruka** (p.112) — The cover afternoon still in force.
+
+### Year 1, Volume 8
+
+#### p.11–43 — Ch.2: named in the Ayanokōji Group chat
+
+Not on the bus dialogue line; named in the group chat Ayanokōji checks after texting Horikita and Kei.
+
+- **Caveat** (p.30) — Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam.”
+- **Mentioned** (p.30) — Passing mention only.
+- **Relationship · Ayanokōji Kiyotaka** (p.32) — Listed among the friends he hopes will not be expelled.
+- **Caveat** (p.76) — Chapter ends with the group-chat mention; no further pages this chapter.
+
+#### p.157, 173 — Ch.6: passing mentions
+
+Named as Airi when Ayanokōji recalls the uninhabited-island days.
+
+- **Caveat** (p.173) — Remembered alongside Haruka when deciding to investigate the Class C connection.
+
+#### p.165–167 — Ch.6 half 1: the bashful welcome
+
+Ayanokōji Group dinner; same group as Hasebe.
+
+- **Spoken · Sakura Airi** (p.165) — “I-It’s certainly been a while, hasn’t it, Kiyotaka-kun?”
+- **Spoken · Sakura Airi** (p.166) — “I’m really glad that Haruka-chan is there for me.”
+- **Spoken · Sakura Airi** (p.166) — “So Kouenji-kun is with you too… Are you all right, Kiyotaka-kun?”
+- **Spoken · Sakura Airi** (p.166) — “S-somehow, I feel like we’re kind of out of place.”
+- **Relationship · Hasebe Haruka** (p.166) — The one close friend in her group — reassurance named.
+- **Relationship · Ayanokōji Kiyotaka** (p.165–167) — Bashful reunion; worried for him with Kōenji in the boys’ group.
+- **Relationship · Kōenji Rokusuke** (p.166) — Named as his group-mate in her worry line.
+- **Trait** (p.165–166) — Soft open; “out of place” at the mixed table.
+
+#### p.185 — Ch.6 closer
+
+- **Limit** (p.185) — No presence in chapter 6 after half 1.
+
+### Year 1, Volume 9
+
+#### p.36–42 — Cafe blush and the walk to Miyake
+
+Cafe with the Ayanokōji Group; Airi agrees the Sakayanagi approach looked sly.
+
+- **Relationship · Hasebe Haruka** (p.36–42) — Backs Haruka’s “definitely acting” line; teased along on the walk to find Miyake.
+- **Spoken** (p.37) — “I… I think that was, umm, that…”
+- **Spoken** (p.38) — “Yeah, her gestures looked that way but… like Keisei-kun said, maybe she’s trying to investigate Class C so she can do something bad.”
+- **Relationship · Ayanokōji Kiyotaka** (p.38–39) — Asks whether Karuizawa is cute and wants to hear his answer; accepts his reply that he never really paid attention to Karuizawa.
+- **Spoken** (p.39) — “Karuizawa-san is also cute… Don’t you think so, Kiyotaka-kun?”
+- **Relationship · Hirata Yōsuke** (p.38–39) — Group speculation that many girls like Hirata now that he is free.
+- **Relationship · Miyake Akito** (p.41–42) — Shrinks at the idea of visiting the quarrel; Haruka teases that Kiyopon will save her if she is in a pinch.
+- **Spoken** (p.42) — “B-But wouldn’t that be dangerous?”
+- **Relationship · Ichinose Honami** (p.41) — Puzzled by the slander — “Really?” — as if she cannot imagine popular-girl targets.
+- **Feat** (p.41–42) — Her perplexity at the burden-of-popularity line marks her distance from the social games around Ichinose.
+
+#### p.51 — At the gym dispersal
+
+Gymnasium exit with Haruka, Miyake and Hashimoto’s group before the walk back.
+
+- **Relationship · Hasebe Haruka** (p.51) — Present with her when Hashimoto waves farewell and leaves.
+- **Relationship · Hashimoto Masayoshi** (p.51) — Receives Hashimoto’s farewell gesture at the exit.
+- **Caveat** (p.51) — Only this beat in the chapter — she does not go to the cafe or the meeting.
+
+#### p.103, 109 — Morning text and hallway call
+
+- **Relationship · Ayanokōji Kiyotaka** (p.103, 109) — Texts asking for morning time; when he refuses the group, gets him to promise sometime after six.
+- **Spoken** (p.103) — “[Kiyotaka-kun, do you have a bit of time this morning? Is it fine if I come by your room?]”
+- **Spoken** (p.109) — “Kiyotaka-kun!”
+- **Spoken** (p.109) — “I-it’s fine if you’re late, so could you still try joining up with everyone?”
+- **Trait** (p.109) — Reserved call from behind, then a beaming smile when he agrees — “reservedly being called.”
+- **Relationship · Hasebe Haruka** (p.109) — Part of the Ayanokōji Group still together after six.
+- **Caveat** (p.103–109) — Present through texts and one hallway exchange; not in the classroom circle.
+
+#### p.133 — The round box at the door
+
+Her chocolate waits in the paper bag outside Ayanokōji’s door, first name on the front.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.133) — The round package among the five boxes he counts out on his desk.
+- **Relationship · Hasebe Haruka** (p.133) — The other name on the same delivery — Haruka’s square box next to hers.
+- **Relationship · Miyake Akito** (p.133) — The group chat says Akito got the same thing she and Haruka sent.
+- **Caveat** (p.133) — Named in the box and the chat only; no scene together.
+
+#### p.154–168 — Along on the tail; keeping Ayanokōji’s cover
+
+Came along to the standoff with Haruka and Keisei without being asked. Told to stay behind with Haruka while the others go to Class B; the two settle in to finish lunch.
+
+- **Spoken** (p.162) — “I-it’s absolutely not lovely at all!”
+- **Spoken** (p.162) — “B-but Kiyotaka-kun, I’ve been starting to think that… y-you and Karuizawa-san have been on pretty good terms with each other lately…”
+- **Relationship · Ayanokōji Kiyotaka** (p.162) — Watches him carefully enough to have noticed how close he and Karuizawa have become; warns him with Haruka that the fight is dangerous.
+
+### Year 1, Volume 10
+
+#### p.30–84 — Ch.2: The Class Vote
+
+Airi shakes her head anxiously at the thought of expulsion. Airi worries about being targeted; says she’s no help to the class. Airi speaks in defense of Kōenji. Airi asks about Ryūen’s situation.
+
+#### p.85–88 — Ch.3: Group chat strategy
+
+Agrees in the group chat to the plan to collect information early.
+
+- **Spoken** (p.87) — [I agree too.]
+
+#### p.154–161 — Ch.4: Ayanokōji Group discussion
+
+Discusses the large group at lunch with the Ayanokōji Group. Expresses worry about being targeted.
+
+#### p.226–232 — Ch.5: Cafe discussion
+
+Nods in agreement that there is no reason for Ayanokōji to be expelled. Suggests Satō and Karuizawa probably will not vote against Ayanokōji, saying it is just a feeling. Encourages Ayanokōji despite her own anxiety about remaining censure votes. Wonders how Horikita found out about Yamauchi’s betrayal.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.228–231) — Supports and encourages him in the cafe discussion.
+- **Relationship · Horikita Suzune** (p.231) — Wonders how she learned of Yamauchi’s betrayal.
+
+### Year 1, Volume 11
+
+#### p.49 — Ch.2: Class discussion
+
+Agrees with Horikita’s deduction that no one would give praise votes to a strong opponent.
+
+- **Relationship · Horikita Suzune** (p.49) — Supports her explanation.
+- **Relationship · Ayanokōji Kiyotaka** (p.49) — Participates in the discussion about his praise votes.
+
+#### p.93–109 — Ch.4: Lunch with the Ayanokōji Group
+
+Eats lunch with the Ayanokōji Group and explains that the previous discussion ended once everyone understood the rules. Asks whether the class has any chance after hearing Class A is ahead. Worries about Ayanokōji having to act as commander against Class A. Says she would likely lose a Protection Point right away if she had one.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.93–109) — Expresses concern for him as commander.
+- **Relationship · Hasebe Haruka** (p.93–109) — Present with her in the group discussion.
+- **Relationship · Yukimura Teruhiko** (p.94–109) — Listens to his analysis of the exam.
+- **Relationship · Miyake Akito** (p.98–109) — Present with him in the group discussion.
+
+#### p.170–191 — Ch.5: Lunch with Class B and after
+
+Walks with the Ayanokōji Group when they encounter Ichinose, Kanzaki, and Shibata. Notices Ichinose may have been wearing citrus perfume. Reacts excitedly while overhearing Ike invite Shinohara out. Says her heart is beating fast but agrees they should not embarrass Ike and Shinohara.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.170–191) — Walks and eats with him in the Ayanokōji Group.
+- **Relationship · Hasebe Haruka** (p.170–191) — Shares reactions with her.
+- **Relationship · Miyake Akito** (p.170–191) — Present with him in the group.
+- **Relationship · Yukimura Teruhiko** (p.170–191) — Present with him in the group.
+- **Relationship · Ichinose Honami** (p.172–185) — Eats lunch with her group and notices her perfume.
+
+### Year 2, Volume 1
+
+#### p.18, 34, 36 — Sakura mentioned in passing
+
+Named in the classroom context. Named in the context of the exam. Named in the context of the student council.
+
+- **Caveat** (p.18, 34, 36) — Passing mentions; not a distinct scene presence.
+- **Mentioned** (p.18, 34, 36) — Passing mention only.
+
+### Year 2, Volume 2
+
+#### p.12–22 — Sakura's soft landing
+
+Sits with Yukimura, Haruka and Miyake; the class is on edge over the math results; she tries to defuse the tension with a sage smile. Sees Miyake off with Haruka before the class empties.
+
+- **Spoken** (p.14) — “S-so he solved such a question, Kiyotaka-kun sure is amazing!”
+- **Caveat** (p.14–15) — The attempt lands badly — Yukimura's face tightens.
+- **Relationship · Yukimura Teruhiko** (p.12–22) — She tries to soften his agitation.
+- **Relationship · Miyake Akito** (p.12–22) — Sees him off.
+
+#### p.27 — Coverage note: passing mentions
+
+- **Mentioned** (p.27) — “Haruka and Airi, who were also from the Ayanokouji group, gathered around him.”
+
+#### p.39–53 — The reconciliation handshake; Keyaki mall
+
+With Haruka and Keisei in the hallway; she waits behind them and finds the courage to speak. Touched that the reconciliation happened; exchanges a glance with Haruka (“Right~?”). Arrives with the group at Keyaki mall; does not question the Ichinose conversation directly.
+
+- **Spoken** (p.43) — “H-how about you two do a…reconciliation handshake?”
+- **Spoken** (p.44) — “What’s wrong, Haruka-chan?”
+- **Trait** (p.39–53) — The empath of the group; she names the reconciliation before the boys can, and she sees Haruka's strange moment on p.44.
+- **Relationship · Ayanokōji Kiyotaka** (p.39–53) — She watches him become a celebrity.
+- **Relationship · Yukimura Teruhiko** (p.39–45) — She propels the peace process.
+- **Relationship · Hasebe Haruka** (p.44–45) — She notices Haruka freeze.
+
+#### p.179 — Sakura groups up
+
+Akito tells Ayanokōji she is grouping with Akito and Haruka.
+
+- **Caveat** (p.179) — Not present in scenes; her group's arithmetic is recorded.
+
+#### p.243–245 — The group after school
+
+After school the group waits by his seat; Kushida calls him; Yagami, a 1st year, wants a meeting.
+
+- **Caveat** (p.243) — Akito is at his club and missed the gathering.
+
+### Year 2, Volume 3
+
+#### p.55–57 — Sakura's trio meets Ayanokōji on the way north
+
+Checks tablets with Haruka (Hasebe) and Miyake on the D8 edge; Ayanokōji inserts himself into their conversation; they compare Tables and say goodbye.
+
+- **Caveat** (p.56) — “Our first area was D8, so like, we’re done already, yeah?” — speaker untagged in the translation; recorded unassigned.
+- **Caveat** (p.56) — “What area do you have, Kiyotaka?” — speaker untagged in the translation; recorded unassigned.
+- **Caveat** (p.56) — “That so? A buncha students have already gone up ahead, but, well, one point is one point I guess.” — speaker untagged in the translation; recorded unassigned.
+- **Spoken** (p.56) — “If we had the same Table, we could have traveled together…”
+- **Caveat** (p.56) — “Yeah. We’ve gotta get moving to our next area sometime soon anyway, so go ahead.” — speaker untagged in the translation; recorded unassigned.
+
+#### p.208 — The standings reveal: ninth-from-bottom, 28 points
+
+- **Mentioned** (p.208) — “The lone second-year group was composed of three of my classmates: Akito, Haruka, and Airi.” — named in the bottom-ten table; not present; POV Ayanokōji.
+- **Mentioned** (p.208) — “Currently, they were ranked ninth from the bottom with a total of 28 points, which was worse than I expected. It required a certain amount of strength and fortitude to continuously travel between designated areas. Since they had Airi in their group, who tended to struggle when it came to stamina, it would probably be difficult to earn Arrival Bonuses.” — named; not present; same scene.
+
+### Year 2, Volume 4
+
+#### p.160, 167, 186, 262 — Sakura not present
+
+- **Caveat** (p.160, 167, 186, 262) — The page locator matched “Sakura” in Year 2, Vol. 4, but these are “Sakurako Tsubaki” hits — the first-year siege mastermind — not Sakura Airi; the roster row for Sakura Airi has zero page presence in this volume.
+
+#### p.278 — Sakura Airi mentioned in passing
+
+- **Mentioned** (p.278) — “If we're all here, it means that Haruka and Airi's group were safe too.” — Hirata's interior; the second-year Class D line held; "Airi" is printed on this page and is not otherwise identified on this page; identity attribution to Sakura Airi is plausible but not printed; kept as an unassigned mention.
+
+### Year 2, Volume 4.5
+
+#### p.10–290 — Relations in this volume (depth pass)
+
+- **Relationship · Miyake Akito** (p.96–113) — His opinion of her mattered to her even if she never says so.
+- **Relationship · Yukimura Teruhiko** (p.108–113) — Keisei calls her "totally attractive"; she doesn't buy it.
+
+#### p.100–113 — Airi's "remodelling": new swimsuit, no glasses, a resolve to change
+
+- **Spoken** (p.100) — "P-pushing me like that…you're awful Haruka-chan!"
+- **Spoken** (p.101) — "I-I think I'll go swim in the pool too!"
+- **Spoken** (p.107) — "I thought maybe I can change now…It might be the only time…"
+- **Spoken** (p.107) — "Yeah. I can't say it clearly yet, but I've started to think that I should change, that I have to change."
+- **Spoken** (p.107) — "T-thank you, Kiyotaka-kun. I'll try my best."
+- **Trait** (p.100–113) — Shyly embarrassed but determined — agreed to a daring swimsuit (to Haruka's "Airi remodelling project"), removed her "unnecessary fake glasses" and changed her hairstyle, keeping it secret until second semester; talked deeply with Haruka on the island and decided she must stop being bad at both studies and sports; flustered by Keisei's "totally attractive" verdict; Ayanokōji genuinely roots for her.
+- **Relationship · Hasebe Haruka** (p.100–113) — Her best friend, who devised the remodelling project and pushed her to be brave.
+- **Relationship · Ayanokōji Kiyotaka** (p.106–107) — Confides her resolve to change; he encourages her.
+- **Relationship · Ishigami Kyō** (p.108) — His "totally attractive" judgment confirms the makeover's success.
+
+### Year 2, Volume 5
+
+#### p.46–55 — Airi's silence after the lunchroom reveal
+
+One of the Ayanokōji Group gathered for lunch; Kei publicly claims Kiyotaka in front of her; she and Haruka mutter at the same time — "Haruka and Airi muttered at the same time, although their reactions were quite different."
+
+- **Mentioned** (p.48) — She refuses to look at him once since lunch ("a certain girl hadn't looked at me once since lunch").
+- **Mentioned** (p.49) — "She was trying to hold it together in the classroom, but she was crying all throughout lunchtime." — Haruka to Ayanokōji.
+- **Mentioned** (p.50) — Haruka says Airi's shock was bigger than theirs ("I haven't heard directly from them, but I think Airi's shock was bigger than ours.").
+- **Mentioned** (p.53–55) — Haruka agrees to talk to her about the maid café only once she's "a bit more relaxed"; warns Ayanokōji that "aren't so light that they'll be shaken because of something like this" and that a one-percent chance of Airi holding hope is real.
+- **Relationship · Hasebe Haruka** (p.46–55) — Her guardian — walks Ayanokōji home to confront him; shields her from the talk.
+- **Relationship · Ayanokōji Kiyotaka** (p.46–55) — He hurt her; she hasn't forgiven him; her feelings are the live drama.
+- **Relationship · Karuizawa Kei** (p.46) — The rival who claimed him in public.
+
+#### p.84 — Airi: her first move since the reveal
+
+Pushed by Haruka, Airi goes up to Ayanokōji with freshly painted courage — she appeals with her eyes, asks him about the cultural festival, "Oh, thank you! I'll see you later, then," and takes a far seat, turning her back to him.
+
+- **Caveat** (p.84) — All quotes/lines this page are printed untagged — the speaker alternation (Haruka pushing; Airi approaching; Ayanokōji answering) is the only attribution; no speakers are name-tagged in the print on p.84.
+- **Trait** (p.84) — Wounded but trying — her first outward step toward him since the lunchroom reveal; masks everything behind a courteous ask.
+- **Relationship · Hasebe Haruka** (p.84) — Her coach and shield; pushes her at him; stays in frame.
+- **Relationship · Ayanokōji Kiyotaka** (p.84) — Meets his eyes; takes the cultural-festival excuse as her bridge.
+
+#### p.172–242 — Coverage-gate mention records
+
+- **Mentioned** (p.172) — "Haruka, Airi, Keisei and Akito too. Ike, Sudō, Mii-chan, Matsushita, all of them."
+- **Mentioned** (p.190) — "Airi and Haruka, and even Akito followed this trend to provide support."
+- **Mentioned** (p.237) — "Sakura must have been a member of your close group. And moreover, that girl had special feelings for you." — Chabashira.
+- **Mentioned** (p.238) — "Of course, there are a few students who are not so different from Airi. But if a quarrel starts between students who are on the same side, their friends will naturally take the side of protection."
+- **Mentioned** (p.242) — "Sakura getting yeeted was certainly surprising, but a welcome one in my mind." — Amadeus's credit.
+
+#### p.219–229 — Sakura Airi's voluntary expulsion
+
+- **Spoken** (p.223) — "If there is one student in the class who deserve it... maybe it's me."
+- **Spoken** (p.223) — "You're right about everything. If someone has to drop out, then I, the biggest drag on the class, should disappear."
+- **Spoken** (p.225) — "Vote in favour of me."
+- **Spoken** (p.225) — "Thank you, Haruka... Thank you for all the help you've given me."
+- **Spoken** (p.229) — "I really wanted to show you, Kiyotaka-kun, at the end. How about...?"
+- **Spoken** (p.229) — "It's a bit... late to be brave, though... hehe."
+- **Spoken** (p.229) — "Bye-bye, Kiyotaka-kun."
+- **Trait** (p.219–229) — The lowest OAA student (36 overall), target chosen by Ayanokōji; initially refuses to accept Haruka's sacrifice, then realizes her friend's self-sacrifice would only burden her and volunteers herself — expelled 38–0; leaves with a smile, having removed her fake glasses and styled her hair (her new look), having finally wanted to show her "brave" self to Kiyotaka at the end; walks away without looking back, crying quietly.
+- **Relationship · Hasebe Haruka** (p.220–226) — Her best friend fights desperately to be expelled in her place; Airi refuses, asking Haruka to vote "for" her instead.
+- **Relationship · Ayanokōji Kiyotaka** (p.219–229) — He chose her as the expendable student; she thanks him and shows him her new look at the end — "Bye-bye, Kiyotaka-kun."
+- **Relationship · Horikita Suzune** (p.229) — Passes her in the corridor; Horikita is speechless.
+
+### Year 2, Volume 6
+
+#### p.6, 5 — Coverage gate: no hits
+
+Anchored references — quoted corpus verbatim where shown; see rows for pages.
+
+- **Caveat** (p.6) — No entries for Sakura here; the credits name the illustrator only.
+
+#### p.11–14 — Prologue: Sakura Airi named in Miyake's group (Miyake's POV)
+
+Named among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group he thought of as strangely comfortable.
+
+- **Mentioned** (p.12) — “Keisei, Kiyotaka, Haruka, Airi.”
+- **Caveat** (p.12) — Miyake narrates that logic did not weigh his choice — he was willing to abandon Airi, a member of the group he cared about just as much as Haruka, to protect Haruka.
+
+#### p.20–20 — Ch.1: OAA emptied — her name is gone
+
+Anchored references — quoted corpus verbatim where shown; see rows for pages.
+
+- **Mentioned** (p.20) — AK checks the OAA app on his phone — her name is already gone from the class list, as if such a student had never existed.
+
+#### p.58–63 — Ch.1: The five thousand points she spent — the gray area
+
+Chabashira tells him: after the Unanimous Consent Special Test finished, the school found evidence Sakura spent about five thousand of her private points; items purchased in-school are fundamentally the student's property, but the post-processing had not been completed; this is a gray area — the school considers it unacceptable if points were transferred after expulsion; he agrees to pay the five thousand himself; Chabashira trails off at “No, it’s not like that. Sakura───” and never says what the points were for.
+
+- **Caveat** (p.61–63) — Purpose of the five thousand points: not stated on these pages; Chabashira asks if it has anything to do with AK; he denies it; he agrees to cover the sum.
+- **Relationship · Ayanokōji Kiyotaka** (p.61–63) — He agrees to pay her five thousand points out of his own — he claims no obligation to bear it, but chooses to.
+- **Relationship · Hasebe Haruka** (p.18) — Her close friend Haruka paid the price for her expulsion too — the class's fracture radiates from this page forward.
+
+#### p.74–89 — Ch.2: The exam's shadow — her nameless weight
+
+Kei's anxious midnight question: “You know how you chose to expel Sakura-san on the basis of her OAA in the special exam? If—” — chokes on her words when their eyes meet — “Are you curious about what I would’ve done if you had the lowest score in the OAA?” — he answers fully; she pours out her doubts; he answers her honestly: a friendless, low-status “completely different” Kei would have been expelled; Kei pouts — “‘I would've protected any version of you’. That's the correct answer, ’kay?”
+
+- **Mentioned** (p.85) — Yousuke: “It's like you're not even slightly weighed by expelling Sakura-san.” AK could not sense any sorrow or anger in his quiet voice.
+- **Mentioned** (p.87–89) — Hirata's confession — his hands remember pressing the Support button for her expulsion; he resents AK for it — “… For just that, yes. But I believe in you.” — “I want to believe in you.”
+- **Relationship · Ayanokōji Kiyotaka** (p.74–89) — The exam's weight: her name hangs over the Kei talk, the Yousuke confession, and the class's whole near future.
+- **Relationship · Hasebe Haruka** (p.85, 87) — The closest friend expelled; the wound that powers the Haruka/Keisei/Autho thread.
+
+#### p.104–193 — Ch.3: Airi — the frame of everything
+
+Wang POV — Airi's farewell to Hasebe was kind and harsh; Wang pressed the Support button anyway and hates herself for it.
+
+- **Mentioned** (p.104) — Horikita to Chabashira: “We gained class points by forcing Sakura-san to drop out. Was it really the right thing to do?”
+- **Mentioned** (p.159–161) — The meeting — the three alternate sharing wounds; Airi is the one Ayanokōji named without hesitation.
+- **Mentioned** (p.189–193) — Haruka: “Give Airi back.” — “I wanted to tell you today: I will make you regret expelling Airi.” — “The decision from that time was wrong.”
+- **Relationship · Hasebe Haruka** (p.189–193) — Haruka's revenge declaration is aimed at Horikita and AK — “Give Airi back.”
+- **Relationship · Wang Mei-Yu** (p.146–148) — Wang pressed the Support button for her — hates herself.
+- **Relationship · Horikita Suzune** (p.104) — “Forcing Sakura-san to drop out.”
+
+#### p.327–328 — Epilogue: Airi — the revenge's target
+
+Anchored references — quoted corpus verbatim where shown; see rows for pages.
+
+- **Mentioned** (p.327–328) — “all our classmates who threw away Airi.” — the revenge she conceived at first — destroy everything; she has moved past that thought — but she has not forgiven; she lets it be a joke.
+- **Caveat** (p.328) — “I won’t forgive Kiyopon. I won’t forgive our classmates.” — she refuses forgiveness but no longer wants destruction.
+- **Relationship · Hasebe Haruka** (p.327–328) — The whole volume's long shadow — she is the wound behind Haruka's “revenge.”
+
+### Year 2, Volume 7
+
+#### p.6 — Prologue: the friend whose expulsion broke things
+
+Sakura Airi is the friend whose expulsion broke Hasebe Haruka's reconnection; Haruka names “Kiyopon, Yukimū, Miyachi and… Airi” as the friends she made again, and Airi's expulsion as the wound.
+
+- **Caveat** (p.6) — “Who stole it? That's obvious. Horikita Suzune and Ayanokōji Kiyotaka.” — Haruka's monologue; “I became a victim of the selfish actions of those two people. I can't forgive them. There's no way I can.” — “I decided to get revenge.”
+- **Relationship · Hasebe Haruka** (p.6) — Her expulsion is the wound at the root of Haruka's revenge decision.
+
+#### p.13 — The reason the lower ranks study
+
+- **Mentioned** (p.13) — “Anyways, one could even say, due to the expulsion of Airi from the school, the lower ranked students started working even harder.” — the narration; the post-expulsion shift in the class's motivation.
+
+#### p.25 — Sudō's “Sakura”
+
+- **Mentioned** (p.25) — Sudō, grinding his teeth at the sight of Haruka and Akito: “I wasn't particularly close to Sakura, but I've had similar experiences.” — he measures Haruka's situation against his own past with Yamauchi.
+
+#### p.102 — “Sakura-senpai was expelled”
+
+- **Mentioned** (p.102) — “…Sakura-senpai was expelled instead of Kushida-senpai. What I want to know are the details of it.” — Yagami; the unanimous exam's casualty was her.
+- **Caveat** (p.102) — “I did nothing in that special exam. So, Sakura-san, who was the lowest in OAA, was inevitably cut. That's it.” — Kushida's version; the class knew the details were not for outsiders.
+- **Relationship · Kushida Kikyō** (p.102) — The casualty of the unanimous exam's outcome.
+- **Relationship · Yagami Takuya** (p.102) — The interrogator who wants the details.
+
+#### p.131, 133, 191, 193 — The Airi-thread's footnotes in his person record
+
+- **Mentioned** (p.131) — “What Airi Left Behind” — the chapter title itself.
+- **Mentioned** (p.133) — “You mean payback for Sakura-san's expulsion? You participated in the preliminary discussion, right?” — Kushida to Ayanokōji; Airi's expulsion is invoked.
+- **Caveat** (p.133) — “Haruka and Airi were looking forward to the cultural festival. That's why they were going to see it through until the end.” — Ayanokōji's read of the pair.
+- **Mentioned** (p.191) — “The voice sounded familiar: It was Tsubaki Sakurako, a student in first year” — the unknown number caller is Tsubaki Sakurako (not Airi).
+- **Mentioned** (p.193) — “Tsubaki Sakurako, who was in front of me then.” — who Tsubaki Sakurako is.
+- **Caveat** (p.191–193) — Tsubaki Sakurako's given name "Sakurako" echoes Sakura Airi's name — nothing on these pages confirms or denies any relation; not assigned.
+
+#### p.136–151 — The uniform box; the Shizuku reveal
+
+AK approaches the bench at Keyaki Mall with a cardboard box; Airi's maid uniform inside; the withdrawal letters.
+
+- **Caveat** (p.136) — “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka's worldview breaks in one moment.
+- **Caveat** (p.136) — The box contained a maid's uniform; his name as the recipient; the online store as the sender; he himself did not know about this until he received and searched it.
+- **Caveat** (p.142) — “She realized that there was a possibility that you would stop and not participate in the festival. That's why this was supposed to be delivered to you, to prevent that from happening, wasn't it?” — Ayanokōji.
+- **Caveat** (p.141) — “A-ai...” — Haruka muttered looking down at the uniform.
+- **Caveat** (p.145) — The name of the account was “Shizuku,” another name Sakura Airi went by when she used to secretly be active as a gravure idol; after an incident, Airi deleted her account, but Kushida found that it had recently been restored; the account had only been created a few days ago but already had over 1,000 followers.
+- **Caveat** (p.145) — “I've decided to resume my idol activities after a long hiatus.” — her new first tweet.
+- **Caveat** (p.145–146) — “I decided to do what I could do. To become the person I want to be. To show my best friend that I am not ashamed of myself after she graduates.” — the second tweet.
+- **Caveat** (p.146) — “I finally auditioned yesterday! I was so nervous, but I'm so happy!” — the third round of auditions; the social networking site carried her comments upon passing.
+- **Caveat** (p.146) — “The reason I decided to go into show business is because I wanted to make my voice heard.” — the fourth tweet.
+- **Caveat** (p.146) — “I'm bitter and sad, but I want to look forward… I am looking forward. So don't you lose too.” — the fifth tweet.
+- **Caveat** (p.146) — “Even now, she was trying her best to walk, even though she must have been heartbroken. It was because she was afraid that Haruka might stop.” — out loud by Haruka's read.
+- **Relationship · Hasebe Haruka** (p.136–151) — The maid uniform Airi left for Haruka; the SNS account reveal.
+- **Relationship · Kushida Kikyō** (p.145–151) — She found the account; Airi's Shizuku reveal.
+- **Relationship · Ayanokōji Kiyotaka** (p.136–151) — The uniform box; he had no idea about her SNS until now.
+
+#### p.185 — Named in the Epilogue
+
+- **Mentioned** (p.185) — “That girl is trying to spread her wings in the outside world. Kushida-san told me about it.” — Haruka, to the class; Airi is attempting to become an idol.
+- **Mentioned** (p.185) — “Sakura-san, she seems to be working hard to become an idol; you can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — Kushida.
+- **Caveat** (p.185) — The common perception that emerged was the fact that Airi had taken a new step forward; “You can find her on SNS, so maybe you can ask Hasebe-san to show you later.” — the students were surprised; others thought it was a good idea.
+- **Caveat** (p.185) — “Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her.” — Haruka; she chose to stay at this school.
+
+### Year 2, Volume 8
+
+#### p.11, 13–14 — Her expulsion shadows the class
+
+- **Mentioned** (p.11) — "I'm no longer needed in that group" — the former Ayanokōji group broke after Airi was expelled.
+- **Mentioned** (p.13) — The Unanimous Vote Special Exam that expelled her raised the stakes for the bottom ranks: students no longer coast, knowing what the school can do.
+- **Mentioned** (p.14) — Class B's 38 students exclude "Airi and Yamauchi, who had been expelled from the school."
+
+#### p.11-208 — sakura-airi mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.11) — Passing mentions on pages: p.11, p.13-14, p.40.
+- **Mentioned** (p.11) — Passing mention only.
+
+### Year 2, Volume 9
+
+#### p.44 — Sakura mentioned in the study group context
+
+Named in Horikita's speech — she references Sakura-san's withdrawal as mental pressure on the class.
+
+- **Caveat** (p.44) — Passing mention only; not a scene presence.
+- **Mentioned** (p.44) — Passing mention only.
+
+### Year 2, Volume 9.5
+
+#### p.13-193 — Sakura mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.13) — Passing mention (locator pages: p.13, p.77, p.80, p.167, p.193; not line-by-line verified; substring false positives possible). Not a scene presence.
+- **Mentioned** (p.13) — Passing mention only.
+
+### Year 2, Volume 12
+
+#### p.12-228 — sakura-airi mentioned in passing
+
+Named in this volume.
+
+- **Caveat** (p.12) — Passing mention (locator pages: p.38; not line-by-line verified; substring false positives possible). Not a scene presence.
+- **Mentioned** (p.12) — Passing mention only.
+
+#### p.38–39 — Mentioned in passing
+
+Named in passing — “Whether it’s because I’ve come to accept Airi through the cultural festival, or simply because too much time has passed.”
+
+- **Caveat** (p.38) — She is named by Hasebe; no scene presence; she was expelled at the Unanimous Voting special exam (previous volumes).
+- **Relationship · Hasebe Haruka** (p.38) — Her name is the hinge of Hasebe's recovery arc — the festival Airi is the wound Hasebe is healing around.
+
+### Year 2, Volume 12.5
+
+#### p.192-196 — Ch.10
+
+Mentioned/appears in Ch.10.
+
+- **Relationship · Ayanokōji Kiyotaka** (p.192-196) — Appears in this volume.

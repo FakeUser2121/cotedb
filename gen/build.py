@@ -231,6 +231,82 @@ def threads_block(P, cid):
     return '<h2 id="threads">Threads</h2>' + "".join(node_html(r, 3) for r in roots)
 
 
+TARGET_KIND = {"says": "people", "say": "people", "ask": "people", "thinks": "people",
+               "think": "people", "narrates": "people", "rel": "people",
+               "place": "places", "exam": "exams"}
+
+
+def markdown_card(c):
+    """The whole character page as one Markdown file: summary, volumes, relations, every row."""
+    m = R.m
+    sc = m.scenes_of("people", c["id"])
+    real = [s for s in sc if not s.get("mentioned")]
+    named = [m.vol[v] for v in c["volumes"]]
+    years = sorted({v["year"] for v in named}, key=lambda y: y or 9)
+    first = real[0] if real else None
+    tag = " · ".join(x for x in ("Character", TIER.get(c["tier"]["all"], "Minor"), c["class"] or "") if x)
+    out = [f"# {c['name']}", "", f"*{tag}*", "",
+           f"{c['name']} is named in {len(named)} of {len(m.vols)} volumes. "
+           f"{plural(len(real), 'scene')} from {plural(len(c['read_vols']), 'volume')} "
+           f"{'has' if len(real) == 1 else 'have'} been read line by line, with a page for every line.", ""]
+
+    out += ["## Summary", ""]
+    for key, val in (("Class", c["class"]), ("Posts", posts(c)),
+                     ("Appears in", " · ".join(yname(y) for y in years)),
+                     ("Named in", plural(len(named), "volume")),
+                     ("Read so far", f"{plural(len(real), 'scene')}, {plural(c['lines'], 'quoted line')}"),
+                     ("First read scene", f'{m.vol[first["vol"]]["label"]}, {first["pages"]}' if first else "")):
+        if val:
+            out.append(f"- **{key}:** {val}")
+    out.append("")
+
+    scenes_by_vol = Counter(s["vol"] for s in sc if not s.get("mentioned"))
+    mentions_by_vol = Counter(s["vol"] for s in sc if s.get("mentioned"))
+    out += ["## Volume by volume", ""]
+    for v in named:
+        parts = []
+        if scenes_by_vol.get(v["id"]):
+            parts.append(f'{plural(scenes_by_vol[v["id"]], "scene")} read')
+        if mentions_by_vol.get(v["id"]):
+            parts.append(f'{mentions_by_vol[v["id"]]} mentioned')
+        out.append(f'- **{v["label"]}** — {"; ".join(parts) if parts else "named, not read yet"}')
+    out.append("")
+
+    out += ["## Relationships", ""]
+    rels = m.relations(c["id"])
+    out += [f'- **{m.name("people", t)}** — {plural(n, "note")}' for t, n in rels] or \
+           ["No relationship notes recorded."]
+    out.append("")
+
+    out += ["## Names", "", f'- **Shown as:** {c["name"]}']
+    if c["aliases"]:
+        out.append(f'- **Also written:** {", ".join(c["aliases"])}')
+    out.append("")
+
+    out += ["## Scenes", ""]
+    cur = None
+    for s in sc:
+        if s["vol"] != cur:
+            cur = s["vol"]
+            out += [f'### {m.vol[cur]["label"]}', ""]
+        out += [f'#### {s["pages"]} — {s["title"]}', ""]
+        if s["setup"]:
+            out += [s["setup"], ""]
+        rows = []
+        for r in s["rows"]:
+            if r["m"] == "scene":
+                continue
+            label = M.MARKERS[r["m"]]
+            kind = TARGET_KIND.get(r["m"])
+            if r["t"] and kind:
+                label += f' · {m.name(kind, r["t"])}'
+            anchor = f' ({r["pg"]})' if r["pg"] else ""
+            rows.append(f'- **{label}**{anchor} — {r["text"]}')
+        if rows:
+            out += rows + [""]
+    return "\n".join(out).rstrip() + "\n"
+
+
 def build_character(c):
     m = R.m
     cid = c["id"]
@@ -272,7 +348,8 @@ def build_character(c):
             + (f'<ul class="plain">{rel_html}</ul>' if rel_html else '<p class="n">No relationship notes read yet.</p>')
             + '<h2 id="names">Names</h2>'
             + facts([("Shown as", esc(c["name"])), ("Also written", esc(aliases))])
-            + (f'<h2 id="related">Exams and places in these scenes</h2><ul class="plain">{related}</ul>' if related else ""))
+            + (f'<h2 id="related">Exams and places in these scenes</h2><ul class="plain">{related}</ul>' if related else "")
+            + f'<p class="dl"><a href="{cid}.md" download>Download the full card (.md)</a></p>')
     state = "complete" if c["scenes"] and all(m.vol_state(v) == "complete" for v in c["volumes"]) else "partial"
     add(rel, h1=c["name"], body=body, trail=[("People", "people/index.html"), (c["name"], rel)],
         kicker=f"Character · {TIER.get(c['tier']['all'], 'Minor')} · {state}", lede=lead)
@@ -646,6 +723,7 @@ def main():
     for c in m.chars.values():
         if c["has_page"]:
             build_character(c)
+            R.FILES[f"people/{c['id']}.md"] = markdown_card(c)
     build_story()
     for v in m.vols:
         build_volume(v)
