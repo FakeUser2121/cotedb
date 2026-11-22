@@ -37,11 +37,13 @@ char_id: akiyama · class: unknown · status: unknown
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.2 — SS
-[scene] (p.2) Gym staff; appears to Ichinose and Amikura; asks Ichinose to the counter to rewrite a paperwork mistake; they both go to the counter.
-[note] (p.2) Brief appearance; her lines are instruction only; no character traits shown beyond staff duty.
+### y2v10.25 p.2 — The gym staff member calls Ichinose to the counter
+[scene] (p.2) A member of the gym staff appears in the rest area and calls Ichinose over about a mistake in the paperwork she filled out.
+[action] (p.2) Asks Ichinose to rewrite the form; the two head toward the counter, leaving Ayanokōji and Amikura alone.
+[note] (p.2) No line of hers is printed; the page reports only the paperwork problem and the summons.
+[rel:ichinose-honami] (p.2) Calls her away from the rest area over the form.
 
-<!-- walk: y2v10.25 Epilogue → p.2 -->
+<!-- walk: y2v10.25 Coverage notes → p.2 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

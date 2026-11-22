@@ -58,10 +58,9 @@ char_id: asakura-mako · class: unknown · status: unknown
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — asakura-mako mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: none.
-[mentioned] (p.168) Asakura Mako — Class C; named at p.168 as the holder of the More People card (special card, one per year).
+### y2v10.25 p.1–9 — No print; the Mako here is Amikura
+[note] (p.1–9) The name “Asakura” never appears in the volume; the Mako on these pages is Amikura Mako, a separate roster row.
+[mentioned] (p.1–9) Zero prints; no presence is claimed.
 
 
 

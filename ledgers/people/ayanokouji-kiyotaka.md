@@ -15739,18 +15739,90 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1–9 — SS: From That Time On…
-[scene] (p.1) After the survival exam ends, the first break arrives; he goes to the gym early; remembers to look up a certain word — a red-panda photo article about the exam question he'd gotten wrong.
-[scene] (p.2) Ichinose and Amikura arrive; AMI Ichinose ribs him about flubbing the tapioca question; Amikura teases about not watching TV.
-[scene] (p.3–8) With Amikura alone after Ichinose leaves for the counter, she tells the story of Ichinose's misdirected message to Ishizaki (“I want to calm down and talk. Can we meet in person?”) during the deserted-island exam period, the rumor that she liked him, and how the girls secretly helped rescue her; she implores him not to hurt Honami-chan.
-[scene] (p.8–9) Ichinose returns; he exchanges texts with her; she guesses he and Amikura talked about her ("Mako-chan"); he deflects ("Looks like you've got a good best friend."); she replies with a stamp; he heads home, framing the story as a new, valuable insight about Honami-chan.
-[says] (p.2) "Is it related to the exam question? Ayanokōji-kun, you got it wrong, didn't you?"
-[says] (p.8) "Were you having another private talk with Mako-chan? About me?"
-[says] (p.9) "Looks like you've got a good best friend."
-[rel:ichinose-honami] (p.1–9) She notices his curiosity; the both check up on each other.
-[rel:amikura-mako] (p.3–8) Listens to her warning; accepts the boundary; doesn't promise easy answers.
+### y2v10.25 p.1 — The gym break and the red-panda search
+[scene] (p.1) The first break after the survival and elimination special exam; he goes to the gym without being told, trains alone, cools down in the rest area and searches a word on his phone.
+[action] (p.1) The article that comes up convinces him; he is still looking at its red-panda photos when the two girls arrive.
+[note] (p.1) The word he searched is never printed; only Amikura’s notice of the red-panda photo identifies the article.
+[note] (p.1) The greeting “Good morning, Ayanokōji-kun.” and his “Morning.” are untagged; both are listed in the volume’s unattributed lines.
+[says] (p.1) “Morning.”
+[trait] (p.1) Trains early and alone, and looks up an answer himself rather than asking.
 
-<!-- walk: y2v10.25 Epilogue → p.9 -->
+### y2v10.25 p.1–2 — Ichinose and Amikura arrive; the exam questions
+[scene] (p.1) Ichinose and Amikura come to the gym together and find him in the rest area.
+[says:amikura-mako] (p.1) “Oh, that’s a cute photo. It’s a red panda, right?”
+[says] (p.1) “Yeah. I was just doing some research.”
+[says:ichinose-honami] (p.2) “Is it related to the exam question? Ayanokōji-kun, you got it wrong, didn’t you?”
+[says] (p.2) “I can’t deny it. Probably because I hardly ever watch TV.”
+[says:ichinose-honami] (p.2) “Now that you mention it, you got the tapioca question wrong too. Are you surprisingly ignorant of the world?”
+[note] (p.2) The print announces that “Amikura also seemed to understand and asked” but prints no question between that line and his answer — a dropped speech, kept as printed.
+[says] (p.2) “Honestly, I didn’t think not liking TV would backfire like that.”
+[note] (p.2) The print leaves this line untagged; it is his answer to the exam talk and is listed in the volume’s unattributed lines.
+[says:ichinose-honami] (p.2) “An unexpected weakness was discovered, huh?”
+[limit] (p.2) The exam questions on a red panda and tapioca expose gaps in general knowledge left by not watching television.
+[action] (p.2) Akiyama calls Ichinose to the counter over a paperwork mistake; she leaves, and he stays with Amikura rather than leaving immediately.
+[rel:ichinose-honami] (p.1–2) She reads his phone search as exam curiosity and teases him about the questions he missed.
+[rel:amikura-mako] (p.1–2) Gym acquaintance; she doubts his excuse and he does not defend it.
+
+### y2v10.25 p.2–3 — Waiting with Amikura; the change in Ichinose
+[scene] (p.2) He sits down leaving one empty chair between them, and Amikura opens the subject of how Ichinose has changed.
+[says:amikura-mako] (p.2) “Honami-chan’s really changed, huh? It’s like, unimaginable from a few months… ago…”
+[says] (p.3) “Is that so?”
+[note] (p.3) The print leaves this reply untagged; it is his answer in the narration and is listed in the volume’s unattributed lines.
+[note] (p.3) He thinks “a few months” is an exaggeration: the change Amikura means is not about the recent exam.
+[says] (p.3) “The deserted island exam, huh?”
+[back] (p.3) He connects her account to the period after the second-year deserted island exam, when Ichinose confessed to him and he told her about Kei.
+[rel:amikura-mako] (p.2–3) Listens to her account without interrupting; his one-word questions keep her talking.
+
+### y2v10.25 p.3–5 — The misdirected message and the alphabet
+[scene] (p.3) Amikura tells the story of a message Ichinose sent by mistake and the rumor that followed.
+[says:amikura-mako] (p.4) “Different class. But the problem lies in who she accidentally sent it to. That person was Ishizaki-kun, and during the break, he came to our class and boldly asked, ‘What does this message mean?’ while showing the screen.”
+[says] (p.4) “But why does that lead to me?”
+[rel:ishizaki-daichi] (p.4) Named as the accidental recipient; he is not on-page in this story.
+[note] (p.4) The contact-list coincidence — his “A” beside Ishizaki’s “I” — is Amikura’s explanation for why the class suspected him.
+[says:amikura-mako] (p.5) “We were watching over her for a while, but it gradually started to feel heavy. Boys who didn’t think it was you started to wonder if she was planning to confess to someone.”
+[note] (p.5) The page prints an unlabelled first-person inset on Ichinose’s dilemma; he does not comment on it and it is not assigned a speaker.
+
+### y2v10.25 p.6–7 — The girls’ rescue and the thanks
+[scene] (p.6) He asks how Ichinose got through the predicament; Amikura explains the girls’ collective rescue.
+[says] (p.6) “How did she get through that predicament?”
+[says:amikura-mako] (p.6) “Like me, the girls knew who Honami-chan intended to send it to. We secretly discussed how to help and stepped in to support her.”
+[says:amikura-mako] (p.7) “There was nothing to do but accept it, right?”
+[says] (p.7) “Yeah.”
+[note] (p.7) The print leaves both half-lines untagged at the page break; they are listed in the volume’s unattributed lines.
+[says] (p.7) “Did you return Honami-chan back to normal?”
+[says:amikura-mako] (p.7) “I didn’t do anything special. Ichinose just recovered with her own strength.”
+[says] (p.7) “I see… but still, thank you.”
+[says] (p.7) “I just assume you’re being modest. That’s why I’m grateful.”
+[trait] (p.7) Thanks her even after she denies doing anything, and says the truth of it does not matter to the thanks.
+
+### y2v10.25 p.7–8 — The warning and the terms
+[scene] (p.7) Amikura tells him Ichinose still sees him as someone special and asks him not to hurt her.
+[says] (p.7) “But why tell me this? Because you thought I was the one who helped?”
+[says] (p.7) “I don’t intend to hurt her intentionally, but that’s quite a difficult request.”
+[says] (p.7) “You’re pretty straightforward, aren’t you?”
+[says] (p.7) “Maybe.”
+[says] (p.8) “I understand what you want to say. I’ll deal with it well.”
+[says] (p.8) “You can’t just abandon her as a friend. It’s not a bad thing.”
+[note] (p.8) The print leaves this line untagged; it follows the narration that Amikura did not press him and precedes “I showed my understanding”. Listed in the volume’s unattributed lines.
+[rel:amikura-mako] (p.7–8) Accepts her warning without promising an outcome; answers her bluntness with his own.
+
+### y2v10.25 p.8–9 — Ichinose returns; the messages; the closing assessment
+[scene] (p.8) Ichinose returns from the counter; he says goodbye and leaves the gym.
+[says:ichinose-honami] (p.8) “Sorry to keep you both waiting,”
+[note] (p.8) The apology is untagged; it follows “Ichinose returned” and is listed in the volume’s unattributed lines.
+[says] (p.8) “Well then, I’m going to head home soon. See you two later.”
+[note] (p.8) Outside, he receives a message from Ichinose asking whether he and Amikura were talking about her.
+[says:ichinose-honami] (p.8) “Were you having another private talk with Mako-chan? About me?”
+[note] (p.8) The line is printed in square brackets as a phone message, not speech.
+[says] (p.8) “Looks like you’ve got a good best friend.”
+[note] (p.8) He answers with that line rather than disclosing the conversation, keeping his promise to Amikura.
+[action] (p.9) Ichinose replies with a stamp of the utmost happiness; he reads it and walks on.
+[thinks] (p.9) “Since the deserted island exam period, she has indeed changed a lot.”
+[thinks] (p.9) “‘Ichinose Honami,’ huh?”
+[trait] (p.9) Frames her growth as a new insight into an analysis he had thought finished, not as a surprise.
+[rel:ichinose-honami] (p.8–9) Guesses the talk concerned her but does not ask; he deflects and she accepts the deflection.
+
+<!-- walk: y2v10.25 Coverage notes → p.9 -->
 
 ## y2v11
 

@@ -2764,10 +2764,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — karuizawa-kei mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.3.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.3 — Named in the narrator's backward glance
+[mentioned] (p.3) Named only as “Kei” when Ayanokōji recalls the period after the deserted island exam; she is not present in the story.
+[note] (p.3) The page's sentence is “That was when I received an unexpected confession from Ichinose and told her about Kei.”
+[note] (p.3) The reference explains why Ichinose seemed unstable to those around her; the story gives no scene with Karuizawa.
+
+<!-- walk: y2v10.25 Coverage notes → p.3 -->
 
 ## y2v11
 

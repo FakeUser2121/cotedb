@@ -418,7 +418,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — shibata-sou mentioned in passing
+### y2v10.25 p.1–10 — shibata-sou mentioned in passing
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: none.
 [mentioned] (p.1) Passing mention only.
