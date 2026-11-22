@@ -3574,16 +3574,23 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.111–120) Brings him along; uses his A+ Physical Ability as leverage, then tells him to focus on studies.
 [trait] (p.111–123) Negotiates shrewdly — tries to trade future favors and Sudō's athletic ability instead of points, bluffs to expose that Class 2-A and 2-C bought off the first-years, and refuses to chase a bidding war.
 
-### y2v1 p.180–191 — Horikita coaches the cooking test by earpiece; debrief
-[note] (p.181–191) Horikita feeds Ayanokōji recipe instructions in real time through a wireless earpiece (rendered as bracketed inner-voice in the corpus) — guidance on knife work, telling him to ask Amasawa about the whisk/Petty knife and apple, and a 15–30 minute cooking target.
+### y2v1 p.180–185 — The earpiece coaching
+[note] (p.181–185) Horikita feeds Ayanokōji recipe instructions in real time through a wireless earpiece (rendered as bracketed inner-voice in the corpus) — guidance on knife work, telling him to ask Amasawa about the whisk/Petty knife and apple, and a 15–30 minute cooking target.
+[scene] (p.180–185) She relays recipe steps from her room while Amasawa watches him cook; Sudō's phone hidden in his bag carries the call.
+
+### y2v1 p.186–189 — The debrief
+[scene] (p.186–189) Amasawa finishes cleaning and announces her verdict; Horikita is on the phone afterward.
 [says] (p.190) "Well done. It looks like everything worked out one way or another."
 [says] (p.190) "Even so, this has gone and solved Sudō's problem. It's quite the accomplishment."
+
+### y2v1 p.190–191 — Her assessment of Ayanokōji
+[scene] (p.190–191) She praises his far-sighted calculation and asks what has changed in him.
 [says] (p.191) "Your way of thinking is… How do I put it…? Extremely calculated, and yet clever."
 [says] (p.191) "It seems quite obvious when you say it after the fact, but it's a completely different thing for you to think so far ahead in the moment."
 [says] (p.191) "What changed?"
-[trait] (p.180–191) Orchestrated the cooking operation — taught him knife techniques overnight, prepared recipes on her computer, used a <2cm wireless earpiece and Sudō's phone to feed real-time instructions; openly praises his cleverness and notices his behavior has changed from the past.
 [rel:ayanokouji-kiyotaka] (p.180–191) Coached him through the test and debriefed; impressed by his far-sighted calculation and curious about what changed in him.
 [rel:sudou-ken] (p.180) His phone relayed the call; their plan solves his partner problem.
+[trait] (p.180–191) Orchestrated the cooking operation — taught him knife techniques overnight, prepared recipes on her computer, used a <2cm wireless earpiece and Sudō's phone to feed real-time instructions; openly praises his cleverness and notices his behavior has changed from the past.
 
 ### y2v1 p.205–214 — Horikita negotiates the Class 1-D agreement
 [says] (p.205) "I'm a little annoyed. I thought Hōsen-kun would wait and see how the situation developed for a little while longer."
