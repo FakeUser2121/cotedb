@@ -391,35 +391,42 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.152–181 — Ch.5 — depth read: Shiina under Ryūen's scrutiny
-[scene] (p.175) Arrives early to meet Kaneda at the karaoke parlor; joins Ryūen's strategy meeting.
+### y3v2 p.152–163 — Ch.5 — depth read: Shiina under Ryūen's scrutiny
+[scene] (p.152) Arrives early to meet Kaneda at the karaoke parlor; joins Ryūen's strategy meeting.
+### y3v2 p.164–175 — Ch.5 — depth read: Shiina under Ryūen's scrutiny
+[scene] (p.164) Arrives early to meet Kaneda at the karaoke parlor; joins Ryūen's strategy meeting.
+[rel:kaneda-satoru] (p.175) Meets him early at the parlor.
+### y3v2 p.176–181 — Ch.5 — depth read: Shiina under Ryūen's scrutiny
+[scene] (p.176) Arrives early to meet Kaneda at the karaoke parlor; joins Ryūen's strategy meeting.
 [says] (p.178) "I wonder... I can't really give a good answer."
 [says] (p.178) "No... Actually, I haven't been able to speak with him properly yet."
 [trait] (p.178, 181) Sees Ayanokōji through a "filter" (Ishizaki's term); still hasn't spoken to him since his transfer and is sinking under her unresolved feelings.
 [rel:ryuuen-kakeru] (p.178, 181) Is told he'll make her useful to the class, not to Ayanokōji — exploiting her feelings.
 [rel:ayanokouji-kiyotaka] (p.178–181) Has not spoken to him since his transfer; her feelings have become "heavy shackles."
 [rel:ishizaki-daichi] (p.178) He calls her bias the "Ayanokouji Filter."
-[rel:kaneda-satoru] (p.175) Meets him early at the parlor.
-
-### y3v2 p.182–210 — Ch.6 — depth read: Hiyori avoids, then opens up
-[scene] (p.190) Is in the mystery-novel section of the library; repeatedly hides from Ayanokōji when their eyes meet.
+### y3v2 p.182–193 — Ch.6 — depth read: Hiyori avoids, then opens up
+[scene] (p.182) Is in the mystery-novel section of the library; repeatedly hides from Ayanokōji when their eyes meet.
 [says] (p.191) "Did you come here to look for a book to read...?"
+[trait] (p.190–194) Shy and hurt after his rejection; had tried to resolve to see him as an enemy, but his visit makes her smile for the first time that day.
+[rel:ayanokouji-kiyotaka] (p.190–202) Avoids him at first, then reconciles and spends hours reading and talking with him.
+### y3v2 p.194–205 — Ch.6 — depth read: Hiyori avoids, then opens up
+[scene] (p.194) Is in the mystery-novel section of the library; repeatedly hides from Ayanokōji when their eyes meet.
 [says] (p.194) "The class transfer... how should I put it... was just me getting my hopes up on my own..."
 [says] (p.194) "I thought that our relationship, where we could chat so familiarly, had to come to an end."
 [says] (p.195) "Yes. In fact, I just finished reading another one last night."
 [says] (p.195) "Ever since I became a third-year, Kaneda-kun has been visiting me often at this time."
 [says] (p.194) "Is it... really okay?" — agreeing to talk about the past month
-[trait] (p.190–194) Shy and hurt after his rejection; had tried to resolve to see him as an enemy, but his visit makes her smile for the first time that day.
-[rel:ayanokouji-kiyotaka] (p.190–202) Avoids him at first, then reconciles and spends hours reading and talking with him.
 [rel:kaneda-satoru] (p.195) Has grown close to him — he now visits her often in the library.
-
-### y3v2 p.249–263 — SS: A Wavering Heart — depth read
-[scene] (p.253) Returns to her dorm holding a single poppy flower, recalling Ayanokōji's visit.
+### y3v2 p.206–210 — Ch.6 — depth read: Hiyori avoids, then opens up
+[scene] (p.206) Is in the mystery-novel section of the library; repeatedly hides from Ayanokōji when their eyes meet.
+### y3v2 p.249–260 — SS: A Wavering Heart — depth read
+[scene] (p.249) Returns to her dorm holding a single poppy flower, recalling Ayanokōji's visit.
 [says] (p.253) "It's frightening to feel so fulfilled…"
 [says] (p.253) "It's okay, right...? To keep on loving him like this..."
 [trait] (p.253–254) Realizes she sees him as a man and has fallen in love; questions whether she can fight his class while in love, and resolves to remain his friend.
 [rel:ayanokouji-kiyotaka] (p.253–254) Has fallen in love with him; keeps it secret because they are in different classes.
-
+### y3v2 p.261–263 — SS: A Wavering Heart — depth read
+[scene] (p.261) Returns to her dorm holding a single poppy flower, recalling Ayanokōji's visit.
 ### y3v2 p.175–178 — Shiina at the karaoke meeting
 [scene] (p.175) Arrives early in casual clothes at the karaoke parlor, meets Kaneda and Ishizaki.
 [says] (p.175) "The pleasure is all mine, Kaneda-kun. This feels somewhat refreshing, doesn't it?"
@@ -430,24 +437,24 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ayanokouji-kiyotaka] (p.178) Has not spoken to him properly since his transfer; her feelings are obvious to Ishizaki ("Ayanokouji Filter").
 [rel:ryuuen-kakeru] (p.178) Is dismissed by him — feelings irrelevant as long as she works for the class.
 [rel:kaneda-satoru] (p.175) Meets him early at the parlor.
-
-### y3v2 p.190–205 — Hiyori's reunion, apology, and tears
+### y3v2 p.190–201 — Hiyori's reunion, apology, and tears
 [scene] (p.190) Hides among the mystery-novel shelves when she spots Ayanokōji in the library, then slowly emerges.
+[trait] (p.190–205) Shy and wounded but forgiving — had tried to see him as an enemy, bows deeply in apology, and is moved to tears by the single corn poppy; her feelings for him are shown to be mutual.
+[rel:ayanokouji-kiyotaka] (p.190–205) Reconciles with him; accepts the flower and says they should not drift apart.
 [says] (p.194) "No... You've done nothing wrong, Ayanokouji-kun."
 [says] (p.194) "The class transfer... how should I put it... was just me getting my hopes up on my own..."
 [says] (p.194) "I thought that our relationship, where we could chat so familiarly, had to come to an end."
 [says] (p.194) "Is it... really okay?"
 [says] (p.195) "Yes. In fact, I just finished reading another one last night."
 [says] (p.195) "Ever since I became a third-year, Kaneda-kun has been visiting me often at this time."
+[rel:kaneda-satoru] (p.195–200) Has grown close to him — he now visits her often in the library; she recommends books to him.
+### y3v2 p.202–205 — Hiyori's reunion, apology, and tears
+[scene] (p.202) Hides among the mystery-novel shelves when she spots Ayanokōji in the library, then slowly emerges.
 [says] (p.203) "They're beautiful..."
 [says] (p.203) "Just one? Yes. I thought it was lovely, precisely because it's a single flower."
 [says] (p.204) "That's not true at all. I'm very happy."
 [says] (p.204) "For me, this was supposed to be just another ordinary day until I met you, Ayanokouji-kun."
 [says] (p.204) "I'm so happy... I'm so very happy. That we didn't end up drifting apart, Ayanokouji-kun."
-[trait] (p.190–205) Shy and wounded but forgiving — had tried to see him as an enemy, bows deeply in apology, and is moved to tears by the single corn poppy; her feelings for him are shown to be mutual.
-[rel:ayanokouji-kiyotaka] (p.190–205) Reconciles with him; accepts the flower and says they should not drift apart.
-[rel:kaneda-satoru] (p.195–200) Has grown close to him — he now visits her often in the library; she recommends books to him.
-
 ### y3v2 p.253–254 — "A Wavering Heart"
 [scene] (p.253) Sits on her bed holding the single poppy Ayanokōji bought her, overwhelmed by the day.
 [narrates] (p.253) "It's frightening to feel so fulfilled…"

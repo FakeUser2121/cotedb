@@ -1890,30 +1890,42 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.66–125 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
-[scene] (p.89) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
+### y3v2 p.66–77 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
+[scene] (p.66) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
+### y3v2 p.78–89 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
+[scene] (p.78) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
 [says] (p.89) "Nah, not at all. I was planning to go to the supermarket myself, so don't worry about it."
+[rel:horikita-suzune] (p.89–93) Consulted by her; they grow closer as Horikita values her opinion.
+### y3v2 p.90–101 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
+[scene] (p.90) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
 [says] (p.90) "You're really merciless, Horikita-san. But, y'know, I like that about you."
 [says] (p.91) "Ayanokouji-kun is lending Ichinose-san a hand… So that's what you're thinking, is it?"
 [says] (p.92) "If his goal in transferring to Class C was to raise it to Class A by himself, that's a bit half-assed, you know? He should've just gone to the bottom-ranked Class D."
 [says] (p.92) "If it were Ayanokouji-kun… he would've gone to Class D, even if it meant getting Ichinose-san expelled."
 [trait] (p.90–93) More perceptive than Horikita credited; reads Ayanokōji as capable of unimaginable things and not needing Ichinose's help to reach Class A.
-[rel:horikita-suzune] (p.89–93) Consulted by her; they grow closer as Horikita values her opinion.
 [rel:ayanokouji-kiyotaka] (p.91–93) Analyzes his alliance with Ichinose and his transfer motives.
 [rel:ichinose-honami] (p.91) Believes Ayanokōji is helping her.
-
-### y3v2 p.231–263 — Epilogue — depth read: Karuizawa helps investigate
+### y3v2 p.102–113 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
+[scene] (p.102) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
+### y3v2 p.114–125 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
+[scene] (p.114) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
+### y3v2 p.231–242 — Epilogue — depth read: Karuizawa helps investigate
+[scene] (p.231) Scene.
 [says] (p.231) "Getting an invitation from you, Horikita-san, was kinda new and exciting, so I was happy."
 [says] (p.232) "Okay. Then ask me anything. If it's something I know, I'll answer whatever!"
 [says] (p.234) "I was dating Ayanokouji-kun, but to be honest, I doubt I have much more information than you do."
 [says] (p.234) "I tried asking him about his past a few times, but I don't think he ever really gave me a straight answer."
-[says] (p.235) "Ahh... So that's how it is."
-[says] (p.235) "I don't mind doing spy-like stuff. I mean, is there anyone who actually dislikes it?"
-[says] (p.237) "I won't go tailing Amasawa-san on my own, so don't you worry."
 [trait] (p.231–237) Warm and eager to help; enjoys the "spy" work but knows her limits; still careful about boundaries (first-name slips).
 [rel:horikita-suzune] (p.231–237) Agrees to answer Horikita's questions and tails Amasawa with her.
 [rel:ayanokouji-kiyotaka] (p.234) Says he never gave straight answers about his past.
+[says] (p.235) "Ahh... So that's how it is."
+[says] (p.235) "I don't mind doing spy-like stuff. I mean, is there anyone who actually dislikes it?"
+[says] (p.237) "I won't go tailing Amasawa-san on my own, so don't you worry."
 [rel:amasawa-ichika] (p.235) Sensed her relationship with Ayanokōji was more than simple senpai/kouhai.
+### y3v2 p.243–254 — Epilogue — depth read: Karuizawa helps investigate
+[scene] (p.243) Scene.
+### y3v2 p.255–263 — Epilogue — depth read: Karuizawa helps investigate
+[scene] (p.255) Scene.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

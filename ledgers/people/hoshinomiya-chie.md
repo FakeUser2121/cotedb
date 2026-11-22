@@ -449,18 +449,21 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.182–210 — Ch.6 — depth read: Hoshinomiya's boundary test
+### y3v2 p.182–193 — Ch.6 — depth read: Hoshinomiya's boundary test
 [scene] (p.185) Meets Ayanokōji in the special building (both claim the other was called by Ichinose); presses against him.
 [says] (p.185) "Whaaat are you talking about~? A teacher would never call a student out to a place like this."
+[trait] (p.185–189) Playful and flirtatious on the surface, still desperate to return her class to Class A and see Chabashira fall; tests Ayanokōji and demands results.
+[rel:ayanokouji-kiyotaka] (p.184–189) Tests him physically to probe the exam; wants him to make her class win.
 [says] (p.186) "I need you to do your best this year, Ayanokouji-kun, so it's fine if I give you a little bit of service, right?"
 [says] (p.188) "We're in this together, aren't we? So there's no way I'd do anything to drag you down, right?"
 [says] (p.188) "You just have to arrange things so my class takes first and your class takes second."
 [says] (p.189) "I can trust you, right?" — a veiled threat if betrayed
-[trait] (p.185–189) Playful and flirtatious on the surface, still desperate to return her class to Class A and see Chabashira fall; tests Ayanokōji and demands results.
-[rel:ayanokouji-kiyotaka] (p.184–189) Tests him physically to probe the exam; wants him to make her class win.
 [rel:ichinose-honami] (p.188) Her class is allied with Ayanokōji's.
 [rel:chabashira-sae] (p.189) Rival; wants her class to fall.
-
+### y3v2 p.194–205 — Ch.6 — depth read: Hoshinomiya's boundary test
+[scene] (p.194) Meets Ayanokōji in the special building (both claim the other was called by Ichinose); presses against him.
+### y3v2 p.206–210 — Ch.6 — depth read: Hoshinomiya's boundary test
+[scene] (p.206) Meets Ayanokōji in the special building (both claim the other was called by Ichinose); presses against him.
 ### y3v2 p.184–189 — Hoshinomiya's advance and the alliance check
 [scene] (p.185) Arrives at the special building in high spirits, claiming Ichinose told her Ayanokōji wanted to see her; presses against him and entwines her arm with his.
 [says] (p.185) "Sorry for the wait, Ayanokouji-kun. Did you need something from me, calling me out to a place like this?"

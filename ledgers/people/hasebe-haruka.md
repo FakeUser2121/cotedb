@@ -687,16 +687,20 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 p.152–181 — Ch.5 — depth read: Hasebe's guilt and Sakura's success
-[scene] (p.169) Appears in the hallway to the library and hesitantly asks to talk to Ayanokōji.
+### y3v2 p.152–163 — Ch.5 — depth read: Hasebe's guilt and Sakura's success
+[scene] (p.152) Appears in the hallway to the library and hesitantly asks to talk to Ayanokōji.
+### y3v2 p.164–175 — Ch.5 — depth read: Hasebe's guilt and Sakura's success
+[scene] (p.164) Appears in the hallway to the library and hesitantly asks to talk to Ayanokōji.
 [says] (p.170) "I... I wanted to talk for a bit, if that's... okay?"
+[trait] (p.170–174) Nervous but resolute — feared she caused his transfer, then wanted to show him the expelled Sakura's success.
+[rel:ayanokouji-kiyotaka] (p.170–174) Is reassured the transfer was unrelated; tells him about Sakura.
 [says] (p.172) "You remembered."
 [says] (p.172) "Could that be my fault? Because I came to talk to you—and you got sick of it?"
 [says] (p.172) "With you changing classes, Ayanokouji-kun, I feel like we've found a more appropriate distance between us."
 [says] (p.172) "I just really wanted you, Ayanokouji-kun, to see how hard she's been working—"
-[trait] (p.170–174) Nervous but resolute — feared she caused his transfer, then wanted to show him the expelled Sakura's success.
-[rel:ayanokouji-kiyotaka] (p.170–174) Is reassured the transfer was unrelated; tells him about Sakura.
 [rel:sakura-airi] (p.173) Reveals the expelled Sakura is now appearing on late-night TV after passing an audition.
+### y3v2 p.176–181 — Ch.5 — depth read: Hasebe's guilt and Sakura's success
+[scene] (p.176) Appears in the hallway to the library and hesitantly asks to talk to Ayanokōji.
 ## y2v2
 
 <!-- walk: y2v2 → start -->
