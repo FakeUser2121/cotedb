@@ -1854,3 +1854,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v1 Hōsen chapter split | 369 | 41-page catch-all replaced by 12 scene sections; 3 wrong page attributions repaired; replica verify ALL PASS (362 says / 84 non-says); 219 person sections | docs untouched | 5043e57c01826d521768db7282631030 (temp-out build) |
 | y2v1 Hōsen split INTEGRATED at parent | 369 | 12 scene sections; parent verify ALL PASS; gate OK; make check OK | docs rebuilt at parent | 5043e57c01826d521768db7282631030 (x2) |
 | y2v9 scene-granularity sweep | 225 | 73 -> 113 person sections; 12 long spans -> 3 (each already multi-scene); replica verify ALL PASS (144 says / 69 non-says); temp build hash 9dfef8aa | docs untouched | 9dfef8aa8096b981b338e54cd71886b7 (temp-out build) |
+| y2v9 scene-granularity sweep INTEGRATED at parent | 225 | 113 person sections; parent verify ALL PASS; gate OK; make check OK | docs rebuilt at parent | 9dfef8aa8096b981b338e54cd71886b7 (x2) |
