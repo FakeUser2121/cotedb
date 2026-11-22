@@ -5567,16 +5567,48 @@ walk: y1v1 → DONE
 [trait] (p.71–75) Notes her strategy is essentially the same as Ichinose's (give up class points to prevent expulsions) beneath different approaches; watches Hashimoto leave after finishing recon.
 [rel:nanase-tsubasa] (p.74) Hashimoto discusses Nanase as a possible Class 1-D contact.
 
-### y2v1 p.77–102 — The Class 1-D hallway clash: Ryūen, Hōsen, Shiba, Yagami
+### y2v1 p.77–79 — Ryūen's challenge at Class 1-C
 [scene] (p.77) Follows Horikita to the first-year floor; Ryūen appears beside her with a daring look, taunting "You're awfully late, eh Suzune?"
-[scene] (p.99–101) Watches Hōsen and Nanase clash with Ryūen; Hōsen offers to let Ryūen pair with him only if he prostrates himself, and Ryūen retorts that he works only with humans.
-[says:housen-kazuomi] (p.100) "If you prostrate yourself to me, I suppose I could let you pair up with me, Ryūen-paisen."
-[says:ryuuen-kakeru] (p.100) "Sorry, but I only work together with humans. I have no intention of being with a wild gorilla."
-[trivia] (p.100–101) The eloquent first-year (Yagami) defuses the situation with a proverb ("A wise man keeps away from danger"); Class 1-D's homeroom teacher Shiba Katsunori arrives in a suit to break it up, and Hōsen backs down surprisingly easily; Nanase bows an apology and gives Ayanokōji an inquisitive, probing look before leaving.
-[rel:ryuuen-kakeru] (p.77–100) Ryūen taunts Horikita; he and Hōsen size each other up without coming to blows.
-[rel:housen-kazuomi] (p.99–101) The overwhelming first-year delinquent; controls Class 1-D.
-[rel:nanase-tsubasa] (p.100–101) She gives him a probing look — as if testing him — then flees after Hōsen.
-[rel:yagami-takuya] (p.100–102) The eloquent first-year who fends off Hōsen and apologizes on behalf of the first-years.
+[scene] (p.78) Horikita holds Sudō back as Ryūen insults him and threatens the first-years; she answers that their positions are equal.
+[scene] (p.79) Ryūen claims the first-years seem briefed on how the school works.
+[rel:ryuuen-kakeru] (p.77–79) He and Horikita trade barbs; he shares his first-years-are-briefed theory.
+
+### y2v1 p.80–81 — The briefing theory
+[scene] (p.80) Ryūen argues the first-years arrived suspiciously calm, as if the school told them the true nature of the place.
+[scene] (p.81) Horikita suspects the same; Sudō urges them to negotiate at once.
+
+### y2v1 p.82–83 — Class 1-D has vanished
+[scene] (p.82) The Class 1-D classroom is completely empty — all forty students who skipped the meet-and-greet have gone.
+[scene] (p.83) Twenty-two pairs have already been finalized; Horikita's battle starts tomorrow.
+
+### y2v1 p.84–86 — Hōsen and Nanase arrive
+[scene] (p.84) Hōsen Kazuomi and Nanase Tsubasa, both Class 1-D, arrive at the second-year hallway; Hōsen demands partners with threats and shoves Sudō.
+[rel:housen-kazuomi] (p.84–86) He insults Sudō and Horikita, shoves Sudō, and asserts that first-years can intentionally tank their scores.
+[rel:nanase-tsubasa] (p.84) She introduces herself and mediates with Hōsen.
+[scene] (p.85–86) Horikita confirms the penalty rules; Sudō is held back from fighting.
+
+### y2v1 p.87–89 — Ryūen recognizes Hōsen
+[scene] (p.87–88) Ryūen steps in to stop Ishizaki; he and Hōsen know each other from middle school and trade insults.
+[scene] (p.89) Hōsen provokes Ryūen into a fight; Ryūen refuses to engage in the hallway.
+
+### y2v1 p.90–93 — Ibuki is grabbed; Nanase stops it
+[scene] (p.90) Hōsen seizes Ibuki by the neck; she cannot break free.
+[rel:ibuki-mio] (p.90–93) Hōsen grabs her by the neck; she cannot break free.
+[scene] (p.91–93) Nanase's threat of "that" stops him; he releases Ibuki and withdraws with her.
+
+### y2v1 p.94–97 — Yagami's apology
+[scene] (p.94–95) Ryūen and Hōsen spar verbally; Hōsen grabs Ibuki and Nanase stops him again; Ryūen withdraws.
+[says:housen-kazuomi] (p.94) "If you prostrate yourself to me, I suppose I could let you pair up with me, Ryūen-paisen."
+[says:ryuuen-kakeru] (p.94) "Sorry, but I only work together with humans. I have no intention of being with a wild gorilla."
+[scene] (p.96–97) The eloquent first-year Yagami apologizes on behalf of the first-years and notices Kushida.
+[rel:yagami-takuya] (p.96–97) The eloquent first-year who fends off Hōsen and apologizes on behalf of the first-years.
+
+### y2v1 p.98–102 — Shiba-sensei and the aftermath
+[scene] (p.98–101) Shiba Katsunori introduces himself as Class 1-D's homeroom teacher; Yagami apologizes again and bows.
+[rel:shiba-katsunori] (p.101–102) Arrives as Class 1-D's homeroom teacher and introduces himself.
+[scene] (p.102) Yagami notices Kushida among the returning Class 2-D girls; Horikita's class gathers to hear what happened.
+[rel:housen-kazuomi] (p.99–102) The overwhelming first-year delinquent; controls Class 1-D.
+[rel:nanase-tsubasa] (p.100–102) She gives him a probing look — as if testing him — then flees after Hōsen.
 
 ### y2v1 p.102–106 — Yagami reunites with Kushida; the A-rating partnership offer
 [scene] (p.102) Watches Yagami Takuya spot Kushida and recognize her from middle school; she genuinely doesn't remember him at first.
@@ -5740,20 +5772,55 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.288–291) Backs his joining the meeting as a backup; tests his feelings for Horikita.
 [rel:horikita-suzune] (p.287–292) Goes early to the karaoke room with her; she stages the half-finished drinks/food to look as though they'd been enjoying themselves, to deny Hōsen the satisfaction of thinking they waited anxiously.
 
-### y2v1 p.296–320 — The negotiation turns violent; Hōsen's knife plot exposed
+### y2v1 p.296–300 — Hōsen's arrival and the equality stalemate
 [scene] (p.296) At the karaoke room, Hōsen arrives with Nanase, slouches across three seats, and demands "equal" cooperation while treating Class 1-D as his property.
 [says:housen-kazuomi] (p.297) "So? From what Nanase's told me, sounds like you lot want my class to help ya out."
 [says] (p.297) "It's slightly different from that. We're looking to have our two classes collaborate with each other. There would be no difference in status between us, a relationship of equality so to speak."
-[says:housen-kazuomi] (p.322) "Five million points. That much, and all your problems'll go away."
+[scene] (p.298–300) Hōsen refuses equal footing, demands water and a million points as collateral, and Horikita holds Sudō back.
+
+### y2v1 p.301–315 — Nanase's argument and the escalating demands
+[scene] (p.301–303) Nanase argues that making enemies now will cost him partners later and raises protection points; Hōsen still rejects equal terms and Sudō is restrained.
+[scene] (p.304–305) Hōsen asks for a million points as collateral; Horikita refuses, and the narrator notes his calculating, Ryūen-like precision.
+[scene] (p.306–308) He grabs Horikita's collar and offers to settle by fighting; she ends the negotiation, and he splashes water in her face.
+[scene] (p.309–311) The parties separate, but Hōsen follows and admits he sought Class 2-D; he demands two million points.
+[scene] (p.312–315) The price rises to three million behind the dormitory; Sudō and Horikita are dumbfounded.
+
+### y2v1 p.316–320 — The fight with Sudō
+[scene] (p.316) Hōsen sweeps Sudō's legs and charges; Nanase looks away as if she knows what is coming.
+[scene] (p.317–318) He overpowers Sudō against the wall; Nanase explains Nagumo's new tolerance of fighting.
+[scene] (p.319–320) He keeps Sudō pinned and beaten; the narrator notes Hōsen's overwhelming experience and speed.
+
+### y2v1 p.321–325 — Horikita is slapped; the knife threat
+[scene] (p.321) Hōsen breaks Sudō's guard by pointing at Horikita, then punches him from behind.
+[says:housen-kazuomi] (p.322) "Aight, seems that your trusty bodyguard's eatin' the dirt. Who's next?"
+[scene] (p.322) The narrator weighs what Hōsen really wants: the violence has gone beyond negotiation.
+[scene] (p.323–324) He catches Horikita's strike, slaps her and demands five million points.
+[says:housen-kazuomi] (p.324) "Five million points. That much, and all your problems'll go away. How 'bout it?"
+[scene] (p.325) He threatens the two doormats if Ayanokōji runs, then says he will spare him if they submit.
 [says:housen-kazuomi] (p.325) "If you submit to me right here, right now, an' fork over the points─ I'll let Ayanokōji live."
+[rel:sudou-ken] (p.321–325) Sucker-punches and kicks him.
+
+### y2v1 p.326–331 — The knife, Nanase's confession, and Ayanokōji's charge
+[scene] (p.326) He draws a Petty knife and threatens to stab Ayanokōji.
+[says:housen-kazuomi] (p.326) "Somethin' wrong with your eyes? It's a knife, plain an' simple!"
+[scene] (p.328) Nanase blocks him and reveals the whole meeting was a ploy from the start — the Class 2-D overture, the bounty, Amasawa's role.
+[rel:nanase-tsubasa] (p.326–328) She intervenes to stop Hōsen's knife, reveals the whole meeting was a ploy from the start, and later explains the 20-million-point bounty.
+[scene] (p.329) Hōsen sweeps Nanase aside and raises the blade; Ayanokōji charges in and lets it pierce his palm.
 [narrates] (p.331) "You were going to stab yourself in the thigh with my own knife. After that, you'd raise a fuss to the school about your injury, and use that as evidence to get me expelled. That was your plan, wasn't it?"
-[trivia] (p.321–330) Hōsen sucker-punches Sudō (who turned away at Horikita's distress), slaps Horikita, then draws a knife. Ayanokōji charges in and deliberately lets the blade pierce his own palm — stopping Hōsen from using the knife on himself to frame him; he reveals he bought the only such Petty knife, and that Amasawa helped refine the plot.
-[inference] (p.329–335) Deduced the pseudo-special exam's premise (expel him for 20 million points) and that Hōsen's "knife" was the very one Ayanokōji bought — held blade-up and reverse-gripped to drive into his own thigh; by getting stabbed himself he turns the trap back on Hōsen, whose fingerprints plus the prior purchase attempt ensure his own expulsion if exposed.
+[says:housen-kazuomi] (p.331) "Ha! So even though you managed to piece it all together, you still came an' got stabbed yourself? You outta your mind?"
+[trivia] (p.321–330) Hōsen sucker-punches Sudō, slaps Horikita, then draws a knife; Ayanokōji charges in and deliberately lets the blade pierce his own palm, stopping Hōsen from using the knife on himself to frame him.
+[inference] (p.329–335) Deduced the pseudo-special exam's premise (expel him for 20 million points) and that Hōsen's knife was the one Ayanokōji bought — held blade-up and reverse-gripped to drive into his own thigh; by getting stabbed himself he turns the trap back on Hōsen.
+
+### y2v1 p.332–337 — The frame exposed and the deal
+[scene] (p.332–333) He explains the reverse grip, the sheath, and how he identified his own knife; Hōsen's fist is locked in place.
+[says:housen-kazuomi] (p.333) "…The hell…? Who the fuck are you…?"
+[scene] (p.334) The narrator traces the knife to Amasawa, who stopped his purchase at Keyaki Mall and later retrieved the copy planted in Ayanokōji's room.
+[rel:amasawa-ichika] (p.334) Identifies her as the one who refined Hōsen's knife plot — she stopped him buying the knife at the mall and later used a supposed lost hair tie as an excuse to retrieve it from his room.
+[scene] (p.335–336) Hōsen curses having trusted her; Ayanokōji offers him equal cooperation and himself as partner, leveraging Hōsen's pride.
+[scene] (p.337) Hōsen accepts the outcome and looks forward to beating him next time.
+[says:housen-kazuomi] (p.337) "Fuckin' good shit there, Ayanokōji-sempai! You're the first opponent who's gotten my blood boilin' like this."
 [trait] (p.329–337) Calm under a knife — "lowered my stance," rushed the opponent rather than flee, accepted a self-inflicted wound as "the best way to completely shut you down"; spares Hōsen in exchange for equal cooperation and partnership with him.
 [rel:housen-kazuomi] (p.296–337) Outsmarts and physically bests him, then offers him a deal — equal class cooperation plus himself as partner, leveraging Hōsen's pride (claims Ryūen is better) to keep him compliant.
-[rel:nanase-tsubasa] (p.326–328) She intervenes to stop Hōsen's knife, reveals the whole meeting was a ploy from the start, and later explains the 20-million-point bounty.
-[rel:amasawa-ichika] (p.334) Identifies her as the one who refined Hōsen's knife plot — she stopped him buying the knife at the mall and later used a supposed lost hair tie as an excuse to retrieve it from his room.
-[rel:sudou-ken] (p.321–338) Hōsen's blow leaves him nearly fainting; he recovers, and is relieved/proud of Ayanokōji.
 
 ### y2v1 p.338–341 — Aftermath: the knife stays in; Nanase's 20-million reveal
 [says] (p.338) "No. I know it isn't exactly pleasant to look at, but it's better to leave the knife where it is for now."
