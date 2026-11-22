@@ -1863,3 +1863,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y3v3 scene-granularity sweep INTEGRATED at parent | 256 | 203 person sections; parent verify ALL PASS (728 says / 45 non-says); gate OK; make check OK | docs rebuilt at parent | ebe27770ae83fdacbbe144c67100a092 (x2) |
 | y2v1 Horikita Hōsen split INTEGRATED at parent | 369 | four scene sections; parent verify ALL PASS (367 says / 83 non-says); gate OK; make check OK | docs rebuilt at parent | 5a1da2505b5483d95dacfd168c211169 (x2) |
 | y2v1 Amasawa split INTEGRATED at parent | 369 | three scene sections; parent verify ALL PASS (367 says / 84 non-says); gate OK; make check OK | docs rebuilt at parent | b7c5b8a8b09c2a2e18385ed261c7df9c (x2) |
+| y2v1 Keyaki split INTEGRATED at parent | 369 | two scene sections; parent verify ALL PASS (367 says / 84 non-says); gate OK; make check OK | docs rebuilt at parent | 39686a30e1226fb8ac4dafd47f8bfa15 (x2) |
