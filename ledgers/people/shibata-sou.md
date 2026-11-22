@@ -241,7 +241,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.151–166 — Ch.5 — depth read: Shibata's interrupted greeting
+### y3v3 p.162–162 — Ch.5 — depth read: Shibata's interrupted greeting
 [says] (p.162) "H-Hey, Ayanokouji. Sorry to bother you before you eat, but you got a sec?"
 [says] (p.162) "Uh... how should I put it? We're allies now, right? So, I just wanted to say hi, or something..."
 [trait] (p.162) Nervous and eager to befriend Ayanokōji now that they're allies; cut off by Kanzaki before he can ask his question.

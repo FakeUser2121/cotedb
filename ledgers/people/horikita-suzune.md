@@ -4922,7 +4922,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.86–118 — Ch.3 — depth read: Horikita's disbelief and invisible pressure
+### y3v3 p.96–99 — Ch.3 — depth read: Horikita's disbelief and invisible pressure
 [says] (p.96) "My honest impression is, 'Really? Is it possible?'"
 [says] (p.96) "Ayanokouji-kun is—how should I put it... He's not the type of person to be careless in this kind of fight."
 [says] (p.97) "I probably... just don't want to frankly acknowledge it. Acknowledge Ryuuen-kun, who managed to get the better of him."
@@ -4935,7 +4935,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.99) Comforts her and vows to crush any class in a straight fight.
 [rel:kouenji-rokusuke] (p.97–98) Expects him to retire at any moment; notes the large sum spent on his cooperation previously.
 
-### y3v3 p.197–232 — Ch.7 — depth read: Horikita on the final day
+### y3v3 p.197–203 — Ch.7 — depth read: Horikita on the final day
 [scene] (p.197) Breaks down camp early, tense; the final day begins with four classes a stone's throw apart.
 [says] (p.199) "Fortunately, it was only the guards who were taken out."
 [says] (p.200) "That's not a bad idea... In fact, that's probably the correct answer. I was thinking the same thing." — on moving G8→E9

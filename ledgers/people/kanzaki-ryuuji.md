@@ -503,7 +503,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.119–150 — Ch.4 — depth read: Kanzaki sees the shrinking map
+### y3v3 p.126–127 — Ch.4 — depth read: Kanzaki sees the shrinking map
 [scene] (p.126) Stares at the analyst's tablet as the 11:00 event's outer squares are marked as soon-to-be restricted.
 [says] (p.126) "It's too early to draw conclusions, but if the next event has a similar mechanic, the probability will be orders of magnitude higher."
 [says] (p.126) "There's no way to avoid a fight from here on—"
@@ -513,20 +513,23 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.127) Receives her message not to worry and not to push for O14.
 [rel:andou] (p.126) Class D's analyst operates the tablet he reads.
 
-### y3v3 p.151–166 — Ch.5 — depth read: Kanzaki's armed scrutiny
+### y3v3 p.155–156 — Ch.5 — depth read: Kanzaki's armed scrutiny
 [scene] (p.155) Leads ten Class D guards in a wall, guns trained on Ayanokōji and Hashimoto as they approach unarmed.
 [says] (p.155) "I wonder about that. There's a possibility your allies are hiding nearby."
 [says] (p.155) "Just three people ain't gonna do nothin'."
 [says] (p.156) "If we defeat the two of you here, we can significantly lower our chances of coming in last. This is a golden opportunity."
 [says] (p.156) "What if we trust you and are betrayed? That would be a crisis for our class."
-[says] (p.163) "I forgot to tell you something important. Regarding the chain of command from here on, Ichinose has said to entrust everything to you, Ayanokouji."
-[says] (p.164) "You have the power to turn the tide of battle all by yourself."
 [trait] (p.155–166) Stern, loyal to Ichinose and initially hostile, but principled — lowers his guns once briefed, yet remains troubled by why Ayanokōji proposed the alliance.
 [rel:ayanokouji-kiyotaka] (p.155–166) Confronts him at gunpoint, then accepts the alliance and questions his motives.
+
+### y3v3 p.163–164 — Ch.5 — depth read: Kanzaki's armed scrutiny
+[scene] (p.163) Reports that Ichinose entrusted command to Ayanokōji; admires his power.
+[says] (p.163) "I forgot to tell you something important. Regarding the chain of command from here on, Ichinose has said to entrust everything to you, Ayanokouji."
+[says] (p.164) "You have the power to turn the tide of battle all by yourself."
 [rel:ichinose-honami] (p.163) Fully loyal; reports that she entrusted command to Ayanokōji.
 [rel:ayanokouji-atsuomi] (p.164) Admires Ayanokōji's father, which colors his high opinion of Ayanokōji.
 
-### y3v3 p.167–196 — Ch.6 — depth read: Kanzaki's report and debate
+### y3v3 p.174–180 — Ch.6 — depth read: Kanzaki's report and debate
 [says] (p.174) "I was just saying that we've reached a difficult phase. We've used most of our handheld provisions."
 [says] (p.174) "Also, Sumida and Minamikata have seemed somewhat unwell since this morning."
 [says] (p.178) "That's right. I want to avoid the risk of pushing ourselves unnecessarily, losing stamina, or getting injured."
@@ -537,7 +540,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:hashimoto-masayoshi] (p.174–180) Debates positioning with him.
 [rel:moriyama] (p.174) Sends him to relay Ayanokōji's words to the unwell students.
 
-### y3v3 p.233–252 — Epilogue — depth read: the guard who relays the map
+### y3v3 p.233–234 — Epilogue — depth read: the guard who relays the map
 [scene] (p.233) Spreads out a map for the breathless Yamamura and reports the surviving Class B members and their location.
 [says] (p.233) "The ones left in Class B are Ryuuen and Ibuki, as well as Yamashita and Yoshimoto. Their location is D11—"
 [says] (p.234) "I appreciate it, but doesn't this break the rules—?"

@@ -595,39 +595,55 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.46–85 — Ch.2 — depth read: Hashimoto's reactions to the ambush
+### y3v3 p.46–54 — Ch.2 — depth read: Hashimoto's reactions to the ambush
+[scene] (p.46) Manages communications and the map during the march; jokes about being the expulsion sacrifice.
 [says] (p.47) "Let's hear it."
 [says] (p.50) "If Ryuuen and his crew are heading for B10, that means they'll come out by the sea."
-[says] (p.58) "Ayanokouji Kiyotaka said as much, but when push comes to shove, Hashimoto Masayoshi is our only choice."
-[says] (p.73) "A surprise attack, huh... That bastard Ryuuen, he took on a pretty big risk, didn't he?"
 [trait] (p.46–73) Manages communications and the map, jokes about being the expulsion sacrifice, and reacts with a mix of frustration and admiration to Ryūen's gambit.
 [rel:ayanokouji-kiyotaka] (p.46–73) Relays his instructions; notes his lack of fighting spirit.
+
+### y3v3 p.55–58 — Ch.2 — depth read: Hashimoto's reactions to the ambush
+[scene] (p.55) Reacts to the formation and the expulsion-sacrifice joke.
+[says] (p.58) "Ayanokouji Kiyotaka said as much, but when push comes to shove, Hashimoto Masayoshi is our only choice."
+
+### y3v3 p.73 — Ch.2 — depth read: Hashimoto's reactions to the ambush
+[scene] (p.73) Reacts to Ryūen's surprise attack with admiration for the risk.
+[says] (p.73) "A surprise attack, huh... That bastard Ryuuen, he took on a pretty big risk, didn't he?"
 [rel:ryuuen-kakeru] (p.73) Admires the risky surprise attack.
 
-### y3v3 p.86–118 — Ch.3 — depth read: Hashimoto rallies the gloomy class
+### y3v3 p.101 — Ch.3 — depth read: Hashimoto rallies the gloomy class
+[scene] (p.101) After the ambush, prods Ayanokōji to charge in and annihilate the enemy.
 [says] (p.101) "Ayanokouji Kiyotaka. You could just charge in by yourself and annihilate the enemy unit, you know?"
+[trait] (p.101–113) Keeps the class's morale up after the disastrous start; cheerful, a natural straight man.
+
+### y3v3 p.108–113 — Ch.3 — depth read: Hashimoto rallies the gloomy class
+[scene] (p.108) Tells a funny middle-school bike story in the tent to cheer up the gloomy class.
 [says] (p.110) "Man, everyone's lookin' so gloomy. Well, can't be helped, given our results so far."
 [says] (p.111) "Isn't there somethin' you can say as our leader?"
 [says] (p.112) "Anyway, I guess when things are this gloomy is when it's my time to shine, huh?"
 [trait] (p.101–113) Keeps the class's morale up after the disastrous start; cheerful, a natural straight man, and tells a funny middle-school bike story in the tent.
 [rel:ayanokouji-kiyotaka] (p.108–113) Admires his securing the I10 supplies alone and prods him to encourage the class.
 
-### y3v3 p.151–166 — Ch.5 — depth read: Hashimoto's lingering doubt
+### y3v3 p.151–154 — Ch.5 — depth read: Hashimoto's lingering doubt
 [says] (p.151) "We're lucky Ayanokouji brought up the idea of an alliance."
 [says] (p.153) "You're sure this is gonna be okay, right?"
 [says] (p.154) "I'm going too and don't try to stop me, alright? If they start shootin' without askin' questions, I can be your shield."
 [trait] (p.151–154) Publicly champions the alliance to steady the class but privately doubts it; offers to shield Ayanokōji, showing genuine loyalty.
 [rel:ayanokouji-kiyotaka] (p.151–154) Persuades classmates, voices doubts, and offers to protect him in negotiations.
 
-### y3v3 p.167–196 — Ch.6 — depth read: Hashimoto on the shrinking area
+### y3v3 p.174–178 — Ch.6 — depth read: Hashimoto on the shrinking area
+[scene] (p.174) Worries about low supplies as the area shrinks.
 [says] (p.174) "But man, we're obviously runnin' low on supplies. We got nothin' but a bunch of starving folks over here, too."
 [says] (p.178) "They're really testing us... but J5 and K10? That's just asking too much."
+[trait] (p.174–183) Worries about supplies and the shrinking area, and is concerned when Ayanokōji decides to go on the supply run himself.
+
+### y3v3 p.180–183 — Ch.6 — depth read: Hashimoto on the shrinking area
+[scene] (p.180) Concerned as Ayanokōji goes on the supply run himself.
 [says] (p.180) "We're inside the area and getting too close to the center is kinda sketchy."
 [says] (p.183) "You're goin' too, Ayanokouji? You can just save your strength for the final day, y'know?"
-[trait] (p.174–183) Worries about supplies and the shrinking area, and is concerned when Ayanokōji decides to go on the supply run himself.
 [rel:ayanokouji-kiyotaka] (p.174–183) Discusses strategy and tries to talk him out of the supply run.
 
-### y3v3 p.197–232 — Ch.7 — depth read: Hashimoto's duel with Hirata
+### y3v3 p.221–228 — Ch.7 — depth read: Hashimoto's duel with Hirata
 [scene] (p.221) Is caught in the allied advance when Class A splits its forces; faces Hirata in a close-range firefight.
 [says] (p.222) "What's going on...?"
 [says] (p.222) "Take us out with a small group? Are they serious?"
@@ -640,7 +656,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.223–226) Uses his abandonment of Hirata as psychological ammunition.
 [rel:matoba-shinji] (p.221) Matoba is shot beside him; he flees.
 
-### y3v3 p.233–252 — Epilogue — depth read: praise, then a bad feeling
+### y3v3 p.251–252 — Epilogue — depth read: praise, then a bad feeling
 [says] (p.252) "Man, don't you get a really bad feeling about this?"
 [trait] (p.251–252) Comes to praise Ayanokōji for the second-place finish, then — with Yoshida — senses the strange, solemn atmosphere of the results announcement before the new exam is revealed.
 [rel:ayanokouji-kiyotaka] (p.251) Congratulates him on the result and shares his unease.

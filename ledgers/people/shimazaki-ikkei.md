@@ -77,7 +77,8 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 p.14–45 — Ch.1 — depth read: opposing the mountain plan
+### y3v3 p.31 — Ch.1 — depth read: opposing the mountain plan
+[scene] (p.31) Sugio proposes crossing the mountain; Shimazaki opposes it as risky and uncertain.
 [says] (p.31) "I'm against it. Other classes might be thinking something similar. Besides, even if we force ourselves to cross the mountain, there's no guarantee that events will necessarily occur in the northeast, is there?"
 [trait] (p.31) Cautious and analytical — rejects Sugio's plan as risky and uncertain.
 [rel:sugio-hiroshi] (p.31) Opposes his mountain-crossing proposal.

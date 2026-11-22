@@ -27,7 +27,7 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 p.167–196 — Ch.6 — depth read: Ninomiya's fever
+### y3v3 p.182–182 — Ch.6 — depth read: Ninomiya's fever
 [scene] (p.182) Found lying in the shade of a tree, breathing heavily, having fallen ill with a fever.
 [says:amikura-mako] (p.182) "She hasn't been feeling well since this morning... I think she's started running a fever."
 [trait] (p.182) Too ill to pretend she's fine; coughing and in pain, she is ordered to retire and be picked up by the school.

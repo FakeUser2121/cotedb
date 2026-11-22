@@ -2098,18 +2098,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.89–250 — Depth review: the defeated rival
+### y3v3 p.89 — Ch.3 — depth read: the defeated rival
 [scene] (p.89) Orders his Class B to withdraw from the surprise attack on Class C after Kitō holds out longer than expected.
-[says] (p.237) "Sounds like you were pretty successful."
-[says] (p.241) "I just wanna know, is this really you surrendering?"
-[says] (p.248) "You... threw it...!?"
-[says] (p.250) "I've seen your process of using any environment to win."
 [feat] (p.89) Calls off the ambush on Class C when the reserve he expected to exploit does not materialise; Katsuragi and Ishizaki question the caution.
-[trait] (p.241) Obsessed with victory — chooses the 2-v-1 against Ayanokōji over the safer shot at a VIP because "settling things by running away on a rare occasion like this" is not fun.
-[limit] (p.248) Is beaten by a thrown paintball after burning his ammunition chasing Ayanokōji onto the beach.
-[status] (p.250) Concedes defeat and declares he will show no mercy in the truest sense from now on.
-[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach after Ayanokōji fed Class B the VIP names; loses and vows revenge.
-[rel:ibuki-mio] (p.236–240) Fights alongside her; she is eliminated first and protests bitterly.
 [rel:katsuragi-kouhei] (p.89) Discusses the withdrawal decision with him.
 
 ### y3v3 pp.172–173 — Depth review: beach conversation with Hiyori
@@ -2122,7 +2113,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.86–118 — Ch.3 — depth read: Ryūen's caution after the ambush
+### y3v3 p.86–89 — Ch.3 — depth read: Ryūen's caution after the ambush
 [scene] (p.86) Looks down at the shattered Class C students after the surprise attack.
 [says] (p.87) "Yeah. If things go well, that's eighteen people. Not bad."
 [says] (p.87) "It's probably better if Kondou doesn't catch up."
@@ -2136,7 +2127,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.87–90) Receives casualty reports and gives orders.
 [rel:ishizaki-daichi] (p.88) Holds him back from pursuing Class C.
 
-### y3v3 p.119–150 — Ch.4 — depth read: Ryūen deliberates the next attack
+### y3v3 p.119–121 — Ch.4 — depth read: Ryūen deliberates the next attack
 [says] (p.120) "I've got him cornered... but how're you gonna move, Ayanokouji?"
 [says] (p.120) "There's always the option of crushin' that eyesore Class A first... but that'd just make the guys at the bottom happy."
 [says] (p.120) "The main target's always Class C."
@@ -2145,7 +2136,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.120–122) Debates strategy with him; accepts the advice to stay defensive for now.
 [rel:ayanokouji-kiyotaka] (p.120) Focuses on him as the main target.
 
-### y3v3 p.167–196 — Ch.6 — depth read: Ryūen through Shiina
+### y3v3 p.167–173 — Ch.6 — depth read: Ryūen through Shiina
 [says] (p.172) "Lookin' pretty happy all by yourself, Shiina."
 [says] (p.172) "There ain't nothin' to it. I'm gonna win this special exam and I'm gonna do it with my own damn power."
 [says] (p.173) "So in the end, it means we don't know shit about what's comin', huh."
@@ -2157,7 +2148,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.167–170) Assesses the alliance and rejects allying with Class A.
 [rel:ibuki-mio] (p.167) Discusses the situation with her.
 
-### y3v3 p.233–252 — Epilogue — depth read: the duel lost, defeat conceded
+### y3v3 p.236–241 — Epilogue — depth read: the duel lost, defeat conceded
 [scene] (p.236) Emerges from the trees with Ibuki and Yamashita to confront Ayanokōji in the shrinking center of E11.
 [says] (p.237) "Sounds like you were pretty successful. How many people did you take out?"
 [says] (p.237) "I don't like it, but it's thanks to the information you sent. A convergence of interests, I suppose?"
@@ -2165,16 +2156,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.241) "So even you can't dodge every bullet here, can you?"
 [says] (p.241) "Gotta take every precaution when I'm up against you, Ayanokouji, right?"
 [says] (p.241) "Even in a 2-v-1, there's no guarantee we'd win a shootout against you."
+[feat] (p.237–248) Cornered Ayanokōji on the beach with an overwhelming ammunition advantage but lost when the damaged paintball burst on his abdomen; accepts the defeat with a declaration of future, merciless rivalry.
+[trait] (p.241) Obsessed with victory — chooses the 2-v-1 against Ayanokōji over the safer shot at a VIP because "settling things by running away on a rare occasion like this" is not fun.
+[trait] (p.241–242) Driven by obsession with a certain victory — refuses the safe all-or-nothing shot at a VIP and insists on beating Ayanokōji directly, even at the risk of his own defeat.
+[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach, concedes defeat, and vows no mercy from here on.
+[rel:ibuki-mio] (p.241) Says her preference was to gamble on an all-or-nothing shot at a VIP rather than challenge Ayanokōji.
+
+### y3v3 p.242–250 — Epilogue — depth read: the duel lost, defeat conceded
+[scene] (p.242) Demands to know if Ayanokōji is really surrendering; concedes defeat.
 [says] (p.242) "Nah. If it were just about winning, I'd have thought that was the better move, too."
 [says] (p.242) "I just wanna know, is this really you surrendering?"
 [says] (p.244) "No matter who you are, there's no way you can dodge every single bullet I fire, right?"
 [says] (p.248) "You... threw it...!?"
 [says] (p.250) "In the end, that idiot Ibuki was the most right, huh."
 [says] (p.250) "I've seen your process of using any environment to win. In that case, from here on out, I'm not gonna show you any mercy in the truest sense."
-[feat] (p.237–248) Cornered Ayanokōji on the beach with an overwhelming ammunition advantage but lost when the damaged paintball burst on his abdomen; accepts the defeat with a declaration of future, merciless rivalry.
-[trait] (p.241–242) Driven by obsession with a certain victory — refuses the safe all-or-nothing shot at a VIP and insists on beating Ayanokōji directly, even at the risk of his own defeat.
-[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach, concedes defeat, and vows no mercy from here on.
-[rel:ibuki-mio] (p.241) Says her preference was to gamble on an all-or-nothing shot at a VIP rather than challenge Ayanokōji.
 
 ### y3v3 p.86–90 — After the ambush: calling off the pursuit
 [scene] (p.86) Looks down at the shattered Class C students; the surprise attack has taken 15 of theirs including Kitou and VIP Nishikawa.
@@ -2240,7 +2235,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:shiina-hiyori] (p.171–173) Speaks with her on the beach; she pledges to follow him no matter what.
 [rel:ayanokouji-kiyotaka] (p.171–173) Vows to beat him with his own power; senses Ayanokōji anticipated both attacking options.
 
-### y3v3 p.237–248 — The beach duel and concession
+### y3v3 p.237–241 — Epilogue — depth read: the beach duel and concession
 [scene] (p.237) Confronts Ayanokōji in the shrinking area with Ibuki and Yamashita.
 [says] (p.237) "Hah, we've been playing this exam seriously, all trial and error, but in the end, it's just a flashy shootout with no brains involved that wears everyone down."
 [says] (p.237) "I don't like it, but it's thanks to the information you sent. A convergence of interests, I suppose?"
@@ -2248,15 +2243,18 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.241) "So even you can't dodge every bullet here, can you?"
 [says] (p.241) "Gotta take every precaution when I'm up against you, Ayanokouji, right?"
 [says] (p.241) "Nah. If it were just about winning, I'd have thought that was the better move, too."
+[feat] (p.237–248) Cornered Ayanokōji on the beach with overwhelming ammunition but lost to the thrown damaged paintball; accepts defeat with a declaration of future merciless rivalry.
+[trait] (p.241–242) Obsessed with a certain victory — refuses the safe VIP shot, insists on beating Ayanokōji directly, and demands to see how he can escape even at the risk of his own defeat.
+[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach; concedes and vows no mercy from here on.
+[rel:ibuki-mio] (p.241) Says she favored an all-or-nothing shot at a VIP over the 2-v-1.
+
+### y3v3 p.242–250 — Epilogue — depth read: the beach duel and concession
+[scene] (p.242) Demands to know if Ayanokōji is really surrendering; concedes defeat.
 [says] (p.242) "I just wanna know, is this really you surrendering?"
 [says] (p.242) "Even if it means risking my own defeat."
 [says] (p.248) "You... threw it...!?"
 [says] (p.250) "In the end, that idiot Ibuki was the most right, huh."
 [says] (p.250) "I've seen your process of using any environment to win. In that case, from here on out, I'm not gonna show you any mercy in the truest sense."
-[feat] (p.237–248) Cornered Ayanokōji on the beach with overwhelming ammunition but lost to the thrown damaged paintball; accepts defeat with a declaration of future merciless rivalry.
-[trait] (p.241–242) Obsessed with a certain victory — refuses the safe VIP shot, insists on beating Ayanokōji directly, and demands to see how he can escape even at the risk of his own defeat.
-[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach; concedes and vows no mercy from here on.
-[rel:ibuki-mio] (p.241) Says she favored an all-or-nothing shot at a VIP over the 2-v-1.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

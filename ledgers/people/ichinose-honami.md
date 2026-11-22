@@ -1772,7 +1772,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.151–166 — Ch.5 — depth read: Ichinose's faith from afar
+### y3v3 p.158–159 — Ch.5 — depth read: Ichinose's faith from afar
 [scene] (p.158) Watches the G11 battle on her tablet and, seeing Class C flee, prepares her class to receive them.
 [says] (p.159) "Ayanokouji-kun won't lose. No, I won't let him lose."
 [says] (p.159) "If we absorb Class C, we'll become the largest force."

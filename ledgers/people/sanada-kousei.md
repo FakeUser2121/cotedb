@@ -10,9 +10,12 @@
 [scene] (p.29) Standing nearby, he is asked by Ayanokōji to draw the starting-position lot; the draw gives Class C the E12 position.
 [note] (p.30) Apologizes for failing to secure a corner area; Ayanokōji tells him not to worry, since nothing could be done about it.
 
-### y3v3 p.35–44 — The role assignment discussion
+### y3v3 p.35–40 — Ch.1 — depth read: the role assignment discussion
 [scene] (p.35) Speaks up in agreement with Matoba that no one would honestly volunteer for expulsion; Ayanokōji names himself instead.
 [scene] (p.40) Listens as Morishita argues the commander should be chosen first.
+
+### y3v3 p.41–44 — Ch.1 — depth read: the role assignment discussion
+[scene] (p.44) Appointed one of Class C's two Analysts.
 [action] (p.44) Appointed one of Class C's two Analysts.
 
 ### y3v3 p.53 — Sanada suggests using Identity Check

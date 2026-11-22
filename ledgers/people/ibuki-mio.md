@@ -950,22 +950,25 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.131–240 — Depth review: the wild card eliminated
+### y3v3 p.131–134 — Ch.4 — depth read: the wild card eliminated
 [scene] (p.131) Ambushes a Class B supply group surrounding Morofuji, unseen, eliminating eight guards in under thirty seconds.
-[says] (p.238) "Die, Ayanokouji!"
-[says] (p.240) "Agh, dammit! So this is how it ends!?"
 [feat] (p.131) Single-handedly picks off eight Class B guards with precise submachine-gun fire from cover.
 [voice] (p.133) Cocky and theatrical — thanks her victims for the fun, calls the encounter "an act of kindness, in Koenji's own way."
+[rel:morofuji-rika] (p.131–134) Spares her and lets Class B keep the supplies.
+
+### y3v3 p.236–240 — Epilogue — depth read: the wild card eliminated
+[scene] (p.236) Emerges beside Ryūen to confront Ayanokōji in the final shrinking area.
+[says] (p.238) "Die, Ayanokouji!"
+[says] (p.240) "Agh, dammit! So this is how it ends!?"
 [trait] (p.240) Fiercely competitive, loud and profane when she loses.
 [limit] (p.240) Is hit by Ayanokōji's final shot to the right thigh after her own spray runs dry.
 [status] (p.240) Eliminated; complains she never wanted to take part in the exam.
 [rel:ayanokouji-kiyotaka] (p.236–240) Fights him alongside Ryūen at the end.
 [rel:ryuuen-kakeru] (p.236–240) Partners with him in the final 2-v-1.
-[rel:morofuji-rika] (p.131–134) Spares her and lets Class B keep the supplies.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.233–252 — Epilogue — depth read: the wild card falls
+### y3v3 p.236–241 — Epilogue — depth read: the wild card falls
 [scene] (p.236) Emerges from the trees beside Ryūen to confront Ayanokōji in the final shrinking area.
 [says] (p.238) "Die, Ayanokouji!"
 [says] (p.239) "Where are you even aiming? You think you're gonna hit me with a shot that pathetic? You're a lousy shot."

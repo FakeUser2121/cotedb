@@ -90,12 +90,16 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 p.46–85 — Ch.2 — depth read: Yoshida's panic and questions
+### y3v3 p.51 — Ch.2 — depth read: Yoshida's panic and questions
+[scene] (p.51) Urges learning to handle weapons before fighting; argues for stopping to let Class A pass.
+[trait] (p.51–74) Urges learning to handle weapons before fighting; panics and grumbles at the surprise attack, calling it a rules flaw.
+[rel:ayanokouji-kiyotaka] (p.51) Argues for stopping to let Class A pass and learn the guns.
+
+### y3v3 p.72–74 — Ch.2 — depth read: Yoshida's panic and questions
+[scene] (p.72) Panics at the surprise attack and grumbles about a rules flaw.
 [says] (p.72) "What the hell!"
 [says] (p.73) "So they used their one-time-only big move right from the get-go..."
 [says] (p.74) "Thinking about it normally, there was no way to defend against that surprise attack, was there...? It's a flaw in the rules."
-[trait] (p.51–74) Urges learning to handle weapons before fighting; panics and grumbles at the surprise attack, calling it a rules flaw.
-[rel:ayanokouji-kiyotaka] (p.51) Argues for stopping to let Class A pass and learn the guns.
 
 ### y3v3 p.51 — Urging a halt before the fight
 [scene] (p.51) Approaches Ayanokōji as the class nears G8.

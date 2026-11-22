@@ -45,7 +45,7 @@ char_id: beppu-ryouta · class: Class 1-B · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.233–252 — Epilogue — depth read: the VIP who walks into the trap
+### y3v3 p.235–236 — Epilogue — depth read: the VIP who walks into the trap
 [scene] (p.235) Is asked by Ayanokōji to accompany him to the center of E11 to check the enemy's position and bait the confrontation.
 [says] (p.235) "What are you going to do...?"
 [says] (p.236) "I hope you're right... To be honest, I'm at my absolute limit..."
