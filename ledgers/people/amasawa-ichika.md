@@ -58,24 +58,34 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
-### y2v1 p.176–189 — Amasawa's cooking test; agreeing to partner with Sudō
-[scene] (p.176) Comes to Ayanokōji's dorm room with groceries, treating the visit like a fun outing; sets strict rules for the cooking test.
+### y2v1 p.176–179 — The cooking test begins
+[scene] (p.176) She comes to his dorm room with groceries, treating the visit like a fun outing; sets strict rules for the cooking test.
 [says] (p.176) "Anyway, I'm super picky about taste~ If it's not yummy enough, the deal's off, okay?"
 [says] (p.176) "Oh, looking up anything on your phone is against the rules, okay~?"
 [says] (p.177) "Pardon the intru~sion. Wow, you've really got it all nice and tidy, huh? It's like, super clean too~"
+[scene] (p.178–179) Horikita's two-part plan: basic knife work learned overnight, and real-time recipe guidance through a hidden earpiece; Amasawa demands the dish by heart.
 [says] (p.178) "You scaaared~?"
 [says] (p.178) "Sounds wonderful then. Cuz in my book, a good cook is somebody who knows the recipe by heart."
 [says] (p.179) "The dish you're gonna make is… tom yum goong!"
+
+### y2v1 p.180–183 — The dish and the verdict
+[scene] (p.180) He finishes the tom yum goong slightly over time and serves it with apple slices peeled using the Petty knife.
 [says] (p.184) "Wow~ How amazing! You're doing perfectly! The way you handle that knife gets full marks from me!"
 [says] (p.184) "I do though? It's just like, I thought you might figure out what the dish was if we got cilantro."
+[scene] (p.185–186) Amasawa eats every bite and calls it "just barely good enough"; she cleans the kitchen while he waits.
 [says] (p.186) "Yeah, I guess it was just barely good enough. It wasn't, like, super delicious or anything, but I think it tasted good enough for me to wanna try it again."
+[scene] (p.187) She announces the result and agrees to pair with Sudō out of respect for his effort.
 [says] (p.187) "While I can't exactly say you passed, it's true that you can cook."
 [says] (p.187) "I'll pair up with Sudō-senpai, outta respect for your efforts."
+
+### y2v1 p.184–189 — The deal and the refusal
+[scene] (p.184–186) She agrees to pair with Sudō out of respect for his effort; she cleans up and prepares to leave.
+[scene] (p.187–189) He asks her to bridge Class 1-A; she refuses, saying she has no friends there and won't sugarcoat her words.
 [says] (p.189) "So~rry, but I don't think that's possible."
 [says] (p.189) "I'm not the type to sugarcoat my words."
-[trait] (p.176–189) Cheerful, playful and sharp — deliberately omits cilantro to prevent him identifying the dish, checks his technique closely, eats every bite, and meticulously cleans the kitchen (used to helping her mother); refuses to be an intermediary because she isn't close to her Class 1-A classmates.
 [rel:ayanokouji-kiyotaka] (p.176–189) Tests his cooking; agrees to partner with Sudō out of respect, and declines his intermediary request.
 [rel:sudou-ken] (p.187–188) Agrees to partner with him and submits the application.
+[trait] (p.176–189) Cheerful, playful and sharp — deliberately omits cilantro to prevent him identifying the dish, checks his technique closely, eats every bite, and meticulously cleans the kitchen (used to helping her mother); refuses to be an intermediary because she isn't close to her Class 1-A classmates.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
