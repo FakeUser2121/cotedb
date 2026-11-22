@@ -1821,6 +1821,35 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.11–22) Fellow representative; they walk back to the classroom in silence.
 
 <!-- walk: y2v12.5 Ch.1 → p.22 -->
+
+### y2v12.5 p.64 — Ch.4: Hirata, mentioned
+[scene] (p.64) Chabashira, told two more people are yet to arrive to the meeting, guesses it might be "Horikita... and Hirata too?" — fearing a class problem.
+[note] (p.64) Ayanokōji clarifies it has nothing to do with the class or Maezono; Hirata does not appear on-page in this chapter.
+[mentioned] (p.64) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.4 → p.76 -->
+
+### y2v12.5 p.123 — Ch.7: hirata-yousuke, mentioned
+[scene] (p.123) Named in this chapter's dialogue or narration; no on-page presence.
+[mentioned] (p.123) In narration: Kōenji would not act unless in a situation similar to when Yamauchi or Hirata went on a rampage and physically attacked someone.
+[note] (p.123) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.7 → p.138 -->
+
+### y2v12.5 p.192–193 — Ch.10: Yōsuke carries the class again
+[scene] (p.192) At the 2-B celebration, hearing Karuizawa's name, Yōsuke approaches Ayanokōji, concerned.
+[says] (p.192) “Can I talk for a moment? About Karuizawa-san... I’ve heard the story.”
+[says] (p.193) “That’s nothing to apologize for. It’s unfortunate that your relationship ended, but that’s just how it is. Besides, I’m not in a position to judge others either.”
+[says:horikita-suzune] (p.193) “Have you heard about Karuizawa’s condition, Yōsuke?”
+[says] (p.193) “Looks like Satō-san invited her here, but it didn’t work out. I don’t know what I can do for her in the future, but I intend to help when she’s in trouble. And not just Karuizawa-san, I’ll take care of our class so everyone can move forward with confidence. So, don’t worry.”
+[says] (p.193) “If you ever feel lost, Ayanokōji-kun... I want you to talk to me.”
+[says] (p.193) “...Yeah. Well then, I’ll go talk with everyone for a bit.”
+[note] (p.193) In front of Horikita he must play the role of the "boyfriend" Karuizawa broke up with, even though the relationship was fake; his words reveal he is not satisfied with Maezono’s expulsion but already accepts he cannot just complain.
+[rel:ayanokouji-kiyotaka] (p.192–193) He bears the fake breakup look in public; he promises to look out for him anyway.
+[rel:karuizawa-kei] (p.193) Satō-san invited her to the party; it did not work out; he will help her when she needs it.
+[rel:satou-maya] (p.193) Satō invited Karuizawa; it didn’t work out.
+
+<!-- walk: y2v12.5 Ch.10 → p.199 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

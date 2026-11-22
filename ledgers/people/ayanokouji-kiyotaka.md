@@ -6109,6 +6109,16 @@ walk: y1v1 → DONE
 [rel:kushida-kikyou] (p.24–25) Kushida reads him exactly and warns him she needs a safe position in the class.
 
 <!-- walk: y2v12.5 Ch.1 → p.25 -->
+
+### y2v12.5 p.34–42 — Ch.2: Ayanokōji, mentioned only
+[scene] (p.34) Sakayanagi tells Ryūen that the hidden message from Ayanokōji — that he wanted Ryūen, not her, to fight him — reached her through Ryūen and Hashimoto.
+[note] (p.35) "Because it was a hidden message, I judged that picking up on it was the best course of action." — Sakayanagi, speaking of her reading of the message.
+[note] (p.36) "You’re free to blindly believe in Ayanokōji, but I still don’t like it." — Ryūen; and Sakayanagi's read that Ayanokōji "found a purpose" in this school.
+[note] (p.37–41) Sakayanagi speaks of Ayanokōji with genuine happiness, more suited to watch him than Ryūen is; Ayanokōji does not appear on-page in this chapter.
+[mentioned] (p.34–42) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.2 → p.42 -->
+
 ### y2v12.5 p.43–53 — Ch.3: Meeting Morishita and Yamamura behind the dorm
 [scene] (p.43) Spring break has begun; Ayanokōji waits near the dormitory for Morishita and Yamamura, then calls Yamamura when they are late.
 [says] (p.43) “Maybe I should try calling Yamamura then.”
@@ -6303,6 +6313,289 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12.5 Ch.6 → p.106 -->
 
+### y2v12.5 p.107–109 — Ch.7: The counseling room and the late father
+[scene] (p.107) At 4 PM on April 1st he arrives at school for the three-way meeting, rearranged one slot earlier (5 PM → 4:30) so as not to collide with Kōenji's family.
+[scene] (p.109) In the empty counseling room, Chabashira warns him about Hoshinomiya; his father does not show.
+[says] (p.109) “My father doesn’t seem to have arrived. Is he absent?”
+[says] (p.109) “It’ll take some time, but as I mentioned the other day, I’ll manage something during spring break.”
+[says] (p.109) “I understand what you want to say, but if that’s the case, would you go so far as to step down as the class homeroom teacher?”
+[says] (p.109) “Then it’s also important to wait patiently. Chabashira-sensei, you shouldn’t act recklessly.”
+
+### y2v12.5 p.110–111 — Ch.7: Atsuomi plays the father
+[scene] (p.110) His father walks in looking no different from last year; he checks his documents and asks about the OAA box.
+[says] (p.111) “Guess so. I’ve managed to make some good friends.”
+[rule] (p.111) His OAA as of end of March: Academic Ability A (87); Physical Ability B (73); Adaptability C (54); Social Contribution B (70); Overall Ability B (71). At this time last year, his overall ability was 51.
+
+### y2v12.5 p.112–113 — Ch.7: The future-path questions
+[scene] (p.112) Chabashira turns the future-path question to him; his father prolongs the meeting to create a pretext for a later, coincidental contact.
+[says] (p.112) “If my parents allow it, I think pursuing further studies wouldn’t be a bad choice.”
+[says] (p.112) “I’m interested in the university where my senpai who took care of me here has gone.”
+[says] (p.112) “Yes, Chabashira-sensei.”
+[says] (p.113) “What comes after university, you ask?”
+[says] (p.113) “I’m sorry, I haven’t decided anything yet. Would it be too late to decide during university?”
+[says] (p.113) “If I say I want to work, will you accept that, Father?”
+[note] (p.112–113) He reads the changed meeting length as his father probing; the prolongation is aimed at making contact with Kōenji's family under the guise of coincidence.
+[rel:chabashira-sae] (p.109–114) She briefs him on Hoshinomiya and runs the meeting.
+[rel:ayanokouji-atsuomi] (p.110–113) His father plays the normal father; he plays along.
+
+<!-- walk: y2v12.5 Ch.7 → p.113 -->
+
+### y2v12.5 p.114–121 — Ch.7: A staged coincidence
+[scene] (p.114) The meeting ends; Atsuomi asks Chabashira for "another moment," keeping her past schedule so she can't rush to Kōenji.
+[says] (p.114) “Take care not to overdo it for your remaining school life.”
+[says] (p.115) “That might be true.”
+[says] (p.115) “Kōenji, was it? I hope it ends without trouble, just like ours.”
+[scene] (p.115) His father stops and waits for him at the end of the hallway; Atsuomi says they should have a light conversation.
+[says] (p.115) “There was no need for you to wait, right?”
+[says] (p.115) “Father and son, huh? Unfortunately, I’ve never thought of it that way.”
+[scene] (p.116) He announces the White Room's next step: he will appoint Ayanokōji its new leader and create the next generation that will surpass him.
+[says:ayanokouji-atsuomi] (p.116) “Oppose? That’s unlikely. You should be able to understand everything. To fully demonstrate your value and purpose, my cooperation is essential. But if, by any chance, you decide to confront me… there would only be one outcome.”
+[says:ayanokouji-atsuomi] (p.117) “Don’t think about anything unnecessary, Kiyotaka.”
+[says:ayanokouji-atsuomi] (p.117) “Ho? Then, do you have any desires?”
+[says:ayanokouji-atsuomi] (p.117) “Of course, I disposed of him. Well, that’s what I would’ve said up until last year.”
+[says] (p.117) “Re-education, huh?”
+[says] (p.117) “What happened to Yagami, who was sent to expel me—no, to check my status?”
+[says] (p.117) “I hope she’ll do as she’s told obediently.”
+[scene] (p.117–118) Amasawa is to be left as is for another two years; Atsuomi will retrieve her after graduation or expulsion and compare her with Yagami.
+[says] (p.118) “Even though I didn’t know them personally, they are like younger siblings to me.”
+[says] (p.118) “To you, is this change in me welcomed? Or is it the opposite?”
+[says] (p.118) “You should be done checking up on me already. Can I go back now?”
+[says] (p.118) “Maybe. But if that’s the case, your hopes are misguided. I’m not doing this to take the top. As proof, I’m planning to move to a lower class afterward.”
+[says] (p.119) “Who knows? That might be it, or it might not be.”
+[scene] (p.119) At the exact moment Kōenji's father (Company President Kōenji) climbs the stairs, Atsuomi stages the coincidence — business card, feigned surprise: “I am Ayanokōji Atsuomi, a member of the Kyōei Party.”
+[says] (p.121) “Then it wouldn’t have to be at a school, right?”
+[says] (p.121) “That man is arguably the biggest supporter of the Citizen’s Party. He doesn’t show his face or speak out, but he contributes money. He’s a major client for the Citizen’s Party.”
+[says] (p.121) “Still, he brushed me off pretty easily.”
+[note] (p.120–121) Kōenji's father sees through the staged coincidence and declines him; Atsuomi watches him leave and takes a call: “…Yes. I’ll adjust to that.”
+[rel:ayanokouji-atsuomi] (p.115–121) His father lingers after the meeting to stage the Kōenji encounter; he plays along only as long as needed.
+[rel:kouenji-rokusuke] (p.114–115) Chabashira hopes his meeting ends without trouble.
+
+<!-- walk: y2v12.5 Ch.7 → p.121 -->
+
+### y2v12.5 p.122–127 — Ch.7: Kōenji Rokusuke's warning
+[scene] (p.122) Coming down the hallway, Kōenji (the son) intercepts him, humming, and tells him he has been making conspicuous moves.
+[says] (p.122) “Ayanokōji boy, could I have a little of your time?”
+[says] (p.122) “It’s rare for you to approach me first.”
+[says] (p.122) “No. I just didn’t think you were that type of person, so I was surprised.”
+[says] (p.122) “Conspicuous moves? I don’t know what you’re talking about.”
+[says] (p.122) “The matter with Maezono? That was a choice I had to make to win for the class. I explained the circumstances after the exam, didn’t I?”
+[says] (p.122) “Well, I wonder about that.”
+[says] (p.122) “It seems I’m being terribly misunderstood.”
+[says] (p.123) “Sorry, but I don’t understand. A mirror is just a mirror. It only reflects what’s in front of it.”
+[says] (p.123) “In the first place, you didn’t have any interest in the class, right Kōenji? It shouldn’t matter to you what happens to anyone. So why bother giving a warning?”
+[says] (p.123) “In that case, there’s no need to hold back. If it’s an eyesore, the quickest way is to knock them down.”
+[says] (p.123) “If you’re holding back your true intentions, then don’t hesitate to say them. I’m already taking the time to be here.”
+[says] (p.123) “Do you understand my intentions?”
+[says] (p.124) “I don’t want the competition for Class A to end with just one or two contenders. I want to continue it into an endless game among three or four classes. That’s all there is to it.”
+[says] (p.126) “I won’t deny it. Whether it can be realized depends on what happens next. But aside from transferring, I’m willing to do anything to maintain the balance among the classes.”
+[says] (p.126) “Just as with Sakura and Maezono, if I judge it necessary, I won’t hesitate to expel Wan Mei-Yui as well.”
+[note] (p.126) In effect he says Kōenji could surpass him even in a battle of academics ("Even the numbers and letters that dance on paper will embarrass you if I get serious").
+[says] (p.126) “If it’s just empty words, even Ike or Hondō could say them. Can you actually prove it?”
+[note] (p.124–126) Kōenji guesses his transfer plan; Ayanokōji admits it ("I won’t deny it"); he signals that Wang Mei-Yui's safety is also in play.
+[rel:kouenji-rokusuke] (p.122–127) He warns Ayanokōji to rein in his moves; Ayanokōji calls his bluff that his academics would embarrass others.
+[rel:wang-mei-yu] (p.126) He tells Kōenji that, if necessary, he will expel Wang Mei-Yui as well.
+
+<!-- walk: y2v12.5 Ch.7 → p.127 -->
+
+### y2v12.5 p.128–136 — Ch.7: The chairman's office
+[scene] (p.128) He watches from outside the chairman's office as Chairman Sakayanagi awaits Kijima's second guest: Kōenji's father.
+[note] (p.128–129) Kijima extends his hand toward Kōenji when he strides in; Atsuomi bursts in unannounced moments later — Sakayanagi tries to turn him away, Kijima stops him with a raised hand, and Atsuomi forces his way into the conversation.
+[scene] (p.134–135) Atsuomi tells Kōenji that Kiyotaka will move classes and compete with his son; he proposes a bet — if Kiyotaka prevents Kōenji's son's class from graduating Class A, they meet again, one-on-one.
+[note] (p.135–136) Kōenji counters with the stakes rising: permanent Diet resignation if Kiyotaka fails him; Atsuomi takes it; Kijima stays as witness and will be contacted with the results.
+[rel:ayanokouji-atsuomi] (p.128–136) He watches his father trade barbs with Kijima and stake his position against Company President Kōenji.
+[rel:sakayanagi-narimori] (p.128–136) He passes Kōenji's message along to Rokusuke through the chairman.
+[rel:kijima] (p.128–136) He watches Kijima size Atsuomi up — calling Atsuomi "a boring man," then Kōenji's interest in the son-transfer fact lands and the stakes rise.
+
+<!-- walk: y2v12.5 Ch.7 → p.136 -->
+
+### y2v12.5 p.137–138 — Ch.7: The ride home with Tsukishiro
+[scene] (p.137) He slides into the back seat of the black sedan waiting outside the main gate; Tsukishiro drives.
+[says:ayanokouji-atsuomi] (p.137) “He’s a shrewd man. His capabilities were certainly conveyed.”
+[says:ayanokouji-atsuomi] (p.137) “I thought meeting him directly would stir things up a bit more.”
+[note] (p.137) Tsukishiro says Kōenji's father studies the exam footage he obtained through school officials; the data's flash drive is snapped in two and discarded.
+[says:ayanokouji-atsuomi] (p.137) “He’ll use any means to survive. It’s just as he was taught.”
+[says:ayanokouji-atsuomi] (p.138) “And there was an unexpected return.”
+[says:tsukishiro] (p.138) “Oh? A return?”
+[says:ayanokouji-atsuomi] (p.137) “He seems more invested in Kijima than I imagined. It’s clear that their relationship wasn’t built overnight.”
+[note] (p.138) If his Kiyotaka defeats Kōenji-kun’s class, he could meet Kōenji one-on-one with no interference — an unparalleled chance to win him over; he never knowingly misses such a chance.
+[rel:tsukishiro] (p.137–138) His handler reports the exam footage was disposed of; the father-son maneuvering continues in the car.
+[rel:kijima] (p.137–138) Tsukishiro calls the Citizen’s Party safe for a decade if nothing happens — but no one defies reason in this world.
+
+<!-- walk: y2v12.5 Ch.7 → p.138 -->
+
+### y2v12.5 p.139–144 — Ch.8: Celebration, planned
+[scene] (p.139) Back to cooking at home; Karuizawa's belongings have all disappeared; her friends (Satō, Sonoda, Ishikura) picked them up; he tells everyone he was dumped.
+[says] (p.139) “Right, that’s no longer necessary.”
+[says] (p.140) “So the news has reached Horikita’s ears too.”
+[says] (p.140) “I can meet anytime after 10 o’clock.”
+[scene] (p.141) At the entrance of Keyaki Mall, Horikita meets him; the café is full; they buy vending-machine drinks and sit on a bench by the second-floor restroom.
+[says:horikita-suzune] (p.142) “Kushida-san was quite excited to tell me, saying you were dumped pretty badly. Should I give you the details?”
+[says] (p.142) “I’d appreciate it if you did.”
+[says] (p.142) “Anyway, I guess I wasn’t a good match for her.”
+[says] (p.142) “Women are actors, I guess. Or maybe she found someone better.”
+[says] (p.142) “What’s with that meaningful look?”
+[says] (p.142) “Did you say you wanted to meet just to check how I was doing?”
+[says] (p.143) “A celebration for our promotion?”
+[says] (p.143) “Well, maybe you’re right. Everyone just focused on the chaotic situations in the other classes.”
+[says] (p.143) “It’s hard for other students to initiate something like this, isn’t it?”
+[says:horikita-suzune] (p.143) “If nearly 40 people gather, we might bother others if we choose a poor location, right? So, I was thinking about using a classroom at school on a day off. It won’t cost much, just drinks. How about next Friday?”
+[says] (p.143) “Agreed.”
+[says] (p.143) “There’s no reason to refuse.”
+[says] (p.144) “I did all those things on my own. You absolutely don’t need to feel responsible.”
+[says] (p.144) “I understand what you’re saying, but I’m still okay. If it becomes too much, I’ll definitely consult with you.”
+[says] (p.144) “Sorry to make you worry.”
+[says] (p.144) “What you’re saying could be misleading.”
+[says] (p.144) “It sounded somewhat like a confession.”
+[says] (p.144) “Since I’m officially single now, are we putting your name forward as a potential girlfriend candidate?”
+[says] (p.144) “Rather than the expulsion matter, I’m just putting on a brave front to hide my heartbreak from being dumped. Forgive me.”
+[note] (p.143–144) Horikita overhears her own guilt about the Maezono expulsion; he deflects and jokes — she is the one who called the meeting.
+[rel:horikita-suzune] (p.141–144) She buys his drinks; she proposes the promotion celebration for next Friday; she gently presses him on the burden of Maezono's expulsion.
+[rel:karuizawa-kei] (p.139) Her belongings left with her friends; he publicly accepts being dumped.
+
+<!-- walk: y2v12.5 Ch.8 → p.147 -->
+
+### y2v12.5 p.148–157 — Ch.9: Ishizaki’s recruitment, and the promise
+[scene] (p.148) The promised day arrives; he wakes to the 8 AM news, sends Ichinose a message, and waits; his morning includes Ishizaki’s 8 AM call to come out now.
+[scene] (p.149) Ishizaki summons him to Keyaki Mall at 8 AM (closed; perfect for confidentiality).
+[says] (p.148) “Hello?”
+[says] (p.149) “...Now? It’s just past 8 in the morning, you know?”
+[says] (p.149) “That’s true, but... I can spare about an hour. Where should I go?”
+[says] (p.149) “Decide on a place at least.”
+[says] (p.149) “Got it.”
+[scene] (p.150) Shiina Hiyori is there too, wondering why she was summoned; Ishizaki arrives late, remorseless.
+[says] (p.150) “Good morning. This is a coincidence, isn’t it?”
+[says] (p.150) “That’s right. Ishizaki called me out too. He didn’t tell me what this was going to be about.”
+[says] (p.150) “I’d like to think it’s nothing bad...”
+[says] (p.151) “So, why did you call us here?”
+[says] (p.151) “Sorry, I might not understand the situation’s vibes yet. What is this all about?”
+[says] (p.151) “That’s what you wanted to talk about? Without giving any prior notice, this early in the morning?”
+[says] (p.151) “Sorry, but it’s impossible. Or rather, there’s no need.”
+[says] (p.152) “Recently, Ryūen has defeated Sakayanagi, and he’s come much closer to Class A. Even without my power, there’s a good chance you can win. Besides, as you’ve said yourself, Ishizaki, Ryūen will advance even more from here. Then there’s no need for reinforcements. Or are you saying Ryūen can’t win without me in the future?”
+[says] (p.152) “That’s how it is. You, as his close aide, shouldn’t doubt Ryūen. Just believe in his abilities. Since Katsuragi was brought in, the class’s gaps have been practically filled.”
+[says:ishizaki-daichi] (p.152) “No, that’s not...!”
+[says] (p.153) “It doesn’t feel bad to have you say it like that. I don’t dislike spending time with you and Hiyori. In fact, in some ways, it’s more relaxing than with Horikita’s class.”
+[says] (p.153) “However, I can’t transfer classes just for the sake of friendship. Besides, providing the necessary private points is a high hurdle, not to mention whether other classmates besides Ryūen would accept it. Naturally, there would be opposition. Ibuki would definitely oppose it.”
+[says] (p.153) “Ibuki is just one example. If the story suddenly came out, there would be suspicious eyes everywhere. If things went poorly, there might even be students who think I was sent from Horikita’s class to Ryūen’s class in order to sabotage it from within after my transfer.”
+[says] (p.153) “And as Hiyori first mentioned, Horikita’s class is now about to move up to Class A. I’m strongly against taking the risk to move down to a lower class.”
+[says:ishizaki-daichi] (p.153) “That is...! Well then! Let’s do this!”
+[says] (p.153) “Do this?”
+[says] (p.153) “I already have a girlfriend, you know?”
+[says] (p.153) “That’s absurd.”
+[says] (p.153) “What kind of proposal is that…?”
+[says] (p.153) “I don’t dislike her.”
+[says] (p.154) “It’s better not to say things that’ll trouble others, Ishizaki.”
+[says] (p.156) “Give it a rest, Ishizaki. It’s better not to trouble Hiyori. It’s cruel to make someone express their feelings in front of the person concerned, whether she likes them or not. Only a few people can say they don’t like someone to their face.”
+[says] (p.156) “...Hiyori?”
+[says] (p.156) “That is—”
+[says] (p.157) “I appreciate the sentiment, but I really can’t accept the invitation.”
+[says] (p.157) “I’m grateful that you invited me again. Maybe this time next year, I’ll regret not taking up your offer.”
+[rel:ishizaki-daichi] (p.149–157) He begs Ayanokōji to transfer to Ryūen’s class; twice pushed aside; his plan would put him in Ryūen’s future if it happens.
+[rel:shiina-hiyori] (p.150–157) She is summoned too; she invites him in her own way —"May I say just one thing, even if it’s hopeless...?" — and it lands like a confession.
+[rel:ichinose-honami] (p.148) The message Ichinose hasn’t answered yet; he waits for an answer all day.
+
+<!-- walk: y2v12.5 Ch.9 → p.157 -->
+
+### y2v12.5 p.158–160 — Ch.9: Waiting for the answer
+[scene] (p.158) April — time passes; he cleans, waits for Ichinose, eats dinner alone; the message stays unread.
+[scene] (p.159) Heavy rain starts at 9:30 PM; at 10 PM the messages show as read — Ichinose is awake; silence; 20 minutes pass.
+[says] (p.159) “Less than three hours left.”
+[scene] (p.160) His options: accept silence as her answer, or check in person. He decides to go out at 10:30 PM — a risky venture given the time.
+[rel:ichinose-honami] (p.158–160) She hasn’t answered all day; her read receipt arrives at 10 PM; silence — or not.
+
+<!-- walk: y2v12.5 Ch.9 → p.160 -->
+
+### y2v12.5 p.161–163 — Ch.9: The door opens
+[scene] (p.161) 10:30 PM; no one in the hallway; he climbs the emergency stairs to Ichinose’s room and rings the doorbell — no answer; ten+ rings by phone; no answer.
+[says] (p.161) “It’s me. The deadline for our promise is about to end, that’s why I came here.”
+[says] (p.161) “I’ll wait just three more minutes. If there’s no response, I’ll leave, so don’t worry.”
+[scene] (p.162) A message lands: “Why did you come?” — from Ichinose. He replies; another: “I don’t have the courage to go to your room right now, Ayanokōji-kun. Sorry.”
+[says] (p.162) “I understand that. That’s why I came here.”
+[says] (p.162) “I’ll wait one more minute. If the door doesn’t open by then, let’s pretend the promise never happened.”
+[says] (p.162) “Ichinose, are you there?”
+[scene] (p.163) The unlocked door; the dark, silent room; he spots her in the corner, hugging her knees, face down.
+[says:ichinose-honami] (p.163) “Even though curfew passed, you don’t care?”
+[says] (p.163) “That’s my line as well. Since you invited me in, Ichinose, you also bear some responsibility.”
+[says:ichinose-honami] (p.163) “Ayanokōji-kun, you value this day more than I imagined.”
+[says] (p.163) “Yes.”
+[says] (p.163) “I decided a year ago. Today is the day to enact the student Ichinose Honami’s kaishaku.”
+[note] (p.163) “Kaishaku…” — the TL note in the corpus: ritual suicide (seppuku), a second person delivering the final blow.
+[rel:ichinose-honami] (p.161–163) He risks his name and a warning to see her; she answers at the door — and unlocks it.
+
+<!-- walk: y2v12.5 Ch.9 → p.163 -->
+
+### y2v12.5 p.164–171 — Ch.9: The kaishaku proposal
+[scene] (p.164) The word "kaishaku" lands; he clarifies there is another meaning — to attend to someone and take care of them.
+[says] (p.164) “That’s what you’ll soon come to understand.”
+[says] (p.164) “If it’s okay with you, may I come in?”
+[scene] (p.164) She lets him in; he offers: “You might not want to see me… however, I wanted to talk today.”
+[says] (p.164) “I won’t deny it. If we both decide that’s best, it’s necessary.”
+[says] (p.164) “Is there anything you want to tell me first? If not, I’m ready to give my answer.”
+[scene] (p.165) He tells her: her class won, so to win she must step down as leader — she must leave the class; he will transfer in and take over, paid to graduate her class from Class A.
+[says] (p.166) “I will transfer to your class and become the new leader.”
+[says] (p.166) “I won’t deny that it was one of the options. Still, if you had defeated me and shown the strength that made me unnecessary, I would’ve welcomed that too.”
+[says] (p.166) “I’ll transfer to your class and graduate from Class A, but I require that you, Ichinose Honami, get expelled from this school.”
+[scene] (p.167) She asks his purpose; he explains the memory of a graduate; he wants to be a "memorable student"; the 40-person class plan.
+[says] (p.165) “You should understand my abilities by now, whether for better or worse. The 500-points gap with Horikita’s class isn’t an easy fight, but I can easily overtake them within a year.”
+[says] (p.167) “Once this transfer is completed, it will definitely make me a memorable student.”
+[says] (p.167) “Do you remember what I told you a year ago—to stay true to yourself?”
+[says] (p.168) “I promise.”
+[says] (p.168) “But Ichinose, let me tell you something important first. I will definitely lead your class to Class A, but I can’t guarantee the graduation of all 39 classmates excluding me.”
+[says] (p.168) “Of course. We can’t afford to carry any dead weight for the comeback. If I feel a student is unnecessary, I will naturally cut them off. To make up for the significant gap in class points, eliminating weaknesses is one of the top priorities. If there’s a chance to force someone out through special exams, I’ll use it without hesitation. Whether it’s Amikura, Norihito, or someone close to you, I won’t make any distinctions. It’s the same as what I did with Maezono in Horikita’s class.”
+[says] (p.170) “Then you have no choice but to keep fighting on your own.”
+[says:ichinose-honami] (p.170) “Whether I drop out or not, maybe that’s the answer you’re waiting for, Ayanokōji-kun.”
+[says] (p.170) “Both are wrong? Then, what do you think is the right choice?”
+[says] (p.170) “That’s just an ideal, and it’s selfish.”
+[says] (p.170) “You’re not dropping out, yet you still want me to transfer to your class—is that what you mean to say?”
+[note] (p.170) Ichinose answers the third way: not withdrawal, not fighting on alone — keep every classmate and find a route to Class A with him.
+[note] (p.170) "She reached the 1% answer I had hoped for." — narration.
+[note] (p.171) He admits he had predicted two answers; the third — her — was beyond his calculations.
+[rel:ichinose-honami] (p.164–171) He proposes the kaishaku: she volunteers to be expelled; she beats his calculation with her own answer.
+[rel:sakayanagi-arisu] (p.167–168) The White Room goal: keep the four-class balance alive; her withdrawal was part of the correction.
+
+<!-- walk: y2v12.5 Ch.9 → p.171 -->
+
+### y2v12.5 p.171–176 — Ch.9: The contract
+[scene] (p.171) She tells him she knew he would come; she wants no more secrets between them; she refuses to run from him.
+[says:ichinose-honami] (p.171) “But… I feel like neither of those is the real answer.”
+[says:ichinose-honami] (p.171) “I don’t want to lose any of my friends. I can’t afford to lose them.”
+[says:ichinose-honami] (p.171) “But with you, Ayanokōji-kun, it can be realized.”
+[says:ichinose-honami] (p.171) “I won’t allow any more unnecessary secrets between me and you, Ayanokōji-kun. I don’t want to.”
+[says:ichinose-honami] (p.172) “I think I understand Karuizawa-san better now.”
+[says] (p.172) “Maybe.”
+[says] (p.172) “You are—”
+[says] (p.172) “At the very least, I have no right to deny that.”
+[says:ichinose-honami] (p.172) “That’s not right, Ayanokōji-kun.”
+[says:ichinose-honami] (p.172) “This whole time I was shut away, I tried many times to dislike you. But I couldn’t do it. Even though I know it’s stupid, I couldn’t change my affectionate feelings. And even today, no matter how cruel the words you showered onto me, that still hasn’t changed.”
+[says] (p.173) “Sorry, but I broke up with Karuizawa before coming here. I’m visiting a girl’s room at night, so I’ve already taken care of the risk management.”
+[says] (p.175) “I don’t intend to threaten you.”
+[scene] (p.172) She grabs his hand and pulls him onto the bed.
+[scene] (p.173) The rain strikes the glass; her heartbeat against his hands; he understands the conversation is over reason.
+[scene] (p.175) Ichinose kisses him — her first kiss; they cross the line together; the announcement of the exam's ending is fed by her resolve.
+[note] (p.175) It is her first kiss — she says so herself; his answer: “There’s no option for that. Escaping by force here would be riskier.”
+[note] (p.176) "It wasn’t a ritual to become lovers... It was an absolute contract, to be needed and to need the other." — narration, kept as printed.
+[rel:ichinose-honami] (p.171–176) She crosses every line first — she kisses him; she asks only to be needed as much as he needs her.
+[rel:karuizawa-kei] (p.172–173) He tells Ichinose he broke up with Karuizawa before coming — Ichinose never knew; she now understands Karuizawa better.
+
+<!-- walk: y2v12.5 Ch.9 → p.176 -->
+
+### y2v12.5 p.192–198 — Ch.10: Goals — the boy who disappeared
+[scene] (p.192) New semester on a Monday; he and Horikita are first to class; the 2-B celebration with cocoa and tea begins without Karuizawa and Kōenji.
+[says] (p.192) “I’m sorry I couldn’t meet your expectations, Yōsuke, after all the help you gave me.”
+[says] (p.193) “Horikita told me something similar. Thank you, Yōsuke.”
+[says] (p.193) “I’m just thick-skinned, that’s all. Just as I don’t mind being blamed, I don’t care about the lack of praise either.”
+[says] (p.193) “Even though it led to Maezono being expelled?”
+[says] (p.195) “What’s your goal, Horikita?”
+[says] (p.196) “That’s a good goal.”
+[says] (p.196) “Doing the obvious can be surprisingly difficult.”
+[says] (p.196) “I’m not telling you now.”
+[says] (p.196) “Next time.”
+[note] (p.194) He agrees with Horikita: even with time passing, a small fraction of our lives remains to develop perfect skills.
+[note] (p.198) He disappears mid-conversation; the class never sees him again that evening; Horikita is left alone with her thoughts.
+[rel:horikita-suzune] (p.192–198) They trade goals; he withholds his; he leaves without a word.
+[rel:hirata-yousuke] (p.192–193) Yōsuke speaks to him about Karuizawa; he accepts the apologies.
+[rel:satou-maya] (p.192) Satō's cold glances mark how far the class has fallen out with him.
+
+<!-- walk: y2v12.5 Ch.10 → p.199 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

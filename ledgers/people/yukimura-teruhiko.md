@@ -899,15 +899,13 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.192-196 — Ch.10
+### y2v12.5 p.195 — Ch.10: Yukimura’s advice
+[scene] (p.195) Hearing Ike, Yukimura agrees it is important to be prepared for whatever may happen; he turns teacher on him.
+[says] (p.195) “Well, it’s important to be prepared for whatever may happen.”
+[says] (p.195) “It isn’t easy to become someone who can do the obvious things naturally, be it studying or keeping secrets. But if you’ve realized that, maybe you can do it. Don’t forget that.”
+[rel:ike-kanji] (p.195) He pushes Ike from panic to discipline — plain advice, like a teacher to a student.
 
-[scene] (p.192-196) Mentioned/appears in Ch.10.
-[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.10 → p.199 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
