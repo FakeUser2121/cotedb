@@ -6984,15 +6984,30 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 p.26–37 — Horikita: endorsing Ichinose; becoming student council president
+### y2v9 p.26–27 — The election and Horikita's endorsement
+[scene] (p.26) She enters the student council room with Ichinose to learn that Nagumo is holding an election for his successor.
+[scene] (p.27) Asked for her view, she endorses Ichinose without hesitation; she never sought the presidency herself.
 [says] (p.27) "I believe that Ichinose-san would be a good choice for student council president. I don't think she has any faults."
 [says] (p.27) "I'm perfectly fine with it being Ichinose-san."
+[rel:ichinose-honami] (p.27) She endorses her as president, seeing no faults in her.
+
+### y2v9 p.28–30 — Nagumo's doubts and Kiryūin's interruption
+[scene] (p.28) Nagumo points to Ichinose's distant chances of graduating in Class A; Horikita accepts the election and is asked which candidate she will back.
+[scene] (p.29–30) Kiryūin forces her way into the room; Horikita agrees to let her business be heard first.
+
+### y2v9 p.31–35 — Ichinose withdraws; Horikita is unopposed
+[scene] (p.31–33) Kiryūin's shoplifting accusation unsettles Ichinose, who announces she will not run and then resigns from the council.
+[scene] (p.34–35) Horikita tries to talk Ichinose out of the hasty decision, then watches her leave; she becomes the only candidate.
 [says] (p.35) "Ichinose-san has left the student council, what should I do?"
+[rel:ichinose-honami] (p.34) She is surprised by the withdrawal — "Ichinose-san…"
+
+### y2v9 p.36–37 — The presidency and the recruitment task
+[scene] (p.36) Nagumo hands her the presidency unopposed and orders her to fill the vacancies with at least one second-year and one first-year.
 [says] (p.36) "I'll do my best." — on recruiting two new members
-[trait] (p.26–37) Freely endorses Ichinose for president (she never wanted the role herself); when Ichinose withdraws and resigns, she's unopposed and becomes president; Nagumo orders her to fill the vacancies (one second-year, one first-year for Yagami) — she accepts without hesitation, and Ayanokōji agrees to help.
-[rel:ichinose-honami] (p.27, 34) She endorses her, then is surprised by her withdrawal — "Ichinose-san…"
+[scene] (p.37) She accepts without hesitation and Ayanokōji agrees to help.
 [rel:nagumo-miyabi] (p.35–37) He handovers the presidency and assigns her the recruitment task.
 [rel:ayanokouji-kiyotaka] (p.37) He's roped in to help recruit — "It looks like we've come to an agreement."
+[trait] (p.26–37) Freely endorses Ichinose for president, then accepts an unopposed victory and the recruitment task without hesitation.
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

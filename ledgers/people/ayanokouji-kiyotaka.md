@@ -14872,26 +14872,66 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.18–25) He wants a "battle" to decide the president; they bet 20 million points on the outcome — the "match" Ayanokōji wanted.
 [rel:kiriyama] (p.18–25) The vice president — watches silently, urges Nagumo to be pragmatic.
 
-### y2v9 p.26–37 — Ichinose withdraws; Horikita becomes president unopposed
-[scene] (p.26) Horikita and Ichinose arrive; Kiryūin bursts in, revealing Nagumo ordered first-year Yamanaka to shoplift as a "mission" (a way to be expelled/gain Class A tickets) — Yamanaka's lie would only punish herself (no evidence against Nagumo).
-[says] (p.33) "I'm—not going to run for the student council this time."
-[says] (p.33) "a person like me can't be the student council president. A criminal, that's why…"
-[says] (p.34) "Before the election, I would like to resign from the student council today."
-[says] (p.35) "I'm sure you'll be a wonderful student council president, Horikita-san."
-[trait] (p.26–37) Watches as Ichinose — shaken by Kiryūin's "criminal" remark (her shoplifting past) — withdraws from the election and resigns from the student council entirely, believing her own "conceitedness" caused her class's fall; Horikita, unopposed, becomes president and is ordered to recruit new members (one second-year, one first-year to replace Yagami); Ayanokōji is roped into helping; he gives Nagumo Hokkaido souvenirs — Nagumo calls him "disciplined in a strange way."
-[rel:ichinose-honami] (p.33–35) She withdraws and resigns, calling herself a "criminal" — Ayanokōji can't explain the shoplifting context; she departs smiling, rooting for Horikita.
-[rel:horikita-suzune] (p.35–37) She becomes student council president unopposed; tasked with recruiting — Ayanokōji agrees to help.
-[rel:kiryuin-fuuka] (p.29–33) She bursts in and exposes Nagumo's shoplifting order — "I'm sorry for interrupting, but I want to talk about what you said earlier."
-[rel:nagumo-miyabi] (p.36–38) He loses his "match" (Ichinose's withdrawal ends it), tells Ayanokōji to help recruit, and accepts souvenirs.
+### y2v9 p.26 — The candidates arrive
+[scene] (p.26) Horikita and Ichinose enter; Kiriyama warns that the match and the twenty-million-point bet must stay secret from them.
+[scene] (p.26) He weighs that a Class A ticket is hard to come by, so taking the risk is natural.
 
-### y2v9 p.44–59 — Recruiting Kushida: Horikita's prostration gambit
-[scene] (p.44) As new student council president, Horikita sets out to fill the vacancies (one second-year, one first-year); she approaches Kushida — a "skilled," high-reputation candidate — though they are "oil and water."
-[says] (p.54) "Yes. If you show me a 'please, Kushida-san' attitude, I will consider it… No, I will definitely join the student council!"
-[says] (p.55) "So… just prostrate myself and ask you to join the student council?" — Horikita
-[trait] (p.44–59) Watches as Horikita corners Kushida (in front of witnesses, so she can't drop the "good girl" facade), then takes the negotiation private (special wing); when Kushida demands Horikita prostrate herself, Horikita actually starts to kneel — Ayanokōji notes the vice president has more real power than the student council president, appealing to Kushida's ambition (to make the president her "plaything"); Kushida finally agrees — but only because it benefits her, and she still wants to see Horikita prostrate herself.
-[rel:horikita-suzune] (p.44–59) She uses Ayanokōji's tactics — "I'm sure I won't get any compliments from Nagumo, but I'm so happy to..." — and nearly humiliates herself to recruit Kushida.
-[rel:kushida-kikyou] (p.44–59) She resists joining (hates working under Horikita), demands prostration, and accepts for her own benefit — "three times more annoying [than Horikita]."
-[rel:amasawa-ichika] (p.48–60) She appeared eavesdropping on the Kushida negotiation (claiming she came to see Kushida), teased Kushida ("I'm the only one who can tease Kushida-senpai so blatantly") — Ayanokōji suspects she wanted to see him/Horikita interact.
+### y2v9 p.27–28 — The election is announced
+[scene] (p.27) Nagumo tells the two second-years they will stand in an election; Horikita immediately endorses Ichinose.
+[scene] (p.28) Nagumo raises Ichinose's chances of graduating in Class A, then asks Ayanokōji which candidate he will support; Kiriyama and Horikita object to the contest being revealed.
+
+### y2v9 p.29–32 — Kiryūin exposes the shoplifting order
+[scene] (p.29–30) Kiryūin forces her way in with her foot on a chair and insists on being heard before the election continues.
+[rel:kiryuin-fuuka] (p.29–33) She bursts in and exposes Nagumo's shoplifting order — "I'm sorry for interrupting, but I want to talk about what you said earlier."
+[scene] (p.31–32) She accuses Nagumo of ordering first-year Yamanaka to frame her for shoplifting; Nagumo points out that only Yamanaka would be punished and that no evidence would link him to it.
+
+### y2v9 p.33–35 — Ichinose withdraws and resigns
+[scene] (p.33) Ichinose, unsettled by the word "criminal," announces that she will not run for president.
+[says:ichinose-honami] (p.33) "I'm—not going to run for the student council this time."
+[says:ichinose-honami] (p.33) "a person like me can't be the student council president. A criminal, that's why…"
+[scene] (p.34) She says her own conceitedness caused her class's fall and asks to resign from the council entirely.
+[says:ichinose-honami] (p.34) "Before the election, I would like to resign from the student council today."
+[scene] (p.35) She leaves smiling, wishing Horikita well; the match is over.
+[says:ichinose-honami] (p.35) "I'm sure you'll be a wonderful student council president, Horikita-san."
+[rel:ichinose-honami] (p.33–35) She withdraws and resigns, calling herself a "criminal" — Ayanokōji can't explain the shoplifting context; she departs smiling, rooting for Horikita.
+[note] (p.33–35) The shoplifting remark is Kiryūin's, not Nagumo's; Ichinose's lines above are attributed to her in the print, but the reason for her "criminal" remark cannot be explained to the room.
+
+### y2v9 p.36–38 — Horikita is president; Ayanokōji is drafted
+[scene] (p.36–37) Nagumo makes Horikita president unopposed and orders her to recruit one second-year and one first-year to replace Yagami; Ayanokōji agrees to help.
+[rel:horikita-suzune] (p.35–37) She becomes student council president unopposed; tasked with recruiting — Ayanokōji agrees to help.
+[rel:nagumo-miyabi] (p.36–38) He loses his "match" (Ichinose's withdrawal ends it), tells Ayanokōji to help recruit, and accepts souvenirs.
+[scene] (p.38) He hands over Hokkaido souvenirs and calls Ayanokōji "disciplined in a strange way."
+[trait] (p.26–38) Watches the election collapse into an unopposed presidency, declines to explain Ichinose's shoplifting past, and accepts a role in recruiting without seeking one.
+
+### y2v9 p.44–45 — The recruitment criteria
+[scene] (p.44) Waiting in the hallway, he hears Horikita report that most of her class is motivated for the coming exam; she raises Sakura's withdrawal and her own place in Class A.
+[scene] (p.45) She says she has already picked candidates: a B or higher in academic ability, no club, and the rest at the president's discretion.
+
+### y2v9 p.46–47 — Kushida is approached
+[scene] (p.46) Kushida comes out of the classroom; Horikita tells her Ichinose is leaving and offers her the second-year vacancy.
+[scene] (p.47) Horikita praises her OAA standing and reputation; Kushida dodges with polite objections and asks whether she would be a secretary.
+
+### y2v9 p.48–52 — The public pressure and Amasawa's interruption
+[scene] (p.48) Horikita makes the appeal in front of passing students; Amasawa joins them and points out that council membership would protect Kushida from those who dislike her.
+[scene] (p.50–52) Amasawa keeps teasing and poking Kushida; the move to change location fails to shake her, and she threatens to expose bad secrets if she is sent away.
+[rel:amasawa-ichika] (p.48–52) She eavesdrops on the negotiation, claims she came to see Kushida, and refuses to leave — Ayanokōji suspects she wanted to watch him and Horikita interact.
+
+### y2v9 p.53–54 — The private room and the condition
+[scene] (p.53) Horikita takes Kushida to the empty special wing; out of public view Kushida drops the facade and calls Horikita annoying, and Amasawa three times worse.
+[scene] (p.54) Ayanokōji suggests a straightforward incentive; Kushida says she will join only if Horikita prostrates herself.
+[says:kushida-kikyou] (p.54) "Yes. If you show me a 'please, Kushida-san' attitude, I will consider it… No, I will definitely join the student council!"
+
+### y2v9 p.55–57 — The prostration gambit fails at the last step
+[scene] (p.55) Horikita sits on the hallway floor and begins to bow, but stops before touching it; she argues that Kushida would take more pleasure in an obligated bow.
+[says:horikita-suzune] (p.55) "So… just prostrate myself and ask you to join the student council?"
+[scene] (p.56–57) Kushida demands the actual prostration and turns the tables; Horikita sends Ayanokōji and Amasawa away before complying, and Kushida agrees to join.
+[rel:kushida-kikyou] (p.44–57) She resists joining (hates working under Horikita), demands prostration, and accepts for her own benefit — "three times more annoying [than Horikita]."
+
+### y2v9 p.58–59 — The debrief
+[scene] (p.58) Horikita is furious with herself for the mistake; Ayanokōji points out that Kushida chose to accept and has the self-discipline to have refused.
+[scene] (p.59) She intends to use Kushida fully as a stepping stone back into the class's good graces; Nagumo has approved bringing anyone from her own class.
+[rel:horikita-suzune] (p.44–59) She uses Ayanokōji's tactics and nearly humiliates herself to recruit Kushida, then accepts the cost as a sign of guts.
+[trait] (p.44–59) Watches the negotiation from the side, offers one tactical hint, and judges that Kushida joined for her own benefit rather than out of submission.
 
 ### y2v9 p.61–67 — Recruiting Nanase; Ishigami declines
 [scene] (p.61) Horikita targets first-year Ishigami (Class A) for the council — Ayanokōji feigns ignorance; Ishigami (polished honor student) declines: "I have no interest in club activities nor in joining the student council."
@@ -14900,13 +14940,73 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.66–67) She volunteers for the student council — Ayanokōji has doubts about her true motive but sees the benefit.
 [rel:amasawa-ichika] (p.61) She's acquainted with Ishigami ("Kushida-senpai's..."), knows of him.
 
-### y2v9 p.118–139 — The gym date with Ichinose; her changed feelings
-[scene] (p.118) Meets Ichinose at the dorm lobby (she comes "prepared," unlike the trip) and goes to the gym with her — a "date" of sorts to learn why she resigned from the student council and about the "ideal man" she mentioned.
+### y2v9 p.118–120 — The awkward morning before the mall opens
+[scene] (p.118) He goes down early to meet Ichinose, weighing whether Kei might follow them; Ichinose is already waiting with an umbrella and greeting him calmly.
+[scene] (p.119–120) They wait outside in the cold; he breaks the silence by talking about Watanabe, and she asks him how to get along with everyone.
+
+### y2v9 p.121–123 — The request to shadow her day off
+[scene] (p.121) Inside the mall, he judges that she may already suspect his real purpose, then asks to see how she spends her days off; she agrees.
+[scene] (p.122–123) She leads him to the second-floor gym she joined in September and October, and he gets a free trial with a trainer.
+
+### y2v9 p.124–127 — The workout with Amikura
+[scene] (p.124) He changes and waits; Ichinose explains the equipment as the gym fills up.
+[rel:amikura-mako] (p.125–127) She arrives in gym clothes and is flustered to find them together; she teases Ichinose about her outfit.
+
+### y2v9 p.129–131 — Amikura's five-year crush
+[scene] (p.129) While Ichinose rehydrates, Amikura says she is "bursting with happiness" for her friend and asks what Ayanokōji intends to do about Ichinose's feelings.
+[scene] (p.130–131) He floats Watanabe as a match; Amikura says Ichinose could aim higher and reveals she has liked someone for almost five years.
+
+### y2v9 p.132–133 — The café and the real question
+[scene] (p.132) After another hour of training, Ichinose suggests a bench instead of a café to avoid being seen; he insists a café is fine.
+[scene] (p.133) In a small second-floor café, she asks whether the invitation was about her resignation from the student council.
 [says] (p.133) "I was surprised that you resigned from the student council. I thought there was a good chance you would win the student council election against Horikita."
 [says] (p.133) "I don't feel the need to support Horikita just because we are classmates. If Nagumo said he would support Horikita, I still would have supported you."
-[trait] (p.118–139) Spends ~2 hours training with Ichinose (treadmill, weights), observes Amikura teasing her about "a guy" (Ayanokōji), learns Ichinose's class is studying hard; she reveals she quit the council to focus on the fight for Class A, and that her feelings for him remain but she won't "take that final step that would go against her morals" — he realizes Ichinose has changed ("eyes seemed to have more sparkle"), and that her love had undeniably given her great strength.
-[rel:ichinose-honami] (p.118–139) Gym "date"; she confides her reasons for quitting, resists confessing fully ("she didn't take that final step") — her love "still strong" but self-restrained.
-[rel:amikura-mako] (p.125–131) She notices Ichinose/Ayanokōji together, teases Ichinose about "a guy" — "You have at least an idea that she has a special interest in you, don't you?"
+
+### y2v9 p.134 — Why she really resigned
+[scene] (p.134) She denies the school-trip incident caused it, says she was already unsuited to the council, and insists she has not given up on Class A.
+
+### y2v9 p.135–137 — Amikura's type and Ichinose's deduction
+[scene] (p.135–136) He asks what type of boy Amikura likes; Ichinose presses him, notices the exchanged glances at the gym, and works out that her classmates asked him to check on her.
+[scene] (p.137) He admits he was asked to find out but refuses to name the boy, apologising to Watanabe inwardly.
+
+### y2v9 p.138–139 — The walk home and the report
+[scene] (p.138) They browse the mall and leave in the rain; she thanks him and asks about Kei, then asks who confessed.
+[scene] (p.139) He tells her he confessed; she calls herself jealous and offers to explain the day to Kei. At the dorm he reports to Kanzaki that Ichinose has not given up on Class A.
+[rel:ichinose-honami] (p.118–139) Gym "date"; she confides her reasons for quitting, reads his purpose sharply, and remains reserved about her own feelings — her love "still strong" but self-restrained.
+[trait] (p.118–139) Trains with her for hours, collects the information Kanzaki wanted, and judges that her changed resolve — her eyes "seemed to have more sparkle" — makes her a different opponent to watch.
+
+### y2v9 p.153–154 — Starting the investigation
+[scene] (p.153) He declines Horikita's study group to work on the shoplifting case, weighing Nagumo as the likely instigator against the risk of framing Kiryūin.
+[scene] (p.154) He questions third-years, follows a lead to the gym and then the staff room, and waits for the student he is looking for to come out.
+
+### y2v9 p.155–157 — Asahina in tears
+[scene] (p.155) He follows her up the stairs and finds her crying; she hides her face and pulls at his sleeve to stop him leaving.
+[scene] (p.157) She explains that Moeka (Succhii) of Class C withdrew that morning for a serious violation and that the teachers will not give details.
+
+### y2v9 p.158–159 — The loophole
+[scene] (p.158) She hints at a way for lower third-year classes to reach Class A besides Nagumo's favour, then reveals Nagumo's contract after he promises secrecy.
+[rel:asahina-nazuna] (p.157–163) She tells him about Sachi (Yamanaka)'s withdrawal and Nagumo's contract — "I'd say it's more like a loophole."
+[scene] (p.159) They move to a café in Keyaki Mall because the corridor is cold.
+
+### y2v9 p.160–161 — The contract's terms
+[scene] (p.160–161) She lists the conditions: 75% of monthly private points to Nagumo, obedience, points earned and recognised for tickets, payment before class finalisation, revocation for disobedience, and a final lottery for the remaining points.
+[rel:nagumo-miyabi] (p.160–169) He learns the details of Nagumo's contract (75% of points, Class A tickets) — Nagumo is "indirectly" the cause of much unrest.
+
+### y2v9 p.162–165 — Yamanaka and the trampling
+[scene] (p.162) He asks for an objective read on Yamanaka; Asahina calls her below average, not outgoing and not popular.
+[scene] (p.163) She remembers Kiryūin stomping a boy who had tried to stop her going after Yamanaka.
+[scene] (p.165) She names the boy as Anazai of Class D, then contacts Yamanaka, who agrees to come in thirty minutes.
+
+### y2v9 p.166–168 — Tachibana's version
+[scene] (p.166) Tachibana Kento arrives instead, demands to know his business with Yamanaka and says Nagumo orders such things because the lower classes are enslaved to him.
+[scene] (p.167) He explains why the classes signed: without the contract they had no class points left and would lose even their monthly private points.
+[scene] (p.168) He admits he is an intermediary promised a transfer ticket for making Kiryūin confess; Ayanokōji notes the chain of intermediaries makes no sense.
+[rel:kiryuin-fuuka] (p.166–169) He warns her he can prove Kiriyama's role — "I'm sure you could've collected private points and redistributed them..."
+
+### y2v9 p.169 — The recorder is stopped
+[scene] (p.169) Tachibana cuts the recording short and leaves; Ayanokōji tells Asahina he has a rough idea of who ordered it and refuses to involve her.
+[rel:kiriyama] (p.166–169) He exposes him as the mastermind — "Kiriyama-senpai's objective was to destroy the student council [election]."
+[trait] (p.153–169) Pieces together that Kiriyama, not Nagumo, was the real instigator — framing a first-year to stop the election and Ichinose's council involvement, out of fear that Nagumo would give away too much of the third-years' points.
 
 ### y2v9 p.170–176 — Ichinose visits his room: a "selfish" farewell to her feelings
 [scene] (p.170) Ichinose waits outside after school, asks to come to his room for "a little chat" — a "selfish" request; she enters, notices Kei's things (photo frame, drinks) and smiles.
@@ -14916,29 +15016,48 @@ walk: y1v1 → DONE
 [rel:ichinose-honami] (p.170–176) She makes a "selfish" visit, sits close, and reveals her resolved feelings without crossing her moral line — "she was able to restrain herself."
 [rel:karuizawa-kei] (p.172) Kei's belongings/photo are in the room — Ichinose is aware of their relationship.
 
-### y2v9 p.153–169 — The shoplifting case: Kiriyama exposed as the mastermind
-[scene] (p.153) Investigating Kiryūin's complaint that Nagumo ordered a first-year (Yamanaka) to shoplift, he gathers intel from third-years — learns of Nagumo's "contract" with lower classes (75% of private points to Nagumo in exchange for Class A tickets) and the anti-Nagumo faction.
-[trait] (p.153–169) Pieces together that Kiriyama (Nagumo's VP) was the real instigator — he ordered Yamanaka/Tachibana to shoplift (blaming Nagumo) to force Kiryūin to complain to the student council, stop the election (and Nagumo's 20M-point bet), and make Ichinose recall her "shoplifting" trauma and withdraw; his motive: prevent Nagumo's "selfish" outflow of third-year points and vote-buying.
-[rel:kiriyama] (p.166–169) He exposes him as the mastermind — "Kiriyama-senpai's objective was to destroy the student council [election]."
-[rel:nagumo-miyabi] (p.160–169) He learns the details of Nagumo's contract (75% of points, Class A tickets) — Nagumo is "indirectly" the cause of much unrest.
-[rel:kiryuin-fuuka] (p.166–169) He warns her he can prove Kiriyama's role — "I'm sure you could've collected private points and redistributed them..."
-[rel:asahina-nazuna] (p.157–163) She tells him about Sachi (Yamanaka)'s withdrawal and Nagumo's contract — "I'd say it's more like a loophole."
+### y2v9 p.177–179 — The exam and Horikita's answer order
+[scene] (p.177) On the day of the collaborative written test against Class A, low-rated students study to the last minute while Keisei and Horikita check them; the answering order matters because each student has only ten minutes.
+[scene] (p.178) Kōenji's unpredictability is answered by placing him last, when only two questions remain and a failure would cost four points.
+[scene] (p.179) The class moves to the special building and takes the test in silence in the order Horikita submitted.
 
-### y2v9 p.177–198 — The special exam; Horikita beats Sakayanagi
-[scene] (p.177) Day of the collaborative written test vs Class A; Horikita submits the answering order — Keisei leadoff (solves 2 quickly, reads the rest), then alternating high/low students; students pass in the hallway and use hand signs to indicate which problem to solve (not against the rules) — a clever exploitation of a loophole.
-[trait] (p.177–198) Notes the strategy (hand signals for problem numbers; lower-ranked students solve easy problems) and Kōenji's unpredictability (if he refuses, only 4 pts lost); after the exam, Class B wins — but their correct-answer rate is 72% vs Sakayanagi's 86% (under identical conditions, Horikita would have lost); Sakayanagi accepts the loss with composure.
-[rel:horikita-suzune] (p.177–198) Her elaborate strategy wins — "You used an interesting strategy for this special exam"; she's frustrated only by the lower accuracy rate, not pessimistic.
-[rel:sakayanagi-arisu] (p.197) Her class lost despite 86% accuracy — "She would not be happy. She did what she had to do, and lost."
-[rel:karuizawa-kei] (p.195–198) Their "cold war" continues — Kei's morale (can easily affect the rest of our class) worries Horikita; Ayanokōji plans to "make up with her as soon as possible."
-
-### y2v9 p.183–194 — The student council hearing; Horikita judges Kiriyama
-[scene] (p.183) After the exam, the new student council (Horikita president, Kushida VP, Nanase/Agasaka first-years) convenes with Kiryūin, Nagumo, Kiriyama — Horikita presides.
-[says] (p.188) "The real person behind this case is not Nagumo-senpai, but Kiriyamasenpai, the vice president." — Horikita
-[trait] (p.183–194) Watches as Horikita (prompted by his report) unravels the case: Kiriyama framed Yamanaka/Tachibana to blame Nagumo and stop the election; Kiriyama admits it (his "betrayal" of Nagumo to prevent "unnecessary" point outflows); Horikita's judgment — Kiriyama sincerely apologizes to Kiryūin and voluntarily suspends himself for a week, Nagumo must not revoke his Class A ticket, and third-year-collected points may only be used for third-years — is accepted by all, even Nagumo ("You have the power to undermine me"); he notes Kiriyama's "meaningful expression" at the end — "I don't know if this is really the end."
-[rel:horikita-suzune] (p.183–194) Her first case as president — she judges fairly and firmly, "a much more capable student council president than I thought."
-[rel:kiriyama] (p.188–194) He's exposed, admits it — "It is an action based on a contract. Do whatever you want."
-[rel:kushida-kikyou] (p.183) Now student council vice president — "I guess you chose Kushida as the vice president after all."
+### y2v9 p.180–182 — Summoned to the student council
+[scene] (p.180) After the exam, Kei starts to say it is time to forgive him, but Horikita calls him away on student council business about Kiryūin.
+[scene] (p.181) Kiriyama has summoned them; the new council members Agasaka and Nanase are there, and Nanase has bought her own notebook for the minutes.
+[scene] (p.182) Nagumo is already waiting inside with Kiriyama.
 [rel:nanase-tsubasa] (p.181–190) She takes the meeting notes as a new first-year council member.
+
+### y2v9 p.183–185 — Kiryūin files her complaint
+[scene] (p.183) Horikita takes the president's chair; Nagumo notes that Kushida is vice president, and Kiryūin enters late but refuses to sit.
+[rel:kushida-kikyou] (p.183) Now student council vice president — "I guess you chose Kushida as the vice president after all."
+[scene] (p.184) Kiryūin recounts the failed shoplifting attempt and names Nagumo as the person who ordered it; he denies it because such a story would damage him.
+[scene] (p.185) Kiriyama backs Nagumo and argues a third party may have manipulated Yamanaka with points.
+
+### y2v9 p.186–188 — Horikita's deduction
+[scene] (p.186) Horikita cites his report on Asahina and the contract; Kiryūin and Nagumo keep talking past each other.
+[scene] (p.187) She lays out what Tachibana told him and asks why Yamanaka and Tachibana never sought confirmation from Nagumo himself.
+[says:horikita-suzune] (p.188) "The real person behind this case is not Nagumo-senpai, but Kiriyamasenpai, the vice president."
+[scene] (p.188) She reasons that the culprits believed a powerful mouthpiece of Nagumo's — and that only Kiriyama fits.
+
+### y2v9 p.189–191 — Kiriyama confesses
+[scene] (p.189) Kiriyama admits he instructed Tachibana, then explains that he used Nagumo's name in a message promising Yamanaka a ticket.
+[scene] (p.190–191) He chose Kiryūin because her shoplifting hatred would wound Ichinose; his deeper motive was to stop the election and Nagumo's lavish spending of third-year points.
+[rel:kiriyama] (p.188–194) He's exposed, admits it — "It is an action based on a contract. Do whatever you want."
+
+### y2v9 p.192–194 — The president's judgment
+[scene] (p.192) Kiryūin leaves after saying Nagumo should decide the punishment; Horikita stops her, arguing Kiriyama meant to make the affair public.
+[scene] (p.193–194) Horikita orders an apology, a voluntary week's suspension, no loss of Kiriyama's transfer ticket and a ban on spending third-year points outside the third year; Nagumo accepts.
+[rel:horikita-suzune] (p.183–194) Her first case as president — she judges fairly and firmly, "a much more capable student council president than I thought."
+[trait] (p.183–194) Watches the case unravelled from his own report, and notes that Kiriyama's expression at the end still looked ahead rather than resignation — "I don't know if this is really the end."
+
+### y2v9 p.195–198 — The result and the accuracy gap
+[scene] (p.195) At the closing ceremony his class is announced the winner; the detailed results of who solved what are made available to everyone.
+[scene] (p.196) Horikita catches up with him in the hallway and praises the strategy.
+[rel:horikita-suzune] (p.195–198) Her elaborate strategy wins — "You used an interesting strategy for this special exam"; she's frustrated only by the lower accuracy rate, not pessimistic.
+[scene] (p.197) He explains the hand-sign system: with talking forbidden, pointing to a problem number was not against the rules; her class scored 72% against Sakayanagi's 86%.
+[rel:sakayanagi-arisu] (p.197) Her class lost despite 86% accuracy — "She would not be happy. She did what she had to do, and lost."
+[scene] (p.198) Horikita warns him that Kei's morale affects the whole class and tells him to make up with her.
+[rel:karuizawa-kei] (p.195–198) Their "cold war" continues — Kei's morale (can easily affect the rest of our class) worries Horikita; Ayanokōji plans to "make up with her as soon as possible."
 
 ### y2v9 p.199–202 — Sakayanagi's ultimatum to Ichinose; a quiet warning
 [scene] (p.199) After the results, meets Sakayanagi (who summoned him) and Ichinose (who also messaged) outside; Sakayanagi congratulates them and reveals her "ultimatum" for Ichinose — distance herself from Ayanokōji ("you are being controlled by him").

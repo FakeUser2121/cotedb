@@ -177,17 +177,32 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 p.155–169 — Asahina: grieving Moeka, and revealing Nagumo's contract
-[scene] (p.155–158) Ayanokōji finds her in the staff room in tears over her friend Moeka's withdrawal; she explains Moeka quit over a serious violation and, indirectly, because of the environment Nagumo created.
+### y2v9 p.155–157 — Found crying on the stairs
+[scene] (p.155) He calls out to her on the stairwell; she starts at his voice, wipes her face and pulls his sleeve to keep him from leaving.
+[scene] (p.157) She says she has stopped crying and explains that Moeka (Succhii) of Class C withdrew that morning for a serious offence.
 [says] (p.157) "This morning it was Succhii— Rather, Moeka who quit school. Suchi Moeka from Class C."
-[scene] (p.158–161) Over hot tea at a café she reveals the secret contract Nagumo made with the lower third-year classes — 75% of private points to Nagumo, obedience, tickets earned by recognized points, and a final lottery — which she can share because her bond with Nagumo makes her a suspect.
-[scene] (p.162–165) Asked to help, she gives an objective read on Yamanaka (below average, not outgoing) and Agrees to contact her; she recalls seeing Kiryuuin stomp a boy who was shielding Yamanaka.
-[says] (p.165) "It was Anazai-kun from Class D, I think?"
-[scene] (p.166–169) When Tachibana Kento arrives and tries to stonewall, she is confused by his sudden appearance and tries to stop him from leaving after he refuses to be recorded.
-[says] (p.166) "What? Tachibana? Yes, but…"
-[trait] (p.155–169) Emotional over her friend's exit but clear-eyed and trusting — she entrusts Ayanokōji with Nagumo's hidden contract and helps his investigation because, she says, she is curious about the truth too.
-[rel:ayanokouji-kiyotaka] (p.162–169) Trusts him enough to reveal the contract and contact Yamanaka for him.
+
+### y2v9 p.158–159 — The loophole and the café
+[scene] (p.158) She tells him Nagumo's contract is a loophole for lower classes, then, after his promise of secrecy, begins to explain it; she resents that Nagumo did nothing about Moeka's exit.
 [rel:nagumo-miyabi] (p.158–163) Close enough to him to be suspected of knowing his secrets; she resents his indifference to Moeka's exit.
+[scene] (p.159) They leave the cold corridor for a café in Keyaki Mall.
+
+### y2v9 p.160–161 — The contract revealed
+[scene] (p.160–161) Over hot tea, she checks that no one is near and lists the conditions: 75% of private points to Nagumo, obedience, earned points for tickets, payment before class finalisation, revocation for disobedience and a final lottery.
+
+### y2v9 p.162–165 — The objective read and Anazai
+[scene] (p.162) She describes Yamanaka as below average, not outgoing and not popular, and is glad to be trusted with the question.
+[scene] (p.163) She remembers Kiryūin stomping a boy who tried to shield Yamanaka.
+[scene] (p.165) She names the boy Anazai of Class D and contacts Yamanaka, who says she will come in about thirty minutes; she says she is curious about the truth too.
+[says] (p.165) "It was Anazai-kun from Class D, I think?"
+
+### y2v9 p.166–169 — Tachibana arrives
+[says] (p.166) "What? Tachibana? Yes, but…"
+[scene] (p.166) Tachibana Kento joins them uninvited and questions Ayanokōji about Yamanaka; she is confused by the interruption.
+[scene] (p.166–168) She listens as Tachibana explains the contract's hold over the lower classes and his own role as intermediary.
+[scene] (p.169) She tries to stop him walking out when he refuses to let his words be recorded, then asks whether Ayanokōji has worked out who gave the order.
+[rel:ayanokouji-kiyotaka] (p.162–169) Trusts him enough to reveal the contract and contact Yamanaka for him.
+[trait] (p.155–169) Emotional over her friend's exit but clear-eyed and trusting — she entrusts Ayanokōji with Nagumo's hidden contract and helps his investigation because she is curious about the truth too.
 
 <!-- walk: y2v9 Ch.5 → p.169 -->
 

@@ -1294,15 +1294,43 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v9 Ch.2 → p.75 -->
 
-### y2v9 p.18–38 — Nagumo: his final act as president; exposed by Kiryūin
-[says] (p.24) "If I win, I want to get some private points from you."
-[says] (p.33) "I'm sorry for interrupting, but I want to talk about what you said earlier." — Kiryūin
-[says] (p.35) "It was impossible to replace Honami now."
-[says] (p.36) "You're a student in Suzune's class. Please help me gather members for the student council."
-[trait] (p.18–38) Steps down as president, arranging an election between Horikita and Ichinose (with 1/3 of votes at his discretion) and betting 20 million points with Ayanokōji — but Kiryūin publicly exposes that he ordered first-year Yamanaka to shoplift as a "mission"; he refuses to acknowledge it (no evidence), but Ichinose's withdrawal ends his "match"; he hands the presidency to an unopposed Horikita, tasks her (and Ayanokōji) with recruiting, and accepts Hokkaido souvenirs — "You're very disciplined in a strange way."
-[rel:ayanokouji-kiyotaka] (p.24–37) He loses his 20-million-point bet (Ichinose withdrew) but still ropes him into helping recruit.
+### y2v9 p.18–19 — The summons to the student council room
+[scene] (p.18) Ayanokōji arrives to find Nagumo and Kiriyama already arguing; Kiriyama has called Horikita and Ichinose in as well.
+[scene] (p.19) Kiriyama urges caution about rivals waiting to take Nagumo's place; Nagumo answers that those without tickets have already fallen.
+
+### y2v9 p.21–22 — The last act as president
+[scene] (p.21) Nagumo cuts short the argument and makes conversation about the second-years' close race.
+[scene] (p.22) He recalls his own final exams, in which three students still dropped out despite his efforts, then says it is time to name the next president.
+
+### y2v9 p.23–26 — The match and the twenty-million-point bet
+[scene] (p.23) He reveals that he and Ayanokōji will decide which of Horikita and Ichinose becomes president, with one third of the votes at his discretion.
+[scene] (p.24) Ayanokōji demands an anonymous ballot; Nagumo agrees and then demands stakes.
+[says:ayanokouji-kiyotaka] (p.25) "If I win, I want to get some private points from you."
+[scene] (p.25) Kiriyama objects to a twenty-million-point bet; Nagumo insists he is free to use the points as he pleases and sets the terms at expulsion or the money.
+[scene] (p.26) The candidates arrive; Kiriyama warns them not to mention the match or the bet, and Nagumo keeps the arrangement from them.
+
+### y2v9 p.27–28 — The public election
+[scene] (p.27) Nagumo tells Horikita and Ichinose that they will compete in an election; Horikita endorses Ichinose without hesitation.
+[scene] (p.28) He questions Ichinose's chances of graduating in Class A, and the two agree to run; he then asks Ayanokōji which candidate he will back.
+
+### y2v9 p.29–32 — Kiryūin's accusation
+[scene] (p.29–30) Kiryūin forces her way in, puts her foot on a chair and demands to be heard first; the others let her speak.
+[scene] (p.31) She asks whether Nagumo ordered Yamanaka to frame her for shoplifting; Nagumo refuses to answer directly and points out that only Yamanaka would be punished.
+[says:kiryuin-fuuka] (p.33) "I'm sorry for interrupting, but I want to talk about what you said earlier."
 [rel:kiryuin-fuuka] (p.29–33) She bursts in and exposes the shoplifting order — he tries to "make a pass" at her but she's unmoved; "You are full of faults, but I appreciate what you said."
+
+### y2v9 p.33–35 — Ichinose withdraws; the match ends
+[scene] (p.33) He moves to confirm the election; Ichinose announces she will not run, calling herself a criminal after Kiryūin's shoplifting words.
+[says] (p.35) "It was impossible to replace Honami now."
+[scene] (p.35) With Ichinose gone from the council, Horikita will be president unopposed; Nagumo tells her so.
 [rel:ichinose-honami] (p.33–35) He wanted her in the election ("I don't get it") — her withdrawal frustrates him ("Damn it…").
+
+### y2v9 p.36–38 — Recruitment and the souvenirs
+[says] (p.36) "You're a student in Suzune's class. Please help me gather members for the student council."
+[scene] (p.36–37) He orders Horikita to fill Ichinose's vacancy with at least one second-year and enlists Ayanokōji's help.
+[scene] (p.38) He accepts the Hokkaido souvenirs and calls Ayanokōji "very disciplined in a strange way."
+[rel:ayanokouji-kiyotaka] (p.24–37) He loses his 20-million-point bet (Ichinose withdrew) but still ropes him into helping recruit.
+[trait] (p.18–38) Steps down as president after arranging the election and the bet, refuses to acknowledge the shoplifting accusation without evidence, then hands the presidency to an unopposed Horikita.
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
