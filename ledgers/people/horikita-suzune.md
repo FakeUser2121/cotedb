@@ -4628,6 +4628,17 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.193) He visits to tell Horikita about Karuizawa; he intends to help her when she needs it.
 
 <!-- walk: y2v12.5 Ch.10 → p.199 -->
+
+### y2v12.5 p.213–216 — Epilogue: first contact with Atsuomi
+[scene] (p.213) In the first-year guidebook short story she waits outside the school just after 4:30 PM, curious to see Ayanokōji's family; Ryūen arrives with the same purpose.
+[says] (p.213) “Surely it’s not over yet, right...?”
+[rel:ryuuen-kakeru] (p.213–216) They wait side by side, both curious about the parents who raised him; he calls himself Ayanokōji's enemy to Atsuomi's face.
+[scene] (p.214) A stern man on a phone call comes down the stairs; she introduces herself as Kiyotaka's classmate and he confirms he is still upstairs with his homeroom teacher.
+[scene] (p.214–216) Atsuomi listens while Ryūen calls Ayanokōji dangerous, then leaves; she doubts the pampered-rich-kid story and wonders how her classmate became who he is.
+[note] (p.215–216) Neither she nor Ryūen knows the man is a politician or that they will meet him again.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

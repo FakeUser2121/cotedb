@@ -112,6 +112,16 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 Ch.6 → p.106 -->
 
+### y2v12.5 p.211–212 — Epilogue: testing Ayanokōji
+[scene] (p.211) In the short story she keeps Yamamura waiting while she looks at the soil through a magnifying glass and dismisses the missed meeting time.
+[says] (p.211) “What's the harm in making him wait? It used to be the era when women waited. Now it's the era when men wait instead.”
+[scene] (p.211) When Ayanokōji calls, she takes Yamamura's phone and ends the call before directing her to the back of the dorm.
+[says] (p.211) “That's fine, Yamamura Miki. I am testing Ayanokōji Kiyotaka.”
+[says] (p.211) “Something about Ayanokōji Kiyotaka is fishy. He's trying to use us for something. Also, I've heard a little from Sakayanagi Arisu... Oops, but that's a secret, okay?”
+[rel:yamamura-miki] (p.211–212) She drags her into the test and refuses to explain what Sakayanagi told her.
+
+<!-- walk: y2v12.5 Epilogue → p.212 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

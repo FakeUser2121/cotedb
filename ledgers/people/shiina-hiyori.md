@@ -366,7 +366,14 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [scene] (p.148-157) Mentioned/appears in Ch.9.
 [rel:ayanokouji-kiyotaka] (pp.148-157) Appears in this volume.
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.205–206 — Epilogue: Ishizaki's dating proposal
+[scene] (p.205) In her short story Ishizaki grabs her hand and Ayanokōji's together, proposing she date him if he joins their class.
+[says:ishizaki-daichi] (p.205) “If you come to our class, you can date Shiina! How about that?”
+[scene] (p.205) She is flustered by the warmth of his palm and relieved when he says he does not dislike her.
+[says] (p.205) “I don’t dislike her.”
+[scene] (p.206) Ayanokōji stops Ishizaki before she has to declare her feelings in front of him; she gently releases her hand and asks for one last chance to invite him.
+[says] (p.206) “May I say just one thing, even if it's hopeless...?”
+[trait] (p.205–206) She wants him as a classmate more than anything, but cannot say so plainly without embarrassment.
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 

@@ -1396,6 +1396,26 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v12.5 Ch.4 → p.76 -->
 
+### y2v12.5 p.200–202 — Epilogue: Hoshinomiya retracts the threat
+[scene] (p.200) After the opening ceremony, Hoshinomiya walks out with her and says she has not changed her mind about keeping Sae-chan out of Class A.
+[says] (p.200) “Of course. I won’t change—I absolutely won’t let Sae-chan graduate from Class A.”
+[scene] (p.200) Braced for an admission of misconduct, she hears Hoshinomiya retract the cheating threat instead.
+[says] (p.200) “What I said before about resorting to cheating to stop you from finishing as Class A—I’m retracting that statement.”
+[scene] (p.201) Hoshinomiya says Ayanokōji persuaded her and that no conditions are being imposed.
+[says] (p.201) “Ayanokōji-kun persuaded me, so I accepted the situation as it is now.”
+[scene] (p.201–202) Hoshinomiya tells her the joker is gone from her hand, then enters Class 3-D; Chabashira reaches the 3-A sign and a staff member tells her a transfer from her class has just been decided.
+[rel:hoshinomiya-chie] (p.200–202) She drops the cheating threat after Ayanokōji's persuasion, then reveals the transfer has already happened.
+
+<!-- walk: y2v12.5 Epilogue → p.202 -->
+
+### y2v12.5 p.209–210 — Epilogue: a student's consultation
+[scene] (p.209) In her short story she waits near Keyaki Mall for a student consultation — something she could hardly imagine in her earlier, colder years; students now talk to her about careers, job hunting and friendships.
+[says] (p.210) “Ayanokōji. You speak too lightly.”
+[scene] (p.210) He apologises, and she presses him on why the mall was the best place to meet; she regards his presence as indispensable as the class aims higher.
+[rel:ayanokouji-kiyotaka] (p.209–210) He is her student and nothing more, yet she must support him through the Maezono aftermath.
+
+<!-- walk: y2v12.5 Epilogue → p.210 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

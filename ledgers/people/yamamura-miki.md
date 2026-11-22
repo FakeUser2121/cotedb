@@ -97,6 +97,14 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 Ch.6 → p.106 -->
 
+### y2v12.5 p.211–212 — Epilogue: kept waiting behind the dorm
+[scene] (p.211) In the short story she watches Morishita examine the soil through a magnifying glass for over twenty minutes past their meeting time.
+[says] (p.211) “Shouldn't we head to the meeting location now...?”
+[scene] (p.211) Ayanokōji calls; she apologises for the delay, but Morishita snatches the phone and hangs up on him.
+[rel:morishita-ai] (p.211–212) Morishita says she is testing Ayanokōji's reaction to being kept waiting and mentions something she heard from Sakayanagi.
+
+<!-- walk: y2v12.5 Epilogue → p.212 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

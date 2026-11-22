@@ -626,7 +626,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [scene] (p.148-157) Mentioned/appears in Ch.9.
 [rel:ayanokouji-kiyotaka] (pp.148-157) Appears in this volume.
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.205–206 — Epilogue: recruiting Ayanokōji with a date
+[scene] (p.205) In Shiina's short story he takes a new idea into the recruitment attempt and joins her hand with Ayanokōji's.
+[says] (p.205) “If you come to our class, you can date Shiina! How about that?”
+[says] (p.205) “It's an aspect your class doesn't have, but ours does!”
+[says] (p.205) “So what, just break up with Karuizawa when you change classes!”
+[scene] (p.206) He keeps pressing for a declaration of likes and dislikes until Ayanokōji tells him it is cruel to make her say it in front of the person concerned.
+[says:ayanokouji-kiyotaka] (p.206) “Give it a rest, Ishizaki. It's better not to trouble Hiyori. It's cruel to make someone express their feelings in front of the person concerned, whether she likes them or not. Only a few people can say they don't like someone to their face.”
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 

@@ -1653,6 +1653,16 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.30) Ichinose falls ill from this day and begins missing school; she enters spring break without attending a single day (p.30).
 
 <!-- walk: y2v12.5 Ch.1 → p.30 -->
+
+### y2v12.5 p.207–208 — Epilogue: the promise at her door
+[scene] (p.207) In her short story she sits in the dark on the promised day, ignoring his calls; he comes to her door and says he will wait three minutes.
+[says:ayanokouji-kiyotaka] (p.207) “It's me. The deadline for our promise is about to end, that's why I came here.”
+[scene] (p.207–208) They exchange messages; she tells him she lacks the courage to go to his room and finally says the door is unlocked.
+[says] (p.208) “The door is unlocked, come in.”
+[note] (p.208) She chooses her own room for the promise; both already understand what the other has to say.
+
+<!-- walk: y2v12.5 Epilogue → p.208 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
