@@ -112,21 +112,30 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:housen-kazuomi] (p.209–214) Confirms he controls Class 1-D via orders, with no personal compensation; she opposes his individualist policy.
 [rel:ayanokouji-kiyotaka] (p.208–214) Treats him with respect; fixes her "same look" on him — the hidden White Room agent quietly assessing her target.
 
-### y2v1 p.326–341 — Nanase stops Hōsen; reveals the 20-million bounty and her hatred
+### y2v1 p.326–328 — Nanase blocks the knife and breaks with Hōsen
 [scene] (p.326) Steps between Hōsen and Ayanokōji as he advances with the knife, spreading her arms to block him.
 [says] (p.326) "Please don't go any further! I can't approve of your methods after all… I can't!"
+[scene] (p.327–328) She declares she was wrong to accept his methods; Hōsen brushes her aside and Ayanokōji charges the blade.
 [says] (p.328) "I made the decision to lend you my strength until the very end, telling myself that it was for the good of the class."
 [says] (p.328) "Horikita-senpai, working together with Hōsen-kun has been impossible from the very beginning."
 [says] (p.328) "That was just a ploy to get things to progress to this point."
+[rel:housen-kazuomi] (p.326–328) Physically stops him, declares she was wrong to accept his methods, and is brushed aside.
+
+### y2v1 p.329–338 — The knife plot is exposed
+[scene] (p.329) Ayanokōji lets the blade pierce his palm and stops Hōsen from using it on himself.
+[scene] (p.330–338) Hōsen's plot is exposed — the reverse-gripped knife, the Petty knife purchase, Amasawa's role — and Ayanokōji offers him a deal.
+
+### y2v1 p.339–341 — The bounty and the hatred
+[scene] (p.339–340) After the fight, she stays behind to explain to Horikita and Ayanokōji; she insists she had truly wanted a supporting relationship.
 [says] (p.340) "No, nothing of the sort, Horikita-senpai. I truly did want to join hands with you and establish a supporting relationship between our two classes."
 [says] (p.340) "We were told that the student who manages to expel Ayanokōji Kiyotaka of Class 2-D will receive a bulk sum of 20 million private points. That's the special exam that was given to us."
+[scene] (p.341) She explains she cooperated to keep the bounty from another class, then reveals an unexplained personal hatred.
 [says] (p.341) "For the sake of my class, of Class 1-D, I chose to cooperate with Hōsen-kun knowing full well just how awful his methods truly were."
 [says] (p.341) "Because, if the 20 million point bounty were to fall into the hands of another class, it would bring about serious ramifications for us moving forward."
 [says] (p.341) "I*… simply didn't believe a person like you would be suitable for this school, Ayanokōji-senpai."
-[trait] (p.326–341) Breaks with Hōsen to stop the knife, reveals the negotiation was a ploy from the start and the 20-million-point bounty, and explains she cooperated to keep the bounty from another class — then reveals an unexplained personal hatred, using the masculine katakana "boku" in her final line (deliberately linking herself to Ayanokōji, per the translation notes).
-[rel:housen-kazuomi] (p.326–328) Physically stops him, declares she was wrong to accept his methods, and is brushed aside.
 [rel:horikita-suzune] (p.328–341) Reveals the plot and bounty to her and Ayanokōji; urges them to beware other first-year classes.
 [rel:ayanokouji-kiyotaka] (p.341) Directs open hatred at him — the White Room agent's true motive remains hidden; she stays behind to explain, then leaves.
+[trait] (p.326–341) Breaks with Hōsen to stop the knife, reveals the negotiation was a ploy from the start and the 20-million-point bounty, and explains she cooperated to keep the bounty from another class — then reveals an unexplained personal hatred, using the masculine katakana "boku" in her final line (deliberately linking herself to Ayanokōji, per the translation notes).
 
 ### y2v1 p.364–367 — Short story: "What is Reflected in Her Eyes"
 [scene] (p.364) After leaving the dorm, spots Ayanokōji approaching two Class 1-A girls and decides to intercept him first, running to match his pace.
