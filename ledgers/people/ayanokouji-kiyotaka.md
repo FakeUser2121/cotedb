@@ -6313,16 +6313,21 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12.5 Ch.6 → p.106 -->
 
-### y2v12.5 p.107–113 — Ch.7: The three-way meeting
+### y2v12.5 p.107–109 — Ch.7: The counseling room and the late father
 [scene] (p.107) At 4 PM on April 1st he arrives at school for the three-way meeting, rearranged one slot earlier (5 PM → 4:30) so as not to collide with Kōenji's family.
 [scene] (p.109) In the empty counseling room, Chabashira warns him about Hoshinomiya; his father does not show.
 [says] (p.109) “My father doesn’t seem to have arrived. Is he absent?”
 [says] (p.109) “It’ll take some time, but as I mentioned the other day, I’ll manage something during spring break.”
 [says] (p.109) “I understand what you want to say, but if that’s the case, would you go so far as to step down as the class homeroom teacher?”
 [says] (p.109) “Then it’s also important to wait patiently. Chabashira-sensei, you shouldn’t act recklessly.”
+
+### y2v12.5 p.110–111 — Ch.7: Atsuomi plays the father
 [scene] (p.110) His father walks in looking no different from last year; he checks his documents and asks about the OAA box.
 [says] (p.111) “Guess so. I’ve managed to make some good friends.”
 [rule] (p.111) His OAA as of end of March: Academic Ability A (87); Physical Ability B (73); Adaptability C (54); Social Contribution B (70); Overall Ability B (71). At this time last year, his overall ability was 51.
+
+### y2v12.5 p.112–113 — Ch.7: The future-path questions
+[scene] (p.112) Chabashira turns the future-path question to him; his father prolongs the meeting to create a pretext for a later, coincidental contact.
 [says] (p.112) “If my parents allow it, I think pursuing further studies wouldn’t be a bad choice.”
 [says] (p.112) “I’m interested in the university where my senpai who took care of me here has gone.”
 [says] (p.112) “Yes, Chabashira-sensei.”
@@ -6337,6 +6342,7 @@ walk: y1v1 → DONE
 
 ### y2v12.5 p.114–121 — Ch.7: A staged coincidence
 [scene] (p.114) The meeting ends; Atsuomi asks Chabashira for "another moment," keeping her past schedule so she can't rush to Kōenji.
+[says] (p.114) “Take care not to overdo it for your remaining school life.”
 [says] (p.115) “That might be true.”
 [says] (p.115) “Kōenji, was it? I hope it ends without trouble, just like ours.”
 [scene] (p.115) His father stops and waits for him at the end of the hallway; Atsuomi says they should have a light conversation.
