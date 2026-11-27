@@ -219,3 +219,17 @@ html[data-theme=light] #sr{border-color:var(--line);box-shadow:0 12px 32px -12px
 html[data-theme=light] .top{background:linear-gradient(to bottom,#fff,transparent)}
 html[data-theme=light] .dir .row:hover{background:linear-gradient(90deg,#0877a61a,transparent 75%)}
 .dl{margin:34px 0 0;font-size:.78rem}.dl a{color:var(--mut)}
+.dlform{margin:14px 0}
+.dlform fieldset{border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:12px 0}
+.dlform legend{font-size:.78rem;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);padding:0 4px}
+.dlrow{display:flex;gap:10px;align-items:center;font-size:.9rem}
+.dlrow select{flex:1;min-width:200px;padding:6px 8px}
+.dlbox{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:2px 16px}
+.dlbox label{font-size:.88rem;line-height:1.5}
+.dlbox.scenes{max-height:300px;overflow:auto;display:block}
+.dlbox.scenes .dlgrp{margin:0 0 8px}.dlbox.scenes .dlgrp .n{margin:4px 0 2px}
+.dlbox.scenes label{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.dlmodes{display:flex;flex-wrap:wrap;gap:4px 18px;margin-bottom:6px}.dlmodes label{font-size:.9rem}
+.linkbtn{border:0;background:none;padding:0;color:var(--ac);text-decoration:underline;font-size:inherit}
+.dlform #dlgo{margin-top:10px;padding:7px 14px;border:1px solid var(--line);border-radius:8px;background:var(--card)}
+.dlform #dlgo:disabled{opacity:.5;cursor:default}

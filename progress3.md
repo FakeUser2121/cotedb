@@ -1871,3 +1871,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v1 Kei split INTEGRATED at parent | 369 | three scene sections; parent verify ALL PASS (367 says / 85 non-says); gate OK; make check OK | docs rebuilt at parent | e28bde2b2abf9e42b80f7efa4c6d8275 (x2) |
 | y2v1 Nanase bounty split INTEGRATED at parent | 369 | three scene sections; parent verify ALL PASS (367 says / 85 non-says); gate OK; make check OK | docs rebuilt at parent | 3b7db292f7da10d2fc212c428d7f86e0 (x2) |
 | character card Markdown download ADDED (gen `markdown_card` + `.dl` link) | 269 pages / 322 assets | new test; gate OK; make check OK; 131 .md cards | docs rebuilt at parent | 6266a34ff0ab92f0e12a50274c061961 (x2) |
+| selectable card downloader ADDED (download/ page, year/volume/scene/line filters) | 270 pages / 325 assets | Node harness passes; gate OK; make check OK | docs rebuilt at parent | 36905ca51d0f6421616491f531f913be (x2) |
