@@ -168,11 +168,40 @@ def build_people_index():
     for k, label in (("main", "Main characters"), ("supporting", "Supporting characters"), ("minor", "Minor characters")):
         secs.append(f'<section class="tier" data-tier="{k}"><h2 id="{k}">{label} <span class="n">(<b class="ct">{len(groups[k])}</b>)</span></h2>'
                     f'<ul class="rows dir">{"".join(dir_row(P, c) for c in groups[k])}</ul></section>')
-    body = (ctrl + '<p class="count" id="dcount"></p>' + "".join(secs)
+    body = (ctrl + '<p class="n"><a href="../download/index.html">Download a character card</a> — all of it, one year, a few volumes, or just the lines.</p>'
+            + '<p class="count" id="dcount"></p>' + "".join(secs)
             + '<p class="n legend">Main: named in half the volumes or more. Supporting: a fifth or more. Minor: fewer. '
               'Counted per year when a year is chosen. A page exists once enough scenes have been read.</p>')
     add("people/index.html", h1="People", body=body, trail=[("People", "people/index.html")],
         kicker="", lede=f"{len(chars)} characters. Click a name for the page; names without a page open in place.")
+
+
+def build_download():
+    m = R.m
+    P = Page("download/index.html")
+    body = f"""<h2 id="pick">Pick a character</h2>
+<div class="dlform">
+<label class="dlrow">Character <select id="dlchar"><option value="">Choose a character…</option></select></label>
+<fieldset><legend>Years</legend><div class="dlbox" id="dlyears"><p class="n">Choose a character first.</p></div></fieldset>
+<fieldset><legend>Volumes</legend><div class="dlbox" id="dlvols"></div></fieldset>
+<fieldset><legend>Scenes <span class="n">(<button type="button" class="linkbtn" id="dlall">all</button> <button type="button" class="linkbtn" id="dlnone">none</button>)</span></legend><div class="dlbox scenes" id="dlscenes"></div></fieldset>
+<fieldset><legend>Lines</legend><div class="dlmodes" id="dlmodes"><label><input type="radio" name="dlmode" value="dialogue" checked> Dialogue only</label><label><input type="radio" name="dlmode" value="voice"> Dialogue and inner voice</label><label><input type="radio" name="dlmode" value="all"> Every note</label></div>
+<label class="chk"><input type="checkbox" id="dlsetup" checked> Keep scene setup lines</label></fieldset>
+<p class="n" id="dlcount">Choose a character to see what is available.</p>
+<button type="button" id="dlgo" disabled>Download Markdown</button>
+<p class="n" id="dlrawline"></p>
+</div>
+<noscript><p class="n">Choosing what to include needs JavaScript.</p></noscript>
+<script src="{P.u("assets/dl/people.js")}" defer></script>
+<script src="{P.u("assets/download.js")}" defer></script>"""
+    add("download/index.html", h1="Download character cards", body=body,
+        trail=[("Download", "download/index.html")],
+        lede="One character's evidence as a Markdown file: the whole card, one year, a few volumes, "
+             "a handful of scenes, or just the spoken lines.")
+    R.FILES["assets/dl/people.js"] = "window.DLPEOPLE=" + json.dumps(
+        [[c["id"], c["name"], c["class"], TIER.get(c["tier"]["all"], "Minor")]
+         for c in sorted(m.chars.values(), key=lambda c: fold(c["name"])) if c["has_page"]],
+        ensure_ascii=False, separators=(",", ":")) + ";\n"
 
 
 def threads_block(P, cid):
@@ -349,7 +378,7 @@ def build_character(c):
             + '<h2 id="names">Names</h2>'
             + facts([("Shown as", esc(c["name"])), ("Also written", esc(aliases))])
             + (f'<h2 id="related">Exams and places in these scenes</h2><ul class="plain">{related}</ul>' if related else "")
-            + f'<p class="dl"><a href="{cid}.md" download>Download the full card (.md)</a></p>')
+            + f'<p class="dl"><a href="{P.u("download/index.html")}?char={cid}">Download this card</a></p>')
     state = "complete" if c["scenes"] and all(m.vol_state(v) == "complete" for v in c["volumes"]) else "partial"
     add(rel, h1=c["name"], body=body, trail=[("People", "people/index.html"), (c["name"], rel)],
         kicker=f"Character · {TIER.get(c['tier']['all'], 'Minor')} · {state}", lede=lead)
@@ -720,6 +749,7 @@ def main():
     m = model
     build_home()
     build_people_index()
+    build_download()
     for c in m.chars.values():
         if c["has_page"]:
             build_character(c)
@@ -736,7 +766,7 @@ def main():
     R.FILES["assets/search-index.js"] = search_index()
     vols = "window.VOLS=" + json.dumps([[v["ord"], v["label"], v["short"], v["id"]] for v in m.vols], ensure_ascii=False) + ";\n"
     R.FILES["assets/meta.js"] = vols + (ASSETS / "boot.js").read_text(encoding="utf-8")
-    for name in ("style.css", "app.js", "fx.js"):
+    for name in ("style.css", "app.js", "fx.js", "download.js"):
         R.FILES[f"assets/{name}"] = (ASSETS / name).read_text(encoding="utf-8")
     R.FILES["sw.js"] = service_worker({**PAGES, **R.FILES})
     if out.exists():

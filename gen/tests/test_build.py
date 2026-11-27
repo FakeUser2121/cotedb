@@ -90,6 +90,18 @@ class Build(unittest.TestCase):
             self.assertTrue(text.startswith(f"# {c['name']}\n"), f.relative_to(docs))
             self.assertIn("## Scenes\n", text, f.relative_to(docs))
 
+    def test_download_page_lists_every_character_with_a_card(self):
+        docs = ROOT / "docs"
+        if not docs.exists():
+            self.skipTest("docs/ not built yet")
+        page = (docs / "download/index.html").read_text(encoding="utf-8")
+        self.assertIn("assets/dl/people.js", page)
+        self.assertIn("assets/download.js", page)
+        data = (docs / "assets/dl/people.js").read_text(encoding="utf-8")
+        for c in MODEL.chars.values():
+            if c["has_page"]:
+                self.assertIn(f'["{c["id"]}"', data)
+
 
 if __name__ == "__main__":
     unittest.main()
